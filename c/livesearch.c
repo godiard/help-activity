@@ -86,6 +86,17 @@ void draw_results() {
   }
 }
 
+void search_redraw() {
+  clear();
+  move(0, 0);
+  needle[pos] = '\0';
+  addstr(needle);
+
+  draw_results();
+
+  refresh();
+}
+
 void maybe_draw_results() {
   struct timeval t;
   gettimeofday(&t, NULL);
@@ -101,17 +112,6 @@ void research() {
   nresults = 0;
   nodelay(stdscr, TRUE);
   search(&dump.index, needle, handle_result, handle_finish, true, true);
-}
-
-void search_redraw() {
-  clear();
-  move(0, 0);
-  needle[pos] = '\0';
-  addstr(needle);
-
-  draw_results();
-
-  refresh();
 }
 
 void draw_article() {
