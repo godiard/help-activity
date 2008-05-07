@@ -24,8 +24,7 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
     @staticmethod
     def send_article(s, title):
         s.send_response(200)
-        #s.send_header("Content-type", "text/html; charset=utf-8")
-        s.send_header("Content-type", "text/html")
+        s.send_header("Content-type", "text/html; charset=utf-8")
         s.end_headers()
 
         s.wfile.write("<html><head><title>%s</title></head>" % title)
@@ -50,7 +49,7 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
     @staticmethod
     def send_searchresult(s, title):
         s.send_response(200)
-        s.send_header("Content-type", "text/html")
+        s.send_header("Content-type", "text/html; charset=utf-8")
         s.end_headers()
 
         s.wfile.write("<html><head><title>Search Results for '%s'</title></head>" % title)
