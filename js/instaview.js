@@ -99,8 +99,8 @@ InstaView.conf =
 
 
 // get values from MediaWiki global variables (Cacycle)
-if (typeof(wgArticlePath != 'undefined')) { InstaView.conf.paths.articles = wgArticlePath.replace(/\$1/, ''); }
-if (typeof(wgContentLanguage != 'undefined')) { InstaView.conf.wiki.lang = wgContentLanguage; }
+if (typeof(wgArticlePath) != 'undefined') { InstaView.conf.paths.articles = wgArticlePath.replace(/\$1/, ''); }
+if (typeof(wgContentLanguage) != 'undefined') { InstaView.conf.wiki.lang = wgContentLanguage; }
 
 // options with default values or backreferences
 with (InstaView.conf) {
