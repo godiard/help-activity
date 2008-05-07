@@ -34,14 +34,14 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         instaview_src = open('../js/instaview.js').read()
         s.wfile.write("<script type='text/javascript'>%s</script>" % instaview_src)
 
-        article_text = wp.wp_load_article(title)
+        article_text = unicode(wp.wp_load_article(title), 'utf8')
 
         jstext = ''
         for l in article_text.split('\n'):
             jstext += re.escape(l) + '\\n\\\n'
 
         s.wfile.write("<script type='text/javascript'>");
-        s.wfile.write("var wikitext = \"%s\";" % jstext);
+        s.wfile.write("var wikitext = \"%s\";" % jstext.encode('utf8'));
         s.wfile.write("document.write(InstaView.convert(unescape(wikitext)));");
         s.wfile.write("</script>")
         
