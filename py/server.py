@@ -5,17 +5,18 @@
 #
 # TODO
 #
-# + Send content in the right charset.
-# + Find a better way to locate instaview.js.
+# - Send content in the right charset.
+# - Find a better way to locate instaview.js.
 # + Make a nice looking page template, like the library.
 # + Add a home page, like the library.
 # + Use a style sheet.
 # + Add a search box.
-# + Return actual search results.
+# - Return actual search results.
 # + Instead of 404, send to home page.
 # + Route non-cached and image links to schoolserver or wikipedia when available.
 #
 import sys
+import os
 import BaseHTTPServer
 import urllib
 import re
@@ -96,4 +97,8 @@ def run_server(port):
 
 if __name__ == '__main__':
     load_db(sys.argv[1])
+
+    #if os.fork():
+    #    sys.exit(0)
+        
     run_server(int(sys.argv[2]))
