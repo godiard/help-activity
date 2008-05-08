@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec python $SUGAR_BUNDLE_PATH/py/launcher.py

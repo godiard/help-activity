@@ -1,6 +1,8 @@
 #
 # Web server script for Wikiserver project.
 #
+# Usage: server.py <dbfile> <port>
+#
 # TODO
 #
 # + Send content in the right charset.
@@ -30,7 +32,7 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         s.wfile.write("<html><head><title>%s</title></head>" % title)
         s.wfile.write("<body>")
         
-        instaview_src = open('../js/instaview.js').read()
+        instaview_src = open('js/instaview.js').read()
         s.wfile.write("<script type='text/javascript'>%s</script>" % instaview_src)
 
         article_text = unicode(wp.wp_load_article(title), 'utf8')
@@ -75,13 +77,17 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         
         s.send_response(404)
 
-dbname = sys.argv[1]
+def load_db(dbname):
+    wp.wp_load_dump(
+        dbname + '.processed',
+        dbname + '.locate.db',
+        dbname + '.locate.prefixdb',
+        dbname + '.blocks.db')
 
-wp.wp_load_dump(
-    dbname + '.processed',
-    dbname + '.locate.db',
-    dbname + '.locate.prefixdb',
-    dbname + '.blocks.db')
+def run_server(port):
+    httpd = BaseHTTPServer.HTTPServer(('', port), WikiRequestHandler)
+    httpd.serve_forever()
 
-httpd = BaseHTTPServer.HTTPServer(('', 8000), WikiRequestHandler)
-httpd.serve_forever()
+if __name__ == '__main__':
+    load_db(sys.argv[1])
+    run_server(int(sys.argv[1]))
