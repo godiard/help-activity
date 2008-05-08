@@ -33,20 +33,52 @@ default_parser = 2
 
 class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
     
+    def strip_templates(self, wikitext):
+        """Recursively strips all {{{ }}} style templates from 'wikitext'."""
+        output = ''
+        nest_level = 0
+        for c in wikitext:
+            if c == '{':   nest_level += 1
+            elif c == '}': nest_level -= 1
+            elif nest_level <= 0: output += c
+        return output
+            
     def send_article(self, title):
+
+        # Retrieve article text, recursively following #redirects.
+        while True:
+            article_text = wp.wp_load_article(title)
+            m = re.match(r'^\s*\#redirect\s+\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
+            if not m: break
+            title = m.group(1)
+        article_text = unicode(article_text, 'utf8')
+        
+        # Remove any Wikitext templates as the JavaScript can't deal with these.
+        # In the future, these should be evaluated when the database is built.
+        article_text = self.strip_templates(article_text)
+
+        # Send HTTP header.
         self.send_response(200)
         self.send_header("Content-Type", "text/html; charset=utf-8")
         self.end_headers()
 
-        self.wfile.write("<html><head><title>%s</title></head>" % title)
+        # Write HTML header.
+        self.wfile.write("<html><head><title>%s</title>" % title)
+
+        # Embed CSS file.
+        css_src = open('js/monobook.css').read()
+        self.wfile.write("<style type='text/css' media='screen, projection'>%s</style>" % css_src)
+
+        self.wfile.write("</head>")
+        
+        # Write HTML body.
         self.wfile.write("<body>")
         
+        # Embed article source.
         parser_index = int(self.params.get('parser', default_parser))
         instaview_src = open(parsers[parser_index]).read()
         self.wfile.write("<script type='text/javascript'>%s</script>" % instaview_src)
-
-        article_text = unicode(wp.wp_load_article(title), 'utf8')
-
+        
         # Embed article text and call parser.
         jstext = ''
         for l in article_text.split('\n'):

@@ -52,9 +52,9 @@ InstaView.conf =
 	paths: {
 		articles: '/wiki/',
 		math: '/math/',
-		images: '',
+		images: '/images/',
 		images_fallback: 'http://upload.wikimedia.org/wikipedia/commons/',
-		magnify_icon: 'skins/common/images/magnify-clip.png'
+        magnify_icon: 'http://es.wikipedia.org/skins-1.5/common/images/magnify-clip.png'
 	},
  
 	locale: {

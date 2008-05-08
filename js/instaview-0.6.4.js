@@ -19,9 +19,9 @@ InstaView.conf =
         paths: {
                 articles: '/wiki/',
                 math: '/math/',
-                images: '',
+                images: '/images/',
                 images_fallback: 'http://upload.wikimedia.org/wikipedia/commons/',
-                magnify_icon: 'skins/common/images/magnify-clip.png'
+                magnify_icon: 'http://es.wikipedia.org/skins-1.5/common/images/magnify-clip.png'
         },
         
         locale: {
@@ -818,12 +818,12 @@ InstaView.convert = function(wiki)
 //**********************************
                         
                         // {{{ Variables }}} and {{{ Replaced | Variables }}}
-                        replace(/\{\{\{(.*?)(?:\|(.*?))?\}\}\}/g, this.replaceArguments).
+                        replace(/\{\{\{(.*?)(?:\|(.*?))?\}\}\}/g, f('')).
                         // {{ (Striped:)? Templates (| with_args )? }}
-                        replace(/\{\{([^\]]*?:)?(.*?)(?:\|(.*?))?\}\}/g, this.replaceTemplates).
+                        replace(/\{\{([^\]]*?:)?(.*?)(?:\|(.*?))?\}\}/g, f('')).
                         
 //**********************************    
-*/                      
+ */                      
                         // 2Do: Urlencode the article name in ''href'' attribute
                         // [[:Category:...]], [[:Image:...]], etc...
                         replace(RegExp('\\[\\[:((?:'+InstaView.conf.locale.category+'|'+InstaView.conf.locale.image+'|'+InstaView.conf.wiki.interwiki+'):.*?)\\]\\]','gi'), '<a href="'+InstaView.conf.paths.articles+'$1" title="$1">$1</a>').
