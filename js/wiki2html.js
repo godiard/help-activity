@@ -1,3 +1,8 @@
+function convert_wiki_to_html(wiki)
+{
+    return wiki2html(wiki);
+}
+
 /*
   @author: remy sharp / http://remysharp.com
   @url: http://remysharp.com/2008/04/01/wiki-to-html-using-javascript/
@@ -7,33 +12,13 @@
   Can extend String or be used stand alone - just change the flag at the top of the script.
 */
 
-(function () {
-    
-var extendString = true;
-
-if (extendString) {
-    String.prototype.wiki2html = wiki2html;
-    String.prototype.iswiki = iswiki;
-} else {
-    window.wiki2html = wiki2html;
-    window.iswiki = iswiki;
-}
-
 // utility function to check whether it's worth running through the wiki2html
 function iswiki(s) {
-    if (extendString) {
-        s = this;
-    }
-
     return !!(s.match(/^[\s{2} `#\*='{2}]/m));
 }
 
 // the regex beast...
 function wiki2html(s) {
-    if (extendString) {
-        s = this;
-    }
-    
     // lists need to be done using a function to allow for recusive calls
     function list(str) {
         return str.replace(/(?:(?:(?:^|\n)[\*#].*)+)/g, function (m) {  // (?=[\*#])
@@ -99,5 +84,3 @@ function wiki2html(s) {
         })
     ); 
 }
-    
-})();

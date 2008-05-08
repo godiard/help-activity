@@ -19,70 +19,85 @@ import sys
 import os
 import BaseHTTPServer
 import urllib
+import cgi
 import re
 import wp
 
+parsers = [
+    'js/wiki2html.js',
+    'js/instaview-0.6.1.js',
+    'js/instaview-0.6.4.js',
+]
+
+default_parser = 2
+
 class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
     
-    @staticmethod
-    def send_article(s, title):
-        s.send_response(200)
-        s.send_header("Content-type", "text/html; charset=utf-8")
-        s.end_headers()
+    def send_article(self, title):
+        self.send_response(200)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.end_headers()
 
-        s.wfile.write("<html><head><title>%s</title></head>" % title)
-        s.wfile.write("<body>")
+        self.wfile.write("<html><head><title>%s</title></head>" % title)
+        self.wfile.write("<body>")
         
-        instaview_src = open('js/instaview.js').read()
-        s.wfile.write("<script type='text/javascript'>%s</script>" % instaview_src)
+        parser_index = int(self.params.get('parser', default_parser))
+        instaview_src = open(parsers[parser_index]).read()
+        self.wfile.write("<script type='text/javascript'>%s</script>" % instaview_src)
 
         article_text = unicode(wp.wp_load_article(title), 'utf8')
 
+        # Embed article text and call parser.
         jstext = ''
         for l in article_text.split('\n'):
             jstext += re.escape(l) + '\\n\\\n'
 
-        s.wfile.write("<script type='text/javascript'>");
-        s.wfile.write("var wikitext = \"%s\";" % jstext.encode('utf8'));
-        s.wfile.write("document.write(InstaView.convert(unescape(wikitext)));");
-        s.wfile.write("</script>")
+        self.wfile.write("<script type='text/javascript'>");
+        self.wfile.write("var wikitext = \"%s\";" % jstext.encode('utf8'));
+        self.wfile.write("document.write(convert_wiki_to_html(unescape(wikitext)));");
+        self.wfile.write("</script>")
         
-        s.wfile.write("</body></html>")
+        self.wfile.write("</body></html>")
 
-    @staticmethod
-    def send_searchresult(s, title):
-        s.send_response(200)
-        s.send_header("Content-type", "text/html; charset=utf-8")
-        s.end_headers()
+    def send_searchresult(self, title):
+        self.send_response(200)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.end_headers()
 
-        s.wfile.write("<html><head><title>Search Results for '%s'</title></head>" % title)
-        s.wfile.write("<body>")
+        self.wfile.write("<html><head><title>Search Results for '%s'</title></head>" % title)
+        self.wfile.write("<body>")
         
-        s.wfile.write("<p>You asked for search term %s.</p>" % title)
+        self.wfile.write("<p>You asked for search term %s.</p>" % title)
 
         num_results = wp.wp_search(title)
         for i in xrange(0, num_results):
             result = unicode(wp.wp_result(i), 'utf8')
-            s.wfile.write('<a href="/wiki/%s">%s</a><br>' %
+            self.wfile.write('<a href="/wiki/%s">%s</a><br>' %
                           (result.encode('utf8'), result.encode('utf8')))
             
-        s.wfile.write("</body></html>")
+        self.wfile.write("</body></html>")
     
-    def do_GET(s):
-        real_path = s.path
+    def do_GET(self):
+        real_path = self.path
         real_path = urllib.url2pathname(real_path)
+
+        (real_path, sep, param_text) = real_path.partition('?')
+        self.params = {}
+        for p in param_text.split('&'):
+            (key, sep, value) = p.partition('=')
+            self.params[key] = value
 
         m = re.match(r'^/(wiki|raw)/(.+)$', real_path)
         if m:
-            WikiRequestHandler.send_article(s, m.group(2))
+            self.send_article(m.group(2))
             return
-        
-        m = re.match(r'^/search/(.+)$', real_path)
+
+        m = re.match(r'^/search$', real_path)
         if m:
-            WikiRequestHandler.send_searchresult(s, m.group(1))
+            self.send_searchresult(self.params.get('q', ''))
             return
         
-        s.send_response(404)
+        self.send_response(404)
 
 def load_db(dbname):
     wp.wp_load_dump(
