@@ -3,4 +3,4 @@ name = Wikipedia
 activity_version = 1
 service_name = org.laptop.WikipediaActivity
 icon = activity-web
-exec = launcher
+exec = sugar-activity activity.WikipediaActivity

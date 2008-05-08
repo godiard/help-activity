@@ -96,4 +96,4 @@ def run_server(port):
 
 if __name__ == '__main__':
     load_db(sys.argv[1])
-    run_server(int(sys.argv[1]))
+    run_server(int(sys.argv[2]))
