@@ -56,7 +56,13 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         s.wfile.write("<body>")
         
         s.wfile.write("<p>You asked for search term %s.</p>" % title)
-        
+
+        num_results = wp.wp_search(title)
+        for i in xrange(0, num_results):
+            result = unicode(wp.wp_result(i), 'utf8')
+            s.wfile.write('<a href="/wiki/%s">%s</a><br>' %
+                          (result.encode('utf8'), result.encode('utf8')))
+            
         s.wfile.write("</body></html>")
     
     def do_GET(s):
