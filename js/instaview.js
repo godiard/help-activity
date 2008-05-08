@@ -316,7 +316,7 @@ InstaView.convert = function(wiki)
 		if (tag.match(/\|/)) {
 			// manage nested links
 			var nesting = 0;
-			var last_attr;
+			var last_attr = '';
 			for (var i = tag.length-1; i > 0; i--) {
 				if (tag.charAt(i) == '|' && !nesting) {
 					last_attr = tag.substr(i+1);
