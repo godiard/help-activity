@@ -34,13 +34,23 @@ default_parser = 2
 class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
     
     def strip_templates(self, wikitext):
-        """Recursively strips all {{{ }}} style templates from 'wikitext'."""
+        """Recursively strips all {{ }} style templates from 'wikitext'."""
         output = ''
         nest_level = 0
-        for c in wikitext:
-            if c == '{':   nest_level += 1
-            elif c == '}': nest_level -= 1
-            elif nest_level <= 0: output += c
+        i = 0
+        while i < len(wikitext)-1:
+            if wikitext[i] == '{' and wikitext[i+1] == '{':
+                nest_level += 1
+                i += 2
+            elif wikitext[i] == '}' and wikitext[i+1] == '}':
+                nest_level -= 1
+                if nest_level < 0:
+                    nest_level = 0
+                i += 2
+            else:
+                if nest_level == 0:
+                    output += wikitext[i]
+                i += 1
         return output
             
     def send_article(self, title):
