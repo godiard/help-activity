@@ -9,6 +9,7 @@ AUTHORS
 cert8.db
 setup.py
 activity.py
+searchtoolbar.py
 activity/activity-wikipedia.svg
 activity/activity.info
 py/wp.py
@@ -16,7 +17,6 @@ py/_wp.so
 py/wp/wp.i
 py/wp/setup.py
 py/server.py
-js/instaview.js
 c/README
 c/AUTHORS
 c/NEWS
@@ -48,3 +48,7 @@ c/safe.c
 c/livesearch.c
 c/configure
 c/blocks.c
+js/wiki2html.js
+js/monobook.css
+js/instaview-0.6.1.js
+js/instaview-0.6.4.js
