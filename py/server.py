@@ -9,24 +9,25 @@
 # - Find a better way to locate instaview.js.
 # + Make a nice looking page template, like the library.
 # + Add a home page, like the library.
-# + Use a style sheet.
-# + Add a search box.
+# - Use a style sheet.
+# - Add a search box.
 # - Return actual search results.
 # + Instead of 404, send to home page.
-# + Route non-cached and image links to schoolserver or wikipedia when available.
+# - Route non-cached and image links to schoolserver or wikipedia when available.
 #
 import sys
 import os
 import BaseHTTPServer
+from SimpleHTTPServer import SimpleHTTPRequestHandler
 import urllib
 import cgi
 import re
 import wp
 
 parsers = [
-    'js/wiki2html.js',
-    'js/instaview-0.6.1.js',
-    'js/instaview-0.6.4.js',
+    '/js/wiki2html.js',
+    '/js/instaview-0.6.1.js',
+    '/js/instaview-0.6.4.js',
 ]
 
 default_parser = 2
@@ -37,7 +38,7 @@ class LinkStats:
     pagehits = 1
     pagetotal = 1
 
-class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
+class WikiRequestHandler(SimpleHTTPRequestHandler):
     @staticmethod
     def resolve_links(s, article_prelinks):
         # FIXME:  We do a substring search for each link to find out
@@ -99,7 +100,8 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
                         
         return article_prelinks
     
-    def strip_templates(self, wikitext):
+    @staticmethod
+    def strip_templates(wikitext):
         """Recursively strips all {{ }} style templates from 'wikitext'."""
         output = ''
         nest_level = 0
@@ -131,7 +133,7 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
 
         # Remove any Wikitext templates as the JavaScript can't deal with these.
         # In the future, these should be evaluated when the database is built.
-        article_text = self.strip_templates(article_text)
+        article_text = WikiRequestHandler.strip_templates(article_text)
 
         # Link resolution.
         article_postlinks = WikiRequestHandler.resolve_links(self, article_text)
@@ -146,8 +148,8 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         self.wfile.write("<html><head><title>%s</title>" % title)
 
         # Embed CSS file.
-        css_src = open('js/monobook.css').read()
-        self.wfile.write("<style type='text/css' media='screen, projection'>%s</style>" % css_src)
+        self.wfile.write("<style type='text/css' media='screen, projection'>"\
+                         "@import '/js/monobook.css';</style>")
 
         self.wfile.write("</head>")
 
@@ -156,8 +158,8 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
 
         # Embed article source.
         parser_index = int(self.params.get('parser', default_parser))
-        instaview_src = open(parsers[parser_index]).read()
-        self.wfile.write("<script type='text/javascript'>%s</script>" % instaview_src)
+        parser = parsers[parser_index]
+        self.wfile.write("<script type='text/javascript' src='%s'></script>" % parser)
 
         #self.wfile.write("Internal hits on this page: %d<br>" % LinkStats.pagehits)
         #self.wfile.write("Total links on this page: %d<br>" % LinkStats.pagetotal)
@@ -218,7 +220,8 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
             self.send_searchresult(self.params.get('q', ''))
             return
         
-        self.send_response(404)
+        # Pass through all other requests to SimpleHTTPServer.
+        SimpleHTTPRequestHandler.do_GET(self)
 
 def load_db(dbname):
     wp.wp_load_dump(
