@@ -57,6 +57,8 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
 
         # Retrieve article text, recursively following #redirects.
         while True:
+            # Capitalize the first letter of the article -- Trac #6991.
+            title = title[0].capitalize() + title[1:]
             article_text = wp.wp_load_article(title)
             m = re.match(r'^\s*\#redirect\s+\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
