@@ -85,6 +85,9 @@ a:active {
 a:hover {
 	text-decoration: underline;
 }
+a.offsite {
+        color: green;
+}
 a.stub {
 	color: #772233;
 }

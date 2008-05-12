@@ -31,7 +31,73 @@ parsers = [
 
 default_parser = 2
 
+class LinkStats:
+    allhits = 1
+    alltotal = 1
+    pagehits = 1
+    pagetotal = 1
+
 class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
+    @staticmethod
+    def resolve_links(s, article_prelinks):
+        # FIXME:  We do a substring search for each link to find out
+        # whether an exact match exists in the local archive; if so,
+        # we link internally.  We could probably save time with a 
+        # C-level function that returns yes/no for "Is this exact
+        # page title present in the index?"
+
+        LinkStats.pagehits = 1
+        LinkStats.pagetotal = 1
+
+        for match in re.finditer(r"\[\[(.*?)\]\]", article_prelinks):
+            if match:
+                link = match.group(1)
+                pipes = link.count("|")
+                toreplace = "[[" + link + "]]"
+
+                if pipes > 1:
+                    continue
+
+                # First, see if we have a [[foo|bar]]-style link.
+                pipematch = re.search(r"(.*?)\|(.*)", link)
+
+                if pipematch:
+                    prepipe  = pipematch.group(1)
+                    postpipe = pipematch.group(2)
+                    lc_prepipe = prepipe.lower()
+                    num_hits = wp.wp_search(lc_prepipe)
+
+                    if num_hits > 0 and wp.wp_result(0).lower() == lc_prepipe:
+                        # Exact match.  Internal link.
+                        print "prepipe match"
+                        LinkStats.allhits += 1
+                        LinkStats.alltotal += 1
+                        LinkStats.pagehits += 1
+                        LinkStats.pagetotal += 1
+                        article_prelinks = article_prelinks.replace(toreplace, "<a href='/wiki/%s'>%s</a>" % (prepipe, postpipe))
+                    else:
+                        # No match.  External link.  Use es.wikipedia.org.
+                        # FIXME:  Decide between es.w.o and schoolserver.
+                        print "no prepipe match"
+                        LinkStats.alltotal += 1
+                        LinkStats.pagetotal += 1
+                        article_prelinks = article_prelinks.replace(toreplace, "<a class='offsite' href='http://es.wikipedia.org/wiki/%s'>%s</a>" % (prepipe, postpipe))
+
+                else:
+                    # [[foo]]-style link.
+                    lc_link = link.lower()
+                    num_hits = wp.wp_search(lc_link)
+                    if num_hits > 0 and wp.wp_result(0).lower() == lc_link:
+                        LinkStats.allhits += 1
+                        LinkStats.alltotal += 1
+                        LinkStats.pagehits += 1
+                        LinkStats.pagetotal += 1
+                    else:
+                        article_prelinks = article_prelinks.replace(toreplace, "<a class='offsite' href='http://es.wikipedia.org/wiki/%s'>%s</a>" % (link, link))
+                        LinkStats.alltotal += 1
+                        LinkStats.pagetotal += 1
+                        
+        return article_prelinks
     
     def strip_templates(self, wikitext):
         """Recursively strips all {{ }} style templates from 'wikitext'."""
@@ -54,7 +120,6 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         return output
             
     def send_article(self, title):
-
         # Retrieve article text, recursively following #redirects.
         while True:
             # Capitalize the first letter of the article -- Trac #6991.
@@ -63,11 +128,14 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
             m = re.match(r'^\s*\#redirect\s+\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
             title = m.group(1)
-        article_text = unicode(article_text, 'utf8')
-        
+
         # Remove any Wikitext templates as the JavaScript can't deal with these.
         # In the future, these should be evaluated when the database is built.
         article_text = self.strip_templates(article_text)
+
+        # Link resolution.
+        article_postlinks = WikiRequestHandler.resolve_links(self, article_text)
+        article_text = unicode(article_postlinks, 'utf8')
 
         # Send HTTP header.
         self.send_response(200)
@@ -82,14 +150,23 @@ class WikiRequestHandler(BaseHTTPServer.BaseHTTPRequestHandler):
         self.wfile.write("<style type='text/css' media='screen, projection'>%s</style>" % css_src)
 
         self.wfile.write("</head>")
-        
+
         # Write HTML body.
         self.wfile.write("<body>")
-        
+
         # Embed article source.
         parser_index = int(self.params.get('parser', default_parser))
         instaview_src = open(parsers[parser_index]).read()
         self.wfile.write("<script type='text/javascript'>%s</script>" % instaview_src)
+
+        #self.wfile.write("Internal hits on this page: %d<br>" % LinkStats.pagehits)
+        #self.wfile.write("Total links on this page: %d<br>" % LinkStats.pagetotal)
+        #page_percent = ((1.0 * LinkStats.pagehits / LinkStats.pagetotal) * 100)
+        #self.wfile.write("Percentage: %.2f<br>" % page_percent)
+        #self.wfile.write("Internal hits so far: %d<br>" % LinkStats.allhits)
+        #self.wfile.write("Total links so far: %d<br>" % LinkStats.alltotal)
+        #total_percent = ((1.0 * LinkStats.allhits / LinkStats.alltotal) * 100)
+        #self.wfile.write("Percentage: %.2f<br>" % total_percent)        
         
         # Embed article text and call parser.
         jstext = ''
