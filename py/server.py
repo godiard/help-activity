@@ -70,7 +70,6 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
                     if num_hits > 0 and wp.wp_result(0).lower() == lc_prepipe:
                         # Exact match.  Internal link.
-                        print "prepipe match"
                         LinkStats.allhits += 1
                         LinkStats.alltotal += 1
                         LinkStats.pagehits += 1
@@ -79,7 +78,6 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                     else:
                         # No match.  External link.  Use es.wikipedia.org.
                         # FIXME:  Decide between es.w.o and schoolserver.
-                        print "no prepipe match"
                         LinkStats.alltotal += 1
                         LinkStats.pagetotal += 1
                         article_prelinks = article_prelinks.replace(toreplace, "<a class='offsite' href='http://es.wikipedia.org/wiki/%s'>%s</a>" % (prepipe, postpipe))
