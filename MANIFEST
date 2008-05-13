@@ -38,7 +38,6 @@ c/searcher.c
 c/configure.ac
 c/indexer.i
 c/aclocal.m4
-c/safe.o
 c/ternary.h
 c/debug.h
 c/indexer.c
@@ -52,3 +51,12 @@ js/wiki2html.js
 js/monobook.css
 js/instaview-0.6.1.js
 js/instaview-0.6.4.js
+static/society.png
+static/index.html
+static/phys_science.png
+static/math.png
+static/biology.png
+static/socialscience.png
+static/earth.png
+static/humanities.png
+static/technology.png

@@ -126,7 +126,13 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         while True:
             # Capitalize the first letter of the article -- Trac #6991.
             title = title[0].capitalize() + title[1:]
+            # Replace underscores with spaces in title.
+            title = title.replace("_", " ")
             article_text = wp.wp_load_article(title)
+        
+            # To see unmodified article_text, uncomment here.
+            # print article_text
+
             m = re.match(r'^\s*\#redirect\s+\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
             title = m.group(1)
@@ -149,7 +155,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
         # Embed CSS file.
         self.wfile.write("<style type='text/css' media='screen, projection'>"\
-                         "@import '/js/monobook.css';</style>")
+                         "@import '/static/monobook.css';</style>")
 
         self.wfile.write("</head>")
 

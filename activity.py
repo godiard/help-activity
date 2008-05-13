@@ -32,7 +32,7 @@ from searchtoolbar import SearchToolbar
 # Default settings.
 HTTP_PORT = '8000'
 WIKIDB = '40ormore.xml.bz2'
-HOME_PAGE = '/wiki/Peru'
+HOME_PAGE = '/static/index.html'
 
 # Activity class, extends WebActivity.
 class WikipediaActivity(webactivity.WebActivity):
@@ -56,4 +56,4 @@ class WikipediaActivity(webactivity.WebActivity):
     def kill_server(self):
         print "Stopping server...\n"
         os.kill(self.server_pid, signal.SIGHUP)
-        
+
