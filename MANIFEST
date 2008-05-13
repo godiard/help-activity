@@ -48,7 +48,6 @@ c/livesearch.c
 c/configure
 c/blocks.c
 js/wiki2html.js
-js/monobook.css
 js/instaview-0.6.1.js
 js/instaview-0.6.4.js
 static/society.png
@@ -60,3 +59,4 @@ static/socialscience.png
 static/earth.png
 static/humanities.png
 static/technology.png
+static/monobook.css
