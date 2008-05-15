@@ -61,8 +61,11 @@ def download_and_process(imgdict, base_dir, thumb_width):
     for wikiname in imgdict:
         filename = canonicalize_filename(wikiname)
         d = download_image(filename, base_dir)
-        if d:
-            print "Downloaded " + d
+        vector = filename[-3:].upper() == 'SVG'
+        if d and vector:
+            print "Downloaded vector image " + d
+        if d and not vector:
+            print "Downloaded raster image" + d
             width = None
             height= None
             for p in imgdict[wikiname]:
