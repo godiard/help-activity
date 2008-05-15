@@ -57,7 +57,7 @@ InstaView.nestlev = 0;
 InstaView.br = '\n';
 
 //Regular Expression for wiki images processing
-InstaView.BLOCK_IMAGE = new RegExp('^\\[\\[Image|'+InstaView.conf.locale.image+':.*?\\|.*?(?:frame|thumbnail|thumb|none|right|left|center)', 'i');
+InstaView.BLOCK_IMAGE = new RegExp('^\\[\\[Image\\|'+InstaView.conf.locale.image+':.*?\\|.*?(?:frame|thumbnail|thumb|none|right|left|center)', 'i');
 
 InstaView.el = function(aID)
 { 
