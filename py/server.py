@@ -131,6 +131,13 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             # To see unmodified article_text, uncomment here.
             # print article_text
 
+            # Redirect if the article text is empty (e.g. an image link)
+            if article_text == "":
+                self.send_response(301)
+                self.send_header("Location", 
+                                 "http://es.wikipedia.org/wiki/" + title)
+                self.end_headers()
+
             m = re.match(r'^\s*\#redirect\s+\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
             title = m.group(1)
