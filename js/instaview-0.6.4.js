@@ -36,7 +36,7 @@ InstaView.conf =
 with (InstaView.conf) {
         user.name = user.name || 'Wikipedian'
         user.signature = '[['+locale.user+':'+user.name+'|'+user.name+']]'
-        paths.images = 'http://upload.wikimedia.org/wikipedia/' + wiki.lang + '/'
+        paths.images = '/images/'
 }
 //reset internal counters
 

@@ -203,7 +203,19 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                           (result.encode('utf8'), result.encode('utf8')))
             
         self.wfile.write("</body></html>")
-    
+
+    def send_image(self, path):
+        if os.path.exists('images/' + path):
+            # If image exists locally, serve it as normal.
+            SimpleHTTPRequestHandler.do_GET(self)
+        else:
+            # If not, redirect to wikimedia.
+            self.send_response(301)
+            self.send_header("Location", 
+                             "http://upload.wikimedia.org/wikipedia/commons/" 
+                             + path)
+            self.end_headers()
+
     def do_GET(self):
         real_path = self.path
         real_path = urllib.url2pathname(real_path)
@@ -222,6 +234,11 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         m = re.match(r'^/search$', real_path)
         if m:
             self.send_searchresult(self.params.get('q', ''))
+            return
+
+        m = re.match(r'^/images/(.+)$', real_path)
+        if m:
+            self.send_image(m.group(1))
             return
         
         # Pass through all other requests to SimpleHTTPServer.
