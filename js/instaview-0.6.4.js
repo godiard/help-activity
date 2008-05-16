@@ -57,7 +57,7 @@ InstaView.nestlev = 0;
 InstaView.br = '\n';
 
 //Regular Expression for wiki images processing
-InstaView.BLOCK_IMAGE = new RegExp('^\\[\\[Image\\|'+InstaView.conf.locale.image+':.*?\\|.*?(?:frame|thumbnail|thumb|none|right|left|center)', 'i');
+InstaView.BLOCK_IMAGE = new RegExp('^\\[\\[Image:|'+InstaView.conf.locale.image+':.*?\\|.*?(?:frame|thumbnail|thumb|none|right|left|center)', 'i');
 
 InstaView.el = function(aID)
 { 
@@ -615,7 +615,7 @@ InstaView.convert = function(wiki)
         function parse_image(str)
         {
                 // get what's in between "[[Image:" and "]]"
-                var tag = str.substring(InstaView.conf.locale.image.length + 3, str.length - 2);
+                var tag = str.substring(str.search(":") + 1, str.length - 2);
                 
                 var width;
                 var attr = [], filename, caption = '';
