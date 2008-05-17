@@ -3,18 +3,6 @@
 #
 # Usage: server.py <dbfile> <port>
 #
-# TODO
-#
-# - Send content in the right charset.
-# - Find a better way to locate instaview.js.
-# + Make a nice looking page template, like the library.
-# + Add a home page, like the library.
-# - Use a style sheet.
-# - Add a search box.
-# - Return actual search results.
-# + Instead of 404, send to home page.
-# - Route non-cached and image links to schoolserver or wikipedia when available.
-#
 import sys
 import os
 import BaseHTTPServer
@@ -24,13 +12,34 @@ import cgi
 import re
 import wp
 
+from mwlib.htmlwriter import HTMLWriter
+from mwlib import uparser
+
+class MWLibDB:
+    """Interface from the Wikiserver database to MWLib."""
+    def __init__(self):
+        pass
+
+    def getRawArticle(self, title):
+        # Capitalize the first letter of the article -- Trac #6991.
+        title = title[0].capitalize() + title[1:]
+        # Replace underscores with spaces in title.
+        title = title.replace("_", " ")
+        article_text =  wp.wp_load_article(title.encode('utf8'))
+        article_text = unicode(article_text, 'utf8')
+        return article_text
+
+    def getTemplate(self, title, followRedirects=False):
+        return self.getRawArticle(title)
+
 parsers = [
     '/js/wiki2html.js',
     '/js/instaview-0.6.1.js',
     '/js/instaview-0.6.4.js',
+    'mwlib',
 ]
 
-default_parser = 2
+default_parser = 3
 
 class LinkStats:
     allhits = 1
@@ -118,8 +127,8 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                     output += wikitext[i]
                 i += 1
         return output
-            
-    def send_article(self, title):
+
+    def get_wikitext(self, title):
         # Retrieve article text, recursively following #redirects.
         while True:
             # Capitalize the first letter of the article -- Trac #6991.
@@ -131,45 +140,12 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             # To see unmodified article_text, uncomment here.
             # print article_text
 
-            # Redirect if the article text is empty (e.g. an image link)
-            if article_text == "":
-                self.send_response(301)
-                self.send_header("Location", 
-                                 "http://es.wikipedia.org/wiki/" + title)
-                self.end_headers()
-
             m = re.match(r'^\s*\#redirect\s+\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
             title = m.group(1)
-
-        # Remove any Wikitext templates as the JavaScript can't deal with these.
-        # In the future, these should be evaluated when the database is built.
-        article_text = WikiRequestHandler.strip_templates(article_text)
-
-        # Link resolution.
-        article_postlinks = WikiRequestHandler.resolve_links(self, article_text)
-        article_text = unicode(article_postlinks, 'utf8')
-
-        # Send HTTP header.
-        self.send_response(200)
-        self.send_header("Content-Type", "text/html; charset=utf-8")
-        self.end_headers()
-
-        # Write HTML header.
-        self.wfile.write("<html><head><title>%s</title>" % title)
-
-        # Embed CSS file.
-        self.wfile.write("<style type='text/css' media='screen, projection'>"\
-                         "@import '/static/monobook.css';</style>")
-
-        self.wfile.write("</head>")
-
-        # Write HTML body.
-        self.wfile.write("<body>")
-
-        # Embed article source.
-        parser_index = int(self.params.get('parser', default_parser))
-        parser = parsers[parser_index]
+        return article_text
+    
+    def send_wiki_html_js(self, article_text, parser):
         self.wfile.write("<script type='text/javascript' src='%s'></script>" % parser)
 
         #self.wfile.write("Internal hits on this page: %d<br>" % LinkStats.pagehits)
@@ -181,7 +157,15 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         #total_percent = ((1.0 * LinkStats.allhits / LinkStats.alltotal) * 100)
         #self.wfile.write("Percentage: %.2f<br>" % total_percent)        
         
+        # Link resolution.
+        article_text = WikiRequestHandler.resolve_links(self, article_text)
+
+        # Remove any Wikitext templates as the JavaScript can't deal with these.
+        # In the future, these should be evaluated when the database is built.
+        article_text = WikiRequestHandler.strip_templates(article_text)
+        
         # Embed article text and call parser.
+        article_text = unicode(article_text, 'utf8')
         jstext = ''
         for l in article_text.split('\n'):
             jstext += re.escape(l) + '\\n\\\n'
@@ -190,9 +174,56 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         self.wfile.write("var wikitext = \"%s\";" % jstext.encode('utf8'));
         self.wfile.write("document.write(convert_wiki_to_html(unescape(wikitext)));");
         self.wfile.write("</script>")
+
+    def send_wiki_html_mwlib(self, title, article_text):
+        title = unicode(title, 'utf8')
+        article_text = unicode(article_text, 'utf8')
+        
+        db = MWLibDB()
+        parser = uparser.parseString(title, raw=article_text, wikidb=db)
+        
+        writer = HTMLWriter(self.wfile)
+        writer.write(parser)
+
+    def send_article(self, title):
+        article_text = self.get_wikitext(title)
+        
+        # Redirect to Wikipedia if the article text is empty (e.g. an image link)
+        if article_text == "":
+            self.send_response(301)
+            self.send_header("Location", 
+                             "http://es.wikipedia.org/wiki/" + title)
+            self.end_headers()
+            return
+    
+        # Send HTTP header.
+        self.send_response(200)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.end_headers()
+    
+        # Write HTML header.
+        self.wfile.write("<html><head><title>%s</title>" % title)
+    
+        # Embed CSS file.
+        self.wfile.write("<style type='text/css' media='screen, projection'>"\
+                         "@import '/static/monobook.css';</style>")
+        
+        self.wfile.write("</head>")
+        
+        # Write HTML body.
+        self.wfile.write("<body>")
+        
+        # Convert wikitext to HTML and send.
+        parser_index = int(self.params.get('parser', default_parser))
+        parser = parsers[parser_index]
+        
+        if parser == 'mwlib':
+            self.send_wiki_html_mwlib(title, article_text)
+        else:
+            self.send_wiki_html_js(article_text, parser)
         
         self.wfile.write("</body></html>")
-
+    
     def send_searchresult(self, title):
         self.send_response(200)
         self.send_header("Content-Type", "text/html; charset=utf-8")
