@@ -12,10 +12,25 @@ import cgi
 import re
 import wp
 
-from mwlib.htmlwriter import HTMLWriter
+import mwlib.htmlwriter
 from mwlib import uparser
 
-class MWLibDB:
+parsers = [
+    '/js/wiki2html.js',
+    '/js/instaview-0.6.1.js',
+    '/js/instaview-0.6.4.js',
+    'mwlib',
+]
+
+default_parser = 3
+
+class LinkStats:
+    allhits = 1
+    alltotal = 1
+    pagehits = 1
+    pagetotal = 1
+
+class WPWikiDB:
     """Interface from the Wikiserver database to MWLib."""
     def __init__(self):
         pass
@@ -32,20 +47,52 @@ class MWLibDB:
     def getTemplate(self, title, followRedirects=False):
         return self.getRawArticle(title)
 
-parsers = [
-    '/js/wiki2html.js',
-    '/js/instaview-0.6.1.js',
-    '/js/instaview-0.6.4.js',
-    'mwlib',
-]
+class HTMLWriter(mwlib.htmlwriter.HTMLWriter):
+    def __init__(self, wfile):
+        mwlib.htmlwriter.HTMLWriter.__init__(self, wfile)
 
-default_parser = 3
+    def writeLink(self, obj):
+        if obj.target is None:
+            return
 
-class LinkStats:
-    allhits = 1
-    alltotal = 1
-    pagehits = 1
-    pagetotal = 1
+        article = obj.target
+        
+        # Parser appending '/' characters to link targets for some reason.
+        article = article.rstrip('/')
+        
+        lc_article = article.lower()
+        
+        num_hits = wp.wp_search(lc_article.encode('utf8'))
+
+        if num_hits > 0 and wp.wp_result(0).lower() == lc_article:
+            # Exact match.  Internal link.
+            LinkStats.allhits += 1
+            LinkStats.alltotal += 1
+            LinkStats.pagehits += 1
+            LinkStats.pagetotal += 1
+            link_attr = ''
+            link_baseurl = '/wiki/'
+        else:
+            # No match.  External link.  Use es.wikipedia.org.
+            # FIXME:  Decide between es.w.o and schoolserver.
+            LinkStats.alltotal += 1
+            LinkStats.pagetotal += 1
+            link_attr = "class='offsite' "
+            link_baseurl = "http://es.wikipedia.org/wiki/"
+
+        parts = article.encode('utf-8').split('#')
+        parts[0] = parts[0].replace(" ", "_")
+        url = ("#".join([urllib.quote(x) for x in parts]))
+
+        self.out.write("<a %s href='%s%s'>" % (link_attr, link_baseurl, url))
+
+        if obj.children:
+            for x in obj.children:
+                self.write(x)
+        else:
+            self._write(obj.target)
+        
+        self.out.write("</a>")
 
 class WikiRequestHandler(SimpleHTTPRequestHandler):
     @staticmethod
@@ -179,7 +226,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         title = unicode(title, 'utf8')
         article_text = unicode(article_text, 'utf8')
         
-        db = MWLibDB()
+        db = WPWikiDB()
         parser = uparser.parseString(title, raw=article_text, wikidb=db)
         
         writer = HTMLWriter(self.wfile)

@@ -246,7 +246,7 @@ class Link(Node):
         linktype, pic = pic.split(':', 1)
         linktype = linktype.lower().strip(" :")
         
-        if linktype in ("category", "kategorie"):
+        if linktype in self.categoryKeywords:
             self.__class__ = CategoryLink
             self.target = pic.strip()
             return
@@ -263,7 +263,7 @@ class Link(Node):
             return
             
         
-        if linktype not in ("bild", "image"):
+        if linktype not in self.imageKeywords:
             # assume a LangLink
             log.info("Unknown linktype:", repr(linktype))
             if len(linktype)==2:
