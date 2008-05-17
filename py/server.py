@@ -63,7 +63,10 @@ class WPImageDB:
         return "images/%s" % name
 
     def getURL(self, name, size=None):
-        return "/images/%s" % self.hashpath(name)
+        if os.path.exists('images/' + name):
+            return '/images/' + name
+        else:
+            return 'http://upload.wikimedia.org/wikipedia/commons/' + self.hashpath(name)
         
 class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
     """Customizes HTML output from mwlib."""
