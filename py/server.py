@@ -60,14 +60,16 @@ class WPImageDB:
         return "/".join([d[0], d[:2], name])
     
     def getPath(self, name, size=None):
-        return "images/%s" % name
+        hashed_name = self.hashpath(name)
+        return 'images/%s' % hashed_name
 
     def getURL(self, name, size=None):
-        if os.path.exists('images/' + name):
-            return '/images/' + self.hashpath(name)
+        hashed_name = self.hashpath(name)
+        if os.path.exists('images/' + hashed_name):
+            return '/images/' + hashed_name
         else:
-            return 'http://upload.wikimedia.org/wikipedia/commons/' + self.hashpath(name)
-        
+            return 'http://upload.wikimedia.org/wikipedia/commons/' + hashed_name
+
 class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
     """Customizes HTML output from mwlib."""
     
