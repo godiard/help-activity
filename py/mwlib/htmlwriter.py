@@ -174,7 +174,7 @@ class HTMLWriter(object):
         else:
             self.out.write(obj.caption)
             
-        self.out.write('&nbsp;<img src="/resources/outgoing_link.gif" /></a>')
+        self.out.write('&nbsp;<img src="/static/outgoing_link.gif" /></a>')
 
     def writeNamedURL(self, obj):
         self.out.write('<a href="%s" class="hastooltip" ttid="externallink">' % obj.caption)
@@ -186,7 +186,7 @@ class HTMLWriter(object):
             self.namedLinkCount += 1
             self.out.write(name)
                         
-        self.out.write('&nbsp;<img src="/resources/outgoing_link.gif" /></a>')
+        self.out.write('&nbsp;<img src="/static/outgoing_link.gif" /></a>')
 
         
     def writeParagraph(self, obj):
@@ -265,25 +265,27 @@ class HTMLWriter(object):
         #if not width:
         #    width = 400  # what could be a sensible default if no width is given? maybe better 0?
 
+        # WTB: Modified so getPath returns tuple of url, local path (which can be None).
         if width:
-            path = self.images.getPath(obj.target, size=max(width, height))
+            url, path = self.images.getPath(obj.target, size=max(width, height))
         else:
-            path = self.images.getPath(obj.target)
+            url, path = self.images.getPath(obj.target)
 
-        if path is None:
+        if url is None:
             return
 
         if isinstance(path, str):
             path = unicode(path, 'utf8')
-        targetsrc = '/images/%s' % path
-        
-        
+
         if self.imglevel==0:
             self.imglevel += 1
 
+            # WTB: Added the ability to not specify width & height since images may not be found locally.
+            # This may have to be redone eventually, perhaps we need a database of image dimensions,
+            # but I doubt it.  Besides, more hardcoded pathnames in 'getimg'?
             try:
                 def getimg():
-                    return Image.open(os.path.join(os.path.expanduser("~/images"), path))
+                    return Image.open(path)
                 img = None
                 
                 if not width:
@@ -298,18 +300,32 @@ class HTMLWriter(object):
                     size = img.size
                     height = size[1]*width/size[0]
             except IOError, err:
-                self.imglevel -= 1
                 log.warn("Image.open failed:", err, "path=", repr(path))
-                return
+                # WTB: Removed following return as images will not always be found locally.
+                #self.imglevel -= 1
+                #return
+
+            attr = ''
+            attr_css = ''
+            
+            if width:
+                attr += "width='%d' " % width
+                attr_css += "width:%dpx " % width
+                
+            if height:
+                attr += "height='%d' " % height
+                # WTB: Note- height not applied to CSS.
 
             if obj.isInline():
-                self.out.write('<img src="%s" width="%s" height="%s" />' % (targetsrc, width, height))
+                self.out.write('<img src="%s" %s/>' % (url, attr))
             else:
+                # WTB: This looked like a mistake to me, it was modifying obj.align instead of align.
+                # This function should not modify obj at all.
                 align = obj.align
-                if obj.thumb == True and not obj.align:
-                    obj.align= "clear right"
-                self.out.write('''<div  class="bbotstyle image %s" style="width:%spx">'''% (obj.align, width))
-                self.out.write('<img src="%s" width="%s" height="%s" />' % (targetsrc, width, height))
+                if obj.thumb == True and not align:
+                    align = "clear right"
+                self.out.write('''<div  class="bbotstyle image %s" style="%s">'''% (align, attr_css))
+                self.out.write('<img src="%s" %s/>' % (url, attr))
                 
                 self.out.write('<span class="imagecaption">')
                 for x in obj.children:
@@ -317,7 +333,7 @@ class HTMLWriter(object):
                 self.out.write('</span></div>')
             self.imglevel -= 1
         else:
-            self.out.write('<a href="%s">' % targetsrc)
+            self.out.write('<a href="%s">' % url)
             for x in obj.children:
                 self.write(x)
             self.out.write('</a>')

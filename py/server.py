@@ -31,7 +31,7 @@ class LinkStats:
     pagetotal = 1
 
 class WPWikiDB:
-    """Interface from the Wikiserver database to MWLib."""
+    """Retrieves article contents for mwlib."""
     def __init__(self):
         pass
 
@@ -47,9 +47,14 @@ class WPWikiDB:
     def getTemplate(self, title, followRedirects=False):
         return self.getRawArticle(title)
 
-class HTMLWriter(mwlib.htmlwriter.HTMLWriter):
-    def __init__(self, wfile):
-        mwlib.htmlwriter.HTMLWriter.__init__(self, wfile)
+class WPImageDB:
+    """Retrieves images for mwlib."""
+    def getPath(self, name, size=None):
+        return ("/images/%s" % name, "images/%s" % name)
+
+class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
+    def __init__(self, wfile, images=None, math_renderer=None):
+        mwlib.htmlwriter.HTMLWriter.__init__(self, wfile, images, math_renderer)
 
     def writeLink(self, obj):
         if obj.target is None:
@@ -190,6 +195,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             m = re.match(r'^\s*\#redirect\s+\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
             title = m.group(1)
+            
         return article_text
     
     def send_wiki_html_js(self, article_text, parser):
@@ -226,10 +232,12 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         title = unicode(title, 'utf8')
         article_text = unicode(article_text, 'utf8')
         
-        db = WPWikiDB()
-        parser = uparser.parseString(title, raw=article_text, wikidb=db)
+        wikidb = WPWikiDB()
+        imagedb = WPImageDB()
         
-        writer = HTMLWriter(self.wfile)
+        parser = uparser.parseString(title, raw=article_text, wikidb=wikidb)
+        
+        writer = WPHTMLWriter(self.wfile, images=imagedb)
         writer.write(parser)
 
     def send_article(self, title):
@@ -277,15 +285,25 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         self.end_headers()
 
         self.wfile.write("<html><head><title>Search Results for '%s'</title></head>" % title)
+
+        # Embed CSS file.
+        self.wfile.write("<style type='text/css' media='screen, projection'>"\
+                         "@import '/static/monobook.css';</style>")
+
+        self.wfile.write("</head>")
+
         self.wfile.write("<body>")
         
-        self.wfile.write("<p>You asked for search term %s.</p>" % title)
+        self.wfile.write("<p>Search Results for '%s'.</p>" % title)
+        self.wfile.write("<ul>")
 
         num_results = wp.wp_search(title)
         for i in xrange(0, num_results):
             result = unicode(wp.wp_result(i), 'utf8')
-            self.wfile.write('<a href="/wiki/%s">%s</a><br>' %
+            self.wfile.write('<li><a href="/wiki/%s">%s</a></li>' %
                           (result.encode('utf8'), result.encode('utf8')))
+
+        self.wfile.write("</ul>")
             
         self.wfile.write("</body></html>")
 
@@ -295,11 +313,11 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             SimpleHTTPRequestHandler.do_GET(self)
         else:
             # If not, redirect to wikimedia.
+            redirect_url = "http://upload.wikimedia.org/wikipedia/commons/" + path
             self.send_response(301)
-            self.send_header("Location", 
-                             "http://upload.wikimedia.org/wikipedia/commons/" 
-                             + path)
+            self.send_header("Location", redirect_url)
             self.end_headers()
+            print "301 REDIRECT to '%s'" % redirect_url
 
     def do_GET(self):
         real_path = self.path
@@ -343,6 +361,8 @@ def run_server(port):
 if __name__ == '__main__':
     load_db(sys.argv[1])
 
+    # This is an attempt to work around a race condition where Browse starts up before
+    # the server has loaded the index.  Not working yet, though.
     #if os.fork():
     #    sys.exit(0)
         
