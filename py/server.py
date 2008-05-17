@@ -64,7 +64,7 @@ class WPImageDB:
 
     def getURL(self, name, size=None):
         if os.path.exists('images/' + name):
-            return '/images/' + name
+            return '/images/' + self.hashpath(name)
         else:
             return 'http://upload.wikimedia.org/wikipedia/commons/' + self.hashpath(name)
         
