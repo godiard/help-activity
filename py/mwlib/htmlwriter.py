@@ -265,12 +265,13 @@ class HTMLWriter(object):
         #if not width:
         #    width = 400  # what could be a sensible default if no width is given? maybe better 0?
 
-        # WTB: Modified so getPath returns tuple of url, local path (which can be None).
         if width:
-            url, path = self.images.getPath(obj.target, size=max(width, height))
+            path = self.images.getPath(obj.target, size=max(width, height))
+            url = self.images.getURL(obj.target, size=max(width, height))
         else:
-            url, path = self.images.getPath(obj.target)
-
+            path = self.images.getPath(obj.target)
+            url = self.images.getURL(obj.target)
+            
         if url is None:
             return
 

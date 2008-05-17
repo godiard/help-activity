@@ -12,6 +12,11 @@ import cgi
 import re
 import wp
 
+try:
+    from hashlib import md5
+except ImportError:
+    from md5 import md5
+
 import mwlib.htmlwriter
 from mwlib import uparser
 
@@ -32,8 +37,6 @@ class LinkStats:
 
 class WPWikiDB:
     """Retrieves article contents for mwlib."""
-    def __init__(self):
-        pass
 
     def getRawArticle(self, title):
         # Capitalize the first letter of the article -- Trac #6991.
@@ -49,10 +52,22 @@ class WPWikiDB:
 
 class WPImageDB:
     """Retrieves images for mwlib."""
+    
+    def hashpath(self, name):
+        name = name.replace(' ', '_')
+        name = name[:1].upper()+name[1:]
+        d = md5(name.encode('utf-8')).hexdigest()
+        return "/".join([d[0], d[:2], name])
+    
     def getPath(self, name, size=None):
-        return ("/images/%s" % name, "images/%s" % name)
+        return "images/%s" % name
 
+    def getURL(self, name, size=None):
+        return "/images/%s" % self.hashpath(name)
+        
 class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
+    """Customizes HTML output from mwlib."""
+    
     def __init__(self, wfile, images=None, math_renderer=None):
         mwlib.htmlwriter.HTMLWriter.__init__(self, wfile, images, math_renderer)
 
