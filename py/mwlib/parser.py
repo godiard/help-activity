@@ -273,14 +273,15 @@ class Link(Node):
         
         # pic == "Wappen_von_Budenheim.png"
         
-        try:
-            prefix, suffix = pic.rsplit('.', 1)
-        except ValueError:
-            return
+        # WTB: See es.wikipedia.org/wiki/Provincia_de_Lima
+        #try:
+        #    prefix, suffix = pic.rsplit('.', 1)
+        #except ValueError:
+        #    return
+        #if suffix.lower() in ['jpg', 'jpeg', 'gif', 'png', 'svg']:
 
-        if suffix.lower() in ['jpg', 'jpeg', 'gif', 'png', 'svg']:
-            self.__class__ = ImageLink
-            self.target = pic.strip()
+        self.__class__ = ImageLink
+        self.target = pic.strip()
 
 
 
@@ -314,6 +315,7 @@ class Link(Node):
                 continue
 
             if x == 'frame' or x=='framed' or x=='enframed':
+                self.frame = True
                 del self.children[idx]
                 continue
             
@@ -350,6 +352,7 @@ class ImageLink(Link):
     height = None
     align = ''
     thumb = False
+    frame = False
     
     def isInline(self):
         return not bool(self.align or self.thumb)

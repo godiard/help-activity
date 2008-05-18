@@ -48,13 +48,15 @@ class WPWikiDB:
             # Replace underscores with spaces in title.
             title = title.replace("_", " ")
             article_text = wp.wp_load_article(title.encode('utf8'))
-        
+            #article_text = unicode(article_text, 'utf8')
+
             # To see unmodified article_text, uncomment here.
             # print article_text
 
             m = re.match(r'^\s*\#?redirect\s*\:?\s*\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
-            title = m.group(1)
+            print repr(article_text)
+            title = unicode(m.group(1), 'utf8')
 
         # WTB: Stripping whitespace improves template expansion.
         # TODO: Where is it coming from?
@@ -161,36 +163,80 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
         if self.imglevel==0:
             self.imglevel += 1
 
-            attr = ''
-            attr_css = ''
+            align = obj.align
+            thumb = obj.thumb
+            frame = obj.frame
+            caption = obj.caption
             
-            if width:
-                attr += 'width="%d" ' % width
-                attr_css += 'width:%dpx ' % width
-               
-            if height:
-                attr += 'height="%d" ' % height
-                attr_css += 'height:%dpx ' % height
-
             if re.match(r'.*\.svg$', url, re.IGNORECASE):
                 tag = 'object data'
             else:
                 tag = 'img src'
+            
+            print "writeImageLink url=%s frame=%s thumb=%s align=%s caption=%s width=%s" % \
+                (url, frame, thumb, align, caption, width)
+            
+            attr = ''
+            if width:
+                attr += 'width="%d" ' % width
+            
+            img = '<%s="%s" %s longdesc="%s" %s">' % (tag, url.encode('utf8'), caption, caption, attr);
+            
+            if thumb:
+                frame = True
+            
+            center = False
+            if align == 'center':
+                center = True
+                align = None
                 
-            if obj.isInline():
-                self.out.write('<%s="%s" %s/>' % \
-                    (tag.encode("utf8"), url.encode("utf8"), attr.encode("utf8")))
+            if center:
+                self.out.write('<div class="center">');
+
+            if frame:
+                if not align:
+                    align = "right"
+                self.out.write('<div class="thumb t%s">' % align)
+                if thumb:
+                    if not width:
+                        width = 180 # default thumb width
+        
+                    self.out.write('<div style="width:%dpx;">' % (int(width)+2))
+                    self.out.write(img)
+                    self.out.write('<div class="thumbcaption">')
+                    self.out.write('<div class="magnify" style="float:right">')
+                    self.out.write('<a href="%s" class="internal" title="Enlarge">' % url.encode("utf8"))
+                    self.out.write('<img src="/static/magnify-clip.png">')
+                    self.out.write('</a>')
+                    self.out.write('</div>')
+                    for x in obj.children:
+                        self.write(x)
+                    self.out.write('</div>')
+                    self.out.write('</div>')
+                else:
+                    self.out.write('<div>')
+                    self.out.write(img)
+                    self.out.write('<div class="thumbcaption">')
+                    for x in obj.children:
+                        self.write(x)
+                    self.out.write('</div>')
+                    self.out.write('</div>')
+                self.out.write('</div>')
+            elif align:
+                self.out.write('<div class="float%s">' % align)
+                self.out.write(img)
+                self.out.write('</div>')
             else:
-                self.out.write('<%s="%s" %s/>' % \
-                    (tag.encode("utf8"), url.encode("utf8"), attr.encode("utf8")))
+                self.out.write(img)
+
+            if center:
+                self.out.write('</div>');
 
             self.imglevel -= 1
         else:
             self.out.write('<a href="%s">' % url)
-            
             for x in obj.children:
                 self.write(x)
-                
             self.out.write('</a>')
 
 class WikiRequestHandler(SimpleHTTPRequestHandler):
@@ -330,7 +376,6 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         writer.write(wiki_parsed)
 
     def send_article(self, title):
-        title = unicode(title, 'utf8')
         article_text = self.get_wikitext(title)
 
         # Capitalize the first letter of the article -- Trac #6991.
@@ -418,7 +463,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             print "301 REDIRECT to '%s'" % redirect_url
 
     def do_GET(self):
-        real_path = self.path
+        real_path = unicode(self.path, 'utf8')
         real_path = urllib.url2pathname(real_path)
 
         (real_path, sep, param_text) = real_path.partition('?')
