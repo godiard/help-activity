@@ -318,7 +318,7 @@ class HTMLWriter(object):
                 # WTB: Note- height not applied to CSS.
 
             if obj.isInline():
-                self.out.write('<img src="%s" %s/>' % (url, attr))
+                self.out.write('<img src="%s" %s/>' % (url.encode("utf8"), attr.encode("utf8")))
             else:
                 # WTB: This looked like a mistake to me, it was modifying obj.align instead of align.
                 # This function should not modify obj at all.
@@ -326,7 +326,7 @@ class HTMLWriter(object):
                 if obj.thumb == True and not align:
                     align = "clear right"
                 self.out.write('''<div  class="bbotstyle image %s" style="%s">'''% (align, attr_css))
-                self.out.write('<img src="%s" %s/>' % (url, attr))
+                self.out.write('<img src="%s" %s/>' % (url.encode("utf8"), attr.encode("utf8")))
                 
                 self.out.write('<span class="imagecaption">')
                 for x in obj.children:
