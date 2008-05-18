@@ -54,5 +54,6 @@ wp_article_block = _wp.wp_article_block
 wp_article_size = _wp.wp_article_size
 wp_search = _wp.wp_search
 wp_result = _wp.wp_result
+wp_article_exists = _wp.wp_article_exists
 
 

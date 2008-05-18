@@ -85,11 +85,12 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
         # Parser appending '/' characters to link targets for some reason.
         article = article.rstrip('/')
         
-        lc_article = article.lower()
+        title = article
+        title = title[0].capitalize() + title[1:]
+        title = title.replace("_", " ")
+        article_exists = wp.wp_article_exists(title.encode('utf8'))
         
-        num_hits = wp.wp_search(lc_article.encode('utf8'))
-
-        if num_hits > 0 and wp.wp_result(0).lower() == lc_article:
+        if article_exists:
             # Exact match.  Internal link.
             LinkStats.allhits += 1
             LinkStats.alltotal += 1
@@ -146,10 +147,13 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                 if pipematch:
                     prepipe  = pipematch.group(1)
                     postpipe = pipematch.group(2)
-                    lc_prepipe = prepipe.lower()
-                    num_hits = wp.wp_search(lc_prepipe)
 
-                    if num_hits > 0 and wp.wp_result(0).lower() == lc_prepipe:
+                    title = prepipe
+                    title = title[0].capitalize() + title[1:]
+                    title = title.replace("_", " ")
+                    article_exists = wp.wp_article_exists(title.encode('utf8'))
+
+                    if article_exists:
                         # Exact match.  Internal link.
                         LinkStats.allhits += 1
                         LinkStats.alltotal += 1
@@ -165,9 +169,12 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
                 else:
                     # [[foo]]-style link.
-                    lc_link = link.lower()
-                    num_hits = wp.wp_search(lc_link)
-                    if num_hits > 0 and wp.wp_result(0).lower() == lc_link:
+                    title = link
+                    title = title[0].capitalize() + title[1:]
+                    title = title.replace("_", " ")
+                    article_exists = wp.wp_article_exists(title.encode('utf8'))
+                    
+                    if article_exists:
                         LinkStats.allhits += 1
                         LinkStats.alltotal += 1
                         LinkStats.pagehits += 1

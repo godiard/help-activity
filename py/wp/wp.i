@@ -22,6 +22,9 @@ wp_article a = {0};
 char results[MAXRES][MAXSTR];
 int nresults;
 
+char *__exact_match;
+int __got_match;
+
 bool __handle_result(char *s) {
   strncpy(results[nresults], s, MAXSTR);
   results[nresults][MAXSTR - 1] = '\0';
@@ -33,6 +36,22 @@ bool __handle_result(char *s) {
   }
 
   return nresults < MAXRES;
+}
+
+bool __handle_exact_match(char *s) {
+  char buf[MAXSTR], *end;
+  strncpy(buf, s, MAXSTR);
+  
+  debug("handle_exact_match(%s)", s);
+
+  end = strrchr(buf, ' ') - 1;
+  *end = '\0';
+
+  if(strcasecmp(buf, __exact_match)) return true;
+  else {
+    __got_match = 1;
+    return false;
+  }
 }
 
 void wp_load_dump(char *dump, char *loc, char *ploc, char *blocks) {
@@ -65,6 +84,14 @@ char *wp_result(int n) {
   return results[n];
 }
 
+int wp_article_exists(char *name) {
+  __exact_match = name;
+  __got_match = 0;
+  debug("wp_article_exists(%s)", name);
+  search(&d.index, name, __handle_exact_match, NULL, true, true);
+  return __got_match;
+}
+
 %}
 
 void wp_load_dump(char *dump, char *loc, char *ploc, char *blocks);
@@ -75,3 +102,5 @@ int wp_article_size();
 
 int wp_search(char *needle);
 char *wp_result(int n);
+
+int wp_article_exists(char *name);
