@@ -14,10 +14,6 @@ import wp
 # Uncomment to print out a large dump from the template expander.
 #os.environ['DEBUG_EXPANDER'] = '1'
 
-# Set to True to dump the expanded text to 'expanded.txt', and to also replace
-# the expanded text with the contents of 'override.txt' if it exists.
-debug_expansion = False
-
 try:
     from hashlib import md5
 except ImportError:
