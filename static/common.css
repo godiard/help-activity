@@ -1,0 +1,538 @@
+/* Common CSS for all skins */
+/*<pre><nowiki>*/
+
+/* Estilos para el CommonsTicker ([[Wikiproyecto:CommonsTicker]])
+   According to the CSS specs, @import rules must precede any other CSS rules in a stylesheet,
+   so this creates the need to place it in its own stylesheet for these purposes. */
+/*@import "/w/index.php?title=Wikiproyecto:CommonsTicker/styles.css&action=raw&ctype=text/css&smaxage=2678400";*/
+
+/*InterProject */
+
+.interProject {
+   display:none; 
+   clear: both; 
+   border-top: 2px dotted #AAAAAA; 
+   margin-top: 2em;
+}
+
+/* Evitar la aparición del subrayado al pasar sobre la imagen cuande se usa {{tl|clic}} */ 
+.clic a:active, .clic a:hover {text-decoration:none}
+
+
+/* Style for "notices" */
+.notice {
+    text-align: justify;
+    margin: 1em;
+    padding: 0.2em;
+}
+
+#disambig {
+    border-top: 3px double #cccccc; 
+    border-bottom: 3px double #cccccc;
+}
+
+#spoiler {
+    border-top: 2px solid #ddd;
+    border-bottom:2px solid #ddd;
+}
+
+/* Standard talk template style */
+
+.Talk-Notice  {
+    border: 1px solid #C0C090;
+    background-color: #F8EABA;
+    margin-bottom: 3px;
+    width: 85%;
+    border-spacing: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Make template background appear correctly on all browsers */
+.Talk-Notice td {
+    background: inherit;
+}
+
+/* Choose whether to have AD/BC dates or CE/BCE dates*/
+
+/* First, the default : display both : See templates ADCE and BCEBC for how these are used*/
+.Use_Default_Date_Convention { display: inline; }
+.Use_AD_and_BC { display: none; }
+.Use_BCE_and_CE { display: none; }
+
+/* If you want to display AD and BC add the following to User:You/monobook.css page */
+/*
+.Use_Default_Date_Convention { display: none; }
+.Use_AD_and_BC { display:inline; }
+.Use_BCE_and_CE { display:none; }
+*/
+
+/*If you want to display CE and BCE add the following to User:You/monobook.css page */
+/*
+.Use_Default_Date_Convention { display: none; }
+.Use_AD_and_BC { display:none; }
+.Use_BCE_and_CE {display:inline; }
+*/
+
+/*Add formatting to make sure that "external references" from [[Template:Ref]] do
+  not get URL expansion, not even when printed. The mechanism up to MediaWiki 1.4 was
+  that the HTML code contained a SPAN following the anchor A; this SPAN had the class
+  "urlexpansion", which was not displayed on screen, but was shown when the medium was
+  "print". The rules below ensure (a) that there is no extra padding to the right of
+  the anchor (displayed as "[<number>]"), (b) that there is no "external link arrow" for
+  the link, and (c) that this SPAN of class "urlexpansion" is never shown.
+  ~~~~
+*/
+
+.plainlinksneverexpand {
+  background: none ! important;
+  padding: 0 ! important;
+}
+
+.plainlinksneverexpand .urlexpansion {
+  display : none ! important;
+}
+
+/* Make sure that ext links displayed within "plainlinksneverexpand" don't get
+   the arrow...
+*/
+.plainlinksneverexpand a {
+   background: none !important;
+   padding: 0 !important
+}
+
+/* styles for geography infoboxes, e.g. countries, national subdivisions, cities, etc. */
+
+.InfoDerecha {
+  clear: right;
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+.infobox.geography {
+   border: 1px solid #ccd2d9;
+   text-align: left;
+   border-collapse: collapse;
+   line-height: 1.2em; 
+   font-size: 90%;
+}
+
+.infobox.geography  td,
+.infobox.geography  th {
+   border-top: solid 1px #ccd2d9;
+   padding: 0.4em 0.2em 0.4em 0.8em;
+}
+.infobox.geography .mergedtoprow td,
+.infobox.geography .mergedtoprow th {
+   border-top: solid 1px #ccd2d9;
+   padding: 0.4em 0.2em 0.2em 0.8em;
+}
+
+.infobox.geography .mergedrow td,
+.infobox.geography .mergedrow th {
+      border: 0;
+      padding: 0 0.2em 0.2em 0.8em;
+}
+
+.infobox.geography .mergedbottomrow td,
+.infobox.geography .mergedbottomrow th {
+   border-top: 0;
+   border-bottom: solid 1px #ccd2d9;
+   padding: 0 0.2em 0.4em 0.8em;
+}
+
+.infobox.geography .maptable td,
+.infobox.geography .maptable th {
+      border: 0;
+      padding: 0 0 0 0;
+}
+
+/* With MediaWiki 1.5, the mechanism has changed: instead of a SPAN of class "urlexpansion"
+  following the anchor A, the anchor itself now has class "external autonumber" and the
+  expansion is inserted when printing (see the common printing style sheet at
+  http://en.wikipedia.org/skins-1.5/common/commonPrint.css) using the ":after" pseudo-
+  element of CSS. We have to switch this off for links due to Template:Ref!
+  
+*/
+.plainlinksneverexpand a.external.text:after {
+ display: none !important;
+}
+.plainlinksneverexpand a.external.autonumber:after {
+ display: none !important;
+}
+
+/* Merge template style */
+
+.messagebox {
+   border: 1px solid #aaaaaa;
+   background-color: #f9f9f9;
+   width: 85%;
+   margin: 0 auto 1em auto;
+   padding: .2em;
+   text-align: justify;
+   font-size: 90%;
+}
+.messagebox.merge {
+   border: 1px solid #cf9fff;
+   background-color: #f5edf5;
+   text-align: center;
+}
+.messagebox.cleanup {
+   border: 1px solid #9f9fff;
+   background-color: #efefff;
+   text-align: center;
+}
+.messagebox.standard-talk {
+   border: 1px solid #c0c090;
+   background-color: #f8eaba;
+   text-align: center;
+}
+
+.messagebox.warning {
+   border: 1px solid #fcc;
+   background-color: #fee;
+   text-align: center;
+   font-size: 100%;
+}
+
+/* Article message box template styles */
+table.ambox {
+    margin: 0 10%;                       /* Will not overlap with other elements */
+    border-collapse: collapse; 
+    background: #fbfbfb; 
+    border: 1px solid #aaa; 
+    border-left: 10px solid #1e90ff;     /* Default "notice" blue */
+}
+table.ambox th.ambox-text, table.ambox td.ambox-text {      /* The message body cell(s) */
+    padding: 0.25em 0.5em;            /* 0.5em left/right */
+    width: 100%;                      /* Make all templates the same width regardless of text size */
+}
+table.ambox td.ambox-image {          /* The left image cell */
+    padding: 2px 0px 2px 0.5em;       /* 0.5em left, 0px right */
+    text-align: center; 
+}
+table.ambox td.ambox-imageright {     /* The right image cell */
+    padding: 2px 4px 2px 0px;         /* 0px left, 4px right */
+    text-align: center; 
+}
+table.ambox-notice {
+    border-left: 10px solid #1e90ff;     /* Blue */
+/* border-right: 10px solid #1e90ff; */  /* If you want two blue bars */
+}
+table.ambox-delete,
+table.ambox-serious {
+    border-left: 10px solid #b22222;     /* Red */
+}
+table.ambox-content {
+    border-left: 10px solid #f28500;     /* Orange */
+}
+table.ambox-style {
+    border-left: 10px solid #f4c430;     /* Yellow */
+}
+table.ambox-merge {
+    border-left: 10px solid #9932cc;     /* Purple */
+}
+table.ambox-growth {
+  border-left: 10px solid #228b22;       /* Green */
+}
+table.ambox-protection {
+    border-left: 10px solid #bba;        /* Gray */
+}
+table.ambox.ambox-mini {                 /* Small floating box variant */
+    float: right;
+    clear: right;
+    margin: 0 0 0 1em;
+    width: 25%;
+}
+@media print {                           /* Do not print article message box */
+    .ambox {
+        display: none;
+    }
+}
+
+/* Infobox template style */
+.infobox {
+    border: 1px solid #aaa;
+    background-color: #f9f9f9;
+    color: black;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    padding: 0.2em;
+    float: right;
+    clear: right;
+}
+.infobox td,
+.infobox th {
+    vertical-align: top;
+}
+.infobox caption {
+    font-size: larger;
+    margin-left: inherit;
+}
+.infobox.bordered {
+    border-collapse: collapse;
+}
+.infobox.bordered td,
+.infobox.bordered th {
+    border: 1px solid #aaa;
+}
+.infobox.bordered .borderless td,
+.infobox.bordered .borderless th {
+    border: 0;
+}
+
+.infobox.sisterproject {
+    width: 20em;
+    font-size: 90%;
+}
+
+@media print {
+    .infobox.sisterproject {
+        display: none;
+    }
+}
+
+/* Importo formato para versos de WikiSource
+pre.verse {
+  background-color: #ffffff;
+  font-family:sans-serif;
+  line-height: 150%;
+  border: none;
+  padding-left: 2em;
+  margin: 0;
+  white-space: pre;
+}
+
+.IconoPlantillaMantenimiento {
+  float:left;
+  margin-left: 1em; 
+  margin-right: 1em; 
+}
+
+/* Support for Template:IPA, Template:Unicode and Template:Polytonic. The inherit declaration
+   resets the font for all browsers except MSIE6.  The empty comment must remain. */
+.IPA {
+        font-family: Chrysanthi Unicode, Doulos SIL, Gentium, GentiumAlt, Code2000,
+                     TITUS Cyberbit Basic, DejaVu Sans, Bitstream Vera Sans,
+                     Bitstream Cyberbit, Arial Unicode MS, Lucida Sans Unicode,
+                     Hiragino Kaku Gothic Pro, Matrix Unicode;
+        font-family /**/:inherit;
+}
+.Unicode {
+        font-family: TITUS Cyberbit Basic, Code2000, Doulos SIL, Chrysanthi Unicode,
+                     Bitstream Cyberbit, Bitstream CyberBase, Thryomanes,
+                     Gentium, GentiumAlt, Visual Geez Unicode, Lucida Grande,
+                     Arial Unicode MS, Microsoft Sans Serif, Lucida Sans Unicode;
+        font-family /**/:inherit;
+}
+.polytonic {
+        font-family: Athena, Gentium, Palatino Linotype, Arial Unicode MS,
+                     Lucida Sans Unicode, Lucida Grande, Code2000; 
+        font-family /**/:inherit;
+}
+
+/** Estilos para tablas.
+    ** EXPERIMENTAL **
+    la idea es, si se quiere que la primera columna de la tabla esté alineada
+    a la derecha, la segunda centrada  y la tercera a la izquierda, usar
+    {| class="col1der col2cen col3izq"
+    en vez de repetir "style='text-align:right'", etc, en '''cada''' celda
+**/
+table.col1der TD:first-child { text-align:right; }
+table.col1izq TD:first-child { text-align:left; }
+table.col1cen TD:first-child { text-align:center; }
+
+table.col2der TD:first-child + TD { text-align:right; }
+table.col2izq TD:first-child + TD { text-align:left; }
+table.col2cen TD:first-child + TD { text-align:center; }
+
+table.col3der TD:first-child + TD + TD { text-align:right; }
+table.col3izq TD:first-child + TD + TD { text-align:left; }
+table.col3cen TD:first-child + TD + TD { text-align:center; }
+
+table.col4der TD:first-child + TD + TD + TD { text-align:right; }
+table.col4izq TD:first-child + TD + TD + TD { text-align:left; }
+table.col4cen TD:first-child + TD + TD + TD { text-align:center; }
+
+table.col5der TD:first-child + TD + TD + TD + TD { text-align:right; }
+table.col5izq TD:first-child + TD + TD + TD + TD { text-align:left; }
+table.col5cen TD:first-child + TD + TD + TD + TD { text-align:center; }
+
+/* hiddenStructure importado de w:en para permitir esconder automáticamente
+   los parámetros vacíos en tablas */
+.hiddenStructure {
+   display: none;
+   speak: none;
+}
+
+/* Ayudita para [[Especial:Allpages]]: los redirects aparecen en cursiva */
+.allpagesredirect {font-style: italic;}
+
+/* Put a checker background at the image description page only visible
+   if the image has transparent background */
+
+#file img {
+  background: url(http://upload.wikimedia.org/wikipedia/commons/5/5d/Checker-16x16.png)
+              repeat;
+}
+
+form#upload,.UploadFormShowed {display: none;}
+
+/* Estilo para controlar el tamaño del texto citado.
+   Quien quiera cambiar el suyo no tiene más que editar su propia monobook.css */
+
+.citado {
+   font-size: 90%;
+   padding: 0.1em;
+}
+
+
+/* Disponibilidad para tareas de mantenimiento/Tablas por día/semana */
+
+table.user-availability { 
+   text-align:center;
+   border:1px solid #333366; 
+}
+table.user-availability th { 
+   font-size:110% 
+}
+table.user-availability .toprow td+td { 
+   width:30px;
+   height:10px;
+   background-color:#eeeeee;
+   border:1px solid #aaaaaa 
+}
+table.user-availability .off { 
+   font-size:80%;
+   border:1px solid #aaaaaa;
+   background-color:#ffffff; 
+}
+table.user-availability .onn {
+   font-size:80%;
+   border:1px solid #aaaaaa;
+   background-color:#ccffcc; 
+}
+table.user-availability .wrk { 
+   font-size:80%;
+   border:1px solid #aaaaaa;
+   background-color:#ccccff; 
+}
+table.user-availability .cll { 
+   font-size:80%;
+   border:1px solid #aaaaaa;
+   background-color:#ffffdd; 
+}
+table.user-availability .key { 
+   font-size:90%;
+   border-top:1px dashed black;
+   text-align:right 
+}
+table.user-availability .key span { 
+   padding:2px
+}
+
+/* Change the external link icon to an Adobe icon for all PDF files */
+/* (in browsers that support these CSS selectors, like Mozilla and Opera) */
+#bodyContent a[href$=".pdf"].external, 
+#bodyContent a[href*=".pdf?"].external, 
+#bodyContent a[href*=".pdf#"].external,
+#bodyContent a[href$=".PDF"].external, 
+#bodyContent a[href*=".PDF?"].external, 
+#bodyContent a[href*=".PDF#"].external {
+    background: url(http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Icons-mini-file_acrobat.gif/15px-Icons-mini-file_acrobat.gif) center right no-repeat;
+    padding-right: 16px;
+}
+
+/* Change the external link icon to an Adobe icon anywhere the PDFlink class */
+/* is used (notably Template:PDFlink). This works in IE, unlike the above. */
+span.PDFlink a {
+    background: url(http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Icons-mini-file_acrobat.gif/15px-Icons-mini-file_acrobat.gif) center right no-repeat !important;
+    padding-right: 17px !important;
+}
+
+/* make the list of references look smaller */
+ol.references {
+   font-size: 100%;
+}
+
+.references-small { font-size: 90%;}
+
+.references-2column {
+  font-size: 90%;
+}
+
+/* Highlight clicked reference in blue to help navigation */
+
+ol.references > li:target {
+background-color: #DEF;
+}
+
+sup.reference:target { 
+background-color: #DEF;
+}
+
+/*** Llamadas al pie:
+     esto oculta los corchetes
+     (en los navegadores que entienden css)
+*/
+
+.corchete-llamada { display /**/: none; }
+
+/* Ocultar para los no bibliotecarios */
+.para_biblios { display: none }
+
+.rotate_0 { display: block }
+.rotate_1, .rotate_2, .rotate_3, .rotate_4, .rotate_5, .rotate_6, .rotate_7, .rotate_8, .rotate_9 { display: none }
+/* Geographical coordinates 
+ 
+To display coordinates using the notation in the source code, write this in your User:Username/monobook.css:
+   .geo-default { display: inline } .geo-nondefault { display: none } 
+   .geo-dec { display: inline } .geo-dms { display: inline }
+ 
+To display coordinates using decimal notation, write this in your User:Username/monobook.css:
+   .geo-default { display: inline } .geo-nondefault { display: inline } 
+   .geo-dec { display: inline } .geo-dms { display: none }
+ 
+To display coordinates using DMS notation, write this in your User:Username/monobook.css:
+   .geo-default { display: inline } .geo-nondefault { display: inline } 
+   .geo-dec { display: none }   .geo-dms { display: inline }
+ 
+To display coordinates in both decimal and DMS notation, write this in your User:Username/monobook.css:
+   .geo-default { display: inline } .geo-nondefault { display: inline } 
+   .geo-dec { display: inline }   .geo-dms { display: inline }
+   .geo-multi-punct { display: inline }
+ 
+See [[Template:Coor link]] for how these are used.
+ 
+Note that the classes "geo", "longitude", and "latitude" are not just styles but also used by the [[Geo microformat]], so the names should not be changed.
+ 
+*/
+ 
+.geo-default { display: inline; }
+.geo-nondefault { display: none; }
+.geo-dms { display: inline; }
+.geo-dec { display: inline; }
+.geo-multi-punct { display: none; }
+ 
+.longitude .latitude {
+    white-space: nowrap;
+}
+ 
+/* This is used for the Geo microformat, but no style is needed for now other than .geo-dec. */
+.geo { }
+ 
+/***** end Geo-related */
+
+/*</nowiki></pre>*/
+
+/* [[Plantilla:Muchasref]] */
+@media screen, projection {
+ 
+  .listareferencias {
+    border:    1px solid #AAAAAA;
+    height:    220px;
+    overflow:  auto;
+    padding:   3px;
+  }
+ 
+}

@@ -47,23 +47,20 @@ class WPWikiDB:
             title = title[0].capitalize() + title[1:]
             # Replace underscores with spaces in title.
             title = title.replace("_", " ")
-            article_text = wp.wp_load_article(title.encode('utf8'))
-            #article_text = unicode(article_text, 'utf8')
+            article_text = unicode(wp.wp_load_article(title.encode('utf8')), 'utf8')
 
             # To see unmodified article_text, uncomment here.
             # print article_text
 
             m = re.match(r'^\s*\#?redirect\s*\:?\s*\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
-            print repr(article_text)
-            title = unicode(m.group(1), 'utf8')
+            title = m.group(1)
 
         # WTB: Stripping whitespace improves template expansion.
         # TODO: Where is it coming from?
         article_text = article_text.lstrip()
         article_text = article_text.rstrip()
         
-        article_text = unicode(article_text, 'utf8')
         return article_text
 
     def getTemplate(self, title, followRedirects=False):
@@ -180,7 +177,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             if width:
                 attr += 'width="%d" ' % width
             
-            img = '<%s="%s" %s longdesc="%s" %s">' % (tag, url.encode('utf8'), caption, caption, attr);
+            img = '<%s="%s" %s longdesc="%s" %s">' % (tag, url.encode('utf8'), caption.encode('utf8'), caption.encode('utf8'), attr);
             
             if thumb:
                 frame = True
@@ -234,7 +231,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
 
             self.imglevel -= 1
         else:
-            self.out.write('<a href="%s">' % url)
+            self.out.write('<a href="%s">' % url.encode('utf8'))
             for x in obj.children:
                 self.write(x)
             self.out.write('</a>')
@@ -387,7 +384,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         if article_text == "":
             self.send_response(301)
             self.send_header("Location", 
-                             "http://es.wikipedia.org/wiki/" + title)
+                             "http://es.wikipedia.org/wiki/" + title.encode('utf8'))
             self.end_headers()
             return
 
@@ -406,7 +403,11 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             self.wfile.write("<html><head><title>%s</title>" % title.encode('utf8'))
         
             self.wfile.write("<style type='text/css' media='screen, projection'>"\
-                             "@import '/static/monobook.css';</style>")
+                             "@import '/static/common.css';"\
+                             "@import '/static/monobook.css';"\
+                             "@import '/static/styles.css';"\
+                             "@import '/static/shared.css';"\
+                             "</style>")
             
             self.wfile.write("</head>")
             
@@ -427,7 +428,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         self.send_header("Content-Type", "text/html; charset=utf-8")
         self.end_headers()
 
-        self.wfile.write("<html><head><title>Search Results for '%s'</title></head>" % title)
+        self.wfile.write("<html><head><title>Search Results for '%s'</title></head>" % title.encode('utf8'))
 
         # Embed CSS file.
         self.wfile.write("<style type='text/css' media='screen, projection'>"\
@@ -437,7 +438,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
         self.wfile.write("<body>")
         
-        self.wfile.write("<p>Search Results for '%s'.</p>" % title)
+        self.wfile.write("<p>Search Results for '%s'.</p>" % title.encode('utf8'))
         self.wfile.write("<ul>")
 
         num_results = wp.wp_search(title)
@@ -458,13 +459,13 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             # If not, redirect to wikimedia.
             redirect_url = "http://upload.wikimedia.org/wikipedia/commons/" + path
             self.send_response(301)
-            self.send_header("Location", redirect_url)
+            self.send_header("Location", redirect_url.encode('utf8'))
             self.end_headers()
             print "301 REDIRECT to '%s'" % redirect_url
 
     def do_GET(self):
-        real_path = unicode(self.path, 'utf8')
-        real_path = urllib.url2pathname(real_path)
+        real_path = urllib.unquote(self.path)
+        real_path = unicode(real_path, 'utf8')
 
         (real_path, sep, param_text) = real_path.partition('?')
         self.params = {}

@@ -1,0 +1,61 @@
+/*<pre><nowiki>*/
+
+ /************************/
+ /* CommonsTicker styles */
+ /************************/
+
+ /* Estilos para el CommonsTicker. Es cargado por MediaWiki:Common.css
+ Esta página DEBE ESTAR PROTEGIDA */
+
+  /* links */
+  .tickerDiffLink { } /* diff links in ticker */
+  .tickerMiscLink { } /* misc links in ticker */
+  /* remove list bullets */
+  .tickerList ul,    .tickerList ul li    { list-style: none; text-indent:-2em; margin-left:2em;   text-align:left; }
+  .tickerList ul ul, .tickerList ul ul li { list-style: none; text-indent:0;    margin-left:1.5em; text-align:left; }
+
+  /* per-type styles */
+  .tickerEntry_deleted     { }  /* entry for image deletion */
+  .tickerEntry_restored    { }  /* entry for restored image */
+  .tickerEntry_replaced    { }  /* entry for image replacement */
+  .tickerEntry_tagged      { }  /* entry for adding/removing problem tags */
+  .tickerEntry_redir       { }  /* entry for critical redirection (fot tag redirects) */
+  .tickerEntry_recat       { }  /* entry for critical re-categorization (for tag categories) */
+  .tickerEntry_notify      { }  /* entry for global notifications */
+  .tickerEntry_changed     { }  /* entry for generic change */
+
+  /* per-status styles */
+  .tickerStatus_done     { text-decoration:line-through; }  /* strike through when entry has been handeled */
+
+  /* per-action styles */
+  .tickerAction_deleted:before     { content:" Eliminada "; color: #FF0000; font-family:monospace; font-weight:bold; font-size:80%; }  
+  .tickerAction_restored:before    { content:" Recuperada "; color: #00BB00; font-family:monospace; font-weight:bold; font-size:80%; }  
+  .tickerAction_deletedRev:before  { content:" -Anterior "; color: #DDAAAA; font-family:monospace; font-weight:bold; font-size:80%; }  
+  .tickerAction_replaced:before    { content:" Reemplazada "; color: #CC88FF; font-family:monospace; font-weight:bold; font-size:100%; }  
+  .tickerAction_replacedOwn:before { content:" UPDT "; color: #EEAAFF; font-family:monospace; font-weight:bold; font-size:100%; }  
+  .tickerAction_addedBad:before    { content:" +VfD "; color: #FF8800; font-family:monospace; font-weight:bold; font-size:100%; }  
+  .tickerAction_removedBad:before  { content:" -VfD "; color: #00BB00; font-family:monospace; font-weight:bold; font-size:100%; }  
+  .tickerAction_addedGood:before   { content:" +OK  "; color: #00BB00; font-family:monospace; font-weight:bold; font-size:100%; }  
+  .tickerAction_removedGood:before { content:" -OK  "; color: #FF8800; font-family:monospace; font-weight:bold; font-size:100%; }
+
+ /* ticker usage list */
+  .tickerUsage  { font-size:80%; }  
+
+  /* entry applies to a template used by multiple images */
+  .tickerTemplateEntry    { font-weight: bold; } 
+
+  /* entry applies to sub-entries, i.e. images that use a specific template */
+  .tickerSubEntry         { }           
+
+ /* minor entry styles */ 
+  .tickerMinorEntry  { color:#666; }     /* minor entry */
+  .tickerMinorEntry a,
+  .tickerMinorEntry a:link,
+  .tickerMinorEntry a:visited { color:#669; }
+  #bodyContent .tickerMinorEntry a.extiw,
+  #bodyContent .tickerMinorEntry a.extiw:link,
+  #bodyContent .tickerMinorEntry a.extiw:visited { color:#669; }
+
+  .tachado { text-decoration:line-through; } /* Una forma fácil de escribirlo */
+
+/*</nowiki></pre>*/
