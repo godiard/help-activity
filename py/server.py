@@ -16,7 +16,7 @@ import wp
 
 # Set to True to dump the expanded text to 'expanded.txt', and to also replace
 # the expanded text with the contents of 'override.txt' if it exists.
-debug_expansion = True
+debug_expansion = False
 
 try:
     from hashlib import md5
@@ -198,8 +198,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             self.out.write('</a>')
 
 class WikiRequestHandler(SimpleHTTPRequestHandler):
-    @staticmethod
-    def resolve_links(s, article_prelinks):
+    def resolve_links(self, article_prelinks):
         LinkStats.pagehits = 1
         LinkStats.pagetotal = 1
 
@@ -257,8 +256,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                         
         return article_prelinks
     
-    @staticmethod
-    def strip_templates(wikitext):
+    def strip_templates(self, wikitext):
         """Recursively strips all {{ }} style templates from 'wikitext'."""
         output = ''
         nest_level = 0
@@ -279,21 +277,25 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         return output
 
     def get_wikitext(self, title):
-        # Retrieve article text, recursively following #redirects.
-        while True:
-            # Capitalize the first letter of the article -- Trac #6991.
-            title = title[0].capitalize() + title[1:]
-            # Replace underscores with spaces in title.
-            title = title.replace("_", " ")
-            article_text = wp.wp_load_article(title)
+        wikidb = WPWikiDB()
+        article_text = wikidb.getRawArticle(title)
         
-            # To see unmodified article_text, uncomment here.
-            # print article_text
+        # Pass ?noexpand=1 in the url to disable template expansion.
+        if self.params.get('noexpand', 0):
+            self.strip_templates(article_text)
+        else:
+            template_expander = expander.Expander(article_text, pagename=title, wikidb=wikidb)
+            article_text = template_expander.expandTemplates()
 
-            m = re.match(r'^\s*\#?redirect\s*\:?\s*\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
-            if not m: break
-            title = m.group(1)
-            
+        # Pass ?override=1 in the url to replace wikitext for testing the renderer.
+        if self.params.get('override', 0):
+            try:
+                override = open('override.txt', 'r')
+                article_text = unicode(override.read(), 'utf8')
+                override.close()
+            except:
+                pass
+
         return article_text
     
     def send_wiki_html_js(self, article_text, parser):
@@ -309,14 +311,9 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         #self.wfile.write("Percentage: %.2f<br>" % total_percent)        
         
         # Link resolution.
-        article_text = WikiRequestHandler.resolve_links(self, article_text)
+        article_text = self.resolve_links(article_text)
 
-        # Remove any Wikitext templates as the JavaScript can't deal with these.
-        # In the future, these should be evaluated when the database is built.
-        article_text = WikiRequestHandler.strip_templates(article_text)
-        
         # Embed article text and call parser.
-        article_text = unicode(article_text, 'utf8')
         jstext = ''
         for l in article_text.split('\n'):
             jstext += re.escape(l) + '\\n\\\n'
@@ -327,36 +324,17 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         self.wfile.write("</script>")
 
     def send_wiki_html_mwlib(self, title, article_text):
-        title = unicode(title, 'utf8')
-        article_text = unicode(article_text, 'utf8')
-        
-        wikidb = WPWikiDB()
-        imagedb = WPImageDB()
-    
-        template_expander = expander.Expander(article_text, pagename=title, wikidb=wikidb)
-        post_expansion = template_expander.expandTemplates()
+        tokens = scanner.tokenize(article_text, title)
 
-        if debug_expansion:
-            out = open('expanded.txt', 'w')
-            out.write(post_expansion.encode('utf8'))
-            out.close()
-            
-            try:
-                override = open('override.txt', 'r')
-                post_expansion = unicode(override.read(), 'utf8')
-                override.close()
-            except:
-                pass
-
-        tokens = scanner.tokenize(post_expansion, title)
-        
         wiki_parsed = parser.Parser(tokens, title).parse()
         wiki_parsed.caption = title
 
+        imagedb = WPImageDB()
         writer = WPHTMLWriter(self.wfile, images=imagedb)
         writer.write(wiki_parsed)
 
     def send_article(self, title):
+        title = unicode(title, 'utf8')
         article_text = self.get_wikitext(title)
 
         # Capitalize the first letter of the article -- Trac #6991.
@@ -371,34 +349,37 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                              "http://es.wikipedia.org/wiki/" + title)
             self.end_headers()
             return
-    
-        # Send HTTP header.
-        self.send_response(200)
-        self.send_header("Content-Type", "text/html; charset=utf-8")
-        self.end_headers()
-    
-        # Write HTML header.
-        self.wfile.write("<html><head><title>%s</title>" % title)
-    
-        # Embed CSS file.
-        self.wfile.write("<style type='text/css' media='screen, projection'>"\
-                         "@import '/static/monobook.css';</style>")
+
+        # Pass ?raw=1 in the URL to see the raw wikitext (post expansion, unless noexpand=1 is also set).
+        if self.params.get('raw', 0):
+            self.send_response(200)
+            self.send_header("Content-Type", "text/plain; charset=utf-8")
+            self.end_headers()
         
-        self.wfile.write("</head>")
-        
-        # Write HTML body.
-        self.wfile.write("<body>")
-        
-        # Convert wikitext to HTML and send.
-        parser_index = int(self.params.get('parser', default_parser))
-        parser = parsers[parser_index]
-        
-        if parser == 'mwlib':
-            self.send_wiki_html_mwlib(title, article_text)
+            self.wfile.write(article_text.encode('utf8'))
         else:
-            self.send_wiki_html_js(article_text, parser)
+            self.send_response(200)
+            self.send_header("Content-Type", "text/html; charset=utf-8")
+            self.end_headers()
         
-        self.wfile.write("</body></html>")
+            self.wfile.write("<html><head><title>%s</title>" % title.encode('utf8'))
+        
+            self.wfile.write("<style type='text/css' media='screen, projection'>"\
+                             "@import '/static/monobook.css';</style>")
+            
+            self.wfile.write("</head>")
+            
+            self.wfile.write("<body>")
+            
+            parser_index = int(self.params.get('parser', default_parser))
+            parser = parsers[parser_index]
+            
+            if parser == 'mwlib':
+                self.send_wiki_html_mwlib(title, article_text)
+            else:
+                self.send_wiki_html_js(article_text, parser)
+        
+            self.wfile.write("</body></html>")
     
     def send_searchresult(self, title):
         self.send_response(200)
@@ -450,9 +431,9 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             (key, sep, value) = p.partition('=')
             self.params[key] = value
 
-        m = re.match(r'^/(wiki|raw)/(.+)$', real_path)
+        m = re.match(r'^/wiki/(.+)$', real_path)
         if m:
-            self.send_article(m.group(2))
+            self.send_article(m.group(1))
             return
 
         m = re.match(r'^/search$', real_path)
