@@ -8,7 +8,6 @@ import os
 import BaseHTTPServer
 from SimpleHTTPServer import SimpleHTTPRequestHandler
 import urllib
-import cgi
 import re
 import wp
 
@@ -17,7 +16,7 @@ import wp
 
 # Set to True to dump the expanded text to 'expanded.txt', and to also replace
 # the expanded text with the contents of 'override.txt' if it exists.
-debug_expansion = False
+debug_expansion = True
 
 try:
     from hashlib import md5
@@ -83,14 +82,18 @@ class WPImageDB:
     
     def getPath(self, name, size=None):
         hashed_name = self.hashpath(name)
-        return 'images/%s' % hashed_name
+        path = 'images/%s' % hashed_name
+        #print "getPath: %s -> %s" % (name.encode('utf8'), path.encode('utf8'))
+        return path
 
     def getURL(self, name, size=None):
         hashed_name = self.hashpath(name)
         if os.path.exists('images/' + hashed_name):
-            return '/images/' + hashed_name
+            url = '/images/' + hashed_name
         else:
-            return 'http://upload.wikimedia.org/wikipedia/commons/' + hashed_name
+            url = 'http://upload.wikimedia.org/wikipedia/commons/' + hashed_name
+        #print "getUrl: %s -> %s" % (name.encode('utf8'), url.encode('utf8'))
+        return url
 
 class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
     """Customizes HTML output from mwlib."""
@@ -141,6 +144,58 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             self._write(obj.target)
         
         self.out.write("</a>")
+
+    def writeImageLink(self, obj):
+        if self.images is None:
+            return
+
+        width = obj.width
+        height = obj.height
+
+        if width and height:
+            path = self.images.getPath(obj.target, size=max(width, height))
+            url = self.images.getURL(obj.target, size=max(width, height))
+        else:
+            path = self.images.getPath(obj.target)
+            url = self.images.getURL(obj.target)
+            
+        if url is None:
+            return
+
+        if self.imglevel==0:
+            self.imglevel += 1
+
+            attr = ''
+            attr_css = ''
+            
+            if width:
+                attr += 'width="%d" ' % width
+                attr_css += 'width:%dpx ' % width
+               
+            if height:
+                attr += 'height="%d" ' % height
+                attr_css += 'height:%dpx ' % height
+
+            if url.endswith('.svg'):
+                tag = 'object data'
+            else:
+                tag = 'img src'
+                
+            if obj.isInline():
+                self.out.write('<%s="%s" %s/>' % \
+                    (tag.encode("utf8"), url.encode("utf8"), attr.encode("utf8")))
+            else:
+                self.out.write('<%s="%s" %s/>' % \
+                    (tag.encode("utf8"), url.encode("utf8"), attr.encode("utf8")))
+
+            self.imglevel -= 1
+        else:
+            self.out.write('<a href="%s">' % url)
+            
+            for x in obj.children:
+                self.write(x)
+                
+            self.out.write('</a>')
 
 class WikiRequestHandler(SimpleHTTPRequestHandler):
     @staticmethod
@@ -277,7 +332,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         
         wikidb = WPWikiDB()
         imagedb = WPImageDB()
-     
+    
         template_expander = expander.Expander(article_text, pagename=title, wikidb=wikidb)
         post_expansion = template_expander.expandTemplates()
 
@@ -303,7 +358,12 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
     def send_article(self, title):
         article_text = self.get_wikitext(title)
-        
+
+        # Capitalize the first letter of the article -- Trac #6991.
+        title = title[0].capitalize() + title[1:]
+        # Replace underscores with spaces in title.
+        title = title.replace("_", " ")
+
         # Redirect to Wikipedia if the article text is empty (e.g. an image link)
         if article_text == "":
             self.send_response(301)
