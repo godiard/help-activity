@@ -151,8 +151,7 @@ def optimize(node):
 
     
 class Parser(object):
-    template_ns = set([ ((5, u'Template'), (5, u':')),
-                        ((5, u'Vorlage'), (5, u':')),
+    template_ns = set([ ((5, u'Plantilla'), (5, u':')),
                         ])
 
 
@@ -398,8 +397,10 @@ class Expander(object):
             log.info("including article")
             raw = self.db.getRawArticle(name[1:])
         else:
+            name = name[0].capitalize() + name[1:]
+            name = "Plantilla:" + name 
             raw = self.db.getTemplate(name, True)
-            
+
         if raw is None:
             log.warn("no template", repr(name))
             res = None
