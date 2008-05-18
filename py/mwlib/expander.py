@@ -388,17 +388,16 @@ class Expander(object):
         if name.startswith("[["):
             return None
 
-        try:
-            return self.parsedTemplateCache[name]
-        except KeyError:
-            pass
-
         if name.startswith(":"):
             log.info("including article")
             raw = self.db.getRawArticle(name[1:])
         else:
             name = name[0].capitalize() + name[1:]
             name = "Plantilla:" + name 
+            try:
+                return self.parsedTemplateCache[name]
+            except KeyError:
+                pass
             raw = self.db.getTemplate(name, True)
 
         if raw is None:
