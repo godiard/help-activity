@@ -808,11 +808,11 @@ class Parser(object):
             while self.left:
                 token = self.token
                 self.next()
-                if token[0] in ("\n", "BREAK", "[[", "ROW", "COLUMN", "ENDTABLE"):
+                if token[0] in ("\n", "BREAK", "[[", "ROW", "ENDTABLE"):
                     params = ''
                     self.pos = savepos
                     break
-                elif token[0]=='SPECIAL' and token[1]=='|':
+                elif (token[0]=='SPECIAL' or token[0]=='COLUMN') and token[1]=='|':
                     break
                 params += token[1]
 

@@ -12,13 +12,20 @@ import cgi
 import re
 import wp
 
+# Uncomment to print out a large dump from the template expander.
+#os.environ['DEBUG_EXPANDER'] = '1'
+
+# Set to True to dump the expanded text to 'expanded.txt', and to also replace
+# the expanded text with the contents of 'override.txt' if it exists.
+debug_expansion = False
+
 try:
     from hashlib import md5
 except ImportError:
     from md5 import md5
 
 import mwlib.htmlwriter
-from mwlib import uparser
+from mwlib import parser, scanner, expander
 
 parsers = [
     '/js/wiki2html.js',
@@ -39,8 +46,6 @@ class WPWikiDB:
     """Retrieves article contents for mwlib."""
 
     def getRawArticle(self, title):
-        print "getRawArticle: %s" % title
-
         # Retrieve article text, recursively following #redirects.
         while True:
             # Capitalize the first letter of the article -- Trac #6991.
@@ -52,15 +57,19 @@ class WPWikiDB:
             # To see unmodified article_text, uncomment here.
             # print article_text
 
-            m = re.match(r'^\s*\#?redirect\s*\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
+            m = re.match(r'^\s*\#?redirect\s*\:?\s*\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
             title = m.group(1)
-            
+
+        # WTB: Test stripping trailing newlines to see effect on template expansion.
+        # It *looks* better, but the specific whitespace I want (newline after column before style) is not removed.
+        article_text.lstrip('\n')
+        article_text.rstrip('\n')
+        
         article_text = unicode(article_text, 'utf8')
         return article_text
 
     def getTemplate(self, title, followRedirects=False):
-        print "getTemplate: %s" % title
         return self.getRawArticle(title)
 
 class WPImageDB:
@@ -136,12 +145,6 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
 class WikiRequestHandler(SimpleHTTPRequestHandler):
     @staticmethod
     def resolve_links(s, article_prelinks):
-        # FIXME:  We do a substring search for each link to find out
-        # whether an exact match exists in the local archive; if so,
-        # we link internally.  We could probably save time with a 
-        # C-level function that returns yes/no for "Is this exact
-        # page title present in the index?"
-
         LinkStats.pagehits = 1
         LinkStats.pagetotal = 1
 
@@ -232,7 +235,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             # To see unmodified article_text, uncomment here.
             # print article_text
 
-            m = re.match(r'^\s*\#redirect\s+\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
+            m = re.match(r'^\s*\#?redirect\s*\:?\s*\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
             title = m.group(1)
             
@@ -274,11 +277,29 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         
         wikidb = WPWikiDB()
         imagedb = WPImageDB()
+     
+        template_expander = expander.Expander(article_text, pagename=title, wikidb=wikidb)
+        post_expansion = template_expander.expandTemplates()
+
+        if debug_expansion:
+            out = open('expanded.txt', 'w')
+            out.write(post_expansion.encode('utf8'))
+            out.close()
+            
+            try:
+                override = open('override.txt', 'r')
+                post_expansion = unicode(override.read(), 'utf8')
+                override.close()
+            except:
+                pass
+
+        tokens = scanner.tokenize(post_expansion, title)
         
-        parser = uparser.parseString(title, raw=article_text, wikidb=wikidb)
-        
+        wiki_parsed = parser.Parser(tokens, title).parse()
+        wiki_parsed.caption = title
+
         writer = WPHTMLWriter(self.wfile, images=imagedb)
-        writer.write(parser)
+        writer.write(wiki_parsed)
 
     def send_article(self, title):
         article_text = self.get_wikitext(title)
