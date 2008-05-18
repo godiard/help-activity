@@ -27,7 +27,7 @@ class ArticleListener
   
   def tag_start(name, attrs)
     if name == 'page'
-      @cur_article.write($stdout) if (@cur_article and is_desirable(@cur_article))
+      @cur_article.write($stdout) if (@cur_article)
       @cur_article = Article.new
       @processed += 1
       print_stats if (@processed % 100) == 0
