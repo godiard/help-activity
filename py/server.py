@@ -172,7 +172,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
                 attr += 'height="%d" ' % height
                 attr_css += 'height:%dpx ' % height
 
-            if url.endswith('.svg'):
+            if re.match(r'.*\.svg$', url, re.IGNORECASE):
                 tag = 'object data'
             else:
                 tag = 'img src'
