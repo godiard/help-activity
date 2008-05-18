@@ -61,10 +61,10 @@ class WPWikiDB:
             if not m: break
             title = m.group(1)
 
-        # WTB: Test stripping trailing newlines to see effect on template expansion.
-        # It *looks* better, but the specific whitespace I want (newline after column before style) is not removed.
-        article_text.lstrip('\n')
-        article_text.rstrip('\n')
+        # WTB: Stripping whitespace improves template expansion.
+        # TODO: Where is it coming from?
+        article_text = article_text.lstrip()
+        article_text = article_text.rstrip()
         
         article_text = unicode(article_text, 'utf8')
         return article_text
