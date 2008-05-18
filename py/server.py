@@ -39,15 +39,28 @@ class WPWikiDB:
     """Retrieves article contents for mwlib."""
 
     def getRawArticle(self, title):
-        # Capitalize the first letter of the article -- Trac #6991.
-        title = title[0].capitalize() + title[1:]
-        # Replace underscores with spaces in title.
-        title = title.replace("_", " ")
-        article_text =  wp.wp_load_article(title.encode('utf8'))
+        print "getRawArticle: %s" % title
+
+        # Retrieve article text, recursively following #redirects.
+        while True:
+            # Capitalize the first letter of the article -- Trac #6991.
+            title = title[0].capitalize() + title[1:]
+            # Replace underscores with spaces in title.
+            title = title.replace("_", " ")
+            article_text = wp.wp_load_article(title.encode('utf8'))
+        
+            # To see unmodified article_text, uncomment here.
+            # print article_text
+
+            m = re.match(r'^\s*\#?redirect\s*\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
+            if not m: break
+            title = m.group(1)
+            
         article_text = unicode(article_text, 'utf8')
         return article_text
 
     def getTemplate(self, title, followRedirects=False):
+        print "getTemplate: %s" % title
         return self.getRawArticle(title)
 
 class WPImageDB:

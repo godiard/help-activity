@@ -31,7 +31,7 @@ from searchtoolbar import SearchToolbar
 
 # Default settings.
 HTTP_PORT = '8000'
-WIKIDB = '40ormore.xml.bz2'
+WIKIDB = 'mad_withtemplates.xml.bz2'
 HOME_PAGE = '/static/index.html'
 
 # Activity class, extends WebActivity.
