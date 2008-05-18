@@ -128,7 +128,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
 
         parts = article.encode('utf-8').split('#')
         parts[0] = parts[0].replace(" ", "_")
-        url = ("#".join([urllib.quote(x) for x in parts]))
+        url = ("#".join([x for x in parts]))
 
         self.out.write("<a %s href='%s%s'>" % (link_attr, link_baseurl, url))
 
@@ -430,7 +430,6 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
         self.wfile.write("<html><head><title>Search Results for '%s'</title></head>" % title.encode('utf8'))
 
-        # Embed CSS file.
         self.wfile.write("<style type='text/css' media='screen, projection'>"\
                          "@import '/static/monobook.css';</style>")
 
@@ -438,10 +437,10 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
         self.wfile.write("<body>")
         
-        self.wfile.write("<p>Search Results for '%s'.</p>" % title.encode('utf8'))
+        self.wfile.write("<h1>Search Results for '%s'.</h1>" % title.encode('utf8'))
         self.wfile.write("<ul>")
 
-        num_results = wp.wp_search(title)
+        num_results = wp.wp_search(title.encode('utf8'))
         for i in xrange(0, num_results):
             result = unicode(wp.wp_result(i), 'utf8')
             self.wfile.write('<li><a href="/wiki/%s">%s</a></li>' %
@@ -461,7 +460,6 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             self.send_response(301)
             self.send_header("Location", redirect_url.encode('utf8'))
             self.end_headers()
-            print "301 REDIRECT to '%s'" % redirect_url
 
     def do_GET(self):
         real_path = urllib.unquote(self.path)
