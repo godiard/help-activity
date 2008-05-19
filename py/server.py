@@ -66,6 +66,12 @@ class WPWikiDB:
     def getTemplate(self, title, followRedirects=False):
         return self.getRawArticle(title)
 
+    def getExpandedArticle(self, title):
+        article_text = self.getRawArticle(title)
+        template_expander = expander.Expander(article_text, pagename=title, wikidb=self)
+        article_text = template_expander.expandTemplates()
+        return article_text
+
 class WPImageDB:
     """Retrieves images for mwlib."""
     
@@ -321,10 +327,10 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         
         # Pass ?noexpand=1 in the url to disable template expansion.
         if self.params.get('noexpand', 0):
-            self.strip_templates(article_text)
+            article_text = wikidb.getRawArticle(title)
+            article_text = self.strip_templates(article_text)
         else:
-            template_expander = expander.Expander(article_text, pagename=title, wikidb=wikidb)
-            article_text = template_expander.expandTemplates()
+            article_text = wikidb.getExpandedArticle(title)
 
         # Pass ?override=1 in the url to replace wikitext for testing the renderer.
         if self.params.get('override', 0):
