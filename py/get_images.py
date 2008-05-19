@@ -1,5 +1,5 @@
 import re
-import wp
+import server
 import md5
 import urllib
 import collections
@@ -7,13 +7,6 @@ import os
 import subprocess
 
 BASEWORD = r"Image"
-
-def load_db(dbname):
-    wp.wp_load_dump(
-        dbname + '.processed',
-        dbname + '.locate.db',
-        dbname + '.locate.prefixdb',
-        dbname + '.blocks.db')
 
 BASE_URL="http://upload.wikimedia.org/wikipedia/commons"
 
@@ -101,7 +94,8 @@ class ImageProps:
 class ImageFinder:
     def __init__(self, image_word):
         self.word = image_word
-        
+        self.db = server.WPWikiDB()
+
     def find_images(self, text):
         L = []
         
@@ -129,7 +123,7 @@ class ImageFinder:
         return L
 
     def get_images_info(self, title):
-        text = wp.wp_load_article(urllib.url2pathname(title))
+        text = self.db.getExpandedArticle(title)
         return self.find_images(text)
 
     def list_images(self, title):
@@ -158,7 +152,7 @@ def read_links(index):
 def main_task(db_path, indexfile, image_word, base_dir, thumb_width):
     titles = read_links(indexfile)
     print titles
-    load_db(db_path)
+    server.load_db(db_path)
     p = ImageFinder(image_word)
     m = p.get_metadata_all(titles)
     print m
