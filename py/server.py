@@ -183,7 +183,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             if width:
                 attr += 'width="%d" ' % width
             
-            img = '<%s="%s" %s longdesc="%s" %s">' % (tag, url.encode('utf8'), caption.encode('utf8'), caption.encode('utf8'), attr);
+            img = '<%s="%s" %s longdesc="%s" %s/>' % (tag, url.encode('utf8'), caption.encode('utf8'), caption.encode('utf8'), attr);
             
             if thumb:
                 frame = True
