@@ -185,7 +185,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             if width:
                 attr += 'width="%d" ' % width
             
-            img = '<%(tag) %(ref)="%(url)" longdesc="%(caption)" %(attr)></%(tag)>' % \
+            img = '<%(tag)s %(ref)s="%(url)s" longdesc="%(caption)s" %(attr)s></%(tag)s>' % \
                {'tag':tag, 'ref':ref, 'url':url.encode('utf8'), 'caption':caption.encode('utf8'), 'attr':attr}
             
             if thumb:
