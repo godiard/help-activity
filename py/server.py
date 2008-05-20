@@ -172,9 +172,11 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             caption = obj.caption
             
             if re.match(r'.*\.svg$', url, re.IGNORECASE):
-                tag = 'object data'
+                tag = 'object'
+                ref = 'data'
             else:
-                tag = 'img src'
+                tag = 'img'
+                ref = 'src'
             
             print "writeImageLink url=%s frame=%s thumb=%s align=%s caption=%s width=%s" % \
                 (url, frame, thumb, align, caption, width)
@@ -183,7 +185,8 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             if width:
                 attr += 'width="%d" ' % width
             
-            img = '<%s="%s" %s longdesc="%s" %s/>' % (tag, url.encode('utf8'), caption.encode('utf8'), caption.encode('utf8'), attr);
+            img = '<%(tag) %(ref)="%(url)" longdesc="%(caption)" %(attr)></%(tag)>' % \
+               {'tag':tag, 'ref':ref, 'url':url.encode('utf8'), 'caption':caption.encode('utf8'), 'attr':attr}
             
             if thumb:
                 frame = True
