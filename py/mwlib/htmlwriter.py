@@ -133,10 +133,10 @@ class HTMLWriter(object):
             return
 
         
-        self.out.write(t.starttext)
+        self.out.write(t.starttext.encode('utf8'))
         for x in t:
             self.write(x)
-        self.out.write(t.endtext)
+        self.out.write(t.endtext.encode('utf8'))
             
     def writeRow(self, row):
         self.out.write('<tr>')
