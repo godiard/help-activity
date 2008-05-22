@@ -94,7 +94,7 @@ def process_imagelist(list_filename, base_dir, imgword, maxsize=float('inf')):
     with open(list_filename) as f:
         print "opened " + list_filename
         totalsize = 0 #bytes
-        searcher = r"\[\[(?:%s|%s):(.*?)\]\]\s+(\d+)\s+(.*?)$" % (BASEWORD, imgword)
+        searcher = r"\[\[(?:%s|%s):(.*?)\]\]\s+(\d+)\s+(.*?)\s+(.*?)$" % (BASEWORD, imgword)
         print searcher
         for line in f.readlines():
             m = re.search(searcher, line)
@@ -103,17 +103,23 @@ def process_imagelist(list_filename, base_dir, imgword, maxsize=float('inf')):
             wikiname = m.group(1)
             hits = m.group(2)
             width = m.group(3)
+            height = m.group(4)
             print wikiname
             
             if width == 'None':
                 width = None
             else:
                 width = int(width)
-                
+            
+            if height == 'None':
+                height = None
+            else:
+                height = int(height)
+    
             filename = canonicalize_filename(wikiname)
             d = download_image(filename, base_dir)
             if d:
-                s = process_image(d, width)
+                s = process_image(d, width, height)
                 totalsize += s
                 print d + " occupies " + str(s)  + " bytes; running total is " + str(totalsize)
                 if totalsize > maxsize:
