@@ -67,32 +67,28 @@ def download_and_process(imgdict, base_dir, thumb_width):
                     height = max(height, p.height)
             process_image(filename, width, height)
 
-def process_image(d, width=None, height=None):
+MAXWIDTH=800
+MAXHEIGHT=800
+def process_image(d, width=MAXWIDTH, height=MAXHEIGHT):
         vector = d[-3:].upper() == 'SVG'
         if vector:
             svg_factor = 1.0 #compressibility of SVG
-            print "Processing vector image " + d
+            print "Passthrough vector image " + d
             return svg_factor * os.stat(d).st_size
         else:
             print "Processing raster image" + d
-            if width is None:
+            newsize = "%ix%i>" % (width, height)
+            try:
+                subprocess.check_call(['convert', d,"-flatten", "-resize", newsize, "-quality", "20", "JPEG:%s" % d])
+                print "Succesfully resized " + d
                 return os.stat(d).st_size
-            else:
-                if height is None:
-                    newsize = "%i>" % width
-                else:
-                    newsize = "%ix%i>" % (width, height)
+            except:
+                print "Error: convert failed on " + d
                 try:
-                    subprocess.check_call(['convert', d,"-flatten", "-resize", newsize, "-quality", "20", "JPEG:%s" % d])
-                    print "Succesfully resized " + d
-                    return os.stat(d).st_size
+                    os.remove(d)
                 except:
-                    print "Error: convert failed on " + d
-                    try:
-                        os.remove(d)
-                    except:
-                        print "Error: failed to remove " + d
-                    return 0
+                    print "Error: failed to remove " + d
+                return 0
 
 def process_imagelist(list_filename, base_dir, imgword, maxsize=float('inf')):
     with open(list_filename) as f:
