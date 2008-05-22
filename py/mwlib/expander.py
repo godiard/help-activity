@@ -1,8 +1,10 @@
 #! /usr/bin/env python
+# -*- coding: utf-8 -*-
 
 # Copyright (c) 2007-2008 PediaPress GmbH
 # See README.txt for additional licensing information.
 
+from __future__ import with_statement
 import sys
 import re
 import os
@@ -383,7 +385,12 @@ class Expander(object):
         self.parsed = Parser(txt).parse()
         #show(self.parsed)
         self.parsedTemplateCache = {}
-        
+
+        self.blacklist = set()
+        with open("template_blacklist", 'r') as f:
+            for line in f.readlines():
+                self.blacklist.add(line.rstrip())
+
     def getParsedTemplate(self, name):
         if name.startswith("[["):
             return None
@@ -398,7 +405,14 @@ class Expander(object):
                 return self.parsedTemplateCache[name]
             except KeyError:
                 pass
-            raw = self.db.getTemplate(name, True)
+            
+            # Check to see if this is a template in our blacklist --
+            # one that we don't want to bother rendering.
+            if name in self.blacklist:
+                log.info("Skipping template " + name.encode('utf8'))
+                raw = None
+            else:
+                raw = self.db.getTemplate(name, True)
 
         if raw is None:
             log.warn("no template", repr(name))
