@@ -418,10 +418,12 @@ images/f/ff/Lenguas_de_europa.png
 js/instaview-0.6.1.js
 js/instaview-0.6.4.js
 js/wiki2html.js
-mad_withtemplates.xml.bz2.blocks.db
-mad_withtemplates.xml.bz2.locate.db
-mad_withtemplates.xml.bz2.locate.prefixdb
-mad_withtemplates.xml.bz2.processed
+mad_popular2.xml.bz2.index.txt
+mad_popular2.xml.bz2.blocks.db
+mad_popular2.xml.bz2.locate.db
+mad_popular2.xml.bz2.locate.prefixdb
+mad_popular2.xml.bz2.processed
+template_blacklist
 MANIFEST
 NEWS
 py/get_images.py
