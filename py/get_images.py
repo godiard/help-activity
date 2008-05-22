@@ -1,5 +1,6 @@
+from __future__ import with_statement
 import re
-import server
+#import server
 import md5
 import urllib
 import collections
@@ -54,11 +55,7 @@ def download_and_process(imgdict, base_dir, thumb_width):
     for wikiname in imgdict:
         filename = canonicalize_filename(wikiname)
         d = download_image(filename, base_dir)
-        vector = filename[-3:].upper() == 'SVG'
-        if d and vector:
-            print "Downloaded vector image " + d
-        if d and not vector:
-            print "Downloaded raster image" + d
+        if d:
             width = None
             height= None
             for p in imgdict[wikiname]:
@@ -68,7 +65,19 @@ def download_and_process(imgdict, base_dir, thumb_width):
                     width = max(width, thumb_width)
                 if p.height is not None:
                     height = max(height, p.height)
-            if width is not None:
+            process_image(filename, width, height)
+
+def process_image(d, width=None, height=None):
+        vector = d[-3:].upper() == 'SVG'
+        if vector:
+            svg_factor = 1.0 #compressibility of SVG
+            print "Processing vector image " + d
+            return svg_factor * os.stat(d).st_size
+        else:
+            print "Processing raster image" + d
+            if width is None:
+                return os.stat(d).st_size
+            else:
                 if height is None:
                     newsize = "%i>" % width
                 else:
@@ -76,12 +85,44 @@ def download_and_process(imgdict, base_dir, thumb_width):
                 try:
                     subprocess.check_call(['convert', d,"-flatten", "-resize", newsize, "-quality", "20", "JPEG:%s" % d])
                     print "Succesfully resized " + d
+                    return os.stat(d).st_size
                 except:
                     print "Error: convert failed on " + wikiname + " " + d
                     try:
                         os.remove(d)
                     except:
                         print "Error: failed to remove " + d
+                    return 0
+
+def process_imagelist(list_filename, base_dir, imgword, maxsize=float('inf')):
+    with open(list_filename) as f:
+        print "opened " + list_filename
+        totalsize = 0 #bytes
+        searcher = r"\[\[(?:%s|%s):(.*?)\]\]\s+(\d+)\s+(.*?)$" % (BASEWORD, imgword)
+        print searcher
+        for line in f.readlines():
+            m = re.search(searcher, line)
+            if m is None:
+                raise AssertionError("Match didn't work")
+            wikiname = m.group(1)
+            hits = m.group(2)
+            width = m.group(3)
+            print wikiname
+            
+            if width == 'None':
+                width = None
+            else:
+                width = int(width)
+                
+            filename = canonicalize_filename(wikiname)
+            d = download_image(filename, base_dir)
+            if d:
+                s = process_image(d, width)
+                totalsize += s
+                print d + " occupies " + str(s)  + " bytes; running total is " + str(totalsize)
+                if totalsize > maxsize:
+                    break
+
 class ImageProps:
     thumbnail = False
     width = None
@@ -158,4 +199,5 @@ def main_task(db_path, indexfile, image_word, base_dir, thumb_width):
     print m
     download_and_process(m, base_dir, thumb_width)
 
-main_task("/home/olpc/40ormore.xml.bz2", "../static/index.html", "Imagen", "/home/olpc/images", 180)
+#main_task("/home/olpc/40ormore.xml.bz2", "../static/index.html", "Imagen", "/home/olpc/images", 180)
+process_imagelist("/home/olpc/top70k_images", "/home/olpc/images", "Imagen", 15000000)
