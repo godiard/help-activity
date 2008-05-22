@@ -3,6 +3,7 @@
 #
 # Usage: server.py <dbfile> <port>
 #
+from __future__ import with_statement
 import sys
 import os
 import BaseHTTPServer
@@ -36,6 +37,17 @@ class LinkStats:
     alltotal = 1
     pagehits = 1
     pagetotal = 1
+
+class ArticleIndex:
+    # Prepare an in-memory index, using the already generated 
+    # index file.  
+    article_index = set()
+    with open(sys.argv[1] + ".index.txt", 'r') as f:
+        for line in f.readlines():
+            m = re.search(r'(.*?)\s*\d+$', line)
+            if m is None:
+                raise AssertionError("Match didn't work")
+            article_index.add(line.rstrip())
 
 class WPWikiDB:
     """Retrieves article contents for mwlib."""
@@ -114,7 +126,9 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
         title = article
         title = title[0].capitalize() + title[1:]
         title = title.replace("_", " ")
+
         article_exists = wp.wp_article_exists(title.encode('utf8'))
+        # article_exists = title.encode('utf8') in ArticleIndex.article_index
         
         if article_exists:
             # Exact match.  Internal link.
@@ -178,8 +192,8 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
                 tag = 'img'
                 ref = 'src'
             
-            print "writeImageLink url=%s frame=%s thumb=%s align=%s caption=%s width=%s" % \
-                (url, frame, thumb, align, caption, width)
+            #print "writeImageLink url=%s frame=%s thumb=%s align=%s caption=%s width=%s" % \
+            #    (url, frame, thumb, align, caption.encode('utf8'), width)
             
             attr = ''
             if width:
@@ -270,6 +284,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                     title = title[0].capitalize() + title[1:]
                     title = title.replace("_", " ")
                     article_exists = wp.wp_article_exists(title.encode('utf8'))
+                    #article_exists = title.encode('utf8') in ArticleIndex.article_index
 
                     if article_exists:
                         # Exact match.  Internal link.
@@ -291,6 +306,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                     title = title[0].capitalize() + title[1:]
                     title = title.replace("_", " ")
                     article_exists = wp.wp_article_exists(title.encode('utf8'))
+                    #article_exists = title.encode('utf8') in ArticleIndex.article_index
                     
                     if article_exists:
                         LinkStats.allhits += 1
