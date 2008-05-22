@@ -87,7 +87,7 @@ def process_image(d, width=None, height=None):
                     print "Succesfully resized " + d
                     return os.stat(d).st_size
                 except:
-                    print "Error: convert failed on " + wikiname + " " + d
+                    print "Error: convert failed on " + d
                     try:
                         os.remove(d)
                     except:
