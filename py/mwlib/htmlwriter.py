@@ -9,7 +9,7 @@ from mwlib import parser, rendermath, timeline
 import urllib
 import cgi
 
-from PIL import Image
+#from PIL import Image
 
 from mwlib.log import Log
 

@@ -681,8 +681,22 @@ class Parser(object):
     def parseIMAGEMAPTag(self):
         node = self.parseTag()
         txt = "".join(x.caption for x in node.find(Text))
-        from mwlib import imgmap
-        node.imagemap = imgmap.ImageMapFromString(txt)
+        #from mwlib import imgmap
+        #node.imagemap = imgmap.ImageMapFromString(txt)
+
+        class FakeImageMap(object):
+            pass
+
+        node.imagemap = FakeImageMap()
+        node.imagemap.entries = []
+        node.imagemap.imagelink = None
+        match = re.search('Image:.*', txt)
+
+        if match:
+            node.imagemap.image = match.group(0)
+        else:
+            node.imagemap.image = None
+
         parse_fields_in_imagemap(node.imagemap)
 
         #print node.imagemap
