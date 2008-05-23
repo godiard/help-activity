@@ -45,7 +45,7 @@ class WikipediaActivity(webactivity.WebActivity):
         self.server_pid = os.spawnlp(os.P_NOWAIT, 'python', 'python', 'py/server.py', WIKIDB, HTTP_PORT)
 
         # FIXME: Give ourselves five seconds to start the server.
-        time.sleep(5)
+        time.sleep(8)
 
         atexit.register(self.kill_server)
         
