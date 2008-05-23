@@ -622,7 +622,14 @@ def run_server(path, port):
 
     httpd = BaseHTTPServer.HTTPServer(('', port),
         lambda *args: WikiRequestHandler(index, *args))
-    httpd.serve_forever()
+
+    from threading import Thread
+    server = Thread(target=httpd.serve_forever)
+    server.run()
+
+    # Tell the world that we're ready to accept request.
+    print 'ready'
+
 
 if __name__ == '__main__':
     load_db(sys.argv[1])
