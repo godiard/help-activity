@@ -64,7 +64,8 @@ class Renderer(object):
         if basedir:
             self.basedir = os.path.realpath(os.path.join(basedir, 'pngmath/'))
         if not os.path.exists(self.basedir):
-            os.makedirs(self.basedir)
+            #os.makedirs(self.basedir)
+            pass
         self.lazy = lazy
     
     def _render_file(self, name, format):
