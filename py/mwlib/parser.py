@@ -667,6 +667,7 @@ class Parser(object):
                 continue
 
             # either image link or text inside
+            # FIXME: Styles and links in text are ignored!
             n=_parseAtomFromString(u'[['+x+']]')
 
             if isinstance(n, ImageLink):

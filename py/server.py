@@ -119,6 +119,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
     
     def __init__(self, index, wfile, images=None, math_renderer=None):
         self.index = index
+        self.gallerylevel = 0
         mwlib.htmlwriter.HTMLWriter.__init__(self, wfile, images, math_renderer)
 
     def writeLink(self, obj):
@@ -184,6 +185,9 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
         if url is None:
             return
 
+        # The following HTML generation code is copied closely from InstaView, which seems to 
+        # approximate the nest of <div> tags needed to render images close to right.
+        # It's also been extended to support Gallery tags.
         if self.imglevel==0:
             self.imglevel += 1
 
@@ -192,6 +196,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             frame = obj.frame
             caption = obj.caption
             
+            # SVG images must be included using <object data=''> rather than <img src=''>.
             if re.match(r'.*\.svg$', url, re.IGNORECASE):
                 tag = 'object'
                 ref = 'data'
@@ -199,9 +204,10 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
                 tag = 'img'
                 ref = 'src'
             
-            #print "writeImageLink url=%s frame=%s thumb=%s align=%s caption=%s width=%s" % \
-            #    (url, frame, thumb, align, caption.encode('utf8'), width)
-            
+            # Hack to get galleries to look okay, in the absence of image dimensions.
+            if self.gallerylevel > 0:
+                width = 120
+                
             attr = ''
             if width:
                 attr += 'width="%d" ' % width
@@ -216,7 +222,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             if align == 'center':
                 center = True
                 align = None
-                
+
             if center:
                 self.out.write('<div class="center">');
 
@@ -253,6 +259,25 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
                 self.out.write('<div class="float%s">' % align)
                 self.out.write(img)
                 self.out.write('</div>')
+            elif self.gallerylevel > 0:
+                self.out.write('<div class="gallerybox" style="width: 155px;">')
+                
+                self.out.write('<div class="thumb" style="padding: 13px 0; width: 150px;">')
+                self.out.write('<div style="margin-left: auto; margin-right: auto; width: 120px;">')
+                self.out.write('<a href="%s" class="image" title="%s">' % (url.encode("utf8"), caption.encode('utf8')))
+                self.out.write(img)
+                self.out.write('</a>')
+                self.out.write('</div>')
+                self.out.write('</div>')
+
+                self.out.write('<div class="gallerytext">')
+                self.out.write('<p>')
+                for x in obj.children:
+                    self.write(x)
+                self.out.write('</p>')
+                self.out.write('</div>')
+
+                self.out.write('</div>')
             else:
                 self.out.write(img)
 
@@ -262,9 +287,34 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             self.imglevel -= 1
         else:
             self.out.write('<a href="%s">' % url.encode('utf8'))
+            
             for x in obj.children:
                 self.write(x)
+                
             self.out.write('</a>')
+
+    def writeTagNode(self, t):
+        if t.caption == 'gallery':
+            self.out.write('<table class="gallery"  cellspacing="0" cellpadding="0">')
+            
+            self.gallerylevel += 1
+
+            # TODO: More than one row.
+            self.out.write('<tr>')
+            
+            for x in t.children:
+                self.out.write('<td>')
+                self.write(x)
+                self.out.write('</td>')
+                
+            self.out.write('</tr>')
+
+            self.gallerylevel -= 1
+            
+            self.out.write('</table>')
+        else:
+            # All others handled by base class.
+            mwlib.htmlwriter.HTMLWriter.writeTagNode(self, t)
 
 class WikiRequestHandler(SimpleHTTPRequestHandler):
     def __init__(self, index, request, client_address, server):
@@ -509,23 +559,34 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             (key, sep, value) = p.partition('=')
             self.params[key] = value
 
+        # Wiki requests return article contents or redirect to Wikipedia.
         m = re.match(r'^/wiki/(.+)$', real_path)
         if m:
             self.send_article(m.group(1))
             return
 
+        # Search requests return search results.
         m = re.match(r'^/search$', real_path)
         if m:
             self.send_searchresult(self.params.get('q', ''))
             return
 
+        # Image requests are handled locally or are referenced from Wikipedia.
         m = re.match(r'^/images/(.+)$', real_path)
         if m:
             self.send_image(m.group(1))
             return
-        
-        # Pass through all other requests to SimpleHTTPServer.
-        SimpleHTTPRequestHandler.do_GET(self)
+
+        # Static requests handed off to SimpleHTTPServer.
+        m = re.match(r'^/static/(.+)$', real_path)
+        if m:
+            SimpleHTTPRequestHandler.do_GET(self)
+            return
+
+        # Any other request redirects to the index page.        
+        self.send_response(301)
+        self.send_header("Location", "/static/")
+        self.end_headers()
 
 def load_db(dbname):
     wp.wp_load_dump(
