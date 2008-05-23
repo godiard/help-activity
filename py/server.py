@@ -41,13 +41,15 @@ class LinkStats:
 class ArticleIndex:
     # Prepare an in-memory index, using the already generated 
     # index file.  
-    article_index = set()
-    with open(sys.argv[1] + ".index.txt", 'r') as f:
-        for line in f.readlines():
-            m = re.search(r'(.*?)\s*\d+$', line)
-            if m is None:
-                raise AssertionError("Match didn't work")
-            article_index.add(line.rstrip())
+
+    def __init__(self, path):
+        self.article_index = set()
+        with open(path, 'r') as f:
+            for line in f.readlines():
+                m = re.search(r'(.*?)\s*\d+$', line)
+                if m is None:
+                    raise AssertionError("Match didn't work")
+                self.article_index.add(m.group(1))
 
 class WPWikiDB:
     """Retrieves article contents for mwlib."""
