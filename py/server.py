@@ -7,6 +7,7 @@
 from __future__ import with_statement
 import sys
 import os
+from StringIO import StringIO
 import BaseHTTPServer
 from SimpleHTTPServer import SimpleHTTPRequestHandler
 import urllib
@@ -114,6 +115,20 @@ class WPImageDB:
         #print "getUrl: %s -> %s" % (name.encode('utf8'), url.encode('utf8'))
         return url
 
+class HTMLOutputBuffer:
+    """Buffers output and converts to utf8 as needed."""
+    def __init__(self):
+        self.buffer = ''
+
+    def write(self, obj):
+        if isinstance(obj, unicode):
+            self.buffer += str(obj).encode('utf8')
+        else:
+            self.buffer += str(obj)
+    
+    def getvalue(self):
+        return self.buffer
+    
 class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
     """Customizes HTML output from mwlib."""
     
@@ -455,9 +470,13 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         wiki_parsed = parser.Parser(tokens, title).parse()
         wiki_parsed.caption = title
 
+        htmlbuf = HTMLOutputBuffer()
+        
         imagedb = WPImageDB()
-        writer = WPHTMLWriter(self.index, self.wfile, images=imagedb)
+        writer = WPHTMLWriter(self.index, htmlbuf, images=imagedb)
         writer.write(wiki_parsed)
+        
+        self.wfile.write(htmlbuf.getvalue())
 
     def send_article(self, title):
         article_text = self.get_wikitext(title)
@@ -578,7 +597,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             return
 
         # Static requests handed off to SimpleHTTPServer.
-        m = re.match(r'^/static/(.+)$', real_path)
+        m = re.match(r'^/static/(.*)$', real_path)
         if m:
             SimpleHTTPRequestHandler.do_GET(self)
             return
