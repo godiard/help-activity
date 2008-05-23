@@ -59,5 +59,5 @@ class WikipediaActivity(webactivity.WebActivity):
     
     def kill_server(self):
         print "Stopping server...\n"
-        os.kill(self.server_pid, signal.SIGHUP)
+        os.kill(self.server_pid, signal.SIGTERM)
 
