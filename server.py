@@ -109,14 +109,14 @@ class WPImageDB:
     
     def getPath(self, name, size=None):
         hashed_name = self.hashpath(name)
-        path = 'images/%s' % hashed_name
+        path = 'es_PE/images/%s' % hashed_name
         #print "getPath: %s -> %s" % (name.encode('utf8'), path.encode('utf8'))
         return path
 
     def getURL(self, name, size=None):
         hashed_name = self.hashpath(name)
-        if os.path.exists('images/' + hashed_name):
-            url = '/images/' + hashed_name
+        if os.path.exists('es_PE/images/' + hashed_name):
+            url = '/es_PE/images/' + hashed_name
         else:
             url = 'http://upload.wikimedia.org/wikipedia/commons/' + hashed_name
         #print "getUrl: %s -> %s" % (name.encode('utf8'), url.encode('utf8'))
@@ -458,7 +458,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         self.wfile.write("</body></html>")
 
     def send_image(self, path):
-        if os.path.exists('images/' + path):
+        if os.path.exists('es_PE/images/' + path):
             # If image exists locally, serve it as normal.
             SimpleHTTPRequestHandler.do_GET(self)
         else:
