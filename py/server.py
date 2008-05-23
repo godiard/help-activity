@@ -116,7 +116,8 @@ class WPImageDB:
 class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
     """Customizes HTML output from mwlib."""
     
-    def __init__(self, wfile, images=None, math_renderer=None):
+    def __init__(self, index, wfile, images=None, math_renderer=None):
+        self.index = index
         mwlib.htmlwriter.HTMLWriter.__init__(self, wfile, images, math_renderer)
 
     def writeLink(self, obj):
@@ -265,6 +266,11 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             self.out.write('</a>')
 
 class WikiRequestHandler(SimpleHTTPRequestHandler):
+    def __init__(self, index, request, client_address, server):
+        self.index = index
+        SimpleHTTPRequestHandler.__init__(
+            self, request, client_address, server)
+
     def resolve_links(self, article_prelinks):
         LinkStats.pagehits = 1
         LinkStats.pagetotal = 1
@@ -399,7 +405,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         wiki_parsed.caption = title
 
         imagedb = WPImageDB()
-        writer = WPHTMLWriter(self.wfile, images=imagedb)
+        writer = WPHTMLWriter(self.index, self.wfile, images=imagedb)
         writer.write(wiki_parsed)
 
     def send_article(self, title):
@@ -526,8 +532,11 @@ def load_db(dbname):
         dbname + '.locate.prefixdb',
         dbname + '.blocks.db')
 
-def run_server(port):
-    httpd = BaseHTTPServer.HTTPServer(('', port), WikiRequestHandler)
+def run_server(path, port):
+    index = ArticleIndex('%s.index.txt' % path)
+
+    httpd = BaseHTTPServer.HTTPServer(('', port),
+        lambda *args: WikiRequestHandler(index, *args))
     httpd.serve_forever()
 
 if __name__ == '__main__':
@@ -538,4 +547,4 @@ if __name__ == '__main__':
     #if os.fork():
     #    sys.exit(0)
         
-    run_server(int(sys.argv[2]))
+    run_server(sys.argv[1], int(sys.argv[2]))
