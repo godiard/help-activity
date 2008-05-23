@@ -167,7 +167,7 @@ class HTMLWriter(object):
         self.out.write('<tt>%s</tt>' % latex)
 
     def writeURL(self, obj):
-        self.out.write('<a href="%s" class="hastooltip" ttid="externallink">' % obj.caption)
+        self.out.write('<a href="%s" class="offsite" ttid="externallink">' % obj.caption)
         if obj.children:
             for x in obj.children:
                 self.write(x)
@@ -177,7 +177,7 @@ class HTMLWriter(object):
         self.out.write('&nbsp;<img src="/static/outgoing_link.gif" /></a>')
 
     def writeNamedURL(self, obj):
-        self.out.write('<a href="%s" class="hastooltip" ttid="externallink">' % obj.caption)
+        self.out.write('<a href="%s" class="offsite" ttid="externallink">' % obj.caption)
         if obj.children:
             for x in obj.children:
                 self.write(x)
