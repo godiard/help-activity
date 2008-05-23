@@ -491,7 +491,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             return
 
         # Image requests are handled locally or are referenced from Wikipedia.
-        m = re.match(r'^/images/(.+)$', real_path)
+        m = re.match(r'^/es_PE/images/(.+)$', real_path)
         if m:
             self.send_image(m.group(1))
             return
