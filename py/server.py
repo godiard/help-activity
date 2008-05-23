@@ -133,8 +133,8 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
         title = title[0].capitalize() + title[1:]
         title = title.replace("_", " ")
 
-        article_exists = wp.wp_article_exists(title.encode('utf8'))
-        # article_exists = title.encode('utf8') in ArticleIndex.article_index
+        #article_exists = wp.wp_article_exists(title.encode('utf8'))
+        article_exists = title.encode('utf8') in self.index
         
         if article_exists:
             # Exact match.  Internal link.
@@ -294,8 +294,8 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                     title = prepipe
                     title = title[0].capitalize() + title[1:]
                     title = title.replace("_", " ")
-                    article_exists = wp.wp_article_exists(title.encode('utf8'))
-                    #article_exists = title.encode('utf8') in ArticleIndex.article_index
+                    #article_exists = wp.wp_article_exists(title.encode('utf8'))
+                    article_exists = title.encode('utf8') in self.index
 
                     if article_exists:
                         # Exact match.  Internal link.
@@ -316,8 +316,8 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                     title = link
                     title = title[0].capitalize() + title[1:]
                     title = title.replace("_", " ")
-                    article_exists = wp.wp_article_exists(title.encode('utf8'))
-                    #article_exists = title.encode('utf8') in ArticleIndex.article_index
+                    #article_exists = wp.wp_article_exists(title.encode('utf8'))
+                    article_exists = title.encode('utf8') in self.index
                     
                     if article_exists:
                         LinkStats.allhits += 1
