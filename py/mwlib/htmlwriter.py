@@ -349,7 +349,12 @@ class HTMLWriter(object):
         if a.caption:
             self.out.write("<h1>")
             self._write(a.caption)
-            self.out.write("</h1>")
+            self.out.write(' <font size=1>&middot; <a class="offsite" ')
+            self.out.write('href="http://es.wikipedia.org/wiki/')
+            self._write(a.caption)
+            self.out.write('">De Wikipedia, la enciclopedia libre</a>')
+            self.out.write("</font>")
+            self.out.write('</h1>')
             
         for x in a:
             self.write(x)

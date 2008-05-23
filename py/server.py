@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #
 # Web server script for Wikiserver project.
 #
@@ -456,7 +457,8 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                 self.send_wiki_html_mwlib(title, article_text)
             else:
                 self.send_wiki_html_js(article_text, parser)
-        
+
+            self.wfile.write('<center>Contenido disponible bajo los términos de la <a href="/static/es-gfdl.html">Licencia de documentación libre de GNU</a>. <br/> Wikipedia es una marca registrada de la organización sin ánimo de lucro Wikimedia Foundation, Inc.<br/><a href="/static/acerca.html">Acerca de Wikipedia</a> </center>')
             self.wfile.write("</body></html>")
     
     def send_searchresult(self, title):
