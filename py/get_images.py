@@ -51,6 +51,21 @@ def download_image(filename, base_dir):
         return False
     return dest
 
+def make_svg_wrapper(name, width, height):
+    s = '<svg xmlns="http://www.w3.org/2000/svg" version="1.2" xmlns:xlink="http://www.w3.org/1999/xlink" width="%(width)i" height="%(height)i" viewbox="0 0 %(width)i %(height)i"><image xlink:href="%(name)s" width="100%%" height="100%%" x="0" y="0"/></svg>' % {'name':name, 'width':width, 'height':height }
+    return s
+
+def get_dims(path):
+    try:
+        p = subprocess.Popen(['identify','-format','%wx%h',path],stdout=subprocess.PIPE)
+        p.wait()
+        s = p.stdout.read()
+        l = s.split('x')
+        return (int(l[0]), int(l[1]))
+    except:
+        print "Failed to get dims"
+        return False
+
 def download_and_process(imgdict, base_dir, thumb_width):
     for wikiname in imgdict:
         filename = canonicalize_filename(wikiname)
@@ -70,18 +85,39 @@ def download_and_process(imgdict, base_dir, thumb_width):
 MAXWIDTH=800
 MAXHEIGHT=800
 def process_image(d, width=None, height=None):
+        if width is None:
+            width = MAXWIDTH
+        if height is None:
+            height = MAXHEIGHT
+        newsize = "%ix%i>" % (width, height)
         vector = d[-3:].upper() == 'SVG'
         if vector:
-            svg_factor = 1.0 #compressibility of SVG
-            print "Passthrough vector image " + d
-            return svg_factor * os.stat(d).st_size
+            try:
+                jpg_name = d + '.jpg'
+                subprocess.check_call(['convert', d,"-flatten", "-resize", newsize, "-quality", "20", "JPEG:%s" % jpg_name])
+                (width, height) = get_dims(jpg_name)
+                print width, height
+                endname = jpg_name.split('/')[-1]
+                s = make_svg_wrapper(endname, width, height)
+                print s
+                f = open(d,'w')
+                f.write(s)
+                f.truncate()
+                f.close()
+                svg_factor = 1.0 #compressibility of SVG
+                print "Processing vector image " + d
+                return os.stat(jpg_name).st_size + svg_factor * os.stat(d).st_size
+            except:
+                print "Error: convert failed on " + d
+                try:
+                    os.remove(d)
+                    os.remove(jpg_name)
+                except:
+                    print "Error: failed to remove " + d
+                return 0
+                
         else:
-            if width is None:
-                width = MAXWIDTH
-            if height is None:
-                height = MAXHEIGHT
-            print "Processing raster image" + d
-            newsize = "%ix%i>" % (width, height)
+            print "Processing raster image " + d
             try:
                 subprocess.check_call(['convert', d,"-flatten", "-resize", newsize, "-quality", "20", "JPEG:%s" % d])
                 print "Succesfully resized " + d
