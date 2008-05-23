@@ -96,17 +96,24 @@ def process_image(d, width=None, height=None):
                 jpg_name = d + '.jpg'
                 subprocess.check_call(['convert', d,"-flatten", "-resize", newsize, "-quality", "20", "JPEG:%s" % jpg_name])
                 (width, height) = get_dims(jpg_name)
-                print width, height
-                endname = jpg_name.split('/')[-1]
-                s = make_svg_wrapper(endname, width, height)
-                print s
-                f = open(d,'w')
-                f.write(s)
-                f.truncate()
-                f.close()
-                svg_factor = 1.0 #compressibility of SVG
+
+                svg_factor = 0.3 #favorability of SVG
                 print "Processing vector image " + d
-                return os.stat(jpg_name).st_size + svg_factor * os.stat(d).st_size
+                jpg_size = os.stat(jpg_name).st_size 
+                svg_size = svg_factor * os.stat(d).st_size
+                if svg_size > jpg_size: 
+                    print "Replacing svg by a raster wrapper"
+                    endname = jpg_name.split('/')[-1]
+                    s = make_svg_wrapper(endname, width, height)
+                    f = open(d,'w')
+                    f.write(s)
+                    f.truncate()
+                    f.close()
+                    return jpg_size + os.stat(d).st_size
+                else:
+                    print "Preserving svg as vector"
+                    os.remove(jpg_name)
+                    return os.stat(d).st_size
             except:
                 print "Error: convert failed on " + d
                 try:
