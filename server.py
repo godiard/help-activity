@@ -55,6 +55,7 @@ class WPWikiDB:
         while True:
             # Capitalize the first letter of the article -- Trac #6991.
             title = title[0].capitalize() + title[1:]
+
             # Replace underscores with spaces in title.
             title = title.replace("_", " ")
             article_text = unicode(wp.wp_load_article(title.encode('utf8')), 'utf8')
@@ -66,8 +67,7 @@ class WPWikiDB:
             if not m: break
             title = m.group(1)
 
-        # WTB: Stripping whitespace improves template expansion.
-        # TODO: Where is it coming from?
+        # Stripping leading & trailing whitespace fixes template expansion.
         article_text = article_text.lstrip()
         article_text = article_text.rstrip()
         
@@ -108,6 +108,7 @@ class WPImageDB:
 
 class HTMLOutputBuffer:
     """Buffers output and converts to utf8 as needed."""
+
     def __init__(self):
         self.buffer = ''
 
@@ -141,7 +142,6 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
         title = title[0].capitalize() + title[1:]
         title = title.replace("_", " ")
 
-        #article_exists = wp.wp_article_exists(title.encode('utf8'))
         article_exists = title.encode('utf8') in self.index
         
         if article_exists:
@@ -331,86 +331,6 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         SimpleHTTPRequestHandler.__init__(
             self, request, client_address, server)
 
-    def resolve_links(self, article_prelinks):
-        LinkStats.pagehits = 1
-        LinkStats.pagetotal = 1
-
-        for match in re.finditer(r"\[\[(.*?)\]\]", article_prelinks):
-            if match:
-                link = match.group(1)
-                pipes = link.count("|")
-                toreplace = "[[" + link + "]]"
-
-                if pipes > 1:
-                    continue
-
-                # First, see if we have a [[foo|bar]]-style link.
-                pipematch = re.search(r"(.*?)\|(.*)", link)
-
-                if pipematch:
-                    prepipe  = pipematch.group(1)
-                    postpipe = pipematch.group(2)
-
-                    title = prepipe
-                    title = title[0].capitalize() + title[1:]
-                    title = title.replace("_", " ")
-                    #article_exists = wp.wp_article_exists(title.encode('utf8'))
-                    article_exists = title.encode('utf8') in self.index
-
-                    if article_exists:
-                        # Exact match.  Internal link.
-                        LinkStats.allhits += 1
-                        LinkStats.alltotal += 1
-                        LinkStats.pagehits += 1
-                        LinkStats.pagetotal += 1
-                        article_prelinks = article_prelinks.replace(toreplace, "<a href='/wiki/%s'>%s</a>" % (prepipe, postpipe))
-                    else:
-                        # No match.  External link.  Use es.wikipedia.org.
-                        # FIXME:  Decide between es.w.o and schoolserver.
-                        LinkStats.alltotal += 1
-                        LinkStats.pagetotal += 1
-                        article_prelinks = article_prelinks.replace(toreplace, "<a class='offsite' href='http://es.wikipedia.org/wiki/%s'>%s</a>" % (prepipe, postpipe))
-
-                else:
-                    # [[foo]]-style link.
-                    title = link
-                    title = title[0].capitalize() + title[1:]
-                    title = title.replace("_", " ")
-                    #article_exists = wp.wp_article_exists(title.encode('utf8'))
-                    article_exists = title.encode('utf8') in self.index
-                    
-                    if article_exists:
-                        LinkStats.allhits += 1
-                        LinkStats.alltotal += 1
-                        LinkStats.pagehits += 1
-                        LinkStats.pagetotal += 1
-                    else:
-                        article_prelinks = article_prelinks.replace(toreplace, "<a class='offsite' href='http://es.wikipedia.org/wiki/%s'>%s</a>" % (link, link))
-                        LinkStats.alltotal += 1
-                        LinkStats.pagetotal += 1
-                        
-        return article_prelinks
-    
-    def strip_templates(self, wikitext):
-        """Recursively strips all {{ }} style templates from 'wikitext'."""
-        output = ''
-        nest_level = 0
-        i = 0
-        while i < len(wikitext)-1:
-            if wikitext[i] == '{' and wikitext[i+1] == '{':
-                nest_level += 1
-                i += 2
-            elif wikitext[i] == '}' and wikitext[i+1] == '}':
-                nest_level -= 1
-                if nest_level < 0:
-                    nest_level = 0
-                i += 2
-            else:
-                if nest_level == 0:
-                    output += wikitext[i]
-                i += 1
-        return output
-
     def get_wikitext(self, title):
         wikidb = WPWikiDB()
         article_text = wikidb.getRawArticle(title)
@@ -452,6 +372,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
         # Capitalize the first letter of the article -- Trac #6991.
         title = title[0].capitalize() + title[1:]
+
         # Replace underscores with spaces in title.
         title = title.replace("_", " ")
 
@@ -594,9 +515,4 @@ def run_server(path, port):
 if __name__ == '__main__':
     load_db(sys.argv[1])
 
-    # This is an attempt to work around a race condition where Browse starts up before
-    # the server has loaded the index.  Not working yet, though.
-    #if os.fork():
-    #    sys.exit(0)
-        
     run_server(sys.argv[1], int(sys.argv[2]))
