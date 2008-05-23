@@ -42,7 +42,7 @@ class WikipediaActivity(webactivity.WebActivity):
         print "Starting server...\n"
         
         os.chdir(os.environ['SUGAR_BUNDLE_PATH'])
-        self.server_pid = os.spawnlp(os.P_NOWAIT, 'python', 'python', 'py/server.py', WIKIDB, HTTP_PORT)
+        self.server_pid = os.spawnlp(os.P_NOWAIT, 'python', 'python', 'server.py', WIKIDB, HTTP_PORT)
 
         # FIXME: Give ourselves five seconds to start the server.
         time.sleep(8)
