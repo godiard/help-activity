@@ -497,6 +497,7 @@ py/_wp.so
 py/wp/wp.i
 searchtoolbar.py
 setup.py
+static/acerca.html
 static/audio.png
 static/biology.png
 static/bullet.gif
@@ -504,6 +505,7 @@ static/common.css
 static/discussionitem_icon.gif
 static/document.png
 static/earth.png
+static/es-gfdl.html
 static/external.png
 static/file_icon.gif
 static/headbg.jpg
