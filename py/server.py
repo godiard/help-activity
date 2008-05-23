@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #
 # Web server script for Wikiserver project.
 #
@@ -41,13 +42,18 @@ class LinkStats:
 class ArticleIndex:
     # Prepare an in-memory index, using the already generated 
     # index file.  
-    article_index = set()
-    with open(sys.argv[1] + ".index.txt", 'r') as f:
-        for line in f.readlines():
-            m = re.search(r'(.*?)\s*\d+$', line)
-            if m is None:
-                raise AssertionError("Match didn't work")
-            article_index.add(line.rstrip())
+
+    def __init__(self, path):
+        self.article_index = set()
+        with open(path, 'r') as f:
+            for line in f.readlines():
+                m = re.search(r'(.*?)\s*\d+$', line)
+                if m is None:
+                    raise AssertionError("Match didn't work")
+                self.article_index.add(m.group(1))
+
+    def __contains__(self, x):
+        return x in self.article_index
 
 class WPWikiDB:
     """Retrieves article contents for mwlib."""
@@ -111,7 +117,8 @@ class WPImageDB:
 class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
     """Customizes HTML output from mwlib."""
     
-    def __init__(self, wfile, images=None, math_renderer=None):
+    def __init__(self, index, wfile, images=None, math_renderer=None):
+        self.index = index
         mwlib.htmlwriter.HTMLWriter.__init__(self, wfile, images, math_renderer)
 
     def writeLink(self, obj):
@@ -127,8 +134,8 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
         title = title[0].capitalize() + title[1:]
         title = title.replace("_", " ")
 
-        article_exists = wp.wp_article_exists(title.encode('utf8'))
-        # article_exists = title.encode('utf8') in ArticleIndex.article_index
+        #article_exists = wp.wp_article_exists(title.encode('utf8'))
+        article_exists = title.encode('utf8') in self.index
         
         if article_exists:
             # Exact match.  Internal link.
@@ -260,6 +267,11 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             self.out.write('</a>')
 
 class WikiRequestHandler(SimpleHTTPRequestHandler):
+    def __init__(self, index, request, client_address, server):
+        self.index = index
+        SimpleHTTPRequestHandler.__init__(
+            self, request, client_address, server)
+
     def resolve_links(self, article_prelinks):
         LinkStats.pagehits = 1
         LinkStats.pagetotal = 1
@@ -283,8 +295,8 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                     title = prepipe
                     title = title[0].capitalize() + title[1:]
                     title = title.replace("_", " ")
-                    article_exists = wp.wp_article_exists(title.encode('utf8'))
-                    #article_exists = title.encode('utf8') in ArticleIndex.article_index
+                    #article_exists = wp.wp_article_exists(title.encode('utf8'))
+                    article_exists = title.encode('utf8') in self.index
 
                     if article_exists:
                         # Exact match.  Internal link.
@@ -305,8 +317,8 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                     title = link
                     title = title[0].capitalize() + title[1:]
                     title = title.replace("_", " ")
-                    article_exists = wp.wp_article_exists(title.encode('utf8'))
-                    #article_exists = title.encode('utf8') in ArticleIndex.article_index
+                    #article_exists = wp.wp_article_exists(title.encode('utf8'))
+                    article_exists = title.encode('utf8') in self.index
                     
                     if article_exists:
                         LinkStats.allhits += 1
@@ -394,7 +406,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         wiki_parsed.caption = title
 
         imagedb = WPImageDB()
-        writer = WPHTMLWriter(self.wfile, images=imagedb)
+        writer = WPHTMLWriter(self.index, self.wfile, images=imagedb)
         writer.write(wiki_parsed)
 
     def send_article(self, title):
@@ -445,7 +457,8 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
                 self.send_wiki_html_mwlib(title, article_text)
             else:
                 self.send_wiki_html_js(article_text, parser)
-        
+
+            self.wfile.write('<center>Contenido disponible bajo los términos de la <a href="/static/es-gfdl.html">Licencia de documentación libre de GNU</a>. <br/> Wikipedia es una marca registrada de la organización sin ánimo de lucro Wikimedia Foundation, Inc.<br/><a href="/static/acerca.html">Acerca de Wikipedia</a> </center>')
             self.wfile.write("</body></html>")
     
     def send_searchresult(self, title):
@@ -521,8 +534,11 @@ def load_db(dbname):
         dbname + '.locate.prefixdb',
         dbname + '.blocks.db')
 
-def run_server(port):
-    httpd = BaseHTTPServer.HTTPServer(('', port), WikiRequestHandler)
+def run_server(path, port):
+    index = ArticleIndex('%s.index.txt' % path)
+
+    httpd = BaseHTTPServer.HTTPServer(('', port),
+        lambda *args: WikiRequestHandler(index, *args))
     httpd.serve_forever()
 
 if __name__ == '__main__':
@@ -533,4 +549,4 @@ if __name__ == '__main__':
     #if os.fork():
     #    sys.exit(0)
         
-    run_server(int(sys.argv[2]))
+    run_server(sys.argv[1], int(sys.argv[2]))
