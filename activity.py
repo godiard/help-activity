@@ -32,7 +32,7 @@ from searchtoolbar import SearchToolbar
 
 # Default settings.
 HTTP_PORT = '8000'
-WIKIDB = 'mad_popular2.xml.bz2'
+WIKIDB = 'es_PE/es_PE.xml.bz2'
 HOME_PAGE = '/static/'
 
 # Activity class, extends WebActivity.
