@@ -54,7 +54,8 @@ class WikipediaActivity(webactivity.WebActivity):
         webactivity.WebActivity.__init__(self, handle)
         
         self.searchtoolbar = SearchToolbar(self)
-        self.toolbox.add_toolbar(_('Search'), self.searchtoolbar)
+        # WTB: Hacked to use hardcoded Spanish localization for WikiBrowse release.
+        self.toolbox.add_toolbar('Buscar', self.searchtoolbar)
         self.searchtoolbar.show()    
     
     def kill_server(self):
