@@ -51,6 +51,9 @@ class ArticleIndex:
                     raise AssertionError("Match didn't work")
                 self.article_index.add(m.group(1))
 
+    def __contains__(self, x):
+        return x in self.article_index
+
 class WPWikiDB:
     """Retrieves article contents for mwlib."""
 
