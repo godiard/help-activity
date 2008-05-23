@@ -222,7 +222,10 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             # Hack to get galleries to look okay, in the absence of image dimensions.
             if self.gallerylevel > 0:
                 width = 120
-                
+            
+            if thumb and not width:
+                width = 180 #FIXME: This should not be hardcoded
+    
             attr = ''
             if width:
                 attr += 'width="%d" ' % width
