@@ -387,7 +387,7 @@ class Expander(object):
         self.parsedTemplateCache = {}
 
         self.blacklist = set()
-        with open("template_blacklist", 'r') as f:
+        with open("es_PE/template_blacklist", 'r') as f:
             for line in f.readlines():
                 self.blacklist.add(line.rstrip())
 

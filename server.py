@@ -25,15 +25,6 @@ except ImportError:
 import mwlib.htmlwriter
 from mwlib import parser, scanner, expander
 
-parsers = [
-    '/js/wiki2html.js',
-    '/js/instaview-0.6.1.js',
-    '/js/instaview-0.6.4.js',
-    'mwlib',
-]
-
-default_parser = 3
-
 class LinkStats:
     allhits = 1
     alltotal = 1
@@ -442,32 +433,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
         return article_text
     
-    def send_wiki_html_js(self, article_text, parser):
-        self.wfile.write("<script type='text/javascript' src='%s'></script>" % parser)
-
-        #self.wfile.write("Internal hits on this page: %d<br>" % LinkStats.pagehits)
-        #self.wfile.write("Total links on this page: %d<br>" % LinkStats.pagetotal)
-        #page_percent = ((1.0 * LinkStats.pagehits / LinkStats.pagetotal) * 100)
-        #self.wfile.write("Percentage: %.2f<br>" % page_percent)
-        #self.wfile.write("Internal hits so far: %d<br>" % LinkStats.allhits)
-        #self.wfile.write("Total links so far: %d<br>" % LinkStats.alltotal)
-        #total_percent = ((1.0 * LinkStats.allhits / LinkStats.alltotal) * 100)
-        #self.wfile.write("Percentage: %.2f<br>" % total_percent)        
-        
-        # Link resolution.
-        article_text = self.resolve_links(article_text)
-
-        # Embed article text and call parser.
-        jstext = ''
-        for l in article_text.split('\n'):
-            jstext += re.escape(l) + '\\n\\\n'
-
-        self.wfile.write("<script type='text/javascript'>");
-        self.wfile.write("var wikitext = \"%s\";" % jstext.encode('utf8'));
-        self.wfile.write("document.write(convert_wiki_to_html(unescape(wikitext)));");
-        self.wfile.write("</script>")
-
-    def send_wiki_html_mwlib(self, title, article_text):
+    def send_wiki_html(self, title, article_text):
         tokens = scanner.tokenize(article_text, title)
 
         wiki_parsed = parser.Parser(tokens, title).parse()
@@ -522,13 +488,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             
             self.wfile.write("<body>")
             
-            parser_index = int(self.params.get('parser', default_parser))
-            parser = parsers[parser_index]
-            
-            if parser == 'mwlib':
-                self.send_wiki_html_mwlib(title, article_text)
-            else:
-                self.send_wiki_html_js(article_text, parser)
+            self.send_wiki_html(title, article_text)
 
             self.wfile.write('<center>Contenido disponible bajo los términos de la <a href="/static/es-gfdl.html">Licencia de documentación libre de GNU</a>. <br/> Wikipedia es una marca registrada de la organización sin ánimo de lucro Wikimedia Foundation, Inc.<br/><a href="/static/acerca.html">Acerca de Wikipedia</a> </center>')
             self.wfile.write("</body></html>")
