@@ -355,7 +355,7 @@ class ImageLink(Link):
     frame = False
     
     def isInline(self):
-        return not bool(self.align or self.thumb)
+        return not bool(self.align or self.thumb or self.frame)
     
 class LangLink(Link):
     pass
