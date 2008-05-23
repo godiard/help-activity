@@ -69,13 +69,17 @@ def download_and_process(imgdict, base_dir, thumb_width):
 
 MAXWIDTH=800
 MAXHEIGHT=800
-def process_image(d, width=MAXWIDTH, height=MAXHEIGHT):
+def process_image(d, width=None, height=None):
         vector = d[-3:].upper() == 'SVG'
         if vector:
             svg_factor = 1.0 #compressibility of SVG
             print "Passthrough vector image " + d
             return svg_factor * os.stat(d).st_size
         else:
+            if width is None:
+                width = MAXWIDTH
+            if height is None:
+                height = MAXHEIGHT
             print "Processing raster image" + d
             newsize = "%ix%i>" % (width, height)
             try:
@@ -104,7 +108,7 @@ def process_imagelist(list_filename, base_dir, imgword, maxsize=float('inf')):
             hits = m.group(2)
             width = m.group(3)
             height = m.group(4)
-            print wikiname
+            print wikiname, hits, width, height
             
             if width == 'None':
                 width = None
@@ -202,4 +206,4 @@ def main_task(db_path, indexfile, image_word, base_dir, thumb_width):
     download_and_process(m, base_dir, thumb_width)
 
 #main_task("/home/olpc/40ormore.xml.bz2", "../static/index.html", "Imagen", "/home/olpc/images", 180)
-process_imagelist("/home/olpc/top70k_images", "/home/olpc/images", "Imagen", 15000000)
+process_imagelist("/home/olpc/top70k_images2", "/home/olpc/images", "Imagen", 15000000)
