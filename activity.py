@@ -20,6 +20,7 @@ import os
 import sys
 import signal
 import atexit
+import time
 
 from sugar.activity import registry
 activity_info = registry.get_registry().get_activity('org.laptop.WebActivity')
@@ -42,7 +43,10 @@ class WikipediaActivity(webactivity.WebActivity):
         
         os.chdir(os.environ['SUGAR_BUNDLE_PATH'])
         self.server_pid = os.spawnlp(os.P_NOWAIT, 'python', 'python', 'py/server.py', WIKIDB, HTTP_PORT)
-        
+
+        # FIXME: Give ourselves five seconds to start the server.
+        time.sleep(5)
+
         atexit.register(self.kill_server)
         
         handle.uri = 'http://localhost:%s%s' % (HTTP_PORT, HOME_PAGE)
@@ -55,5 +59,5 @@ class WikipediaActivity(webactivity.WebActivity):
     
     def kill_server(self):
         print "Stopping server...\n"
-        os.kill(self.server_pid, signal.SIGHUP)
+        os.kill(self.server_pid, signal.SIGTERM)
 
