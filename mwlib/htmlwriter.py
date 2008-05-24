@@ -237,7 +237,8 @@ class HTMLWriter(object):
                 self._write(obj.target)
 
     def writeTimeline(self, obj):
-        img = timeline.drawTimeline(obj.caption)
+        #img = timeline.drawTimeline(obj.caption)
+        img = None
         if img is None:
             return
         
