@@ -522,7 +522,7 @@ def run_server(path, port):
 
     from threading import Thread
     server = Thread(target=httpd.serve_forever)
-    server.run()
+    server.start()
 
     # Tell the world that we're ready to accept request.
     print 'ready'

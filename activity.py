@@ -18,9 +18,7 @@ from gettext import gettext as _
 
 import os
 import sys
-import signal
-import atexit
-import time
+import server
 
 from sugar.activity import registry
 activity_info = registry.get_registry().get_activity('org.laptop.WebActivity')
@@ -42,13 +40,10 @@ class WikipediaActivity(webactivity.WebActivity):
         print "Starting server...\n"
         
         os.chdir(os.environ['SUGAR_BUNDLE_PATH'])
-        self.server_pid = os.spawnlp(os.P_NOWAIT, 'python', 'python', 'server.py', WIKIDB, HTTP_PORT)
-
-        # FIXME: Give ourselves five seconds to start the server.
-        time.sleep(8)
-
-        atexit.register(self.kill_server)
         
+        server.load_db(WIKIDB)
+        server.run_server(WIKIDB, int(HTTP_PORT))
+
         handle.uri = 'http://localhost:%s%s' % (HTTP_PORT, HOME_PAGE)
 
         webactivity.WebActivity.__init__(self, handle)
@@ -56,9 +51,4 @@ class WikipediaActivity(webactivity.WebActivity):
         self.searchtoolbar = SearchToolbar(self)
         # WTB: Hacked to use hardcoded Spanish localization for WikiBrowse release.
         self.toolbox.add_toolbar('Buscar', self.searchtoolbar)
-        self.searchtoolbar.show()    
-    
-    def kill_server(self):
-        print "Stopping server...\n"
-        os.kill(self.server_pid, signal.SIGTERM)
-
+        self.searchtoolbar.show()
