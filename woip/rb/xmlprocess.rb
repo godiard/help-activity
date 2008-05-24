@@ -13,7 +13,7 @@ class ArticleListener
   end
   
   def text(text)
-    @cur_text = text.gsub(/^\[\[[^\]\[]+?\:[^\]\[]+?\]\]$/, '').gsub(/\n+/, "\n")
+    @cur_text = text.gsub(/\n+/, "\n")
   end
   
   def print_stats
