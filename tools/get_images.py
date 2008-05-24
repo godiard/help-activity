@@ -141,12 +141,12 @@ def process_imagelist(list_filename, base_dir, imgword, maxsize=float('inf')):
     with open(list_filename) as f:
         print "opened " + list_filename
         totalsize = 0 #bytes
-        searcher = r"\[\[(?:%s|%s):(.*?)\]\]\s+(\d+)\s+(.*?)\s+(.*?)$" % (BASEWORD, imgword)
+        searcher = r"\[\[(?:%s|%s):(.+?)\]\]\s+(\d+)\s+(.*?)\s+(.*?)$" % (BASEWORD, imgword)
         print searcher
         for line in f.readlines():
             m = re.search(searcher, line)
             if m is None:
-                raise AssertionError("Match didn't work")
+                print "WARNING: Match didn't work on " + line
             wikiname = m.group(1)
             hits = m.group(2)
             width = m.group(3)
