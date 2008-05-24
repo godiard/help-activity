@@ -70,14 +70,11 @@ class WPWikiDB:
         # Retrieve article text, recursively following #redirects.
         while True:
             # Capitalize the first letter of the article -- Trac #6991.
-            if not title:
-                article_text = ""
-            else:
-                title = title[0].capitalize() + title[1:]
+            title = title[0].capitalize() + title[1:]
 
-                # Replace underscores with spaces in title.
-                title = title.replace("_", " ")
-                article_text = unicode(wp.wp_load_article(title.encode('utf8')), 'utf8')
+            # Replace underscores with spaces in title.
+            title = title.replace("_", " ")
+            article_text = unicode(wp.wp_load_article(title.encode('utf8')), 'utf8')
 
             # To see unmodified article_text, uncomment here.
             # print article_text
