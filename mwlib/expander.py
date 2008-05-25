@@ -389,7 +389,7 @@ class Expander(object):
         self.blacklist = set()
         with open("es_PE/template_blacklist", 'r') as f:
             for line in f.readlines():
-                self.blacklist.add(line.rstrip())
+                self.blacklist.add(line.rstrip().decode('utf8'))
 
     def getParsedTemplate(self, name):
         if name.startswith("[["):
