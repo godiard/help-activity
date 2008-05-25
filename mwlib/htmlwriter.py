@@ -353,7 +353,20 @@ class HTMLWriter(object):
             self.out.write(' <font size=1>&middot; <a class="offsite" ')
             self.out.write('href="http://es.wikipedia.org/wiki/')
             self._write(a.caption)
-            self.out.write('">De Wikipedia, la enciclopedia libre</a>')
+            self.out.write('">De Wikipedia, la enciclopedia libre</a> ')
+
+            # Report rendering problem.
+            self.out.write('&middot; <a class="offsite" ')
+            self.out.write('href="http:/pullcord.laptop.org:8000/render?q=')
+            self._write(a.caption)
+            self.out.write('">Page does not render correctly</a> ')
+
+            # Report inappropriate content.
+            self.out.write('&middot; <a class="offsite" ')
+            self.out.write('href="http:/pullcord.laptop.org:8000/report?q=')
+            self._write(a.caption)
+            self.out.write('">Report inappropriate content</a>')
+
             self.out.write("</font>")
             self.out.write('</h1>')
             
