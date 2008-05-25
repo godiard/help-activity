@@ -249,4 +249,4 @@ def main_task(db_path, indexfile, image_word, base_dir, thumb_width):
     download_and_process(m, base_dir, thumb_width)
 
 #main_task("/home/olpc/40ormore.xml.bz2", "../static/index.html", "Imagen", "/home/olpc/images", 180)
-process_imagelist("/home/olpc/top70k_images2", "/home/olpc/images", "Imagen", 15000000)
+process_imagelist("top70k_images", "../es_PE/images", "Imagen", 23000000)
