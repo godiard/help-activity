@@ -297,7 +297,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
                 
                 self.out.write('<div class="thumb" style="padding: 13px 0; width: 150px;">')
                 self.out.write('<div style="margin-left: auto; margin-right: auto; width: 120px;">')
-                self.out.write('<a href="%s" class="image" title="%s">' % (url.encode("utf8"), caption.encode('utf8')))
+                self.out.write('<a href="%s" class="image" title="%s">' % (url, caption))
                 self.out.write(img)
                 self.out.write('</a>')
                 self.out.write('</div>')
