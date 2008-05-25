@@ -1,3 +1,7 @@
+* Fix crashers
+* Use threads to handle synchronizing startup/exit for client<->server
+* Add links to report rendering problems and inappropriate content.
+
 4
 
 * Reorganize directory structure.
