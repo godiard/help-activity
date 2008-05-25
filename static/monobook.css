@@ -39,11 +39,14 @@
 ** http://style.cleverchimp.com/font_size_intervals/altintervals.html
 */
 
+/*FIXME: This body section has been hacked to look right with mwlib.
+A better solution is to fix mwlib to use the rest of the styles
+in this stylesheet*/
 body {
-	font: x-small sans-serif;
-	background: #f9f9f9 url(headbg.jpg) 0 0 no-repeat;
+	font: small sans-serif;
+	background: #ffffff 0 0 no-repeat;
 	color: black;
-	margin: 0;
+	margin: 1em;
 	padding: 0;
 }
 
