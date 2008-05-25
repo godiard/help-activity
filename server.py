@@ -246,7 +246,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
                 attr += 'width="%d" ' % width
             
             img = '<%(tag)s %(ref)s="%(url)s" longdesc="%(caption)s" %(attr)s></%(tag)s>' % \
-               {'tag':tag, 'ref':ref, 'url':url.encode('utf8'), 'caption':caption.encode('utf8'), 'attr':attr}
+               {'tag':tag, 'ref':ref, 'url':url, 'caption':caption, 'attr':attr}
             
             if thumb:
                 frame = True
@@ -271,7 +271,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
                     self.out.write(img)
                     self.out.write('<div class="thumbcaption">')
                     self.out.write('<div class="magnify" style="float:right">')
-                    self.out.write('<a href="%s" class="internal" title="Enlarge">' % url.encode("utf8"))
+                    self.out.write('<a href="%s" class="internal" title="Enlarge">' % url)
                     self.out.write('<img src="/static/magnify-clip.png">')
                     self.out.write('</a>')
                     self.out.write('</div>')
