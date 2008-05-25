@@ -68,12 +68,19 @@ class WPWikiDB:
 
     def getRawArticle(self, title):
         # Retrieve article text, recursively following #redirects.
+        oldtitle = ""
         while True:
+            # Replace underscores with spaces in title.
+            title = title.replace("_", " ")
+            print title.encode('utf8')
+            print oldtitle.encode('utf8')
+            if oldtitle == title:
+                article_text = ""
+                break
+
             # Capitalize the first letter of the article -- Trac #6991.
             title = title[0].capitalize() + title[1:]
 
-            # Replace underscores with spaces in title.
-            title = title.replace("_", " ")
             article_text = unicode(wp.wp_load_article(title.encode('utf8')), 'utf8')
 
             # To see unmodified article_text, uncomment here.
@@ -81,6 +88,7 @@ class WPWikiDB:
 
             m = re.match(r'^\s*\#?redirect\s*\:?\s*\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
+            oldtitle = title
             title = m.group(1)
 
         # Stripping leading & trailing whitespace fixes template expansion.
@@ -108,7 +116,7 @@ class WPImageDB:
         return "/".join([d[0], d[:2], name])
     
     def getPath(self, name, size=None):
-        hashed_name = self.hashpath(name)
+        hashed_name = self.hashpath(name).encode('utf8')
         path = 'es_PE/images/%s' % hashed_name
         #print "getPath: %s -> %s" % (name.encode('utf8'), path.encode('utf8'))
         return path
@@ -354,7 +362,6 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         # Pass ?noexpand=1 in the url to disable template expansion.
         if self.params.get('noexpand', 0):
             article_text = wikidb.getRawArticle(title)
-            article_text = self.strip_templates(article_text)
         else:
             article_text = wikidb.getExpandedArticle(title)
 
@@ -458,12 +465,13 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         self.wfile.write("</body></html>")
 
     def send_image(self, path):
-        if os.path.exists('es_PE/images/' + path):
+        if os.path.exists('es_PE/images/' + path.encode('utf8')):
             # If image exists locally, serve it as normal.
             SimpleHTTPRequestHandler.do_GET(self)
         else:
             # If not, redirect to wikimedia.
-            redirect_url = "http://upload.wikimedia.org/wikipedia/commons/" + path
+            redirect_url = "http://upload.wikimedia.org/wikipedia/commons/%s" \
+                         % path.encode('utf8')
             self.send_response(301)
             self.send_header("Location", redirect_url.encode('utf8'))
             self.end_headers()
