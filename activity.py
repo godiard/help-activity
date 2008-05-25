@@ -47,6 +47,13 @@ class WikipediaActivity(webactivity.WebActivity):
         handle.uri = 'http://localhost:%s%s' % (HTTP_PORT, HOME_PAGE)
 
         webactivity.WebActivity.__init__(self, handle)
+
+        # Use xpcom to set a RAM cache limit.  (Trac #7081.)
+        from xpcom import components
+        cls = components.classes['@mozilla.org/preferences-service;1']
+        pref_service = cls.getService(components.interfaces.nsIPrefService)
+        branch = pref_service.getBranch("browser.cache.memory.")
+        branch.setIntPref("capacity", "5000")
         
         self.searchtoolbar = SearchToolbar(self)
         # WTB: Hacked to use hardcoded Spanish localization for WikiBrowse release.
