@@ -85,16 +85,19 @@ def download_and_process(imgdict, base_dir, thumb_width):
 MAXWIDTH=800
 MAXHEIGHT=800
 def process_image(d, width=None, height=None):
-        if width is None:
-            width = MAXWIDTH
-        if height is None:
-            height = MAXHEIGHT
-        newsize = "%ix%i>" % (width, height)
         vector = d[-3:].upper() == 'SVG'
         if vector:
             try:
                 jpg_name = d + '.jpg'
-                subprocess.check_call(['convert', d,"-flatten", "-resize", newsize, "-quality", "20", "JPEG:%s" % jpg_name])
+                rsvg_command = ['rsvg-convert','--keep-aspect-ratio','--format=png','--output', jpg_name]
+                if width is not None:
+                    rsvg_command.append('--width=%i' % width)
+                if height is not None:
+                    rsvg_command.append('--height=%i' %height)
+                rsvg_command.append(d)
+                subprocess.check_call(rsvg_command)
+                #jpg_name file now contains a png image; we want jpg to save space
+                subprocess.check_call(['convert', "PNG:%s" % jpg_name, "-quality", "20", "JPEG:%s" % jpg_name])
                 (width, height) = get_dims(jpg_name)
 
                 svg_factor = 0.3 #favorability of SVG
@@ -126,6 +129,11 @@ def process_image(d, width=None, height=None):
         else:
             print "Processing raster image " + d
             try:
+                if width is None:
+                    width = MAXWIDTH
+                if height is None:
+                    height = MAXHEIGHT
+                newsize = "%ix%i>" % (width, height)
                 subprocess.check_call(['convert', d,"-flatten", "-resize", newsize, "-quality", "20", "JPEG:%s" % d])
                 print "Succesfully resized " + d
                 return os.stat(d).st_size
