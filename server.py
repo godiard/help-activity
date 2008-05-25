@@ -122,7 +122,7 @@ class WPImageDB:
         return path
 
     def getURL(self, name, size=None):
-        hashed_name = self.hashpath(name)
+        hashed_name = self.hashpath(name).encode('utf8')
         if os.path.exists('es_PE/images/' + hashed_name):
             url = '/es_PE/images/' + hashed_name
         else:
