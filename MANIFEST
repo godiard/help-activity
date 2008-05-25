@@ -132,11 +132,6 @@ woip/c/AUTHORS
 woip/c/configure.ac
 woip/c/indexer.i
 woip/c/aclocal.m4
-woip/c/autom4te.cache/output.1
-woip/c/autom4te.cache/traces.0
-woip/c/autom4te.cache/output.0
-woip/c/autom4te.cache/traces.1
-woip/c/autom4te.cache/requests
 woip/c/ternary.h
 woip/c/debug.h
 woip/c/ChangeLog
