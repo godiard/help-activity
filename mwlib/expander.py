@@ -399,13 +399,14 @@ class Expander(object):
             log.info("including article")
             raw = self.db.getRawArticle(name[1:])
         else:
-            name = name[0].capitalize() + name[1:]
-            name = "Plantilla:" + name 
-            try:
-                return self.parsedTemplateCache[name]
-            except KeyError:
-                pass
-            
+            if len(name) > 1:
+                name = name[0].capitalize() + name[1:]
+                name = "Plantilla:" + name
+                try:
+                    return self.parsedTemplateCache[name]
+                except KeyError:
+                    pass
+
             # Check to see if this is a template in our blacklist --
             # one that we don't want to bother rendering.
             if name in self.blacklist:
