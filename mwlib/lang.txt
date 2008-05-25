@@ -26,6 +26,7 @@ cy
 da
 de
 el
+dsb
 en
 eo
 es
