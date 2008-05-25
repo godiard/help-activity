@@ -1,4 +1,5 @@
 #! /usr/bin/env python
+# -*- coding: utf-8 -*-
 
 # Copyright (c) 2007-2008 PediaPress GmbH
 # See README.txt for additional licensing information.
@@ -359,13 +360,13 @@ class HTMLWriter(object):
             self.out.write('&middot; <a class="offsite" ')
             self.out.write('href="http:/pullcord.laptop.org:8000/render?q=')
             self._write(a.caption)
-            self.out.write('">Page does not render correctly</a> ')
+            self.out.write('">Haz clic aquí si esta página contiene errores de presentación</a> ') 
 
             # Report inappropriate content.
             self.out.write('&middot; <a class="offsite" ')
             self.out.write('href="http:/pullcord.laptop.org:8000/report?q=')
             self._write(a.caption)
-            self.out.write('">Report inappropriate content</a>')
+            self.out.write('">Esta página contiene material inapropiado</a>')
 
             self.out.write("</font>")
             self.out.write('</h1>')
