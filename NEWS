@@ -1,3 +1,5 @@
+6
+
 * Use xpcom to set a 5M RAM cache limit, avoiding OOM crashes.
 * Fix template blacklisting code.
 * New CSS file.
