@@ -358,13 +358,13 @@ class HTMLWriter(object):
 
             # Report rendering problem.
             self.out.write('&middot; <a class="offsite" ')
-            self.out.write('href="http:/pullcord.laptop.org:8000/render?q=')
+            self.out.write('href="http://pullcord.laptop.org:8000/render?q=')
             self._write(a.caption)
             self.out.write('">Haz clic aquí si esta página contiene errores de presentación</a> ') 
 
             # Report inappropriate content.
             self.out.write('&middot; <a class="offsite" ')
-            self.out.write('href="http:/pullcord.laptop.org:8000/report?q=')
+            self.out.write('href="http://pullcord.laptop.org:8000/report?q=')
             self._write(a.caption)
             self.out.write('">Esta página contiene material inapropiado</a>')
 
