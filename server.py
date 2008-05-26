@@ -23,6 +23,7 @@
 from __future__ import with_statement
 import sys
 import os
+import codecs
 from StringIO import StringIO
 import BaseHTTPServer
 from SimpleHTTPServer import SimpleHTTPRequestHandler
@@ -352,6 +353,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
 class WikiRequestHandler(SimpleHTTPRequestHandler):
     def __init__(self, index, request, client_address, server):
         self.index = index
+        self.client_address = client_address
         SimpleHTTPRequestHandler.__init__(
             self, request, client_address, server)
 
@@ -476,6 +478,21 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             self.send_header("Location", redirect_url.encode('utf8'))
             self.end_headers()
 
+    def handle_feedback(self, feedtype, article):
+        with codecs.open("feedback.log", "a", "utf-8") as f:
+           f.write(feedtype +"\t"+ article +"\t" + self.client_address[0] +"\n")
+           f.close()
+        self.send_response(200)
+        self.send_header("Content-Type", "text/html; charset=utf-8")
+        self.end_headers()
+
+        if feedtype == "render":
+            strtype = "un error de presentación"
+        elif feedtype == "report":
+            strtype = "material inapropriado"
+
+        self.wfile.write("<html><title>Comentario recibido</title>Gracias por reportar %s en la pagina <b>%s</b>.</html>" % (strtype, article.encode('utf8')))
+
     def do_GET(self):
         real_path = urllib.unquote(self.path)
         real_path = unicode(real_path, 'utf8')
@@ -508,6 +525,12 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         m = re.match(r'^/static/(.*)$', real_path)
         if m:
             SimpleHTTPRequestHandler.do_GET(self)
+            return
+
+        # Feedback links.
+        m = re.match(r'^/(report|render)$', real_path)
+        if m:
+            self.handle_feedback(m.group(1), self.params.get('q', ''))
             return
 
         # Any other request redirects to the index page.        
