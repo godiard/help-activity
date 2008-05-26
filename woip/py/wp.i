@@ -26,7 +26,7 @@
 %module wp
 
 %{
-#include "../../c/wp.h"
+#include "../c/wp.h"
 
 #define MAXRES 40
 #define MAXSTR 1024
@@ -103,7 +103,7 @@ int wp_article_exists(char *name) {
   __exact_match = name;
   __got_match = 0;
   debug("wp_article_exists(%s)", name);
-  search(&d.index, name, __handle_exact_match, NULL, true, true);
+  search(&d.index, name, __handle_exact_match, NULL, false, true);
   return __got_match;
 }
 
