@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
 # Copyright (C) 2007, One Laptop Per Child
@@ -73,14 +74,12 @@ class WPWikiDB:
         while True:
             # Replace underscores with spaces in title.
             title = title.replace("_", " ")
-            print title.encode('utf8')
-            print oldtitle.encode('utf8')
-            if oldtitle == title:
-                article_text = ""
-                break
-
             # Capitalize the first letter of the article -- Trac #6991.
             title = title[0].capitalize() + title[1:]
+
+            if title == oldtitle:
+                article_text = ""
+                break
 
             article_text = unicode(wp.wp_load_article(title.encode('utf8')), 'utf8')
 
@@ -89,13 +88,14 @@ class WPWikiDB:
 
             m = re.match(r'^\s*\#?redirect\s*\:?\s*\[\[(.*)\]\]', article_text, re.IGNORECASE|re.MULTILINE)
             if not m: break
+
             oldtitle = title
             title = m.group(1)
 
         # Stripping leading & trailing whitespace fixes template expansion.
         article_text = article_text.lstrip()
         article_text = article_text.rstrip()
-        
+
         return article_text
 
     def getTemplate(self, title, followRedirects=False):
@@ -249,9 +249,6 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             img = '<%(tag)s %(ref)s="%(url)s" longdesc="%(caption)s" %(attr)s></%(tag)s>' % \
                {'tag':tag, 'ref':ref, 'url':url, 'caption':caption, 'attr':attr}
             
-            if thumb:
-                frame = True
-            
             center = False
             if align == 'center':
                 center = True
@@ -260,40 +257,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
             if center:
                 self.out.write('<div class="center">');
 
-            if frame:
-                if not align:
-                    align = "right"
-                self.out.write('<div class="thumb t%s">' % align)
-                if thumb:
-                    if not width:
-                        width = 180 # default thumb width
-        
-                    self.out.write('<div style="width:%dpx;">' % (int(width)+2))
-                    self.out.write(img)
-                    self.out.write('<div class="thumbcaption">')
-                    self.out.write('<div class="magnify" style="float:right">')
-                    self.out.write('<a href="%s" class="internal" title="Enlarge">' % url)
-                    self.out.write('<img src="/static/magnify-clip.png">')
-                    self.out.write('</a>')
-                    self.out.write('</div>')
-                    for x in obj.children:
-                        self.write(x)
-                    self.out.write('</div>')
-                    self.out.write('</div>')
-                else:
-                    self.out.write('<div>')
-                    self.out.write(img)
-                    self.out.write('<div class="thumbcaption">')
-                    for x in obj.children:
-                        self.write(x)
-                    self.out.write('</div>')
-                    self.out.write('</div>')
-                self.out.write('</div>')
-            elif align:
-                self.out.write('<div class="float%s">' % align)
-                self.out.write(img)
-                self.out.write('</div>')
-            elif self.gallerylevel > 0:
+            if self.gallerylevel > 0:
                 self.out.write('<div class="gallerybox" style="width: 155px;">')
                 
                 self.out.write('<div class="thumb" style="padding: 13px 0; width: 150px;">')
@@ -311,6 +275,39 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
                 self.out.write('</p>')
                 self.out.write('</div>')
 
+                self.out.write('</div>')
+            elif frame or thumb:
+                if not align:
+                    align = "right"
+                self.out.write('<div class="thumb t%s">' % align)
+
+                if not width:
+                    width = 180 # default thumb width
+                self.out.write('<div style="width:%dpx;">' % (int(width)+2))
+
+                if thumb:
+                    self.out.write(img)
+                    self.out.write('<div class="thumbcaption">')
+                    self.out.write('<div class="magnify" style="float:right">')
+                    self.out.write('<a href="%s" class="internal" title="Enlarge">' % url)
+                    self.out.write('<img src="/static/magnify-clip.png">')
+                    self.out.write('</a>')
+                    self.out.write('</div>')
+                    for x in obj.children:
+                        self.write(x)
+                    self.out.write('</div>')
+                else:
+                    self.out.write(img)
+                    self.out.write('<div class="thumbcaption">')
+                    for x in obj.children:
+                        self.write(x)
+                    self.out.write('</div>')
+
+                self.out.write('</div>')
+                self.out.write('</div>')
+            elif align:
+                self.out.write('<div class="float%s">' % align)
+                self.out.write(img)
                 self.out.write('</div>')
             else:
                 self.out.write(img)
@@ -423,7 +420,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         
             self.wfile.write("<html><head><title>%s</title>" % title.encode('utf8'))
         
-            self.wfile.write("<style type='text/css' media='screen, projection'>"\
+            self.wfile.write("<style type='text/css' media='screen, projection'>"
                              "@import '/static/common.css';"\
                              "@import '/static/monobook.css';"\
                              "@import '/static/styles.css';"\
@@ -554,7 +551,8 @@ def run_server(path, port):
     from threading import Thread
     server = Thread(target=httpd.serve_forever)
     server.start()
-
+    #httpd.serve_forever()
+    
     # Tell the world that we're ready to accept request.
     print 'ready'
 
