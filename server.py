@@ -24,6 +24,7 @@
 from __future__ import with_statement
 import sys
 import os
+import subprocess
 import codecs
 from StringIO import StringIO
 import BaseHTTPServer
@@ -145,14 +146,75 @@ class HTMLOutputBuffer:
     
     def getvalue(self):
         return self.buffer
-    
+
+class WPMathRenderer:
+    def render(self, latex):
+     
+        process = subprocess.Popen(('bin/itex2MML', '--inline'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+        #process = subprocess.Popen(('bin/blahtex', '--mathml', '--mathml-encoding', 'numeric'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+
+        (mathml, err) = process.communicate(latex)
+        if process.returncode is not 0:
+            return ""
+
+        # Fix case sensitivity of entities that FF is missing somehow.
+        # List of all: http://fluxionsdividebyzero.com/p1/comsci/mathmlnotes.xml
+        mathml = mathml.replace('&Sum;', '&sum;')
+        
+        # Straight embedding.  Requires parent document to be XHTML.
+        return mathml
+            
+        # Object embedding (ala SVG files), no real advantages.
+        #filename = md5(latex).hexdigest()
+        #xmlname = filename + '.xml'
+        #with codecs.open("generated/"+xmlname, "w", "utf-8") as f:
+        #    f.write('<?xml version="1.0"?>')
+        #    f.write(mathml)
+        #    f.close()
+        #
+        #return '<object type="text/xml" data="/generated/%s"></object>' % xmlname
+
+        # IFrame embedding allows parent document to be non-XHTML.
+        #filename = md5(latex).hexdigest()
+        #xmlname = filename + '.xhtml'
+        #with codecs.open("generated/"+xmlname, "w", "utf-8") as f:
+        #    f.write(
+        #        '<?xml version="1.0"?>'\
+        #        '<!DOCTYPE html PUBLIC '\
+        #        '"-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" '\
+        #        '"http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd" '\
+        #        '[ <!ENTITY mathml "http://www.w3.org/1998/Math/MathML"> ]> '\
+        #        '<html xmlns="http://www.w3.org/1999/xhtml"> ')
+        #    f.write('<body>')
+        #    f.write(mathml)
+        #    f.write('</body>')
+        #    f.write('</html>')
+        #    f.close()
+        #
+        #return '<iframe frameborder="0" width="100%%" height="100%%" marginwidth="0" marginheight="0" src="/generated/%s"></iframe>' % xmlname
+
+        # PNG embedding.  Requires latex and dvipng.
+        #filename = md5(latex).hexdigest()
+        #pngname = filename + '.png'
+        #
+        #pngf = os.open("generated/" + pngname, os.O_CREAT)
+        #process = subprocess.Popen(('bin/blahtex', '--png'), stdin=subprocess.PIPE, stdout=pngf)
+        #process.stdin.write(latex)
+        #process.wait()
+        #if process.returncode is not 0:
+        #    return ""
+        #
+        #return '<img src="/generated/%s""></img>' % pngname
+
 class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
     """Customizes HTML output from mwlib."""
     
-    def __init__(self, index, wfile, images=None, math_renderer=None):
+    def __init__(self, index, wfile, images=None):
         self.index = index
         self.gallerylevel = 0
-        mwlib.htmlwriter.HTMLWriter.__init__(self, wfile, images, math_renderer)
+
+        math_renderer = WPMathRenderer()
+        mwlib.htmlwriter.HTMLWriter.__init__(self, wfile, images, math_renderer=math_renderer)
 
     def writeLink(self, obj):
         if obj.target is None:
@@ -290,7 +352,7 @@ class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
                     self.out.write('<div class="thumbcaption">')
                     self.out.write('<div class="magnify" style="float:right">')
                     self.out.write('<a href="%s" class="internal" title="Enlarge">' % url)
-                    self.out.write('<img src="/static/magnify-clip.png">')
+                    self.out.write('<img src="/static/magnify-clip.png"></img>')
                     self.out.write('</a>')
                     self.out.write('</div>')
                     for x in obj.children:
@@ -366,28 +428,21 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
         # Pass ?override=1 in the url to replace wikitext for testing the renderer.
         if self.params.get('override', 0):
-            try:
-                override = open('override.txt', 'r')
-                article_text = unicode(override.read(), 'utf8')
-                override.close()
-            except:
-                pass
+            override = open('/home/olpc/wikiserver/override.txt', 'r')
+            article_text = unicode(override.read(), 'utf8')
+            override.close()
 
         return article_text
     
-    def send_wiki_html(self, title, article_text):
+    def write_wiki_html(self, htmlout, title, article_text):
         tokens = scanner.tokenize(article_text, title)
 
         wiki_parsed = parser.Parser(tokens, title).parse()
         wiki_parsed.caption = title
-
-        htmlbuf = HTMLOutputBuffer()
-        
+      
         imagedb = WPImageDB()
-        writer = WPHTMLWriter(self.index, htmlbuf, images=imagedb)
+        writer = WPHTMLWriter(self.index, htmlout, images=imagedb)
         writer.write(wiki_parsed)
-        
-        self.wfile.write(htmlbuf.getvalue())
 
     def send_article(self, title):
         article_text = self.get_wikitext(title)
@@ -414,27 +469,52 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         
             self.wfile.write(article_text.encode('utf8'))
         else:
+            htmlout = HTMLOutputBuffer()
+            
             self.send_response(200)
-            self.send_header("Content-Type", "text/html; charset=utf-8")
+            self.send_header("Content-Type", "text/xml; charset=utf-8")
             self.end_headers()
+
+            htmlout.write(
+                '<?xml version="1.0"?>'\
+                '<!DOCTYPE html PUBLIC '\
+                '"-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" '\
+                '"http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd" '\
+                '[ <!ENTITY mathml "http://www.w3.org/1998/Math/MathML"> ]> ')
+            
+            htmlout.write('<html xmlns="http://www.w3.org/1999/xhtml"> ')
+
+            htmlout.write("<head>")
+            htmlout.write("<title>%s</title>" % title.encode('utf8'))
         
-            self.wfile.write("<html><head><title>%s</title>" % title.encode('utf8'))
-        
-            self.wfile.write("<style type='text/css' media='screen, projection'>"
+            htmlout.write("<style type='text/css' media='screen, projection'>"
                              "@import '/static/common.css';"\
                              "@import '/static/monobook.css';"\
                              "@import '/static/styles.css';"\
                              "@import '/static/shared.css';"\
                              "</style>")
             
-            self.wfile.write("</head>")
+            htmlout.write("</head>")
             
-            self.wfile.write("<body>")
+            htmlout.write("<body>")
             
-            self.send_wiki_html(title, article_text)
+            self.write_wiki_html(htmlout, title, article_text)
 
-            self.wfile.write('<center>Contenido disponible bajo los términos de la <a href="/static/es-gfdl.html">Licencia de documentación libre de GNU</a>. <br/> Wikipedia es una marca registrada de la organización sin ánimo de lucro Wikimedia Foundation, Inc.<br/><a href="/static/acerca.html">Acerca de Wikipedia</a> </center>')
-            self.wfile.write("</body></html>")
+            htmlout.write('<center>Contenido disponible bajo los términos de la <a href="/static/es-gfdl.html">Licencia de documentación libre de GNU</a>. <br/> Wikipedia es una marca registrada de la organización sin ánimo de lucro Wikimedia Foundation, Inc.<br/><a href="/static/acerca.html">Acerca de Wikipedia</a> </center>')
+            htmlout.write("</body>")
+            htmlout.write("</html>")
+
+            html = htmlout.getvalue()
+
+            # Fix any non-XHTML tags using tidy.
+            process = subprocess.Popen(('bin/tidy', '-config', 'bin/tidy.conf', '-numeric', '-utf8', '-asxhtml'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+            (xhtml, err) = process.communicate(html)
+            if len(xhtml):
+                html = xhtml
+            else:
+                print "FAILED to tidy '%s'" % title
+    
+            self.wfile.write(html)
     
     def send_searchresult(self, title):
         self.send_response(200)
@@ -519,7 +599,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             return
 
         # Static requests handed off to SimpleHTTPServer.
-        m = re.match(r'^/static/(.*)$', real_path)
+        m = re.match(r'^/(static|generated)/(.*)$', real_path)
         if m:
             SimpleHTTPRequestHandler.do_GET(self)
             return

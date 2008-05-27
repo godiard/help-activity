@@ -164,8 +164,8 @@ class HTMLWriter(object):
 
     def writeMath(self, obj):
         latex = obj.caption
-        #p = self.math_renderer.render(latex)
-        self.out.write('<tt>%s</tt>' % latex)
+        p = self.math_renderer.render(latex)
+        self.out.write(p)
 
     def writeURL(self, obj):
         self.out.write('<a href="%s" class="offsite" ttid="externallink">' % obj.caption)
@@ -351,7 +351,7 @@ class HTMLWriter(object):
         if a.caption:
             self.out.write("<h1>")
             self._write(a.caption)
-            self.out.write(' <font size=1>&middot; <a class="offsite" ')
+            self.out.write(' <font size="1">&middot; <a class="offsite" ')
             self.out.write('href="http://es.wikipedia.org/wiki/')
             self._write(a.caption)
             self.out.write('">De Wikipedia, la enciclopedia libre</a> ')
