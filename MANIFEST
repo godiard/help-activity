@@ -3173,3 +3173,7 @@ es_PE/images/5/56/William-Adolphe_Bouguereau_(1825-1905)_-_The_Difficult_Lesson_
 es_PE/images/5/56/KISS_in_concert_Boston_2004.jpg
 es_PE/images/5/56/Mars_Valles_Marineris.jpeg
 es_PE/images/5/56/Spammed-mail-folder.png
+bin/itex2MML
+bin/tidy
+bin/tidy.conf
+bin/blahtex
