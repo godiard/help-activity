@@ -32,6 +32,7 @@ from SimpleHTTPServer import SimpleHTTPRequestHandler
 import urllib
 import re
 import wp
+import xml.dom.minidom
 
 # Uncomment to print out a large dump from the template expander.
 #os.environ['DEBUG_EXPANDER'] = '1'
@@ -140,27 +141,31 @@ class HTMLOutputBuffer:
 
     def write(self, obj):
         if isinstance(obj, unicode):
-            self.buffer += str(obj).encode('utf8')
+            self.buffer += obj.encode('utf8')
         else:
-            self.buffer += str(obj)
+            self.buffer += obj
     
     def getvalue(self):
         return self.buffer
 
 class WPMathRenderer:
     def render(self, latex):
-     
-        process = subprocess.Popen(('bin/itex2MML', '--inline'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
-        #process = subprocess.Popen(('bin/blahtex', '--mathml', '--mathml-encoding', 'numeric'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+        #process = subprocess.Popen(('bin/itex2MML', '--inline'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+        process = subprocess.Popen(('bin/blahtex', '--mathml', '--texvc-compatible-commands'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
 
         (mathml, err) = process.communicate(latex)
         if process.returncode is not 0:
             return ""
 
-        # Fix case sensitivity of entities that FF is missing somehow.
-        # List of all: http://fluxionsdividebyzero.com/p1/comsci/mathmlnotes.xml
-        mathml = mathml.replace('&Sum;', '&sum;')
-        
+        # Ugly!  There is certainly a better way to do this, but my DOM skills are weak, and this works.
+        dom = xml.dom.minidom.parseString(mathml)
+        dom = dom.getElementsByTagName('blahtex')[0]
+        dom = dom.getElementsByTagName('mathml')[0]
+        dom = dom.getElementsByTagName('markup')[0]
+        mathml = dom.toxml()
+        mathml = mathml.replace('markup', 'math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"')
+        dom.unlink()
+
         # Straight embedding.  Requires parent document to be XHTML.
         return mathml
             
@@ -507,7 +512,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
             html = htmlout.getvalue()
 
             # Fix any non-XHTML tags using tidy.
-            process = subprocess.Popen(('bin/tidy', '-config', 'bin/tidy.conf', '-numeric', '-utf8', '-asxhtml'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
+            process = subprocess.Popen(('bin/tidy', '-q', '-config', 'bin/tidy.conf', '-numeric', '-utf8', '-asxhtml'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
             (xhtml, err) = process.communicate(html)
             if len(xhtml):
                 html = xhtml
