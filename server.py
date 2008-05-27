@@ -153,7 +153,7 @@ class WPMathRenderer:
         #process = subprocess.Popen(('bin/itex2MML', '--inline'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
         process = subprocess.Popen(('bin/blahtex', '--mathml', '--texvc-compatible-commands'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
 
-        (mathml, err) = process.communicate(latex)
+        (mathml, err) = process.communicate(latex.encode('utf8'))
         if process.returncode is not 0:
             return ""
 
@@ -167,7 +167,7 @@ class WPMathRenderer:
             mathml = mathml.replace('markup', 'math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"')
             dom.unlink()
         except:
-            print "BLAHTEX XML PARSING FAILED: '%s'" % mathml
+            print "BLAHTEX XML PARSING FAILED:\nINPUT: '%s'\nOUTPUT: '%s'" % (latex, mathml)
             return ""
 
         # Straight embedding.  Requires parent document to be XHTML.
