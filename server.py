@@ -153,18 +153,22 @@ class WPMathRenderer:
         #process = subprocess.Popen(('bin/itex2MML', '--inline'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
         process = subprocess.Popen(('bin/blahtex', '--mathml', '--texvc-compatible-commands'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
 
-        (mathml, err) = process.communicate(latex)
+        (mathml, err) = process.communicate(latex.encode('utf8'))
         if process.returncode is not 0:
             return ""
 
         # Ugly!  There is certainly a better way to do this, but my DOM skills are weak, and this works.
-        dom = xml.dom.minidom.parseString(mathml)
-        dom = dom.getElementsByTagName('blahtex')[0]
-        dom = dom.getElementsByTagName('mathml')[0]
-        dom = dom.getElementsByTagName('markup')[0]
-        mathml = dom.toxml()
-        mathml = mathml.replace('markup', 'math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"')
-        dom.unlink()
+        try:
+            dom = xml.dom.minidom.parseString(mathml)
+            dom = dom.getElementsByTagName('blahtex')[0]
+            dom = dom.getElementsByTagName('mathml')[0]
+            dom = dom.getElementsByTagName('markup')[0]
+            mathml = dom.toxml()
+            mathml = mathml.replace('markup', 'math xmlns="http://www.w3.org/1998/Math/MathML" display="inline"')
+            dom.unlink()
+        except:
+            print "BLAHTEX XML PARSING FAILED:\nINPUT: '%s'\nOUTPUT: '%s'" % (latex, mathml)
+            return ""
 
         # Straight embedding.  Requires parent document to be XHTML.
         return mathml
