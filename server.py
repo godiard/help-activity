@@ -433,7 +433,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
         # Pass ?override=1 in the url to replace wikitext for testing the renderer.
         if self.params.get('override', 0):
-            override = open('/home/olpc/wikiserver/override.txt', 'r')
+            override = open('override.txt', 'r')
             article_text = unicode(override.read(), 'utf8')
             override.close()
 
