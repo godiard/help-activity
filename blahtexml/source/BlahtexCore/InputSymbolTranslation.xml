@@ -307,8 +307,8 @@
   <symbol unicode="0000231F" tex="\lrcorner"/>
   <symbol unicode="00002322" tex="\frown"/>
   <symbol unicode="00002323" tex="\smile"/>
-  <symbol unicode="00002329" tex="\langle"/>
-  <symbol unicode="0000232A" tex="\rangle"/>
+  <symbol unicode="000027E8" tex="\langle"/>
+  <symbol unicode="000027E9" tex="\rangle"/>
   <symbol unicode="000025A1" tex="\square"/>
   <symbol unicode="000025B3" tex="\triangle"/>
   <symbol unicode="000025B4" tex="\blacktriangle"/>

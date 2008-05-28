@@ -666,8 +666,8 @@ auto_ptr<MathmlNode> SymbolOperator::BuildMathmlTree(
         L'\U000002C7',      // Hacek
         L'\U000002D8',      // Breve
         L'\U00002216',      // Backslash
-        L'\U00002329',      // LeftAngleBracket
-        L'\U0000232A',      // RightAngleBracket
+        L'\U000027E8',      // LeftAngleBracket
+        L'\U000027E9',      // RightAngleBracket
         L'\U00002308',      // LeftCeiling
         L'\U00002309',      // RightCeiling
         L'\U0000230A',      // LeftFloor
