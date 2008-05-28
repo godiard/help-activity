@@ -50,11 +50,18 @@ class WikipediaActivity(webactivity.WebActivity):
 
         # Use xpcom to set a RAM cache limit.  (Trac #7081.)
         from xpcom import components
+        from xpcom.components import interfaces
         cls = components.classes['@mozilla.org/preferences-service;1']
-        pref_service = cls.getService(components.interfaces.nsIPrefService)
+        pref_service = cls.getService(interfaces.nsIPrefService)
         branch = pref_service.getBranch("browser.cache.memory.")
         branch.setIntPref("capacity", "5000")
-        
+
+        # Use xpcom to turn off "offline mode" detection, which disables
+        # access to localhost for no good reason.  (Trac #6250.)
+        ios_class = components.classes["@mozilla.org/network/io-service;1"]
+        io_service = ios_class.getService(interfaces.nsIIOService2)
+        io_service.manageOfflineStatus = False
+
         self.searchtoolbar = SearchToolbar(self)
         # WTB: Hacked to use hardcoded Spanish localization for WikiBrowse release.
         self.toolbox.add_toolbar('Buscar', self.searchtoolbar)
