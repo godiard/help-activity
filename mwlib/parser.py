@@ -601,6 +601,8 @@ class Parser(object):
             n=PreFormatted()
         else:
             n=TagNode(token.t)
+            n.starttext = ''
+            n.endtext = ''
 
         n.vlist = parseParams(self.token[1])
         
