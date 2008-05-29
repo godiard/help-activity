@@ -1,3 +1,9 @@
+7
+
+* Switch to mathml via blahtex for rendering math.
+* Use xpcom to turn off "offline mode" detection
+* Switch to rsvg for SVG processing,
+
 6
 
 * Use xpcom to set a 5M RAM cache limit, avoiding OOM crashes.
