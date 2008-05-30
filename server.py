@@ -544,8 +544,9 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         num_results = wp.wp_search(title.encode('utf8'))
         for i in xrange(0, num_results):
             result = unicode(wp.wp_result(i), 'utf8')
-            self.wfile.write('<li><a href="/wiki/%s">%s</a></li>' %
-                          (result.encode('utf8'), result.encode('utf8')))
+            if not result.startswith("Plantilla:"):
+                self.wfile.write('<li><a href="/wiki/%s">%s</a></li>' %
+                                (result.encode('utf8'), result.encode('utf8')))
 
         self.wfile.write("</ul>")
             
