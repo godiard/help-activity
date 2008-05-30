@@ -9,7 +9,6 @@ es_PE/es_PE.xml.bz2.locate.db
 es_PE/es_PE.xml.bz2.locate.prefixdb
 es_PE/es_PE.xml.bz2.processed
 es_PE/es_PE.xml.bz2.blocks.db
-locale/es/LC_MESSAGES/org.laptop.WikipediaActivity.mo
 locale/es/activity.linfo
 mwlib/mwapidb.py
 mwlib/rendermath.pyc
