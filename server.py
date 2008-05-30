@@ -151,7 +151,6 @@ class HTMLOutputBuffer:
 
 class WPMathRenderer:
     def render(self, latex):
-        #process = subprocess.Popen(('bin/itex2MML', '--inline'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
         process = subprocess.Popen(('bin/blahtex', '--mathml', '--texvc-compatible-commands'), stdin=subprocess.PIPE, stdout=subprocess.PIPE)
 
         (mathml, err) = process.communicate(latex.encode('utf8'))
@@ -174,48 +173,6 @@ class WPMathRenderer:
         # Straight embedding.  Requires parent document to be XHTML.
         return mathml
             
-        # Object embedding (ala SVG files), no real advantages.
-        #filename = md5(latex).hexdigest()
-        #xmlname = filename + '.xml'
-        #with codecs.open("generated/"+xmlname, "w", "utf-8") as f:
-        #    f.write('<?xml version="1.0"?>')
-        #    f.write(mathml)
-        #    f.close()
-        #
-        #return '<object type="text/xml" data="/generated/%s"></object>' % xmlname
-
-        # IFrame embedding allows parent document to be non-XHTML.
-        #filename = md5(latex).hexdigest()
-        #xmlname = filename + '.xhtml'
-        #with codecs.open("generated/"+xmlname, "w", "utf-8") as f:
-        #    f.write(
-        #        '<?xml version="1.0"?>'\
-        #        '<!DOCTYPE html PUBLIC '\
-        #        '"-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" '\
-        #        '"http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd" '\
-        #        '[ <!ENTITY mathml "http://www.w3.org/1998/Math/MathML"> ]> '\
-        #        '<html xmlns="http://www.w3.org/1999/xhtml"> ')
-        #    f.write('<body>')
-        #    f.write(mathml)
-        #    f.write('</body>')
-        #    f.write('</html>')
-        #    f.close()
-        #
-        #return '<iframe frameborder="0" width="100%%" height="100%%" marginwidth="0" marginheight="0" src="/generated/%s"></iframe>' % xmlname
-
-        # PNG embedding.  Requires latex and dvipng.
-        #filename = md5(latex).hexdigest()
-        #pngname = filename + '.png'
-        #
-        #pngf = os.open("generated/" + pngname, os.O_CREAT)
-        #process = subprocess.Popen(('bin/blahtex', '--png'), stdin=subprocess.PIPE, stdout=pngf)
-        #process.stdin.write(latex)
-        #process.wait()
-        #if process.returncode is not 0:
-        #    return ""
-        #
-        #return '<img src="/generated/%s""></img>' % pngname
-
 class WPHTMLWriter(mwlib.htmlwriter.HTMLWriter):
     """Customizes HTML output from mwlib."""
     
