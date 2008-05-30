@@ -529,7 +529,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
         self.send_header("Content-Type", "text/html; charset=utf-8")
         self.end_headers()
 
-        self.wfile.write("<html><head><title>Search Results for '%s'</title></head>" % title.encode('utf8'))
+        self.wfile.write("<html><head><title>Resultados de la búsqueda sobre '%s'</title></head>" % title.encode('utf8'))
 
         self.wfile.write("<style type='text/css' media='screen, projection'>"\
                          "@import '/static/monobook.css';</style>")
@@ -538,7 +538,7 @@ class WikiRequestHandler(SimpleHTTPRequestHandler):
 
         self.wfile.write("<body>")
         
-        self.wfile.write("<h1>Search Results for '%s'.</h1>" % title.encode('utf8'))
+        self.wfile.write("<h1>Resultados de la búsqueda sobre '%s'.</h1>" % title.encode('utf8'))
         self.wfile.write("<ul>")
 
         num_results = wp.wp_search(title.encode('utf8'))
