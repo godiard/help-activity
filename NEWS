@@ -1,3 +1,9 @@
+8
+
+* Don't return template pages in search results.
+* Translate "Search results for.." to Spanish.
+* Add a copy of Web's translations, for the browser UI.
+
 7
 
 * Switch to mathml via blahtex for rendering math.
