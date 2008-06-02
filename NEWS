@@ -1,3 +1,8 @@
+9
+
+* Remove inappropriate images.
+* Fix math rendering.
+
 8
 
 * Don't return template pages in search results.
