@@ -1,3 +1,7 @@
+10
+
+* Attempt to solve thread closing problems via Thread.setDaemon(True).
+
 9
 
 * Remove inappropriate images.

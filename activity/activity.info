@@ -1,6 +1,6 @@
 [Activity]
 name = Wikipedia
-activity_version = 9
+activity_version = 10
 service_name = org.laptop.WikipediaActivity
 icon = activity-wikipedia
 exec = sugar-activity activity.WikipediaActivity
