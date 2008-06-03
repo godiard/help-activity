@@ -596,6 +596,7 @@ def run_server(path, port):
 
     from threading import Thread
     server = Thread(target=httpd.serve_forever)
+    server.setDaemon(True)
     server.start()
     #httpd.serve_forever()
     
