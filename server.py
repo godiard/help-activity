@@ -594,11 +594,13 @@ def run_server(path, port):
     httpd = BaseHTTPServer.HTTPServer(('', port),
         lambda *args: WikiRequestHandler(index, *args))
 
-    from threading import Thread
-    server = Thread(target=httpd.serve_forever)
-    server.setDaemon(True)
-    server.start()
-    #httpd.serve_forever()
+    if __name__ == '__main__':
+        httpd.serve_forever()
+    else:
+        from threading import Thread
+        server = Thread(target=httpd.serve_forever)
+        server.setDaemon(True)
+        server.start()
     
     # Tell the world that we're ready to accept request.
     print 'ready'
