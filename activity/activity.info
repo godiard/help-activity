@@ -1,6 +1,6 @@
 [Activity]
-name = Wikipedia
+name = Help
 activity_version = 10
-service_name = org.laptop.WikipediaActivity
-icon = activity-wikipedia
-exec = sugar-activity activity.WikipediaActivity
+service_name = org.laptop.HelpActivity
+icon = activity-help
+exec = sugar-activity activity.HelpActivity

@@ -34,7 +34,7 @@ WIKIDB = 'es_PE/es_PE.xml.bz2'
 HOME_PAGE = '/static/'
 
 # Activity class, extends WebActivity.
-class WikipediaActivity(webactivity.WebActivity):
+class HelpActivity(webactivity.WebActivity):
     def __init__(self, handle):
         
         print "Starting server...\n"
