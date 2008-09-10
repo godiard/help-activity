@@ -1,0 +1,6 @@
+[Activity]
+name = Help
+activity_version = 1
+service_name = org.laptop.HelpActivity
+icon = activity-help
+exec = sugar-activity helpactivity.HelpActivity
