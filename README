@@ -1,1 +1,3 @@
-./help/ is a library collection 
+To develop with Help.activity --
+./setup.py dev
+restart sugar

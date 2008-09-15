@@ -1,0 +1,142 @@
+body {
+	font-family : trebuchet,verdana, sans-serif;
+	font-size: 12px; 
+	line-height:17px;
+}
+#content {
+	padding:10px;
+	position:absolute;
+	top:20px;
+	left:135px;
+	width:665px;
+	border-width:4px;
+	border-style:solid;
+	border-color:#666666;
+}
+#index {
+	 color:  #ff7f00;
+	 font-family: trebuchet,sans-serif;
+	 font-size: 10px;
+	 line-height:11px;
+	 position:absolute;
+	 top:20px;
+	 left :10px;
+}
+
+#index UL {
+	 width: 100px;
+	 list-style-type: None;
+	 padding-left: 0px;
+	 border: 14px solid #ff7f00;
+	 background-color: #ff7f00;
+	 margin: 0px 0px 0px 0px;
+  }
+
+#index  LI {
+	 padding-left: 0px;
+	 padding-right: 10px;
+	 padding-top: 4px;
+	 padding-bottom: 4px;
+	 color: #ffffff;
+	 margin: 0px 0px 0px 0px;
+	 background-color: #ff7f00;
+	 border-top: 1px solid #ff7f00;
+  }
+
+#index LI:hover {
+  background-color: #F99B1C;
+}
+
+#index  LI.heading {
+	 background-color: #ff7f00;
+	 color: #000000;
+	 border-top:1px solid #FFE5CC;
+	 padding-top: 7px;
+	 font-weight: bold;
+}
+
+#index  LI.title {
+	 border-bottom: 2px solid #FFE5CC;
+	 background-color: #ff7f00;
+	 color: #FBF4E9;
+	 font-weight: bolder;
+	 font-size:20px;
+	 padding-bottom: 20px;
+  }
+
+#index A {
+	 text-decoration: none;
+	 color:  #FBF4E9;
+	 font-weight: bold;
+}
+
+hr {
+border : none;
+background-color : #666666;
+color : #000000;
+height : 2px;
+width:50px;
+margin-left:0px;
+margin-bottom: 10px; 
+margin-top: 10px;
+}
+
+blockquote {
+}
+
+ul, li {
+margin-bottom: 5px; 
+margin-top: 0px; 
+}
+
+h1 {
+font-size: 24px;
+font-family : Arial,verdana, sans-serif;
+font-weight : Bold;
+margin-bottom: 10px; 
+margin-top: 0px;
+line-height: 32px; 
+letter-spacing: -1px; 
+}
+
+h2 {
+font-size: 18px;
+font-family : Arial,verdana, sans-serif;
+font-weight : Bold;
+margin-bottom: 10px;
+margin-top: 15px;
+padding-top : 15px;
+}
+
+h3 {
+font-size: 14px;
+font-family : Arial,verdana, sans-serif;
+font-weight : Bold;
+margin-bottom: 5px; 
+}
+
+h4 {
+font-size: 1em;
+font-family : Arial,verdana, sans-serif;
+font-weight : Bold;
+margin-bottom: -12px; 
+}
+pre, span.Code, span.verbatim {
+font-size:12px;
+line-height:1.5em;
+background-color:#FFE5CC;
+border: 0px solid #000000;
+margin-left : 0.5em;
+margin-bottom : 20px;
+margin-right : 1em;
+padding-left: 1em;
+padding-right: 1em;
+padding-top: 0.2em;
+padding-bottom: 0.2em;
+color : black;
+white-space: pre-wrap;       /* css-3 */
+white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+white-space: -pre-wrap;      /* Opera 4-6 */
+white-space: -o-pre-wrap;    /* Opera 7 */
+word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}	

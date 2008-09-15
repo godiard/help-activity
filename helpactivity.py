@@ -32,8 +32,8 @@ from xpcom.components import interfaces
 
 gobject.threads_init()
 
-#HOME = os.path.join(activity.get_bundle_path(), 'index.html')
-HOME = "http://dev.laptop.org/~bjordan/manual/XO_Introduction.html"
+HOME = os.path.join(activity.get_bundle_path(), 'help/XO_Introduction.html')
+#HOME = "http://website.com/something.html"
 
 class HelpActivity(activity.Activity):
     def __init__(self, handle):
