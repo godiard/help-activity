@@ -1,6 +1,7 @@
 [Activity]
 name = Help
-activity_version = 3
+activity_version = 4
 service_name = org.laptop.HelpActivity
 icon = activity-help
-exec = sugar-activity helpactivity.HelpActivity
+class = helpactivity.HelpActivity
+license = GPLv2
