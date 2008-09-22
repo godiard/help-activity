@@ -1,3 +1,10 @@
+7
+
+* dlo#8558: added more images that started with leading .'s as they weren't 
+  found by 'git add .'
+* dlo#8514: updated Advanced Power section re:AnneGentle ticket not yet closed
+
+
 6
 
 * dlo#8558: changed image urls to local folders to allow offline viewing
