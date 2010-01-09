@@ -1,7 +1,7 @@
 body {
 	font-family : trebuchet,verdana, sans-serif;
-	font-size: 12px; 
-	line-height:17px;
+	font-size: 16px; 
+	line-height:18px;
 }
 #content {
 	padding:10px;
@@ -16,18 +16,18 @@ body {
 #index {
 	 color:  #ff7f00;
 	 font-family: trebuchet,sans-serif;
-	 font-size: 10px;
+	 font-size: 12px;
 	 line-height:11px;
 	 position:absolute;
 	 top:20px;
-	 left :10px;
+	 left :5px;
 }
 
 #index UL {
-	 width: 100px;
+	 width: 118px;
 	 list-style-type: None;
 	 padding-left: 0px;
-	 border: 14px solid #ff7f00;
+	 border: 5px solid #ff7f00;
 	 background-color: #ff7f00;
 	 margin: 0px 0px 0px 0px;
   }

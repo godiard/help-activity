@@ -1,3 +1,1 @@
-Create MANIFEST which includes files in package.
-
 ./help/library/library.info should be made (so ./help/ can be easily made a library bundle)

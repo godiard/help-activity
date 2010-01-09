@@ -1,7 +1,7 @@
 [Activity]
 name = Help
-activity_version = 9
+activity_version = 11
 service_name = org.laptop.HelpActivity
 icon = activity-help
 class = helpactivity.HelpActivity
-license = GPLv2
+license = GPLv3

@@ -1,5 +1,3 @@
-# Copyright (C) 2006, Red Hat, Inc.
-#
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2 of the License, or
@@ -26,7 +24,8 @@ from sugar.graphics.toolbutton import ToolButton
 import hulahop
 hulahop.startup(os.path.join(activity.get_activity_root(), 'data/gecko'))
 
-from hulahop.webview import WebView
+#from hulahop.webview import WebView
+from browser import Browser
 import xpcom
 from xpcom.components import interfaces
 
@@ -41,7 +40,7 @@ class HelpActivity(activity.Activity):
 
         self.props.max_participants = 1
 
-        self._web_view = WebView()
+        self._web_view = Browser()
 
         toolbox = activity.ActivityToolbox(self)
         self.set_toolbox(toolbox)
@@ -84,14 +83,17 @@ class Toolbar(gtk.Toolbar):
         self.insert(home, -1)
         home.show()
 
-        self._listener = xpcom.server.WrapObject(ProgressListener(self),
-                                                 interfaces.nsIWebProgressListener)
-        weak_ref = xpcom.client.WeakReference(self._listener)
+        progress_listener = self._web_view.progress
+        progress_listener.connect('location-changed',
+                                  self._location_changed_cb)
+        progress_listener.connect('loading-stop', self._loading_stop_cb)
 
-        mask = interfaces.nsIWebProgress.NOTIFY_STATE_NETWORK | \
-               interfaces.nsIWebProgress.NOTIFY_LOCATION
-        self._web_view.web_progress.addProgressListener(self._listener, mask)
-        
+    def _location_changed_cb(self, progress_listener, uri):
+        self.update_navigation_buttons()
+
+    def _loading_stop_cb(self, progress_listener):
+        self.update_navigation_buttons()
+
     def update_navigation_buttons(self):
         can_go_back = self._web_view.web_navigation.canGoBack
         self._back.props.sensitive = can_go_back
@@ -106,27 +108,5 @@ class Toolbar(gtk.Toolbar):
         self._web_view.web_navigation.goForward()
 
     def _go_home_cb(self, button):
-        self._web_view.web_navigation.goBack()
+        self._web_view.load_uri(HOME)
 
-class ProgressListener(object):
-    _com_interfaces_ = interfaces.nsIWebProgressListener
-
-    def __init__(self, toolbar):
-        self._toolbar = toolbar
-    
-    def onLocationChange(self, webProgress, request, location):
-        self._toolbar.update_navigation_buttons()
-        
-    def onProgressChange(self, webProgress, request, curSelfProgress,
-                         maxSelfProgress, curTotalProgress, maxTotalProgress):
-        pass
-    
-    def onSecurityChange(self, webProgress, request, state):
-        pass
-        
-    def onStateChange(self, webProgress, request, stateFlags, status):
-        if stateFlags & interfaces.nsIWebProgressListener.STATE_IS_NETWORK:
-            self._toolbar.update_navigation_buttons()
-
-    def onStatusChange(self, webProgress, request, status, message):
-        pass
