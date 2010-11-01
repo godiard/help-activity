@@ -28,7 +28,7 @@ hulahop.startup(os.path.join(activity.get_activity_root(), 'data/gecko'))
 from browser import Browser
 import xpcom
 from xpcom.components import interfaces
-
+from viewtoolbar import ViewToolbar
 gobject.threads_init()
 
 HOME = os.path.join(activity.get_bundle_path(), 'help/XO_Introduction.html')
@@ -49,6 +49,9 @@ class HelpActivity(activity.Activity):
         toolbar = Toolbar(self._web_view)
         toolbox.add_toolbar(_('Navigation'), toolbar)
         toolbar.show()
+        viewtoolbar = ViewToolbar(self)
+        toolbox.add_toolbar(_('View'),viewtoolbar)
+        viewtoolbar.show()
 
         self.set_canvas(self._web_view)
         self._web_view.show()
