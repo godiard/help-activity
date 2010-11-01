@@ -77,7 +77,7 @@ class Toolbar(gtk.Toolbar):
         self.insert(self._forward, -1)
         self._forward.show()
 
-        home = ToolButton('zoom-home')
+        home = ToolButton('go-home')
         home.set_tooltip(_('Home'))
         home.connect('clicked', self._go_home_cb)
         self.insert(home, -1)
