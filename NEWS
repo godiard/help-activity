@@ -1,87 +1,52 @@
 NEWS
 ====
+
+### 2010-11-10 Version 12 (Help.activity) ###
+
+ - Fix permissions for HTML pages: use 0644
+ - Fix icon for F13 changes in rendering
+ - Add view toolbar, with zoom in, zoom out and full screen buttons
+ - Use go-home icon
+ - Remove width from content section in css to improve screen usage
+ - Merge with latest XO 1.5 branch
+
+Thanks to Gonzalo for recent commits and for requesting a new release.
+
 ### 2009-12-11 Version 11 (Help.activity) ###
 
  -  Merged old help activity content with the Helpfr updated browse/hulahop
  -  added chapter on ad-hoc networking
  -  cleanups for 1.5 release inclusion
 
-Helpfr news/history
--------------------
-
-### 2009-07-22 Version 5 (Thanks Sayamindu!) ###
-
- -  merged from sayamindu clone: now Helpfr uses Browse and runs 
-    fine on Sugar 0.84. 
- -  added many missing HTML files 
- -  fixed missing </head> in HTML files
- -  added index.css
- -  cleaner CSS for manuel.css
-
-### 2009-07-14 ###
-
- -  Changed the name to "Aide"
-
-### 2009-07-14: Version 4 (Lionel Laske fixes) ###
-
- -  Many bug fixes
- -  Add many missing images.
- -  Add two missing chapters
-    "Pour commencer" and "A propos d'OLPC"
- -  Display the index page in two columns
-
-### 2009-07-12: Version 3 ###
-
- -  Replaced license by GPLv3
- -  added my contact address
-
-### 2009-06-25: Version 2 ###
-
- -  Compressed png and jpg images: gain 2MO
- -  Translated the file names
- -  Added a menu table in each file
- -  Added headers with the right encoding in HTML files
- -  Fixed some image links
- -  Removed MANIFEST (to be updated)
- -  Use line-wrap in LICENCE
-
-### 2009-06-24: Version 1 ###
-
- -  Added french content from flossmanual
- -  Fix missing images
- -  Clean up the webpages
-
-
 8.2.0 Help.activity history
 ---------------------------
 
-### v.10 ###
+### Version 10 ###
 
  -  fixed the extra bunch of credits, not checked into git
     script used for the fix is in help/fix-credits.py --sj@laptop.org
 
-### 9 ###
+### Version 9 ###
 
  -  Fix images that broke  *AGAIN* --seth@laptop.org
 
-### 8 ###
+### Version 8 ###
 
  -  Refresh of content from flossmanuals export --seth@laptop.org
 
-### 7 ###
+### Version 7 ###
 
  -  dlo#8558: added more images that started with leading .'s as they weren't
     found by 'git add .'
  -  dlo#8514: updated Advanced Power section re:AnneGentle ticket not yet closed
  --seth@laptop.org
 
-### 6 ###
+### Version 6 ###
 
  -  dlo#8558: changed image urls to local folders to allow offline viewing
  -  update manifest.
  --seth@laptop.org
 
-### 5 ###
+### Version 5 ###
 
  -  First public release.
-
