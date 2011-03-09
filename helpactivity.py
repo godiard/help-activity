@@ -42,21 +42,73 @@ class HelpActivity(activity.Activity):
 
         self._web_view = Browser()
 
-        toolbox = activity.ActivityToolbox(self)
-        self.set_toolbox(toolbox)
-        toolbox.show()
+        try:
+            from sugar.graphics.toolbarbox import ToolbarBox, ToolbarButton
+            from sugar.activity.widgets import ActivityToolbarButton, StopButton, \
+                                            ShareButton, KeepButton
+            from mybutton import MyActivityToolbarButton
 
-        toolbar = Toolbar(self._web_view)
-        toolbox.add_toolbar(_('Navigation'), toolbar)
-        toolbar.show()
-        viewtoolbar = ViewToolbar(self)
-        toolbox.add_toolbar(_('View'),viewtoolbar)
-        viewtoolbar.show()
+            toolbar_box = ToolbarBox()
+            activity_button = MyActivityToolbarButton(self)
+            toolbar_box.toolbar.insert(activity_button, 0)
+            activity_button.show()
 
+            viewtoolbar = ViewToolbar(self)
+            viewbutton = ToolbarButton(page=viewtoolbar, \
+                                        icon_name='camera')
+            toolbar_box.toolbar.insert(viewbutton, -1)
+            viewbutton.show()
+
+            separator = gtk.SeparatorToolItem()
+            separator.props.draw = False
+            separator.set_expand(True)
+            toolbar_box.toolbar.insert(separator, -1)
+            separator.show()
+
+            #lets reuse the code below
+            navtoolbar = Toolbar(self._web_view)
+            navtoolbar._home.reparent(self)
+            toolbar_box.toolbar.insert(navtoolbar._home, -1)
+            navtoolbar._home.show()
+            
+            navtoolbar._back.reparent(self)
+            toolbar_box.toolbar.insert(navtoolbar._back, -1)
+            navtoolbar._back.show()
+            
+            navtoolbar._forward.reparent(self)
+            toolbar_box.toolbar.insert(navtoolbar._forward, -1)
+            navtoolbar._forward.show()
+
+            separator = gtk.SeparatorToolItem()
+            separator.props.draw = False
+            separator.set_expand(True)
+            toolbar_box.toolbar.insert(separator, -1)
+            separator.show()
+
+            stop_button = StopButton(self)
+            stop_button.props.accelerator = '<Ctrl><Shift>Q'
+            toolbar_box.toolbar.insert(stop_button, -1)
+            stop_button.show()
+
+            self.set_toolbar_box(toolbar_box)
+            toolbar_box.show()
+            
+        except ImportError:
+            toolbox = activity.ActivityToolbox(self)
+            self.set_toolbox(toolbox)
+            toolbox.show()
+
+            toolbar = Toolbar(self._web_view)
+            toolbox.add_toolbar(_('Navigation'), toolbar)
+            toolbar.show()
+            viewtoolbar = ViewToolbar(self)
+            toolbox.add_toolbar(_('View'),viewtoolbar)
+            viewtoolbar.show()
+
+            toolbox.set_current_toolbar(1)
+        
         self.set_canvas(self._web_view)
         self._web_view.show()
-
-        toolbox.set_current_toolbar(1)
 
         self._web_view.load_uri(HOME)
 
@@ -80,11 +132,11 @@ class Toolbar(gtk.Toolbar):
         self.insert(self._forward, -1)
         self._forward.show()
 
-        home = ToolButton('go-home')
-        home.set_tooltip(_('Home'))
-        home.connect('clicked', self._go_home_cb)
-        self.insert(home, -1)
-        home.show()
+        self._home = ToolButton('go-home')
+        self._home.set_tooltip(_('Home'))
+        self._home.connect('clicked', self._go_home_cb)
+        self.insert(self._home, -1)
+        self._home.show()
 
         progress_listener = self._web_view.progress
         progress_listener.connect('location-changed',
