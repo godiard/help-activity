@@ -20,6 +20,7 @@ import gobject
 
 from sugar.activity import activity
 from sugar.graphics.toolbutton import ToolButton
+from sugar.graphics.toolcombobox import ToolComboBox
 
 import hulahop
 hulahop.startup(os.path.join(activity.get_activity_root(), 'data/gecko'))
@@ -60,24 +61,31 @@ class HelpActivity(activity.Activity):
             viewbutton.show()
 
             separator = gtk.SeparatorToolItem()
-            separator.props.draw = False
-            separator.set_expand(True)
+            #separator.props.draw = False
+            #separator.set_expand(True)
             toolbar_box.toolbar.insert(separator, -1)
             separator.show()
 
             #lets reuse the code below
             navtoolbar = Toolbar(self._web_view)
-            navtoolbar._home.reparent(self)
-            toolbar_box.toolbar.insert(navtoolbar._home, -1)
+
+            toolitem = gtk.ToolItem()
+            navtoolbar._home.reparent(toolitem)
+            toolbar_box.toolbar.insert(toolitem, -1)
             navtoolbar._home.show()
+            toolitem.show()
             
-            navtoolbar._back.reparent(self)
-            toolbar_box.toolbar.insert(navtoolbar._back, -1)
+            toolitem = gtk.ToolItem()
+            navtoolbar._back.reparent(toolitem)
+            toolbar_box.toolbar.insert(toolitem, -1)
             navtoolbar._back.show()
+            toolitem.show()
             
-            navtoolbar._forward.reparent(self)
-            toolbar_box.toolbar.insert(navtoolbar._forward, -1)
+            toolitem = gtk.ToolItem()
+            navtoolbar._forward.reparent(toolitem)
+            toolbar_box.toolbar.insert(toolitem, -1)
             navtoolbar._forward.show()
+            toolitem.show()
 
             separator = gtk.SeparatorToolItem()
             separator.props.draw = False
