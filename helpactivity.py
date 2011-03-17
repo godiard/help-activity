@@ -87,6 +87,10 @@ class HelpActivity(activity.Activity):
             navtoolbar._forward.show()
             toolitem.show()
 
+            # we do not have collaboration features
+            # make the share option insensitive
+            self.max_participants = 1
+        
             separator = gtk.SeparatorToolItem()
             separator.props.draw = False
             separator.set_expand(True)

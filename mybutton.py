@@ -42,7 +42,6 @@ class MyActivityToolbarButton(ToolbarButton):
 
     def __init__(self, activity, **kwargs):
         toolbar = ActivityToolbar(activity, orientation_left=True)
-        toolbar.share.hide()
         toolbar.stop.hide()
         toolbar.keep.hide()
         toolbar.title.unset_flags(gtk.CAN_FOCUS)
