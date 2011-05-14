@@ -1,6 +1,10 @@
 NEWS
 ====
 
+### 2011-05-14 Version 13 (Help.activity) ###
+
+- Few UI improvements
+
 ### 2010-11-10 Version 12 (Help.activity) ###
 
  - Fix permissions for HTML pages: use 0644
