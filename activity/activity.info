@@ -1,6 +1,6 @@
 [Activity]
 name = Help
-activity_version = 12
+activity_version = 13
 service_name = org.laptop.HelpActivity
 icon = activity-help
 class = helpactivity.HelpActivity
