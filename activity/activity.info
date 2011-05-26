@@ -1,7 +1,7 @@
 [Activity]
 name = Help
 activity_version = 13
-service_name = org.laptop.HelpActivity
+bundle_id = org.laptop.HelpActivity
 icon = activity-help
 class = helpactivity.HelpActivity
 license = GPLv3
