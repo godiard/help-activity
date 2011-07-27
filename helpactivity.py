@@ -46,7 +46,7 @@ class HelpActivity(activity.Activity):
         try:
             from sugar.graphics.toolbarbox import ToolbarBox, ToolbarButton
             from sugar.activity.widgets import ActivityToolbarButton, StopButton, \
-                                            ShareButton, KeepButton
+                                            ShareButton
             from mybutton import MyActivityToolbarButton
 
             toolbar_box = ToolbarBox()
