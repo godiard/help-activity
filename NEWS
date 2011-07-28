@@ -1,6 +1,12 @@
 NEWS
 ====
 
+### 2011-07-28 Version 14 (Help.activity) ###
+
+- Remove the Keep Button (deprecated)
+- Change class by exec in activity.info
+- Change service_name by bundle_id
+
 ### 2011-05-14 Version 13 (Help.activity) ###
 
 - Few UI improvements
