@@ -15,25 +15,21 @@
 import os
 from gettext import gettext as _
 
-import gtk
-import gobject
+from gi.repository import Gtk
+from gi.repository import GObject
 
-from sugar.activity import activity
-from sugar.graphics.toolbutton import ToolButton
-from sugar.graphics.toolcombobox import ToolComboBox
+from sugar3.activity import activity
+from sugar3.graphics.toolbutton import ToolButton
+from sugar3.graphics.toolbarbox import ToolbarBox, ToolbarButton
+from sugar3.activity.widgets import ActivityToolbarButton
+from sugar3.activity.widgets import StopButton
 
-import hulahop
-hulahop.startup(os.path.join(activity.get_activity_root(), 'data/gecko'))
-
-#from hulahop.webview import WebView
 from browser import Browser
-import xpcom
-from xpcom.components import interfaces
 from viewtoolbar import ViewToolbar
-gobject.threads_init()
 
-HOME = os.path.join(activity.get_bundle_path(), 'help/XO_Introduction.html')
-#HOME = "http://website.com/something.html"
+HOME = 'file://' + os.path.join(activity.get_bundle_path(),
+                                'help/XO_Introduction.html')
+
 
 class HelpActivity(activity.Activity):
     def __init__(self, handle):
@@ -43,89 +39,72 @@ class HelpActivity(activity.Activity):
 
         self._web_view = Browser()
 
-        try:
-            from sugar.graphics.toolbarbox import ToolbarBox, ToolbarButton
-            from sugar.activity.widgets import ActivityToolbarButton, StopButton, \
-                                            ShareButton
-            from mybutton import MyActivityToolbarButton
 
-            toolbar_box = ToolbarBox()
-            activity_button = MyActivityToolbarButton(self)
-            toolbar_box.toolbar.insert(activity_button, 0)
-            activity_button.show()
+        toolbar_box = ToolbarBox()
 
-            viewtoolbar = ViewToolbar(self)
-            viewbutton = ToolbarButton(page=viewtoolbar, \
-                                        icon_name='camera')
-            toolbar_box.toolbar.insert(viewbutton, -1)
-            viewbutton.show()
+        activity_button = ActivityToolbarButton(self)
+        toolbar_box.toolbar.insert(activity_button, 0)
+        activity_button.show()
 
-            separator = gtk.SeparatorToolItem()
-            #separator.props.draw = False
-            #separator.set_expand(True)
-            toolbar_box.toolbar.insert(separator, -1)
-            separator.show()
+        viewtoolbar = ViewToolbar(self)
+        viewbutton = ToolbarButton(page=viewtoolbar, \
+                                   icon_name='camera')
+        toolbar_box.toolbar.insert(viewbutton, -1)
+        viewbutton.show()
 
-            #lets reuse the code below
-            navtoolbar = Toolbar(self._web_view)
+        separator = Gtk.SeparatorToolItem()
+        #separator.props.draw = False
+        #separator.set_expand(True)
+        toolbar_box.toolbar.insert(separator, -1)
+        separator.show()
 
-            toolitem = gtk.ToolItem()
-            navtoolbar._home.reparent(toolitem)
-            toolbar_box.toolbar.insert(toolitem, -1)
-            navtoolbar._home.show()
-            toolitem.show()
-            
-            toolitem = gtk.ToolItem()
-            navtoolbar._back.reparent(toolitem)
-            toolbar_box.toolbar.insert(toolitem, -1)
-            navtoolbar._back.show()
-            toolitem.show()
-            
-            toolitem = gtk.ToolItem()
-            navtoolbar._forward.reparent(toolitem)
-            toolbar_box.toolbar.insert(toolitem, -1)
-            navtoolbar._forward.show()
-            toolitem.show()
+        #lets reuse the code below
+        navtoolbar = Toolbar(self._web_view)
 
-            # we do not have collaboration features
-            # make the share option insensitive
-            self.max_participants = 1
-        
-            separator = gtk.SeparatorToolItem()
-            separator.props.draw = False
-            separator.set_expand(True)
-            toolbar_box.toolbar.insert(separator, -1)
-            separator.show()
+        toolitem = Gtk.ToolItem()
+        navtoolbar._home.reparent(toolitem)
+        toolbar_box.toolbar.insert(toolitem, -1)
+        navtoolbar._home.show()
+        toolitem.show()
 
-            stop_button = StopButton(self)
-            toolbar_box.toolbar.insert(stop_button, -1)
-            stop_button.show()
+        toolitem = Gtk.ToolItem()
+        navtoolbar._back.reparent(toolitem)
+        toolbar_box.toolbar.insert(toolitem, -1)
+        navtoolbar._back.show()
+        toolitem.show()
 
-            self.set_toolbar_box(toolbar_box)
-            toolbar_box.show()
-            
-        except ImportError:
-            toolbox = activity.ActivityToolbox(self)
-            self.set_toolbox(toolbox)
-            toolbox.show()
+        toolitem = Gtk.ToolItem()
+        navtoolbar._forward.reparent(toolitem)
+        toolbar_box.toolbar.insert(toolitem, -1)
+        navtoolbar._forward.show()
+        toolitem.show()
 
-            toolbar = Toolbar(self._web_view)
-            toolbox.add_toolbar(_('Navigation'), toolbar)
-            toolbar.show()
-            viewtoolbar = ViewToolbar(self)
-            toolbox.add_toolbar(_('View'),viewtoolbar)
-            viewtoolbar.show()
+        # we do not have collaboration features
+        # make the share option insensitive
+        self.max_participants = 1
 
-            toolbox.set_current_toolbar(1)
-        
+        separator = Gtk.SeparatorToolItem()
+        separator.props.draw = False
+        separator.set_expand(True)
+        toolbar_box.toolbar.insert(separator, -1)
+        separator.show()
+
+        stop_button = StopButton(self)
+        toolbar_box.toolbar.insert(stop_button, -1)
+        stop_button.show()
+
+        self.set_toolbar_box(toolbar_box)
+        toolbar_box.show()
+
         self.set_canvas(self._web_view)
         self._web_view.show()
 
         self._web_view.load_uri(HOME)
 
-class Toolbar(gtk.Toolbar):
+
+class Toolbar(Gtk.Toolbar):
     def __init__(self, web_view):
-        gobject.GObject.__init__(self)
+        GObject.GObject.__init__(self)
 
         self._web_view = web_view
 
@@ -149,10 +128,12 @@ class Toolbar(gtk.Toolbar):
         self.insert(self._home, -1)
         self._home.show()
 
+        """
         progress_listener = self._web_view.progress
         progress_listener.connect('location-changed',
                                   self._location_changed_cb)
         progress_listener.connect('loading-stop', self._loading_stop_cb)
+        """
 
     def _location_changed_cb(self, progress_listener, uri):
         self.update_navigation_buttons()
@@ -169,10 +150,9 @@ class Toolbar(gtk.Toolbar):
 
     def _go_back_cb(self, button):
         self._web_view.web_navigation.goBack()
-    
+
     def _go_forward_cb(self, button):
         self._web_view.web_navigation.goForward()
 
     def _go_home_cb(self, button):
         self._web_view.load_uri(HOME)
-
