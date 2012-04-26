@@ -17,14 +17,15 @@ from gettext import gettext as _
 
 from gi.repository import Gtk
 from gi.repository import GObject
+from gi.repository import WebKit
 
 from sugar3.activity import activity
 from sugar3.graphics.toolbutton import ToolButton
-from sugar3.graphics.toolbarbox import ToolbarBox, ToolbarButton
+from sugar3.graphics.toolbarbox import ToolbarBox
+from sugar3.graphics.toolbarbox import ToolbarButton
 from sugar3.activity.widgets import ActivityToolbarButton
 from sugar3.activity.widgets import StopButton
 
-from browser import Browser
 from viewtoolbar import ViewToolbar
 
 HOME = 'file://' + os.path.join(activity.get_bundle_path(),
@@ -37,8 +38,10 @@ class HelpActivity(activity.Activity):
 
         self.props.max_participants = 1
 
-        self._web_view = Browser()
-
+        self._web_view = WebKit.WebView()
+        _scrolled_window = Gtk.ScrolledWindow()
+        _scrolled_window.add(self._web_view)
+        _scrolled_window.show()
 
         toolbar_box = ToolbarBox()
 
@@ -48,7 +51,7 @@ class HelpActivity(activity.Activity):
 
         viewtoolbar = ViewToolbar(self)
         viewbutton = ToolbarButton(page=viewtoolbar, \
-                                   icon_name='camera')
+                                   icon_name='toolbar-view')
         toolbar_box.toolbar.insert(viewbutton, -1)
         viewbutton.show()
 
@@ -96,9 +99,8 @@ class HelpActivity(activity.Activity):
         self.set_toolbar_box(toolbar_box)
         toolbar_box.show()
 
-        self.set_canvas(self._web_view)
+        self.set_canvas(_scrolled_window)
         self._web_view.show()
-
         self._web_view.load_uri(HOME)
 
 
@@ -128,31 +130,23 @@ class Toolbar(Gtk.Toolbar):
         self.insert(self._home, -1)
         self._home.show()
 
-        """
-        progress_listener = self._web_view.progress
-        progress_listener.connect('location-changed',
-                                  self._location_changed_cb)
-        progress_listener.connect('loading-stop', self._loading_stop_cb)
-        """
+        self._web_view.connect('notify::uri', self._uri_changed_cb)
 
-    def _location_changed_cb(self, progress_listener, uri):
+    def _uri_changed_cb(self, progress_listener, uri):
         self.update_navigation_buttons()
 
     def _loading_stop_cb(self, progress_listener):
         self.update_navigation_buttons()
 
     def update_navigation_buttons(self):
-        can_go_back = self._web_view.web_navigation.canGoBack
-        self._back.props.sensitive = can_go_back
-
-        can_go_forward = self._web_view.web_navigation.canGoForward
-        self._forward.props.sensitive = can_go_forward
+        self._back.props.sensitive = self._web_view.can_go_back()
+        self._forward.props.sensitive = self._web_view.can_go_forward()
 
     def _go_back_cb(self, button):
-        self._web_view.web_navigation.goBack()
+        self._web_view.go_back()
 
     def _go_forward_cb(self, button):
-        self._web_view.web_navigation.goForward()
+        self._web_view.go_forward()
 
     def _go_home_cb(self, button):
         self._web_view.load_uri(HOME)
