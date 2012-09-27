@@ -1,6 +1,6 @@
 [Activity]
 name = Help
-activity_version = 14
+activity_version = 15
 bundle_id = org.laptop.HelpActivity
 icon = activity-help
 exec = sugar-activity helpactivity.HelpActivity
