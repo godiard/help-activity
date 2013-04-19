@@ -1,0 +1,142 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Getting Connected &mdash; Sugar 0.94 documentation</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '0.94',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="author" title="About these documents" href="about.html" />
+    <link rel="top" title="Sugar 0.94 documentation" href="index.html" />
+    <link rel="next" title="Troubleshooting Connectivity" href="troubleshooting_connectivity.html" />
+    <link rel="prev" title="Give Me the Internet" href="give_me_the_internet.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="troubleshooting_connectivity.html" title="Troubleshooting Connectivity"
+             accesskey="N">next</a></li>
+        <li class="right" >
+          <a href="give_me_the_internet.html" title="Give Me the Internet"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">Sugar 0.94 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="getting-connected">
+<h1>Getting Connected<a class="headerlink" href="#getting-connected" title="Permalink to this headline">¶</a></h1>
+<p>A primary goal of the Sugar learning platform is enabling students to learn and work together.</p>
+<p>In a wireless environment, an access point (AP) is a device that allows your computer to connect to an existing set of communicating devices. The access point usually has a direct connection to the internet, and can relay data between the wireless devices and the devices it can access.</p>
+<div class="section" id="multiple-ways-to-connect-to-others">
+<h2>Multiple ways to connect to others<a class="headerlink" href="#multiple-ways-to-connect-to-others" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>wireless access point (WiFi hotspot);</li>
+<li>wired network—may require an external adapter;</li>
+<li>OLPC “School Server” mesh network;</li>
+<li>OLPC “simple” mesh network, which lets you collaborate directly with other Sugar users.</li>
+</ul>
+</div>
+<div class="section" id="connecting-through-an-access-point">
+<h2>Connecting through an access point<a class="headerlink" href="#connecting-through-an-access-point" title="Permalink to this headline">¶</a></h2>
+<p>You can connect from the Neighborhood View. You can see information about the connection on the Frame.</p>
+<p><strong>Step 1: Go to the Neighborhood View</strong></p>
+<img alt="_images/600px_Neighborhood_view.png" src="_images/600px_Neighborhood_view.png" />
+<p>Go to the Neighborhood View to connect to an access point.</p>
+<p>Tip: To access the Neighborhood View, click on the Neighborhood Icon on the Frame or by pressing the F1 key.</p>
+<p><strong>Step 2: Choose an access point</strong></p>
+<img alt="_images/600px_Neighborhood_view_selecting_AP.png" src="_images/600px_Neighborhood_view_selecting_AP.png" />
+<p>Networks (access points) are represented by circles on the Neighborhood View. Hover over a circle to see more information about an access point. An access point is identified by the name (ESSID) it broadcasts. An OLPC laptop mesh-point—represented by a series of concentric circles—is identified by its channel number (1, 6, or 11). You can also search for an access point by name in the search bar at the top of the page.</p>
+<p>Note: If an access point is not broadcasting its name, the Neighborhood View may show that AP with some other name.</p>
+<p>Signal strength is indicated by the fill level of the circle. The color of the circle is based upon the name of the access point. A lock icon identifies networks that are secured and require a key (passcode) to use. A star icon identifies access points that have been previously used (favorites).</p>
+<p><strong>Step 3: Activate a connection</strong></p>
+<p>To activate a network connection, click once inside the circle that corresponds to your chosen access point (or click on the Connect option in the hover menu).</p>
+<p>While the connection is being established, the inside of the circle will blink. Once the connection is established, an icon for that connection will be shown on the bottom edge of Frame. If for some reason the connection failed, the circle will stop blinking. Sometimes it is necessary to try several times before the connection is established.</p>
+<p>If the access point is secured and requires a key, a dialog prompts you for the required information. Different access points may require different types of keys. Before entering the key, be sure to select the correct type from the pull-down menu that is presented.</p>
+<p><strong>Step 4: Checking the connection</strong></p>
+<img alt="_images/600px_Neighborhood_view_with_hover_menu.png" src="_images/600px_Neighborhood_view_with_hover_menu.png" />
+<p>The connection status is detailed in a hover menu.</p>
+<img alt="_images/600px_Neighborhood_view_with_frame_showing_connection_with_hover_menu.png" src="_images/600px_Neighborhood_view_with_frame_showing_connection_with_hover_menu.png" />
+<p>You can check the status of your connection from the Frame (from any view). By hovering over the circle icon, you will find details about your connection status in a hover menu. OLPC deployments</p>
+<p>OLPC has designed a mesh network that allows XO laptops to communicate without the presence of the Internet and a School Server as a means to make their school network connectivity more efficient. The School Server also provides web and chat services. Note to parents and teachers</p>
+<p>Collaboration between learners is one of the most important features of Sugar. To enable collaboration in a classroom or home setting, it is necessary to establish the same type of connection for each computer. Computers can be connected through a School Server, a simple mesh if they are OLPC XOs, or an access point.</p>
+<p>When using an access point for the connection, the computers must all use the same Jabber server in order to collaborate. Please refer to the Sugar Control Panel discussion in the Personalizing Sugar chapter for details regarding the configuration of Jabber. Additional hints Neighborhood_key You make your connection from the Neighborhood View. 200px_Frame_detail_status Your current connection status is shown on the Frame. Also, the hover menu will indicate &#8220;Connected&#8221;. It sometimes takes 2–3 tries to connect. To disconnect, select “Disconnect” from the hover menu that appears in either of the network status menus (See Step 4 above). AP_level Access points are represented by circles. The fill level indicates signal strength. AP_lock Access points that require keys have a lock icon. The color of the circle is calculated from the ESSID of the access point. The name of the access point is displayed when you hover over it. AP_blink You connect by “clicking” in the center of the circle. The center of the circle will blink while the laptop is trying to connect. Mesh_icon If you are using an OLPC XO computer, mesh points are represented by a series of concentric circles. The color of a mesh point is the same as your XO color. If your OLPC XO computer is “mesh enabled” and you have not connected to an AP, you will automatically be joined to a simple mesh network, enabling you to collaborate with others in the mesh, but not necessarily to access the Internet. Wireless_key_required You are prompted if the access point requires a key.</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">author:</th><td class="field-body"><p class="first">© Walter Bender 2008</p>
+<p>adam hyde 2008</p>
+<p>David Cramer 2008</p>
+<p>David Farning 2008</p>
+<p>Janis Grinbergs 2008</p>
+<p class="last">G Hunt 2012</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Getting Connected</a><ul>
+<li><a class="reference internal" href="#multiple-ways-to-connect-to-others">Multiple ways to connect to others</a></li>
+<li><a class="reference internal" href="#connecting-through-an-access-point">Connecting through an access point</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="troubleshooting_connectivity.html" title="Troubleshooting Connectivity"
+             >next</a></li>
+        <li class="right" >
+          <a href="give_me_the_internet.html" title="Give Me the Internet"
+             >previous</a> |</li>
+        <li><a href="index.html">Sugar 0.94 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2013, SugarLabs.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+  </body>
+</html>

@@ -1,0 +1,152 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>XS school server &mdash; Sugar 0.94 documentation</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '',
+        VERSION:     '0.94',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="author" title="About these documents" href="about.html" />
+    <link rel="top" title="Sugar 0.94 documentation" href="index.html" />
+    <link rel="next" title="What is an Activity" href="what_is_an_activity.html" />
+    <link rel="prev" title="Gnome" href="gnome.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="what_is_an_activity.html" title="What is an Activity"
+             accesskey="N">next</a></li>
+        <li class="right" >
+          <a href="gnome.html" title="Gnome"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">Sugar 0.94 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="xs-school-server">
+<h1>XS school server<a class="headerlink" href="#xs-school-server" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="overview">
+<h2>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">¶</a></h2>
+<p>The XO school Server, or XS, is one of the products of the OLPC project, designed to complement the XO laptop. The XS is installed on x86 (Intel-compatible) computers. These could be conventional servers such as rack-mounted computers, purpose-built low-power machines, or even netbooks.</p>
+<p>The OLPC XS provides additional infrastructure extending the capabilities of the laptops. While the laptops are self-sufficient for many learning activities, other activities and services depend on the XS providing connectivity, shared resources and services. The XS provides XO machines with network connectivity for backups, anti-theft leases, web browsing, system, content updates, and asynchronous collaboration tools such as Moodle.</p>
+</div>
+<div class="section" id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h2>
+<p>Two installation options are available:</p>
+<ol class="arabic simple">
+<li>XS installation CD (recommended): download and burn a CD image, and use the resultant CD to install the system. See details at <a class="reference external" href="http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_from_CD">http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_from_CD</a></li>
+<li>On top of another system (advanced): install the XS software packages on top of an existing operating system installation. See details at <a class="reference external" href="http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_on_top_of_existing_OS_installation">http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_on_top_of_existing_OS_installation</a></li>
+</ol>
+<p>The installation is fairly straight forward and requires minimal configuration after the intial installation to the XS hard drive.</p>
+</div>
+<div class="section" id="configuration">
+<h2>Configuration<a class="headerlink" href="#configuration" title="Permalink to this headline">¶</a></h2>
+<p>Configuring the XS involves choosing a server domain name. The hostname is always &#8216;schoolserver&#8217;. So, using a domain name like example.org will give you schoolserver.example.org.</p>
+<p>The XS has a fairly standard server-style networking setup. The XS provides DHCP and DNS services to all the XOs connected to it via a wireless access point. However, if the school already has its own network running its own DHCP services, the XS networking can be modified to work with the existing infrastructure. The XS can work with two Ethernet cards, where one works as a WAN interface, while the other works as the LAN interface. The XS can also work with a single Ethernet card where it works as a LAN interface for schools without WAN (Internet) connectivity. Optionally, such a server can provide WAN connectivity using a USB-to-Ethernet adapter.</p>
+</div>
+<div class="section" id="services">
+<h2>Services<a class="headerlink" href="#services" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="collaboration">
+<h3>Collaboration<a class="headerlink" href="#collaboration" title="Permalink to this headline">¶</a></h3>
+<p>The XS provides collaboration services across a variety of activities. When XOs are connected to the School Server, the collaboration is managed through the server and can be segmented by a classroom or a group. While the user will not see anything different, the capacity of collaboration will scale up considerably with a XS in the mix.</p>
+</div>
+<div class="section" id="caching">
+<h3>Caching<a class="headerlink" href="#caching" title="Permalink to this headline">¶</a></h3>
+<p>The XS uses Squid to cache content locally. At sites where Internet access is limited, slow or expensive, content caching helps in speeding up acccess to content by making copies on the XS and serving these up locally.</p>
+</div>
+<div class="section" id="backup-and-restore">
+<h3>Backup and Restore<a class="headerlink" href="#backup-and-restore" title="Permalink to this headline">¶</a></h3>
+<p>The XS provides seamless backup services for each registered XO. The XS checks to see the backup status of the Journal on each XO and backs it up incrementally. Once the backups are made, these can be used to restore a child&#8217;s work back on her XO.</p>
+</div>
+<div class="section" id="antitheft-controls">
+<h3>Antitheft Controls<a class="headerlink" href="#antitheft-controls" title="Permalink to this headline">¶</a></h3>
+<p>Antitheft controls lists all registered XOs in one location. additionally, this feature offers rescue leases to laptops to re-activate laptops in case of problems. If a laptop gets stolen, the antitheft control feature shuts it down.</p>
+</div>
+<div class="section" id="learning-management-system">
+<h3>Learning Management System<a class="headerlink" href="#learning-management-system" title="Permalink to this headline">¶</a></h3>
+<p>Moodle is a Learning Management System that provides the teacher with a way to create a course, manage assignments and administer assessment using a web-based interface. On the XO, the Moodle LMS is accessible via the Browse activity. Moodle features include assignment submission, discussion forums, file downloads, grade books, instant messages, calendars, news, announcements, quizzes and wiki.</p>
+<img alt="_images/600px-Moodlemain.png" src="_images/600px-Moodlemain.png" />
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field-odd field"><th class="field-name">author:</th><td class="field-body">© Sameer Verma and George Hunt 2012</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">XS school server</a><ul>
+<li><a class="reference internal" href="#overview">Overview</a></li>
+<li><a class="reference internal" href="#installation">Installation</a></li>
+<li><a class="reference internal" href="#configuration">Configuration</a></li>
+<li><a class="reference internal" href="#services">Services</a><ul>
+<li><a class="reference internal" href="#collaboration">Collaboration</a></li>
+<li><a class="reference internal" href="#caching">Caching</a></li>
+<li><a class="reference internal" href="#backup-and-restore">Backup and Restore</a></li>
+<li><a class="reference internal" href="#antitheft-controls">Antitheft Controls</a></li>
+<li><a class="reference internal" href="#learning-management-system">Learning Management System</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="what_is_an_activity.html" title="What is an Activity"
+             >next</a></li>
+        <li class="right" >
+          <a href="gnome.html" title="Gnome"
+             >previous</a> |</li>
+        <li><a href="index.html">Sugar 0.94 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2013, SugarLabs.
+      Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> 1.1.3.
+    </div>
+  </body>
+</html>
