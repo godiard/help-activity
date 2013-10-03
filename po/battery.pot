@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/battery.rst:3
+# 1eabd405486b4964a67723840c5e6745
+msgid "Charging the Battery"
+msgstr ""
+
+#: ../source/battery.rst:6
+# ee505435de754cf884766feace38113d
+msgid "Using battery power"
+msgstr ""
+
+#: ../source/battery.rst:8
+# 28967ef432fa4f1ca5ef2fece7310f9e
+msgid "The XO needs its battery or to be plugged into a wall directly. The laptop will run from either source of power. When you get your battery it should come with some amount of charge. Use the following instructions to install your battery and charge your laptop."
+msgstr ""
+
+#: ../source/battery.rst:12
+# 1d7e62a56dbd49cba2deddd073fa75bb
+msgid "This is the XO battery. The battery goes on the back of your XO."
+msgstr ""
+
+#: ../source/battery.rst:15
+# 3b6a1a34a6ed467e91b9dc60ebbd4137
+msgid "Installing the battery"
+msgstr ""
+
+#: ../source/battery.rst:17
+# c2bfa8fd96e8465b853edac43008bb56
+msgid "Line up the four tabs on the new battery with the long edge furthest from the catches."
+msgstr ""
+
+#: ../source/battery.rst:18
+# 480e3dd31b6e499f9dcaab60b7652d06
+msgid "Drop the battery into place."
+msgstr ""
+
+#: ../source/battery.rst:22
+# 6a5f16facca1466fb8f3f52603b5b595
+msgid "Slide the left-hand side catch to the left, and press the battery gently into place."
+msgstr ""
+
+#: ../source/battery.rst:23
+# 55026d679dba42f4b56ad27b17614ac9
+msgid "Slide the right-hand side catch to the left, to lock the battery in place."
+msgstr ""
+
+#: ../source/battery.rst:28
+# 1c4a2c5f8d6f418796d9091e1b983a1c
+msgid "Charging the battery"
+msgstr ""
+
+#: ../source/battery.rst:30
+# ccfb632b033d41a8832702a0dd7c9150
+msgid "Ensure that the battery is in the back of the XO's case."
+msgstr ""
+
+#: ../source/battery.rst:31
+# 51e254985efe4193a47db970f834355f
+msgid "Plug the power cord into your XO."
+msgstr ""
+
+#: ../source/battery.rst:32
+# d914caf0ed4a48fbbcd637035d2ec9dc
+msgid "Plug the other end of the power cord into the nearest power source, such as the one connected to the school's generator or a 12 Volt car battery."
+msgstr ""
+
+#: ../source/battery.rst:35
+# 4cb6841331bf4ee5ad73ef5f91c6b498
+msgid "Plugging in your XO"
+msgstr ""
+
+#: ../source/battery.rst:37
+# 36f4d2f6bf9f4b6cbea83168504a4368
+msgid "You can use your XO while it is plugged in, when you are charging the battery or when you have a good source for power. For power sources, you can use the generator supplied by your school, the electrical grid, or another source of electricity."
+msgstr ""
+
+#: ../source/battery.rst:40
+# 670d40afdf3c4c518917ca3af7371cdf
+msgid "When to charge the battery"
+msgstr ""
+
+#: ../source/battery.rst:42
+# 7e22cee6eb124c82ab59d8b075b2a391
+msgid "The battery icon in the Frame fills with color, showing you the current charge, or amount of power in the battery. Move the pointer over the battery icon to see how full the battery is. While the battery charges, the battery light near the power button (shaped like a battery) should display yellow, turning to green when the battery is fully charged. A red light tells you that the battery is running very low and you should charge it soon."
+msgstr ""
+
+#: ../source/battery.rst:45
+# ef5c38263240498e9e81801e65dc57ca
+msgid "Troubleshooting"
+msgstr ""
+
+#: ../source/battery.rst:47
+# ee88fe1dbb524bdb9c6fdb2e48bd6096
+msgid "If your battery charge gets extremely low during shipping, your XO may not start up. Plugging in external power may not charge the battery."
+msgstr ""
+
+#: ../source/battery.rst:49
+# d7dd8d4682ec40978363bcebe8cc4595
+msgid "The solution is to remove the battery, power up the laptop on external power and then insert the battery. Then it will charge and the charging light will be on."
+msgstr ""
+
+#: ../source/battery.rst:51
+# 461a14962e0643949c31674f3b026f1c
+msgid "If you're the tinkering type, several more advanced battery troubleshooting tips are at: http://wiki.laptop.org/go/XO_Troubleshooting_Battery."
+msgstr ""
+
+#: ../source/battery.rst:54
+# bc3e97de68f34c3698d973d3feffad98
+msgid "Locating a battery for replacement"
+msgstr ""
+
+#: ../source/battery.rst:56
+# a1619df2420d49f1a1bfd145369ade67
+msgid "Refer to http://wiki.laptop.org/go/Directory_of_repair_centers to get to the most recent directory of repair centers, and ask for a replacement battery for your XO."
+msgstr ""
+

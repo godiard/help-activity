@@ -1,0 +1,408 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/memorize.rst:3
+# e41f1d43ab0648758e5dc69264a89d59
+msgid "Memorize"
+msgstr ""
+
+#: ../source/memorize.rst:6
+# b11b4b56da88482a8dadab83677a0a09
+msgid "About"
+msgstr ""
+
+#: ../source/memorize.rst:8
+# 6d902f0b88bd46a0840d69c69da7385a
+msgid "This Activity allows learners to take the learning process in their own hands, as they play but also create their own games. The game has matching pairs of what are clickable tiles, or blocks. The card pairs are composed of text, sound or images. The children turn over the cards to match words, words and sounds, words and pictures, or pictures and sounds. There are a few default games loaded. These images, sounds and text can be extended to animations or movie snippets. Players of Memorize can play together across multiple machines."
+msgstr ""
+
+#: ../source/memorize.rst:11
+# 69d013a61e4f4486a1a56d7f7a2b1db9
+msgid "Using"
+msgstr ""
+
+#: ../source/memorize.rst:13
+# 05a111708bab4537ae2eca82f4cde558
+msgid "**Single Player Mode** The following screenshot shows the single player mode. The player has matched two pair. They are highlighted and shown on the left side. If the pair of tiles do not match, the are flipped back over. This player has found two matching pairs. The updated points are reflected next to the player icon. The labels reflect these functions:"
+msgstr ""
+
+#: ../source/memorize.rst:15
+# a796f9be171645ee86a9017ff4210d70
+msgid "Restart the Game"
+msgstr ""
+
+#: ../source/memorize.rst:16
+# dda1b48e62104a839d4046f0a14f38ed
+msgid "Load demo game - Select preloaded demo games from list. The current game is called \"addition\"."
+msgstr ""
+
+#: ../source/memorize.rst:17
+# f9cfaaf85d2f4d3692f39c0fbcbac0a7
+msgid "Select the Grid Size"
+msgstr ""
+
+#: ../source/memorize.rst:18
+# 4a4e470485224358a0e6f376c3622f19
+msgid "Load the demo game. This game is \"addition\"."
+msgstr ""
+
+#: ../source/memorize.rst:19
+# cbfbdd5c6b4648d98059ed178afa5ee4
+msgid "Matched pairs show in the user color"
+msgstr ""
+
+#: ../source/memorize.rst:20
+# 10715d70add8414e8062e1b59e27a749
+msgid "Game board - Click tiles to flip over. If the pair of tiles match, they are highlighted and shown on the left side. If the pair of tiles do not match, the are flipped back over."
+msgstr ""
+
+#: ../source/memorize.rst:25
+# 8750d32dd3624904a4e57f4e8cca093c
+msgid "How to play"
+msgstr ""
+
+#: ../source/memorize.rst:27
+# 223655d809d047e58120ec331b0c080d
+msgid "When you click \"Load demo games\" and select 'addition' from the pull-down menu, you will get a grid of 16 squares. Each square in the top two rows will be marked with the number 1; the squares in the bottom two rows will each have the number 2."
+msgstr ""
+
+#: ../source/memorize.rst:29
+# 59db17edb47f4662ab9ec716bcc0562a
+msgid "Each square in the top row hides a simple addition problem which you can view by clicking on it. The answer to the addition problem is hidden under one of the squares in the bottom two rows. There is no way to know under which square, you must simply guess. Move the cursor down to your selected guess, and notice that the bottom two rows are now 'live'--each square is highlighted as you cross it."
+msgstr ""
+
+#: ../source/memorize.rst:32
+# 6ebe388acc3d42a19724d27b6749e253
+msgid "Creating a Game"
+msgstr ""
+
+#: ../source/memorize.rst:34
+# 0fc0893ce88c4bd8b569a225de0f0425
+msgid "To create a game, here are the features you need to know:"
+msgstr ""
+
+#: ../source/memorize.rst:36
+# dfbf4047d69e4d3e9fe3c94ea0bdc01d
+msgid "New Game: Start a new game"
+msgstr ""
+
+#: ../source/memorize.rst:37
+# 9cb7ab4cb09b46968be4055f9ec4ccb7
+msgid "Load Game: Load a game you have started"
+msgstr ""
+
+#: ../source/memorize.rst:38
+# 283fd07eaf304ef5a8a8572094d0e414
+msgid "Save Game: Save your work"
+msgstr ""
+
+#: ../source/memorize.rst:39
+# 8f119ff078c443ff9f2d8688f9ecea5e
+msgid "Game Name: Type the name of your game"
+msgstr ""
+
+#: ../source/memorize.rst:40
+# dc14fe28a020464ba5a60acad69f1ef9
+msgid "Equal Pairs: The content details of the tiles are the same"
+msgstr ""
+
+#: ../source/memorize.rst:41
+# d8d6cfd306d04494ac3b6b3c6332d2fe
+msgid "Grouped Game: The content details of the tiles are different but match in kind. You can label the first tile as 1 and second matching tile as 2. Or you can allow the tiles to be displayed randomly."
+msgstr ""
+
+#: ../source/memorize.rst:42
+# 522124f3c49143b682b048922b2d22e3
+msgid "Insert Picture: opens the journal to select an image file"
+msgstr ""
+
+#: ../source/memorize.rst:43
+# 3502ef1bbac549828e9a8d8181baf187
+msgid "Insert Sound: opens the journal to select a sound file"
+msgstr ""
+
+#: ../source/memorize.rst:44
+# d29851174c8d424c875c2a5fb5acd227
+msgid "Click to Pronounce Text"
+msgstr ""
+
+#: ../source/memorize.rst:45
+# 2c488043ac054d29a05dfbf3f8044260
+msgid "Type in Text"
+msgstr ""
+
+#: ../source/memorize.rst:46
+# ebf349266b10467c974198dbd792a624
+msgid "Preview"
+msgstr ""
+
+#: ../source/memorize.rst:47
+# 043cc823ffd641ebb6a81ff37e2fc77b
+msgid "Add"
+msgstr ""
+
+#: ../source/memorize.rst:48
+# c727e12d8eb54137b0e42a6380dce46f
+msgid "Update"
+msgstr ""
+
+#: ../source/memorize.rst:49
+# 6e4583e169a44169aa116757f4a31c86
+msgid "Preview Matching Pairs"
+msgstr ""
+
+#: ../source/memorize.rst:50
+# 4573295cb4d844898ae767b591c6c0f0
+msgid "Delete"
+msgstr ""
+
+#: ../source/memorize.rst:55
+# 24866d2357154f66a03cd1fb7800371b
+msgid "Applying"
+msgstr ""
+
+#: ../source/memorize.rst:57
+# 31a8a3552cf444f8996f640d505692f7
+msgid "**Create a Color Game**"
+msgstr ""
+
+#: ../source/memorize.rst:59
+# f7fbe6d3bf38420ea4d402e6c3bd59e5
+msgid "In this tutorial, you will learn how to create and play a Memorize activity matching colors. The tiles are equal meaning each set is the same, and you will learn how to upload an image and add text."
+msgstr ""
+
+#: ../source/memorize.rst:61
+# 1d0ddefd7c8d418cac085f9673d6a99a
+msgid "**Preparation** Before beginning, save eight color fills using the Paint activity. Use the Bucket tool to fill the color image and save. The color image saved from the Paint activity is in rectangular in size. The Memorize activity uses a square picture image aligned from the upper left."
+msgstr ""
+
+#: ../source/memorize.rst:63
+# 5c5fe3692f2049cebdd2c266b0468e43
+msgid "Click the Create tab"
+msgstr ""
+
+#: ../source/memorize.rst:64
+#: ../source/memorize.rst:88
+# fdb8c9e87f1944f2a3798c1687111f57
+# 98f14697e5dc417d8e38849516f474f8
+msgid "Type in a Game name"
+msgstr ""
+
+#: ../source/memorize.rst:65
+# 4142c4479504482ba028af846e81bf97
+msgid "Tick Equal pairs check box"
+msgstr ""
+
+#: ../source/memorize.rst:66
+# e06c097b5b674ca596951c2161ccb854
+msgid "Insert Pictures and Text"
+msgstr ""
+
+#: ../source/memorize.rst:70
+# f62910085cb945e4ab6f8abdd8c38816
+msgid "**Create Color Tiles**"
+msgstr ""
+
+#: ../source/memorize.rst:72
+# 885a7de3ca7647ef8531581f338e187e
+msgid "Click Insert picture."
+msgstr ""
+
+#: ../source/memorize.rst:73
+# 4298db79bbc14d44a377c17b5f46b0de
+msgid "Select and click the image file with your color from the journal"
+msgstr ""
+
+#: ../source/memorize.rst:74
+# 410b442d063f426ca747299ce5594f5d
+msgid "Type <color name> in the Text box."
+msgstr ""
+
+#: ../source/memorize.rst:75
+#: ../source/memorize.rst:96
+# 2b77d1c8ebc644c18b2ed30ed84f0f41
+# 99d41542ae124af8a53679e7fe876250
+msgid "Click Add. The new pair of tiles are displayed on the left side."
+msgstr ""
+
+#: ../source/memorize.rst:76
+#: ../source/memorize.rst:97
+# ee5f24afb5534b4db38971de3e8a75bc
+# 815ae32d7f6a4800bc844f5378889e10
+msgid "Repeat steps until all pairs are added."
+msgstr ""
+
+#: ../source/memorize.rst:77
+#: ../source/memorize.rst:98
+# e6fa7434dfdd444c86cfdf8bfa6c0b72
+# bc0ae48cc51641669e57ad6b31e9a6f1
+msgid "Click Save"
+msgstr ""
+
+#: ../source/memorize.rst:78
+# 5a1ebaa81a39483da85bfdcc846307bd
+msgid "To play the game go to the Play tab"
+msgstr ""
+
+#: ../source/memorize.rst:79
+# 19039330a35440538b2be07ee77383a8
+msgid "Click the Load Game icon (a folder with an up arrow)"
+msgstr ""
+
+#: ../source/memorize.rst:80
+# a97a0c5d0f1549e6bb5002285a07fb7d
+msgid "Select your game!"
+msgstr ""
+
+#: ../source/memorize.rst:84
+# c66739219879476d8755b0cf59271836
+msgid "**Create a Sound Game**"
+msgstr ""
+
+#: ../source/memorize.rst:86
+# f246f546841745859181db7aaadb1c17
+msgid "In this tutorial, you will learn how to create and play a Memorize activity matching pictures and sounds. The tiles are grouped meaning all the pictures are numbered '1' tiles while the sounds are numbered '2' tiles. You will learn how to upload an image and upload a sound. Before beginning, save eight pictures using the Browse activity. Copy eight matching sounds files from an USB memory stick and save to the Journal."
+msgstr ""
+
+#: ../source/memorize.rst:89
+# 5200c4c8858745078be4a7224c1c8892
+msgid "Click grouped game"
+msgstr ""
+
+#: ../source/memorize.rst:90
+# 0b6f705cb500411cb044305af52e5bdc
+msgid "Insert Picture and Text"
+msgstr ""
+
+#: ../source/memorize.rst:94
+# 2c67677bffd24190a18bfe94e635b81b
+msgid "Click Insert sound. The Journal opens."
+msgstr ""
+
+#: ../source/memorize.rst:95
+# 141b201a8ba54d039d153dfecc1fea23
+msgid "Select and click the file name."
+msgstr ""
+
+#: ../source/memorize.rst:100
+# 6ac1313500b749eea28c5399f33554da
+msgid "**Create a Spelling Game**"
+msgstr ""
+
+#: ../source/memorize.rst:102
+# 08941206c71e4494a4ba09a576e6826d
+msgid "First create a spelling words with record"
+msgstr ""
+
+#: ../source/memorize.rst:103
+# 43baf9006e844121abd41eea7c9eba12
+msgid "Choose the Audio tab of Record"
+msgstr ""
+
+#: ../source/memorize.rst:104
+# 81dbafa9a74442a3802f1218e86f8d20
+msgid "Set the duration (upper right corner of the Record interface) is set to 15 seconds"
+msgstr ""
+
+#: ../source/memorize.rst:105
+#: ../source/memorize.rst:109
+# 701e7044b8eb40f78e673ed863d3bbe8
+# 393252ee71cb439cbf5fd7a6c8c44981
+msgid "Click the Record button"
+msgstr ""
+
+#: ../source/memorize.rst:106
+# b9a3dbb0f91b40bcaea44f0635f658df
+msgid "Say the first word of your spelling list"
+msgstr ""
+
+#: ../source/memorize.rst:107
+# 6a6ba02138064ab48b3e293c77f927c2
+msgid "Click the Record button again"
+msgstr ""
+
+#: ../source/memorize.rst:108
+# 2d2e85d1bbfd48f9b609a4e6228d11f7
+msgid "Wait while the Record activity saves your clip"
+msgstr ""
+
+#: ../source/memorize.rst:110
+# 7d81a9f05dee40909da79ae3a4d46053
+msgid "Say the next word on your list"
+msgstr ""
+
+#: ../source/memorize.rst:111
+# 2d521d770b5747c28d4509be40244735
+msgid "Click the Record button to save your clip"
+msgstr ""
+
+#: ../source/memorize.rst:112
+# d4bf62084a0c4be69a5ed5fcd7de4042
+msgid "Record and save the rest of the spelling words on your list"
+msgstr ""
+
+#: ../source/memorize.rst:113
+# d1aa194156b741a4af050da71be2797c
+msgid "Go to Memorize and create a New Game by matching the text word tile and the tile with the recorded sound files in your journal"
+msgstr ""
+
+#: ../source/memorize.rst:114
+# ae87ff21c18d4714bf4bfcff1099b50f
+msgid "Proceed with creating the game and matching sounds as you did in the earlier Sound game."
+msgstr ""
+
+#: ../source/memorize.rst:117
+# 10d44a95bd22430992a96468c290dbd2
+msgid "Sharing"
+msgstr ""
+
+#: ../source/memorize.rst:119
+# 3d12f5ebe69743aaae5f0d83c319a507
+msgid "To play these games with users on more than one XO, so that the turn moves from one user to the other, when a user fails to make a matching selection:"
+msgstr ""
+
+#: ../source/memorize.rst:121
+# 98552fab9f4f4c9e8fe930dabbd7a078
+msgid "Open the Memorize activity and load the game you want to share on the main XO"
+msgstr ""
+
+#: ../source/memorize.rst:122
+# ecc6d3be563a4a3aa714857955ad67f5
+msgid "Click on “Activity” then in menu bar click on the circle with a single dot"
+msgstr ""
+
+#: ../source/memorize.rst:123
+# 511fcfa7b623473b922fb53800793200
+msgid "All the other XOs will see the Memorize activity icon close to your XO symbol on their neighborhood view"
+msgstr ""
+
+#: ../source/memorize.rst:124
+# a200aa717c594564bcb5ebbd5a49c2b2
+msgid "They can then join the activity by moving their cursor over the game icon."
+msgstr ""
+
+#: ../source/memorize.rst:129
+# b5f0eed7c17946deb04013cfcbe4b640
+msgid "Extending"
+msgstr ""
+
+#: ../source/memorize.rst:131
+# 3f8833b472534658977ee951ff02726a
+msgid "There are a rich set of opportunities for extending these games to be used for history, biology, music, science, early reading, mathematics and others. The media objects available in Sugar, such as sound files or images, as well as all the media objects available by transfer from a USB, mean this game can be a powerful in many educational areas."
+msgstr ""
+

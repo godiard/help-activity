@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/keyboard.rst:3
+# 52210845a7d141d8897082c336f8e54d
+msgid "Keyboard"
+msgstr ""
+
+#: ../source/keyboard.rst:6
+# 69ca3692e8ce4548b034876e30453f0e
+msgid "The Keyboard and Touchpad"
+msgstr ""
+
+#: ../source/keyboard.rst:10
+# 38f649f6764d4a3d9cd4628c345bf376
+msgid "TODO: <We should have a picture of 1.5 rather than 1.0>"
+msgstr ""
+
+#: ../source/keyboard.rst:12
+# 9795f6643b014f27b0e1c917ba670e2e
+msgid "The keyboard and touchpad—which are dust and water resistant—have special keys for additional functionality. Keyboards are designed for each country, so your keyboard may not look exactly like the one in this figure. Keys outlined in yellow are reserved for future features (such as the \"grab\" keys and the \"slider bar\")."
+msgstr ""
+
+#: ../source/keyboard.rst:14
+# 9f119b6a24684dec80b06b938d3632f8
+msgid "Escape key -- The escape key is labeled with an × symbol on a black circle. The escape key is most commonly used in combination with the control key to quit activities (ctrl + esc)."
+msgstr ""
+
+#: ../source/keyboard.rst:15
+# 807c72634bc04751802e3c3574764ef7
+msgid "Tab key -- The tab key is labeled with arrows pointing right and left. The tab key—in addition to its standard use—is used in combination with the control, shift and alt keys to cycle through open Activities. For example, alt + tab cycles forward through running Activities."
+msgstr ""
+
+#: ../source/keyboard.rst:16
+# 168fccb3aa1d404ca4887c272902f38f
+msgid "Control key -- The control key is used in combination with other keys to issue commands. For example, ctrl + c is used to copy to the clipboard; ctrl + v is used to paste from the clipboard."
+msgstr ""
+
+#: ../source/keyboard.rst:17
+# 79cd747cec264e3eb170202d6cb9d627
+msgid "Shift key -- The shift key is used in combination with other keys as a modifier, most commonly to shift between lowercase and uppercase in Latin-based alphabets."
+msgstr ""
+
+#: ../source/keyboard.rst:18
+# a16f4f4114ca4b6588d6c7052be511d1
+msgid "Fn key -- The function key is used in combination with other keys as a modifier. For example, fn + erase is delete; fn + up arrow is page up."
+msgstr ""
+
+#: ../source/keyboard.rst:19
+# 261bc0f38f80446cb6ecd0c83f38a0e0
+msgid "Alt key -- The alt key is used in combination with other keys to issue commands. For example, alt + enter toggles full-screen mode; alt + spacebar toggles the tray visibility. This example works in the Browse Activity but not in the Record Activity."
+msgstr ""
+
+#: ../source/keyboard.rst:20
+# a4dc5ee54aa642eba5e36b1e4c70cc38
+msgid "Spacebar -- The spacebar key types a space. In the future, when used in conjunction with the function key (fn), it will eventually view the source code for the currently running Activity."
+msgstr ""
+
+#: ../source/keyboard.rst:21
+# 852d3e905f3042fb9ea9401a2cd88a22
+msgid "Alt Gr key -- The alt graphics key is used in combination with other keys as a modifier, most commonly to select an alternative letter or generate an accented character. The details of this functionality vary from keyboard layout to keyboard layout: for example, on the US keyboard, alt gr + j generates a € (euro sign); typing the character \"a\" followed by alt gr + 4 generates á."
+msgstr ""
+
+#: ../source/keyboard.rst:22
+# 76ba161f502c48aeb71c28d15760056c
+msgid "Arrow keys -- The arrow keys are used for navigation; combined with the function key (fn), they are used for page up, page down, home, and end."
+msgstr ""
+
+#: ../source/keyboard.rst:23
+# 6546ba7b5c1c448fae7e82cf64868f1d
+msgid "Language key -- The language key is found on keyboard layouts that combine Latin and non-Latin scripts. It toggles between scripts, so, for example, one can switch between typing in English and Hindi with a single keystroke. (On Latin-only keyboards, the language key has been replaced by a × and ÷ key.)"
+msgstr ""
+
+#: ../source/keyboard.rst:24
+# f295d504bbe44784b77d123082d515ee
+msgid "Enter key -- The enter key—in addition to its standard use—is used in combination with modifier keys. For example, alt + enter toggles full-screen mode."
+msgstr ""
+
+#: ../source/keyboard.rst:25
+# 4f7410dc10b04a1b85d4dfa802978823
+msgid "Erase key -- The erase key deletes the character behind the cursor (backspace). fn + erase deletes the key in front of (or on) the cursor."
+msgstr ""
+
+#: ../source/keyboard.rst:26
+# ea4cbdea08624ffa9eefa244ae18c96e
+msgid "Frame key -- The Frame key toggles the presence of the Frame on the screen. The Frame is the black border around the screen that holds the Activity taskbar, clipboard, wireless connections, battery level, and so on."
+msgstr ""
+
+#: ../source/keyboard.rst:27
+# 5df16acb41ee4496bb48dcce14174bce
+msgid "Volume controls -- The volume keys lower and raise the audio level."
+msgstr ""
+
+#: ../source/keyboard.rst:28
+# 4269227111d34b97804303ce9bcf820b
+msgid "Brightness controls -- The brightness keys lower and raise the brightness of the screen backlight. To turn the backlight off completely may take 7-8 button presses."
+msgstr ""
+
+#: ../source/keyboard.rst:29
+# 5648adc098b44af3835bc2af10d4ff41
+msgid "View keys -- The four view keys, from left to right, take you to the Neighborhood view, the Group view, the Home view, and the Activity view."
+msgstr ""
+
+#: ../source/keyboard.rst:30
+# 9d69783ae8f446f89c778fa83ccec229
+msgid "Search key -- The search key takes you directly to the Journal and places the text cursor in the search box."
+msgstr ""
+

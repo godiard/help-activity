@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/starting_the_xo.rst:3
+#: ../source/starting_the_xo.rst:6
+# 88158b12cd34474f90aa89694a87b46e
+# bf57f9073bd7408194139975a59f92b8
+msgid "Starting the XO"
+msgstr ""
+
+#: ../source/starting_the_xo.rst:10
+# 542025451cda4c86ab85c11c08373924
+msgid "To start the XO, press the Power button, near the lower right corner of the screen. The XO takes about 30 seconds to start up."
+msgstr ""
+
+#: ../source/starting_the_xo.rst:12
+# 617a7729f98c49f2a70bdb1066c10c8a
+msgid "If the battery needs charging, the light next to the power button glows red. Plug the AC adaptor into the left side of the XO and plug the power cord into an outlet if you see the red light or if the XO does not start up."
+msgstr ""
+
+#: ../source/starting_the_xo.rst:14
+# 933659fb93b4404eb439f9c764b164a2
+msgid "If you have difficulty starting your XO, refer to the Repairing chapter for ideas."
+msgstr ""
+
+#: ../source/starting_the_xo.rst:17
+# 7a8997672e39487e8018e0a29b7b5472
+msgid "Starting for the first time"
+msgstr ""
+
+#: ../source/starting_the_xo.rst:19
+# 893235aa2f724c8aa471d206e13d8b1e
+msgid "After you press the power button and the XO initially starts up, the XO screen asks for your first name. The next time you start it, it remembers your name and goes directly to the Home View. Later on you can learn how to change to a nick name of your choosing."
+msgstr ""
+
+#: ../source/starting_the_xo.rst:21
+# 4dafb6222fff4ffc85ac019f58c8f1b9
+msgid "Type your name."
+msgstr ""
+
+#: ../source/starting_the_xo.rst:25
+# 7bc62c801b884679a6c7e8f6b4e12b42
+msgid "After you enter your name, click Next. (Use a finger on the touchpad below the keyboard to move the arrow over the word \"Next\". Press the key below the touchpad on the left with an \"X\" on it to \"click\".)"
+msgstr ""
+
+#: ../source/starting_the_xo.rst:29
+# 9ab0aaff54cd4505a8e8bb07cd816083
+msgid "Next, you see a small O on top of an X. This symbol represents you when you use your XO. Use your finger on the touchpad to move the arrow over the person symbol. \"Click\" this person symbol by pressing the key with an \"X\" on the left below the touchpad to choose colors that you like."
+msgstr ""
+
+#: ../source/starting_the_xo.rst:33
+# 1de127a67a1742e296c1cf8361090b84
+msgid "After you chose your colors, click \"Done.\""
+msgstr ""
+
+#: ../source/starting_the_xo.rst:38
+# 0749feedd8d94cff8a8c6efa2b9a37e5
+msgid "Putting the XO to sleep"
+msgstr ""
+
+#: ../source/starting_the_xo.rst:40
+# 7cb1fe532fe04a81b11cc9ce217a5ab7
+msgid "When you are ready to stop using your XO for a while, you can put it to sleep by pushing the power key you used to turn it on. The screen that appears when you push the power button shows the two reasons for sleeping; when you haven't been using it for a while, or when you push the power button."
+msgstr ""
+
+#: ../source/starting_the_xo.rst:42
+# 87949c7ed19a40549512c80a58d54e18
+msgid "TODO: < we need a screen shot of the go to sleep image >"
+msgstr ""
+
+#: ../source/starting_the_xo.rst:45
+# 1da69bf8752c4fe98539c294e63bf58b
+msgid "Shutting down the XO"
+msgstr ""
+
+#: ../source/starting_the_xo.rst:47
+# 6a95d46c8cf04547afad3cecb3cbd385
+msgid "When you have finished using the computer, push the power key twice within in 5 seconds. The first push will display the sleep window. The second push will display the large stop sign."
+msgstr ""
+
+#: ../source/starting_the_xo.rst:49
+# 24289850adc74d879391a0ec9d2f8ad1
+msgid "TODO: < we need a screen shot of the stop sign image >"
+msgstr ""
+
+#: ../source/starting_the_xo.rst:52
+# 2ac783b1c29444c1bc59ece838202b69
+msgid "Forced Shutdown"
+msgstr ""
+
+#: ../source/starting_the_xo.rst:54
+# 8bf12d34aa88403a92fb12a5bed4afa0
+msgid "Whenever the XO becomes unresponsive to the keyboard or to the touchscreen, you can make an emergency shutdown by pressing and holding the power button for a few seconds. Be careful that your power button does not get \"stuck\" in the down position. If it does get stuck, the XO does not detect the depression of the power button, and does not turn on. If this happens, refer to the Repairing chapter for information."
+msgstr ""
+

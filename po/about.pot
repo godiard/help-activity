@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/about.rst:3
+# 125999c0aab44cc1a0dc0c0aba2ba104
+msgid "About this Manual"
+msgstr ""
+
+#: ../source/about.rst:6
+# a8720a54e0bf4efdbd16e03ed7c4c2db
+msgid "Introduction"
+msgstr ""
+
+#: ../source/about.rst:8
+# ee7429495d534f94906e4f8ae91604e0
+msgid "The XO laptop is an educational tool designed to be put into the hands of every child. By using free and open source software and world-wide software development efforts. The OLPC project has been delivering XOs around the world, translated into multiple languages."
+msgstr ""
+
+#: ../source/about.rst:14
+# 8c8ccdaa763c474aa73057487bdecbf0
+msgid "The XO runs free and open source software, Sugar, which allows anyone to run, copy, distribute, study, change and improve the software. Many people contributing to OLPC believe that these freedoms are critical to fulfilling OLPC's educational goals."
+msgstr ""
+
+#: ../source/about.rst:16
+# 8d8da9b445764a728390774d59ecc3b7
+msgid "When you open the XO, you will see the high-resolution, easy-to-read screen that works even in direct sunlight. You can also flip the XO into a book reader mode. The XO is designed to take outdoors and it even survives the rough-and-tumble daily lives that children lead."
+msgstr ""
+
+#: ../source/about.rst:18
+# 7f17f1af298a4885bd7195bd647a875c
+msgid "We hope you learn more about the XO laptop by reading these pages, so that you can learn more with the XO laptop."
+msgstr ""
+

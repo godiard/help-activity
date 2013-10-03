@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/terminal.rst:3
+# 10b37104f5514119b3ee721c011bcd8f
+msgid "Terminal"
+msgstr ""
+
+#: ../source/terminal.rst:6
+# 0cdc1e641609485d83a9468ffe20714e
+msgid "About"
+msgstr ""
+
+#: ../source/terminal.rst:8
+# d99a00eab40a4ae8b4ec7013b247122a
+msgid "Terminal is a full-screen text mode program that provides a Command-Line Interface (CLI) to the software on a Linux system, such as the Fedora Linux that Sugar on the XO is based on. Users type (sometimes cryptic) commands to perform file management, system administration, or in fact almost anything that can be done within Linux that does not involve graphics or video."
+msgstr ""
+
+#: ../source/terminal.rst:10
+# a05861acd005422f8c898d6aac99e912
+msgid "For example, typing **pwd** (Print name of current/Working Directory) at the command line in the home directory gives that location as /home/olpc, and typing **ls** at the command line lists the content of the current directory."
+msgstr ""
+
+#: ../source/terminal.rst:13
+# 8e99e6d35f144d02b927a74fe5cac868
+msgid "Where to get Terminal"
+msgstr ""
+
+#: ../source/terminal.rst:15
+# 6aa19c14bdce43388707629d6510e114
+msgid "Terminal is provided with Sugar on every XO. However, by default it is not selected for display in the Home view as a Favorite."
+msgstr ""
+
+#: ../source/terminal.rst:17
+# b952484ff5ac4f53af841da397d41e06
+msgid "To select Terminal as a Favorite, go to Home view, then click the List view icon. Type **Te** into the search box. Click the star next to Terminal. When you switch back to the ring of icons in Home view, Terminal will be visible."
+msgstr ""
+
+#: ../source/terminal.rst:19
+# a5e9938b7b6643bb9cd40d4e5e39f240
+msgid "Alternatively, you can leave Terminal unselected, and start it from list view by clicking its icon or selecting Start from its hover menu."
+msgstr ""
+
+#: ../source/terminal.rst:21
+# eee7df5a1ead49a9ab8e6c60902905e7
+msgid "If for some reason Terminal is not installed, it can be downloaded from its `Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4043>`_"
+msgstr ""
+
+#: ../source/terminal.rst:24
+# f40f229b7a004a279e37e993bcc29b0d
+msgid "Using"
+msgstr ""
+
+#: ../source/terminal.rst:26
+# 6d1716efd7b84ff7a1855e5dc4b5555a
+msgid "Type commands with options that modify their effects and arguments, usually file names or other indications of where to get input and where to put output."
+msgstr ""
+
+#: ../source/terminal.rst:28
+# 22877b699c5d44929d95f0340e1fdce5
+msgid "Examples: **pwd** and **ls**, as shown above"
+msgstr ""
+
+#: ../source/terminal.rst:30
+# 1fc2bc8323e64039a3298bdfd3699f17
+msgid "Chain programs together, so that the following program processes the output of the earlier program."
+msgstr ""
+
+#: ../source/terminal.rst:36
+# 43485f6032d348d3b579bc2fee37097a
+msgid "Get a listing of the current directory, but show only lines where the file or directory name includes the text \"Sugar\". The **|** symbol, read pipe, represents the data link between the programs."
+msgstr ""
+
+#: ../source/terminal.rst:38
+# 82bd866f12c940f1ac1d7f3d8bac410e
+msgid "Get information on programs. For example, many commands respond to the **-h** or **--help** options with a concise summary."
+msgstr ""
+
+#: ../source/terminal.rst:46
+# 1e38c0b2280041d1880fe6bf4cdea7d0
+msgid "The **man** and **info** utilities are unfortunately not available on XOs, but will undoubtedly be included in Sugar whenever the XO of that time is capacious enough for all of the manual and information pages in all of the supported languages."
+msgstr ""
+
+#: ../source/terminal.rst:50
+# 9471dbbcc21f4c1599acec8202c9e20a
+msgid "The Toolbar"
+msgstr ""
+
+#: ../source/terminal.rst:54
+# 64c27087ceb540a4ae0822b5f0da10d1
+msgid "Activity: Name this session and add a description to Journal"
+msgstr ""
+
+#: ../source/terminal.rst:55
+# 3721f3507c1446fc9e89a1eadfeb52c3
+msgid "Edit (scissors icon): Copy and Paste"
+msgstr ""
+
+#: ../source/terminal.rst:56
+# daf91f0ee1e84df1bff9fa14b79d00b6
+msgid "View (eye icon): Increase or Decrease font size, view in full screen"
+msgstr ""
+
+#: ../source/terminal.rst:57
+# 61e557a7ece44d6a8488fc731f4a372e
+msgid "Help: Display useful commands"
+msgstr ""
+
+#: ../source/terminal.rst:58
+# 317001f6472844c6bb04f9f142df4ce3
+msgid "Stop: Close terminal activity"
+msgstr ""
+
+#: ../source/terminal.rst:59
+# 1e9b64856ee94981a4b5cc1ee4317cb4
+msgid "Tabs: Open and close tabs"
+msgstr ""
+
+#: ../source/terminal.rst:62
+# 0b8b7e80314349079c0c104e02016f13
+msgid "Learning with Terminal"
+msgstr ""
+
+#: ../source/terminal.rst:64
+# f44ac706b7094bc39acdfcb11763cee7
+msgid "Terminal is essential to learning advanced Linux functions, such as system administration, compiling software, and many other such topics."
+msgstr ""
+
+#: ../source/terminal.rst:67
+# 9f130c6e859a4c728ce889c52e432572
+msgid "Extending Terminal"
+msgstr ""
+
+#: ../source/terminal.rst:69
+# 3403652842c14c11af0cb0251be89ad4
+msgid "Users have the option of installing text-mode software that works in a terminal window. Examples include text editors such as pico, or file managers such as Midnight Commander. MC simplifies many command line activities for the user, providing equivalents to many command in menus and text windows. To install mc, enter"
+msgstr ""
+
+#: ../source/terminal.rst:75
+# bb78548bb9344414a237d900b7218845
+msgid "This invokes the Yellow Dog Update Manager to install the Red Hat/Fedora package for mc, including the program, documentation, and other files. Then the user can type mc at the command line and get a two-panel display of files in the same or different directories, together with function buttons and menus for creating and deleting directories, moving or copying files, viewing or editing files, changing file permissions, and much more."
+msgstr ""
+
+#: ../source/terminal.rst:77
+# b4706872a1f946daaa335c6b2b3a3021
+msgid "See the FLOSS Manuals manuals"
+msgstr ""
+
+#: ../source/terminal.rst:79
+# 9e57c4dbcd4a41d4ab9ca42c086f62fd
+msgid "`Terminal <http://en.flossmanuals.net/terminal/>`_ about the Sugar Terminal activity"
+msgstr ""
+
+#: ../source/terminal.rst:80
+# f3afe01106144d87870adffce8e45a5e
+msgid "`Introduction to the Command Line <http://en.flossmanuals.net/command-line/>`_ for a user's tutorial on command line functions"
+msgstr ""
+

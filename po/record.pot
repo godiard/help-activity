@@ -1,0 +1,348 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/record.rst:3
+# 1424f24d7b8243c0929e5860f81fd360
+msgid "Record"
+msgstr ""
+
+#: ../source/record.rst:6
+# b185008a34194332bc4abbc311f657f9
+msgid "About"
+msgstr ""
+
+#: ../source/record.rst:8
+# c6e01fc85a024b589eb89fd9db26abcb
+msgid "The Record Activity is used for recording audio and video and for taking pictures. You will need to have a built in camera and microphone to use these features. If your computer only has a microphone and no camera then you can only use the Record Activity to record audio."
+msgstr ""
+
+#: ../source/record.rst:10
+# 7d2fd418445c40e9ac48c6d00086bdad
+msgid "Record can be used for :"
+msgstr ""
+
+#: ../source/record.rst:12
+# 718f26def1464b66ade1b7da080761eb
+msgid "Taking pictures"
+msgstr ""
+
+#: ../source/record.rst:13
+# e3ee296b32ac4efe9923896fb9cbe801
+msgid "Recording video"
+msgstr ""
+
+#: ../source/record.rst:14
+# ff89a0edaf2043dd9dbfce69d9aa9e84
+msgid "Recording audio"
+msgstr ""
+
+#: ../source/record.rst:15
+# 0041318062944f1d82384ad741b7e772
+msgid "Stop-motion photography"
+msgstr ""
+
+#: ../source/record.rst:16
+# 534236c85acb4a93942930dfd05ef252
+msgid "Time-lapse photography"
+msgstr ""
+
+#: ../source/record.rst:17
+# 641b8d48393e4833988056353e228953
+msgid "Creating 360° panoramas"
+msgstr ""
+
+#: ../source/record.rst:18
+# bff7dba8370b43a390a8298c1c61701a
+msgid "Viewing slide shows"
+msgstr ""
+
+#: ../source/record.rst:19
+# 038de491ce0240d1975c37e8d6b18c83
+msgid "Storing extra information about audio, video, and pictures"
+msgstr ""
+
+#: ../source/record.rst:21
+# a22b9545b3f74aeea0d9c071744c7b56
+msgid "Record stores images and audio in the Journal, from which they can be used by other activities, such as Draw, Write, Etoys, and Browse, as well as Memorize and some other games. Also, images can be transferred to a USB storage device from the Journal by \"drag and drop\"."
+msgstr ""
+
+#: ../source/record.rst:24
+# b319d5c59ea44e2d9f1008334c376f0f
+msgid "Taking Photos"
+msgstr ""
+
+#: ../source/record.rst:26
+# 853a6156cdb5419290c76641e742ebde
+msgid "You can use the Record Activity to take photographs of the world around you. The screenshot below highlights some of the key controls available in the main Photo Tab."
+msgstr ""
+
+#: ../source/record.rst:30
+# c3a17bc70fc145f78234ea82482c577c
+msgid "Let's look at some specific details about the items highlighted above:"
+msgstr ""
+
+#: ../source/record.rst:32
+# 91259fe1037b46069c0c7c21e26ade32
+msgid "This item shows the Photo Tab has been highlighted. This means that the Record Activity is in photo capture mode and all of the controls you see now reflect this."
+msgstr ""
+
+#: ../source/record.rst:33
+# eb83f03ba8dd44a7982e7ddaa9e5a1eb
+msgid "Record allows users to set a timer before recording happens. In this case, the timer is a pulldown menu that allows you to chose among three options: \"Immediate\", \"5 Seconds\", and \"10 Seconds\". Delaying the timer might be useful if you want to give yourself some time to get to the right pose before the Record Activity takes a snapshot."
+msgstr ""
+
+#: ../source/record.rst:34
+# 4f658ca61af54b18a330ab3046ea4b29
+msgid "You often see a double arrow at the top right corner of your picture window. This arrow puts record into full screen mode, where everything is hidden except the picture window and the record button (item 4 below). In full screen mode, you can navigate the pointer to the top right corner and a similar icon pops up to allow you to return to normal mode."
+msgstr ""
+
+#: ../source/record.rst:35
+# 74421487d00c4c07a7aa3ddb26b39046
+msgid "This is the button that tells the Record Activity to start recording. In Photo mode, Record takes a snapshot of whatever is in front of the camera."
+msgstr ""
+
+#: ../source/record.rst:36
+# b8c45c9bb18d454d8685d8b41591a3a9
+msgid "The area between the left and right arrows is called the tray. It is where previously recorded items are placed so that you can look at them later on."
+msgstr ""
+
+#: ../source/record.rst:38
+# bc79c929782f4f419d6425349abbff51
+msgid "Once Record successfully takes a photo, it shows up as an icon on the tray. You can click the icon to view the photo and to update information about that picture."
+msgstr ""
+
+#: ../source/record.rst:42
+# 4c076b8277344d06a656313153526627
+msgid "In the Photo View screenshot above, item 1 shows how the tray displays a history of your previously taken photos. When you click on a photo, you are taken to the interface you see in the screenshot, which includes a text field where you can name your photo (item 2). You also see the image taken by your camera (in this case, the skyline of Chicago). Item 3 is a small output window of what your camera sees (in this case, a very happy student!). If you click on this small window, you are returned to the main photo screen from which you can take more pictures."
+msgstr ""
+
+#: ../source/record.rst:44
+# e8decc8de3084208ba100c185dda9737
+msgid "Item 4 on the bottom right of your image is a little tab that allows you to find out even more about the photo that was taken. The screenshot below shows the new window that appears. Here, you can read and enter new 'tags' for your image, and find out about when the picture was taken and by whom. A tag is a single word that helps categorize or describe the photo."
+msgstr ""
+
+#: ../source/record.rst:46
+# ffffa4c25f7d494d85617d8e503a6b2c
+msgid "As with the photo view window, you have the output of your camera on the bottom left. You can click this to go back to taking photos."
+msgstr ""
+
+#: ../source/record.rst:51
+# 4c9a2bafba4748b3b04f77fa077aa716
+msgid "Video"
+msgstr ""
+
+#: ../source/record.rst:53
+# dba5cdc1519641a1bb9b7be81409a6c1
+msgid "When you click the Video Tab, the Record Activity goes into video recording mode. Much of this process is very similar to recording photos: recorded videos show up in the tray at the bottom, you can name and tag your videos just as you name and tag photos, and you have many of the same controls for going in to fullscreen mode and navigating between video recording and viewing modes."
+msgstr ""
+
+#: ../source/record.rst:55
+# 5350c31bf1ac4a4caebd0d4614d39602
+msgid "The screen capture below helps us to highlight a couple of items that are different or noteworthy in video mode."
+msgstr ""
+
+#: ../source/record.rst:59
+# a93589b696334adcb155363b6aefa8de
+msgid "Notice that there are two control menus. Item 1 is a delay timer just like the one used on photo mode: it lets you delay the start of recording several seconds so you can get ready in front of the camera. The duration menu (item 2) allows you to specify a maximum length for your video. In the current implementation, you can record videos of 2, 4 or 6 minutes."
+msgstr ""
+
+#: ../source/record.rst:61
+# 03345803c17e4b05bc3e24a6be6b3f3e
+msgid "Once you are ready to record, click the button in item 3. When you finish recording, you should see your video show up in area 4. You can then click on the video to view it, name it, and update/view the tags assigned to the video."
+msgstr ""
+
+#: ../source/record.rst:64
+# 080a1c082596480a80c9e6df522f52f2
+msgid "Audio"
+msgstr ""
+
+#: ../source/record.rst:66
+# 4cc52ac4b8a54cf785a9650599db0f4d
+msgid "The Record Activity also allows you to record Audio. To do so, you simply go to the Audio Tab in the Activity."
+msgstr ""
+
+#: ../source/record.rst:70
+# 8ff085faa53a4f859cff55b41dbd837f
+msgid "If you have a camera, an image appears in the picture window and looks like live video."
+msgstr ""
+
+#: ../source/record.rst:74
+# dd293d60191b4a6ba85bf9b55055231b
+msgid "Don't worry... this is only saved as a snapshot to help identify your audio recording."
+msgstr ""
+
+#: ../source/record.rst:76
+# 2681d79946da42eba8b03022cb173065
+msgid "The controls for audio recording are virtually identical to that of video recording. You have \"Timer\" and \"Duration\" controls that allow you to specify when and for how long your voice is recorded. You also have a tray at the bottom of the Activity that allows you to browse and view details of previously recorded audio."
+msgstr ""
+
+#: ../source/record.rst:78
+# e81b7bb79f51492bbf18bd4e048037e4
+msgid "To start recording press the button at the bottom:"
+msgstr ""
+
+#: ../source/record.rst:82
+# a646aee8757b4362b4d3e8d4c1642487
+msgid "Your recording starts:"
+msgstr ""
+
+#: ../source/record.rst:86
+# 42acde881b554af080c9afde22707dc9
+msgid "You can either leave the audio recording to run until it is complete or you can stop it by pressing on the same icon you pressed to start it. As with the photo and video modes, you see an icon for your recording show up once you are done. You can click this icon to edit the name and tags assigned to your new audio recording."
+msgstr ""
+
+#: ../source/record.rst:88
+# b86ad77085f0449aae8822aba47aeff5
+msgid "To replay the audio click the icon of the recording at the bottom of the page."
+msgstr ""
+
+#: ../source/record.rst:93
+# ad1ffce8c82341f7ba8063304c0cf547
+msgid "Sharing Media"
+msgstr ""
+
+#: ../source/record.rst:95
+# fe309a46c2324e6cbd890a24721e43da
+msgid "You can share photos, video and audio recordings (these can just be referred to as 'media') with your friends. To share media you must first have some media in the bottom tray. In our example we have the image of a Bison (see below) in the tray. Now select the Activity Tab on the left and the Record Activity looks something like this:"
+msgstr ""
+
+#: ../source/record.rst:99
+# 975fa31f6e404443a68343819483a040
+msgid "You then see on the right the text \"Share with:\". To the right of this is a drop-down menu. Change the selection here to \"My Neighborhood\" as shown:"
+msgstr ""
+
+#: ../source/record.rst:103
+# a7561058d13a4177bcec9699e06e24f7
+msgid "Others looking at the Neighborhood View see your icon with an 'eye' (the Record Activity icon) next to it:"
+msgstr ""
+
+#: ../source/record.rst:107
+# ee6d587e486c4cab90e6f4c01f844223
+msgid "Others can now join your Activity and you can share your media with them."
+msgstr ""
+
+#: ../source/record.rst:110
+# cfe40fcbc3ea4a7f87132067e549f502
+msgid "Joining the Record Activity"
+msgstr ""
+
+#: ../source/record.rst:112
+# 460d7342b3964920b22b1c615ec2cefe
+msgid "Once you have shared your Record Activity others need to do the following to join. From the Neighborhood View, they need to click the 'eye' icon next to your icon:"
+msgstr ""
+
+#: ../source/record.rst:117
+# 8383e661c41d445baa7bb89891431e04
+msgid "They must then choose 'Join' and their Record Activity opens with your images in their tray. In the Record Activity, thumbnails of photographs are shared.  The photograph's frame is in the same colors as the XO icon of the person who took the photo."
+msgstr ""
+
+#: ../source/record.rst:119
+# dc63207da14c47c0a70bc8915cbb1447
+msgid "On your Frame, you can see the icons of all of the people with whom you are collaborating. You can also see their shared media."
+msgstr ""
+
+#: ../source/record.rst:123
+# 0c29e30520134e47a2fae66f9432a175
+msgid "You can exit a shared Activity at any time."
+msgstr ""
+
+#: ../source/record.rst:126
+# 7ad29dfcaef54a0a890217f47df3e176
+msgid "Things to Try with Record"
+msgstr ""
+
+#: ../source/record.rst:128
+# e743ec42810e4cd29252c23c542f5654
+msgid "You can easily take pictures and make videos by using a built-in camera for still photography and video recording. You can also use the camera for video conferencing, which involves talking to others on a video screen knowing that the others can also view your video."
+msgstr ""
+
+#: ../source/record.rst:130
+# 8b980bff87724e088cb4b07313ee7528
+msgid "You can express yourself with sound, images, and video using the cameras and microphones. You are learning about light, observations, angle, and perspective. By recording the sights and sounds around you, others can learn about you, your culture, and environment. You can communicate with your voice and pictures. You can tell factual or emotional stories with film or pictures to help change perceptions or take action."
+msgstr ""
+
+#: ../source/record.rst:133
+# 91582c42e9114fc08fbb2b6608079a94
+msgid "You could also try some of the following :"
+msgstr ""
+
+#: ../source/record.rst:135
+# 3b73201f9c4446faa11c9727d3eef2db
+msgid "Use the Record Activity to record your voice with a built-in microphone."
+msgstr ""
+
+#: ../source/record.rst:136
+# 31671676b1084693a1ea578efca8b51e
+msgid "Take a photo of where you live by aiming the camera lens at your home, and then clicking the circle icon."
+msgstr ""
+
+#: ../source/record.rst:137
+# d13bbc4d3b1c4fb4a16088fcb8d6aa7f
+msgid "Record sounds of your city or town."
+msgstr ""
+
+#: ../source/record.rst:138
+# 19d25905829346e7898902946d590e7f
+msgid "Record and leave messages for your family."
+msgstr ""
+
+#: ../source/record.rst:139
+# d332a4995eca4459ab98e03d5eb96ce5
+msgid "Teachers - record a message for parents."
+msgstr ""
+
+#: ../source/record.rst:140
+# 6eef8ee0ca0b43a8938357abe8f0ea95
+msgid "Interview your friends and record it to audio or video."
+msgstr ""
+
+#: ../source/record.rst:141
+# 7885445e725743bc888e1074baf658eb
+msgid "Make a video diary."
+msgstr ""
+
+#: ../source/record.rst:142
+# 4c0db4bd47634ed6987be76e51bc6eb8
+msgid "Open your photos in the Paint Activity and draw on them."
+msgstr ""
+
+#: ../source/record.rst:143
+# 6dba4dd6658149b2bbc69d6ded56accb
+msgid "Add your pictures to a story using Write."
+msgstr ""
+
+#: ../source/record.rst:144
+# cde9dc9ebe0c48f6b0da49e6420e409f
+msgid "Upload a picture to Flickr or Wikimedia Commons."
+msgstr ""
+
+#: ../source/record.rst:145
+# eba85a4c035946219bc769c7734dade8
+msgid "Attach a picture to an e-mail you send to a friend or family member."
+msgstr ""
+
+#: ../source/record.rst:146
+# a1bc73aac43b4337922e05944d9ea12c
+msgid "Take a picture of a flower or plant from the same place every day to show how it changes."
+msgstr ""
+
+#: ../source/record.rst:147
+# 0a06282cc0c04e5bab9e6dfab6221b1f
+msgid "Take a picture of a baby animal every week to show how it grows."
+msgstr ""
+

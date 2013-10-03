@@ -1,0 +1,313 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/browse.rst:3
+# 2e66440c146449998cdfa6d93357c52b
+msgid "Browse"
+msgstr ""
+
+#: ../source/browse.rst:6
+# 357899580300456ca9eb93e0f8699e31
+msgid "About"
+msgstr ""
+
+#: ../source/browse.rst:10
+# a2354c4877e540f7b5767dab4678419e
+msgid "The Browse activity is your means to explore a wider source of information and content that can be found in what's called the World Wide Web (Internet or Web for short). Although there are some built-in information included on this activity (OLPC Library), to make the most of this activity you need an internet connection. Please see the chapter on \"Neighborhood View and Connecting to the Internet\"."
+msgstr ""
+
+#: ../source/browse.rst:12
+# 72891a3a7c804d438edb14b2d0fd3e3d
+msgid "The first thing that you will see when you first click on the Browse icon from the Home View is what's called the Home page."
+msgstr ""
+
+#: ../source/browse.rst:17
+# 3bf21ad366d44db5bc414cd99b711091
+msgid "Using Browse"
+msgstr ""
+
+#: ../source/browse.rst:19
+# a9c0951b6bdf4fe3bcb919f7b43b405f
+msgid "**Toolbar**"
+msgstr ""
+
+#: ../source/browse.rst:23
+# 562cc975c20f46e4b4f8527b08cb8300
+msgid "Activity Tool"
+msgstr ""
+
+#: ../source/browse.rst:24
+# 3d732a4cca0a4e7aae27f1a13bade848
+msgid "Text/Edit Tool"
+msgstr ""
+
+#: ../source/browse.rst:25
+# 38dc050530c9428d859c5c9b3daf6055
+msgid "View Tool"
+msgstr ""
+
+#: ../source/browse.rst:26
+# c81a9bfb7a334352838a6dc64926d81b
+msgid "Home"
+msgstr ""
+
+#: ../source/browse.rst:27
+# b9f3011fbe8046f59a0f9f4f25c20de7
+msgid "Address Bar (URL)"
+msgstr ""
+
+#: ../source/browse.rst:28
+# 0cca6ce4c8ed493e81740a997abecd23
+msgid "Refresh/Reload"
+msgstr ""
+
+#: ../source/browse.rst:29
+# 8b8b3c28fd2340cc96a47b791dbafff9
+msgid "Navigation Arrows (Back & Forward)"
+msgstr ""
+
+#: ../source/browse.rst:30
+# 2cc432eba9394ed790a5218fa019a0d3
+msgid "Bookmark"
+msgstr ""
+
+#: ../source/browse.rst:31
+# b112d9c868214847bc635fc01b3adf3d
+msgid "Stop"
+msgstr ""
+
+#: ../source/browse.rst:32
+# cc5e727a416e4819a6ac1501d851a3e2
+msgid "Window tab"
+msgstr ""
+
+#: ../source/browse.rst:34
+# 228419b9420147f3b3789cd461455cc8
+msgid "(Note: To see the name of the tool/button, you can put your mouse arrow on top of its picture)"
+msgstr ""
+
+#: ../source/browse.rst:36
+# 9406a5bba5d34780aff6accadc6e4e1c
+msgid "**Activity**"
+msgstr ""
+
+#: ../source/browse.rst:40
+# 4b7c203a2c6041738d285a7dff82a005
+msgid "**Browse Journal Entry Name** - This will serve as the name of the Journal entry. Change this to something distinctive especially when you have multiple window tabs opened that's related to one particular topic."
+msgstr ""
+
+#: ../source/browse.rst:42
+# 9e571251ee4f4493ba8c2ee65d64c122
+msgid "**Browse Description Bar** - This will serve as the **Browse** activity description in the Journal."
+msgstr ""
+
+#: ../source/browse.rst:44
+# 47ca6658f9dc415bb96d1a4a3bdb9244
+msgid "**Privacy Tool** - Use this to change the privacy setting of the current Browse activity. The default is set to Private."
+msgstr ""
+
+#: ../source/browse.rst:47
+# f67d545a457a46609e8b72ef249eb30f
+msgid "**Text Finder and Edit Tool**"
+msgstr ""
+
+#: ../source/browse.rst:51
+# 54b5bfbe3d2646168af3fbe6e55fc5c5
+msgid "**Undo** - The Browse activity remembers the last change that you've made on the page. Use this button to step back to the last change that you made."
+msgstr ""
+
+#: ../source/browse.rst:53
+# bd7a3dec06014d03b2388f34bee365aa
+msgid "**Redo** - Use this button to go back to the current changes that you made after doing an \"Undo\"."
+msgstr ""
+
+#: ../source/browse.rst:55
+# 3ef71710face481391575ce6beea2bf9
+msgid "**Copy** - This is used to copy a text or passage from the current page you are viewing. To do this, you need to first highlight (left-click while dragging your mouse arrow) the text. You know you've highlighted a text when its background color turned grey. Then, press this tool to copy it to the clipboard. A small image on the left hand side of the frame will appear. This \"holds\" the text you just copied. You can now \"paste\" this text or just simply click and drag it to other activities. The copied text will disappear once the XO is restarted or shutdown."
+msgstr ""
+
+#: ../source/browse.rst:57
+# 2de69b7998e64003bbb7d22951057acc
+msgid "**Paste** - This tool is for pasting texts from other activities into the current page that you are viewing. You can only paste texts on areas of the page where pasting is allowed. It will remember this text until the XO is restarted or shutdown."
+msgstr ""
+
+#: ../source/browse.rst:59
+# c6072b1dc71e495b8ed075bce4505cf1
+msgid "**Text Search Bar** -This tool is great to use when you need to quickly find a text on a current page you're viewing. Press the enter key to go down the page. The text that you are looking for would be highlighted in green. Press the little \"x\" symbol on the right of the bar to erase the text."
+msgstr ""
+
+#: ../source/browse.rst:61
+# d5210f48687b4b9eb9ecfef9fa36345e
+msgid "**Text Search Navigation Arrows** - While you can press the Enter key to search down the page, these arrows are useful to search the page. Use the left arrow to go back up the page and the right arrow to go down the page."
+msgstr ""
+
+#: ../source/browse.rst:63
+# 615f36661e59404bb3e4f41a656ff6d3
+msgid "**View Tool**"
+msgstr ""
+
+#: ../source/browse.rst:67
+# e839f46132db4906a8ab55b21cfab1b2
+msgid "**Zoom Out** - When you want to see more of the page, use this tool to make it smaller."
+msgstr ""
+
+#: ../source/browse.rst:69
+# 3e21e866d98b48d3ae0c799eaaf75e58
+msgid "**Zoom In** - When you want to see things better, use this tool to make the page bigger."
+msgstr ""
+
+#: ../source/browse.rst:71
+# dc9e24c984a64041afcf1df5ca210482
+msgid "**Full Screen** - You can press this to see the entire page without the toolbar."
+msgstr ""
+
+#: ../source/browse.rst:73
+# de6fceb0833b4bf7b876f582af307a4a
+msgid "**Tray Toggle button** - This tool only works when you have things on the tray (the space on the bottom of the Browse page) like pages that you have bookmarked (Please see bookmark description). Use this tool to make the tray visible or invisible. Browse remembers your bookmarked pages even when the tray is not visible. Just simply make it visible again to see those bookmarks."
+msgstr ""
+
+#: ../source/browse.rst:75
+# 23d52dfa15e04fd8abb237291c81d5d8
+msgid "**Home Icon**"
+msgstr ""
+
+#: ../source/browse.rst:77
+# 70511096ae8c43a398b17ce3631ed72b
+msgid "Clicking this takes you back to the Home Page. Useful when you're lost and need a starting point."
+msgstr ""
+
+#: ../source/browse.rst:79
+# 83c7fd2a5862451b83c57c41960d57c2
+msgid "**Address Bar**"
+msgstr ""
+
+#: ../source/browse.rst:81
+# 2b4d33e208ed4ec58be5eed2bc72d414
+msgid "Each page on the internet has its own address. The address bar shows you the current web address of the page you are viewing. If you know the web address of a page, you can type it on this bar and press the enter key to navigate to that page."
+msgstr ""
+
+#: ../source/browse.rst:83
+# d409bdead36a45aa92fcf90394e7a1c3
+msgid "**Bookmark**"
+msgstr ""
+
+#: ../source/browse.rst:85
+# d2f45d037ac54a2b8e96ca80d02541c2
+msgid "Sometimes it is useful to remember the pages that you visited. Clicking this icon will save the web address of the current page you are viewing. A small thumbnail image of this page will appear on the bottom(tray). Bookmarks are saved only on the current Browse activity. They will not show up when you open a new Browse activity."
+msgstr ""
+
+#: ../source/browse.rst:87
+# 9dabf92b8840411982c9ae794c351219
+msgid "**Stop Activity Tool** Closes the current Browse activity."
+msgstr ""
+
+#: ../source/browse.rst:90
+# 2408671fbe884bbe89faea2d4a06f935
+msgid "**OLPC Library**"
+msgstr ""
+
+#: ../source/browse.rst:92
+# 5bdfc50212364fafbbc713ac7291c209
+msgid "The Browse activity has built in books, information and pages that you can access even without a connection to the internet. Click on any of the texts to see what you can find. Have fun exploring!"
+msgstr ""
+
+#: ../source/browse.rst:94
+# d7abd3e6aad6411d8171d9839ba654ab
+msgid "Copying Images From The Web"
+msgstr ""
+
+#: ../source/browse.rst:100
+# a8a17858e77a45718bdeb2b5d71d23f2
+msgid "Every time you create something whether it's a poem, a book or a nice picture, you own those works. The internet is filled with information and works that result from hard work and creativity of other people. Some owners of those work like to share them freely, but others don't or require that you give them the credit. Sometimes this information can be found on the page you are viewing. When in doubt make sure to make a note in your documentation on where you found the information. A great page for further reading: http://www.copyrightkids.org/"
+msgstr ""
+
+#: ../source/browse.rst:102
+# 8f8a97dac30f4b648b27f08f0bca4c2b
+msgid "To copy an image, point your mouse arrow on the picture and right-click on it (press the button on the bottom of your track pad that has a circle on it). A box similar to the picture shown above will appear with information on the source or web address of the picture along with the file name of the picture. There are two ways to copy an image:"
+msgstr ""
+
+#: ../source/browse.rst:104
+# 3d2b09b675314a6b85699f222b8dcdfd
+msgid "**Keep Image** - this will put a copy of the image to the Journal."
+msgstr ""
+
+#: ../source/browse.rst:106
+# edf8b8ecc02e441886b25f4975fcb47c
+msgid "**Copy Image** - this will place a copy of the image to the clipboard, which you can then drag and drop to another activity. This copy is temporary and will disappear from the clipboard when you shutdown the XO. So if you need to save the image, it is best to do a \"Keep Image\" instead."
+msgstr ""
+
+#: ../source/browse.rst:109
+# b63672be13a64e59a0b2cd7fc1f78d1b
+msgid "Learning with Browse"
+msgstr ""
+
+#: ../source/browse.rst:111
+# e105062dda47439084edbcd8eca9b4af
+msgid "Browse gives access to the internet which is a powerful information and communication tool and allows students to participate in the global community and experience. There are so many things on the web that you can use and incorporate in your classroom, but one of the many great ways to start is to help students make sense of where they are in relation to this global context. How far are they from the earthquake's epicenter that rocked Japan? Where is their country's capital? How big is their country compared to others? Where are the historical places in their country and the world that shaped human history and culture? One of the many great tools on the web that can be readily and freely accessed is Google maps (type this on the address bar): http://maps.google.com/"
+msgstr ""
+
+#: ../source/browse.rst:115
+# 94fb9374d0694478b1bc66581178cdb2
+msgid "If you live in an area that is adequately mapped by Google Maps, you can ask students to use the \"Get directions\" tool on the page to see how they can go from one place to another. The directions tool can also teach students a sense of distance by showing how far two places are from each other. Example, how far do they travel every day for school (Given that sense of distance, how far and how long will it take to get to the nearest city or town)?"
+msgstr ""
+
+#: ../source/browse.rst:118
+# 8cd482b31a964f338420d52b126fd496
+msgid "Extending Browse"
+msgstr ""
+
+#: ../source/browse.rst:120
+# 9dfcb6e3bda34f5caa5e796e1b0ba285
+msgid "There's a built in Google search bar on the home page of Browse that you can direct students to aid in their research. Help them narrow or expand their search texts to come up with better search results."
+msgstr ""
+
+#: ../source/browse.rst:122
+# e39879b2d27b456d8a8ffdd73c63c5a0
+msgid "To allow students to be active participants in the global community, communication tools can be freely and readily accessed via Browse: from creating free e-mail accounts to tools that allow people to create their own internet sites and pages."
+msgstr ""
+
+#: ../source/browse.rst:124
+# b554b93d45434eea8e87ba166f6e0736
+msgid "But like with any type of exploration, you have to start with caution. Not all information on the internet is good. Start with educating kids to safely use and explore the internet. You can check out sites like: http://www.wiredkids.org/kids/index.html for more information."
+msgstr ""
+
+#: ../source/browse.rst:127
+# 526c674b4f94477a8812d891118301f2
+msgid "Where to report problems"
+msgstr ""
+
+#: ../source/browse.rst:129
+# 26cdcfd1ba62416da3b7f6178d070480
+msgid "In http://bugs.sugarlabs.org, component Browse."
+msgstr ""
+
+#: ../source/browse.rst:132
+# 598d43fa87c6453c905e6605db4b8598
+msgid "Credits"
+msgstr ""
+
+#: ../source/browse.rst:134
+# 499c3657e7be48eaab0f4cc6c1435c51
+msgid "Browse was developed and maintained by: Lucian, Sascha Silbe, erikos, manuq"
+msgstr ""
+
+#: ../source/browse.rst:136
+# 0a16e3dd31a14766959065653dfe16ca
+msgid "Browse can be downloaded from the `Sugar Labs Activities repository <http://activities.sugarlabs.org/>`_."
+msgstr ""
+

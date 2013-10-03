@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/hardware_evolution.rst:3
+# caf88ba527864a0ca2c08f7cec4b59d0
+msgid "Hardware evolution"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:6
+# e1f1f1821d944fb99a7b0f3a0ccb9d4f
+msgid "Hardware Evolution 2008 - 2012"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:8
+# efbdff56850b4ee0ba294b5adb84ed48
+msgid "Although the XO has continued to look pretty much the same on the outside, the electronics inside have been changing. For details of the differences, refer to:"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:10
+# e3cbb4b22aab4d81b5ddaca2e1f8f9fe
+msgid "http://wiki.laptop.org/go/Hardware_specification for the XO 1.0"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:12
+# f3606c5347e348fd9c732dfa8489b61b
+msgid "http://wiki.laptop.org/go/Hardware_specification_1.5"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:14
+# e00d8b45adc949adb8ac12cc4b710257
+msgid "http://wiki.laptop.org/go/XO-1.75"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:16
+# 0c0af37104e24cdd85b8681bb9baabeb
+msgid "http://wiki.laptop.org/go/XO-4"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:18
+# 177232dfca9a46a6a29edc4a566ac900
+msgid "To some extent, the changes were made to keep using high volume parts, and improve performance. The change from 1.5 to 1.75 involved a change of the processor from x86 to arm, and a reduction in power consumption of about 50%. With power management improvements, this permits the XO to last more than 3.5 hours."
+msgstr ""
+
+#: ../source/hardware_evolution.rst:20
+# 638d0283cd1f4ce0962b44e2e1d68e37
+msgid "XO-4 is available in two models, XO-4 and XO-4 Touch. XO-4 provides multi touch input on the display."
+msgstr ""
+
+#: ../source/hardware_evolution.rst:22
+# d4bd69f2ce9341c8a21b0a2a390f04f0
+msgid "As you can see from the \"boot time\" comparison, lower power has not been at the expense of decreased performance."
+msgstr ""
+
+#: ../source/hardware_evolution.rst:25
+# a31a06b770784238868633822c0bb963
+msgid "Version"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:25
+# 9b6b18ce73534d2982c3f2be5b06e14a
+msgid "Hard Disk"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:25
+# 9d0999355ee1448f9c50a50d0aca9c9f
+msgid "Memory"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:25
+# fa35eb81d08348109890d8f85e331b57
+msgid "Boot Time"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:27
+# cf7f52e5b4f34c0bad516f655312139d
+msgid "XO 1.0"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:27
+# a07c4aa415ad4719b33ed747666d320f
+msgid "1 GB"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:27
+# c1958fde6ae34263abed37f55ffb9ef2
+msgid "256 MB"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:27
+# 6d15ccf1d23e4381bf63e075f4a38a3b
+msgid "76 s"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:29
+# e2111522582b4b7a8eefaf01f7a22106
+msgid "XO 1.5"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:29
+#: ../source/hardware_evolution.rst:31
+# d3967de2f53b4bf68490b7ee73c5acfd
+# ec471e84b5b14efc999d2e188f9077ed
+msgid "4 GB"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:29
+# 13c97e263099478db0485387980f2070
+msgid "1000 MB"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:29
+# c5bb98c34650495e8c87e55afeae6c1c
+msgid "54 s"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:31
+# 09d19c576aa54ab483be6224b9c5239a
+msgid "XO-1.75"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:31
+# 8401368f6ba64b3ea95f14d743efced7
+msgid "512 MB"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:31
+# 2b2ec9fc340c4de0b1e2638a19bb2aff
+msgid "47 s"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:33
+# 8123de00a95b476abd1ca984ebb5a514
+msgid "XO-4"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:33
+# 51d84b850a8e48b092e29bbcf1ed3955
+msgid "4 or 8 GB"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:33
+# 1fdd71e77b564bc6ab4c5c746a1c8067
+msgid "1 or 2 GB"
+msgstr ""
+
+#: ../source/hardware_evolution.rst:36
+# bc80a4f2c4b5475f9ba050ea59cf0d77
+msgid "TODO: Add xo-4 Boot Time"
+msgstr ""
+

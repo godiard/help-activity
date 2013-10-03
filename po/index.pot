@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/index.rst:7
+# 58e8b08c4a0244efb93f35f9f9ba3706
+msgid "Welcome to Sugar's documentation!"
+msgstr ""
+
+#: ../source/index.rst:9
+# f52b4c27f15a4341a934ac843186134f
+msgid "Contents:"
+msgstr ""
+
+#: ../source/index.rst:12
+# 7566a8e461a14682a5a6b92cbc316737
+msgid "Introduction"
+msgstr ""
+
+#: ../source/index.rst:23
+# d05855c2419a4be99b7753f96a85148b
+msgid "Hardware"
+msgstr ""
+
+#: ../source/index.rst:38
+# 06fcd75905a643d8be6c69654893e5e1
+msgid "Software"
+msgstr ""
+
+#: ../source/index.rst:53
+# 8ff641e74b7f4cf49e24dbf81f00c7a9
+msgid "Activities"
+msgstr ""
+
+#: ../source/index.rst:79
+# 37af2853aa1e4d76adb1ddbf80742986
+msgid "Network"
+msgstr ""
+
+#: ../source/index.rst:88
+# 402fe65b2e594d04bad70a9a22de4c19
+msgid "Support"
+msgstr ""
+
+#: ../source/index.rst:96
+# ef900d0c1d5a471bb46211ca71e97416
+msgid "Appendices"
+msgstr ""
+

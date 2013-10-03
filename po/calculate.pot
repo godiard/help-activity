@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/calculate.rst:3
+# ac3509270e034ba08afa858cdf4b36ce
+msgid "Calculate"
+msgstr ""
+
+#: ../source/calculate.rst:6
+# 2efb020ad2274b66820d70fed6740cc2
+msgid "About"
+msgstr ""
+
+#: ../source/calculate.rst:11
+# 836745ac2d644042bd730273ae005802
+msgid "Using Calculate"
+msgstr ""
+
+#: ../source/calculate.rst:13
+# 8140f1aa271440179e1a30d0fcdfb8a7
+msgid "For those who have used a scientific calculator, most of the functions of Calculate will be quite familiar."
+msgstr ""
+
+#: ../source/calculate.rst:15
+# 461f66d15d464a1eb3752ba11295a1b0
+msgid "The Toolbars are"
+msgstr ""
+
+#: ../source/calculate.rst:17
+# 5348631292924e1497f33afc7ccb634f
+msgid "Activity, Calculate icon: Name session, Journal entry description, collaborate"
+msgstr ""
+
+#: ../source/calculate.rst:19
+# 74ed0a0037f54d25835f623e8cfd2d31
+msgid "Edit, scissors icon: Copy, Paste"
+msgstr ""
+
+#: ../source/calculate.rst:21
+# 720ebb99df19425abf96773960cf8602
+msgid "Functions, {x}: Square, square root, reciprocal, exponential, power, logarithm, factorial"
+msgstr ""
+
+#: ../source/calculate.rst:23
+# 22a1ab4297ef4c51948cc5d998d04b90
+msgid "Trigonometry, triangle icon: sin, cos, tan, sin-1, cos-1, tan-1, sinh, cosh, tanh"
+msgstr ""
+
+#: ../source/calculate.rst:25
+# 6c1b86a41bab48849036840502b91c40
+msgid "Boolean, Venn diagram icon: and, or, =, !="
+msgstr ""
+
+#: ../source/calculate.rst:27
+# 077f4c2cac7742acb5abe89da6c3091f
+msgid "Constants, Greek letters icon: pi, e, gamma, phi"
+msgstr ""
+
+#: ../source/calculate.rst:29
+# 1ebd447f16834144b07a7762830b1260
+msgid "Plot: Hover menu offers Help"
+msgstr ""
+
+#: ../source/calculate.rst:31
+# e8175dd7631943dd92147401bc4eeb91
+msgid "Degrees/Radian angle measure"
+msgstr ""
+
+#: ../source/calculate.rst:33
+# 1b93b6bc030842218304604e045e75df
+msgid "Scientific/Engineering notation"
+msgstr ""
+
+#: ../source/calculate.rst:35
+# 82a902c3afdf46e2bd29529176282163
+msgid "Number of digits to show: 6, 9, 12, 15"
+msgstr ""
+
+#: ../source/calculate.rst:37
+# 283ff5d5200c49878660dcb9164ae0e4
+msgid "Base: Decimal, binary, octal, hex"
+msgstr ""
+
+#: ../source/calculate.rst:39
+# 9106837c818a449ba29b1e615a91ec9c
+msgid "Exit"
+msgstr ""
+
+#: ../source/calculate.rst:42
+# 2dc035434c614aa1800fda882c46be0e
+msgid "Getting help"
+msgstr ""
+
+#: ../source/calculate.rst:44
+# 0f8b423812724d70b2a4acf72a266e60
+msgid "To see a help option for plot, enter the command"
+msgstr ""
+
+#: ../source/calculate.rst:46
+# e05f98698d35487080088287e33690c7
+msgid "``help(plot)``"
+msgstr ""
+
+#: ../source/calculate.rst:48
+# 1d528cb3c46f469cb4fb571b8c074140
+msgid "on the text entry line."
+msgstr ""
+
+#: ../source/calculate.rst:50
+# 590437492596491297875f08f5c5a931
+msgid "The general help function is"
+msgstr ""
+
+#: ../source/calculate.rst:52
+# faa5f7a846314fc4a2bbe6cb2132cf11
+msgid "``help()``"
+msgstr ""
+
+#: ../source/calculate.rst:54
+# b3ecb4a9ef154f46abe13526c7748b29
+msgid "The list of help topics is available with the command"
+msgstr ""
+
+#: ../source/calculate.rst:56
+# 18ba357f7d834daaa93c5eb94b52687a
+msgid "``help(index)``"
+msgstr ""
+
+#: ../source/calculate.rst:58
+# b125a09209f8410da21ed97a5f42d3b6
+msgid "including topics not supported on the menus. Help is not provided for the constants pi, e, gamma (Euler-Mascheroni Constant) and phi (Golden Ratio), but these can be looked up on the Internet. Clicking their icons inserts their numeric values."
+msgstr ""
+

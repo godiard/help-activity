@@ -1,0 +1,462 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/portfolio.rst:3
+# 654b79de6b2e4f46851dbac326610681
+msgid "Portfolio"
+msgstr ""
+
+#: ../source/portfolio.rst:6
+# 1a1d8c6f737c4f4abd2837f2e87f64dd
+msgid "About"
+msgstr ""
+
+#: ../source/portfolio.rst:10
+# 94db7cb317e0472e9dafd524707086e9
+msgid "The Portfolio Activity creates a slide show from Sugar Journal entries that have been 'starred'."
+msgstr ""
+
+#: ../source/portfolio.rst:15
+# 9852c5b8e2a845edb52f2e9812a08504
+msgid "Where to get Portfolio"
+msgstr ""
+
+#: ../source/portfolio.rst:17
+# 185c240dd78a496192f945baea182852
+msgid "The Portfolio activity is included in OLPC images and available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/addon/4437>`_"
+msgstr ""
+
+#: ../source/portfolio.rst:19
+# b364c83d46f647b384264c7ae072c30e
+msgid "The source code is available on the `Sugar Labs Gitorious server <http://git.sugarlabs.org/portfolio>`_."
+msgstr ""
+
+#: ../source/portfolio.rst:22
+# 6321b058dea04788b475230c14d242b2
+msgid "Using"
+msgstr ""
+
+#: ../source/portfolio.rst:24
+# a659e6d2805b41cbaa5a88d4de37fb09
+msgid "Before you launch the activity, use the ☆ on the left of each Journal entry to mark that entry for inclusion in the portfolio. The Portfolio Activity will use the entry title as well as the preview image and description."
+msgstr ""
+
+#: ../source/portfolio.rst:28
+# 155abbed90374e6e9b061a98e884c838
+msgid "The title text, the preview image, and the description text from Journal entries is used in the portfolio presentations."
+msgstr ""
+
+#: ../source/portfolio.rst:32
+# 72e4debe53eb4d27a8324a754b0517fc
+msgid "In the Thumbnail View, you can reorder the slides in your presentation by dragging."
+msgstr ""
+
+#: ../source/portfolio.rst:36
+# 1725841cf1234cf4b8411d21d5bc9d8d
+msgid "With the Edit-description Button, you can directly edit a Journal entry's description field."
+msgstr ""
+
+#: ../source/portfolio.rst:40
+# 2dc826238b3049ad9ac3a4ba2f9b85a2
+msgid "When running the activity, use the ◀ and ▶ buttons to step one-by-one through the slide show. Use the auto-play button to start/pause a slide show. The delay between slides can be controlled by the interval chosen in the combo box. (The default is 10 seconds.)"
+msgstr ""
+
+#: ../source/portfolio.rst:42
+# da6a4b3ffc0f44e19b4476c6796eaa8f
+msgid "**Did you know that:**"
+msgstr ""
+
+#: ../source/portfolio.rst:44
+# a1125a1fe77c4aa3ab80e05fd99d312f
+msgid "you can record audio notes for each slide; the notes are played back whenever the slide is viewed;"
+msgstr ""
+
+#: ../source/portfolio.rst:45
+# 687c9c33a83e4693a366367239486aa3
+msgid "the colors used in the background are taken from the XO colors of the user;"
+msgstr ""
+
+#: ../source/portfolio.rst:46
+# 159495c4296d4e23a3e7735115dc8645
+msgid "a warning is displayed if there are no starred entries in your Journal;"
+msgstr ""
+
+#: ../source/portfolio.rst:47
+# 8c20dcbb316d42e29c1ebdfb6627d6dd
+msgid "the slide show can be saved as an PDF document that can be shared;"
+msgstr ""
+
+#: ../source/portfolio.rst:48
+# 8e2414b4b5f14dafa61db7b70493877a
+msgid "in the thumbnail view, you can reorder your slides (by dragging them); and"
+msgstr ""
+
+#: ../source/portfolio.rst:49
+# 16cc81ee5f8c4a4f83c00d446799d7ea
+msgid "you can edit the descriptions for each slide (and save your edits to the Journal)."
+msgstr ""
+
+#: ../source/portfolio.rst:50
+# 8eefb68ab7244c189f97797deb604875
+msgid "for group projects, try using the Bulletin-board Activity."
+msgstr ""
+
+#: ../source/portfolio.rst:53
+# 7ff17427987141b1a3e4c582ab262cec
+msgid "The Toolbars"
+msgstr ""
+
+#: ../source/portfolio.rst:56
+# 863ea254984a442a898db466e81dee8c
+msgid "Main toolbar"
+msgstr ""
+
+#: ../source/portfolio.rst:60
+# 383e204b3e1946ef9c7c139a6ff40e5b
+msgid "from left to right"
+msgstr ""
+
+#: ../source/portfolio.rst:62
+# 5c69835e168f40feba76e60c94036beb
+msgid "**Activity-toolbar Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:63
+#: ../source/portfolio.rst:71
+#: ../source/portfolio.rst:73
+# 1525b6b9502a4909973f3fca1d18dab0
+# abff332e27704cfd9406a1ed591ca451
+# 83f05b00df074ed69ee1ee05580cc5f8
+msgid "(toolbar described below)"
+msgstr ""
+
+#: ../source/portfolio.rst:64
+# dfc4a0f32a26470184571ed050e92a53
+msgid "**Previous-slide Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:65
+# 739a8e4f949b466886151fd37500ff5c
+msgid "returns to the previous slide shown (also activated by typing <Ctrl-p>)"
+msgstr ""
+
+#: ../source/portfolio.rst:66
+# f3e2c3a354fb4a99807054a5dc4db8e1
+msgid "**Next-slide Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:67
+# ecd5f01c0b634ab8ae5803ccc2e796d9
+msgid "goes to the next slide in the sequence (also activated by typing <Ctrl-n>)"
+msgstr ""
+
+#: ../source/portfolio.rst:68
+# d6b46337adb94813b58f812f5f0f7c7c
+msgid "**Auto-play Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:69
+# 91fd553b9532483fa9ad3d04e130c4f3
+msgid "starts a slide show with a user-settable pause between each slide"
+msgstr ""
+
+#: ../source/portfolio.rst:70
+# e1aef17143a7416dab54a2831b64cd1a
+msgid "**Customize-toolbar Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:72
+# 2ef74784535c4c3f9c716a6ecd7c84e0
+msgid "**Record-toolbar Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:74
+# daf0cc155d544523994610caa8c6f1a9
+msgid "**Portfolio-view Radio Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:75
+# 813af6b7a68742468e033b6e81b9f859
+msgid "used to switch to portfolio view (default)"
+msgstr ""
+
+#: ../source/portfolio.rst:76
+# 8777588f87cc489d80dc66ae761be451
+msgid "**Thumbnail-view Radio Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:77
+# a62d65c3dfc54931a713dc913bdb15bc
+msgid "used to switch to thumbnail view, where you can reorder the sequence of the slides by dragging them"
+msgstr ""
+
+#: ../source/portfolio.rst:78
+# abbdc3e3ce834d4a8bf4352313b23276
+msgid "**Full-screen-view Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:79
+# 01db85625a5b4d98af3d5711aecd54d7
+msgid "hides the toolbars (Return from full-screen by hitting the Esc key.)"
+msgstr ""
+
+#: ../source/portfolio.rst:80
+# 8563bb58f1fb4139a958f52cbc880adc
+msgid "**Update-description Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:81
+# 17c168c207304509aec9cec6f2eadeeb
+msgid "Used to edit the description of the entry currently being viewed (Note: use the Save-annotations Button to make these edits permanent)."
+msgstr ""
+
+#: ../source/portfolio.rst:83
+# 9d71d420496b4126b26cc9c648430edf
+msgid "**Stop Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:83
+# 3b0fcd922efe409b92de3a5250b040ca
+msgid "used to exit the activity"
+msgstr ""
+
+#: ../source/portfolio.rst:86
+# 77daaa9109e74c4aa7749541f7a2c573
+msgid "Activity Toolbar"
+msgstr ""
+
+#: ../source/portfolio.rst:88
+# 78c28491adfd4a32b54062d1d1f67a87
+msgid "**Activity name field**"
+msgstr ""
+
+#: ../source/portfolio.rst:89
+# 56c4bd7125b34663acb996f82c4c5763
+msgid "used to change the name of the activity (The name is used by the save-to-PDF Button.)"
+msgstr ""
+
+#: ../source/portfolio.rst:90
+# 3ba1b485dc2b49d6941bf930808ab306
+msgid "**Share Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:91
+# e3979a42963b4571bc95508927edabd0
+msgid "as shown, disabled (Portfolio Activity version since v27 support sharing: joiners can add comments)"
+msgstr ""
+
+#: ../source/portfolio.rst:92
+# 101769bb279140ee87e6df34c81559e9
+msgid "**Reflection Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:93
+# fe2d00cf32954e1193e0cf2ac6748206
+msgid "used to write descriptions for the Journal entry of this instance of Portfolio"
+msgstr ""
+
+#: ../source/portfolio.rst:94
+# 30392b2a436741fd9ab1f3dc03b86bb9
+msgid "**Save-to-PDF Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:95
+# 4c3067fee6374fa5890030756e186240
+msgid "used to save a copy of your presentation to the Sugar Journal as an PDF document"
+msgstr ""
+
+#: ../source/portfolio.rst:97
+# 4f7dcba218c6422bb9ed7805619c91e4
+msgid "**Save-annotations Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:97
+# 05195a0193dc49d0a5aea9252ff8ced0
+msgid "used to save updates to the Journal entry descriptions"
+msgstr ""
+
+#: ../source/portfolio.rst:100
+# 820c3464b56a4c3bb7110325f2897179
+msgid "Options Toolbar"
+msgstr ""
+
+#: ../source/portfolio.rst:104
+# 00aaefcd5c634ad491a8da60c3a4e4fc
+msgid "**Timer Combo-box**"
+msgstr ""
+
+#: ../source/portfolio.rst:105
+# 240b6f42a6aa4724ab7ff7efb127b6db
+msgid "lets you select a delay time between slides when using auto play (Choose two-seconds, ten-seconds, thirty-seconds, or one-minute delay)."
+msgstr ""
+
+#: ../source/portfolio.rst:107
+# 12b22eec5744414badf0f56b8d1bd595
+msgid "**Refresh Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:107
+# 80bf76ca6006437e80420652db8b6a95
+msgid "scans the Journal to pull in any changes made since the Portfolio activity was launched."
+msgstr ""
+
+#: ../source/portfolio.rst:110
+# 398d6299ed9846c1a4bab2a878f60775
+msgid "Recording Toolbar"
+msgstr ""
+
+#: ../source/portfolio.rst:114
+# c37e45ddaf324e39b0c233577ecadedb
+msgid "**Record Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:115
+# 8105f76494574eb2a685f5b35c8da893
+msgid "used to record an audio note associated with the current slide"
+msgstr ""
+
+#: ../source/portfolio.rst:116
+# 77359401aa984fa3b748abd6f2ab1058
+msgid "**Playback Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:117
+# 6774bc9429824a7187d44d179d94e2e4
+msgid "active when there is audio associated with the current slide"
+msgstr ""
+
+#: ../source/portfolio.rst:119
+# 2b6d3bdb8eda4eb7b88bda8dca282203
+msgid "**Save Button**"
+msgstr ""
+
+#: ../source/portfolio.rst:119
+# 9c27008638a84bb4bddc5b81cbcd6c0c
+msgid "active when there is a new recording to save"
+msgstr ""
+
+#: ../source/portfolio.rst:122
+# aa7e041fa890446cb3a585af40398d01
+msgid "Saving to PDF"
+msgstr ""
+
+#: ../source/portfolio.rst:124
+# dfe227a4721441209a2e4056d71b3f1a
+msgid "Each time your launch the Portfolio activity, it will update to reflect the current contents of your Journal. If you want to save a portfolio that represents a particular moment in time (or you want to share your portfolio with someone else), you need to save it as a PDF document. Click on the \"Save as PDF\" Button from the Activity toolbar menu and the content of the portfolio will be saved as a document in the Journal."
+msgstr ""
+
+#: ../source/portfolio.rst:128
+# 79f986266d0141ff8062cc622be1a19c
+msgid "**Tip:** Open your Journal to make sure the portfolio has been saved."
+msgstr ""
+
+#: ../source/portfolio.rst:130
+# a1cb4e8eb28246ba9cd9afc7ccbfef52
+msgid "**Tip:** You may want to copy the PDF file to a USB to open it in a different XO, or any other computer, using the Browse or Read activity."
+msgstr ""
+
+#: ../source/portfolio.rst:135
+# 6441142d6e344cd78fbc414dff490581
+msgid "Learning with Portfolio"
+msgstr ""
+
+#: ../source/portfolio.rst:137
+# 00efcd517b7140e99342f859a1421822
+msgid "Most education experts agree that the best approach to learning involves doing and then stepping back to reflect on the doing: What did I learn? How can I use that? What questions do I have?1 By helping children to ask good questions about the things they’ve done, as opposed to remembering the right answers, we are helping them to build the critical thinking skills that enable them to be independent problem solvers. Without reflection, learning is an open loop, and an open-loop system can neither identify and correct errors nor adapt to change."
+msgstr ""
+
+#: ../source/portfolio.rst:139
+# 9f345c85bdf04796ace6e8147a45b746
+msgid "Sugar facilitates reflective learning by ensuring that everything a child does is recorded in an electronic journal which includes screen capture of a child’s work. After every activity, children are encouraged to share their observations, which are recorded in an electronic portfolio. From this record of activities, children can expand their portfolio into a multimedia narrative that shows what they have done, how they have done it and what their thoughts are on what they have created—children essentially become curators of their own work. The child’s process of telling about what they have learned as a “story” is a simple way to help reflection become a norm in their education."
+msgstr ""
+
+#: ../source/portfolio.rst:141
+# 0c6e97c8ca084e96873a8a74c74a946d
+msgid "By building upon the automatic accumulation of work in the Sugar journal, the portfolio process can readily be integrated into the classroom routine. It can be used as an assessment tool to help teachers, parents, and school administrators understand better the depth and breadth of what a child has learned.2 At a “portfolio social”, parents could be invited to view presentations and ask children about their learning. The classroom teacher can add addition assessment slides to the portfolio addressing themes such as work habits and personal growth. This can become part of an archive that travels with a child across grade levels. Through juxtaposition, the child and teacher can see what has changed over the course of the years, trends, and areas for improvement."
+msgstr ""
+
+#: ../source/portfolio.rst:143
+# c8700008386b497394c7d2f883bb00f0
+msgid "It is recommended that periodically (once per week, month, semester) that the children are asked to select and edit items for a portfolio presentation. For example, a weekly presentation could be made to classmates; a monthly one to parents; and perhaps once per semester, a school-wide presentation that makes all of the learning visible to administrators and community members during a social event."
+msgstr ""
+
+#: ../source/portfolio.rst:145
+# 71bc290670654d4d95094ad611efc854
+msgid "Periodic PDF snapshots are also a great way to preserve a record of each child's work, and as a vehicle for assessing progress."
+msgstr ""
+
+#: ../source/portfolio.rst:148
+# 2bf6f631c4dc4d6c912922d2ef45184b
+msgid "Extending Portfolio"
+msgstr ""
+
+#: ../source/portfolio.rst:150
+# 06ab5167d34240329943652a89130384
+msgid "In addition to using Portfolio as a tool for reflection, it can be used as a more general-purpose presentation tool. For example, a collection of photographs can be annotated (by using the title and description fields in the Journal detail view for each photo) and then made into a slide show. The order of the slides can be modified from the Thumbnail view. Modifying Portfolio"
+msgstr ""
+
+#: ../source/portfolio.rst:153
+# aa4bf23e168e4a10916b7033de1c95c8
+msgid "Manuq made some mock-ups of other layouts. It would be fun to add alternative layout options (or even add support for style sheets)."
+msgstr ""
+
+#: ../source/portfolio.rst:155
+# 414a28b94c5644358b0a57d23e8a2ea2
+msgid "See http://wiki.sugarlabs.org/go/Activities/Portfolio"
+msgstr ""
+
+#: ../source/portfolio.rst:157
+# fe96907ff9d7482bada3decf586e4ee7
+msgid "Another idea would be to add the ability to export video from Portfolio."
+msgstr ""
+
+#: ../source/portfolio.rst:159
+# e507e32b486f4f7489fe5c41b84d2bfe
+msgid "Your suggestions for enhancements and/or use cases..."
+msgstr ""
+
+#: ../source/portfolio.rst:162
+# 5f2652a8b4b342588bd619a0e8d6698e
+msgid "A word to developers"
+msgstr ""
+
+#: ../source/portfolio.rst:164
+# ce9c2a4298ca4ec096591bcf2a05a456
+msgid "Reflection is an important part of learning and a good habit to establish in general. An analog to writing descriptions in the Journal -- the text that is shown in the Portfolio presentations -- is writing commit messages in git. It forces you to stop, reflect, and then articulate to others what you have done and why."
+msgstr ""
+
+#: ../source/portfolio.rst:167
+# a3510bbacd9a47789389e1d0af2acdab
+msgid "Where to report problems"
+msgstr ""
+
+#: ../source/portfolio.rst:169
+# 6ed541c7fdd34f438175ed3c3897ad15
+msgid "You can report bugs and make feature requests on our bug-tracking system (You need to create an account first). To list all open tickets of Portfolio you can use query component=Portfolio. You are also welcome to leave comments/suggestions on the Talk:Activities/Portfolio page."
+msgstr ""
+
+#: ../source/portfolio.rst:172
+# 229e85a3cf5f4ea287b8c83684b27cbc
+msgid "Credits"
+msgstr ""
+
+#: ../source/portfolio.rst:174
+# 58fb9731424549379857b08b9b0b735f
+msgid "Portfolio was written and is maintained by User:Walter. He was inspired in part by the work of BU Prof. Stefanakis."
+msgstr ""
+

@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.94\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-02 18:05\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/upgrade_all.rst:3
+# 469c2421a7464926ad07f3803fc29208
+msgid "Upgrade all your Software"
+msgstr ""
+
+#: ../source/upgrade_all.rst:5
+# b99035a8ae674a5894b37a88d68042c1
+msgid "Your XO comes pre-loaded with the software OS (operating system) designed for the XO. It is a good idea to keep your software up to date because our latest builds fix bugs in earlier releases and they are awesome!"
+msgstr ""
+
+#: ../source/upgrade_all.rst:7
+# f3245f9a3c524c4c955a57634099a86d
+msgid "The XO-1’s came with Sugar software. Did you know that with the latest software your XO can have both Sugar and GNOME? GNOME provides an option to teach older children in a learning environment that will be familiar and transferable to using Windows or Mac OS. This Chapter will tell you how to upgrade your software."
+msgstr ""
+
+#: ../source/upgrade_all.rst:9
+# c24c1fbef25b420aa96ed1d507149ffe
+msgid "The Software Releases can be found here: http://wiki.laptop.org/go/Releases"
+msgstr ""
+
+#: ../source/upgrade_all.rst:11
+# be870a039f7440fcaa974c514c6ed245
+msgid "The main page of the OLPC Wiki also contains links to the latest releases. http://wiki.laptop.org"
+msgstr ""
+
+#: ../source/upgrade_all.rst:13
+# 960f1d13886541dda9266f08668f1f40
+msgid "There several methods of upgrading. Which one is right for you? Most people will want to use the \"clean install\" method. An overview of the upgrade options can be found here. http://wiki.laptop.org/go/Updating_the_XO"
+msgstr ""
+
+#: ../source/upgrade_all.rst:15
+# 421300a60e5d4952b57d41258d5eb768
+msgid "Clear instructions on how to to change, upgrade, downgrade, or replace your XO's OS can be found in the Release notes. Choose the release (build) that you want to install here: http://wiki.laptop.org/go/Releases Next click on the Release notes for the release you will install."
+msgstr ""
+
+#: ../source/upgrade_all.rst:17
+# 7333b830f6414ce09314c654d7922496
+msgid "Decide whether you want to do a clean install (Installation) which will completely reformat your XO with files from a USB drive, or an online or offline update which will update the current software without erasing the existing Journal. Follow the instruction for the update method chosen."
+msgstr ""
+
+#: ../source/upgrade_all.rst:19
+# 3851b80634244229b742db9deb08a754
+msgid "A clean install uses a USB stick and the \"four button procedure\" to begin the update. Warning Reminder: This method re-formats your XO and EVERYTHING on your XO will be deleted if you use this method. You will follow the instructions in the Release Notes for the build chosen, and you will need A USB storage device that has at least 1 GB of space free and a computer with Internet access that will allow you to download the required 300-400MB within about an hour."
+msgstr ""
+
+#: ../source/upgrade_all.rst:23
+# 718624aee7044e2fbf06ad14bc4a449b
+msgid "1 - Battery indicator"
+msgstr ""
+
+#: ../source/upgrade_all.rst:24
+# a31d36ce5f88467e9360b6cde8f1d126
+msgid "2 - Power indicator"
+msgstr ""
+
+#: ../source/upgrade_all.rst:25
+# 60d8ce63f6ff4566991bf7ab485aafe5
+msgid "3 - Power button"
+msgstr ""
+
+#: ../source/upgrade_all.rst:26
+# eed54ee3bd9c43f287ccc0ed0f4d597b
+msgid "4 - Game buttons"
+msgstr ""
+
+#: ../source/upgrade_all.rst:29
+# 7a6b8fe6918241568082b7e557714aff
+msgid "Follow these steps to upgrade your XO"
+msgstr ""
+
+#: ../source/upgrade_all.rst:31
+# 8a896a893af44d28922020e428a23809
+msgid "Connect your XO to its charger."
+msgstr ""
+
+#: ../source/upgrade_all.rst:33
+# ad0d049f719d474984e64ca1c7415ff3
+msgid "Turn off your XO."
+msgstr ""
+
+#: ../source/upgrade_all.rst:35
+# 725afd3745ef40ebb487e898514f7792
+msgid "Connect your prepared USB storage device to your XO."
+msgstr ""
+
+#: ../source/upgrade_all.rst:37
+# 6370623d56524f7c8ff1237143f75d5e
+msgid "Next, hold down all four gamepad keys above the power button, and then push the power button  to turn  the XO on. You will see a message that tells you to \"Release the game key to continue\". Do not continue until you see this message."
+msgstr ""
+
+#: ../source/upgrade_all.rst:39
+# e0043ed0ee6e408aaab2f69709d06e04
+msgid "Release the gamepad keys.  The reflash process runs automatically; first you will see the XO arrange and color in a grid of boxes, then the XO will display \"Rebooting in 10 seconds...\""
+msgstr ""
+
+#: ../source/upgrade_all.rst:41
+# 49cba1700bf249e8af1cb4dcc95a0e19
+msgid "The XO will then restart with a clean image."
+msgstr ""
+
+#: ../source/upgrade_all.rst:43
+# d1b81a136c804718a4f4ee5d63528f7f
+msgid "Enter your name for your XO and then click Next."
+msgstr ""
+
+#: ../source/upgrade_all.rst:45
+# 8c0977d812ac4152b661bf7672b1ddeb
+msgid "Click the XO icon to change the colors and then click Done."
+msgstr ""
+
+#: ../source/upgrade_all.rst:47
+# 20b685d16c4c4e398a9589ed346de365
+msgid "Optionally, connect your XO to the Internet, then use the Control Panel to download the latest Activities."
+msgstr ""
+

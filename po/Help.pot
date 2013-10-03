@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-09-27 17:33-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+msgid "Help"
+msgstr ""
+
+#: helpactivity.py:116
+msgid "Back"
+msgstr ""
+
+#: helpactivity.py:123
+msgid "Forward"
+msgstr ""
+
+#: helpactivity.py:130
+msgid "Home"
+msgstr ""
+
+#: viewtoolbar.py:34
+msgid "Zoom out"
+msgstr ""
+
+#: viewtoolbar.py:40
+msgid "Zoom in"
+msgstr ""
+
+#: viewtoolbar.py:51
+msgid "Fullscreen"
+msgstr ""
