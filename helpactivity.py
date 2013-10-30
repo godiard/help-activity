@@ -29,7 +29,7 @@ from sugar3.activity.widgets import StopButton
 from viewtoolbar import ViewToolbar
 
 HOME = 'file://' + os.path.join(activity.get_bundle_path(),
-                                'help/index.html')
+                                'html/index.html')
 
 
 class HelpActivity(activity.Activity):
