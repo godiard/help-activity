@@ -30,7 +30,5 @@ As you can see from the "boot time" comparison, lower power has not been at the 
 +--------+----------+---------+-----------+
 |XO-1.75 |  4 GB    |512 MB   |	47 s      |
 +--------+----------+---------+-----------+
-|XO-4    |4 or 8 GB |1 or 2 GB|           |
+|XO-4    |4 or 8 GB |1 or 2 GB| 38 s      |
 +--------+----------+---------+-----------+
-
-TODO: Add xo-4 Boot Time
