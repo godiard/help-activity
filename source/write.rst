@@ -19,144 +19,33 @@ The Write activity is included in OLPC images and can be downloaded `Sugar Labs 
 Using
 -----
 
-Here Write has been used to produce some colorful welcome text.
+TODO: write screenshot is wrong
 
-.. image :: ../images/WriteA.png
+.. image :: ../images/GVW.jpg
+
+This is a general view of write.
 
 The Toolbars
 ------------
 
-Remember that when you hover the cursor over a Sugar button its function is revealed.
-
-We look first at the twelve toolbar buttons, which we see in the top row of the toolbar.
-
-.. image :: ../images/WriteA-toolbar.png
+.. image :: ../images/Write_toolbars_numbered_screenshot.jpg
 
 In order from left to right
 
-1. The Activity Button: Allows you to, name your file, save, and Share it.
+1. The Activity Button: Allows you to name your file, Share it, and save it as RTF, HTML, TXT and PDF.
 2. The Edit Button: Allows to Copy, Paste, Undo, Redo, and search inside your document.
 3. The View Button: Allows you to zoom in and out of the document and to navigate through the pages quickly.
 4. The Fonts Button: Allows you to change the font and the size.
-5. The Paragraph Button : Allows you to set headings, and justify text.
+5. The Paragraph Button : Allows you to change the headings, the text dispositions and the different justify possibilities.
 6. The List Button : Allows you to create multiple lists: bullet, dashed, numbered, lower case list, upper case list.
-7. The Insert Button : Allows you to insert and adjust tables and images. Can you adjust images?
+7. The Insert Button : Allows you to insert tables and images and to edit their size and position afterwards.
 8. Bold
 9. Italic
 10. Underline
 11. Color
 12. Stop
 
-The Toolbar Sub Menus
----------------------
-
-The Sub Menus in detail.
-
-The Activity Button (1)
-:::::::::::::::::::::::
-
-.. image :: ../images/Write1-toolbar.png
-
-1. Allows you to name your file.
-2. Access the Journal entry and add description.
-3. Export, or Save as other formats, RTF, HTML, TXT and PDF.
-4. This button is the collaboration, or sharing "switch". The options are
-
-|Home_key_f3_small.png| Private, this is the non-sharing option, with no networking.
-
-.. |Home_key_f3_small.png| image:: ../images/Home_key_f3_small.png
-
-|Neighborhood_key| My Neighbourhood, this is the sharing option, that is, networked.
-
-.. |Neighborhood_key| image:: ../images/Neighborhood_key_sml.png
-
-See also below, :ref:`Collaboration`.
-
-The Edit Button (2)
-:::::::::::::::::::
-
-.. image :: ../images/Write2-toolbar.png
-
-1. Copy
-2. Paste
-3. Undo
-4. Redo
-5. Search
-6. Back
-7. Forward
-
-The View Button (3)
-:::::::::::::::::::
-
-.. image :: ../images/Write3-toolbar.png
-
-1. Zoom out
-2. Zoom in
-3. Set Zoom
-4. Quick page navigation
-
-The Fonts Button (4)
-::::::::::::::::::::
-
-.. image :: ../images/Write4-toolbar.png
-
-1. Name of font
-2. Size of font
-
-The Paragraph Button (5)
-::::::::::::::::::::::::
-
-.. image :: ../images/Write5-toolbar.png
-
-1. Normal
-2. Heading 1
-3. Heading 2
-4. Heading 3 
-5. Heading 4
-6. Block Text
-7. Plain Text
-8. Left justify
-9. Center justify
-10. Right justify
-11. Fill justify
-
-The List Button (6)
-:::::::::::::::::::
-
-.. image :: ../images/Write6-toolbar.png
-
-1. Normal
-2. Bullet List
-3. Dashed List
-4. Numbered List
-5. Lower Case List
-6. Upper Case List
-
-The Insert Button (7)
-:::::::::::::::::::::
-
-.. image :: ../images/Write7-toolbar.png
-
-1. Insert Table
-2. Insert Row
-3. Delete Row
-4. Insert Column
-5. Delete Column
-6. Insert Image
-
-Emphasis (8-11)
-:::::::::::::::
-
-.. image :: ../images/Write8-toolbar.png
-
-1. Bold
-2. Italic
-3. Underline
-4. Color
-
-.. _Collaboration:
-
-Collaboration
+Collaborating
 -------------
 
 The Write Activity supports collaborative (peer) editing, which means that multiple people can edit the same document at the same time.
@@ -166,12 +55,7 @@ To start a collaboration, either:
 * send an invitation, or
 * share with the Neighborhood
 
-As with all Sugar Activities, invitations go to specific individuals, but sharing is open to anyone in the Neighborhood View.
-
-|more| For more on this subject, please see the chapter in this manual on 
-:doc:`/collaborating`.
-
-.. |more| image:: ../images/more.png
+As with all Sugar Activities, invitations go to specific individuals, but sharing is open to anyone in the Neighborhood View. Please see the chapter on Collaboration in the Sugar Manual for more details about invitations and sharing.
 
 Note to parents and teachers
 ::::::::::::::::::::::::::::
