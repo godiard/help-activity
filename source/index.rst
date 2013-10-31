@@ -50,7 +50,7 @@ Software
     gnome.rst
     schoolserver.rst
 
-Activities
+Using Activities
 
 .. toctree::
     :maxdepth: 1
@@ -60,6 +60,12 @@ Activities
     switching_activities.rst
     collaborating.rst
     exiting_activities.rst
+
+Activities
+
+.. toctree::
+    :maxdepth: 1
+
     browse.rst
     calculate.rst
     chat.rst
