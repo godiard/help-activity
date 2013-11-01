@@ -7,12 +7,10 @@ The Frame is the black border around the screen that holds the View icons, Activ
 Accessing the Frame
 -------------------
 
-You can access the frame from any view in 3 ways:
+You can access the frame from any view in 2 ways:
 
 - By using the Frame Key on the keyboard. On XO laptops the Frame key is the square icon on the upper right hand corner of your keyboard, on other laptops you can use the F6 key.
 - By moving the cursor to the edges or corners of your screen. (There are several options you can configure in this area, please refer to the My Settings section for more details.) 
-
-TODO: 3 ways? there are 2 here
 
 Frame Elements
 --------------
