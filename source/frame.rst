@@ -12,6 +12,8 @@ You can access the frame from any view in 2 ways:
 - By using the Frame Key on the keyboard. On XO laptops the Frame key is the square icon on the upper right hand corner of your keyboard, on other laptops you can use the F6 key.
 - By moving the cursor to the edges or corners of your screen. (There are several options you can configure in this area, please refer to the My Settings section for more details.) 
 
+In the XO-4, with touch screen, is possible show the frame sliding a finger, from the top of the screen, a few centimeters. The same gesture will hide the frame too.
+
 Frame Elements
 --------------
 
