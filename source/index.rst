@@ -8,7 +8,7 @@ Welcome to Sugar's documentation!
 
 Contents:
 
-Software
+Using Sugar
 
 .. toctree::
     :maxdepth: 1
@@ -55,7 +55,16 @@ Activities
     turtleart.rst
     write.rst
 
-Hardware
+Network
+
+.. toctree::
+    :maxdepth: 1
+
+    give_me_the_internet.rst
+    getting_connected.rst
+    troubleshooting_connectivity.rst
+
+The XO hardware
 
 .. toctree::
     :maxdepth: 1
@@ -70,16 +79,7 @@ Hardware
     repair.rst
     hardware_evolution.rst
 
-Network
-
-.. toctree::
-    :maxdepth: 1
-
-    give_me_the_internet.rst
-    getting_connected.rst
-    troubleshooting_connectivity.rst
-
-Introduction to Sugar
+About this manual
 
 .. toctree::
     :maxdepth: 1
