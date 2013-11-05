@@ -8,33 +8,6 @@ Welcome to Sugar's documentation!
 
 Contents:
 
-
-Introduction
-
-.. toctree::
-    :maxdepth: 1
-
-    about.rst
-    about_olpc.rst
-    about_sugar.rst
-    how_to_volunteer.rst
-    credits_copyright.rst
-
-Hardware
-
-.. toctree::
-    :maxdepth: 1
-
-    getting_started.rst
-    opening_the_xo.rst
-    starting_the_xo.rst
-    ports.rst
-    keyboard.rst
-    maintaining.rst
-    battery.rst
-    repair.rst
-    hardware_evolution.rst
-
 Software
 
 .. toctree::
@@ -82,6 +55,21 @@ Activities
     turtleart.rst
     write.rst
 
+Hardware
+
+.. toctree::
+    :maxdepth: 1
+
+    getting_started.rst
+    opening_the_xo.rst
+    starting_the_xo.rst
+    ports.rst
+    keyboard.rst
+    maintaining.rst
+    battery.rst
+    repair.rst
+    hardware_evolution.rst
+
 Network
 
 .. toctree::
@@ -90,6 +78,17 @@ Network
     give_me_the_internet.rst
     getting_connected.rst
     troubleshooting_connectivity.rst
+
+Introduction to Sugar
+
+.. toctree::
+    :maxdepth: 1
+
+    about.rst
+    about_olpc.rst
+    about_sugar.rst
+    how_to_volunteer.rst
+    credits_copyright.rst
 
 Support
 
