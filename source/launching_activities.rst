@@ -28,7 +28,7 @@ To get to the Home View,
 
 .. |home_key| image:: ../images/Home_key_f3_small.png
 
-.. |nav_buttons| image:: ../images/163px-NAVIGATEBUTTONS.jpg
+.. |nav_buttons| image:: ../images/163px-NAVIGATEBUTTONS.png
 
 Then click on the icon of the activity you want to start. If you aren't sure you have the right activity, hover your cursor over the icon for a few seconds and a label will appear with the activity name.
 
