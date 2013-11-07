@@ -39,14 +39,14 @@ Putting the XO to sleep
 
 When you are ready to stop using your XO for a while, you can put it to sleep by pushing the power key you used to turn it on. The screen that appears when you push the power button shows the two reasons for sleeping; when you haven't been using it for a while, or when you push the power button.
 
-TODO: < we need a screen shot of the go to sleep image >
+.. image:: ../images/go-to-sleep.jpg
 
 Shutting down the XO
 --------------------
 
-When you have finished using the computer, push the power key twice within in 5 seconds. The first push will display the sleep window. The second push will display the large stop sign.
+When you have finished using the computer, click over the XO icon in the middle of the Home screen, and select the option Shutdown.
 
-TODO: < we need a screen shot of the stop sign image >
+.. image:: ../images/buddy_menu.png
 
 Forced Shutdown
 ---------------
