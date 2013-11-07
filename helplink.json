@@ -1,0 +1,17 @@
+ {
+    "org.laptop.sugar.ReadActivity": "read.html",
+    "org.laptop.WebActivity": "browse.html",
+    "org.laptop.Chat": "chat.html",
+    "org.laptop.Calculate": "calculate.html",
+    "org.eq.FotoToon": "fototoon.html",
+    "org.laptop.RecordActivity": "record.html",
+    "org.laptop.MeasureActivity": "measure.html",
+    "org.laptop.Oficina": "paint.html",
+    "org.sugarlabs.PortfolioActivity": "portfolio.html",
+    "org.laptop.Memorize": "memorize.html",
+    "org.laptop.Terminal": "terminal.html",
+    "org.laptop.AbiWordActivity": "write.html",
+    "org.laptop.TurtleArtActivity": "turtleart.html",
+    "org.laptop.Pippy": "pippy.html",
+    "org.laptop.TamTamMini": "tamtammini.html"
+  }
