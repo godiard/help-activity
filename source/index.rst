@@ -43,6 +43,7 @@ Activities
     calculate.rst
     chat.rst
     fototoon.rst
+    help.rst
     measure.rst
     memorize.rst
     paint.rst
@@ -87,6 +88,7 @@ About this manual
     about.rst
     about_olpc.rst
     about_sugar.rst
+    HowTo.rst
     how_to_volunteer.rst
     credits_copyright.rst
 
