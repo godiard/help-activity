@@ -25,7 +25,6 @@ A clean install uses a USB stick and the "four button procedure" to begin the up
 *  3 - Power button
 *  4 - Game buttons
 
-..
 Follow these steps to upgrade your XO
 
 * Connect your XO to its charger.
@@ -36,14 +35,12 @@ Follow these steps to upgrade your XO
 
 * Next, hold down all four gamepad keys above the power button, and then push the power button  to turn  the XO on. You will see a message that tells you to "Release the game key to continue". Do not continue until you see this message.
 
-* Release the gamepad keys.  The reflash process runs automatically; first you will see the XO arrange and color in a grid of boxes, then the XO will display "Rebooting in 10 seconds..."  
+* Release the gamepad keys.  The reflash process runs automatically; first you will see the XO arrange and color in a grid of boxes, then the XO will display "Rebooting in 10 seconds..."
 
-* The XO will then restart with a clean image. 
+* The XO will then restart with a clean image.
 
 * Enter your name for your XO and then click Next.
 
 * Click the XO icon to change the colors and then click Done.
 
 * Optionally, connect your XO to the Internet, then use the Control Panel to download the latest Activities.
-
-
