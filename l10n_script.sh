@@ -43,15 +43,15 @@ fi
 if [ ! -d $TRANSLATED_MO_PATH/LC_MESSAGES ]; then
     mkdir $TRANSLATED_MO_PATH/LC_MESSAGES
 fi
-if [ ! -d $TRANSLATED_MO_PATH/LC_MESSAGES/content ]; then
-    mkdir $TRANSLATED_MO_PATH/LC_MESSAGES/content
+if [ ! -d $TRANSLATED_MO_PATH/LC_MESSAGES ]; then
+    mkdir $TRANSLATED_MO_PATH/LC_MESSAGES
 fi
 
 for file in $TRANSLATED_PO_PATH/*.po
 do
     # remove the prefix numbers and build the mo files
     mo_file=$(basename $(echo "$file" | sed 's/\.po/\.mo/') | sed 's/^[0-9]*_//')
-    msgfmt "$file" -o $TRANSLATED_MO_PATH/LC_MESSAGES/content/"$mo_file"
+    msgfmt "$file" -o $TRANSLATED_MO_PATH/LC_MESSAGES/"$mo_file"
 done
 
 # build html
@@ -61,9 +61,9 @@ fi
 sphinx-build -b html -Dlanguage=$LANGUAGE $SOURCE_DIR $DESTINATION_DIR/$LANGUAGE
 
 # remove images and static files in the translated directories
-rm $DESTINATION_DIR/$LANGUAGE/_images
-mv $DESTINATION_DIR/$LANGUAGE/_static
+rm -rf $DESTINATION_DIR/$LANGUAGE/_images
+rm -rf $DESTINATION_DIR/$LANGUAGE/_static
 
 # create symbolic links to _images and _static
-ln -sr _images -t $DESTINATION_DIR/$LANGUAGE
-ln -sr $DESTINATION_DIR/_static -t $DESTINATION_DIR/$LANGUAGE
+ln -rs images $DESTINATION_DIR/$LANGUAGE/_images
+ln -rs $DESTINATION_DIR/_static $DESTINATION_DIR/$LANGUAGE/_static
