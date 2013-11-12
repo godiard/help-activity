@@ -105,6 +105,16 @@ class HelpActivity(activity.Activity):
         self._web_view.show()
         self._web_view.load_uri(HOME)
 
+    def get_document_path(self, async_cb, async_err_cb):
+        html_uri = self._web_view.get_uri()
+        rst_path = html_uri.replace('file:///', '/')
+        rst_path = rst_path.replace('html/', 'source/')
+        rst_path = rst_path.replace('.html', '.rst')
+        tmp_path = os.path.join(activity.get_activity_root(), 'instance',
+                                'source.rst')
+        os.symlink(rst_path, tmp_path)
+        async_cb(tmp_path)
+
 
 class Toolbar(Gtk.Toolbar):
     def __init__(self, web_view):
