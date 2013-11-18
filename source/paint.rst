@@ -10,170 +10,179 @@ This Activity allows users to create paintings or drawings. It can also be used 
 Using
 -----
 
-Starting
-::::::::
+You can start a new project by selecting *Start new* from the :doc:`/home_view` or open an existing Paint project in the :doc:`/journal`. By default, when you click on Paint in Home View, you will resume your last project.
 
-You can start a new project or open an existing Paint project in the Journal. You can also edit other images, in the Journal use the 'Start with' menu item for images made with Record etc.
+Paint main tool bar
+-------------------
 
-Primary tool bar
+.. image :: ../images/Paint0main-tb.png
+
+The tool bar top row contains buttons to open each of the following tabs.
+
+1. Activity tab. The Activity tab is open, and the project has been given a name.
+2. Edit tab.
+3. Brush properties.
+4. Brush.
+5. Shapes.
+6. Shapes properties.
+7. Text tab.
+8. Images Tab.
+9. Stop, or close Activity.
+
+Explanation of tabs or tool bars in more detail.
+
+The Activity tab
 ----------------
 
-.. image :: ../images/DrawMainToolbar.JPG
+.. image :: ../images/Paint1ActTab.png
 
-1. secondary toolbar - display or change the name of the image that is saved in the Journal
+Activity tab. Here you may name the project, and access the :doc:`/journal`, to provide a description. Try to get in the habit of re-naming the project before you start work.  Move the cursor over the existing title, click the left mouse button, and start typing a name for the project. You may then use the delete key to remove the remains of the original title.
 
-2. secondary toolbar - edit
+The collaboration button is grayed out, see :ref:`Sharing`.
 
-3. tool properties
+Edit tab
+--------
 
-4. brush tool
+.. image :: ../images/Paint2EdTab.png
 
-5. erase tool
+1. Undo button.
 
-6. flood-fill tool - fills an enclosed area with the color selected in tool properties (if the shape you try to fill has gaps then the whole screen may fill)
+2. Redo button.
 
-7. color-picker tool - click on the screen to set the drawing color
+3. Copy button. This will copy the area selected with the *Select Area* tool to the clipboard. The *Select Area* tool is the bottom item of the Brush tool bar.
 
-8. stamp tool - select an area with the select tool, then copy it with the stamp tool
+  Use the *Select Area* tool to crop images, select the area you want, and use the *Copy button* to copy the clipping to the Clipboard. The Clipboard feature is within the Frame in the lower left corner of the screen.
 
-9. select tool - drag to select a rectangular area of the screen, drag again to move the selection. Also use with the edit toolbar (copy, paste, clear), with the stamp tool or with the image toolbar (rotate, mirror, scale, invert colors)
+  To save from the Clipboard, click on the clipping on the Frame, and then select 'Keep' on the menu, which appears. The original image is unchanged and a new *Image clipping* item is saved in the Journal.
 
-10. secondary toolbar - shapes
+  To retieve from the Clipboard use the Paste button:
 
-11. secondary toolbar - insert text, set bold, italic, size, and font
+4. Paste button. The copied image, which you pick up as an *Image clipping* from the Frame, is pasted in the top left of the work space, and it is already selected, that is under the control of the *Select Area* tool, with which you drag the clipping to the desired place.
 
-12. secondary toolbar - image
+5. Clear the work space, or clear the selected area if there is an area selected.
 
-13. stop - quits the Activity
+Brush properties
+----------------
 
-Secondary tool bar - Edit
--------------------------
+.. image :: ../images/Paint3BrushProps.png
 
-.. image :: ../images/Edit-tb.JPG
+Changes the color, and other properties of the Brush tools, Brush, Bucket, and Stamp.
 
-1. undo
+When the stamp tool is selected, Brush properties changes to Stamp properties and it controls the size of the stamp.
 
-2. redo
+Brush
+-----
 
-3. copy area selected with the select tool to the clipboard (use this to crop images, select the area you want, copy to the clipboard and then select 'Keep' on the clip item on the left border of the screen. The original image is unchanged and a new 'Image clipping' item is saved in the Journal)
+.. image :: ../images/Paint4Brush.png
 
-4. paste from clipboard (the image is pasted in the top left, use the select tool to drag to the desired place)
+1. Brush. Spreads color as you move the cursor over the work space.
+2. Eraser. Removes color.
+3. Bucket. This will flood, or fill, an enclosed area with color.
+4. Picker. Use this tool to pick up a certain color from the image on the work space. This colour is then used by Brush, Bucket, or Stamp.
+5. Stamp. Stamp will repeat a part of the image selected in Select Area.
+6. Select Area. A rectangular area is selected by placing the curson at top left of desired area, click left mouse button, draw cursor to bottom right, and release the mouse button.
 
-5. clear the selected area
+Shapes
+------
 
-Tool properties
----------------
-Changes the properties of the brush tool or the stamp tool
+.. image :: ../images/Paint5Shapes.png
 
+1. Elipse (hold down shift for circle).
+2. Rectangle (hold down shift for squares).
+3. Line.
+4. Free form.
+5. Polygon (number of sides set in Shapes properties).
+6. Heart.
+7. Parallelogram.
+8. Arrow.
+9. Star (number of points is set in Shapes properties).
+10. Trapezoid.
+11. Triangle.
 
-When the brush tool is selected, changes the color, size and shape of the brush tool. Also affects the shape and text tools.
+Shapes Properties
+-----------------
 
-.. image :: ../images/Brush-props.JPG
+.. image :: ../images/Paint6ShapesProps.png
 
+The color of Shapes *Fill* is set here, while the color of the *border* is set in Brush properties. If the *Fill* box is unchecked, only an outline, or border, is displayed.
 
-When the stamp tool is selected, changes the size of the stamp
+Under the *Fill* checkbox, set aspect ratio, and  the number of sides of stars and polygons.
 
-.. image :: ../images/Stamp-props.JPG
+TextTab
+-------
 
-Secondary tool bar - Shapes
----------------------------
+.. image :: ../images/Paint7TextTab.png
 
-.. image :: ../images/Shapes-tb.JPG
+1. Type. To insert text, press *Type*, move the cursor to the point you want to start typing, click, and insert text with the keyboard. The colour used is set in Brush properties.
+2. Bold switch.
+3. Italic switch.
+4. Increase or decrease font size.
+5. Select font.
 
-1. Shapes properties - set the fill color, aspect ratio, the number of sides of stars and polygons (the border is set in brush properties)
+Images Tab
+----------
 
-2. Ellipse (hold down shift for circle)
+.. image :: ../images/Paint8ImageTab.png
 
-3. Rectangle (hold down shift for squares)
-
-4. Line
-
-5. Free form
-
-6. Polygon (number of sides set in Shapes properties)
-
-7. Heart
-
-8. Parallelogram
-
-9. Arrow
-
-10. Star (number of points set in Shapes properties)
-
-11. Trapezoid
-
-12. Triangle
-
-Secondary tool bar - Images
----------------------------
-
-.. image :: ../images/Image-tb.JPG
-
-1. Insert image from Journal
-
-2. Rotate selected area left
-
-3. Rotate selected area right
-
-4. Horizontal mirror selected area
-
-5. Vertical mirror selected area
-
-6. Scale selected area height
-
-7. Scale selected area width
-
-8. Convert selected area from color to gray
-
-9. Rainbow
-
-10. Invert colors in selected area (white -> black, red -> blue etc.)
+1. Insert picture, opens Journal or attached media in Image search.
+2. Rotate selected area left.
+3. Rotate selected area right.
+4. Horizontal mirror, or flip, selected area.
+5. Vertical mirror, or flip, selected area.
+6. Convert selected area from color to gray.
+7. Rainbow.
+8. Invert colors in the selected area. For example black is inverted to white, and similarly, all colors are inverted.
 
 Applying
 --------
 
 Paint is a versatile Activity with many uses such as:
 
-*  creating drawings or paintings
-*  creating images for inserting into Write documents
-*  creating slides for a Portfolio Activity slide show
-*  creating images for using in other Activities including Turtle Blocks and many more
-*  editing and cropping images made by other Activities including Turtle Blocks and many more
-*  editing and cropping screen shots (take screen shots with Alt-1)
-*  editing and cropping photos taken with the Record Activity 
+*  creating drawings or paintings.
+*  creating images for inserting into Write documents.
+*  creating slides for a Portfolio Activity slide show.
+*  creating images for using in other Activities including Turtle Blocks and many more.
+*  editing and cropping images made by other Activities including Turtle Blocks and many more..
+*  editing and cropping screen shots (take screen shots from the keyboard by pressing the *Alt* key with *1*).
+*  editing and cropping photos taken with the Record Activity.
+
+.. _Sharing:
 
 Sharing
 -------
 
 Paint does not support sharing. You can use Turtle Blocks for collaborative drawing.
 
+You can share the work you have done in Image Viewer.
+
+|more| For further information, please see the page :doc:`/collaborating`
+
+.. |more| image:: ../images/more.png
+
 Extending
 ---------
 
-*  take a photo of an animal with Record, crop the image with Paint, use as a custom turtle in Turtle Blocks
-*  start a school newspaper, take photos with Record, crop with Paint, import them into Write
-*  do a portfolio of your schoolwork, get screenshots (Alt-1) crop with Paint and add explanatory labels then make a slideshow in Portfolio Activity
-*  create a custom Memorize Activity game, create the images in Paint
-*  create custom cards for the Dimensions (Visual Match) Activity
-*  create custom foods for the Nutrition Activity
-*  create custom images for the Labyrinth Activity (mind maps)
-*  create a web page with images from Paint
-*  take photos of plants or animals, crop the photos, label them
-*  take the output of SimpleGraph and use the flood-fill tool to make a multicolored graph 
+*  take a photo of an animal with Record, crop the image with Paint, use as a custom turtle in Turtle Blocks.
+*  start a school newspaper, take photos with Record, crop with Paint, import them into Write.
+*  do a portfolio of your schoolwork, get screenshots (Alt-1) crop with Paint and add explanatory labels then make a slideshow in Portfolio Activity.
+*  create a custom Memorize Activity game, create the images in Paint.
+*  create custom cards for the Dimensions (Visual Match) Activity.
+*  create custom foods for the Nutrition Activity.
+*  create custom images for the Labyrinth Activity. Labyrinth is a mind mapping tool.
+*  create a web page with images from Paint.
+*  take photos of plants or animals, crop the photos, and label them.
+*  take the output of SimpleGraph and use the *Bucket* (flood-fill tool) to make a multicolored graph.
 
 Developers' information
 -----------------------
 
 **History**
 
-
 Oficina (the Paint Activity) was developed and adapted to the XO using Python for the team NATE-LSI (Integrated Systems Laboratory), in the Polytechnical School at University of São Paulo, Brazil.
 
 **Resources**
 
 `Sources <https://git.sugarlabs.org/projects/paint>`_
- 
-`Sugar Activity Library page <http://activities.sugarlabs.org/en-US/sugar/addon/4082>`_
 
 Where to report problems
 ------------------------
