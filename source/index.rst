@@ -91,6 +91,14 @@ About this manual
     how_to_volunteer.rst
     credits_copyright.rst
 
+Contribute to this manual
+
+.. toctree::
+    :maxdepth: 1
+
+    how_to_help.rst
+    restructuredtext.rst
+
 Support
 
 .. toctree::
