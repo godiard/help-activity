@@ -2,7 +2,7 @@
 Writing in reStructuredText
 ===========================
 
-This page is a short primer and cheat sheet for the markup language we are using in Help. The rst format is easy to create and we are using a part of it only:
+This page is a short primer and cheat sheet for the markup language we are using in :doc:`/how_to_help`. The rst format is easy to create and we are using a part of it only.
 
 .. _my-reference-label:
 
@@ -53,7 +53,7 @@ Program writing software like Python_.
 Links within Help
 :::::::::::::::::
 
-This link, :ref:`my-reference-label`, links to the top paragraph of this document.
+This link, :ref:`my-reference-label` links to the top paragraph of this document.
 
  To see how this works, ``.. _my-reference-label:`` appears on line 7 of restructuredtext.rst.
 
@@ -182,6 +182,6 @@ And also
 	   Notice that first readable character of this note is under the "s", three spaces preceed it.
 
 
-|more| There are links to futher reading at the foot of the page :doc:`/how_to_help`
+|more| There are links to :ref:`Further reading` at the foot of the page :doc:`/how_to_help`
 
 .. |more| image:: ../images/more.png
