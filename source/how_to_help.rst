@@ -4,9 +4,7 @@ How to edit Help and contribute
 
 .. Note::
 
-   *24 November 2013. Draft version for review.*
-
-   *TO DO: I propose a dedicated "landing page" for contributors. http://wiki.laptop.org/go/Help_Activity_refresh/0.98 will be out of date by the time this is published. Possibility of developing collaborative working model. Paragraph Contribute refers. Possibility that a page on sugarlabs wiki can be used to flag up ideas for new pages.*
+   *27 November 2013. Draft version for review.*
 
    *I have checked the tutorials, but would appreciate if they were independently tested.*
 
@@ -90,44 +88,41 @@ The directory ``~/mainline/source/`` contains the text files we will be altering
 
 The directory ``~/mainline/images/`` contains all the images that are used on the various pages of Help. You can add image files to this folder, and if they are linked into documents, they will display in the *output* of the command ``make html``. 
 
-In Sugar you have the ability to inspect the source files safely, using the *View source* button on the Help icon in the Frame. See Help, :ref:`View source`
-
-**Output**
-
-The pages displayed in Activity Help are the *output* of the command ``make html``. The files are all in the folder ``~/mainline/html/``.
-
-Depending on the setup of your installation there may be a number of other folders present in the ``~/mainline/html/`` folder (for instance ``_sources``, ``_static``, and ``_images``). These are also *output files*, they could be regarded as hidden folders, and should not be edited.
+In Sugar you have the ability to inspect the source files safely, using the :ref:`View source` button on the Help icon in the Frame.
 
 The key page in navigating Help is the Index or contents page. In the ``~/mainline/source/`` folder, `index.rst` is the text document which automatically provides links to all other pages in the source folder.
 
-Browse your file system
-:::::::::::::::::::::::
+**Output**
 
-This set of images shows how to use Browse (or any other browser) to navigate the file system.
+The pages displayed in Help are the *output* of the command ``make html``. The files are all in the folder ``~/mainline/html/``.
 
-.. image :: ../images/Browse_filesystem.png
+Depending on the setup of your installation there may be a number of other folders present in the ``~/mainline/html/`` folder (for instance ``_sources``, ``_static``, and ``_images``). These are also *output files*, they could be regarded as hidden folders, and should not be edited.
 
-Above we see Browse opened from Start new. The Browse home page is shown, and the address bar highlighted. Put the cursor in the address bar, use the right arrow key to move the cursor to the far right end of the address, or URL, and use the backspace delete key to delete "index.html". Now hit **Enter**, and the containing folder is displayed. In the same way we can backspace delete till we reach the root of the file system, and then select the "home " directory.
+**Navigation**
 
-Browse mainline
-:::::::::::::::
+In Browse and some other browsers if you type ::
 
-.. image :: ../images/BrowseComposite2.png
+ file:///
 
-Having opened ``/home``, we navigate to ``/home/user`` then to ``/home/user/mainline``, then ``/home/user/mainline/source``, and select ``browse.rst``
+in the address bar, you will be browsing the root of your file system.
 
-Browse HTML
-:::::::::::
+Now move progressively through ::
 
-.. image :: ../images/BrowseComposite3.png
+ file:///home
 
-In the first of these images we view the text file browse.rst by pointing the browser at the source file: ::
+ file:///home/your-username
 
- file:///home/your-username/mainline/source/browse.rst
+ file:///home/your-username/mainline
 
-We can back off again and reach ``/home/user/mainline/html`, and open ``browse.html``. Now we display the *output* HTML file by pointing the browser at the html file: ::
+ file:///home/your-username/mainline/source
 
- file:///home/your-username/mainline/html/browse.html
+You are now able to open and inspect any of the *source_files.rst* safely.
+
+We can back off again and reach ::
+
+ file:///home/your-username/mainline/html
+
+and then select and display any of the output HTML files.
 
 Make changes
 ------------
@@ -135,7 +130,7 @@ Make changes
 You can just write a page in simple text, perhaps with some explanatory pictures or screen-shots. Screen-shots are made in Sugar from the keyboard, by pressing the "Alt" key and 1.
 The page :doc:`/restructuredtext` gives some guidance on the features of the markup language we use. Do not be concerned with complex features, plain, simply written text will be of most use to new learners.
 
-You will have your own ideas about what you would like to change and contribute. Explaining anything, which you have struggled to learn, is likely to be of use to others, and seeing your work published gives quite a buzz!
+You will have your own ideas about what you would like to change and contribute. When you explain anything, which you have struggled to learn, it is likely to be of use to others. Seeing your work published gives quite a buzz!
 
 Here are a few exercises, which demonstrate making changes, and making pages.
 
@@ -297,14 +292,14 @@ In the next version of Activity Help, better "New to Sugar" pages might be inclu
 
 Some Activities have no easy to find instructions. If you can write even a very short introduction, it could be very useful for other Sugar learners.
 
-The  wiki page linked might have some ideas on pages, which have been requested, or which others are working on and might appreciate collaboration.
+The Sugarlabs wiki page http://wiki.sugarlabs.org/go/Activities/Help/Help_17 might have some ideas on pages, which have been requested, or which others are working on and might appreciate collaboration.
 
 What to do with your finished work
 ::::::::::::::::::::::::::::::::::
 
 First of all you might briefly contact gonzalo at laptop dot org by e-mail to tell him what you would like to contribute. If you write a new page , you can send him the page (as my_page.rst) as an attachment to an e-mail explaining briefly what is attached. If new images are linked into the page, send them too.
 
-If you have improved a page, the preferred method is to submit it is as a "patch".
+If you have improved a page, the preferred method is to submit it as a "patch".
 
 Tutorial 5 - generate a patch
 :::::::::::::::::::::::::::::
@@ -347,7 +342,7 @@ Reconfigure Help to show View source
 
 In Sugar as we already have a :ref:`View source` button in the frame.
 
-If you are working with this software in a browser, you can add a *View source* button, which will appear in the navigation panel on the left. You need to alter three lines in ``mainline/source/conf.py``. Each of the entries listed below comprise a comment line, starting with a"#" followed by the code line. Find each pair of lines in ``conf.py`` and change the value in the code line like this. ::
+If you are working with this software in a browser, you can add a *View source* button, which will appear in the navigation panel on the left. You need to alter three lines in ``~/mainline/source/conf.py``. Each of the entries listed below comprise a comment line, starting with a"#" followed by the code line. Find each pair of lines in ``conf.py`` and change the value in the code line like this. ::
 
 
  # Custom sidebar templates, maps document names to template names. ## Edit: Sugar default is without 'sourcelink.html'
@@ -359,7 +354,9 @@ If you are working with this software in a browser, you can add a *View source* 
  # Do not copy .rst files ##Edit: Sugar default is False
  html_copy_source = True
 
-A disadvantage of doing this is that extra folders are created, that might be confusing at first. The command ``make html`` also takes longer to run. It is recommend not to make these changes before you are confident navigating the source and HTML folders.
+A disadvantage of doing this is that extra folders are created, that might be confusing at first, and the duplication of files can make it difficult to correct certain mistakes. The command ``make html`` also takes longer to run. It is recommend not to make these changes before you are confident navigating the source and HTML folders.
+
+.. _Further reading:
 
 Further reading
 ---------------
