@@ -36,7 +36,7 @@ The Activity tab
 
 .. image :: ../images/Paint1ActTab.png
 
-Activity tab. Here you may name the project, and access the :doc:`/journal`, to provide a description. Try to get in the habit of re-naming the project before you start work.  Move the cursor over the existing title, click the left mouse button, and start typing a name for the project. You may then use the delete key to remove the remains of the original title.
+Activity tab. Here you may name the project, and access the :doc:`/journal`, to provide a description. Try to get in the habit of re-naming the project before you start work.  Move the cursor over the existing title, click the left mouse button, and start typing a name for the project. Your new name will overwrite the original.
 
 The collaboration button is grayed out, see :ref:`Sharing`.
 
