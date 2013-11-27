@@ -43,15 +43,17 @@ We see, working clockwise from top left:
 
 9. Stop, or close the Activity.
 
+.. _Speak Help:
+
 Speak Help
 ----------
 .. image :: ../images/HelpSpeech1.png
 
-You can have Speak read out loud, the text in Help. You can select a whole page of Help, and have it read out loud to you while you explore that Activity.
+You can have Speak, or robot Alice, read aloud, the text in Help. You can select a whole page of Help, and have it read aloud to you while you explore that Activity.
 
 Try it now, Select the text in this frame.
 
-To select text, follow these instructions. Move the mouse to the top left of the text, there is a green arrow near the correct point. Click the left, or main, mouse button. Move the cursor to the bottom right of the text to select, there is a red arrow near the correct point.
+To select text, move the mouse to the top left of the text, there is a green arrow near the correct point. Click the left, or main, mouse button. Move the cursor to the bottom right of the text to select, there is a red arrow near the correct point.
 
 Bring in the :doc:`/frame` with the "Frame key" or F6. Press on the "Speech lips" icon in the bottom of the frame, then press on *Say selected text*. Notice also that there is a pause feature, once *speech* has started.
 
