@@ -7,45 +7,158 @@ About
 
 The Write Activity serves as the document creation Activity in Sugar. Its simple interface provides an easy starting point for children, presenting tools that make writing a story, poem, or essay simple and straightforward. It also supports tools for inserting images, creating tables, and performing layout operations.
 
-The Write Activity utilizes the Journal, your work is automatically saved. The Activity also supports collaboration in the form of peer editing, group storytelling, etc.
+Write utilizes the :doc:`/journal`, your work is automatically saved, and :ref:`Collaboration`  in the form of peer editing, group storytelling, etc.
 
 The Write Activity can be used to open and edit most common file formats, including ODT, DOC, RTF, TXT, and HTML.
 
-Where to get Write
-------------------
-
-The Write activity is included in OLPC images and can be downloaded `Sugar Labs Activity Portal <http://activities.sugarlabs.org/en-US/sugar/addon/4201>`_.
+Write is included in OLPC images and can be downloaded from `ASLO <http://activities.sugarlabs.org>`_, search for Paint.
 
 Using
 -----
 
-TODO: write screenshot is wrong
+Here Write has been used to produce some colorful text.
 
-.. image :: ../images/GVW.jpg
-
-This is a general view of write.
+.. image :: ../images/Write0welcome.png
 
 The Toolbars
 ------------
 
-.. image :: ../images/Write_toolbars_numbered_screenshot.jpg
+ **Tip** Use the :ref:`Speak Help` feature to have robot Alice read aloud this page in the background, while you explore the Write Activity.
 
-In order from left to right
+.. image :: ../images/Write0act.png
 
-1. The Activity Button: Allows you to name your file, Share it, and save it as RTF, HTML, TXT and PDF.
-2. The Edit Button: Allows to Copy, Paste, Undo, Redo, and search inside your document.
-3. The View Button: Allows you to zoom in and out of the document and to navigate through the pages quickly.
-4. The Fonts Button: Allows you to change the font and the size.
-5. The Paragraph Button : Allows you to change the headings, the text dispositions and the different justify possibilities.
-6. The List Button : Allows you to create multiple lists: bullet, dashed, numbered, lower case list, upper case list.
-7. The Insert Button : Allows you to insert tables and images and to edit their size and position afterwards.
-8. Bold
-9. Italic
-10. Underline
-11. Color
-12. Stop
+We look first at the nine buttons in the top row of the toolbar. The buttons open the corresponding tab or toolbar.
 
-Collaborating
+1. The Activity button: Allows you to name your file, access the Journal to add a description, and share, or collaborate.
+2. The Edit button: Allows to Copy, Paste, Undo, Redo, and search inside your document.
+3. The View button: Allows you to zoom in and out of the document and to navigate through the pages quickly.
+4. The Speak button. You can have Speak, robot Alice, read your work aloud.
+5. The Fonts button: Allows you to change the font, size, empphasis, colour and justify.
+6. The Paragraph button : Allows you to set heading and list styles.
+7. The Insert table button : Allows you to insert and adjust a  table.
+8. The Insert Image button : Allows you to insert images.
+9. Stop or clpose the Activity.
+
+The Toolbar Sub Menus
+---------------------
+
+Activity button (1)
+:::::::::::::::::::
+
+.. image :: ../images/Write1act.png
+
+1. Allows you to name your file. Click the cursor in the field, the existing text is selected, and a new file name can be entered.
+2. Access the Journal entry and add a description.
+3. This button is the collaboration, or sharing "switch". The options are
+
+  |Home_key_f3_small.png| Private, this is the non-sharing option, with no networking.
+
+  .. |Home_key_f3_small.png| image:: ../images/Home_key_f3_small.png
+
+  |Neighborhood_key| My Neighbourhood, this is the sharing option, that is, networked with others.
+
+  .. |Neighborhood_key| image:: ../images/Neighborhood_key_sml.png
+
+  See also below, :ref:`Collaboration`.
+
+4. Export, or Save in Rrich Text Format.
+5. Export, or Save in HTML.
+6. Export, or Save in Plain text.
+7. Export, or Save in Portable Document Format.
+
+Edit button (2)
+:::::::::::::::
+
+.. image :: ../images/Write2ed.png
+
+1. Copy
+2. Paste
+3. Undo
+4. Redo
+5. Search
+6. Back
+7. Forward
+
+View button (3)
+:::::::::::::::
+
+.. image :: ../images/Write3view.png
+
+1. Zoom out
+2. Zoom in
+3. Zoom to width
+4. Set Zoom
+5. Quick page navigation
+
+
+Speak button (4)
+::::::::::::::::
+
+.. image :: ../images/Write4spk.png
+
+1. Play / Pause the Speak function, robot Alice will read aloud any text which you select..
+2. Stop robot Alice.
+3. Select robot Alice's language.
+
+Fonts button (5)
+::::::::::::::::
+
+.. image :: ../images/Write5font.png
+
+1. Name of font
+2. Size of font
+3. Bold
+4. Italic
+5. Underline
+6. Choose a color
+7. Justify your text to left, centre, right, or fill justify.
+
+
+
+Paragraph button (6)
+::::::::::::::::::::
+
+.. image :: ../images/Write6para.png
+
+1. Normal
+2. Heading 1
+3. Heading 2
+4. Heading 3
+5. Heading 4
+6. Block Text
+7. Plain Text
+8. Select list:
+
+ * Normal
+ * Bullet List
+ * Dashed List
+ * Numbered List
+ * Lower Case List
+ * Upper Case List
+
+The Insert Table button (7)
+:::::::::::::::::::::::::::
+
+.. image :: ../images/Write7table.png
+
+1. Create table, in the grid you select the number of rows and columns you want to appear.
+2. Insert row.
+3. Delete row.
+4. Insert column.
+5. Delete column.
+
+The Insert Image button (8)
+:::::::::::::::::::::::::::
+
+.. image :: ../images/Write8img.png
+
+This button opens the Journal, or attached media, in "search image mode". In the default (non floating) mode the image is inserted and the text is before or after the image. If you insert text before the image, the image is displaced. Sometimes, use a two box table to contain associated text reliably. Use this mode only to place images in tables.
+
+A checkbox allows to have image floating. In floating mode, the text will flush around the image, and the image will stay fixed in one place.
+
+.. _Collaboration:
+
+Collaboration
 -------------
 
 The Write Activity supports collaborative (peer) editing, which means that multiple people can edit the same document at the same time.
@@ -55,7 +168,12 @@ To start a collaboration, either:
 * send an invitation, or
 * share with the Neighborhood
 
-As with all Sugar Activities, invitations go to specific individuals, but sharing is open to anyone in the Neighborhood View. Please see the chapter on Collaboration in the Sugar Manual for more details about invitations and sharing.
+As with all Sugar Activities, invitations go to specific individuals, but sharing is open to anyone in the Neighborhood View.
+
+|more| For more on this subject, please see the chapter in this manual on
+:doc:`/collaborating`.
+
+.. |more| image:: ../images/more.png
 
 Note to parents and teachers
 ::::::::::::::::::::::::::::
