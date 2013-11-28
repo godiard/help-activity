@@ -4,18 +4,14 @@ How to edit Help and contribute
 
 .. Note::
 
-   *27 November 2013. Draft version for review.*
+   Page version for review.
 
-   *I have checked the tutorials, but would appreciate if they were independently tested.*
-
-   *Corrections, omissions, and feedback most welcome, iain at browndouglas dot plus dot com.*
+   Corrections, omissions, and feedback most welcome, iain at browndouglas dot plus dot com. 28 November 2013.
 
 
 Help displays documentation for Sugar and the XO laptop. Help contains a :ref:`View source` button.
 
 This version of Help contains all the source files and images. These files can be edited within Help, and displayed. Help is now capable of producing new pages for Help, or making completely fresh documentation.
-
-Help allows internationalization of the content, by {reference required} {To what extent can this page encourage users to get involved with that?}
 
 This page aims to show how to write attractive documentation, which, if users share their work, could be used to improve Help. To contribute you only need to:
 
@@ -67,7 +63,7 @@ What if I break Help?
 
 In Sugar you cannot break Help. If you start to follow these instructions and get lost or make a mistake, and Help will not display correctly, you should not worry.
 
-You should simply visit  `ASLO <http://activities.sugarlabs.org>`_ with Browse. Search for Help, and download and install a new copy of XO Help.
+You should simply visit `ASLO <http://activities.sugarlabs.org>`_ with Browse. Search for Help, and download and install a new copy of XO Help.
 
 Alternatively, experienced users might make a backup .xo before starting to work by doing: ::
 
@@ -75,30 +71,8 @@ Alternatively, experienced users might make a backup .xo before starting to work
 
 This will create a directory dist and inside, an .xo file.
 
-.. _Orientation:
-
-Orientation
-:::::::::::
-
-**Source**
-
-The two source folders we look at are filled initially by the download of Help.
-
-The directory ``~/mainline/source/`` contains the text files we will be altering in this guide.
-
-The directory ``~/mainline/images/`` contains all the images that are used on the various pages of Help. You can add image files to this folder, and if they are linked into documents, they will display in the *output* of the command ``make html``. 
-
-In Sugar you have the ability to inspect the source files safely, using the :ref:`View source` button on the Help icon in the Frame.
-
-The key page in navigating Help is the Index or contents page. In the ``~/mainline/source/`` folder, `index.rst` is the text document which automatically provides links to all other pages in the source folder.
-
-**Output**
-
-The pages displayed in Help are the *output* of the command ``make html``. The files are all in the folder ``~/mainline/html/``.
-
-Depending on the setup of your installation there may be a number of other folders present in the ``~/mainline/html/`` folder (for instance ``_sources``, ``_static``, and ``_images``). These are also *output files*, they could be regarded as hidden folders, and should not be edited.
-
-**Navigation**
+Tutorial 0 - Browse filesystem
+::::::::::::::::::::::::::::::
 
 In Browse and some other browsers if you type ::
 
@@ -124,6 +98,31 @@ We can back off again and reach ::
 
 and then select and display any of the output HTML files.
 
+In this page we use the convention of calling ``/home/your-username/mainline/source`` by the shorter, ``~/mainline/source``.
+
+.. _Orientation:
+
+Orientation
+:::::::::::
+
+**Source**
+
+The two source folders we look at are filled initially by the download of Help.
+
+The directory ``~/mainline/source/`` contains the text files we will be altering in this guide.
+
+The directory ``~/mainline/images/`` contains all the images that are used on the various pages of Help. You can add image files to this folder, and if they are linked into documents, they will display in the *output* of the command ``make html``.
+
+In Sugar you have the ability to inspect the source files safely, using the :ref:`View source` button on the Help icon in the Frame.
+
+The key page in navigating Help is the Index or contents page. In the ``~/mainline/source/`` folder, `index.rst` is the text document which automatically provides links to all other pages in the source folder.
+
+**Output**
+
+The pages displayed in Help are the *output* of the command ``make html``. The files are all in the folder ``~/mainline/html/``.
+
+Depending on the setup of your installation there may be a number of other folders present in the ``~/mainline/html/`` folder (for instance ``_sources``, ``_static``, and ``_images``). These are also *output files*, they could be regarded as hidden folders, and should not be edited.
+
 Make changes
 ------------
 
@@ -141,7 +140,7 @@ We are going to make a fresh page in reStructuredText. It will not at first be c
 
 1. Open a new file in any text editor.
 
-2. Save the file with the name ``my_first.rst`` in ~/mainline/source . (Here we have called ``/home/your-username/mainline/source`` by the shorter, ``~/mainline/source``). Type some text onto the page. In order to give the page a title we put a line of "=" "equal" signs above and below the title like this. Leave a line of white space, then type some text. This is an example:
+2. Save the file with the name ``my_first.rst`` in ``~/mainline/source``. Type some text onto the page. In order to give the page a title we put a line of "=" "equal" signs above and below the title like this. Leave a line of white space, then type some text. This is an example:
 
 ::
 
@@ -190,7 +189,7 @@ Above, we have changed directory into mainline, changed directory into source, a
 
 4. Scroll down ``index.rst`` right to the bottom of the page. Put the cursor at the front of the last line. Using the arrow keys you will see that the indent is 4 "spaces", it is not "Tab".
 
-5. Put the cursor at the end of the last line. Press *Enter*, press space bar 4 times, and enter the file name you used above ``my_page.rst``. Use "Enter" and the space bar so that  you exactly copy the indentation, and line spacing as used in the other entries.
+5. Put the cursor at the end of the last line. Press *Enter*, press space bar 4 times, and enter the file name you used above ``my_page.rst``. Use "Enter" and the space bar so that you exactly copy the indentation, and line spacing as used in the other entries.
 
 6. Double check your changes to ``index.rst`` and save your changes. 
 
@@ -292,7 +291,7 @@ In the next version of Activity Help, better "New to Sugar" pages might be inclu
 
 Some Activities have no easy to find instructions. If you can write even a very short introduction, it could be very useful for other Sugar learners.
 
-The Sugarlabs wiki page http://wiki.sugarlabs.org/go/Activities/Help/Help_17 might have some ideas on pages, which have been requested, or which others are working on and might appreciate collaboration.
+The Sugarlabs wiki page http://wiki.sugarlabs.org/go/Activities/Help/Contribute might have some ideas on pages, which have been requested, or which others are working on and might appreciate collaboration.
 
 What to do with your finished work
 ::::::::::::::::::::::::::::::::::
