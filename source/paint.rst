@@ -38,7 +38,7 @@ The Activity tab
 
 Activity tab. Here you may name the project, and access the :doc:`/journal`, to provide a description. Try to get in the habit of re-naming the project before you start work.  Move the cursor over the existing title, click the left mouse button, and start typing a name for the project. Your new name will overwrite the original.
 
-The collaboration button is grayed out, see :ref:`Sharing`.
+The collaboration button is grayed out, see :ref:`Share`.
 
 Edit tab
 --------
@@ -146,7 +146,7 @@ Paint is a versatile Activity with many uses such as:
 *  editing and cropping screen shots (take screen shots from the keyboard by pressing the *Alt* key with *1*).
 *  editing and cropping photos taken with the Record Activity.
 
-.. _Sharing:
+.. _Share:
 
 Sharing
 -------

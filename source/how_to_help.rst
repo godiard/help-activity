@@ -37,9 +37,13 @@ You can install it in your development environment doing: ::
  cd mainline
  ./setup.py dev
 
+and to populate your Help pages ::
+
+ make html
+
 You can modify any .rst file in ~/mainline/source/ directory or the images in the ~/mainline/source/images/ directory.
 
-To create the HTML files. You only need do: ::
+To create the new HTML files you only need do: ::
 
  cd mainline
  make html
