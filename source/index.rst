@@ -13,6 +13,7 @@ Using Sugar
 .. toctree::
     :maxdepth: 1
 
+    intro17.rst
     sugar_ui.rst
     home_view.rst
     neighborhood_view.rst
@@ -20,6 +21,7 @@ Using Sugar
     frame.rst
     journal.rst
     my_settings.rst
+    sugar_features.rst
     gnome.rst
     schoolserver.rst
 
@@ -51,10 +53,12 @@ Activities
     portfolio.rst
     read.rst
     record.rst
+    speak.rst
     terminal.rst
     tamtammini.rst
     turtleart.rst
     write.rst
+
 
 Network
 
