@@ -23,13 +23,13 @@ Here Write has been used to produce some colorful text.
 The Toolbars
 ------------
 
- **Tip** Use the :ref:`Speak Help` feature to have robot Alice read aloud this page in the background, while you explore the Write Activity.
+ **Tip** Use the :ref:`say_selected_text` feature to have robot Alice read aloud this page in the background, while you explore the Write Activity.
 
 .. image :: ../images/Write0act.png
 
 We look first at the nine buttons in the top row of the toolbar. The buttons open the corresponding tab or toolbar.
 
-1. The Activity button: Allows you to name your file, access the Journal to add a description, and share, or collaborate.
+1. Activity tab, or button, here you can enter a name for the page or project, access the Journal, and chose private or sharing in My Neighborhood.
 2. The Edit button: Allows to Copy, Paste, Undo, Redo, and search inside your document.
 3. The View button: Allows you to zoom in and out of the document and to navigate through the pages quickly.
 4. The Speak button. You can have Speak, robot Alice, read your work aloud.
@@ -48,7 +48,7 @@ Activity button (1)
 .. image :: ../images/Write1act.png
 
 1. Allows you to name your file. Click the cursor in the field, the existing text is selected, and a new file name can be entered.
-2. Access the Journal entry and add a description.
+2. The "pencil and book" icon allows :ref:`journal_qa` to provide a description.
 3. This button is the collaboration, or sharing "switch". The options are
 
   |Home_key_f3_small.png| Private, this is the non-sharing option, with no networking.
@@ -96,7 +96,7 @@ Speak button (4)
 
 .. image :: ../images/Write4spk.png
 
-1. Play / Pause the Speak function, robot Alice will read aloud any text which you select..
+1. Play / Pause the Speak function, robot Alice will read aloud any text which you select. See :ref:`say_selected_text`.
 2. Stop robot Alice.
 3. Select robot Alice's language.
 

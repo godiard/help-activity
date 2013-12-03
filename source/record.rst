@@ -40,11 +40,11 @@ Record features in detail
 
 **Toolbar and capture buttons explained**
 
-1. Activity tab. Here you can enter a name for the project, access the Journal, to provide a description, and select Private, or My Neighbourhood, see :ref:`Sharing Media`.
+1. Activity tab, here you can enter a name for the page or project, the "pencil and book" icon allows :ref:`journal_qa` to provide a description, and select Private, or My Neighbourhood, see :ref:`Sharing Media`.
 
 2. Picture camera mode is selected.
 
-3. Video camera mode button.  Press to switch to Video camera mode.
+3. Video camera mode button. Press to switch to Video camera mode.
 
 4. Audio recording mode button. Press to switch to Audio recording mode.
 
@@ -136,7 +136,7 @@ A field, in which to enter a title for the photo appears **2**. The title “Cor
 
 At the bottom right of the main image is a little tab, **3**, which allows you to find out more about the photo that was taken. Now pressing that tab **4** reveals the image information, author, date, and a space to add tags. A tag is a single word that helps categorize an item.
 
-The tray displays a history of your previously taken photos. When you have more photos  in the tray the *scroll button* **5** scrolls through the images.
+The tray displays a history of your previously taken photos. When you have more photos in the tray the *scroll button* **5** scrolls through the images.
 
 To replay a video or audio recording, click the thumbnail of the recording in the tray. When viewing or listening to a clip, if you move your cursor in the main image area, you see small window **6**, representing the output of your camera or microphone. Click on that window to return from *viewer* mode to *capture* mode.
 
@@ -166,7 +166,7 @@ Once you have made your Activity available to share, others, looking at their Ne
 
 They must then select "Join" and their Record Activity opens with your images in their tray.
 
-Now in Record, thumbnails of both parties are shared.  The frame of the thumbnail is in the same colors as the XO icon of the person who took the photo.
+Now in Record, thumbnails of both parties are shared. The frame of the thumbnail is in the same colors as the XO icon of the person who took the photo.
 
 Images shared
 :::::::::::::

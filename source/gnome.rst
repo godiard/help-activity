@@ -1,5 +1,5 @@
 =====
-Gnome
+GNOME
 =====
 
 In late 2009 OLPC added a more conventional desktop environment called GNOME to its operating system. This is intended for older children and advanced users.

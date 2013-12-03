@@ -17,6 +17,11 @@ To show the Journal, click the Journal icon on the Frame.
 
 On an XO laptop, you can press the magnifying glass key in the top row of the keyboard to immediately open the Journal and search.
 
+|journal| **Seen in an Activity**, this icon on the Activity toolbar (or Activity tab) allows quick access to the Journal, to add a description, or further notes to yourself about what you are going to do, or have done in that session of the Activity.
+
+.. |journal| image:: ../images/journal_qa.png
+
+
 Journal features
 ----------------
 
@@ -54,7 +59,7 @@ The Detail view appears when you click the Detail view button for an entry. This
 *  8 - Favorites Icon: This icon indicates whether an entry has been starred as a favorite which can be done by clicking it.
 *  9 - Thumbnail image: Each entry has a thumbnail image that is created automatically. The image show the Activity screen when the last change to the Journal entry was saved.
 *  10 - Participants: Displays the XO icons of each person who participated in a shared Activity. 
-*  11 - Comments:  Comments by the joiners will be displayed here. The comments will be from Portfolio activity and from journal share.
+*  11 - Comments: Comments by the joiners will be displayed here. The comments will be from Portfolio activity and from journal share.
 *  12 - Tags field: You can enter search tags. Tags are keywords used to describe a journal entry so that you can find it later using the Search box. For example, if your project is for school, maybe science class, and it is a report about local flowers, you could put "science" and "flowers" as the tags. You can write as many tags as you wish. You can also use keywords to help you "group" this entry, for instance by origin or context.
 *  13 - Description field: You can type a description of the entry, which you can find later using the Search box. Use a description to remind you of what you did. For example: "Flowers I saw on the hike to the waterfall". Or you can reflect on your work and process: what I have done; how I have done it; and how successful these efforts have been. "This was not easy, but I learned a lot about different types of flowers in my community by speaking with my family". This is important because these description can be shown in the reflection Activity called "Portfolio".
 
