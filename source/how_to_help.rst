@@ -9,9 +9,9 @@ How to edit Help and contribute
    Corrections, omissions, and feedback most welcome, iain at browndouglas dot plus dot com. 28 November 2013.
 
 
-Help displays documentation for Sugar and the XO laptop. Help contains a :ref:`View source` button.
+Help displays documentation for Sugar and the XO laptop.
 
-This version of Help contains all the source files and images. These files can be edited within Help, and displayed. Help is now capable of producing new pages for Help, or making completely fresh documentation.
+This version of Help contains all the source files and images, and now a :ref:`View source` button. These files can be edited within Help, and displayed. Help is now capable of producing new pages for Help, or making completely fresh documentation.
 
 This page aims to show how to write attractive documentation, which, if users share their work, could be used to improve Help. To contribute you only need to:
 
@@ -32,12 +32,12 @@ The following guide assumes you ``git clone`` from your home directory. This com
 
  git clone gitorious@git.sugarlabs.org:help/mainline.git
 
-You can install it in your development environment doing: :: 
+You can install it in your Sugar development environment doing: ::
 
  cd mainline
  ./setup.py dev
 
-and to populate your Help pages ::
+and, when you are ready, to populate your Help pages ::
 
  make html
 
@@ -60,14 +60,14 @@ or in Debian or Ubuntu derivatives, ::
 
 In **Sugar** you don't need restart Help to see the changes after running ``make html``, you just click with the secondary mouse button, and select reload.
 
-In any other Linux environment the output of ``make html`` is in ``~/mainline/html``, and is displayed by opening ``~/mainline/html/index.html`` in a browser.
+In any other, non-Sugar, Linux environment the command ``git clone gitorious@git.sugarlabs.org:help/mainline.git`` works to download the sources, ``./setup.py dev`` should be omitted, and the output of ``make html`` is in ``~/mainline/html``, and is displayed by opening ``~/mainline/html/index.html`` in a browser.
 
 What if I break Help?
 :::::::::::::::::::::
 
 In Sugar you cannot break Help. If you start to follow these instructions and get lost or make a mistake, and Help will not display correctly, you should not worry.
 
-You should simply visit `ASLO <http://activities.sugarlabs.org>`_ with Browse. Search for Help, and download and install a new copy of XO Help.
+First back up any files.rst you have already made, then visit `ASLO <http://activities.sugarlabs.org>`_ with Browse. Search for Help, and download and install a new copy of XO Help.
 
 Alternatively, experienced users might make a backup .xo before starting to work by doing: ::
 
@@ -123,7 +123,9 @@ The key page in navigating Help is the Index or contents page. In the ``~/mainli
 
 **Output**
 
-The pages displayed in Help are the *output* of the command ``make html``. The files are all in the folder ``~/mainline/html/``.
+The pages displayed in Help are the output of the command ``make html``. The files are in the folder ``~/mainline/html/``.
+
+Also part of the output of the command ``make html`` are the files in ``~/mainline/doctrees/``. The role of the ``all_files.doctree`` is to interlink all the HTML pages within the rules of the underlying software.
 
 Depending on the setup of your installation there may be a number of other folders present in the ``~/mainline/html/`` folder (for instance ``_sources``, ``_static``, and ``_images``). These are also *output files*, they could be regarded as hidden folders, and should not be edited.
 
@@ -131,6 +133,7 @@ Make changes
 ------------
 
 You can just write a page in simple text, perhaps with some explanatory pictures or screen-shots. Screen-shots are made in Sugar from the keyboard, by pressing the "Alt" key and 1.
+
 The page :doc:`/restructuredtext` gives some guidance on the features of the markup language we use. Do not be concerned with complex features, plain, simply written text will be of most use to new learners.
 
 You will have your own ideas about what you would like to change and contribute. When you explain anything, which you have struggled to learn, it is likely to be of use to others. Seeing your work published gives quite a buzz!
@@ -209,7 +212,7 @@ Above, we have changed directory into mainline, changed directory into source, a
 Tutorial 3 - Adding an image
 ::::::::::::::::::::::::::::
 
-1. Open your existing page in any text editor, or create and "Title" a new page, and add it to the index.
+1. Open your existing page in any text editor, or create and "Title" a new page, and add it to the bottom of the index.
 
 2. An image which is already in ``~/mainline/images/`` can be included by typing this on to your page.
 
@@ -338,26 +341,6 @@ and
 ::
 
  man patch
-
-
-Reconfigure Help to show View source
-------------------------------------
-
-In Sugar as we already have a :ref:`View source` button in the frame.
-
-If you are working with this software in a browser, you can add a *View source* button, which will appear in the navigation panel on the left. You need to alter three lines in ``~/mainline/source/conf.py``. Each of the entries listed below comprise a comment line, starting with a"#" followed by the code line. Find each pair of lines in ``conf.py`` and change the value in the code line like this. ::
-
-
- # Custom sidebar templates, maps document names to template names. ## Edit: Sugar default is without 'sourcelink.html'
- html_sidebars = {'**':['localtoc.html', 'sourcelink.html']}
-
- # If true, links to the reST sources are added to the pages. ##Edit: Sugar default is False
- html_show_sourcelink = True
-
- # Do not copy .rst files ##Edit: Sugar default is False
- html_copy_source = True
-
-A disadvantage of doing this is that extra folders are created, that might be confusing at first, and the duplication of files can make it difficult to correct certain mistakes. The command ``make html`` also takes longer to run. It is recommend not to make these changes before you are confident navigating the source and HTML folders.
 
 .. _Further reading:
 
