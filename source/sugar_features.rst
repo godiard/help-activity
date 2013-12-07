@@ -42,7 +42,7 @@ Say selected text
 
 .. image :: ../images/HelpSpeech1.png
 
-You can have Speak, or robot Alice, read aloud, selected text. Here we demonstrate Alice reading text framed by :doc:`/help`. In Help, for instance, you can select a whole page of text, and have it read aloud to you while you explore that Activity.
+You can have :doc:`/speak`, or robot Alice, read aloud, selected text. Here we demonstrate Alice reading text framed by :doc:`/help`. In Help, for instance, you can select a whole page of text, and have it read aloud to you while you explore that Activity.
 
 Try it now, Select the text in this frame.
 
@@ -53,23 +53,6 @@ Bring in the :doc:`/frame` with the "Frame key" or F6. Press on the "Speech lips
 .. image :: ../images/HelpSpeech2.png
 
 The *Say selected text* feature is available in many text based Activities including :doc:`/browse`, :doc:`/fototoon`, :doc:`/write`. Look out for the "Speech lips" icon in the bottom of the Frame, or as a button in the toolbar of an Activity, as in :doc:`/write`.
-
-*End of topic - spacer below.*
-
-.. image :: ../images/spacer600.png
-
-.. _journal_qa:
-
-Quick access to the journal
----------------------------
-
-|journal| This icon on the Activity toolbar (or Activity tab) allows quick access to the :doc:`/journal` to add a description, or further notes to yourself about what you are going to do, or have done in that session of the Activity.
-
-.. |journal| image:: ../images/journal_qa.png
-
-*End of topic - spacer below.*
-
-.. image :: ../images/spacer600.png
 
 .. Note::
 
