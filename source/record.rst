@@ -40,7 +40,7 @@ Record features in detail
 
 **Toolbar and capture buttons explained**
 
-1. Activity tab, here you can enter a name for the page or project, the "pencil and book" icon allows :ref:`journal_qa` to provide a description, and select Private, or My Neighbourhood, see :ref:`Sharing Media`.
+1. Activity tab. In the first field name the page or project. The Description button allows you to add a description to the :doc:`/journal` entry. Thirdly select Private, or My Neighbourhood, see :ref:`Sharing Media`.
 
 2. Picture camera mode is selected.
 

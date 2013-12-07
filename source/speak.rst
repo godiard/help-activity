@@ -6,7 +6,7 @@ Speak
 
 **The toolbar buttons explained**
 
-1. Activity tab, here you can enter a name for the page or project, the "pencil and book" icon allows :ref:`journal_qa` to provide a description, and select Private, or My Neighborhood mode.
+1. Activity tab. In the first field name the session. The book and pencil icon, the Description button allows you to add a description to the :doc:`/journal` entry. Thirdly select Private, or My Neighbourhood mode.
 2. Type something to hear robot Alice read it aloud.
 3. Ask robot Alice any question.
 4. Voice chat.
@@ -33,6 +33,8 @@ Page suggested improvements
 ---------------------------
 ... add the ideas.
 
+Expand voice chat.
+
 Where Speak is good
 
 	Early reading - early writing - with FotoToon
@@ -40,8 +42,6 @@ Where Speak is good
 	Reading aloud Help pages
 
 	Learn a language
-
-	Expand voice chat.
 
 .. Note::
 
