@@ -7,7 +7,7 @@ About
 
 The Write Activity serves as the document creation Activity in Sugar. Its simple interface provides an easy starting point for children, presenting tools that make writing a story, poem, or essay simple and straightforward. It also supports tools for inserting images, creating tables, and performing layout operations.
 
-Write utilizes the :doc:`/journal`, your work is automatically saved, and :ref:`Collaboration`  in the form of peer editing, group storytelling, etc.
+Write utilizes the :doc:`/journal`, your work is automatically saved, and :ref:`Collaboration` in the form of peer editing, group storytelling, etc.
 
 The Write Activity can be used to open and edit most common file formats, including ODT, DOC, RTF, TXT, and HTML.
 
@@ -29,13 +29,13 @@ The Toolbars
 
 We look first at the nine buttons in the top row of the toolbar. The buttons open the corresponding tab or toolbar.
 
-1. Activity tab, or button, here you can enter a name for the page or project, access the Journal, and chose private or sharing in My Neighborhood.
+1. Activity tab, or button, here you can enter a name for the page or project. The Description button allows you to add a description to the :doc:`/journal` entry. Thirdly select Private, or My Neighbourhood.
 2. The Edit button: Allows to Copy, Paste, Undo, Redo, and search inside your document.
 3. The View button: Allows you to zoom in and out of the document and to navigate through the pages quickly.
 4. The Speak button. You can have Speak, robot Alice, read your work aloud.
 5. The Fonts button: Allows you to change the font, size, empphasis, colour and justify.
 6. The Paragraph button : Allows you to set heading and list styles.
-7. The Insert table button : Allows you to insert and adjust a  table.
+7. The Insert table button : Allows you to insert and adjust a table.
 8. The Insert Image button : Allows you to insert images.
 9. Stop or clpose the Activity.
 
@@ -48,7 +48,7 @@ Activity button (1)
 .. image :: ../images/Write1act.png
 
 1. Allows you to name your file. Click the cursor in the field, the existing text is selected, and a new file name can be entered.
-2. The "pencil and book" icon allows :ref:`journal_qa` to provide a description.
+2. The "pencil and book" icon, the Description button allows you to add a description to the :doc:`/journal` entry.
 3. This button is the collaboration, or sharing "switch". The options are
 
   |Home_key_f3_small.png| Private, this is the non-sharing option, with no networking.
@@ -90,7 +90,6 @@ View button (3)
 4. Set Zoom
 5. Quick page navigation
 
-
 Speak button (4)
 ::::::::::::::::
 
@@ -112,8 +111,6 @@ Fonts button (5)
 5. Underline
 6. Choose a color
 7. Justify your text to left, centre, right, or fill justify.
-
-
 
 Paragraph button (6)
 ::::::::::::::::::::
@@ -183,7 +180,7 @@ Note to parents and teachers
 Group Storytelling
 ------------------
 
-The Dadaists, a cultural movement that began in Europe towards the end of  World War I (1916) invented a number of art-construction techniques, including collage and photo montage. Many of their works were collaborative, including exquisite corpse, a method by which a collection of words or images was collectively assembled. Each collaborator adds to a composition in turn, either by following a rule or by being allowed to see the end of what the previous person contributed.
+The Dadaists, a cultural movement that began in Europe towards the end of World War I (1916) invented a number of art-construction techniques, including collage and photo montage. Many of their works were collaborative, including exquisite corpse, a method by which a collection of words or images was collectively assembled. Each collaborator adds to a composition in turn, either by following a rule or by being allowed to see the end of what the previous person contributed.
 
 A shared instance of Write can be used in a similar way to create a collaborative story, poem, rhyme, or group stream of consciousness.
 
@@ -219,9 +216,9 @@ Writing is one of the most powerful means of personal expression ever invented. 
 
 It is important that the world hear your voice and you can make you voice heard, whether through a blog, a letter to the editor, a comment on a page in the Wikipedia, or by some other means. Write gives the power of expression as well as the means to share your expression with others.
 
-If you want to write a letter to the editor, you first need to look in the newspaper or on the paper's web site to find their e-mail address for letters. Some newspapers have a policy of publishing all appropriate letters sent to the editor, but most are more selective.  All require you to include your complete name, address, and a contact telephone number. You can, however, request that your letter be published with "name withheld" if you want. Most editors call you to verify that you really did write the letter before printing it.  They also reserve the right to edit your letter to fit the available space on the page.
+If you want to write a letter to the editor, you first need to look in the newspaper or on the paper's web site to find their e-mail address for letters. Some newspapers have a policy of publishing all appropriate letters sent to the editor, but most are more selective. All require you to include your complete name, address, and a contact telephone number. You can, however, request that your letter be published with "name withheld" if you want. Most editors call you to verify that you really did write the letter before printing it. They also reserve the right to edit your letter to fit the available space on the page.
 
-If you keep your letter short and to the point, you have a better chance of experiencing the thrill of seeing your own words in print.  Good luck! 
+If you keep your letter short and to the point, you have a better chance of experiencing the thrill of seeing your own words in print. Good luck!
 
 Examples 
 ::::::::

@@ -26,7 +26,7 @@ We see, working clockwise from top left:
 
 .. image :: ../images/HelpComp.png
 
-1. Activity tab, here you can enter a name for the page or project, the "pencil and book" icon allows :ref:`journal_qa` to provide a description.
+1. Activity tab, here you can enter a name for the page or project. The "pencil and book" icon the Description button allows you to add a description to the :doc:`/journal` entry.
 
   The :doc:`/collaborating`, or sharing, icon is grayed out and not available.
 
@@ -51,7 +51,7 @@ We see, working clockwise from top left:
 Help read aloud
 ---------------
 
-In help and text based Activities you can have the robot Alice read the page aloud in the background, while you explore the Activity. See :ref:`say_selected_text`
+In Help, and other text based Activities, you can have robot Alice (the page :doc:`/speak` introduces Alice) read the page aloud in the background, while you explore the Activity. See :ref:`say_selected_text`
 
 |more| The underlying software used to display Help, and for the user to edit within Help, is Sphinx. To explore the possibilities of documentation made using this software, please follow the link to *Sphinx* in the footnote below.
 

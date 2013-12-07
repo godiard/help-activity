@@ -36,7 +36,7 @@ The Activity tab
 
 .. image :: ../images/Paint1ActTab.png
 
-Activity tab, here you can enter a name for the page or project, the "pencil and book" icon allows :ref:`journal_qa` to provide a description. Try to get in the habit of re-naming the project before you start work.  Move the cursor over the existing title, click the left mouse button, and start typing a name for the project. Your new name will overwrite the original.
+Activity tab. In the first field name the page or project. The Description button, the "pencil and book" icon, allows you to add a description to the :doc:`/journal` entry. Try to get in the habit of re-naming the project before you start work. Move the cursor over the existing title, click the left mouse button, and start typing a name for the project. Your new name will overwrite the original.
 
 The collaboration button is grayed out, see :ref:`Share`.
 
@@ -106,7 +106,7 @@ Shapes Properties
 
 The color of Shapes *Fill* is set here, while the color of the *border* is set in Brush properties. If the *Fill* box is unchecked, only an outline, or border, is displayed.
 
-Under the *Fill* checkbox, set aspect ratio, and  the number of sides of stars and polygons.
+Under the *Fill* checkbox, set aspect ratio, and the number of sides of stars and polygons.
 
 TextTab
 -------

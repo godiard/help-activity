@@ -14,7 +14,7 @@ Memorize comes with two modes, *Play*, and *Edit game*. In *Edit game* you can m
 
 In *Play* mode the Activity has three sets of tiles for demo games, *Numbers, Letters* and *Sounds*. Memorize supports :ref:`Sharing` so you can play the game with others.
 
-The image below shows the Letters demo being selected, and play in progress. Notice that the unturned tiles, are in two sets, tiles are numbered with a 1 in the  top part of the gameboard, and with a 2 in the lower half. This is called a *Grouped tile game*.
+The image below shows the Letters demo being selected, and play in progress. Notice that the unturned tiles, are in two sets, tiles are numbered with a 1 in the top part of the gameboard, and with a 2 in the lower half. This is called a *Grouped tile game*.
 
  (In the Sounds demo, there is an example of an *Ungrouped game*, that is, the tiles are randomly spread over the gameboard.)
 
@@ -28,7 +28,7 @@ When you play a *Grouped tile game*, the prompt will be in the top half of the g
 
 .. image :: ../images/Memorize1-tb_Play.png
 
-1. Activity tab, name the game, access the Journal, to provide a description, and select Private, or My Neighbourhood, see :ref:`Sharing`.
+1. Activity tab. In the first field name the game. The Description button allows you to add a description to the :doc:`/journal` entry. Thirdly select Private, or My Neighbourhood, see :ref:`Sharing`.
 2. Load demo game - Select preloaded demo games from list.
 3. Select the Grid Size, 4x4, 5x5, or 6x6.
 4. Restart Game.
@@ -127,7 +127,7 @@ Before beginning, save eight color fills using the Paint activity. In Paint, use
 2. Press the Activity tab.
 3. Type in a name for this game.
 4. Click the *Edit game* button.
-5. Press  *Match identical tiles*.
+5. Press *Match identical tiles*.
 6. Press to choose either a *Grouped tiles game,* or an *Ungrouped game.*
 7. Insert Pictures and Text like this:
 
@@ -191,7 +191,7 @@ Now in Memorize.
 5. Click on *Ungrouped game.*
 6. Click on *Match different tiles*.
 7. Use *Insert sound* to add your first recording to the first tile. In the second tile enter the word to match your sound file.
-8. Proceed adding sounds on the first tile, with matching  words on the second tile.
+8. Proceed adding sounds on the first tile, with matching words on the second tile.
 
 Repeat steps until all pairs are added.
 
