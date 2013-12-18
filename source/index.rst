@@ -13,7 +13,6 @@ Using Sugar
 .. toctree::
     :maxdepth: 1
 
-    intro17.rst
     sugar_ui.rst
     home_view.rst
     neighborhood_view.rst
