@@ -28,8 +28,21 @@ from sugar3.activity.widgets import StopButton
 
 from viewtoolbar import ViewToolbar
 
-HOME = 'file://' + os.path.join(activity.get_bundle_path(),
-                                'html/index.html')
+
+def get_current_language():
+    locale = os.environ.get('LANG')
+    return locale.split('.')[0].split('_')[0].lower()
+
+
+def get_index_uri():
+    index_path = os.path.join(
+        activity.get_bundle_path(),
+        'html/%s/index.html' % get_current_language())
+
+    if not os.path.isfile(index_path):
+        index_path = os.path.join(
+            activity.get_bundle_path(), 'html/index.html')
+    return 'file://' + index_path
 
 
 class HelpActivity(activity.Activity):
@@ -103,7 +116,7 @@ class HelpActivity(activity.Activity):
 
         self.set_canvas(_scrolled_window)
         self._web_view.show()
-        self._web_view.load_uri(HOME)
+        self._web_view.load_uri(get_index_uri())
 
     def get_document_path(self, async_cb, async_err_cb):
         html_uri = self._web_view.get_uri()
@@ -161,4 +174,4 @@ class Toolbar(Gtk.Toolbar):
         self._web_view.go_forward()
 
     def _go_home_cb(self, button):
-        self._web_view.load_uri(HOME)
+        self._web_view.load_uri(get_index_uri())
