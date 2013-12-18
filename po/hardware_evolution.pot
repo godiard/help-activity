@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Sugar 0.94\n"
+"Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-02 18:05\n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -158,8 +158,8 @@ msgstr ""
 msgid "1 or 2 GB"
 msgstr ""
 
-#: ../source/hardware_evolution.rst:36
-# bc80a4f2c4b5475f9ba050ea59cf0d77
-msgid "TODO: Add xo-4 Boot Time"
+#: ../source/hardware_evolution.rst:33
+# b661d5c90fee41b08acfa9e4259612b9
+msgid "38 s"
 msgstr ""
 

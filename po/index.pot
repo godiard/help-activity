@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Sugar 0.94\n"
+"Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-02 18:05\n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,37 +26,47 @@ msgstr ""
 msgid "Contents:"
 msgstr ""
 
-#: ../source/index.rst:12
-# 7566a8e461a14682a5a6b92cbc316737
-msgid "Introduction"
+#: ../source/index.rst:11
+# 899fb03ebc7c4e849deea61d35a63984
+msgid "Using Sugar"
 msgstr ""
 
-#: ../source/index.rst:23
-# d05855c2419a4be99b7753f96a85148b
-msgid "Hardware"
+#: ../source/index.rst:27
+# 8ff641e74b7f4cf49e24dbf81f00c7a9
+msgid "Using Activities"
 msgstr ""
 
 #: ../source/index.rst:38
-# 06fcd75905a643d8be6c69654893e5e1
-msgid "Software"
-msgstr ""
-
-#: ../source/index.rst:53
 # 8ff641e74b7f4cf49e24dbf81f00c7a9
 msgid "Activities"
 msgstr ""
 
-#: ../source/index.rst:79
+#: ../source/index.rst:62
 # 37af2853aa1e4d76adb1ddbf80742986
 msgid "Network"
 msgstr ""
 
-#: ../source/index.rst:88
+#: ../source/index.rst:71
+# 92e3533c23fc4b43a6c3bd955ce0da88
+msgid "The XO hardware"
+msgstr ""
+
+#: ../source/index.rst:86
+# 8ddb852eb272410295e7079a1259bbc5
+msgid "About this manual"
+msgstr ""
+
+#: ../source/index.rst:97
+# 0a26503754214a608c0e4c6ad3dc6fa7
+msgid "Contribute to this manual"
+msgstr ""
+
+#: ../source/index.rst:105
 # 402fe65b2e594d04bad70a9a22de4c19
 msgid "Support"
 msgstr ""
 
-#: ../source/index.rst:96
+#: ../source/index.rst:113
 # ef900d0c1d5a471bb46211ca71e97416
 msgid "Appendices"
 msgstr ""

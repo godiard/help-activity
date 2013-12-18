@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Sugar 0.94\n"
+"Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-02 18:05\n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,7 +33,7 @@ msgstr ""
 
 #: ../source/frame.rst:10
 # 77a0ea65f52d49a7b5be4a27f218ff09
-msgid "You can access the frame from any view in 3 ways:"
+msgid "You can access the frame from any view in 2 ways:"
 msgstr ""
 
 #: ../source/frame.rst:12
@@ -47,8 +47,8 @@ msgid "By moving the cursor to the edges or corners of your screen. (There are s
 msgstr ""
 
 #: ../source/frame.rst:15
-# f0731ffb2e3f4ff2820033aae0e1f8f3
-msgid "TODO: 3 ways? there are 2 here"
+# ea7ded9788ee475c9b1c267822452f56
+msgid "In the XO-4, with touch screen, is possible show the frame sliding a finger, from the top of the screen, a few centimeters. The same gesture will hide the frame too."
 msgstr ""
 
 #: ../source/frame.rst:18

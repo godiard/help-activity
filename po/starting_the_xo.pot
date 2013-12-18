@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Sugar 0.94\n"
+"Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-02 18:05\n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,11 +78,6 @@ msgstr ""
 msgid "When you are ready to stop using your XO for a while, you can put it to sleep by pushing the power key you used to turn it on. The screen that appears when you push the power button shows the two reasons for sleeping; when you haven't been using it for a while, or when you push the power button."
 msgstr ""
 
-#: ../source/starting_the_xo.rst:42
-# 87949c7ed19a40549512c80a58d54e18
-msgid "TODO: < we need a screen shot of the go to sleep image >"
-msgstr ""
-
 #: ../source/starting_the_xo.rst:45
 # 1da69bf8752c4fe98539c294e63bf58b
 msgid "Shutting down the XO"
@@ -90,12 +85,7 @@ msgstr ""
 
 #: ../source/starting_the_xo.rst:47
 # 6a95d46c8cf04547afad3cecb3cbd385
-msgid "When you have finished using the computer, push the power key twice within in 5 seconds. The first push will display the sleep window. The second push will display the large stop sign."
-msgstr ""
-
-#: ../source/starting_the_xo.rst:49
-# 24289850adc74d879391a0ec9d2f8ad1
-msgid "TODO: < we need a screen shot of the stop sign image >"
+msgid "When you have finished using the computer, click over the XO icon in the middle of the Home screen, and select the option Shutdown."
 msgstr ""
 
 #: ../source/starting_the_xo.rst:52

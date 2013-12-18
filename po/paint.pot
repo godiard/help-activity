@@ -6,9 +6,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Sugar 0.94\n"
+"Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-10-02 18:05\n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,402 +36,482 @@ msgstr ""
 msgid "Using"
 msgstr ""
 
-#: ../source/paint.rst:14
-# 467671a5588a474eb3b2be1534ee6fbf
-msgid "Starting"
+#: ../source/paint.rst:13
+# dc99943492b34f428d9f571e02440f87
+msgid "You can start a new project by selecting *Start new* from the :doc:`/home_view` or open an existing Paint project in the :doc:`/journal`. By default, when you click on Paint in Home View, you will resume your last project."
 msgstr ""
 
 #: ../source/paint.rst:16
-# 22c8f47c36634d9492a16812f38bf149
-msgid "You can start a new project or open an existing Paint project in the Journal. You can also edit other images, in the Journal use the 'Start with' menu item for images made with Record etc."
+# 8b626222b34f4952a0ad52821c5adcbe
+msgid "Paint main tool bar"
 msgstr ""
 
-#: ../source/paint.rst:19
-# 8b626222b34f4952a0ad52821c5adcbe
-msgid "Primary tool bar"
+#: ../source/paint.rst:20
+# f98df53edbbb43bda66e247c51709e11
+msgid "The tool bar top row contains buttons to open each of the following tabs."
+msgstr ""
+
+#: ../source/paint.rst:22
+# e1ac7af87e1b414a99b916a80770d5ec
+msgid "Activity tab. The Activity tab is open, and the project has been given a name."
 msgstr ""
 
 #: ../source/paint.rst:23
-# 842e4f591f234bf7b1b682cd947355d1
-msgid "secondary toolbar - display or change the name of the image that is saved in the Journal"
+# 9b0d4981f5d0423da4d1596edbb93236
+msgid "Edit tab."
+msgstr ""
+
+#: ../source/paint.rst:24
+# 25eb7a6520924265bb0cc7fba6be7537
+msgid "Brush properties."
 msgstr ""
 
 #: ../source/paint.rst:25
-# d6b15de1c41041c8b4abff76c85eb2ed
-msgid "secondary toolbar - edit"
+# 7a46c3ecb1564eee9e53339c0853226c
+msgid "Brush."
+msgstr ""
+
+#: ../source/paint.rst:26
+# baca6289a3214d55a205295f4b238a64
+msgid "Shapes."
 msgstr ""
 
 #: ../source/paint.rst:27
-# 25eb7a6520924265bb0cc7fba6be7537
-msgid "tool properties"
+# caabafbb54e94c3580b021e7966e4241
+msgid "Shapes properties."
+msgstr ""
+
+#: ../source/paint.rst:28
+# 8495c3a28234441d8aba378fe67901e9
+msgid "Text tab."
 msgstr ""
 
 #: ../source/paint.rst:29
-# 7a46c3ecb1564eee9e53339c0853226c
-msgid "brush tool"
+# 71322b761c544fbb86c4860b45d09017
+msgid "Images Tab."
 msgstr ""
 
-#: ../source/paint.rst:31
-# 0745f37bdcc545c3abbc0868f30d49bb
-msgid "erase tool"
+#: ../source/paint.rst:30
+# 8f82713f15964be19187397e2693b3f1
+msgid "Stop, or close Activity."
 msgstr ""
 
-#: ../source/paint.rst:33
-# 0608a911885245edbcec013c0fbd178e
-msgid "flood-fill tool - fills an enclosed area with the color selected in tool properties (if the shape you try to fill has gaps then the whole screen may fill)"
+#: ../source/paint.rst:32
+# 457804227f22418791570659623a770c
+msgid "Explanation of tabs or tool bars in more detail."
 msgstr ""
 
 #: ../source/paint.rst:35
-# 94f995614c394cf48b35c8fcc263b01a
-msgid "color-picker tool - click on the screen to set the drawing color"
-msgstr ""
-
-#: ../source/paint.rst:37
-# d1dc1cd43d0b4324b5693ccfbe1219fc
-msgid "stamp tool - select an area with the select tool, then copy it with the stamp tool"
+# 5f9da68bc8c84519985e82b8af55331d
+msgid "The Activity tab"
 msgstr ""
 
 #: ../source/paint.rst:39
-# 451ccba25fd34352ab977f94761aa451
-msgid "select tool - drag to select a rectangular area of the screen, drag again to move the selection. Also use with the edit toolbar (copy, paste, clear), with the stamp tool or with the image toolbar (rotate, mirror, scale, invert colors)"
+# 0c82af2db42c48949339d050d52ca033
+msgid "Activity tab. In the first field name the page or project. The Description button, the \"pencil and book\" icon, allows you to add a description to the :doc:`/journal` entry. Try to get in the habit of re-naming the project before you start work. Move the cursor over the existing title, click the left mouse button, and start typing a name for the project. Your new name will overwrite the original."
 msgstr ""
 
 #: ../source/paint.rst:41
-# 1b618242ca5e4f95bdfcd41296d2f75d
-msgid "secondary toolbar - shapes"
+# b87e8f52260f4d4a8592d646701732a6
+msgid "The collaboration button is grayed out, see :ref:`Share`."
 msgstr ""
 
-#: ../source/paint.rst:43
-# 34a6ab4ccb224b2e9fff65ecf0c62893
-msgid "secondary toolbar - insert text, set bold, italic, size, and font"
+#: ../source/paint.rst:44
+# fe17672f048b47ec8c5bdbcac380288d
+msgid "Edit tab"
 msgstr ""
 
-#: ../source/paint.rst:45
-# 4f6ab953777b4729b3ceaf384ff6ab36
-msgid "secondary toolbar - image"
-msgstr ""
-
-#: ../source/paint.rst:47
-# 8f82713f15964be19187397e2693b3f1
-msgid "stop - quits the Activity"
+#: ../source/paint.rst:48
+# 1684f7298f5f4521bc0557562c6b2d16
+msgid "Undo button."
 msgstr ""
 
 #: ../source/paint.rst:50
-# abbb775473c843449de4cf057082c764
-msgid "Secondary tool bar - Edit"
+# 1d1843c8b6264599a09c6ac725dd6571
+msgid "Redo button."
+msgstr ""
+
+#: ../source/paint.rst:52
+# 6a33778fb50f4c49bf8392a753d8c657
+msgid "Copy button. This will copy the area selected with the *Select Area* tool to the clipboard. The *Select Area* tool is the bottom item of the Brush tool bar."
 msgstr ""
 
 #: ../source/paint.rst:54
-# 1f81126709ce40718e88189ccbb49854
-msgid "undo"
+# e861ca192c2b4111966f4ec2bc8116ab
+msgid "Use the *Select Area* tool to crop images, select the area you want, and use the *Copy button* to copy the clipping to the Clipboard. The Clipboard feature is within the Frame in the lower left corner of the screen."
 msgstr ""
 
 #: ../source/paint.rst:56
-# c74e67af4e5b48f191210ffa5018ad54
-msgid "redo"
+# e861ca192c2b4111966f4ec2bc8116ab
+msgid "To save from the Clipboard, click on the clipping on the Frame, and then select 'Keep' on the menu, which appears. The original image is unchanged and a new *Image clipping* item is saved in the Journal."
 msgstr ""
 
 #: ../source/paint.rst:58
-# e861ca192c2b4111966f4ec2bc8116ab
-msgid "copy area selected with the select tool to the clipboard (use this to crop images, select the area you want, copy to the clipboard and then select 'Keep' on the clip item on the left border of the screen. The original image is unchanged and a new 'Image clipping' item is saved in the Journal)"
+# 79ad6f7ba9b84d61bf60a99061ce41dc
+msgid "To retieve from the Clipboard use the Paste button:"
 msgstr ""
 
 #: ../source/paint.rst:60
-# 04996624eabb415fb8383978167cbc9a
-msgid "paste from clipboard (the image is pasted in the top left, use the select tool to drag to the desired place)"
+# 9072d407eb5d49dbb5d658869c1034ca
+msgid "Paste button. The copied image, which you pick up as an *Image clipping* from the Frame, is pasted in the top left of the work space, and it is already selected, that is under the control of the *Select Area* tool, with which you drag the clipping to the desired place."
 msgstr ""
 
 #: ../source/paint.rst:62
-# fa8e64cd29f04414ac65ecaae3f16b36
-msgid "clear the selected area"
+# 4c96f138f8e74d4799b100b1b324fa35
+msgid "Clear the work space, or clear the selected area if there is an area selected."
 msgstr ""
 
 #: ../source/paint.rst:65
-# caabafbb54e94c3580b021e7966e4241
-msgid "Tool properties"
-msgstr ""
-
-#: ../source/paint.rst:66
-# 74170d68671b4f0493c7987ee06bf09b
-msgid "Changes the properties of the brush tool or the stamp tool"
+# 25eb7a6520924265bb0cc7fba6be7537
+msgid "Brush properties"
 msgstr ""
 
 #: ../source/paint.rst:69
 # 3d5dbe8bd01142e09d78797a83228cd0
-msgid "When the brush tool is selected, changes the color, size and shape of the brush tool. Also affects the shape and text tools."
+msgid "Changes the color, and other properties of the Brush tools, Brush, Bucket, and Stamp."
+msgstr ""
+
+#: ../source/paint.rst:71
+# 3d5dbe8bd01142e09d78797a83228cd0
+msgid "When the stamp tool is selected, Brush properties changes to Stamp properties and it controls the size of the stamp."
 msgstr ""
 
 #: ../source/paint.rst:74
-# 8cc198a5c99f45ff905ac730dd253147
-msgid "When the stamp tool is selected, changes the size of the stamp"
+# 7a46c3ecb1564eee9e53339c0853226c
+msgid "Brush"
+msgstr ""
+
+#: ../source/paint.rst:78
+# 584c62aae68e47a0acf6ee5244ab4af5
+msgid "Brush. Spreads color as you move the cursor over the work space."
 msgstr ""
 
 #: ../source/paint.rst:79
-# d77ef349455e422c98148d0c4ff4399e
-msgid "Secondary tool bar - Shapes"
+# 8c7034f026d94e858e18f4c1f7e75175
+msgid "Eraser. Removes color."
+msgstr ""
+
+#: ../source/paint.rst:80
+# 4ddba3e3d7724a9da760d59a17c023bd
+msgid "Bucket. This will flood, or fill, an enclosed area with color."
+msgstr ""
+
+#: ../source/paint.rst:81
+# 11d6bc8e931943ac9a970f6cc0e98d1f
+msgid "Picker. Use this tool to pick up a certain color from the image on the work space. This colour is then used by Brush, Bucket, or Stamp."
+msgstr ""
+
+#: ../source/paint.rst:82
+# 842e4f591f234bf7b1b682cd947355d1
+msgid "Stamp. Stamp will repeat a part of the image selected in Select Area."
 msgstr ""
 
 #: ../source/paint.rst:83
-# 69cea09922cd4a56a73e53226d58aeb9
-msgid "Shapes properties - set the fill color, aspect ratio, the number of sides of stars and polygons (the border is set in brush properties)"
+# 3e830c438f834a178a4902dd46e3dbf8
+msgid "Select Area. A rectangular area is selected by placing the curson at top left of desired area, click left mouse button, draw cursor to bottom right, and release the mouse button."
 msgstr ""
 
-#: ../source/paint.rst:85
+#: ../source/paint.rst:86
+# baca6289a3214d55a205295f4b238a64
+msgid "Shapes"
+msgstr ""
+
+#: ../source/paint.rst:90
 # 71fc993967ec498495dc53f9de767422
-msgid "Ellipse (hold down shift for circle)"
-msgstr ""
-
-#: ../source/paint.rst:87
-# 1372aed0f045436aba3e48e83f750ebd
-msgid "Rectangle (hold down shift for squares)"
-msgstr ""
-
-#: ../source/paint.rst:89
-# 338b0c60020349cba1b1a6f05301819e
-msgid "Line"
+msgid "Elipse (hold down shift for circle)."
 msgstr ""
 
 #: ../source/paint.rst:91
-# 491eecad0d3d48b8b6dbf3fc5fb4e448
-msgid "Free form"
+# 1372aed0f045436aba3e48e83f750ebd
+msgid "Rectangle (hold down shift for squares)."
+msgstr ""
+
+#: ../source/paint.rst:92
+# 338b0c60020349cba1b1a6f05301819e
+msgid "Line."
 msgstr ""
 
 #: ../source/paint.rst:93
+# 491eecad0d3d48b8b6dbf3fc5fb4e448
+msgid "Free form."
+msgstr ""
+
+#: ../source/paint.rst:94
 # 8bc1af9335f04f9baa893ed181e44f35
-msgid "Polygon (number of sides set in Shapes properties)"
+msgid "Polygon (number of sides set in Shapes properties)."
 msgstr ""
 
 #: ../source/paint.rst:95
 # 9e1a6c763fea490b90b5dd93c16be1e6
-msgid "Heart"
+msgid "Heart."
+msgstr ""
+
+#: ../source/paint.rst:96
+# fe39577d209f47aca97ebed126caeb76
+msgid "Parallelogram."
 msgstr ""
 
 #: ../source/paint.rst:97
-# fe39577d209f47aca97ebed126caeb76
-msgid "Parallelogram"
+# 6b49f31f79564891b48a79ff068cc845
+msgid "Arrow."
+msgstr ""
+
+#: ../source/paint.rst:98
+# 9da78a94ba354db2b7da6a73fd69e22f
+msgid "Star (number of points is set in Shapes properties)."
 msgstr ""
 
 #: ../source/paint.rst:99
-# 6b49f31f79564891b48a79ff068cc845
-msgid "Arrow"
+# 5db16ed9d39c4ca191341f8e2a3cd6bc
+msgid "Trapezoid."
 msgstr ""
 
-#: ../source/paint.rst:101
-# 9da78a94ba354db2b7da6a73fd69e22f
-msgid "Star (number of points set in Shapes properties)"
+#: ../source/paint.rst:100
+# 86390a1bdfe040faaf0b460213e861d6
+msgid "Triangle."
 msgstr ""
 
 #: ../source/paint.rst:103
-# 5db16ed9d39c4ca191341f8e2a3cd6bc
-msgid "Trapezoid"
+# caabafbb54e94c3580b021e7966e4241
+msgid "Shapes Properties"
 msgstr ""
 
-#: ../source/paint.rst:105
-# 86390a1bdfe040faaf0b460213e861d6
-msgid "Triangle"
+#: ../source/paint.rst:107
+# 63f65ef15c5743b1b3668440d7578782
+msgid "The color of Shapes *Fill* is set here, while the color of the *border* is set in Brush properties. If the *Fill* box is unchecked, only an outline, or border, is displayed."
 msgstr ""
 
-#: ../source/paint.rst:108
-# 1761c9e64093486b81e21a736a7c1319
-msgid "Secondary tool bar - Images"
+#: ../source/paint.rst:109
+# 69cea09922cd4a56a73e53226d58aeb9
+msgid "Under the *Fill* checkbox, set aspect ratio, and the number of sides of stars and polygons."
 msgstr ""
 
 #: ../source/paint.rst:112
-# 27c5c88cec9444c2a4be30e5dc32d60c
-msgid "Insert image from Journal"
-msgstr ""
-
-#: ../source/paint.rst:114
-# f8e9e32c6e2441bbbf8d81015c947778
-msgid "Rotate selected area left"
+# ba3e20ad394041d39f55dfd9aef6d613
+msgid "TextTab"
 msgstr ""
 
 #: ../source/paint.rst:116
-# cb7ecc67a52444209dbf4262e208d8a3
-msgid "Rotate selected area right"
+# a2c06da8fa0d4a2eaab4efde1c81e226
+msgid "Type. To insert text, press *Type*, move the cursor to the point you want to start typing, click, and insert text with the keyboard. The colour used is set in Brush properties."
+msgstr ""
+
+#: ../source/paint.rst:117
+# b3271b990991483bbd4d7c15103336e5
+msgid "Bold switch."
 msgstr ""
 
 #: ../source/paint.rst:118
-# 75959b782ca34fdebb2279e85e0f0b6d
-msgid "Horizontal mirror selected area"
+# 3eb1fa834ebc46b191b3c060ee2b0aeb
+msgid "Italic switch."
+msgstr ""
+
+#: ../source/paint.rst:119
+# d75e584d3c6f4764b820e1cd87810c6a
+msgid "Increase or decrease font size."
 msgstr ""
 
 #: ../source/paint.rst:120
-# 66380ff1df7640e5a0d3cec0b9b17056
-msgid "Vertical mirror selected area"
+# e5a2646cde2d4ffe97597472ce157467
+msgid "Select font."
 msgstr ""
 
-#: ../source/paint.rst:122
-# 3cad8dcec1fc480e93896f9a12f98947
-msgid "Scale selected area height"
+#: ../source/paint.rst:123
+# c5f8e14a489f48bda7526bdf1300be94
+msgid "Images Tab"
 msgstr ""
 
-#: ../source/paint.rst:124
-# 5811ef8e03b94b3a95269e89c8942ed9
-msgid "Scale selected area width"
-msgstr ""
-
-#: ../source/paint.rst:126
-# 4656a8cd44994a95b8ecd6b1ffb43027
-msgid "Convert selected area from color to gray"
+#: ../source/paint.rst:127
+# 6305431d71634205be39f206ce4e8843
+msgid "Insert picture, opens Journal or attached media in Image search."
 msgstr ""
 
 #: ../source/paint.rst:128
-# 6c7692de8e3d4e5880c56343977fb8dd
-msgid "Rainbow"
+# f8e9e32c6e2441bbbf8d81015c947778
+msgid "Rotate selected area left."
+msgstr ""
+
+#: ../source/paint.rst:129
+# cb7ecc67a52444209dbf4262e208d8a3
+msgid "Rotate selected area right."
 msgstr ""
 
 #: ../source/paint.rst:130
-# 75d8ce31d69e4167837c5d70ce1cfb75
-msgid "Invert colors in selected area (white -> black, red -> blue etc.)"
+# 75959b782ca34fdebb2279e85e0f0b6d
+msgid "Horizontal mirror, or flip, selected area."
+msgstr ""
+
+#: ../source/paint.rst:131
+# 66380ff1df7640e5a0d3cec0b9b17056
+msgid "Vertical mirror, or flip, selected area."
+msgstr ""
+
+#: ../source/paint.rst:132
+# 4656a8cd44994a95b8ecd6b1ffb43027
+msgid "Convert selected area from color to gray."
 msgstr ""
 
 #: ../source/paint.rst:133
+# 6c7692de8e3d4e5880c56343977fb8dd
+msgid "Rainbow."
+msgstr ""
+
+#: ../source/paint.rst:134
+# 6b1502bf33134bf0b2ac5441a263c869
+msgid "Invert colors in the selected area. For example black is inverted to white, and similarly, all colors are inverted."
+msgstr ""
+
+#: ../source/paint.rst:137
 # ddff126757cf445fb23125fd0e89adae
 msgid "Applying"
 msgstr ""
 
-#: ../source/paint.rst:135
+#: ../source/paint.rst:139
 # cac2d1d292f74ed0a82151e31ced2098
 msgid "Paint is a versatile Activity with many uses such as:"
 msgstr ""
 
-#: ../source/paint.rst:137
-# 5c4d0d043b96456fbca0de5bab012932
-msgid "creating drawings or paintings"
-msgstr ""
-
-#: ../source/paint.rst:138
-# 2c5893504993448f91038d4b20fab43f
-msgid "creating images for inserting into Write documents"
-msgstr ""
-
-#: ../source/paint.rst:139
-# 0b4c499417e44e498b2facebfe87e5fc
-msgid "creating slides for a Portfolio Activity slide show"
-msgstr ""
-
-#: ../source/paint.rst:140
-# 2d17e9848a56494ca290c522ef5469ac
-msgid "creating images for using in other Activities including Turtle Blocks and many more"
-msgstr ""
-
 #: ../source/paint.rst:141
-# 78d0340dd6f24d1194d84eeaff501fcb
-msgid "editing and cropping images made by other Activities including Turtle Blocks and many more"
+# 5c4d0d043b96456fbca0de5bab012932
+msgid "creating drawings or paintings."
 msgstr ""
 
 #: ../source/paint.rst:142
-# 75a5cbb164b24b5580b277ef4ba62139
-msgid "editing and cropping screen shots (take screen shots with Alt-1)"
+# 2c5893504993448f91038d4b20fab43f
+msgid "creating images for inserting into Write documents."
 msgstr ""
 
 #: ../source/paint.rst:143
-# dd8abfa2acc843c687bb160edcdfc05f
-msgid "editing and cropping photos taken with the Record Activity"
+# 0b4c499417e44e498b2facebfe87e5fc
+msgid "creating slides for a Portfolio Activity slide show."
+msgstr ""
+
+#: ../source/paint.rst:144
+# 2d17e9848a56494ca290c522ef5469ac
+msgid "creating images for using in other Activities including Turtle Blocks and many more."
+msgstr ""
+
+#: ../source/paint.rst:145
+# 78d0340dd6f24d1194d84eeaff501fcb
+msgid "editing and cropping images made by other Activities including Turtle Blocks and many more.."
 msgstr ""
 
 #: ../source/paint.rst:146
+# 13e17a7b82cb4b9284074fd17fe4bb16
+msgid "editing and cropping screen shots (take screen shots from the keyboard by pressing the *Alt* key with *1*)."
+msgstr ""
+
+#: ../source/paint.rst:147
+# dd8abfa2acc843c687bb160edcdfc05f
+msgid "editing and cropping photos taken with the Record Activity."
+msgstr ""
+
+#: ../source/paint.rst:152
 # baca6289a3214d55a205295f4b238a64
 msgid "Sharing"
 msgstr ""
 
-#: ../source/paint.rst:148
+#: ../source/paint.rst:154
 # bf05e0e8c9ac4cbd8d920125315933a7
 msgid "Paint does not support sharing. You can use Turtle Blocks for collaborative drawing."
 msgstr ""
 
-#: ../source/paint.rst:151
+#: ../source/paint.rst:156
+# 84035a2593cb45999c3d5bbfb248332f
+msgid "You can share the work you have done in Image Viewer."
+msgstr ""
+
+#: ../source/paint.rst:158
+# 266df3e867ea42509e2fd9a4af158a2b
+msgid "|more| For further information, please see the page :doc:`/collaborating`"
+msgstr ""
+
+#: ../source/paint.rst:163
 # 47407917d1f24dc2989d3889a4d53e0a
 msgid "Extending"
 msgstr ""
 
-#: ../source/paint.rst:153
-# ba85ab326b814594bfa83fde9916a61d
-msgid "take a photo of an animal with Record, crop the image with Paint, use as a custom turtle in Turtle Blocks"
-msgstr ""
-
-#: ../source/paint.rst:154
-# 84d11ad7019b4f6688b2bd204dbeeabd
-msgid "start a school newspaper, take photos with Record, crop with Paint, import them into Write"
-msgstr ""
-
-#: ../source/paint.rst:155
-# 88640b06a2ba4022b27327d514b03d7e
-msgid "do a portfolio of your schoolwork, get screenshots (Alt-1) crop with Paint and add explanatory labels then make a slideshow in Portfolio Activity"
-msgstr ""
-
-#: ../source/paint.rst:156
-# de915c591df74271a17c6ee6021716ed
-msgid "create a custom Memorize Activity game, create the images in Paint"
-msgstr ""
-
-#: ../source/paint.rst:157
-# 7dfe01473462424685f54aec5120d4bc
-msgid "create custom cards for the Dimensions (Visual Match) Activity"
-msgstr ""
-
-#: ../source/paint.rst:158
-# 609d1bab028d4dff9611f22f50f0164d
-msgid "create custom foods for the Nutrition Activity"
-msgstr ""
-
-#: ../source/paint.rst:159
-# 391ea632824846e8ba2b4a7002a8c88f
-msgid "create custom images for the Labyrinth Activity (mind maps)"
-msgstr ""
-
-#: ../source/paint.rst:160
-# ffa728c3624c42c893495151584deb18
-msgid "create a web page with images from Paint"
-msgstr ""
-
-#: ../source/paint.rst:161
-# 1706c468f5834c8c8aff9c2cec95c756
-msgid "take photos of plants or animals, crop the photos, label them"
-msgstr ""
-
-#: ../source/paint.rst:162
-# 902ed01f01234b34ac9e1202b7be64b2
-msgid "take the output of SimpleGraph and use the flood-fill tool to make a multicolored graph"
-msgstr ""
-
 #: ../source/paint.rst:165
+# ba85ab326b814594bfa83fde9916a61d
+msgid "take a photo of an animal with Record, crop the image with Paint, use as a custom turtle in Turtle Blocks."
+msgstr ""
+
+#: ../source/paint.rst:166
+# 84d11ad7019b4f6688b2bd204dbeeabd
+msgid "start a school newspaper, take photos with Record, crop with Paint, import them into Write."
+msgstr ""
+
+#: ../source/paint.rst:167
+# 88640b06a2ba4022b27327d514b03d7e
+msgid "do a portfolio of your schoolwork, get screenshots (Alt-1) crop with Paint and add explanatory labels then make a slideshow in Portfolio Activity."
+msgstr ""
+
+#: ../source/paint.rst:168
+# de915c591df74271a17c6ee6021716ed
+msgid "create a custom Memorize Activity game, create the images in Paint."
+msgstr ""
+
+#: ../source/paint.rst:169
+# 7dfe01473462424685f54aec5120d4bc
+msgid "create custom cards for the Dimensions (Visual Match) Activity."
+msgstr ""
+
+#: ../source/paint.rst:170
+# 609d1bab028d4dff9611f22f50f0164d
+msgid "create custom foods for the Nutrition Activity."
+msgstr ""
+
+#: ../source/paint.rst:171
+# 391ea632824846e8ba2b4a7002a8c88f
+msgid "create custom images for the Labyrinth Activity. Labyrinth is a mind mapping tool."
+msgstr ""
+
+#: ../source/paint.rst:172
+# ffa728c3624c42c893495151584deb18
+msgid "create a web page with images from Paint."
+msgstr ""
+
+#: ../source/paint.rst:173
+# 1706c468f5834c8c8aff9c2cec95c756
+msgid "take photos of plants or animals, crop the photos, and label them."
+msgstr ""
+
+#: ../source/paint.rst:174
+# 902ed01f01234b34ac9e1202b7be64b2
+msgid "take the output of SimpleGraph and use the *Bucket* (flood-fill tool) to make a multicolored graph."
+msgstr ""
+
+#: ../source/paint.rst:177
 # ae941e5839174caca94bad803109ce26
 msgid "Developers' information"
 msgstr ""
 
-#: ../source/paint.rst:167
+#: ../source/paint.rst:179
 # 0673fa92349b4713b340cd75c8d7f887
 msgid "**History**"
 msgstr ""
 
-#: ../source/paint.rst:170
+#: ../source/paint.rst:181
 # 8e3eece4093e4047b26ba410527790e2
 msgid "Oficina (the Paint Activity) was developed and adapted to the XO using Python for the team NATE-LSI (Integrated Systems Laboratory), in the Polytechnical School at University of São Paulo, Brazil."
 msgstr ""
 
-#: ../source/paint.rst:172
+#: ../source/paint.rst:183
 # d63799ead61749e4a05a5c6a68a654fe
 msgid "**Resources**"
 msgstr ""
 
-#: ../source/paint.rst:174
+#: ../source/paint.rst:185
 # b4215069ce284b5a9acc5544313057a9
 msgid "`Sources <https://git.sugarlabs.org/projects/paint>`_"
 msgstr ""
 
-#: ../source/paint.rst:176
-# e3b17695cdfc491f9a04c28555c7a60f
-msgid "`Sugar Activity Library page <http://activities.sugarlabs.org/en-US/sugar/addon/4082>`_"
-msgstr ""
-
-#: ../source/paint.rst:179
+#: ../source/paint.rst:188
 # a2f95167c674456ca10c31a781d2b67d
 msgid "Where to report problems"
 msgstr ""
 
-#: ../source/paint.rst:181
+#: ../source/paint.rst:190
 # 7bd6ea24358b44e48e6fc22ffe8fc453
 msgid "In http://bugs.sugarlabs.org, component Paint."
 msgstr ""
