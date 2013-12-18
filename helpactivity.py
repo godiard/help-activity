@@ -65,7 +65,7 @@ class HelpActivity(activity.Activity):
         activity_button.show()
 
         viewtoolbar = ViewToolbar(self)
-        viewbutton = ToolbarButton(page=viewtoolbar, \
+        viewbutton = ToolbarButton(page=viewtoolbar,
                                    icon_name='toolbar-view')
         toolbar_box.toolbar.insert(viewbutton, -1)
         viewbutton.show()
