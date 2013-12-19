@@ -19,7 +19,7 @@
 
 LANGUAGE="$1"
 SOURCE_DIR="source"
-DESTINATION_DIR="html"
+DESTINATION_DIR="html/$LANGUAGE"
 TRANSLATED_PO_PATH="translated_po/$LANGUAGE"
 TRANSLATED_MO_PATH="source/translated/$LANGUAGE"
 
@@ -37,14 +37,8 @@ if [ ! -d $TRANSLATED_PO_PATH ]; then
 fi
 
 # check and create directories
-if [ ! -d $TRANSLATED_MO_PATH ]; then
-    mkdir $TRANSLATED_MO_PATH
-fi
 if [ ! -d $TRANSLATED_MO_PATH/LC_MESSAGES ]; then
-    mkdir $TRANSLATED_MO_PATH/LC_MESSAGES
-fi
-if [ ! -d $TRANSLATED_MO_PATH/LC_MESSAGES ]; then
-    mkdir $TRANSLATED_MO_PATH/LC_MESSAGES
+    mkdir -p $TRANSLATED_MO_PATH/LC_MESSAGES
 fi
 
 for file in $TRANSLATED_PO_PATH/*.po
@@ -55,15 +49,15 @@ do
 done
 
 # build html
-if [ ! -d $DESTINATION_DIR/$LANGUAGE ]; then
-    mkdir $DESTINATION_DIR/$LANGUAGE
+if [ ! -d $DESTINATION_DIR ]; then
+    mkdir $DESTINATION_DIR
 fi
-sphinx-build -b html -Dlanguage=$LANGUAGE $SOURCE_DIR $DESTINATION_DIR/$LANGUAGE
+sphinx-build -b html -Dlanguage=$LANGUAGE $SOURCE_DIR $DESTINATION_DIR
 
 # remove images and static files in the translated directories
-rm -rf $DESTINATION_DIR/$LANGUAGE/_images
-rm -rf $DESTINATION_DIR/$LANGUAGE/_static
+rm -rf $DESTINATION_DIR/_images
+rm -rf $DESTINATION_DIR/_static
 
 # create symbolic links to _images and _static
-ln -rs images $DESTINATION_DIR/$LANGUAGE/_images
-ln -rs $DESTINATION_DIR/_static $DESTINATION_DIR/$LANGUAGE/_static
+ln -rs images $DESTINATION_DIR/_images
+ln -rs html/_static $DESTINATION_DIR/_static
