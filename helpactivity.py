@@ -42,6 +42,18 @@ def get_index_uri():
     if not os.path.isfile(index_path):
         index_path = os.path.join(
             activity.get_bundle_path(), 'html/index.html')
+
+    # verify if the images and _static dir exists
+    html_path = index_path[:index_path.rfind('/')]
+    images_path = os.path.join(html_path, '_images')
+    if not os.path.exists(images_path):
+        os.symlink(os.path.join(activity.get_bundle_path(), 'images'),
+                   images_path)
+    static_path = os.path.join(html_path, '_static')
+    if not os.path.exists(static_path):
+        os.symlink(os.path.join(
+            activity.get_bundle_path(), 'html', '_static'), static_path)
+
     return 'file://' + index_path
 
 
