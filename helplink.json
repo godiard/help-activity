@@ -1,4 +1,8 @@
  {
+    "home_view": "home_view.html",
+    "mesh_view": "neighborhood_view.html",
+    "group_view": "group_view.html",
+    "org.laptop.JournalActivity": "journal.html",
     "org.laptop.sugar.ReadActivity": "read.html",
     "org.laptop.WebActivity": "browse.html",
     "org.laptop.Chat": "chat.html",
@@ -13,5 +17,7 @@
     "org.laptop.AbiWordActivity": "write.html",
     "org.laptop.TurtleArtActivity": "turtleart.html",
     "org.laptop.Pippy": "pippy.html",
-    "org.laptop.TamTamMini": "tamtammini.html"
+    "org.laptop.TamTamMini": "tamtammini.html",
+    "org.laptop.HelpActivity": "help.html",
+    "vu.lux.olpc.Speak": "speak.html"
   }
