@@ -17,6 +17,7 @@
 import logging
 import os
 import zipfile
+import tarfile
 from fnmatch import fnmatch
 
 from sugar3.activity import bundlebuilder
@@ -28,7 +29,47 @@ because they are not in git
 
 INCLUDE_DIRS = ['activity', 'html', 'images', 'source', 'locale']
 
-IGNORE_FILES = ['.gitignore', '*.pyc', '*~']
+IGNORE_FILES = ['.gitignore', '*.pyc', '*~', '*.patch', '*.diff']
+
+IGNORE_DIRS = ['_images']
+
+def list_files(base_dir, filter_directories=False):
+    if filter_directories:
+        include_dirs = INCLUDE_DIRS
+    else:
+        include_dirs = None
+
+    ignore_files = IGNORE_FILES
+    result = []
+
+    base_dir = os.path.abspath(base_dir)
+
+    for root, dirs, files in os.walk(base_dir):
+
+        if ignore_files:
+            for pattern in ignore_files:
+                files = [f for f in files if not fnmatch(f, pattern)]
+
+        rel_path = root[len(base_dir) + 1:]
+        for f in files:
+            result.append(os.path.join(rel_path, f))
+
+        if root == base_dir:
+            n = 0
+            while n < len(dirs):
+                directory = dirs[n]
+                if include_dirs is not None and \
+                        not directory in include_dirs:
+                    dirs.remove(directory)
+                else:
+                    n = n + 1
+        else:
+            for directory in dirs:
+                if directory in IGNORE_DIRS:
+                    dirs.remove(directory)
+
+    return result
+
 
 
 class XOHelpPackager(bundlebuilder.Packager):
@@ -45,48 +86,32 @@ class XOHelpPackager(bundlebuilder.Packager):
         bundle_zip = zipfile.ZipFile(self.package_path, 'w',
                                      zipfile.ZIP_DEFLATED)
 
-        for f in self.list_files('./', True):
-            logging.info('Adding %s', f)
+        for f in list_files('./', True):
+            #logging.error('Adding %s', f)
             bundle_zip.write(os.path.join(self.config.source_dir, f),
                              os.path.join(self.config.bundle_root_dir, f))
 
         bundle_zip.close()
 
-    def list_files(self, base_dir, filter_directories=False):
-        if filter_directories:
-            include_dirs = INCLUDE_DIRS
-        else:
-            include_dirs = None
 
-        ignore_files = IGNORE_FILES
-        result = []
 
-        base_dir = os.path.abspath(base_dir)
+class SourceHelpPackager(bundlebuilder.Packager):
 
-        for root, dirs, files in os.walk(base_dir):
+    def __init__(self, config):
+        bundlebuilder.Packager.__init__(self, config)
+        self.package_path = os.path.join(self.config.dist_dir,
+                                         self.config.tar_name)
 
-            if ignore_files:
-                for pattern in ignore_files:
-                    files = [f for f in files if not fnmatch(f, pattern)]
-
-            rel_path = root[len(base_dir) + 1:]
-            for f in files:
-                result.append(os.path.join(rel_path, f))
-
-            if root == base_dir:
-                n = 0
-                while n < len(dirs):
-                    directory = dirs[n]
-                    if include_dirs is not None and \
-                            not directory in include_dirs:
-                        logging.debug("** Ignoring directory %s", directory)
-                        dirs.remove(directory)
-                    else:
-                        n = n + 1
-        return result
+    def package(self):
+        tar = tarfile.open(self.package_path, 'w:bz2')
+        for f in list_files('./', True):
+            tar.add(os.path.join(self.config.source_dir, f),
+                    os.path.join(self.config.tar_root_dir, f))
+        tar.close()
 
 
 bundlebuilder.XOPackager = XOHelpPackager
+bundlebuilder.SourcePackager = SourceHelpPackager
 
 
 bundlebuilder.start()
