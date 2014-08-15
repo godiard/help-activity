@@ -49,6 +49,7 @@ Activities
     memorize.rst
     paint.rst
     pippy.rst
+    poll.rst
     portfolio.rst
     read.rst
     record.rst

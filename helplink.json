@@ -11,6 +11,7 @@
     "org.laptop.RecordActivity": "record.html",
     "org.laptop.MeasureActivity": "measure.html",
     "org.laptop.Oficina": "paint.html",
+    "org.worldwideworkshop.PollBuilder": "poll.html",
     "org.sugarlabs.PortfolioActivity": "portfolio.html",
     "org.laptop.Memorize": "memorize.html",
     "org.laptop.Terminal": "terminal.html",
