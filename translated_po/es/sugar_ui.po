@@ -1,0 +1,227 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
+"PO-Revision-Date: 2013-12-18 17:10\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 8f0cb0769676483394e577109787c32a
+#: ../source/sugar_ui.rst:3
+msgid "The Sugar User Interface"
+msgstr ""
+
+# 868380ee36ab4bb19c164052dfcc1f11
+#: ../source/sugar_ui.rst:5
+msgid "The Sugar platform encourages learning through personal expression."
+msgstr ""
+
+# 3ae02bdcc1a847d5a287be63cb7454b7
+#: ../source/sugar_ui.rst:7
+msgid ""
+"The user interface differs from the traditional Desktop metaphor. It uses a "
+"\"zooming\" metaphor—each view represents a different scale of interaction. "
+"You move between a view of the network \"neighborhood\", your \"friends\", "
+"your \"home page\", and your currently open application (\"Activity\"). Each "
+"view occupies the entire screen. There are no overlapping windows to deal "
+"with."
+msgstr ""
+
+# 56c2b61d10ba43dcbc5c6e30b799db2c
+#: ../source/sugar_ui.rst:11
+msgid ""
+"With Sugar, you zoom between views: from your network neighborhood to your "
+"current Activity."
+msgstr ""
+
+# c89a4e5b9b2b45e49101874c40f546c4
+#: ../source/sugar_ui.rst:13
+msgid ""
+"Sugar supports sharing and collaboration by default. Sugar brings many of "
+"the rich collaboration mechanisms we are accustomed to from the Internet "
+"directly into the user interface. Sharing a file, starting a chat, "
+"collaborating in a writing exercise, or playing a game with other people are "
+"never more than a single click away."
+msgstr ""
+
+# 2f4ed1256b4c4dd59d589f7c3618fd1c
+#: ../source/sugar_ui.rst:15
+msgid ""
+"Sugar incorporates a Frame around the border of the screen; the Frame holds "
+"status information, such as alerts, a clipboard, open activities, and your "
+"current collaborators."
+msgstr ""
+
+# 84958dd6ceb04d119fe695b60617a76e
+#: ../source/sugar_ui.rst:17
+msgid ""
+"Sugar maintains a Journal (or diary) of everything you do; it is a place for "
+"reflection. You do not need to save files or create folders; Activities "
+"automatically save your work to the Journal."
+msgstr ""
+
+# 4070b4d2cb3d477286b445ecd858d91c
+#: ../source/sugar_ui.rst:19
+msgid ""
+"Sugar emphasizes discovery.  Every object in the interface has a menu that "
+"reveals more details and options for action. Many Activities include a "
+"\"view source\" option; for example, the Browse activity lets you examine "
+"the HTML code that reveals how a web page is created. Most Activities are "
+"written in the Python scripting language.  You can see how they work, and "
+"make changes to them."
+msgstr ""
+
+# e9ffa2f74c5849d2b2cddf1dba30d7b4
+#: ../source/sugar_ui.rst:21
+msgid ""
+"Sugar has clarity of design. There is no need to \"double click\". There are "
+"no overlapping windows. Sugar uses color and shape throughout the interface "
+"to provide a fun, expressive, approachable platform for computing."
+msgstr ""
+
+# e8bba09bd2c6479d8794b55a0d922c0c
+#: ../source/sugar_ui.rst:24
+msgid "For parents and teachers"
+msgstr ""
+
+# 05338b3ef43c40428b041ec942a0c353
+#: ../source/sugar_ui.rst:26
+msgid "**Activities, not Applications**"
+msgstr ""
+
+# 68b07d3b8b2e4d9e9c4b518944adfafa
+#: ../source/sugar_ui.rst:28
+msgid ""
+"Sugar does not have applications in the traditional sense. Activities are "
+"distinct from applications in what they focus on (collaboration and "
+"expression) and in their implementation (journaling and iteration). This is "
+"more than a new naming convention; it represents an intrinsic quality of the "
+"learning experience we hope the children will have when using Sugar."
+msgstr ""
+
+# a3bd99c2bb334e78a8e53334ce6324cd
+#: ../source/sugar_ui.rst:30
+msgid "**Presence is always Present**"
+msgstr ""
+
+# 2c3ace0c18e2418c919920db98d75e1f
+#: ../source/sugar_ui.rst:32
+msgid ""
+"Everyone has the potential for learning and teaching. Sugar puts "
+"collaboration at the core of the user experience in order to realize this "
+"potential. The presence of other learners encourages children to take "
+"responsibility for others' learning as well as their own. The exchange of "
+"ideas amongst peers makes the learning process more engaging and stimulates "
+"critical thinking skills. Sugar encourages these types of social interaction "
+"with the laptops."
+msgstr ""
+
+# e628432cad9a477685420044a41f86d4
+#: ../source/sugar_ui.rst:34
+msgid ""
+"Most activities have the potential to become network enabled. For example, "
+"consider the Browse activity. With typical computer interfaces, you browse "
+"in isolation. In Sugar, sharing links is an integral part of Browse, "
+"transforming web-surfing into a group collaboration."
+msgstr ""
+
+# 0b5010c0c22c45618895d984b558dba6
+#: ../source/sugar_ui.rst:36
+msgid "**Tools of Expression**"
+msgstr ""
+
+# 353c87e03dd949a5abdebe82ff0b2960
+#: ../source/sugar_ui.rst:38
+msgid ""
+"Sugar emphasizes thinking, expressing, and communicating using technology. "
+"Sugar starts from the premise that we want to use what people already know "
+"in order to make connections to new knowledge. Computation is a \"thing to "
+"think with\". Sugar makes the primary activity of the children one of "
+"creative expression, in whatever form that might take. Most activities focus "
+"on the creation of some type of object, be it a drawing, a song, a story, a "
+"game, or a program. In another language shift describing the user "
+"experience, we refer to objects rather than files as the primary stuff of "
+"creative expression."
+msgstr ""
+
+# 06b5a0032b37490c80f60d82c069f033
+#: ../source/sugar_ui.rst:40
+msgid ""
+"As most software developers would agree, the best way to learn how to write "
+"a program is to write one, or perhaps teach someone else how to do so. "
+"Studying the syntax of the language is useful, but it doesn't teach one how "
+"to code. We apply the principle of \"learning through doing\" to all types "
+"of creation. For example, we emphasize composing music over downloading "
+"music. We also encourage the children to engage in the process of "
+"collaborative critique of their expressions and to iterate upon this "
+"expression as well."
+msgstr ""
+
+# e80f2ced571b4d848faffd75608834b5
+#: ../source/sugar_ui.rst:42
+msgid ""
+"Turning the traditional file system into objects speaks more directly to "
+"real-world metaphors: instead of a sound file, we have an actual sound; "
+"instead of a text file, a story. In order to support this concept, activity "
+"developers can define object types and associated icons to represent them."
+msgstr ""
+
+# 652c1c22cf864f80bad8717df1d49921
+#: ../source/sugar_ui.rst:44
+msgid "**Journaling**"
+msgstr ""
+
+# 80ee93ffa5414b32bc73aedbeeec7704
+#: ../source/sugar_ui.rst:46
+msgid ""
+"The concept of the Journal, a written documentation of everyday events, is "
+"generally understood, albeit in various forms across cultures. A journal "
+"typically chronicles the Activities one has done throughout the day. We have "
+"adopted a journal metaphor for the file system as our approach to file "
+"organization. The underlying implementation of the journal does not differ "
+"significantly from file systems in contemporary operating systems.  The file "
+"system layout is less important than the journal itself."
+msgstr ""
+
+# 66b7c3a95a974f6dafd022c862765d1c
+#: ../source/sugar_ui.rst:48
+msgid ""
+"The journal embodies the idea of storing a history of the things a child has "
+"done and the activities a child has participated in. The child, parent, and "
+"teacher can reflect on the journal to assess progress."
+msgstr ""
+
+# c5a62473d3084a938cb7874de10c746d
+#: ../source/sugar_ui.rst:50
+msgid ""
+"The Journal stores objects created while the student runs an Activity. This "
+"function is secondary, although important. The Journal naturally lends "
+"itself to a chronological organization.  Objects in the Journal can be "
+"tagged, searched, and sorted by a variety of means.  The Journal records "
+"what a child has done, not just what the child has saved. The Journal is a "
+"portfolio or scrapbook history of the child's interactions with the machine "
+"and also with peers."
+msgstr ""
+
+# 36e0265c079f4a6eab07f0d3cc04fb0d
+#: ../source/sugar_ui.rst:52
+msgid ""
+"The Journal includes entries explicitly created by the children with entries "
+"that are implicitly created through the child's participation in an "
+"Activities.  Developers must think carefully about how an activity "
+"integrates with the Journal more so than with a traditional file system that "
+"functions independently of an application. The Activities, the objects, and "
+"the means of recording all tightly integrate to create a different kind of "
+"computer experience."
+msgstr ""

@@ -1,0 +1,86 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
+"PO-Revision-Date: 2013-12-18 17:10\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# cc9abaa7087a49f89e7a21ea4098befe
+#: ../source/intro17.rst:3
+msgid "Introduction to XO Help 17"
+msgstr ""
+
+# 17d3aa7ca35d417aa61b3b4fcfe03bbf
+#: ../source/intro17.rst:5
+msgid "Welcome to a new look in XO Help 17."
+msgstr ""
+
+# 597531fb75ea4703ba244e82708cf460
+#: ../source/intro17.rst:7
+msgid ""
+"If you are starting with an XO laptop you might jump straight to the top of "
+"the \"Hardware section\" :doc:`/getting_started`."
+msgstr ""
+
+# 2afc52cf208e4f33bc7eeba924b82c87
+#: ../source/intro17.rst:9
+msgid ""
+"When you press the \"next\" link at the top right of this page you will move "
+"on to the page, The Sugar User Interface. To a new user this is a somethat "
+"theoretical page, but the **following** few pages covering navigation are "
+"more new user friendly and important for all new users."
+msgstr ""
+
+# 04a5b00eb4054ac99a445bf037d9395a
+#: ../source/intro17.rst:11
+msgid ""
+"The Activity you are using, Help, has its own :doc:`/help` page. Help will "
+"display, the pages in the index, plus (when you are online) pages linked to "
+"the internet."
+msgstr ""
+
+# 09a7d7f804bd4dd9a0b3fb266e687796
+#: ../source/intro17.rst:13
+msgid ""
+"In Help use the \"Back\" button |Back| to return to the previous page, and "
+"the \"Home\" button |Home| to return to :doc:`/index`"
+msgstr ""
+
+# cecc606b391e4426b4e872b5a0a692f0
+#: ../source/intro17.rst:15
+msgid ""
+"Activities are listed in alphabetical order, starting with :doc:`/browse`."
+msgstr ""
+
+# 2008e789ed744c9faf88bb1b9d78392c
+#: ../source/intro17.rst:17
+msgid ""
+"The section of the table of Contents, Network, starts with the page :doc:`/"
+"give_me_the_internet`"
+msgstr ""
+
+# 278a3f88d2514f2e8dc048853d67408f
+#: ../source/intro17.rst:19
+msgid ""
+"In Help pages, the green arrow |more| is used to signify moving to material "
+"at a deeper level."
+msgstr ""
+
+# a3da5974580c42659a39fcf49032c8eb
+#: ../source/intro17.rst:23
+msgid ""
+"This is an experimental new page. You can improve it yourself by following :"
+"doc:`/how_to_help`."
+msgstr ""

@@ -1,0 +1,105 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
+"PO-Revision-Date: 2013-12-18 17:10\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 86356cfa011f4ef8997a36e383d04c93
+#: ../source/neighborhood_view.rst:3
+msgid "Neighborhood View"
+msgstr ""
+
+# 19e009176b764ca5b02b3c570448d30e
+#: ../source/neighborhood_view.rst:6
+msgid "Neighborhood View: Connecting to the Internet"
+msgstr ""
+
+# 35a61f3dd6924093971f969219ea1b0a
+#: ../source/neighborhood_view.rst:8
+msgid ""
+"You can use the Neighborhood View to connect to the Internet and to "
+"collaborate with others."
+msgstr ""
+
+# 4a80067d66e541f3a6784080960953e8
+#: ../source/neighborhood_view.rst:12
+msgid ""
+"To see the Neighborhood View, click the Neighborhood icon on the Frame. You "
+"can also use the Neighborhood button for this purpose if your keyboard has "
+"one, or press the F1 key."
+msgstr ""
+
+# 9aae414a6cbd44c8b232961a7bc7b955
+#: ../source/neighborhood_view.rst:15
+msgid "Neighborhood Elements"
+msgstr ""
+
+# 9b71a677e236400485c2d5ea7992c33c
+#: ../source/neighborhood_view.rst:19
+msgid ""
+"Search menu: You can find find people, Activities, or access points (what "
+"connects you to the Internet) using the search menu."
+msgstr ""
+
+# 5fe4113b0d524c6cb85f74217410a4d6
+#: ../source/neighborhood_view.rst:21
+msgid ""
+"Ad-Hoc network icon: An ad-hoc network lets you connect to other computers "
+"on a network."
+msgstr ""
+
+# 21721b3aadc6404096b681cd31cbbe88
+#: ../source/neighborhood_view.rst:23
+msgid ""
+"Access point: WiFi hot spots (Internet access points) appear as circles in "
+"the Neighborhood view. If you hover over a circle, the name of the network "
+"appears. Each circle has another color inside, the more full the inside "
+"color, the better the connection. To connect to a network, click the circle. "
+"If the circle shows a lock symbol, expect to enter a key or password. The "
+"inside of the circle blinks while your system tries to connect. Once you are "
+"connected, an icon for the connection will appear at bottom right of the "
+"Frame. To disconnect, hover over the circle, and choose Disconnect on the "
+"menu. Or hover over the icon in the Frame, and choose Disconnect there. "
+"(OLPC XO-1 Note: The XO-1 laptop has three mesh network channels. By "
+"clicking on a mesh icon you join that particular mesh network, and "
+"disconnect from an Access point network. The other XO icons are shown will "
+"change according to who is on that network.)"
+msgstr ""
+
+# 70aec48ebcae4ba1a4ec6ef1c9a0360d
+#: ../source/neighborhood_view.rst:25
+msgid ""
+"Shared Activities: Shared Activities appear as icons in the Neighborhood "
+"View and you can join them by clicking the corresponding icon."
+msgstr ""
+
+# b072eec7fd304ebcbb15e639fbd29f60
+#: ../source/neighborhood_view.rst:27
+msgid ""
+"XO icon: Other Sugar users appear as XO icons. By hovering over them, you "
+"can discover the nickname of that person and can add them as a friend or "
+"invite them to join you in a shared Activity."
+msgstr ""
+
+# 0962d193d09848aeb95263476a516f9c
+#: ../source/neighborhood_view.rst:29
+msgid "Open access point: An access point which isn't protected by a password."
+msgstr ""
+
+# dba967f6479a488e89194a5601c0c9f1
+#: ../source/neighborhood_view.rst:31
+msgid "Connected networks: Once the computer has connected to a network"
+msgstr ""

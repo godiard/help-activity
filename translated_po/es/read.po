@@ -1,0 +1,181 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
+"PO-Revision-Date: 2013-12-18 17:10\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 6efd7b333134412fab4e19f44c55bcaf
+#: ../source/read.rst:3
+msgid "Read"
+msgstr ""
+
+# f9ce3579c15147b4aa72172ef394dc74
+#: ../source/read.rst:6
+msgid "About"
+msgstr ""
+
+# 5052929f776e4357a8d62eef7b713916
+#: ../source/read.rst:8
+msgid ""
+"The Read activity allows the laptop to act as a book reader. It has a simple "
+"interface, and will view many kinds of text and image-based book-like "
+"materials. It will have particular strengths in handheld mode, with "
+"extremely low power consumption and simple navigation controls."
+msgstr ""
+
+# 7eb5c0a0d2df42dba40253f72acb9cd0
+#: ../source/read.rst:10
+msgid ""
+"Read can read PDF files, EPUB files, text files and single-page TIFF files."
+msgstr ""
+
+# 2fac966da55d4b5a912ebe4b2756d75a
+#: ../source/read.rst:13
+msgid "Using"
+msgstr ""
+
+# 2c2bba6aa2db43fe8bb3b225aa623c9a
+#: ../source/read.rst:15
+msgid ""
+"The Read activity is launched by opening the Journal and choosing a PDF "
+"document. PDFs downloaded from Browse can be opened in this way, as can PDFs "
+"on an external storage device. The user may also start Read from the Home "
+"page Favorites circle and select a file to read. The book opens in a "
+"portrait orientation."
+msgstr ""
+
+# a4b85af3973f4145800fa391dc5caefe
+#: ../source/read.rst:21
+msgid "Navigation"
+msgstr ""
+
+# 829ccc09dad24add8c4d590b5cab5bde
+#: ../source/read.rst:23
+msgid ""
+"When the screen is in the upright position, the keyboard is available for "
+"navigation as well as the directional pad and games keys. When the screen is "
+"in tablet mode, the keyboard is not available. Make sure the document canvas "
+"is selected (and not the tool-bar menu) by clicking either in the page area, "
+"or pressing the TAB key until focus moves out of the toolbar."
+msgstr ""
+
+# f2c2b9a7c20a46be8be821199dfb89b3
+#: ../source/read.rst:25
+msgid "**Keyboard Navigation:**"
+msgstr ""
+
+# 66767114a85e4427a6000e3977dde144
+#: ../source/read.rst:27
+msgid "The arrow keys will scroll the page a few lines in any direction"
+msgstr ""
+
+# 0abd7767933e48ffae4d2f645c4886fa
+#: ../source/read.rst:28
+msgid ""
+"ALT + arrow keys, or screen direction pad, will scroll the page a small "
+"amount in any direction"
+msgstr ""
+
+# ecb561d47b1c4447aff4a343b9e6d240
+#: ../source/read.rst:29
+msgid ""
+"FN + arrow keys up/down will move one page up or down (with a small overlap "
+"to keep context)"
+msgstr ""
+
+# 25289a0eee574dc08371f15e509f2731
+#: ../source/read.rst:30
+msgid ""
+"FN + arrow keys right/left will jump to the start or end of the document"
+msgstr ""
+
+# 672f681bd203488194eb3b768f2c9c7b
+#: ../source/read.rst:31
+msgid "The keys h, j, k, l also act as left, down, up, right"
+msgstr ""
+
+# 47df46e7b6cf46ebb30d826ae17c3e66
+#: ../source/read.rst:33
+msgid "**Screen GamePad and Directional Button Navigation**"
+msgstr ""
+
+# c4881989f9c8414eb52184ddd5380a62
+#: ../source/read.rst:35
+msgid ""
+"The screen rotation key (the bottom key on the left side of the screen) will "
+"turn the screen image to accommodate tablet use."
+msgstr ""
+
+# 7500d558d2fc4d5da759ab552ab662e4
+#: ../source/read.rst:36
+msgid ""
+"The directional pad on the left hand side of the screen will also scroll a "
+"few lines"
+msgstr ""
+
+# 7c00e493ab4549ed8633767d78fc3113
+#: ../source/read.rst:37
+msgid ""
+"On the right hand side of the screen the gamepad buttons 'circle' and "
+"'cross' also act as page up and page down (with a small overlap to keep "
+"context)."
+msgstr ""
+
+# c66942c5f9074d44b9e492f2a3f7bdb3
+#: ../source/read.rst:38
+msgid "The gamepad buttons 'square' and 'tick' act as a zoom in and zoom out"
+msgstr ""
+
+# f1a942f433dc41bca181aec41a7cb971
+#: ../source/read.rst:40
+msgid "**Brightness Control**"
+msgstr ""
+
+# db829c9e511446599780f4fac29dd3f1
+#: ../source/read.rst:42
+msgid "The brightness can be increased or decreased with the keys"
+msgstr ""
+
+# 0d1e1e1f5c2244ad88e263e6df41918c
+#: ../source/read.rst:43
+msgid ""
+"Clarity is improved in tablet mode (turning the screen and laying it flat) "
+"by using monochrome mode. Select CTRL + Brightness keys to turn it on or off."
+msgstr ""
+
+# 23cdf6c810ca4d609f1c4c065b563b84
+#: ../source/read.rst:44
+msgid "Monochrome outside is easier to view books (CTRL Brightness Down)"
+msgstr ""
+
+# 00cadce3b032463680cf8664f8c1efb4
+#: ../source/read.rst:50
+msgid "Be aware that large books may open and scroll slowly."
+msgstr ""
+
+# 230e3b2639bc4ce498648f6809649c91
+#: ../source/read.rst:53
+msgid "Applying"
+msgstr ""
+
+# 6147b79733a14b6d97aeb798d651bfe6
+#: ../source/read.rst:55
+msgid ""
+"The GetBooks Activity provides a way to expand access to many of the free "
+"books available worldwide. The 'My Documents' folder appears at the bottom "
+"of the screen when you are using Journal. Books can be stored in the My "
+"Documents folder for easier cataloging."
+msgstr ""

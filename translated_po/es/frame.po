@@ -1,0 +1,125 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
+"PO-Revision-Date: 2013-12-18 17:10\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 120a1224c255477fa5d7a57961f9c18f
+#: ../source/frame.rst:3
+msgid "The Frame"
+msgstr ""
+
+# 82142481248341e5908de4c12a8e871d
+#: ../source/frame.rst:5
+msgid ""
+"The Frame is the black border around the screen that holds the View icons, "
+"Activity taskbar, clipboard, wireless connections, battery level, incoming "
+"invitations and notifications, buddies, and global information that is used "
+"across all views."
+msgstr ""
+
+# 3ddd532714ea40629123411d94da5494
+#: ../source/frame.rst:8
+msgid "Accessing the Frame"
+msgstr ""
+
+# 77a0ea65f52d49a7b5be4a27f218ff09
+#: ../source/frame.rst:10
+msgid "You can access the frame from any view in 2 ways:"
+msgstr ""
+
+# 8a9fd5605aa743cb9981de11ee70e932
+#: ../source/frame.rst:12
+msgid ""
+"By using the Frame Key on the keyboard. On XO laptops the Frame key is the "
+"square icon on the upper right hand corner of your keyboard, on other "
+"laptops you can use the F6 key."
+msgstr ""
+
+# 19e94748f1bf481d8df62f4116a779e0
+#: ../source/frame.rst:13
+msgid ""
+"By moving the cursor to the edges or corners of your screen. (There are "
+"several options you can configure in this area, please refer to the My "
+"Settings section for more details.)"
+msgstr ""
+
+# ea7ded9788ee475c9b1c267822452f56
+#: ../source/frame.rst:15
+msgid ""
+"In the XO-4, with touch screen, is possible show the frame sliding a finger, "
+"from the top of the screen, a few centimeters. The same gesture will hide "
+"the frame too."
+msgstr ""
+
+# 37120be42cdd4635a95e5502f1f62ca6
+#: ../source/frame.rst:18
+msgid "Frame Elements"
+msgstr ""
+
+# 20a9c3e9f9934da5aff7e2470e97c087
+#: ../source/frame.rst:22
+msgid "The Frame view:"
+msgstr ""
+
+# c607289710ca4a6ea71bfff658310269
+#: ../source/frame.rst:24
+msgid ""
+"Zoom menu: The Zoom menu (icons matching the important keyboard shortcuts "
+"toward the keyboard top left) appears on the upper-left edge of the Frame. "
+"Use it to move between the four Sugar views: Neighborhood, Group, Home, and "
+"Activity."
+msgstr ""
+
+# 25348af79e254f779aea5c7089d409e2
+#: ../source/frame.rst:25
+msgid ""
+"Running Activity list: The sequence of currently started Activities appears "
+"on the top edge of the Frame in the order that they were started. The active "
+"Activity is highlighted. (The Journal always appears here first.) Here you "
+"can see open Activities, save, close or switch between them, and view their "
+"source code. Sometimes an unlabeled circle appears here which represents an "
+"additional full-screen session started by an Activity whose icon already "
+"appears in the top edge of the Frame or an Activity that is having trouble "
+"completely starting. Invitations to collaborative Activity sessions also "
+"show up on this portion of the Frame. They appear as icons in the color of "
+"the person who sent them. Hover and you can see who it is and join in."
+msgstr ""
+
+# 53ab8ec08b1c4c57b879d8e23dd2ba3e
+#: ../source/frame.rst:26
+msgid ""
+"Active buddy list: People you are currently collaborating with appear on the "
+"right edge of the Frame."
+msgstr ""
+
+# 7f6b9cab2f9e4816b58ad2264eab7a6d
+#: ../source/frame.rst:27
+msgid ""
+"Clipboard: The left edge of the Frame serves as a clipboard. You can drag "
+"objects such as images and text to and from the clipboard, and from and to "
+"Activities. A hover menu also lets you remove them from the clipboard, open "
+"them in an Activity, or save (keep) them in your Journal."
+msgstr ""
+
+# e298cfbd70e949af99ccdf4d4999e884
+#: ../source/frame.rst:28
+msgid ""
+"System status (from left to right): Switch for the two modes of the touchpad "
+"(XO-1 only), external storage devices (e.g. thumb and hard drives), network "
+"status, text-to-speech, speaker (volume), and battery appear on the lower "
+"edge of the Frame."
+msgstr ""

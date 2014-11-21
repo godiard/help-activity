@@ -1,0 +1,160 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
+"PO-Revision-Date: 2013-12-18 17:10\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# ac3509270e034ba08afa858cdf4b36ce
+#: ../source/calculate.rst:3
+msgid "Calculate"
+msgstr ""
+
+# 2efb020ad2274b66820d70fed6740cc2
+#: ../source/calculate.rst:6
+msgid "About"
+msgstr ""
+
+# 836745ac2d644042bd730273ae005802
+#: ../source/calculate.rst:11
+msgid "Using Calculate"
+msgstr ""
+
+# 8140f1aa271440179e1a30d0fcdfb8a7
+#: ../source/calculate.rst:13
+msgid ""
+"For those who have used a scientific calculator, most of the functions of "
+"Calculate will be quite familiar."
+msgstr ""
+
+# 461f66d15d464a1eb3752ba11295a1b0
+#: ../source/calculate.rst:15
+msgid "The Toolbars are"
+msgstr ""
+
+# 5348631292924e1497f33afc7ccb634f
+#: ../source/calculate.rst:17
+msgid ""
+"Activity, Calculate icon: Name session, Journal entry description, "
+"collaborate"
+msgstr ""
+
+# 74ed0a0037f54d25835f623e8cfd2d31
+#: ../source/calculate.rst:19
+msgid "Edit, scissors icon: Copy, Paste"
+msgstr ""
+
+# 720ebb99df19425abf96773960cf8602
+#: ../source/calculate.rst:21
+msgid ""
+"Functions, {x}: Square, square root, reciprocal, exponential, power, "
+"logarithm, factorial"
+msgstr ""
+
+# 22a1ab4297ef4c51948cc5d998d04b90
+#: ../source/calculate.rst:23
+msgid ""
+"Trigonometry, triangle icon: sin, cos, tan, sin-1, cos-1, tan-1, sinh, cosh, "
+"tanh"
+msgstr ""
+
+# 6c1b86a41bab48849036840502b91c40
+#: ../source/calculate.rst:25
+msgid "Boolean, Venn diagram icon: and, or, =, !="
+msgstr ""
+
+# 077f4c2cac7742acb5abe89da6c3091f
+#: ../source/calculate.rst:27
+msgid "Constants, Greek letters icon: pi, e, gamma, phi"
+msgstr ""
+
+# 1ebd447f16834144b07a7762830b1260
+#: ../source/calculate.rst:29
+msgid "Plot: Hover menu offers Help"
+msgstr ""
+
+# e8175dd7631943dd92147401bc4eeb91
+#: ../source/calculate.rst:31
+msgid "Degrees/Radian angle measure"
+msgstr ""
+
+# 1b93b6bc030842218304604e045e75df
+#: ../source/calculate.rst:33
+msgid "Scientific/Engineering notation"
+msgstr ""
+
+# 82a902c3afdf46e2bd29529176282163
+#: ../source/calculate.rst:35
+msgid "Number of digits to show: 6, 9, 12, 15"
+msgstr ""
+
+# 283ff5d5200c49878660dcb9164ae0e4
+#: ../source/calculate.rst:37
+msgid "Base: Decimal, binary, octal, hex"
+msgstr ""
+
+# 9106837c818a449ba29b1e615a91ec9c
+#: ../source/calculate.rst:39
+msgid "Exit"
+msgstr ""
+
+# 2dc035434c614aa1800fda882c46be0e
+#: ../source/calculate.rst:42
+msgid "Getting help"
+msgstr ""
+
+# 0f8b423812724d70b2a4acf72a266e60
+#: ../source/calculate.rst:44
+msgid "To see a help option for plot, enter the command"
+msgstr ""
+
+# e05f98698d35487080088287e33690c7
+#: ../source/calculate.rst:46
+msgid "``help(plot)``"
+msgstr ""
+
+# 1d528cb3c46f469cb4fb571b8c074140
+#: ../source/calculate.rst:48
+msgid "on the text entry line."
+msgstr ""
+
+# 590437492596491297875f08f5c5a931
+#: ../source/calculate.rst:50
+msgid "The general help function is"
+msgstr ""
+
+# faa5f7a846314fc4a2bbe6cb2132cf11
+#: ../source/calculate.rst:52
+msgid "``help()``"
+msgstr ""
+
+# b3ecb4a9ef154f46abe13526c7748b29
+#: ../source/calculate.rst:54
+msgid "The list of help topics is available with the command"
+msgstr ""
+
+# 18ba357f7d834daaa93c5eb94b52687a
+#: ../source/calculate.rst:56
+msgid "``help(index)``"
+msgstr ""
+
+# b125a09209f8410da21ed97a5f42d3b6
+#: ../source/calculate.rst:58
+msgid ""
+"including topics not supported on the menus. Help is not provided for the "
+"constants pi, e, gamma (Euler-Mascheroni Constant) and phi (Golden Ratio), "
+"but these can be looked up on the Internet. Clicking their icons inserts "
+"their numeric values."
+msgstr ""

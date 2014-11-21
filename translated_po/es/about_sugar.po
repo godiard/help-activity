@@ -1,0 +1,254 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
+"PO-Revision-Date: 2013-12-18 17:10\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 4e2f6b0753974bf39ecfc3e73b103b24
+#: ../source/about_sugar.rst:3
+msgid "About Sugar"
+msgstr ""
+
+# 12fc915cc17a4a7f9c5f4421a23623fc
+#: ../source/about_sugar.rst:6
+msgid "What is Sugar?"
+msgstr ""
+
+# 9aa58693d9bc4b62859b94b9aec91b57
+#: ../source/about_sugar.rst:8
+msgid ""
+"*\"We like to think that a child's play is unconstrained—but when children "
+"appear to feel joyous and free, this may merely hide from their minds their "
+"purposefulness; you can see this more clearly when you attempt to drag them "
+"away from their chosen tasks. For they are exploring their worlds to see "
+"what's there, making explanations of what those things are, and imagining "
+"what else could be; exploring, explaining and learning are among a child's "
+"most purposeful urges and goals. The playfulness of childhood is the most "
+"demanding teacher we have. Never again in those children's lives will "
+"anything drive them to work so hard.\" —Marvin Minsky, The Emotion Machine*"
+msgstr ""
+
+# ad203f6cf2e94f90a26ba01cee1d9766
+#: ../source/about_sugar.rst:10
+msgid ""
+"Sugar is a learning platform that reinvents how computers are used for "
+"education. Collaboration, reflection, and discovery are integrated directly "
+"into the user interface. Sugar promotes \"studio thinking [1]_\" and "
+"\"reflective practice [2]_\". Through Sugar's clarity of design, children "
+"and teachers have the opportunity to use computers on their own terms. "
+"Students can reshape, reinvent, and reapply both software and content into "
+"powerful learning activities. Sugar's focus on sharing, criticism, and "
+"exploration is grounded in the culture of free and open-source software "
+"(FOSS)."
+msgstr ""
+
+# 724c016dfdff40ba8c98110eb4ea5f58
+#: ../source/about_sugar.rst:12
+msgid ""
+"|sugar_sharing| Sugar facilitates sharing and collaboration. Children can "
+"write documents, share books and pictures, or make music together with ease."
+msgstr ""
+
+# c43b69b4c93842bbb3bec0f02beb0721
+#: ../source/about_sugar.rst:16
+msgid ""
+"|sugar_ring| There are no files, folders, or applications. Children interact "
+"with Activities. Activities includes an application, data, and history of "
+"the interaction that can be used to resume and reflect on the child's work."
+msgstr ""
+
+# 31fa778a559649a6a763f2ce6228ea40
+#: ../source/about_sugar.rst:20
+msgid ""
+"|sugar_backup| Everything is saved automatically. It is our goal that you "
+"will never lose your work. Documents will eventually be synced with a "
+"network server, adding additional protection."
+msgstr ""
+
+# c75a8956b15440efb677a3aeba2a5c12
+#: ../source/about_sugar.rst:24
+msgid ""
+"|sugar_journal| A Journal is used for accessing data. The Journal is a diary "
+"of things that you make and actions you take. It is a place to reflect upon "
+"your work."
+msgstr ""
+
+# 059432e37d3c4459ad109aa7f1c4ea6f
+#: ../source/about_sugar.rst:28
+msgid ""
+"|opensource| Sugar is free and open-source software. Sugar is licensed under "
+"the GNU GPL; updates will always respect the freedom of its users."
+msgstr ""
+
+# 8f6ec3097e61490484f932fe22b40f2a
+#: ../source/about_sugar.rst:33
+msgid "Note to parents and teachers The Sugar Philosophy"
+msgstr ""
+
+# 5ce2e21ff23242619f627cef0695eafe
+#: ../source/about_sugar.rst:35
+msgid ""
+"Information is about nouns. Learning is about verbs. The Sugar user "
+"interface differs from traditional user interfaces in that it is based on "
+"both cognitive and social constructivism. We believe that learners should "
+"engage in exploration and collaboration. The Sugar platform is based on "
+"three defining human principles. These are the pillars of user experience "
+"for learning:"
+msgstr ""
+
+# 853ec439153740579643486a117da5a3
+#: ../source/about_sugar.rst:37
+msgid "Everyone is a teacher and a learner."
+msgstr ""
+
+# d7b7a379349c477f9f97beabf870d50d
+#: ../source/about_sugar.rst:38
+msgid "Humans are social beings."
+msgstr ""
+
+# 2b877b9d53384bd2af066d35aaa89cc3
+#: ../source/about_sugar.rst:39
+msgid "Humans are expressive."
+msgstr ""
+
+# 12075e337bb14ecd98902f21ffddac5e
+#: ../source/about_sugar.rst:41
+msgid "Two principles define the Sugar platform:"
+msgstr ""
+
+# 0e8ceefe2ea148d98915fa3ed3a1d8bd
+#: ../source/about_sugar.rst:43
+msgid ""
+"You learn through doing, so if you want to learn more, you want to do more."
+msgstr ""
+
+# 913b8ef81d3b4eb9b4d885847a30bce3
+#: ../source/about_sugar.rst:44
+msgid ""
+"Love is a better master than duty—you want people to engage in things that "
+"are authentic to them, things that they love. Internal motivation almost "
+"always trumps external motivations."
+msgstr ""
+
+# 4fd233d395544394bc9fd7ffc8e7ac47
+#: ../source/about_sugar.rst:46
+msgid "Three experiences characterize the Sugar platform:"
+msgstr ""
+
+# 285f4567987c4fa98e0f77c71eeb49d0
+#: ../source/about_sugar.rst:48
+msgid ""
+"Sharing: The Sugar interface always shows the presence of other learners. "
+"Collaboration is a first-order experience. Students and teachers dialog with "
+"each other, support each other, critique each other, and share ideas."
+msgstr ""
+
+# e021fa574a684240a481590cab25fad2
+#: ../source/about_sugar.rst:49
+msgid ""
+"Reflecting: Sugar uses a \"Journal\" to record each learner's activity. The "
+"Journal serves as a place for reflection and assessment of progress."
+msgstr ""
+
+# bf6279851c704fde8194b4f9c7bff295
+#: ../source/about_sugar.rst:50
+msgid ""
+"Discovering: Sugar can accommodate a wide variety of users, with different "
+"levels of skill in terms of reading, language, and different levels of "
+"experience with computing. It is easy to approach, yet it doesn't put an "
+"upper bound on personal expression. One can peel away layers and go deeper "
+"and deeper, with no restrictions."
+msgstr ""
+
+# ae99b54aac2e4a4586d10c0bb45c7c26
+#: ../source/about_sugar.rst:52
+msgid ""
+"Sugar is written in Python, an easy-to-learn interpreted language [3]_. This "
+"allows the direct appropriation of ideas in whatever realm the learner is "
+"exploring; music, browsing, reading, writing, programming, or graphics. The "
+"student can go further. They are not going to hit a wall. They can, at every "
+"level, engage with and affect the very tools they are using for their "
+"personal expression."
+msgstr ""
+
+# 0cc998c551324f1e88cf47add23e6015
+#: ../source/about_sugar.rst:54
+msgid ""
+"Throughout this manual we have added brief \"Note to parents and teachers\" "
+"sections which explains the philosophy behind the Sugar platform. We hope "
+"these sections help you guide your children and students through the "
+"learning process."
+msgstr ""
+
+# 7943fd778bce472ab312d36c2d7bb3c8
+#: ../source/about_sugar.rst:57
+msgid "Sugar Labs"
+msgstr ""
+
+# de31fa3671984251a7d6836c72e32fa9
+#: ../source/about_sugar.rst:59
+msgid ""
+"Sugar was designed for One Laptop per Child (OLPC), as part of an effort to "
+"provide an opportunity for a quality education to every children through the "
+"distribution of connected laptop computers, our most powerful tools for "
+"expression. Sugar is the user interface used on the OLPC XO laptop."
+msgstr ""
+
+# 8d6775e37dae42c982d03972f39f670f
+#: ../source/about_sugar.rst:61
+msgid ""
+"Sugar Labs is a non-profit foundation whose mission is to produce, "
+"distribute, and support the use of the Sugar learning platform. Sugar Labs "
+"supports the community of educators and software developers who want to "
+"extend the platform and who have been creating Sugar Activities. Sugar is a "
+"community project. It is available under the open-source GNU General Public "
+"License (GPL) and free to anyone who wants to use or extend it."
+msgstr ""
+
+# 18b2d9a150a445a091cecaad2996353f
+#: ../source/about_sugar.rst:63
+msgid ""
+"Studio thinking is a term used to describe how visual arts teachers teach "
+"and what visual arts students learn. The term is detailed in Studio "
+"Thinking: The Real Benefits of Visual Arts Education. Studio thinking "
+"includes \"studio structures\": demonstrations, projects, and critiques; as "
+"well as \"studio habits of mind\": develop craft, engage and persist, "
+"envision, express, observe, reflect, stretch and explore, and understand the "
+"art world. In the context of Sugar, studio thinking is applied not just to "
+"the arts, but to all disciplines."
+msgstr ""
+
+# df15ca0da9c74de8831aa31122accbca
+#: ../source/about_sugar.rst:65
+msgid ""
+"Reflective practice is a concept introduced by Donald Schön in his book The "
+"Reflective Practitioner. Reflective practice involves students applying "
+"their own experiences to practice while being mentored by domain experts. In "
+"the context of Sugar, the expert could be a teacher, a parent, a community "
+"member, or a fellow student."
+msgstr ""
+
+# eb39c8bbdff74277be04342d8540e51c
+#: ../source/about_sugar.rst:67
+msgid ""
+"An interpreted language is a programming language whose instructions are "
+"interpreted \"on the fly\" (or compiled to a virtual machine code) as "
+"opposed to precompiled. The significance of interpreted languages to the "
+"Sugar platform include: platform independence, ease of debugging, ready "
+"access to source code, and small program size. Python is a general-purpose, "
+"high-level programming language. It emphasizes code readability and features "
+"a minimalist syntax and comprehensive standard library."
+msgstr ""

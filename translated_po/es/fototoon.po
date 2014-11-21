@@ -1,0 +1,730 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-18 17:10\n"
+"PO-Revision-Date: 2013-12-18 17:10\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 4f3c82a4db884a41bc2d88898b7d315e
+#: ../source/fototoon.rst:3
+msgid "FotoToon"
+msgstr ""
+
+# cf953678aefe43549f1aa44e1d74ec91
+#: ../source/fototoon.rst:8
+msgid "About"
+msgstr ""
+
+# 72bd2f6f78544419baaa2b4b2614201f
+#: ../source/fototoon.rst:10
+msgid ""
+"The FotoToon Activity will allow you to create everything from a simple "
+"\"comic\" strip to a long elaborate illustrated document. You will be able "
+"to import many kinds of images into the panes of your project and add text "
+"bubbles to help tell the story. You can use photo images taken with the XO "
+"or imported from a camera, drawings made with Activities such as Paint, and "
+"images of all kinds downloaded from the web. This could include photos, "
+"charts and graphs, maps, and the like."
+msgstr ""
+
+# 51e369c6dd5143799d744cb292c26780
+#: ../source/fototoon.rst:12
+msgid ""
+"This introduction to FotoToon will show you how to get started with a simple "
+"4 panel project."
+msgstr ""
+
+# 57eb73515d424e7095dcefab8b7a9745
+#: ../source/fototoon.rst:14
+msgid ""
+"FotoToon, like many other Sugar Activities, is often updated to fix \"bugs\" "
+"that users report. There was one update, from version 15 to version 16 "
+"during the time this instruction chapter was written. By the time you use "
+"it, there may be others. The changes are usually minor and should not "
+"interfere with the usefulness of this information. Always try to be sure you "
+"are using the latest version."
+msgstr ""
+
+# 9dd5bb18463e4353bddc93928aa7218e
+#: ../source/fototoon.rst:17
+msgid "Using FotoToon"
+msgstr ""
+
+# 75b7063e010443ff8b779cc37e0ab466
+#: ../source/fototoon.rst:20
+msgid "The Main FotoToon Toolbar"
+msgstr ""
+
+# d1c81c29df8e4bdcbe75ef5cca823dc1
+#: ../source/fototoon.rst:24
+msgid ""
+"The FotoToon Toolbar has 9 icons including 3 with pulldown menus. The main "
+"FotoToon toolbar allows you to access many features of the Activity. Here is "
+"a description of what each of the icons will allow you to do:"
+msgstr ""
+
+# 0e3979db0be04e079a66b55e85989085
+#: ../source/fototoon.rst:26
+msgid ""
+"The FotoToon icon. When you hover your cursor over this icon you will open a "
+"small pulldown that allows you to export your work as an image or a book  "
+"(pdf file). See below for more details."
+msgstr ""
+
+# a78900fd80bf421c9d38b9a2f4cd815d
+#: ../source/fototoon.rst:27
+msgid ""
+"This icon allows you to view the content in full screen or presentation mode."
+msgstr ""
+
+# 99e317d50837404b841d1017a2389f37
+#: ../source/fototoon.rst:28
+msgid ""
+"The **Add Photo** icon. This icon allows you to add an image to your "
+"project. It can be a photo you take with the XO or digital camera, or import "
+"from the web. It can also be a picture, page, or project you create in "
+"another Sugar Activity."
+msgstr ""
+
+# 4d2b8d2253e74efe98fb89248a78d7a2
+#: ../source/fototoon.rst:29
+msgid ""
+"The **Add a globe** icon. This allows you to add a globe. It is used to tell "
+"what the characters of your image is speaking. This also include some other "
+"icons such as whispher and think."
+msgstr ""
+
+# 82084e9af9224c81a4230c65effba5b4
+#: ../source/fototoon.rst:30
+msgid ""
+"The **Choose a movement line** icon. This can be used to insert some other "
+"icons such as highlight and idea to the image."
+msgstr ""
+
+# 044404edb6e847c3b659812b9ab42cce
+#: ../source/fototoon.rst:31
+msgid ""
+"The **Rotate** icon. This allows you to rotate the selected object in the "
+"clockwise direction in 90 degrees for each click."
+msgstr ""
+
+# c60cc1c6b290483fb952fc60aea9119e
+#: ../source/fototoon.rst:32
+msgid "The **Delete** icon. This allows you to delete the selected object."
+msgstr ""
+
+# 70e95977a3b74d7f9cd94785fa057343
+#: ../source/fototoon.rst:33
+msgid ""
+"This icon allows you to change the text properties of what you have typed. "
+"See below for more details."
+msgstr ""
+
+# 084155a0a9b54c068c574cad2c9f81c5
+#: ../source/fototoon.rst:34
+msgid ""
+"The familiar stop-sign icon is one way to stop the FotoToon Activity. You "
+"can also use the keyboard shortcut: ctrl-Q."
+msgstr ""
+
+# 12a171ab3aa6412194cf7d47ae0956bf
+#: ../source/fototoon.rst:36
+msgid ""
+"**Title:** box allows you to give a name to your project. Click on it and "
+"replace the content with the name you wish for your work."
+msgstr ""
+
+# 563ff96ac4b74beb842db6603fa7ac10
+# 1e56b055498e4b03a1ad81a67ecad89a
+#: ../source/fototoon.rst:39 ../source/fototoon.rst:196
+msgid "The Export Pulldown"
+msgstr ""
+
+# fa3e62eca7f0485cb192de6692b2e182
+# e2f6f3e8b2564d53a767d63b4c6ddfc2
+#: ../source/fototoon.rst:43 ../source/fototoon.rst:200
+msgid ""
+"1a- This little panel allows you to name your project before you export it "
+"as an image. If you do nothing, it will appear in the Journal as, \"FotoToon "
+"as image.\" If you give it a name, such as \"My Project-1\" before exporting "
+"it will appear in the Journal as \"My Project-1 as image\". This will make "
+"it easier to find later in the Journal. Just erase the FotoToon label and "
+"replace it with the title you want to use. If you forget to name it when "
+"saving, you can always go to the Journal and select and rename it."
+msgstr ""
+
+# fcdd31d4f7524a10882898140c13ff6b
+#: ../source/fototoon.rst:45
+msgid "1b- This allows you to add a description to the journal entry."
+msgstr ""
+
+# 2db5cef5f1c04da988c0d639a8ac912d
+# 6bf04cfbce414f9e82d9373806e4e7c9
+#: ../source/fototoon.rst:47 ../source/fototoon.rst:204
+msgid "1c- This greyed out icon for home view is currently inactive."
+msgstr ""
+
+# 5c434b72d3a348dab33cca701a96003b
+# 8ef841add8f94b1ab1dc1356211cedbf
+#: ../source/fototoon.rst:49 ../source/fototoon.rst:206
+msgid ""
+"1d- Click on this icon to export your project as an image. The export will "
+"just show your project. The tool bars and other things on the screen will "
+"not be included. If you wish a screen shot of the entire screen, you can "
+"make one by using the usual alt-1 (press the alt key and the 1 key at the "
+"same time)."
+msgstr ""
+
+# be5da76c78b544c0b98aa7a8aa70996c
+# 76144f408bdf49558dcf730287a50698
+#: ../source/fototoon.rst:51 ../source/fototoon.rst:208
+msgid ""
+"1e- Click this icon to export your project as an book. The export will just "
+"show your project. The tool bars and other things on the screen will not be "
+"included. The book will be saved in PDF format. It can be viewed from Read "
+"Activity."
+msgstr ""
+
+# cf6fb22459fc483d94f0321190deb5c5
+#: ../source/fototoon.rst:54
+msgid "The View Pulldown"
+msgstr ""
+
+# 722f7aa18609476bb675afc21a682400
+#: ../source/fototoon.rst:58
+msgid ""
+"2a- Click this to view your project in slideshow mode. It will allow you to "
+"view your project slide by slide. In the slideshow, click on the arrows by "
+"the sides to navigate forward and backword in your slides. Click on the "
+"**slidshow** icon again to return to edit mode."
+msgstr ""
+
+# 80a01901b791474bb5b2e8fbbb71199e
+#: ../source/fototoon.rst:60
+msgid ""
+"2b - Click this to work in full screen. This will hide the toolbar and thus "
+"you will have more space for your design. Once you are in the full screen "
+"mode, the same icon will appear on the top right corner of the window. Click "
+"that icon to return to the normal edit mode."
+msgstr ""
+
+# c26ae2a6173149cf82b651f5353c7954
+#: ../source/fototoon.rst:63
+msgid "Add a globe menu"
+msgstr ""
+
+# c9e62b13ced3489c94a0583ba5ab2590
+#: ../source/fototoon.rst:67
+msgid "3a- You can use this to present an expression of exclamation."
+msgstr ""
+
+# 891b707dcdd547c9864785052c3a8e3f
+#: ../source/fototoon.rst:69
+msgid ""
+"3b- You can use this when some one (a character) in your projects whispers "
+"someting to another."
+msgstr ""
+
+# 9dfdc6d7a7b945ebac213c2eda6a0452
+#: ../source/fototoon.rst:71
+msgid ""
+"3c- You can use this to express what the characters of your projects are "
+"speaking."
+msgstr ""
+
+# f09a9a40f6764d72a22fd78f78d4a30c
+#: ../source/fototoon.rst:73
+msgid "3d- You can use this to add a box to your project."
+msgstr ""
+
+# 1f18db0c0c36454ebf32583aa0ced02c
+#: ../source/fototoon.rst:75
+msgid ""
+"3e- You can use this to express that some character in your project are "
+"thinking."
+msgstr ""
+
+# 1be8e6180960469a948c452ecfbf4902
+#: ../source/fototoon.rst:78
+msgid "Choose a movement line menu"
+msgstr ""
+
+# 681db3891147479cbabff0e16a12f3fc
+#: ../source/fototoon.rst:82
+msgid "4a- You can use this to add a highlight to your project."
+msgstr ""
+
+# 8196cff3cead4dfeac95cccfcfe16560
+#: ../source/fototoon.rst:84
+msgid "4b- You can use this to add straight lines to your project."
+msgstr ""
+
+# e82784ca35934662b517e371bfaf8af8
+#: ../source/fototoon.rst:86
+msgid "4c- You can use this to add an idea to your project."
+msgstr ""
+
+# f7ac5280b436423581ec91752c196a37
+#: ../source/fototoon.rst:88
+msgid "4d- You can use this to add curves to your project."
+msgstr ""
+
+# d7e1d0aea65d45d4acbf1aaf46713f16
+#: ../source/fototoon.rst:91
+msgid "The Text Pulldown"
+msgstr ""
+
+# 9919d6a655c140bbad5ca28e9bee67a8
+#: ../source/fototoon.rst:95
+msgid ""
+"The Text Pulldown menu allows you to control the appearance of the text you "
+"add to your project. Generally, they apply to everything in the box or "
+"bubble you are currently working on. You do not have to highlight the text "
+"to change it."
+msgstr ""
+
+# ad1e8f6af921482796050ae6a62c07d7
+#: ../source/fototoon.rst:97
+msgid ""
+"8a- Selecting this icon will change the text you are working on to Bold. "
+"Clicking it again reverts back to regular text,"
+msgstr ""
+
+# bfd59794e2054f2db5b62fdb8ce5d237
+#: ../source/fototoon.rst:99
+msgid ""
+"8b- Selecting this icon will change the text your are working on to Italics."
+msgstr ""
+
+# 5513fc7088db4a86a4188aae3f8ae0bb
+#: ../source/fototoon.rst:101
+msgid ""
+"Note: clicking on both of these icons, in any order, will give you Bold "
+"Italic text. Clicking both again, in any order, will get you back to regular "
+"text."
+msgstr ""
+
+# a168a1b41aa343849f40748f881871ea
+#: ../source/fototoon.rst:103
+msgid ""
+"8c- Clicking on this icon will open the Text Color Palette. See below for "
+"information on how to use it."
+msgstr ""
+
+# 8b64feddd2c14d9ea39bdb0af08171b5
+#: ../source/fototoon.rst:105
+msgid ""
+"8d-  Clicking this will reduce the size of the text. The current size will "
+"be displayed just next to this icon."
+msgstr ""
+
+# d4c4b5d3d2f04d338596c99e733a4b08
+#: ../source/fototoon.rst:107
+msgid ""
+"8e - Clicking this will increase the size of the text. The current size will "
+"be displayed just before the icon."
+msgstr ""
+
+# 3dbb2e68f76b43e08daca46707d9bed0
+#: ../source/fototoon.rst:109
+msgid ""
+"8f- This pull down offers a choice of different fonts, listed in "
+"alphabetical order. Some, such as \"Ding Bats\" don't actually produce "
+"anything. Be sure to test the font on your text to see if it looks the way "
+"you would like it to."
+msgstr ""
+
+# e8d3068d3b964e73a2edbc2111d9b4c9
+#: ../source/fototoon.rst:112
+msgid "The Color Palette Pulldown"
+msgstr ""
+
+# 86a8558068aa423993daad1c38dae46b
+#: ../source/fototoon.rst:116
+msgid ""
+"The Color Palette Pulldown allows you to choose the color of your font. It "
+"will apply to everything in the box or bubble but can vary from one box or "
+"bubble to the next as you choose. There are 12 preset colors you can use, or "
+"you can create a custom color by selecting one of the preset colors and "
+"dragging the sliders to give more or less Red, Green, or Blue in the "
+"selected color. The little circle at the top of the Color Palette shows the "
+"current color. When you are satisfied with the color you have selected/"
+"modified, click on the little circle to accept the chosen color and close "
+"the Color Palette. It may take a few seconds for the new color to appear in "
+"the text box. But, don't worry, it will!"
+msgstr ""
+
+# 4e0251a57c064891a3d22af3601d09eb
+#: ../source/fototoon.rst:119
+msgid "Learning with FotoToon"
+msgstr ""
+
+# 43300e6d35334b7886a943c0fe5f7215
+#: ../source/fototoon.rst:122
+msgid "Plan Ahead"
+msgstr ""
+
+# 8085135886d14bbaa8be2840f0d237ac
+#: ../source/fototoon.rst:124
+msgid ""
+"FotoToon can be used for a wide variety of learning activities, but the "
+"general process is always similar. For the sample project in this section, "
+"we will make a 4 panel page using 4 photos. This is a good way to get "
+"started since the page can be printed on a single page."
+msgstr ""
+
+# 332f4d31347e433ebddb1cfa2982d822
+#: ../source/fototoon.rst:126
+msgid ""
+"Here are the general steps you need to complete before you build your first "
+"FotoToon project:"
+msgstr ""
+
+# 8b7820af7a344f07aa375a4ebae32712
+#: ../source/fototoon.rst:128
+msgid ""
+"**Step One: Decide what your project will be about.** You can tell a story "
+"about anything. For example, it could be about your pets, your home, your "
+"family, your town, or, even some photos you took at a party. Any topic is "
+"fine for our first project. The sample project will be about \"Healthy Snacks"
+"\" and the photos will be pictures of food."
+msgstr ""
+
+# f13b91640bc141d080f93516748743f0
+#: ../source/fototoon.rst:130
+msgid ""
+"**Step Two: Make a plan.** Before you begin you should make a plan that will "
+"guide you through the construction of your project. Some people like to draw "
+"a little sketch of each pane showing what will be in the picture and a "
+"suggestion for what words will be added. If you like the panes can each be "
+"on a separate small piece of paper so you can re-arrange them easily This is "
+"called a **Story Board**. You may have another way you would like to make "
+"your plan, just be sure to include information about what pictures you will "
+"use, where you will get them, and what text you plan to add."
+msgstr ""
+
+# 8d0133dff9fd42a1adbc8e7257924f5c
+#: ../source/fototoon.rst:132
+msgid ""
+"**Step Three: Gather your images.** For starters, we will use images that "
+"were taken either with a camera, or using the **Record Activity** on the XO. "
+"Any image that can be imported to the Journal on your XO and viewed in "
+"**Image Viewer** can be used. It is a good idea to rename each of the photos "
+"you will be using in the Journal. The name can include the number of the "
+"pane you plan to use it in so it is easy to find when you begin putting "
+"things together."
+msgstr ""
+
+# e04cc546e6024a3dab5885b7654bbb8f
+#: ../source/fototoon.rst:135
+msgid "Place Your Images"
+msgstr ""
+
+# cdbfc7bb13d0405d96e6c393c98a07fa
+#: ../source/fototoon.rst:137
+msgid ""
+"Open the Journal and check to be sure your images are there and can be "
+"viewed in the Image Viewer (click on the file to open it and check). Be sure "
+"the images have names that include the number of the pane you plan to place "
+"them (1,2,3, or 4)."
+msgstr ""
+
+# 0cdcc6d6c4484ecd88f86289e29f0ada
+#: ../source/fototoon.rst:139
+msgid ""
+"Open FotoToon and find the \"Add Photo\" icon (number 3 in the FotoToon main "
+"toolbar shown above). A list of available images will appear. Click on the "
+"one you want to put in the first pane. When it has loaded, you can either "
+"leave it or remove it with the minus sign icon (number 7 in the main toolbar "
+"shown above). Warning: You can only remove the last image entered. That is "
+"why it is important to number the images according to the panes you wish to "
+"place them in. After the first image has been placed, continue adding images "
+"until all four for your first project have been placed. If you decide later "
+"that you want to change their order after they have been placed, you will "
+"need to delete them and replace them in the new order. It is best to get "
+"your final placement before adding any text."
+msgstr ""
+
+# 62609e60016b4a62819476bc94c31645
+#: ../source/fototoon.rst:145
+msgid ""
+"If you would like to use the same images that will be used in this sample "
+"project, you will find them at these links. Go to each link, upload the "
+"photo to a usb drive, plug it into your XO, and open by clicking on the "
+"image names. They will open in the Image Viewer and be automatically saved "
+"so you can access them for your project."
+msgstr ""
+
+# 8d55cbaf61384535a41c9c06515abcd7
+#: ../source/fototoon.rst:147
+msgid "Pane-1 http://wiki.laptop.org/go/File:1-Apple-Fries.png"
+msgstr ""
+
+# 04b2e6275a1b47609996992d61a9fa0e
+#: ../source/fototoon.rst:149
+msgid "Pane-2 http://wiki.laptop.org/go/File:2-Soda-Milk.png"
+msgstr ""
+
+# 403635a61bba483288632b15570d97c5
+#: ../source/fototoon.rst:151
+msgid "Pane-3 http://wiki.laptop.org/go/File:3-Cookies-Yogurt.png"
+msgstr ""
+
+# 2bf07da9134240a998dfc8bf33970891
+#: ../source/fototoon.rst:153
+msgid "Pane-4 http://wiki.laptop.org/go/File:4-HealthySnacks.png"
+msgstr ""
+
+# 2f4d5f2198324b70aa776c89345201c3
+#: ../source/fototoon.rst:156
+msgid "Add Dialog and Titles"
+msgstr ""
+
+# 4d73af31bf744d78baa7eac685aab5bd
+#: ../source/fototoon.rst:158
+msgid ""
+"If you have planned well with your storyboard, you will have a pretty good "
+"idea of what you want to put in your dialog balloons and text boxes. You may "
+"even have a title in mind for your project. You can actually start this "
+"process anywhere in your project. All of the balloons and boxes you will be "
+"using to do this will be identified in the first image above, the The Main "
+"PhotoToonToolbar."
+msgstr ""
+
+# 8fb0f4640f3049de80dfe2b939f2f254
+#: ../source/fototoon.rst:160
+msgid ""
+"Making and placing your Title: If you know what you would like your title to "
+"be, you can start with that. It can always be changed later. When you start "
+"a project in FotoToon there will already be a tiny box for the title in a "
+"narrow band across the top of the project window. You can drag the upper "
+"left corner of the box to enlarge it (look for the cursor arrow to change to "
+"a thinner double headed arrow). You can also move it around in the band "
+"across the top. Click on the box and type all or part of your title. Then "
+"you can change the type style and size using the pull downs in the Text "
+"Pulldown menu (see 8d and 8e) in the picture above). Experiment until you "
+"find a style and size you like. You can also change the color of the type. "
+"Don't worry if it isn't perfect, you can always come back later and change "
+"it. Notice that you can erase part of the text by backspacing over it."
+msgstr ""
+
+# bd93e01c5e95492694ed8cb4d516897c
+#: ../source/fototoon.rst:166
+msgid ""
+"In this image you can see that we selected bold, a red color from the color "
+"palette, a type size of 26, and the Font \"Monospace\"."
+msgstr ""
+
+# de268c540cd84c6dbf9af3cfbdf5f40d
+#: ../source/fototoon.rst:169
+msgid ""
+"Adding Text Balloons: You can place the text balloons wherever you like "
+"within a pane. Click on the pane, then on the balloon you want to use (see "
+"\"Add a global menu\" and \"Choose a movement line menu\" above for "
+"explanations). The balloon will appear in the pane. You can drag it to the "
+"position where you want it, and also can drag the little tail to point to "
+"the source of the dialog. Add the words to the balloon in the same way you "
+"added them to the Title box."
+msgstr ""
+
+# 50ed933ae63243e9938cf51289ca3f15
+#: ../source/fototoon.rst:174
+msgid ""
+"In this image you can see that we have added 4 dialog balloons (#4 in the "
+"main toolbar). We could also have used the \"think\" balloon, or the "
+"\"whisper\" balloon. The first pane is OK, but the first balloon in the "
+"second pane needs to be dragged to a better shape and size. The second "
+"balloon in the second pane appears just as it does when it is first added. "
+"It still needs to have text added and to be resized (by dragging a corner). "
+"You can see that our type size is 10, text color is black, and we are still "
+"using the \"Monospace\" font."
+msgstr ""
+
+# 58b601713734476ca98cdc5a46676edc
+#: ../source/fototoon.rst:176
+msgid ""
+"As you work with the various text items, you may wish to eliminate one "
+"entirely. Just click on it, then on the icon with the minus (-) sign (#7 in "
+"the main toolbar), and it will disappear."
+msgstr ""
+
+# 422bc3a617214395979b036956390324
+#: ../source/fototoon.rst:178
+msgid ""
+"Adding Exclamation Balloons: You may wish to include special exclamations to "
+"your project. Choose the exclamation balloon (choose from # 4 in the main "
+"toolbar). It is possible to eliminate the one longer point on the balloon by "
+"dragging it so that it matched the others. Again, type into the balloon just "
+"as you did in the title box and dialog balloons."
+msgstr ""
+
+# ceaa024aaa8d4c29813ad14fecb2c641
+#: ../source/fototoon.rst:180
+msgid ""
+"Adding extra Text Boxes: You can add a text box anywhere in any pane by "
+"clicking on the pane and then on the box icon in the diagram (choose from #4 "
+"in the main toolbar)."
+msgstr ""
+
+# 2388d107933949a193c5d7535aa6c62a
+#: ../source/fototoon.rst:184
+msgid ""
+"In this example you can see we have added 4 exclamation balloons and one "
+"extra text box. We used the same text size, font, and color as in the rest "
+"of the project. You could choose to use different ones in your project."
+msgstr ""
+
+# 2b2c9acee19b407992cdc6b2a0d268fd
+#: ../source/fototoon.rst:187
+msgid "Exporting Your Project"
+msgstr ""
+
+# ba0db9f830cd46379d87c5ae8f075701
+#: ../source/fototoon.rst:189
+msgid ""
+"Now, if you have followed the instructions above, you should have a small, "
+"completed FotoToon Project. You may have decided to use the same photos that "
+"are in the sample, or you may have chosen to use images you have imported. "
+"These can be from your camera, your XO, downloads from the web, projects you "
+"have made in other Activities, drawings you made in Paint, or even photos "
+"you have modified in Paint (import, then add things and/or crop as you "
+"like). When finished, your project will look something like this:"
+msgstr ""
+
+# a961e4d2955f4e33b97b0e24715aa2b4
+#: ../source/fototoon.rst:193
+msgid ""
+"Regardless of what you have made for your project, you will probably want to "
+"share it with others. You can do this as an email attachment or print it out "
+"as a paper copy. To do this, you need to export your project as an image "
+"stored in your Journal. The instructions for exporting your project are "
+"shown above. We will repeat them here as well."
+msgstr ""
+
+# 4bfb6067459548569877b3adbfca3021
+#: ../source/fototoon.rst:202
+msgid "1b- This allows you to add a description to jounal entry."
+msgstr ""
+
+# 0867b72b401e4041a8561bb52665e84a
+#: ../source/fototoon.rst:210
+msgid ""
+"Look in the Journal. Your project should appear there with the name you gave "
+"it before exporting. If you forgot to give it a name, it will just say "
+"\"FotoToon.\" If this happened, rename it now, in the Journal before you "
+"forget to do it."
+msgstr ""
+
+# f245b22109dd4acc966240a288209713
+#: ../source/fototoon.rst:213
+msgid "Extending FotoToon"
+msgstr ""
+
+# a1f3c6bab59d496d92bf949fb5ff12fb
+#: ../source/fototoon.rst:215
+msgid ""
+"FotoToon can be used for much more than the simple 4-pane example we built "
+"in the instructions. It can be adapted for use in many different subject "
+"areas where students and teachers can construct lessons on any topic. Here "
+"are some possible ideas for projects:"
+msgstr ""
+
+# d8e43e125c754c99a900f69f959fe10e
+#: ../source/fototoon.rst:217
+msgid ""
+"Student written comic books for language arts practice. Students can write "
+"their own little \"graphic novels\" and even print them and take home to "
+"share with friends and family."
+msgstr ""
+
+# bf53ca71bb354786b74ba729c7113c27
+#: ../source/fototoon.rst:219
+msgid ""
+"Student produced magazine articles for any topic they and their teachers "
+"choose. A single page or two-page \"spread\" will make it like the ones you "
+"see in actual magazines. One or more panes on the page can be used just for "
+"text to extend the story. The text could be written in another program and "
+"imported as an image or put in a large text box that fills the pane. The "
+"advantage of doing it all in FotoToon is that it would be easier to edit and/"
+"or change the text there than if it is imported as an image. Some possible "
+"ideas for these articles could be:"
+msgstr ""
+
+# 8a0e6ba8060f42f6bbacf54d81b6ec1a
+#: ../source/fototoon.rst:221
+msgid "Cooking favorite foods (with recipes)"
+msgstr ""
+
+# 78ae4ebb4c564d20a5eedc3df4562489
+#: ../source/fototoon.rst:223
+msgid "Family pets (pictures and stories)"
+msgstr ""
+
+# 19fdadb0227c40598d08c19764117b83
+#: ../source/fototoon.rst:225
+msgid ""
+"Our neighborhood (pictures and stories of places to see or problems that "
+"need to be solved)"
+msgstr ""
+
+# 148d2d03716c4ca2b839b34026f4fbd8
+#: ../source/fototoon.rst:227
+msgid ""
+"Science articles with photos of plants, animals, rocks, etc. including "
+"descriptions and information"
+msgstr ""
+
+# da75aaae196d4708aa8f0e433c6f19f1
+#: ../source/fototoon.rst:229
+msgid ""
+"Historical articles with photos of people or places imported from the web"
+msgstr ""
+
+# 47ba7cbdfb3b41e39fb829f61f790b0a
+#: ../source/fototoon.rst:231
+msgid "\"How To\" articles on any topic the students or teacher choose"
+msgstr ""
+
+# 93030fdd97f340479af52f9a67d92ded
+#: ../source/fototoon.rst:235
+msgid "Modifying FotoToon"
+msgstr ""
+
+# b2bcc1257949454bb3737b98a2455e48
+#: ../source/fototoon.rst:237
+msgid ""
+"FotoToon is free open source software and, as such is available to be "
+"modified by the user as they wish as long as they give the original source "
+"proper credit. So, if you are a programmer and want to change something to "
+"suit your needs, you may do so. Just don't forget to give credit where "
+"credit is due."
+msgstr ""
+
+# 27e1379fe08f4a978743de8fe181f9d3
+#: ../source/fototoon.rst:239
+msgid ""
+"If you are not a programmer, you can suggest changes or modifications to the "
+"Activity to the original programmer at the same place where you would report "
+"problems. If it is something that will improve the Activity and not "
+"interfere with other parts of it, the programmers will be happy to consider "
+"including it in a future update."
+msgstr ""
+
+# 57fe34bb664f40beb9299b6c723479d1
+#: ../source/fototoon.rst:241
+msgid ""
+"Because there are always updates and improvements happening with this "
+"program, be sure to always check to be sure you have the latest version."
+msgstr ""
