@@ -42,18 +42,6 @@ def get_index_uri():
     if not os.path.isfile(index_path):
         index_path = os.path.join(
             activity.get_bundle_path(), 'html/index.html')
-
-    # verify if the images and _static dir exists
-    html_path = index_path[:index_path.rfind('/')]
-    images_path = os.path.join(html_path, '_images')
-    if not os.path.exists(images_path):
-        os.symlink(os.path.join(activity.get_bundle_path(), 'images'),
-                   images_path)
-    static_path = os.path.join(html_path, '_static')
-    if not os.path.exists(static_path):
-        os.symlink(os.path.join(
-            activity.get_bundle_path(), 'html', '_static'), static_path)
-
     return 'file://' + index_path
 
 
@@ -128,7 +116,20 @@ class HelpActivity(activity.Activity):
 
         self.set_canvas(_scrolled_window)
         self._web_view.show()
+        self._web_view.connect("resource-request-starting",
+                               self._resource_request_starting_cb)
         self._web_view.load_uri(get_index_uri())
+
+    def _resource_request_starting_cb(self, webview, web_frame, web_resource,
+                                      request, response):
+        uri = web_resource.get_uri()
+        if uri.find('_images') > -1:
+            if uri.find('/%s/_images/' % get_current_language()) > -1:
+                new_uri = uri.replace('/html/%s/_images/' % get_current_language,
+                                      '/images/')
+            else:
+                new_uri = uri.replace('/html/_images/', '/images/')
+            request.set_uri(new_uri)
 
     def get_document_path(self, async_cb, async_err_cb):
         html_uri = self._web_view.get_uri()
