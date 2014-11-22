@@ -71,12 +71,10 @@ class HelpActivity(activity.Activity):
         viewbutton.show()
 
         separator = Gtk.SeparatorToolItem()
-        #separator.props.draw = False
-        #separator.set_expand(True)
         toolbar_box.toolbar.insert(separator, -1)
         separator.show()
 
-        #lets reuse the code below
+        # lets reuse the code below
         navtoolbar = Toolbar(self._web_view)
 
         toolitem = Gtk.ToolItem()
@@ -125,7 +123,8 @@ class HelpActivity(activity.Activity):
         uri = web_resource.get_uri()
         if uri.find('_images') > -1:
             if uri.find('/%s/_images/' % get_current_language()) > -1:
-                new_uri = uri.replace('/html/%s/_images/' % get_current_language,
+                new_uri = uri.replace('/html/%s/_images/' %
+                                      get_current_language,
                                       '/images/')
             else:
                 new_uri = uri.replace('/html/_images/', '/images/')

@@ -14,7 +14,6 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
-import logging
 import os
 import zipfile
 import tarfile
@@ -32,6 +31,7 @@ INCLUDE_DIRS = ['activity', 'html', 'images', 'source', 'locale']
 IGNORE_FILES = ['.gitignore', '*.pyc', '*~', '*.patch', '*.diff']
 
 IGNORE_DIRS = ['_images']
+
 
 def list_files(base_dir, filter_directories=False):
     if filter_directories:
@@ -59,7 +59,7 @@ def list_files(base_dir, filter_directories=False):
             while n < len(dirs):
                 directory = dirs[n]
                 if include_dirs is not None and \
-                        not directory in include_dirs:
+                        directory not in include_dirs:
                     dirs.remove(directory)
                 else:
                     n = n + 1
@@ -69,7 +69,6 @@ def list_files(base_dir, filter_directories=False):
                     dirs.remove(directory)
 
     return result
-
 
 
 class XOHelpPackager(bundlebuilder.Packager):
@@ -87,12 +86,10 @@ class XOHelpPackager(bundlebuilder.Packager):
                                      zipfile.ZIP_DEFLATED)
 
         for f in list_files('./', True):
-            #logging.error('Adding %s', f)
             bundle_zip.write(os.path.join(self.config.source_dir, f),
                              os.path.join(self.config.bundle_root_dir, f))
 
         bundle_zip.close()
-
 
 
 class SourceHelpPackager(bundlebuilder.Packager):
