@@ -30,22 +30,22 @@ The following guide assumes you ``git clone`` from your home directory. This com
 
 ::
 
- git clone gitorious@git.sugarlabs.org:help/mainline.git
+ git clone git@github.com:godiard/help-activity.git
 
 You can install it in your Sugar development environment doing: ::
 
- cd mainline
+ cd help-activity
  ./setup.py dev
 
 and, when you are ready, to populate your Help pages ::
 
  make html
 
-You can modify any .rst file in ~/mainline/source/ directory or the images in the ~/mainline/source/images/ directory.
+You can modify any .rst file in ~/help-activity/source/ directory or the images in the ~/help-activity/source/images/ directory.
 
 To create the new HTML files you only need do: ::
 
- cd mainline
+ cd help-activity
  make html
 
 If you see an error indicating that HTML cannot be built, the most likely cause is that ``python-sphinx`` is missing.
@@ -60,7 +60,7 @@ or in Debian or Ubuntu derivatives, ::
 
 In **Sugar** you don't need restart Help to see the changes after running ``make html``, you just click with the secondary mouse button, and select reload.
 
-In any other, non-Sugar, Linux environment the command ``git clone gitorious@git.sugarlabs.org:help/mainline.git`` works to download the sources, ``./setup.py dev`` should be omitted, and the output of ``make html`` is in ``~/mainline/html``, and is displayed by opening ``~/mainline/html/index.html`` in a browser.
+In any other, non-Sugar, Linux environment the command ``git clone git@github.com:godiard/help-activity.git`` works to download the sources, ``./setup.py dev`` should be omitted, and the output of ``make html`` is in ``~/help-activity/html``, and is displayed by opening ``~/help-activity/html/index.html`` in a browser.
 
 What if I break Help?
 :::::::::::::::::::::
@@ -90,19 +90,19 @@ Now move progressively through ::
 
  file:///home/your-username
 
- file:///home/your-username/mainline
+ file:///home/your-username/help-activity
 
- file:///home/your-username/mainline/source
+ file:///home/your-username/help-activity/source
 
 You are now able to open and inspect any of the *source_files.rst* safely.
 
 We can back off again and reach ::
 
- file:///home/your-username/mainline/html
+ file:///home/your-username/help-activity/html
 
 and then select and display any of the output HTML files.
 
-In this page we use the convention of calling ``/home/your-username/mainline/source`` by the shorter, ``~/mainline/source``.
+In this page we use the convention of calling ``/home/your-username/help-activity/source`` by the shorter, ``~/help-activity/source``.
 
 .. _Orientation:
 
@@ -113,21 +113,21 @@ Orientation
 
 The two source folders we look at are filled initially by the download of Help.
 
-The directory ``~/mainline/source/`` contains the text files we will be altering in this guide.
+The directory ``~/help-activity/source/`` contains the text files we will be altering in this guide.
 
-The directory ``~/mainline/images/`` contains all the images that are used on the various pages of Help. You can add image files to this folder, and if they are linked into documents, they will display in the *output* of the command ``make html``.
+The directory ``~/help-activity/images/`` contains all the images that are used on the various pages of Help. You can add image files to this folder, and if they are linked into documents, they will display in the *output* of the command ``make html``.
 
 In Sugar you have the ability to inspect the source files safely, using the :ref:`View source` button on the Help icon in the Frame.
 
-The key page in navigating Help is the Index or contents page. In the ``~/mainline/source/`` folder, `index.rst` is the text document which automatically provides links to all other pages in the source folder.
+The key page in navigating Help is the Index or contents page. In the ``~/help-activity/source/`` folder, `index.rst` is the text document which automatically provides links to all other pages in the source folder.
 
 **Output**
 
-The pages displayed in Help are the output of the command ``make html``. The files are in the folder ``~/mainline/html/``.
+The pages displayed in Help are the output of the command ``make html``. The files are in the folder ``~/help-activity/html/``.
 
-Also part of the output of the command ``make html`` are the files in ``~/mainline/doctrees/``. The role of the ``all_files.doctree`` is to interlink all the HTML pages within the rules of the underlying software.
+Also part of the output of the command ``make html`` are the files in ``~/help-activity/doctrees/``. The role of the ``all_files.doctree`` is to interlink all the HTML pages within the rules of the underlying software.
 
-Depending on the setup of your installation there may be a number of other folders present in the ``~/mainline/html/`` folder (for instance ``_sources``, ``_static``, and ``_images``). These are also *output files*, they could be regarded as hidden folders, and should not be edited.
+Depending on the setup of your installation there may be a number of other folders present in the ``~/help-activity/html/`` folder (for instance ``_sources``, ``_static``, and ``_images``). These are also *output files*, they could be regarded as hidden folders, and should not be edited.
 
 Make changes
 ------------
@@ -147,7 +147,7 @@ We are going to make a fresh page in reStructuredText. It will not at first be c
 
 1. Open a new file in any text editor.
 
-2. Save the file with the name ``my_first.rst`` in ``~/mainline/source``. Type some text onto the page. In order to give the page a title we put a line of "=" "equal" signs above and below the title like this. Leave a line of white space, then type some text. This is an example:
+2. Save the file with the name ``my_first.rst`` in ``~/help-activity/source``. Type some text onto the page. In order to give the page a title we put a line of "=" "equal" signs above and below the title like this. Leave a line of white space, then type some text. This is an example:
 
 ::
 
@@ -161,21 +161,21 @@ We are going to make a fresh page in reStructuredText. It will not at first be c
 
 ::
 
- cd mainline
+ cd help-activity
  make html
 
 4. There will be about ten lines of output, there will be mention of errors. Read the error trace, expect to see an error line like the one below, but the final two lines here report a success.
 
 ::
 
- ~/mainline/source/my_first.rst:: WARNING: document isn't included in any toctree
+ ~/help-activity/source/my_first.rst:: WARNING: document isn't included in any toctree
  ...
  build succeeded, 3 warnings.
  Build finished. The HTML pages are in ./html.
 
 The warning, "WARNING: document isn't included in any toctree" is telling us the document is not linked into the Help index yet.
 
-Tutorial 2 will fix this. It does exist and you could see what it looks like if you can find it as described above with a browser in ``~/mainline/html``.
+Tutorial 2 will fix this. It does exist and you could see what it looks like if you can find it as described above with a browser in ``~/help-activity/html``.
 
 Tutorial 2 - Link page to index
 :::::::::::::::::::::::::::::::
@@ -184,15 +184,15 @@ Tutorial 2 - Link page to index
 
 ::
 
- cd mainline
+ cd help-activity
  cd source
  cp index.rst index.rst.ori
 
-Above, we have changed directory into mainline, changed directory into source, and copied ``index.rst`` to a new file named ``index.rst.ori``
+Above, we have changed directory into help-activity, changed directory into source, and copied ``index.rst`` to a new file named ``index.rst.ori``
 
 2. Before proceeding make sure you are familiar with how to restore your index from the backup, in case you damage your Help index.
 
-3. Open ``~/mainline/source/index.rst`` with a text editor. Notice the line spacing (lines of white space especially) and indents. They are very important to maintain.
+3. Open ``~/help-activity/source/index.rst`` with a text editor. Notice the line spacing (lines of white space especially) and indents. They are very important to maintain.
 
 4. Scroll down ``index.rst`` right to the bottom of the page. Put the cursor at the front of the last line. Using the arrow keys you will see that the indent is 4 "spaces", it is not "Tab".
 
@@ -204,17 +204,17 @@ Above, we have changed directory into mainline, changed directory into source, a
 
 ::
 
- cd mainline
+ cd help-activity
  make html
 
-8. The newly changed index page will now display in Help, or in your browser, once you reload the page. In Sugar you click with the secondary button, and select reload, or in a browser pointing to ``~/mainline/html/index.html`` press the reload button. In the index, or contents page, the link to your new page can be clicked to open your page "my_page.html"
+8. The newly changed index page will now display in Help, or in your browser, once you reload the page. In Sugar you click with the secondary button, and select reload, or in a browser pointing to ``~/help-activity/html/index.html`` press the reload button. In the index, or contents page, the link to your new page can be clicked to open your page "my_page.html"
 
 Tutorial 3 - Adding an image
 ::::::::::::::::::::::::::::
 
 1. Open your existing page in any text editor, or create and "Title" a new page, and add it to the bottom of the index.
 
-2. An image which is already in ``~/mainline/images/`` can be included by typing this on to your page.
+2. An image which is already in ``~/help-activity/images/`` can be included by typing this on to your page.
 
 ::
 
@@ -222,9 +222,9 @@ Tutorial 3 - Adding an image
 
 The "reference line" above needs a line of white space, above and below it.
 
-3. You can add an image file in .jpg or .png format to ``~/mainline/images/``. It is best if the image does not exceed 800 pixels in width. It can be difficult to read around tall images. For this reason screen-shots 600 pixels in width may be a good compromise if the content is simple.
+3. You can add an image file in .jpg or .png format to ``~/help-activity/images/``. It is best if the image does not exceed 800 pixels in width. It can be difficult to read around tall images. For this reason screen-shots 600 pixels in width may be a good compromise if the content is simple.
 
-4. If you add an image file ``my_image.png``, made in, say, Paint to ``~/mainline/images/``, then you link it into your page with:
+4. If you add an image file ``my_image.png``, made in, say, Paint to ``~/help-activity/images/``, then you link it into your page with:
 
 ::
 
@@ -234,7 +234,7 @@ The "reference line" above needs a line of white space, above and below it.
 
 ::
 
- cd mainline
+ cd help-activity
  make html
 
 6. The newly changed page will now display in Help, or in your browser, once you reload the page.
@@ -244,7 +244,7 @@ Tutorial 4 - Write or improve a Help page
 
 Decide whether you want to make a page from a fresh start, you could just start writing on a subject you know about. Alternatively experiment with improving an existing page. You could work from the text of an existing page (it might be this page) or a more simple page.
 
-1. Open ``~/mainline/source/index.rst``.
+1. Open ``~/help-activity/source/index.rst``.
 
 2. Put the cursor at the end of the last line. Press *Enter*, press space bar 4 times, and enter a new file name, perhaps, ``my_second.rst``. Use "Enter" and the space bar so that you exactly copy the indentation, and line spacing as used in the other entries.
 
@@ -269,7 +269,7 @@ Decide whether you want to make a page from a fresh start, you could just start 
 
 ::
 
- cd mainline
+ cd help-activity
  make html
 
 9. The newly generated page will now display in Help, or in your browser, once you reload the page.
@@ -280,7 +280,7 @@ Decide whether you want to make a page from a fresh start, you could just start 
 
 ::
 
- cd mainline
+ cd help-activity
  make html
 
 12. You have now written your first improved page for the Activity Help. We would love it if you could share it with the Sugar community!
@@ -314,17 +314,17 @@ Tutorial 5 - generate a patch
 
 ::
 
- cd mainline
+ cd help-activity
  cd source
  cp switching_activities.rst switching_activities.rst.ori
 
-Above, we have changed directory into mainline, changed directory into source, and copied ``switching_activities.rst`` to a new file named ``switching_activities.rst.ori``
+Above, we have changed directory into help-activity, changed directory into source, and copied ``switching_activities.rst`` to a new file named ``switching_activities.rst.ori``
 
 2. Make your changes to ``switching_activities.rst``. Save your changes regularly, and check by running the ``make html`` command that the page displays nicely. Once you are happy with your work, you can generate a patch like this:
 
 ::
 
- cd mainline
+ cd help-activity
  cd source
  diff -u switching_activities.rst.ori switching_activities.rst > switching_activities.patch
 
