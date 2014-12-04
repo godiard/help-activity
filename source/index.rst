@@ -121,4 +121,6 @@ Appendices
     abacus.rst
 
     dimensions.rst
+
+    finance.rst
     
