@@ -119,4 +119,6 @@ Appendices
     glossary.rst
 
     abacus.rst
+
+    dimensions.rst
     
