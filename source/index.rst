@@ -123,4 +123,6 @@ Appendices
     dimensions.rst
 
     finance.rst
+
+    musickeyboard.rst
     
