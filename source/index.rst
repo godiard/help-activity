@@ -117,3 +117,6 @@ Appendices
     :maxdepth: 1
 
     glossary.rst
+
+    abacus.rst
+    
