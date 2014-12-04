@@ -119,10 +119,12 @@ Appendices
     glossary.rst
 
     abacus.rst
-
+    
     dimensions.rst
 
     finance.rst
 
     musickeyboard.rst
+
+    turtleblocks3d.rst
     
