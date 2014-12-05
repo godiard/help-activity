@@ -9,8 +9,8 @@ About
 
 Abacus lets the learner explore different representations of numbers using different mechanical counting systems developed by the ancient Romans and Chinese. There are several different variants available for exploration: a suanpan, the traditional Chinese abacus with 2 beads on top and 5 beads below; a soroban, the traditional Japanese abacus with 1 bead on top and 4 beads below; the schety, the traditional Russian abacus, with 10 beads per column, with the exception of one column with just 4 beads used for counting in fourths; and the nepohualtzintzin, a Mayan abacus, 3 beads on top and 4 beads below (base 20). There is also a binary abacus, a hexadecimal abacus, and several abacuses that lets you calculate with common fractions: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, and 1/12. And there is a customization toolbar that lets you design your own abacus. The Incan abacus (Yupana) as a standalone program.
 
-Using Calculate
----------------
+Using Abacus
+------------
 
 Clearing the abacus
 :::::::::::::::::::
@@ -327,68 +327,6 @@ Extending Abacus
 * Abacus supports paste, so you can take numeric values from other programs and paste them into the abacus to see what their representations are; for example, I often paste numbers into the hexadecimal abacus as a quick way of converting decimal to hexidecimal.
 * Abacus also supports copy, so you can take a sum calculated on an abacus and export it into SimpleGraph or some other data-visualization Activities.
 * A fun collaborative mode might be to have a number randomly selected and each sharer work independently to post it on the abacus of their choice first. There could be a tally of beads awarded for each correct answer. 
-
-
-Modifying Abacus
-----------------
-Abacus is under GPL license. You are free to use it and learn with it. You are also encouraged to modify it to suit your needs or just for a further opportunity to learn.
-
-* It might be good to have some of the above information in a Help palette, e.g., addition, subtraction, multiplication division.
-
-Most changes can be confined to three modules: ``AbacusActivity.py``, ``abacus.py`` and ``abacus_window.py``. The former define the Sugar and GNOME toolbars; the latter defines what code is executed by each type of abacus.
-
-Note: since a recent refactoring, these instructions are deprecated
-
-For instance, to add a menu item such as 'Reset' you would do the following in ``abacus.py``:
-
-* Add these lines to the menu items list: 
-
-::
-
-  menu_items = gtk.MenuItem(_("Reset"))
-  menu.append(menu_items)
-  menu_items.connect("activate", self._reset)
-
-* The _reset() method is trivial:
-  
-::
-
-  def _reset(self, event, data=None):
-  """ Reset """
-  self.abacus.mode.reset_abacus()
-
-Similarly, you can add another button to the Sugar toolbar in ``AbacusActivity.py``:
-
-* Add these lines to the toolbar block:
-
-::
-
-  # Reset the beads on the abacus to the initial cleared position
-  self.reset_button = ToolButton( "reset" )
-  self.reset_button.set_tooltip(_('Reset'))
-  self.reset_button.props.sensitive = True
-  self.reset_button.connect('clicked', self._reset_button_cb)
-  toolbar_box.toolbar.insert(self.reset_button, -1)
-  self.reset_button.show()
-
-* The _reset_button_cb() method is trivial:
-
-::
-
-  def _reset_button_cb(self, event, data=None):
-  """ Reset the beads on the abacus to the initial cleared position """
-  self.abacus.mode.reset_abacus()
-
-* You'll have to create an icon for the button (``reset.svg``) and put it into the ``icon`` subdirectory of the bundle.
-
-This will complete the changes in the ``abacus.py``. The method ``reset_abacus()`` will have to be defined for each abacus in the ``abacus_window.py``. This can be done by creating that method in the ``AbacusGeneric`` class used by all the varieties of abacus. The method may have to be overridden in some abacus subclasses for customization reasons. For instance, reset_abacus() was defined in AbacusGeneric class and then overridden in ``Schety``.
-
-If the changes involve modifying the graphics, then other methods may need to be modified as well. For instance, in order to introduce a reset button that can be clicked to reset the bead positions to the beginning, the following methods had to be modified – all in abacus_window.py:
-
-1. in the ``class Abacus``, method ``_button_press_cb()`` to activate reset button;
-2. in the class ``AbacusGeneric``, method ``create()`` to create the graphics for reset button;
-3. methods ``hide()`` and ``show()`` to make the button visible.
-
 
 Reporting Problems
 ------------------
