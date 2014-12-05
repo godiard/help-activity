@@ -47,6 +47,7 @@ Activities
     dimensions.rst
     fototoon.rst
     help.rst
+    jukebox.rst
     measure.rst
     memorize.rst
     paint.rst

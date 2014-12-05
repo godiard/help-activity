@@ -41,3 +41,12 @@ The Toolbar Sub Menus
 
 1. Show/Hide the playlist
 2. Fullscreen mode/Normal mode
+
+More about Jukebox
+------------------
+
+If you open more than one media file, Jukebox will save a "play list" with all the files you selected.
+Then you can create list by topics, and open all the files later just selecting the list saved in your Journal.
+
+You can open files located in external devices like a usb device, from Jukebox, without copying them in the Journal,
+that is really useful if the files are too big.
