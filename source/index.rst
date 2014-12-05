@@ -40,9 +40,11 @@ Activities
 .. toctree::
     :maxdepth: 1
 
+    abacus.rst
     browse.rst
     calculate.rst
     chat.rst
+    dimensions.rst
     fototoon.rst
     help.rst
     measure.rst
