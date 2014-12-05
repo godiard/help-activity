@@ -117,3 +117,14 @@ Appendices
     :maxdepth: 1
 
     glossary.rst
+
+    abacus.rst
+    
+    dimensions.rst
+
+    finance.rst
+
+    musickeyboard.rst
+
+    turtleblocks3d.rst
+    
