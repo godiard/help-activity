@@ -1,0 +1,43 @@
+=======
+Jukebox
+=======
+
+About
+-----
+
+Jukebox is the media player to play different kinds of audio and video files including online streams. It also supports playlists like .m3u and .pls.
+
+Where to get Jukebox
+--------------------
+
+Jukebox is included in the standard releases of the OLPC software.
+If for some reason Jukebox is not installed, it can be downloaded from its `Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4045>`_
+
+
+Using
+-----
+
+Across the lower area, you can see the videos and if being the corresponding option checked will also appreciate the playlist, and at the top, there are options to control the flow, and how to view the current track
+
+
+The Toolbars
+------------
+
+.. image :: ../images/jukebox-toolbar.png
+
+1. Expand visual options.
+2. Load news tracks.
+3. Remove actual track.
+4. Previous track.
+5. Play/Pause actual track.
+6. Next track.
+7. Control the track progress
+
+
+The Toolbar Sub Menus
+---------------------
+
+.. image :: ../images/jukebox-viewtoolbar.png
+
+1. Show/Hide the playlist
+2. Fullscreen mode/Normal mode
