@@ -129,4 +129,6 @@ Appendices
     turtleblocks3d.rst
 
     chart.rst
+
+    distance.rst
     
