@@ -61,6 +61,7 @@ Activities
     tamtammini.rst
     turtleart.rst
     write.rst
+    physics.rst
 
 
 Network
