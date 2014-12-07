@@ -127,4 +127,6 @@ Appendices
     musickeyboard.rst
 
     turtleblocks3d.rst
+
+    chart.rst
     
