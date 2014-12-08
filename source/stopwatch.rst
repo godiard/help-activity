@@ -19,6 +19,7 @@ Using
 Indeed, the StopWatch activity is very easy to use, but if you do not understand any of the features of this activity, the references are listed below:
 
 .. image :: ../images/stopwatch.png
+   :width: 800
 
 1. Select the name of a timing to keep your work organized.
 2. Start/Pause the timing.

@@ -57,6 +57,7 @@ Activities
     read.rst
     record.rst
     speak.rst
+    stopwatch.rst
     terminal.rst
     tamtammini.rst
     turtleart.rst
