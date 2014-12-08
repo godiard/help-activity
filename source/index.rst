@@ -51,6 +51,7 @@ Activities
     measure.rst
     memorize.rst
     paint.rst
+    physics.rst
     pippy.rst
     poll.rst
     portfolio.rst
@@ -62,7 +63,6 @@ Activities
     tamtammini.rst
     turtleart.rst
     write.rst
-    physics.rst
 
 
 Network
