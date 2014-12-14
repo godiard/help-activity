@@ -5,9 +5,10 @@ Get Books
 About
 -----
 
-Get Books can be used to download your favorite books on sugar. It helps you download from different places (Internet Archive, Feedbooks, etc) all from one place. 
+Get Books can be used to download your favorite books on Sugar. It helps you download from different places (Internet Archive, Feedbooks, etc) all from one place. 
 
-Once you have found the book you want to read, you can select the format in which you would like to download it (PDF or EPUB) and click on "Get Book" to start the download. On the top a new bar appears in which you can see the progress, once downloaded you can open it in Reader to read it.
+Once you have found the book you want to read, you can select the format in which you would like to download it (PDF or EPUB). Click on "Get Book" to start the download. At the top of the screen, a progress bar will appear that shows you the download progress. Once your book is downloaded, you can open it in the Read activity.
+
 
 
 How to find books
