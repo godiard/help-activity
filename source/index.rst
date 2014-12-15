@@ -40,13 +40,21 @@ Activities
 .. toctree::
     :maxdepth: 1
 
+    abacus.rst
     browse.rst
     calculate.rst
     chat.rst
+    chart.rst
+    dimensions.rst
+    distance.rst
+    finance.rst
     fototoon.rst
+    getbooks.rst
     help.rst
+    labyrinth.rst
     measure.rst
     memorize.rst
+    musickeyboard.rst
     paint.rst
     pippy.rst
     poll.rst
@@ -54,9 +62,12 @@ Activities
     read.rst
     record.rst
     speak.rst
+    starchart.rst
+    story.rst
     terminal.rst
     tamtammini.rst
     turtleart.rst
+    turtleblocks3d.rst
     write.rst
 
 
@@ -117,18 +128,4 @@ Appendices
     :maxdepth: 1
 
     glossary.rst
-
-    abacus.rst
-    
-    dimensions.rst
-
-    finance.rst
-
-    musickeyboard.rst
-
-    turtleblocks3d.rst
-
-    chart.rst
-
-    distance.rst
     
