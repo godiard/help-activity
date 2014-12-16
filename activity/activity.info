@@ -6,3 +6,4 @@ icon = activity-help
 exec = sugar-activity helpactivity.HelpActivity
 license = GPLv3
 summary = Having trouble using your computer or an activity? Want to learn more? Just click here!
+categories = system

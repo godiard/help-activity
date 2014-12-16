@@ -34,6 +34,7 @@ Download
 --------
 `Activity page in our activities portal <http://activities.sugarlabs.org/sugar/addon/4757>`_
 
+
 Support and More Info
 ---------------------
 2D Version, Turtle Blocks AKA Turtle Art:
@@ -47,4 +48,4 @@ Support for this activity is provided by the developer at walter@sugarlabs.org
 
 References
 ----------
-`Download Page <http://activities.sugarlabs.org/en-US/sugar/addon/4757>`_
+`Download Page <http://activities.sugarlabs.org/sugar/addon/4757>`_

@@ -37,6 +37,8 @@ You can install it in your Sugar development environment doing: ::
  cd help-activity
  ./setup.py dev
 
+You need have a complete sugar environment to run "setup.py dev" if you have a error in your system, try run it in the Terminal Activity.
+
 and, when you are ready, to populate your Help pages ::
 
  make html
@@ -56,7 +58,7 @@ To fix this, in Terminal Activity (or any terminal emulator) as root, ::
 
 or in Debian or Ubuntu derivatives, ::
 
- apt-get install python-sphinx
+ sudo apt-get install python-sphinx
 
 In **Sugar** you don't need restart Help to see the changes after running ``make html``, you just click with the secondary mouse button, and select reload.
 

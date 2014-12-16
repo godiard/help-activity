@@ -51,21 +51,24 @@ Activities
     fototoon.rst
     getbooks.rst
     help.rst
+    jukebox.rst
     labyrinth.rst
     measure.rst
     memorize.rst
     musickeyboard.rst
     paint.rst
     pippy.rst
+    physics.rst
     poll.rst
     portfolio.rst
     read.rst
     record.rst
     speak.rst
     starchart.rst
+    stopwatch.rst
     story.rst
-    terminal.rst
     tamtammini.rst
+    terminal.rst
     turtleart.rst
     turtleblocks3d.rst
     write.rst
