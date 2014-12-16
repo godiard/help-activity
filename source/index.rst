@@ -44,24 +44,33 @@ Activities
     browse.rst
     calculate.rst
     chat.rst
+    chart.rst
     dimensions.rst
+    distance.rst
+    finance.rst
     fototoon.rst
+    getbooks.rst
     help.rst
     jukebox.rst
+    labyrinth.rst
     measure.rst
     memorize.rst
+    musickeyboard.rst
     paint.rst
-    physics.rst
     pippy.rst
+    physics.rst
     poll.rst
     portfolio.rst
     read.rst
     record.rst
     speak.rst
+    starchart.rst
     stopwatch.rst
-    terminal.rst
+    story.rst
     tamtammini.rst
+    terminal.rst
     turtleart.rst
+    turtleblocks3d.rst
     write.rst
 
 
@@ -122,14 +131,4 @@ Appendices
     :maxdepth: 1
 
     glossary.rst
-
-    abacus.rst
-    
-    dimensions.rst
-
-    finance.rst
-
-    musickeyboard.rst
-
-    turtleblocks3d.rst
     
