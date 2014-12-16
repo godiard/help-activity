@@ -28,6 +28,6 @@ Gallery
 References 
 ----------
 
-* http://activities.sugarlabs.org/en-US/sugar/addon/4040 
+* `Sugar Wiki Activity Page <http://activities.sugarlabs.org/sugar/addon/4040>`_
 
-* https://github.com/godiard/finance-activity
+* `Source <https://github.com/godiard/finance-activity>`_
