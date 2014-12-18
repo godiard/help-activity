@@ -11,10 +11,9 @@ About
 
 The Story activity is available for download from the `Sugar Activity Library Story <http://activities.sugarlabs.org/sugar/addon/4565>`_
 
-The source code is available on `the Sugar Labs Gitorious server <http://git.sugarlabs.org/story>`_
-
 .. image :: ../images/story-img2.png
 
+Story can use the images from `Art4Apps project <http://wiki.sugarlabs.org/go/Art4Apps>`_ if installed.
 
 Using Story
 -----------
@@ -67,6 +66,8 @@ Extending Story
 Modifying Story
 ---------------
 Add new images to Story by putting them in the images folder of the activity.
+
+The source code is available on `GitHub server <https://github.com/walterbender/story>`_
 
 
 Reporting Bugs
