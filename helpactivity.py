@@ -13,6 +13,7 @@
 # Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 import os
+import json
 from gettext import gettext as _
 
 from gi.repository import Gtk
@@ -139,6 +140,25 @@ class HelpActivity(activity.Activity):
                                 'source.rst')
         os.symlink(rst_path, tmp_path)
         async_cb(tmp_path)
+
+    def read_file(self, file_path):
+        f = open(file_path, "r")
+        data = json.load(f)
+        self._web_view.load_uri(data['current_page'])
+        self._web_view.set_zoom_level(data['zoom_level'])
+        f.close()
+
+    def write_file(self, file_path):
+        """
+        Save the current uri, zoom level for load it in the next startup.
+        """
+        html_uri = self._web_view.get_uri()
+        zoom_level = self._web_view.get_zoom_level()
+        data = {'current_page': html_uri, 'zoom_level': zoom_level}
+
+        f = open(file_path, "w")
+        json.dump(data, f)
+        f.close()
 
 
 class Toolbar(Gtk.Toolbar):
