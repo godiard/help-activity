@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 120a1224c255477fa5d7a57961f9c18f
+# 4db7576e67e5433f884c0d3251d37e1f
 #: ../source/frame.rst:3
 msgid "The Frame"
 msgstr ""
 
-# 82142481248341e5908de4c12a8e871d
+# c775d18fb8594d4eaca4dd0ad4fc36da
 #: ../source/frame.rst:5
 msgid ""
 "The Frame is the black border around the screen that holds the View icons, "
@@ -31,17 +31,17 @@ msgid ""
 "across all views."
 msgstr ""
 
-# 3ddd532714ea40629123411d94da5494
+# cc6049611257498aab61b4b7cc73fcbc
 #: ../source/frame.rst:8
 msgid "Accessing the Frame"
 msgstr ""
 
-# 77a0ea65f52d49a7b5be4a27f218ff09
+# 2f635541c2664aab8489ecc3fdce96cd
 #: ../source/frame.rst:10
 msgid "You can access the frame from any view in 2 ways:"
 msgstr ""
 
-# 8a9fd5605aa743cb9981de11ee70e932
+# efe5afc275dc4bcda69eb8b87242edde
 #: ../source/frame.rst:12
 msgid ""
 "By using the Frame Key on the keyboard. On XO laptops the Frame key is the "
@@ -49,7 +49,7 @@ msgid ""
 "laptops you can use the F6 key."
 msgstr ""
 
-# 19e94748f1bf481d8df62f4116a779e0
+# ba5f7bfcb52a4fcab6025a876ee3357f
 #: ../source/frame.rst:13
 msgid ""
 "By moving the cursor to the edges or corners of your screen. (There are "
@@ -57,7 +57,7 @@ msgid ""
 "Settings section for more details.)"
 msgstr ""
 
-# ea7ded9788ee475c9b1c267822452f56
+# 2d64642eabfe4b5e9e6a346e19e58061
 #: ../source/frame.rst:15
 msgid ""
 "In the XO-4, with touch screen, is possible show the frame sliding a finger, "
@@ -65,17 +65,17 @@ msgid ""
 "the frame too."
 msgstr ""
 
-# 37120be42cdd4635a95e5502f1f62ca6
+# 2716f6fc08324442b50eec3cb7282c8f
 #: ../source/frame.rst:18
 msgid "Frame Elements"
 msgstr ""
 
-# 20a9c3e9f9934da5aff7e2470e97c087
+# ca05c79ac83e49cb81b1ecac2abcbc2c
 #: ../source/frame.rst:22
 msgid "The Frame view:"
 msgstr ""
 
-# c607289710ca4a6ea71bfff658310269
+# ff56bca6584b47bcb56fa8bc9716be16
 #: ../source/frame.rst:24
 msgid ""
 "Zoom menu: The Zoom menu (icons matching the important keyboard shortcuts "
@@ -84,7 +84,7 @@ msgid ""
 "Activity."
 msgstr ""
 
-# 25348af79e254f779aea5c7089d409e2
+# 9030b66808a249809209e29b43693435
 #: ../source/frame.rst:25
 msgid ""
 "Running Activity list: The sequence of currently started Activities appears "
@@ -99,14 +99,14 @@ msgid ""
 "the person who sent them. Hover and you can see who it is and join in."
 msgstr ""
 
-# 53ab8ec08b1c4c57b879d8e23dd2ba3e
+# ac181ce43646470c880d7a3f16437e9c
 #: ../source/frame.rst:26
 msgid ""
 "Active buddy list: People you are currently collaborating with appear on the "
 "right edge of the Frame."
 msgstr ""
 
-# 7f6b9cab2f9e4816b58ad2264eab7a6d
+# ee2ac855e14140b5a7d5b435d54597e4
 #: ../source/frame.rst:27
 msgid ""
 "Clipboard: The left edge of the Frame serves as a clipboard. You can drag "
@@ -115,7 +115,7 @@ msgid ""
 "them in an Activity, or save (keep) them in your Journal."
 msgstr ""
 
-# e298cfbd70e949af99ccdf4d4999e884
+# 67bec291b5114a5bab4926fbefa7bfcb
 #: ../source/frame.rst:28
 msgid ""
 "System status (from left to right): Switch for the two modes of the touchpad "

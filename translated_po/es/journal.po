@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 28bb376cae8848faaa99958c7267b9d2
+# ec607ce2c97e444680b5df8e52e299d8
 #: ../source/journal.rst:3
 msgid "Journal"
 msgstr ""
 
-# 7374502cc359478c994fe884ba69a927
+# 81c274f4454943959e552923cc7818d2
 #: ../source/journal.rst:5
 msgid ""
 "The Journal Activity is an automated diary of everything you do within "
@@ -32,7 +32,7 @@ msgid ""
 "a learner."
 msgstr ""
 
-# d8995392ae4147f2884465993c4bbda3
+# 7e81cd06be10475fbb0cb20babe7dfbc
 #: ../source/journal.rst:7
 msgid ""
 "The Journal keeps a record of what you do and the things your create such as "
@@ -41,7 +41,7 @@ msgid ""
 "view. You can resume an activity by clicking on the icon for that entry."
 msgstr ""
 
-# d36cb0de6f21437892080e5e3e74b1ef
+# 1da94280eefe436dbdcb13a03709cd8a
 #: ../source/journal.rst:9
 msgid ""
 "The Journal also supports external storage media such as a USB device or a "
@@ -53,24 +53,24 @@ msgid ""
 "system."
 msgstr ""
 
-# b9c1bd58fd014feeb32ecc1947efce8e
+# bdefd4c9c2f043368c47022a49d1cab4
 #: ../source/journal.rst:12
 msgid "Accessing the Journal"
 msgstr ""
 
-# a99dcb6b47a64117aaafbd586cef3de0
+# 754187bc68244cbd96763384e97b0b31
 #: ../source/journal.rst:16
 msgid "To show the Journal, click the Journal icon on the Frame."
 msgstr ""
 
-# 2a28cf6f37b3497faa9a157fcdb3a197
+# b6264700f60f43c7947685f555af5668
 #: ../source/journal.rst:18
 msgid ""
 "On an XO laptop, you can press the magnifying glass key in the top row of "
 "the keyboard to immediately open the Journal and search."
 msgstr ""
 
-# 3ee62262e737470282249aefd515fe03
+# a35046b2602644678ace66c6e6159085
 #: ../source/journal.rst:20
 msgid ""
 "|journal| **Seen in an Activity**, this icon on the Activity toolbar (or "
@@ -79,24 +79,24 @@ msgid ""
 "that session of the Activity."
 msgstr ""
 
-# 2c2d217eceda43efb4c28ec6fcc8151f
+# 054ef9b050e24453bde70910c131691b
 #: ../source/journal.rst:26
 msgid "Journal features"
 msgstr ""
 
-# c3fd9cefc8f84bfda9c6dfac623c1415
+# e5ef938b1fc946789b9c9f21f9a46ddd
 #: ../source/journal.rst:30
 msgid "The Journal View contains a menu and a list of journal entries:"
 msgstr ""
 
-# b9c2b37661b24ae18b99e1c7f47c0cd5
+# d5136b23470c4abfa8c68fb7b38d249f
 #: ../source/journal.rst:32
 msgid ""
 "1 - Favorite star: You can mark important entries by clicking on the star "
 "icon for that entry. When you click the star icon, the star is colored in."
 msgstr ""
 
-# f27ea9e42a04454ebb88e2c6d4781893
+# 72ff814cf9fe4d88bb40d82b27deb586
 #: ../source/journal.rst:33
 msgid ""
 "2 - Entry icon: Each Journal entry has an icon. The color of the icon shows "
@@ -109,7 +109,7 @@ msgid ""
 "the Activity as well."
 msgstr ""
 
-# 4e42da14224044f4beffa3ec70c59f7d
+# ad95a5477be34b8c847a9690af129689
 #: ../source/journal.rst:34
 msgid ""
 "3 - Entry name: Each entry has a name. You can edit the name by clicking it. "
@@ -118,7 +118,7 @@ msgid ""
 "stripped off."
 msgstr ""
 
-# 8d12d9aeb91b4870b0098fff7d1fe414
+# 6bbb60c931954b54b4cb779fcf989870
 #: ../source/journal.rst:35
 msgid ""
 "4 - Search box: Type words in the box to search for entries that match those "
@@ -130,14 +130,14 @@ msgid ""
 "that x."
 msgstr ""
 
-# fddaf428360549be85e94f73de1e58b9
+# f19cb16cbdc04795b87cfc7849642dbe
 #: ../source/journal.rst:36
 msgid ""
 "5 - Favorites view: Only shows the entries which have been marked as "
 "favorites."
 msgstr ""
 
-# 88af287e86a24d7ebb303cf4f4b71e73
+# b501ff6156f3477b9f98c8bb3de804bf
 #: ../source/journal.rst:37
 msgid ""
 "6 - Type filter: You can select to have the Journal only show certain types "
@@ -145,21 +145,21 @@ msgid ""
 "Activity."
 msgstr ""
 
-# a4586eb0c328480092add106340ca38e
+# 66aa6048ed624108acb531deffc4252c
 #: ../source/journal.rst:38
 msgid ""
 "7 - Date filter: Contains option to only show Journal entries modified "
 "within the past day, week, or month."
 msgstr ""
 
-# f5ad997e9de0441dbfdcdde995b15a27
+# 7a4d126f16944fc9ad245d6ab20e82d9
 #: ../source/journal.rst:39
 msgid ""
 "8 - Sorting options: You can order Journal entries by their size, creation "
 "date and modification date."
 msgstr ""
 
-# 4dfe355467784c71a1f8df1862253b49
+# cd1a3b006de44a1fb834f34b24296a89
 #: ../source/journal.rst:40
 msgid ""
 "9 - Documents folder: To exchange files between the Journal and the "
@@ -169,47 +169,47 @@ msgid ""
 "DOCUMENTS folder and then can access it in the Journal."
 msgstr ""
 
-# 28bb135884c24981bd8c4b8a1837a142
+# d46c8d0b0bec40b0a82716cae8d359a3
 #: ../source/journal.rst:41
 msgid ""
 "10 - Buddy icons: If other participants joined you in this Activity, icons "
 "in their colors appear here."
 msgstr ""
 
-# 8b08bcd066ee47b6964d38e94fc37e2e
+# 94b867c5b45f4d5fa9d37efaa4de0756
 #: ../source/journal.rst:42
 msgid ""
 "11 - Elapsed time: Displays the time since the most recent change to the "
 "entry."
 msgstr ""
 
-# 2ffa39bd19294d3ba8d8ea443fca1815
+# c959b282fb014fc6a4ebf7f1c35b078f
 #: ../source/journal.rst:43
 msgid ""
 "12 - Detail view: Click this button to see detailed information about the "
 "entry. See \"Journal detail view\", below."
 msgstr ""
 
-# b47e237d247546f09d11a90de5133255
+# 0895029f7455484db8967d7e78e050bb
 #: ../source/journal.rst:46
 msgid "Journal Detail view"
 msgstr ""
 
-# 79f9ce42a8a349319140bc018c9c7c40
+# 1a7cd7deee234b9ea2d21c51299beebc
 #: ../source/journal.rst:50
 msgid ""
 "The Detail view appears when you click the Detail view button for an entry. "
 "This view lets you examine and annotate the entry."
 msgstr ""
 
-# 824ca19a47bb4768a2df1417fc42aaf6
+# 85252d5249d0408aa1b62a77e1c28dba
 #: ../source/journal.rst:52
 msgid ""
 "1 - Back Icon: You can click anywhere in this line to return to the main "
 "Journal View."
 msgstr ""
 
-# 46249c8a044e4f4ead4ff598c8b7dada
+# 74ee65571a2547f8b2500dd9e76813a3
 #: ../source/journal.rst:53
 msgid ""
 "2 - Resume Button: You can click the Resume button to resume an Activity. A "
@@ -217,7 +217,7 @@ msgid ""
 "with an image using either the Browser or the Paint Activity."
 msgstr ""
 
-# 78e936738c6b414aa93706259f51eb15
+# 07514f0a812a493b9770e76e6e979961
 #: ../source/journal.rst:54
 msgid ""
 "3 - Copy button: You can copy a Journal entry to the clipboard (or to a "
@@ -225,14 +225,14 @@ msgid ""
 "clicking on the Copy button."
 msgstr ""
 
-# 4a0f30dd4dee42d1ad5de2a1bd724f19
+# ae5cc64dcd6b47bdb8442532767debf8
 #: ../source/journal.rst:55
 msgid ""
 "4 - Duplicate button: You can duplicate a Journal entry by clicking on the "
 "Duplicate button."
 msgstr ""
 
-# a7f42d41037f4d19a47d2a402ff529d1
+# 340e45cb008c453492bafea63cecad04
 #: ../source/journal.rst:56
 msgid ""
 "5 - Erase button: You can erase an entry by clicking the Erase button. "
@@ -240,28 +240,28 @@ msgid ""
 "backed up your Journal."
 msgstr ""
 
-# 0e7d0b4327c3486cb0fb471bfa5778d9
+# dd812f108c6e4fcbb50e62bf6c32d914
 #: ../source/journal.rst:57
 msgid ""
 "6 - Entry name: You can change the name of the entry by clicking it and "
 "typing in a new name."
 msgstr ""
 
-# 24e0bb165cd94b978c3fe81c09d4053d
+# 50f395788168454781bb0cb0711f3c0d
 #: ../source/journal.rst:58
 msgid ""
 "7 - Elapsed time: Displays the time since the most recent change to the "
 "entry."
 msgstr ""
 
-# 231e6bc2134c43eb9b1149546b241a3f
+# ff8d50e235154cb79cb0ed6877c466a7
 #: ../source/journal.rst:59
 msgid ""
 "8 - Favorites Icon: This icon indicates whether an entry has been starred as "
 "a favorite which can be done by clicking it."
 msgstr ""
 
-# bdb03146bdbe45038caf0dcc7bb069be
+# e9eff7e5b9d9431db7ceb020281593f4
 #: ../source/journal.rst:60
 msgid ""
 "9 - Thumbnail image: Each entry has a thumbnail image that is created "
@@ -269,21 +269,21 @@ msgid ""
 "the Journal entry was saved."
 msgstr ""
 
-# 1a08aadf9e1f460fa5a882b1c720ba19
+# 4861502362b9412e95ebf211ce8f8a31
 #: ../source/journal.rst:61
 msgid ""
 "10 - Participants: Displays the XO icons of each person who participated in "
 "a shared Activity."
 msgstr ""
 
-# bc52649a209d47e0ba57e9302140ee5c
+# d61d8bf6cfc249dab941a0e2fd32368a
 #: ../source/journal.rst:62
 msgid ""
 "11 - Comments: Comments by the joiners will be displayed here. The comments "
 "will be from Portfolio activity and from journal share."
 msgstr ""
 
-# 8a679350d4a042c7a974a6befd832065
+# 168ac6ffbe3344e2b56abde10ae16ede
 #: ../source/journal.rst:63
 msgid ""
 "12 - Tags field: You can enter search tags. Tags are keywords used to "
@@ -294,7 +294,7 @@ msgid ""
 "help you \"group\" this entry, for instance by origin or context."
 msgstr ""
 
-# 34bc4adb474040199c86e9e11d5b702a
+# 846da9d088614db79f82f0be3bcc3387
 #: ../source/journal.rst:64
 msgid ""
 "13 - Description field: You can type a description of the entry, which you "
@@ -307,64 +307,64 @@ msgid ""
 "in the reflection Activity called \"Portfolio\"."
 msgstr ""
 
-# e9a5028188664d92959b20eaf593cb55
+# 316a46a5dfd643cfb7c6ec411fd416f9
 #: ../source/journal.rst:68
 msgid ""
 "When resuming from the Detail View, you can choose among different "
 "Activities."
 msgstr ""
 
-# a460c82793214e5885b223ab5f6f49c3
+# 683434c4e4cb465ba7a938e3cb3519d9
 #: ../source/journal.rst:71
 msgid "Using removable media"
 msgstr ""
 
-# 62ef5d608f8c4b8ab0bc5763aaaaeb0c
+# c4452a5f56ea4cdfbe9e371943ca23ef
 #: ../source/journal.rst:75
 msgid ""
 "When you insert removable media—such as a USB device or SD card—it appears "
 "as an icon on the bottom edge of the main Journal view."
 msgstr ""
 
-# 07c3f7129d6648eaa1425558a0d5912c
+# 75729a9200804d69be684f372d7240e8
 #: ../source/journal.rst:77
 msgid "Journal: Click the Journal icon to shows the Journal View."
 msgstr ""
 
-# b0d1963a95924f688eea37a6906bf7ff
+# bb820318555045e6a744cf6fd51b8c2b
 #: ../source/journal.rst:78
 msgid "Documents folder: Click the Documents icon to show the contents of"
 msgstr ""
 
-# 0359f811b85149b9b5d8e7502199699f
+# a19a4886773d495ab4e9502ca9c58f1a
 #: ../source/journal.rst:79
 msgid ""
 "USB device: Click the USB icon (or SD icon) to show the removable-media file "
 "system."
 msgstr ""
 
-# 2dce0fb4eecb4702b031a672d9c893fb
+# a545523bd5404673914b8460f74e4bae
 #: ../source/journal.rst:83
 msgid ""
 "You can drag entries from the Journal onto the Documents folder or removable "
 "media (and vice-versa)"
 msgstr ""
 
-# 4df21a2b743b43e18770f0edcdc701a4
+# b7822073d0f94155809369138aeb2f81
 #: ../source/journal.rst:87
 msgid ""
 "To remove (unmount) the external file system, choose Remove on the hover "
 "menu."
 msgstr ""
 
-# 51446ca1df474c3bb382457dec7227da
+# 27837c5e40ee48819795fc9cfde12f16
 #: ../source/journal.rst:89
 msgid ""
 "Caution: It may take time for the hover menu to appear. It is easy to make a "
 "mistake and click the icon itself when you intended to click Unmount."
 msgstr ""
 
-# f747958e7f2e425c9a42d41f69ed9682
+# 259fc7bc67f64c2ca96dea596958fe35
 #: ../source/journal.rst:91
 msgid ""
 "Caution: If you have a Terminal running you may inadvertently have your "
@@ -372,12 +372,12 @@ msgid ""
 "your computer."
 msgstr ""
 
-# cf131d0e00914beb9b60fa05ad023e5f
+# bc93d7a91e194247b32995fb65f7175d
 #: ../source/journal.rst:94
 msgid "Sending Journal Entries via a Network"
 msgstr ""
 
-# fcb507cae5c847a490e55ba9518552c6
+# e9585c24c2d845dc9b64a48049266904
 #: ../source/journal.rst:98
 msgid ""
 "The Journal allows you to send entries to other people who are using Sugar "
@@ -387,12 +387,12 @@ msgid ""
 "an access point, or a server."
 msgstr ""
 
-# 14ce39cbd59347e6ac0e8e3bc94be226
+# 34f20fa96aa949e2b091d46abc946dad
 #: ../source/journal.rst:101
 msgid "Note to parents and teachers"
 msgstr ""
 
-# 36786d0719924bde92d1763495c0be08
+# f73fde4e43de4a199e211459d75d0b14
 #: ../source/journal.rst:103
 msgid ""
 "The Journal keeps a record of everything a child does within Sugar: which "
@@ -407,7 +407,7 @@ msgid ""
 "peers, teachers, and parents who can also reflect in return."
 msgstr ""
 
-# 9f91ba0c4c3d46aa85289d376e4999ab
+# eb570eedd8b241198624095b9ddd8095
 #: ../source/journal.rst:105
 msgid ""
 "You can also use it as a catalyst for discussion with your child or student. "

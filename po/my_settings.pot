@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,122 +17,122 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/my_settings.rst:3
-# f8c12227f457435d821974a367eb19d8
+# e70ee2700f444a1885ae39a1a4fde59c
 msgid "My Settings"
 msgstr ""
 
 #: ../source/my_settings.rst:5
-# f6a5a506faab402ab21485f9a622cad4
+# f69e7943b1a845d0ac9d7ea5b100a65e
 msgid "The My Settings page in Sugar is similar to a Control Panel or System Settings window in other operating systems. It provides a way to set various values needed by system functions, such as the language for menus and messages, the keyboard layout for typing and otherwise controlling the system, date and time values and format, and much more."
 msgstr ""
 
 #: ../source/my_settings.rst:7
-# 5d70184c7f88489eab9c93a25f7f11f8
+# 328c19a447f64c7988dbc3b7db0eb151
 msgid "To access My Settings, go to the Home view and activate the menu on the central XO icon, either by hovering with the cursor, or by right-clicking (O button on an XO). Then select My Settings. The following view appears."
 msgstr ""
 
 #: ../source/my_settings.rst:9
-# d20ee8cb9df5476a9107209fb4477091
+# 36d80a0cbb8d4138bdd085ec64a446a2
 msgid "My Settings page"
 msgstr ""
 
 #: ../source/my_settings.rst:13
-# 5ba3b4d98d9f43588eba49c11b21c4cb
+# bd75c623d60245ff80f87af41f6ecdf1
 msgid "Click any icon to open the indicated control. If you make changes, the window will offer you the choice whether to save (check mark) or discard (x) those changes. It may be necessary to reboot the computer or restart the Sugar session in order for the changes to take effect."
 msgstr ""
 
 #: ../source/my_settings.rst:16
-# 15a2883d747045c698197183d2bfc708
+# fea36390323046b2ac882c85b5e3f2d3
 msgid "About Me"
 msgstr ""
 
 #: ../source/my_settings.rst:18
-# 3b62e8dcefa44832a7aba79222f36357
+# f8a830bbd45b4fea878f9c0591c2c6ab
 msgid "View and change your XO colors and name."
 msgstr ""
 
 #: ../source/my_settings.rst:21
-# 47ca405462894e7fa6f4ac7caa930e8f
+# cc1007be23834ccbba3a7ab557083ab6
 msgid "About my Computer"
 msgstr ""
 
 #: ../source/my_settings.rst:23
-# e77d8e98c3bc4a7a82b7004f5a6a3e5a
+# 4d11897065bd49fd998c190a36b6a060
 msgid "View technical information about your computer: serial number, software versions (Sugar, firmware, wireless), copyright, and license."
 msgstr ""
 
 #: ../source/my_settings.rst:26
-# 9e300a60689445b79a639007d82a58ca
+# 044a0daecc5c42688ab49f00a4a3323e
 msgid "Background"
 msgstr ""
 
 #: ../source/my_settings.rst:31
-# 6bd0574c5af3409d973e989a35aa1744
+# 370c9b852d3847479962f0cf58490be9
 msgid "Date & Time"
 msgstr ""
 
 #: ../source/my_settings.rst:33
-# 9ecde5d08baf4c258c212f2f9d7dd72a
+# de892088625b47c58204a091e7864dce
 msgid "Set timezone for date and time display."
 msgstr ""
 
 #: ../source/my_settings.rst:36
-# 510f7fc3508f42c98e30282520792a0c
+# 86d5f9ee8e474947a75ad29884f97d1b
 msgid "Frame"
 msgstr ""
 
 #: ../source/my_settings.rst:38
-# 06c570f8faf04b62884a47206d1aa450
+# a9ff7997505e461d96b79eaf9fb7a4c3
 msgid "View and set activation rules for the frame. Set the dial as to whether you would like the frame to show up instantaneously (right away), never or somewhere in between when you move your cursor to both the corner and edge of your screen."
 msgstr ""
 
 #: ../source/my_settings.rst:41
-# b7ab4e7695c84d1f8896deb9e730503d
+# 9ed9d07e21044baa9f5afbbb5037036b
 msgid "Language"
 msgstr ""
 
 #: ../source/my_settings.rst:43
-# fb7d82dd2ca24f628c0613861ce0f793
+# 6d894485ec7a43cfb31e2ccb4c811f54
 msgid "View and set user interface language. The language you are currently using will show on line 1. If you click on the arrow at the end of the line, you can select another language. Select from the menu by country and language, or click the + icon by the last line to add another line. If there are two or more lines, a - icon will appear by the last line to allow you to delete it."
 msgstr ""
 
 #: ../source/my_settings.rst:46
-# 25cf44ce9eff4a28b2895a36ad20e7c1
+# 89aa32fa60864c0183c3c2a181e9eb91
 msgid "Modem Configuration"
 msgstr ""
 
 #: ../source/my_settings.rst:48
-# 583ee4f3b56d418e971b981b7fe3e60b
+# 2d062b9bfd3349b2a7c7a805342d7108
 msgid "Enter settings for a mobile broadband connection to a cellular (3G) network. Not required for WiFi."
 msgstr ""
 
 #: ../source/my_settings.rst:51
-# f079acd11855455fb48d98d7d6cf466e
+# a97afb345d154735b151048c42b8be98
 msgid "Network"
 msgstr ""
 
 #: ../source/my_settings.rst:53
-# 23f9577c69124be2b0774e0de55c4885
+# 3b9a18bb688e46408997b300292b205a
 msgid "View and change settings for turning off wireless in order to save battery power, and view or set the jabber server name for collaboration."
 msgstr ""
 
 #: ../source/my_settings.rst:56
-# d122023f024f4f6d9ba6b7417efab971
+# d31bf81322104a18bf3c2b69ccafd70a
 msgid "Software update"
 msgstr ""
 
 #: ../source/my_settings.rst:58
-# d9fe767f3b2846bcb5c30827574ac61b
+# b5a669ebde4d45508d44b9c189733ca0
 msgid "If you are able, check over the Internet for software updates, and install any that are available."
 msgstr ""
 
 #: ../source/my_settings.rst:61
-# 4a0c4e0e8256498ea158da4cfeb7b7d3
+# 0fb3d77dbaf1455f87c3aa678fbf013f
 msgid "Configure your Web Services"
 msgstr ""
 
 #: ../source/my_settings.rst:63
-# cb651d3e9312477fa327e5ce8a66dcad
+# 86944b076c514019a6ffb4eeba187323
 msgid "Manage your online accounts and interventions to Journal."
 msgstr ""
 

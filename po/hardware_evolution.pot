@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,149 +17,149 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/hardware_evolution.rst:3
-# caf88ba527864a0ca2c08f7cec4b59d0
+# fd9c2337fae4404c81c9fe040abe1c7f
 msgid "Hardware evolution"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:6
-# e1f1f1821d944fb99a7b0f3a0ccb9d4f
+# 19a4825d57d24faf801a6bbe06b311c0
 msgid "Hardware Evolution 2008 - 2012"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:8
-# efbdff56850b4ee0ba294b5adb84ed48
+# bdbe886a73944ae49f078c05e9aea0d9
 msgid "Although the XO has continued to look pretty much the same on the outside, the electronics inside have been changing. For details of the differences, refer to:"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:10
-# e3cbb4b22aab4d81b5ddaca2e1f8f9fe
+# db8eff9d63054ab388a62b69cd7e5b42
 msgid "http://wiki.laptop.org/go/Hardware_specification for the XO 1.0"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:12
-# f3606c5347e348fd9c732dfa8489b61b
+# adbe20ca283d464388a89ff782c7ecc3
 msgid "http://wiki.laptop.org/go/Hardware_specification_1.5"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:14
-# e00d8b45adc949adb8ac12cc4b710257
+# 66699d34a9064e5d83a2911a22f4f3c0
 msgid "http://wiki.laptop.org/go/XO-1.75"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:16
-# 0c0af37104e24cdd85b8681bb9baabeb
+# f8832db07c8848c7b61e43c504033f07
 msgid "http://wiki.laptop.org/go/XO-4"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:18
-# 177232dfca9a46a6a29edc4a566ac900
+# aa9db96751bf40559cf4c1d686c4f051
 msgid "To some extent, the changes were made to keep using high volume parts, and improve performance. The change from 1.5 to 1.75 involved a change of the processor from x86 to arm, and a reduction in power consumption of about 50%. With power management improvements, this permits the XO to last more than 3.5 hours."
 msgstr ""
 
 #: ../source/hardware_evolution.rst:20
-# 638d0283cd1f4ce0962b44e2e1d68e37
+# f603656c654b49ec9da5c831d4c75922
 msgid "XO-4 is available in two models, XO-4 and XO-4 Touch. XO-4 provides multi touch input on the display."
 msgstr ""
 
 #: ../source/hardware_evolution.rst:22
-# d4bd69f2ce9341c8a21b0a2a390f04f0
+# 0c497740a8c849038d0103b4809b4d7d
 msgid "As you can see from the \"boot time\" comparison, lower power has not been at the expense of decreased performance."
 msgstr ""
 
 #: ../source/hardware_evolution.rst:25
-# a31a06b770784238868633822c0bb963
+# 55ceff0fd464481fb5a382b92119eb1e
 msgid "Version"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:25
-# 9b6b18ce73534d2982c3f2be5b06e14a
+# 769f027b436b4c38973bb0949026cf60
 msgid "Hard Disk"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:25
-# 9d0999355ee1448f9c50a50d0aca9c9f
+# 5a7bd70273ac4c40baa2ca79a37e3c0d
 msgid "Memory"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:25
-# fa35eb81d08348109890d8f85e331b57
+# d5abca77ed6c404fb2cc1a7bf40634d7
 msgid "Boot Time"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:27
-# cf7f52e5b4f34c0bad516f655312139d
+# eac55881a01b4e8084fff53d2b3b556f
 msgid "XO 1.0"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:27
-# a07c4aa415ad4719b33ed747666d320f
+# bb8f6898aff14374ad16ee7829b32803
 msgid "1 GB"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:27
-# c1958fde6ae34263abed37f55ffb9ef2
+# 5569be4bc1884bad8b1e977b128d68e2
 msgid "256 MB"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:27
-# 6d15ccf1d23e4381bf63e075f4a38a3b
+# 7a998073225e4fc7aaf6274854bd03fc
 msgid "76 s"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:29
-# e2111522582b4b7a8eefaf01f7a22106
+# 8c3d9f69c82f4bb19ad5a434a3851b83
 msgid "XO 1.5"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:29
 #: ../source/hardware_evolution.rst:31
-# d3967de2f53b4bf68490b7ee73c5acfd
-# ec471e84b5b14efc999d2e188f9077ed
+# 9313c74bd91e419f9c77e5d93e6a817e
+# 35afc8d281b54f26853f86de0ae3358e
 msgid "4 GB"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:29
-# 13c97e263099478db0485387980f2070
+# e5a5b5f92f3b439ea3c34a1fa35e11d3
 msgid "1000 MB"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:29
-# c5bb98c34650495e8c87e55afeae6c1c
+# a6794776c30649ae8150b957f1402ec2
 msgid "54 s"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:31
-# 09d19c576aa54ab483be6224b9c5239a
+# 1db782e3cc9946ce9cad06b494f8f7dc
 msgid "XO-1.75"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:31
-# 8401368f6ba64b3ea95f14d743efced7
+# c3e8df16f00a4636b13e7a2df0f6e21c
 msgid "512 MB"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:31
-# 2b2ec9fc340c4de0b1e2638a19bb2aff
+# c1a5cfe6b8ad4e8793632135a713a61d
 msgid "47 s"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:33
-# 8123de00a95b476abd1ca984ebb5a514
+# 758360a869dd4fb6ae3df536c4e4190b
 msgid "XO-4"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:33
-# 51d84b850a8e48b092e29bbcf1ed3955
+# d46a5a1c51e04a44945bd67a72f44379
 msgid "4 or 8 GB"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:33
-# 1fdd71e77b564bc6ab4c5c746a1c8067
+# 441045a9858048e292152dccdf66e112
 msgid "1 or 2 GB"
 msgstr ""
 
 #: ../source/hardware_evolution.rst:33
-# b661d5c90fee41b08acfa9e4259612b9
+# 50421e9ad23d454a8e61c5f56302d623
 msgid "38 s"
 msgstr ""
 

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 0c33d336e150424688e38df574c831a0
+# ba85d9b3bd1b4aa79c00577dbe0f7308
 #: ../source/repair.rst:3
 msgid "Repairs"
 msgstr ""
 
-# 0b3ebd33cb224f30b1fdba5e18a67df2
+# 7541194a7c3b4e6f81a7a0cde6287637
 #: ../source/repair.rst:5
 msgid ""
 "Your XO is built and designed for repair work to be completed with only your "
@@ -31,14 +31,14 @@ msgid ""
 "details on how to start on repairs."
 msgstr ""
 
-# 2b7f61547313404886fd5ecd52ae64dc
+# 5d84f7fdd3e046398287547ccdb440a1
 #: ../source/repair.rst:7
 msgid ""
 "For photos and step-by-step instructions on repairing your XO or putting "
 "replacement parts in, go to http://wiki.laptop.org/go/Repair."
 msgstr ""
 
-# 0303a5439f7144029f47b20b803db411
+# 69ec716695df4d709210da77cce4c35a
 #: ../source/repair.rst:9
 msgid ""
 "Refer to http://wiki.laptop.org/go/Repair_center_locations to get to the "
@@ -46,12 +46,12 @@ msgid ""
 "XO yourself."
 msgstr ""
 
-# 69aeb5d5e97f4240a1361cb8b4bf7771
+# 40bf2409b6844b22b2983f6a19cb8f7c
 #: ../source/repair.rst:12
 msgid "Recalibrating the touchpad on the XO 1.0"
 msgstr ""
 
-# 78be30c8375341fcbd081763a0befdc4
+# 953464f5e02949f891754fc7dbef3451
 #: ../source/repair.rst:14
 msgid ""
 "If the pointer is not following your finger on the touchpad of a XO 1.0, or "
@@ -59,7 +59,7 @@ msgid ""
 "recalibration procedure:"
 msgstr ""
 
-# 58b75f95575048769add2a9439252739
+# 4210a88f808f41a7a94a850494d07a55
 #: ../source/repair.rst:16
 msgid ""
 "Hold down the three keys at one time: the upper left, upper right, and lower "
@@ -67,30 +67,30 @@ msgid ""
 "last one pressed, and then release them all."
 msgstr ""
 
-# 3420d861dcac4c75905de53aa4a9b429
+# ec3d93878b2c4e499f325be006e5f842
 #: ../source/repair.rst:20
 msgid ""
 "If this doesn't help, try shutting down the laptop and removing the battery "
 "for ten seconds before restarting."
 msgstr ""
 
-# ecb603308f724907a53b5d87dd000890
+# 5868d184cbd64fb88743e04c07e5c741
 #: ../source/repair.rst:22
 msgid ""
 "Finally, plug a standard USB mouse into your laptop to bypass the problem."
 msgstr ""
 
-# ec09b584461c47da8bad8ab99f7fad09
+# 49834dba733e45c1adc2fb9777a10e41
 #: ../source/repair.rst:25
 msgid "How to do a Keyboard Test"
 msgstr ""
 
-# 2751adfb308d4d99a7b2f626e57e895c
+# 1d1ae5deeee44a6da620acf387d9aba3
 #: ../source/repair.rst:27
 msgid "Checking for keys that stay down or appear stuck"
 msgstr ""
 
-# ebf8c7171e904f3881da670bc4686f30
+# a6e4b824f94b4d87b428c31c46a9cc0f
 #: ../source/repair.rst:29
 msgid ""
 "Your XO must have a developer's key to do this keyboard test. Refer to "
@@ -98,7 +98,7 @@ msgid ""
 "developer's keys."
 msgstr ""
 
-# 8c9d22de99cd46d9965611fd7c8d5e8f
+# 242d05789c5c4162bd608ae86f372421
 #: ../source/repair.rst:31
 msgid ""
 "With the XO off, hold down the \"check mark\" game button (above the power "
@@ -107,12 +107,12 @@ msgid ""
 "is pressed."
 msgstr ""
 
-# 3f1dabfa0c2a4c20b601c3855209307e
+# abc1f91440c14362a63efb6dcc0ca41d
 #: ../source/repair.rst:32
 msgid "Release the \"check mark\" game button."
 msgstr ""
 
-# 4def6929ca104e1ebf6e799f747e7144
+# 67c209c3a0224d8da7b10e400fc74d4f
 #: ../source/repair.rst:33
 msgid ""
 "Next, after you see \"Type the Esc key to interrupt automatic startup,\" "
@@ -120,33 +120,33 @@ msgid ""
 "circle with an x). The XO displays an ok prompt."
 msgstr ""
 
-# 15a2d8f192f1419bb80fa0ecb95c7d81
+# e7e4fa0530a748d3b94eda47f05af5ad
 #: ../source/repair.rst:34
 msgid "At the ok prompt, type:"
 msgstr ""
 
-# b8439dceebf744ddabdb5bb44c084823
+# de1065d77fdb4ad9b90b6c7e92453872
 #: ../source/repair.rst:36
 msgid "``test keyboard``"
 msgstr ""
 
-# b05170a00e6e462e8db8e23a21eb24e0
+# ea8d91069e1645959f9761b1ecd19377
 #: ../source/repair.rst:38
 msgid "and press enter."
 msgstr ""
 
-# d8e2972ff98b45d09263cace069a60ec
+# b308d645b8f84e718ab958e460dc551d
 #: ../source/repair.rst:40
 msgid "A blue keyboard map displays on the screen."
 msgstr ""
 
-# 5bd600d8838e482fb179b2de2c975fa4
+# 8cb74a76690f423f9fad51dd6f15889d
 #: ../source/repair.rst:42
 msgid ""
 "Press keys one at a time to see the keyboard map turn the key light blue."
 msgstr ""
 
-# 2b7fc892502a47d7889b5e45423e6b7a
+# c65b441e2f2d4dfb8bdf338488fe0fdd
 #: ../source/repair.rst:43
 msgid ""
 "If the display on screen shows a light blue key constantly, the keyboard has "
@@ -155,23 +155,23 @@ msgid ""
 "Repair_center_locations."
 msgstr ""
 
-# 94d35e21eae648d2a08bad20cbb3ab1a
+# 7e75d0c8de844abb81e083350c6f2278
 #: ../source/repair.rst:44
 msgid ""
 "Press the the escape key (circle with an x) again to exit the keyboard test."
 msgstr ""
 
-# af2d864ea60d42808f64cf0ceddde8bc
+# 74e91891ce844153b299998d2b0e013f
 #: ../source/repair.rst:45
 msgid "At the ok prompt, type reboot to restart."
 msgstr ""
 
-# 5c85d7d85e704bde8340f24df1e57ce5
+# 71d02d221d5c41e7878caa33f91bb947
 #: ../source/repair.rst:48
 msgid "Repairing damage to the keyboard"
 msgstr ""
 
-# e6b97a0e4f684d36b278a555e54ffa00
+# 46b9b5a9126b44aaa0259706ffb42108
 #: ../source/repair.rst:50
 msgid ""
 "If your keyboard becomes damaged, normally it has to be replaced. "
@@ -180,55 +180,55 @@ msgid ""
 "Repair_center_locations."
 msgstr ""
 
-# a275c3ddb99944e89c112819bf8e52bf
+# 176642d424ad4fac817dfba239b9c6a5
 #: ../source/repair.rst:53
 msgid "Troubleshooting the internal XO hardware"
 msgstr ""
 
-# 734ad632621f40b7916bbada72297fed
+# edba33d6675748bcaf7291f257b6f0d8
 #: ../source/repair.rst:55
 msgid "The XO can give you information about possible repairs that are needed."
 msgstr ""
 
-# b72da34bbd984069a3b6b3989b68c602
+# c6d41cc3ba474ec982b64a8484565810
 #: ../source/repair.rst:57
 msgid ""
 "Start by pressing the power button for a second, and then answer the "
 "following questions. Does the Power LED half-circle light up?"
 msgstr ""
 
-# cf4fcb8dc841448db8a3a37e5c60fbae
+# 7cfe45647aea4e9b9db447e4b6acc68d
 #: ../source/repair.rst:59
 msgid ""
 "When the power button is pressed once, and the power LED doesn't turn on, "
 "first try resetting it."
 msgstr ""
 
-# a90ed491fa9b4f2a9d1064278218e3ad
+# c0d0b6e5c547438180dddf35a1910a7c
 #: ../source/repair.rst:61
 msgid "To reset the XO, remove all power sources from the laptop:"
 msgstr ""
 
-# 79767a6ecbf044759333c90d152a4763
+# eb47d143242047269f2c111cf5bd6d4e
 #: ../source/repair.rst:63
 msgid "Take the battery out and remove the power adapter."
 msgstr ""
 
-# 44be7c20f2f14802a577d80a3d373dfd
+# 1badb439a82e455d9cf55a3afc73bf21
 #: ../source/repair.rst:64
 msgid ""
 "Wait two minutes. This allows embedded hardware to lose all power and reset "
 "itself."
 msgstr ""
 
-# fb83dda8e6844ad3954dd3cea0c21268
+# 3bcf7ba43d304b429701b5a344c7fd09
 #: ../source/repair.rst:65
 msgid ""
 "Replace at least one source of power, either the battery or power adapter, "
 "and watch the power/battery LED while you do so."
 msgstr ""
 
-# b13fbf641b7b4cd589870a7fd1a7144e
+# 3ad4db7eb721413db9b96c74cad5cefc
 #: ../source/repair.rst:67
 msgid ""
 "The battery LED should flash orange momentarily (about a quarter of a "
@@ -237,7 +237,7 @@ msgid ""
 "Contact a repair center for assistance."
 msgstr ""
 
-# 54152fe9f53f4287b05767696770d6e5
+# 42bf3c69675f40be8e26e6a894543572
 #: ../source/repair.rst:69
 msgid ""
 "If the power LED doesn't turn on or flash, but the laptop proceeds to "
@@ -246,7 +246,7 @@ msgid ""
 "they may both fail to light."
 msgstr ""
 
-# 002a1da99a6340de8ae690497b7ce57b
+# 7ef04c3a64414e779c671e5e90720b18
 #: ../source/repair.rst:71
 msgid ""
 "On rare occasions, the power button becomes stuck mechanically. In this "
@@ -255,7 +255,7 @@ msgid ""
 "it a few times."
 msgstr ""
 
-# 2e4824d813814bd9947c35d79e1e330f
+# c802a9e7f72a469ebc515925ba2463e3
 #: ../source/repair.rst:73
 msgid ""
 "If the battery LED flashed on restoration of power and the power button "
@@ -264,7 +264,7 @@ msgid ""
 "Does the display light up?"
 msgstr ""
 
-# 1f362c7b7b4541e0b9cfb4ae113b04e7
+# e37ff418443e4b338388103e5099b2ad
 #: ../source/repair.rst:75
 msgid ""
 "After starting the XO and viewing the power LED, the next visible feedback "
@@ -274,7 +274,7 @@ msgid ""
 "turned off."
 msgstr ""
 
-# a84c85341c544e2ebcfe2b5ba2ed24dd
+# 1575c641c4a841db9315aa097c715fdb
 #: ../source/repair.rst:77
 msgid ""
 "If this does not happen then the boot sequence may not be operating "
@@ -284,14 +284,14 @@ msgid ""
 "hear the startup sound when the XO starts?"
 msgstr ""
 
-# 2cb48c47d4cf43709568761169ab23d8
+# 161b9b8bbcea46428b62ba78b928c5df
 #: ../source/repair.rst:79
 msgid ""
 "If the startup sound does not play, this usually indicates a problem that a "
 "repair center needs to fix. Yes, the startup sound plays"
 msgstr ""
 
-# c1f655b98d534141be81c913419a4d07
+# c11324ce7896444082511cd67bb0c347
 #: ../source/repair.rst:81
 msgid ""
 "If the display doesn't initialize, but the boot sound plays, then this is "
@@ -299,7 +299,7 @@ msgid ""
 "sound plays"
 msgstr ""
 
-# d96325bd62dc402291702ac229d5e3e9
+# 4a8f8cecb5f04b44b8a443eaa026139f
 #: ../source/repair.rst:83
 msgid ""
 "If no boot sound is played, but the machine boots normally and has audio, it "
@@ -310,7 +310,7 @@ msgid ""
 "if the boot sound returns."
 msgstr ""
 
-# 5ed7fe3230aa46d08100a1942522fe96
+# a963a57024354ec69da03e6ac24214be
 #: ../source/repair.rst:85
 msgid ""
 "If no boot sound is played, and the machine boots normally but has no audio "
@@ -318,7 +318,7 @@ msgid ""
 "remains blank after starting up?"
 msgstr ""
 
-# 85814a9a528d41c5a6849efb05a77edf
+# 8ad7bc673ece4c77bcbe83a22df76aac
 #: ../source/repair.rst:87
 msgid ""
 "Sometimes the display is active (including backlight), but no text or "
@@ -331,12 +331,12 @@ msgid ""
 "display is showing an XO icon only?"
 msgstr ""
 
-# 3e53f6c8954c4ca599aad4136139c888
+# 61478af667e5491ca66cbe4f1de65ed6
 #: ../source/repair.rst:89
 msgid "This means that the XO has started the startup process."
 msgstr ""
 
-# 5490c2e5b2f34359baab343689227aac
+# aee07785210c47e3a5419b40f432050a
 #: ../source/repair.rst:91
 msgid ""
 "You can see much more information about your Open Firmware by holding the "
@@ -347,7 +347,7 @@ msgid ""
 "serial number and three icons below it?"
 msgstr ""
 
-# 7991a1523c8a426d86db16691845447f
+# fd4e4c6ad0904d538a6a1a4d7092fbe5
 #: ../source/repair.rst:93
 msgid ""
 "If the laptop powers up, but stops when displaying the XO icon in the middle "
@@ -357,7 +357,7 @@ msgid ""
 "\" at the top of the screen and power-off soon thereafter."
 msgstr ""
 
-# 1283ca7b08374f47a729926b76661f16
+# a0833289e82c4632a367e2065eb26f5e
 #: ../source/repair.rst:95
 msgid ""
 "The solution is to re-activate the laptop. Obtain a copy of the lease (or a "
@@ -368,7 +368,7 @@ msgid ""
 "\" above it?"
 msgstr ""
 
-# aaf7c440da0b4c84b55855baf4efa943
+# e78ff0e6a80144a7bbfa3bf19092ce6b
 #: ../source/repair.rst:97
 msgid ""
 "This means that Open Firmware couldn't find a signed operating system on the "
@@ -376,14 +376,14 @@ msgid ""
 "SD cards for signed operating system software."
 msgstr ""
 
-# 8ff44a0e2b654f55a086ef9f483742d5
+# ba274fe2abc04205a76f4d41f8e854ee
 #: ../source/repair.rst:99
 msgid ""
 "Try upgrading or re-installing the software: http://wiki.laptop.org/go/"
 "Secure_Upgrade. XO icon with a single dot below it?"
 msgstr ""
 
-# 032bb1a77e4840ec8ba400b393f838dc
+# 2d96168245cb4ea78fd55409acaa2c35
 #: ../source/repair.rst:101
 msgid ""
 "If the XO powers up, but stops when just displaying the XO icon in the "

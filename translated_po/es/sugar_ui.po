@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 8f0cb0769676483394e577109787c32a
+# c116b2a064314a6085fbe5dd6a3d7b63
 #: ../source/sugar_ui.rst:3
 msgid "The Sugar User Interface"
 msgstr ""
 
-# 868380ee36ab4bb19c164052dfcc1f11
+# 307c73e616994763a30df0001f2cfef6
 #: ../source/sugar_ui.rst:5
 msgid "The Sugar platform encourages learning through personal expression."
 msgstr ""
 
-# 3ae02bdcc1a847d5a287be63cb7454b7
+# 057311ed4e8047a4a03045aa43e6a1dc
 #: ../source/sugar_ui.rst:7
 msgid ""
 "The user interface differs from the traditional Desktop metaphor. It uses a "
@@ -38,14 +38,14 @@ msgid ""
 "with."
 msgstr ""
 
-# 56c2b61d10ba43dcbc5c6e30b799db2c
+# b9147e163b744e3e888b02ee6620a560
 #: ../source/sugar_ui.rst:11
 msgid ""
 "With Sugar, you zoom between views: from your network neighborhood to your "
 "current Activity."
 msgstr ""
 
-# c89a4e5b9b2b45e49101874c40f546c4
+# 4d4d3dcac4bb48bd924541cd9b0925c4
 #: ../source/sugar_ui.rst:13
 msgid ""
 "Sugar supports sharing and collaboration by default. Sugar brings many of "
@@ -55,7 +55,7 @@ msgid ""
 "never more than a single click away."
 msgstr ""
 
-# 2f4ed1256b4c4dd59d589f7c3618fd1c
+# beca93c3921041baa46455b736d42d68
 #: ../source/sugar_ui.rst:15
 msgid ""
 "Sugar incorporates a Frame around the border of the screen; the Frame holds "
@@ -63,7 +63,7 @@ msgid ""
 "current collaborators."
 msgstr ""
 
-# 84958dd6ceb04d119fe695b60617a76e
+# ad9cbf047c364336b9ca12d524485c45
 #: ../source/sugar_ui.rst:17
 msgid ""
 "Sugar maintains a Journal (or diary) of everything you do; it is a place for "
@@ -71,7 +71,7 @@ msgid ""
 "automatically save your work to the Journal."
 msgstr ""
 
-# 4070b4d2cb3d477286b445ecd858d91c
+# 849dba541f014d598c591f47439d6939
 #: ../source/sugar_ui.rst:19
 msgid ""
 "Sugar emphasizes discovery.  Every object in the interface has a menu that "
@@ -82,7 +82,7 @@ msgid ""
 "make changes to them."
 msgstr ""
 
-# e9ffa2f74c5849d2b2cddf1dba30d7b4
+# 1c9304eb08494539a80263a1fb917f0b
 #: ../source/sugar_ui.rst:21
 msgid ""
 "Sugar has clarity of design. There is no need to \"double click\". There are "
@@ -90,17 +90,17 @@ msgid ""
 "to provide a fun, expressive, approachable platform for computing."
 msgstr ""
 
-# e8bba09bd2c6479d8794b55a0d922c0c
+# 1c4961d7c42e4fbdbf130ce39acf3f76
 #: ../source/sugar_ui.rst:24
 msgid "For parents and teachers"
 msgstr ""
 
-# 05338b3ef43c40428b041ec942a0c353
+# d23be272bae0420bb0d2983cae495f3d
 #: ../source/sugar_ui.rst:26
 msgid "**Activities, not Applications**"
 msgstr ""
 
-# 68b07d3b8b2e4d9e9c4b518944adfafa
+# 259884d4d15349c68f6f5b5b6157613e
 #: ../source/sugar_ui.rst:28
 msgid ""
 "Sugar does not have applications in the traditional sense. Activities are "
@@ -110,12 +110,12 @@ msgid ""
 "learning experience we hope the children will have when using Sugar."
 msgstr ""
 
-# a3bd99c2bb334e78a8e53334ce6324cd
+# 85387198138d4445919f3e1ca1830d98
 #: ../source/sugar_ui.rst:30
 msgid "**Presence is always Present**"
 msgstr ""
 
-# 2c3ace0c18e2418c919920db98d75e1f
+# a7afad2d607f4848b899345468cf90fa
 #: ../source/sugar_ui.rst:32
 msgid ""
 "Everyone has the potential for learning and teaching. Sugar puts "
@@ -127,7 +127,7 @@ msgid ""
 "with the laptops."
 msgstr ""
 
-# e628432cad9a477685420044a41f86d4
+# afe1827f2132443cbc5513cbecbe3561
 #: ../source/sugar_ui.rst:34
 msgid ""
 "Most activities have the potential to become network enabled. For example, "
@@ -136,12 +136,12 @@ msgid ""
 "transforming web-surfing into a group collaboration."
 msgstr ""
 
-# 0b5010c0c22c45618895d984b558dba6
+# 2e3354b8a5184d49810dcf7b96be9f7b
 #: ../source/sugar_ui.rst:36
 msgid "**Tools of Expression**"
 msgstr ""
 
-# 353c87e03dd949a5abdebe82ff0b2960
+# c45e5a79f7cc40069bd542f30b8c1694
 #: ../source/sugar_ui.rst:38
 msgid ""
 "Sugar emphasizes thinking, expressing, and communicating using technology. "
@@ -155,7 +155,7 @@ msgid ""
 "creative expression."
 msgstr ""
 
-# 06b5a0032b37490c80f60d82c069f033
+# c3ff163cc39344db83245fe2ea81405a
 #: ../source/sugar_ui.rst:40
 msgid ""
 "As most software developers would agree, the best way to learn how to write "
@@ -168,7 +168,7 @@ msgid ""
 "expression as well."
 msgstr ""
 
-# e80f2ced571b4d848faffd75608834b5
+# c581ecb77a214a60b4b79810b2fd9816
 #: ../source/sugar_ui.rst:42
 msgid ""
 "Turning the traditional file system into objects speaks more directly to "
@@ -177,12 +177,12 @@ msgid ""
 "developers can define object types and associated icons to represent them."
 msgstr ""
 
-# 652c1c22cf864f80bad8717df1d49921
+# 2d97b697a853435bb0165137c257062a
 #: ../source/sugar_ui.rst:44
 msgid "**Journaling**"
 msgstr ""
 
-# 80ee93ffa5414b32bc73aedbeeec7704
+# d4bce66a7da34e0593905b3e5ad87c9b
 #: ../source/sugar_ui.rst:46
 msgid ""
 "The concept of the Journal, a written documentation of everyday events, is "
@@ -194,7 +194,7 @@ msgid ""
 "system layout is less important than the journal itself."
 msgstr ""
 
-# 66b7c3a95a974f6dafd022c862765d1c
+# ac17e83f58a94272a939286d2a1533e4
 #: ../source/sugar_ui.rst:48
 msgid ""
 "The journal embodies the idea of storing a history of the things a child has "
@@ -202,7 +202,7 @@ msgid ""
 "teacher can reflect on the journal to assess progress."
 msgstr ""
 
-# c5a62473d3084a938cb7874de10c746d
+# 165a48e5c5364c50b3fddd5c1008faff
 #: ../source/sugar_ui.rst:50
 msgid ""
 "The Journal stores objects created while the student runs an Activity. This "
@@ -214,7 +214,7 @@ msgid ""
 "and also with peers."
 msgstr ""
 
-# 36e0265c079f4a6eab07f0d3cc04fb0d
+# 09279c5fb3a44975bd269b688c434527
 #: ../source/sugar_ui.rst:52
 msgid ""
 "The Journal includes entries explicitly created by the children with entries "

@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/labyrinth.rst:3
+# d36cb1f3cb0142429b969217c20437a9
+msgid "Labyrinth"
+msgstr ""
+
+#: ../source/labyrinth.rst:6
+# 8eecee29a11747b7bfea34c2f077d92e
+msgid "About"
+msgstr ""
+
+#: ../source/labyrinth.rst:8
+# dd609f7d4f2d4f1794f8f3ea3ab7225d
+msgid "|Laby_ico| Labyrinth is a lightweight mind-mapping activity based on an Open Source project called Labyrinth. It allows creating mind maps from a mixture of text, freehand drawings, and images from your Journal. There is an infinite sized canvas for your map that can be panned and zoomed while you work. Maps can be \"Kept to PDF\" for uploading to web sites, sharing, and printing by others who may not be using Sugar."
+msgstr ""
+
+#: ../source/labyrinth.rst:14
+# 427a296535ed4d43bb3236b6d0010d76
+msgid "Gallery"
+msgstr ""
+
+#: ../source/labyrinth.rst:29
+# 2d62c878f37c46e89bdc10a48a6355e7
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: ../source/labyrinth.rst:31
+# 5684da5675304160aea0579818f93aea
+msgid "Esc deselects thought, stops editing current text though"
+msgstr ""
+
+#: ../source/labyrinth.rst:32
+# 96e9b8b297d447e9bfb8bd0d6558fe3c
+msgid "Ctrl + A select all thoughts"
+msgstr ""
+
+#: ../source/labyrinth.rst:33
+# 4a51f5d03f874888a97ca6111a6a6b8b
+msgid "Ctrl + E for Edit mode (bounding box selections, and allows editing of existing thoughts)"
+msgstr ""
+
+#: ../source/labyrinth.rst:34
+# 61de6dc916a64f2fb665ebf05204978b
+msgid "Ctrl + T for text thought mode (click canvas, or click and drag, to add new thoughts)"
+msgstr ""
+
+#: ../source/labyrinth.rst:35
+# 8d4d21d5102b437fa39351322475694d
+msgid "Ctrl + D for drawing mode (click canvas, or click and drag, then draw inside thought boundary)"
+msgstr ""
+
+#: ../source/labyrinth.rst:36
+# 54ba55f642474e99a9e17179306f55d2
+msgid "Ctrl + I for image add mode (click canvas, or click and drag, use Journal object picker to select image)"
+msgstr ""
+
+#: ../source/labyrinth.rst:37
+# 78ecfcbc75e24c9690c029084f44cf2d
+msgid "Ctrl + L to link two or more selected thoughts"
+msgstr ""
+
+#: ../source/labyrinth.rst:38
+# 49099b5565f64a83be1dd5456dec910b
+msgid "ERASE to erase one or more selected thoughts"
+msgstr ""
+
+#: ../source/labyrinth.rst:39
+# c223dc824a794fdd9f2812a07e786d8c
+msgid "Ctrl + + to zoom in"
+msgstr ""
+
+#: ../source/labyrinth.rst:40
+# cfef02b1114c441a9084bb833fd49245
+msgid "Ctrl + - to zoom out"
+msgstr ""
+
+#: ../source/labyrinth.rst:41
+# f87685b329564819b04064504ab37dc2
+msgid "Ctrl + 9 zoom to fit window"
+msgstr ""
+
+#: ../source/labyrinth.rst:42
+# 92743165798d4f04ac7bd48d66bda2eb
+msgid "Ctrl + 0 for original zoom size"
+msgstr ""
+
+#: ../source/labyrinth.rst:43
+# e166cbaf13d84e9ca070a11720e9f124
+msgid "Alt + Enter to toggle full screen"
+msgstr ""
+
+#: ../source/labyrinth.rst:44
+# a5b03cfc5e6845a492f135574c489ca4
+msgid "Ctrl + Q or Alt + Esc to stop the activity"
+msgstr ""
+
+#: ../source/labyrinth.rst:48
+# 2b529123800046309db563a291254b72
+msgid "Mouse/Trackpad shortcuts"
+msgstr ""
+
+#: ../source/labyrinth.rst:50
+# 8e91e8733eae4e5ba2aff3eeca327dcb
+msgid "Single click on the canvas with left button in text/drawing/image mode to create a thought"
+msgstr ""
+
+#: ../source/labyrinth.rst:51
+# 7528c13361c34cdc8966ef7bad54febd
+msgid "Drag with left button in text/drawing/image mode to create a thought of a specific size"
+msgstr ""
+
+#: ../source/labyrinth.rst:52
+# d59a5972a7f1480cb78a67062967a8f5
+msgid "Single click left button to select an existing thought (typing will append to the thought text)"
+msgstr ""
+
+#: ../source/labyrinth.rst:53
+# 78dc029e6735401ca803608580e84b44
+msgid "Double click left button to select a thought and begin editing the text content (all thought text starts selected)"
+msgstr ""
+
+#: ../source/labyrinth.rst:54
+# 38d9a3654ea948ac8230bb168edb2547
+msgid "Hold shift and left click thoughts to make multiple selections"
+msgstr ""
+
+#: ../source/labyrinth.rst:55
+# bd22cbe3c92345e483231c35a6e6ee6c
+msgid "Hold 'hand' key on XO keyboard and use left button to drag the canvas to pan/scroll"
+msgstr ""
+
+#: ../source/labyrinth.rst:56
+# 955b5d583b4247b1be174ff2ff31e0a0
+msgid "Hold right button to drag individual thoughts"
+msgstr ""
+
+#: ../source/labyrinth.rst:57
+# b89328fa81224de7853f080ddf6e9d46
+msgid "When in drawing mode, hold Shift and draw to erase"
+msgstr ""
+
+#: ../source/labyrinth.rst:61
+# d0545c7486c44e4295a87faea2fd6144
+msgid "Review"
+msgstr ""
+
+#: ../source/labyrinth.rst:62
+# 58cec51967f848f7849636a1da0b7ba1
+msgid "`Video Review <http://www.youtube.com/watch?v=h8Mcc0toS0M>`_"
+msgstr ""
+
+#: ../source/labyrinth.rst:66
+# 29d1c01baf504589b882e792fd416af1
+msgid "Resources"
+msgstr ""
+
+#: ../source/labyrinth.rst:68
+# 88b5f813df5d4191b1b33ffabf61e44a
+msgid "`Activity Library Page <http://activities.sugarlabs.org/en-US/sugar/addon/4078>`_"
+msgstr ""
+
+#: ../source/labyrinth.rst:69
+# 789097ff28ea470c8f69b50b2a27b7f2
+msgid "`Source <http://git.sugarlabs.org/projects/labyrinth>`_"
+msgstr ""
+
+#: ../source/labyrinth.rst:70
+# 6917bff936d249bca0abdc679e6ad5f4
+msgid "`Source tarball <http://download.sugarlabs.org/sources/honey/Labyrinth/>`_"
+msgstr ""
+
+#: ../source/labyrinth.rst:73
+# 8c4aa4ac18e3449ca6425d4cacd8684b
+msgid "References"
+msgstr ""
+
+#: ../source/labyrinth.rst:74
+# cf2dbae1143b40619102eb6da82f88ee
+msgid "`Wiki page <http://wiki.sugarlabs.org/go/Activities/Labyrinth>`_"
+msgstr ""
+

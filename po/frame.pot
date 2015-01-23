@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,72 +17,72 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/frame.rst:3
-# 120a1224c255477fa5d7a57961f9c18f
+# 4db7576e67e5433f884c0d3251d37e1f
 msgid "The Frame"
 msgstr ""
 
 #: ../source/frame.rst:5
-# 82142481248341e5908de4c12a8e871d
+# c775d18fb8594d4eaca4dd0ad4fc36da
 msgid "The Frame is the black border around the screen that holds the View icons, Activity taskbar, clipboard, wireless connections, battery level, incoming invitations and notifications, buddies, and global information that is used across all views."
 msgstr ""
 
 #: ../source/frame.rst:8
-# 3ddd532714ea40629123411d94da5494
+# cc6049611257498aab61b4b7cc73fcbc
 msgid "Accessing the Frame"
 msgstr ""
 
 #: ../source/frame.rst:10
-# 77a0ea65f52d49a7b5be4a27f218ff09
+# 2f635541c2664aab8489ecc3fdce96cd
 msgid "You can access the frame from any view in 2 ways:"
 msgstr ""
 
 #: ../source/frame.rst:12
-# 8a9fd5605aa743cb9981de11ee70e932
+# efe5afc275dc4bcda69eb8b87242edde
 msgid "By using the Frame Key on the keyboard. On XO laptops the Frame key is the square icon on the upper right hand corner of your keyboard, on other laptops you can use the F6 key."
 msgstr ""
 
 #: ../source/frame.rst:13
-# 19e94748f1bf481d8df62f4116a779e0
+# ba5f7bfcb52a4fcab6025a876ee3357f
 msgid "By moving the cursor to the edges or corners of your screen. (There are several options you can configure in this area, please refer to the My Settings section for more details.)"
 msgstr ""
 
 #: ../source/frame.rst:15
-# ea7ded9788ee475c9b1c267822452f56
+# 2d64642eabfe4b5e9e6a346e19e58061
 msgid "In the XO-4, with touch screen, is possible show the frame sliding a finger, from the top of the screen, a few centimeters. The same gesture will hide the frame too."
 msgstr ""
 
 #: ../source/frame.rst:18
-# 37120be42cdd4635a95e5502f1f62ca6
+# 2716f6fc08324442b50eec3cb7282c8f
 msgid "Frame Elements"
 msgstr ""
 
 #: ../source/frame.rst:22
-# 20a9c3e9f9934da5aff7e2470e97c087
+# ca05c79ac83e49cb81b1ecac2abcbc2c
 msgid "The Frame view:"
 msgstr ""
 
 #: ../source/frame.rst:24
-# c607289710ca4a6ea71bfff658310269
+# ff56bca6584b47bcb56fa8bc9716be16
 msgid "Zoom menu: The Zoom menu (icons matching the important keyboard shortcuts toward the keyboard top left) appears on the upper-left edge of the Frame. Use it to move between the four Sugar views: Neighborhood, Group, Home, and Activity."
 msgstr ""
 
 #: ../source/frame.rst:25
-# 25348af79e254f779aea5c7089d409e2
+# 9030b66808a249809209e29b43693435
 msgid "Running Activity list: The sequence of currently started Activities appears on the top edge of the Frame in the order that they were started. The active Activity is highlighted. (The Journal always appears here first.) Here you can see open Activities, save, close or switch between them, and view their source code. Sometimes an unlabeled circle appears here which represents an additional full-screen session started by an Activity whose icon already appears in the top edge of the Frame or an Activity that is having trouble completely starting. Invitations to collaborative Activity sessions also show up on this portion of the Frame. They appear as icons in the color of the person who sent them. Hover and you can see who it is and join in."
 msgstr ""
 
 #: ../source/frame.rst:26
-# 53ab8ec08b1c4c57b879d8e23dd2ba3e
+# ac181ce43646470c880d7a3f16437e9c
 msgid "Active buddy list: People you are currently collaborating with appear on the right edge of the Frame."
 msgstr ""
 
 #: ../source/frame.rst:27
-# 7f6b9cab2f9e4816b58ad2264eab7a6d
+# ee2ac855e14140b5a7d5b435d54597e4
 msgid "Clipboard: The left edge of the Frame serves as a clipboard. You can drag objects such as images and text to and from the clipboard, and from and to Activities. A hover menu also lets you remove them from the clipboard, open them in an Activity, or save (keep) them in your Journal."
 msgstr ""
 
 #: ../source/frame.rst:28
-# e298cfbd70e949af99ccdf4d4999e884
+# 67bec291b5114a5bab4926fbefa7bfcb
 msgid "System status (from left to right): Switch for the two modes of the touchpad (XO-1 only), external storage devices (e.g. thumb and hard drives), network status, text-to-speech, speaker (volume), and battery appear on the lower edge of the Frame."
 msgstr ""
 

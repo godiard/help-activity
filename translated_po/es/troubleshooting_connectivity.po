@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 8bf20d1b972f4b1382f9081303f19c1c
+# 6297d501507445afac33487e7dc98845
 #: ../source/troubleshooting_connectivity.rst:3
 msgid "Troubleshooting Connectivity"
 msgstr ""
 
-# 8e10077b45094af68778b9a6e193aec0
+# 66d759a55722497b8797168107b03ae9
 #: ../source/troubleshooting_connectivity.rst:5
 msgid ""
 "You can look at http://wiki.laptop.org/go/Support_FAQ for many technical "
@@ -31,14 +31,14 @@ msgid ""
 "wireless router configuration"
 msgstr ""
 
-# 62a59a72989d4428b93689580d39bc8c
+# fd35b2dc5e6249c0aa92ddc32fcb62e5
 #: ../source/troubleshooting_connectivity.rst:7
 msgid ""
 "Connect your router to any computer, and then use a web browser to view the "
 "router's configuration page and change the router's settings."
 msgstr ""
 
-# 741bbf17cd0e405785b220b2ba52d286
+# cd0457602ee74551825d58fde25d2fec
 #: ../source/troubleshooting_connectivity.rst:9
 msgid ""
 "Here are some common router manufacturer's administrative addresses, "
@@ -48,46 +48,46 @@ msgid ""
 "Internet for router default logins. Router"
 msgstr ""
 
-# 89eb9b21212b42c3a6fc80ac19b99675
+# 4387a388891f45ef8dacd6d3c6af423c
 #: ../source/troubleshooting_connectivity.rst:12
 msgid "Manufacturer"
 msgstr ""
 
-# 2f1f9fbdb7a24188b5fbc0dd12bcb4de
+# 5c5287b228584a92a11308bc79b1ad0a
 #: ../source/troubleshooting_connectivity.rst:12
 msgid "Address"
 msgstr ""
 
-# 81cae87475fe42438e3a63966d41b351
+# 85a9b4f92063481e8c58c67fc33c44fc
 #: ../source/troubleshooting_connectivity.rst:12
 msgid "Username"
 msgstr ""
 
-# f5e61bb3c9634019ab8bd97cb4edf2bf
+# a3b8ee568b414770bb42013cb06f417c
 #: ../source/troubleshooting_connectivity.rst:12
 msgid "Password"
 msgstr ""
 
-# 3dcda7003cc74381a91e4515cc066afb
+# 4877a58cef3c4b829e150ac47ce7a524
 #: ../source/troubleshooting_connectivity.rst:14
 msgid "3 Com"
 msgstr ""
 
-# e58e907e00d54df9a0f3dfe3623eb6c5
-# a8b061c2a586453ba49357464df2c668
+# c748df88ad9641d0bb8bd2238b901f6c
+# 1b0b8b485416453fa57ef592712d5947
 #: ../source/troubleshooting_connectivity.rst:14
 #: ../source/troubleshooting_connectivity.rst:18
 msgid "http://192.168.1.1"
 msgstr ""
 
-# 4e09a7489662492b95969721bf04b2ab
-# 5501c5edc2744d08a2458033d8e53418
-# d16ee322ddf24debadb88246ae6029fd
-# fbdbd83feeff40ca93664c9116e27e60
-# 7b944077523d4707be716d35bdebc258
-# 4f7e743d7338499a8396159cf4f4b5c6
-# d5d367b6f736407ba087104baf7a3fac
-# 993a34ef8ed645e183e2bb9a19dff9c1
+# d264f83bb8d04a2a91b817fcc48f4ef7
+# 01a9cd4ecc2f49a3a52b8bfaf9b0b954
+# 5f0c268fca6f4e63a5d2f86f9aa880d3
+# 7b77086f49024acd9d516593004c62e3
+# 4ff9aa79ed3a4d6c93a172eb038c1856
+# 5734e1557c404b9d91da88b5996a3f2e
+# bf8934e12e214cab962af3f0fe9a9dc0
+# 0b3973eb36ea4765ad89870747cd91bb
 #: ../source/troubleshooting_connectivity.rst:14
 #: ../source/troubleshooting_connectivity.rst:16
 #: ../source/troubleshooting_connectivity.rst:18
@@ -96,54 +96,54 @@ msgstr ""
 msgid "admin"
 msgstr ""
 
-# 4d4704332d9642af8984e9d534e845cb
+# 1c0579427dff40ed8ff5040ff4efb83e
 #: ../source/troubleshooting_connectivity.rst:16
 msgid "D-Link"
 msgstr ""
 
-# 40e13c29fbbd470aa3be52f89076da9b
-# 8c9c708da7ac4b64acc746887b028f0e
+# 02bb9c4303b842f68f83d7283efddfa3
+# 8ee834179707461ab0830961e253b4fc
 #: ../source/troubleshooting_connectivity.rst:16
 #: ../source/troubleshooting_connectivity.rst:22
 msgid "http://192.168.0.1"
 msgstr ""
 
-# 9db5554571a5450a9f05c5ccee30a08c
+# f253bec4239f4e4ba0e0465c3c70337b
 #: ../source/troubleshooting_connectivity.rst:18
 msgid "Linksys"
 msgstr ""
 
-# ee802ea88b8e4e8bbd971a7bebda0181
+# f3af972c08b34910b64371fb5e25fca0
 #: ../source/troubleshooting_connectivity.rst:20
 msgid "Broadband"
 msgstr ""
 
-# 66db5c2ba11b44929245ae920c330ff9
+# 297a828390da455c83f34eb0361810b0
 #: ../source/troubleshooting_connectivity.rst:20
 msgid "http://192.168.2.1"
 msgstr ""
 
-# 0a2669c1ec8c460c8369571f7380c30a
+# fb8fba024e71404bb80b15a1af996785
 #: ../source/troubleshooting_connectivity.rst:22
 msgid "Netgear"
 msgstr ""
 
-# da4240b9a99548b286453bf5c571ea86
+# 591ffae3799f4603a7a04fcd03a21f84
 #: ../source/troubleshooting_connectivity.rst:22
 msgid "password"
 msgstr ""
 
-# 44558dfb369d4cfc92504ce3f21abfde
+# ecc20c21a3e846e88f6a8742822214eb
 #: ../source/troubleshooting_connectivity.rst:24
 msgid "Gateway2Wire"
 msgstr ""
 
-# 07724ea581444ca29f9ee0592726250e
+# 3330f7ae6a1642f0ac7fb51d85492263
 #: ../source/troubleshooting_connectivity.rst:24
 msgid "http://192.168.1.254"
 msgstr ""
 
-# 71bc8e75aede40eb978e9f6fc829974b
+# 6888d52cc7f9453ead12fd47c9cf4f94
 #: ../source/troubleshooting_connectivity.rst:27
 msgid ""
 "If you are unable to connect a computer to your router to do this, call your "
@@ -152,7 +152,7 @@ msgid ""
 "make any needed changes."
 msgstr ""
 
-# bf5df997bf03482fb53464c34d6afd20
+# e11c8a4cb7c94a0388266959ed4527a7
 #: ../source/troubleshooting_connectivity.rst:29
 msgid ""
 "Your wireless router settings may contain Wired Equivalent Privacy (WEP) or "
@@ -161,7 +161,7 @@ msgid ""
 "the router's configuration pages."
 msgstr ""
 
-# b89344924da740789305b39a81300b11
+# 3610989f69314d418858eff5cfed6523
 #: ../source/troubleshooting_connectivity.rst:31
 msgid ""
 "Based on the type of security system being used (WPA or WEP), the Wireless "
@@ -172,12 +172,12 @@ msgid ""
 "long, corresponding to 5 letter/number ASCII keys."
 msgstr ""
 
-# 5e74a4425ed3468d89be426917db7422
+# 7eebe1412d3a420fb18adb6f863ee809
 #: ../source/troubleshooting_connectivity.rst:34
 msgid "Common connectivity problems and solutions"
 msgstr ""
 
-# b5520fdfe2064117a68b32594f5b7173
+# 647606aca09d4cc6836d94d4fa07e7c6
 #: ../source/troubleshooting_connectivity.rst:35
 msgid ""
 "Inability to connect with an Access Point from the Neighborhood View is the "
@@ -190,7 +190,7 @@ msgid ""
 "View?"
 msgstr ""
 
-# e377caf471054ca0ada56572fcb60677
+# dfddf25ce8244bd1b8b0db4d0369d4b8
 #: ../source/troubleshooting_connectivity.rst:37
 msgid ""
 "Go to the Neighborhood View and type the name of your SSID in the Seach box "
@@ -199,19 +199,19 @@ msgid ""
 "you should see your Wi-Fi hotspot's network name."
 msgstr ""
 
-# 107f0ec4da0544a2a54a38f670ce4697
+# 11aee8a6b9cf4729b40c364914d8857b
 #: ../source/troubleshooting_connectivity.rst:43
 msgid ""
 "If you cannot see the network name there may be a few reasons for this, so "
 "continue troubleshooting."
 msgstr ""
 
-# e9a2b6c414cb4773b3c9735bb46a2913
+# 6aa983ebe28e41659967b45e96e36ad4
 #: ../source/troubleshooting_connectivity.rst:46
 msgid "Is the name of the network a hidden SSID?"
 msgstr ""
 
-# 6160f73a6b85443e8e76f43405d73094
+# c5116b22630949bcb7a5c2ba5c6ace56
 #: ../source/troubleshooting_connectivity.rst:48
 msgid ""
 "If your SSID/Network Name is set to be Hidden in the router configuration, "
@@ -219,14 +219,14 @@ msgid ""
 "the Sugar User Interface."
 msgstr ""
 
-# b26c984b248946f19a1f5a888e613690
+# 0556329b16dc43efbf203c4e5d76b89a
 #: ../source/troubleshooting_connectivity.rst:50
 msgid ""
 "You may connect manually by typing commands in the Terminal Activity. To do "
 "so, launch the Terminal Activity and type these commands:"
 msgstr ""
 
-# 82073fe96f234ecf8d13c9fd8f686054
+# 0b228ff84a4c4c1bb23881c05af8cf97
 #: ../source/troubleshooting_connectivity.rst:58
 msgid ""
 "As an explanation, the su command creates a root process. The iwconfig "
@@ -235,12 +235,12 @@ msgid ""
 "Finally, dhclient asks for an IP address from the access point."
 msgstr ""
 
-# 5a2639bb38d348d8bad01fd1fd92a05e
+# 126c001117fa4d01a54f3e43e45f6c57
 #: ../source/troubleshooting_connectivity.rst:61
 msgid "Is your Wi-Fi router filtering connections based on a MAC Address?"
 msgstr ""
 
-# c353420680944fdeafa589a4ed426474
+# 73a63ac505ed4351b657bba3ac6eaff2
 #: ../source/troubleshooting_connectivity.rst:63
 msgid ""
 "You can prevent other computers from using your wireless router by "
@@ -250,38 +250,38 @@ msgid ""
 "could prevent your XO from using that access point."
 msgstr ""
 
-# 46860f8093cd4062ad6ad2ca114cf9df
+# b283f642def34855984192f045a17dd7
 #: ../source/troubleshooting_connectivity.rst:65
 msgid ""
 "To fix a filtering problem, you can find the MAC Address and add it to the "
 "list of allowed computers that can connect with the wireless router."
 msgstr ""
 
-# 02c471257f734fce8f982ec20bb299aa
+# 76c5601aa3fe4a83b6a5198f935bc21c
 #: ../source/troubleshooting_connectivity.rst:67
 msgid "To do so, launch the Terminal Activity and type these commands:"
 msgstr ""
 
-# 1b124dbcb27348cc9e4bce5a314333c1
+# 8816ceadd65c4af1b3eb0e0b4fc36742
 #: ../source/troubleshooting_connectivity.rst:73
 msgid ""
 "The MAC address is in the first line next to the HWAddr tag: and is in the "
 "form of \"00:17:C4:XX:XX:XX\""
 msgstr ""
 
-# 641fd259df9e45c7a11b83921ae89d2f
+# 74a7de1048f34eecac1f815cd1b1fe88
 #: ../source/troubleshooting_connectivity.rst:75
 msgid ""
 "In the WiFi router configuration for filtering, add the MAC Address you "
 "found with the ifconfig command."
 msgstr ""
 
-# 7eccdd9159b94a2bbc62b7252fb3c4d8
+# 96627c41af024f8caca2f96a6f3d459b
 #: ../source/troubleshooting_connectivity.rst:78
 msgid "Is your WiFi router configured to support 802.11b or 802.11g or both?"
 msgstr ""
 
-# d9427ba457a54accb1cd98b5df572449
+# 653e30aed0f04a2689578f0c2dd159ea
 #: ../source/troubleshooting_connectivity.rst:80
 msgid ""
 "Read the documentation for your wireless router to determine how to "
@@ -291,12 +291,12 @@ msgid ""
 "so try different configurations to see if another configuration works."
 msgstr ""
 
-# f74def99df704f898de94fd86d97fae4
+# 61e4de3b6b2441dc89a170e95745a3ec
 #: ../source/troubleshooting_connectivity.rst:85
 msgid "Are the access point settings not in channels 1, 6, or 11?"
 msgstr ""
 
-# 7105dafc52cb40e8a0d1a38f69fd9768
+# 9daad99b46394da5be07fc129396d8c6
 #: ../source/troubleshooting_connectivity.rst:87
 msgid ""
 "Is your access point working on another channel that is not in 1, 6, or 11? "
@@ -305,7 +305,7 @@ msgid ""
 "wireless protocol."
 msgstr ""
 
-# 815c5fa71f4d400c85adf330b2c7adae
+# ecdab184e85545859e6c0b4d0a6d92bf
 #: ../source/troubleshooting_connectivity.rst:89
 msgid ""
 "Try changing your access point to one of the three channels and check if you "
@@ -315,19 +315,19 @@ msgid ""
 "router. The Channel field is where you change the frequency setting."
 msgstr ""
 
-# a21a561539d94ad4a7844e3b177866ec
+# d594583d5d684658b774d9cd0f68ff0b
 #: ../source/troubleshooting_connectivity.rst:94
 msgid "Why can't the XO Browse when connected?"
 msgstr ""
 
-# 6acbe8d0edc246dabaeb0f78d545be48
+# 252922661c1042f1a12620acdec275b5
 #: ../source/troubleshooting_connectivity.rst:96
 msgid ""
 "Symptom: Your XO shows that your Internet connection is working, but you "
 "cannot browse or search any pages."
 msgstr ""
 
-# d562983ae5ee44609e73191750b55124
+# 4a378c6c42f54f0b84e48a9bff12becf
 #: ../source/troubleshooting_connectivity.rst:98
 msgid ""
 "Most likely, the XO has failed to receive DNS information from your internet "
@@ -337,19 +337,19 @@ msgid ""
 "not."
 msgstr ""
 
-# 100b707ca3dc4b49af3656d1def26341
+# e63ea8d4aa894e12918a7b3f40da86d3
 #: ../source/troubleshooting_connectivity.rst:100
 msgid ""
 "Verify what the XO has received (from the Internet access point) for DNS "
 "information by using the Browse Activity and looking at this URL:"
 msgstr ""
 
-# bd33db9cb96840d5a3575a9b399c53be
+# 3df69780deea4e479ba63647267135c9
 #: ../source/troubleshooting_connectivity.rst:102
 msgid "file://localhost/etc/resolv.conf"
 msgstr ""
 
-# a3b7dd600e324f7ba60d3ced813a55cc
+# 376d37e00a0f467f9355952e97865dd9
 #: ../source/troubleshooting_connectivity.rst:104
 msgid ""
 "This page should show the IP address of the DNS server assigned by the "
@@ -358,7 +358,7 @@ msgid ""
 "seeing."
 msgstr ""
 
-# d55684dec4cb4a4190aaec06fb591d8d
+# 3c0f153c3223440083d8bdbbe8895eab
 #: ../source/troubleshooting_connectivity.rst:106
 msgid ""
 "If there is no IP address, or the address is wrong, you'll need to determine "
@@ -366,12 +366,12 @@ msgid ""
 "to be misconfiguration of the access point."
 msgstr ""
 
-# 0a3daaed8bac478ca04fd3d8e3952622
+# 257a8c54b50a4b2b9c2569e1df59feae
 #: ../source/troubleshooting_connectivity.rst:109
 msgid "Connecting to the Internet without wireless access"
 msgstr ""
 
-# bb51532ff6834fdf8ec0037097e4a9c2
+# 22b4c1660aa9476d97344d316c600838
 #: ../source/troubleshooting_connectivity.rst:111
 msgid ""
 "If you cannot successfully or consistently connect to the Internet using Wi-"
@@ -381,7 +381,7 @@ msgid ""
 "adapter, which cost about USD $10-$25."
 msgstr ""
 
-# b025be98fda941c5862c2c4846780382
+# 55cbe5d42ebf444fac7643310b875798
 #: ../source/troubleshooting_connectivity.rst:113
 msgid ""
 "If you want to connect to your XO wirelessly with a dial-up connection, you "
@@ -393,7 +393,7 @@ msgid ""
 "Wifi_Connectivity#Apple_Airport. Connecting while traveling"
 msgstr ""
 
-# 2885434e27c14ed3aad90d8882494687
+# bf937c64f01d4484a572dda21037563a
 #: ../source/troubleshooting_connectivity.rst:115
 msgid ""
 "Your XO makes a wonderful traveling companion. You can connect to a wide "

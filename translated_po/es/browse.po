@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 2e66440c146449998cdfa6d93357c52b
+# a21e36a9816d4c008be0c1bb0a4bba94
 #: ../source/browse.rst:3
 msgid "Browse"
 msgstr ""
 
-# 357899580300456ca9eb93e0f8699e31
+# b8fec330af9c4e62a744769bf37de838
 #: ../source/browse.rst:6
 msgid "About"
 msgstr ""
 
-# a2354c4877e540f7b5767dab4678419e
+# 8a847c47d210431fbcf578f99f6bc9a9
 #: ../source/browse.rst:10
 msgid ""
 "The Browse activity is your means to explore a wider source of information "
@@ -38,86 +38,86 @@ msgid ""
 "Connecting to the Internet\"."
 msgstr ""
 
-# 72891a3a7c804d438edb14b2d0fd3e3d
+# 47f7a54adbd44157871431cdd6b9eb54
 #: ../source/browse.rst:12
 msgid ""
 "The first thing that you will see when you first click on the Browse icon "
 "from the Home View is what's called the Home page."
 msgstr ""
 
-# 3bf21ad366d44db5bc414cd99b711091
+# ed323f827ede4a8e8e4f400c5bc074e0
 #: ../source/browse.rst:17
 msgid "Using Browse"
 msgstr ""
 
-# a9c0951b6bdf4fe3bcb919f7b43b405f
+# 76d2500150704563ae65d438ce777cc7
 #: ../source/browse.rst:19
 msgid "**Toolbar**"
 msgstr ""
 
-# 562cc975c20f46e4b4f8527b08cb8300
+# 59553d65abd2444591edfa84100a249e
 #: ../source/browse.rst:23
 msgid "Activity Tool"
 msgstr ""
 
-# 3d732a4cca0a4e7aae27f1a13bade848
+# 86bb17704f1c40cf8a89a9cd27d969ca
 #: ../source/browse.rst:24
 msgid "Text/Edit Tool"
 msgstr ""
 
-# 38dc050530c9428d859c5c9b3daf6055
+# be603b23b4504b839e2031e5ac7d584b
 #: ../source/browse.rst:25
 msgid "View Tool"
 msgstr ""
 
-# c81a9bfb7a334352838a6dc64926d81b
+# 38b6948f23824bc592c3851cc0abbcbb
 #: ../source/browse.rst:26
 msgid "Home"
 msgstr ""
 
-# b9f3011fbe8046f59a0f9f4f25c20de7
+# 5ba7ff25f8f3493aa7490037b0782aa1
 #: ../source/browse.rst:27
 msgid "Address Bar (URL)"
 msgstr ""
 
-# 0cca6ce4c8ed493e81740a997abecd23
+# aeba7957b03d4d5a8a6f1cf5b49261d8
 #: ../source/browse.rst:28
 msgid "Refresh/Reload"
 msgstr ""
 
-# 8b8b3c28fd2340cc96a47b791dbafff9
+# 030506c10e464b8ab608d273966cf2b0
 #: ../source/browse.rst:29
 msgid "Navigation Arrows (Back & Forward)"
 msgstr ""
 
-# 2cc432eba9394ed790a5218fa019a0d3
+# 37de23fd79ca44a8bcecbe02f9940e2a
 #: ../source/browse.rst:30
 msgid "Bookmark"
 msgstr ""
 
-# b112d9c868214847bc635fc01b3adf3d
+# 9179da52d0574de78d51771ec5ffddc0
 #: ../source/browse.rst:31
 msgid "Stop"
 msgstr ""
 
-# cc5e727a416e4819a6ac1501d851a3e2
+# 1303d7454058471b8b3b6be3a7a5518d
 #: ../source/browse.rst:32
 msgid "Window tab"
 msgstr ""
 
-# 228419b9420147f3b3789cd461455cc8
+# 3b2d577be8ca4abcbe8731102e1b05b5
 #: ../source/browse.rst:34
 msgid ""
 "(Note: To see the name of the tool/button, you can put your mouse arrow on "
 "top of its picture)"
 msgstr ""
 
-# 9406a5bba5d34780aff6accadc6e4e1c
+# f3793a9e4c804c909696bc19ec0c0362
 #: ../source/browse.rst:36
 msgid "**Activity**"
 msgstr ""
 
-# 4b7c203a2c6041738d285a7dff82a005
+# abca8b989e144945a751d43bac898989
 #: ../source/browse.rst:40
 msgid ""
 "**Browse Journal Entry Name** - This will serve as the name of the Journal "
@@ -125,40 +125,40 @@ msgid ""
 "multiple window tabs opened that's related to one particular topic."
 msgstr ""
 
-# 9e571251ee4f4493ba8c2ee65d64c122
+# be26c1050fa449b5a6beded39a0c4fad
 #: ../source/browse.rst:42
 msgid ""
 "**Browse Description Bar** - This will serve as the **Browse** activity "
 "description in the Journal."
 msgstr ""
 
-# 47ca6658f9dc415bb96d1a4a3bdb9244
+# 4cd8d43d01684df78e0033325c7220a4
 #: ../source/browse.rst:44
 msgid ""
 "**Privacy Tool** - Use this to change the privacy setting of the current "
 "Browse activity. The default is set to Private."
 msgstr ""
 
-# f67d545a457a46609e8b72ef249eb30f
+# 4098a0ce59b84327adc864936cd4d93e
 #: ../source/browse.rst:47
 msgid "**Text Finder and Edit Tool**"
 msgstr ""
 
-# 54b5bfbe3d2646168af3fbe6e55fc5c5
+# ce14263a8dc643b4b4cde6ec7f78fb86
 #: ../source/browse.rst:51
 msgid ""
 "**Undo** - The Browse activity remembers the last change that you've made on "
 "the page. Use this button to step back to the last change that you made."
 msgstr ""
 
-# bd7a3dec06014d03b2388f34bee365aa
+# 7d9b0202b3274f85acae7f2a6e4c34e5
 #: ../source/browse.rst:53
 msgid ""
 "**Redo** - Use this button to go back to the current changes that you made "
 "after doing an \"Undo\"."
 msgstr ""
 
-# 3ef71710face481391575ce6beea2bf9
+# f00e6f7951d7468db3b518100fdcd9e4
 #: ../source/browse.rst:55
 msgid ""
 "**Copy** - This is used to copy a text or passage from the current page you "
@@ -171,7 +171,7 @@ msgid ""
 "disappear once the XO is restarted or shutdown."
 msgstr ""
 
-# 2de69b7998e64003bbb7d22951057acc
+# e04e65d084db4067ad97c14e71bf30a9
 #: ../source/browse.rst:57
 msgid ""
 "**Paste** - This tool is for pasting texts from other activities into the "
@@ -180,7 +180,7 @@ msgid ""
 "restarted or shutdown."
 msgstr ""
 
-# c6072b1dc71e495b8ed075bce4505cf1
+# 951f4a5358424d179e111efc871bfc4d
 #: ../source/browse.rst:59
 msgid ""
 "**Text Search Bar** -This tool is great to use when you need to quickly find "
@@ -189,7 +189,7 @@ msgid ""
 "the little \"x\" symbol on the right of the bar to erase the text."
 msgstr ""
 
-# d5210f48687b4b9eb9ecfef9fa36345e
+# ae720403b2be45fe82eab6e42c6a2dda
 #: ../source/browse.rst:61
 msgid ""
 "**Text Search Navigation Arrows** - While you can press the Enter key to "
@@ -197,33 +197,33 @@ msgid ""
 "left arrow to go back up the page and the right arrow to go down the page."
 msgstr ""
 
-# 615f36661e59404bb3e4f41a656ff6d3
+# baf01a35830a48ccac6413f4fbd93090
 #: ../source/browse.rst:63
 msgid "**View Tool**"
 msgstr ""
 
-# e839f46132db4906a8ab55b21cfab1b2
+# 5271c2cd7647499d99a07a94aaf1d0e3
 #: ../source/browse.rst:67
 msgid ""
 "**Zoom Out** - When you want to see more of the page, use this tool to make "
 "it smaller."
 msgstr ""
 
-# 3e21e866d98b48d3ae0c799eaaf75e58
+# f3b8fcda1f324831b493f29ebbeb0b29
 #: ../source/browse.rst:69
 msgid ""
 "**Zoom In** - When you want to see things better, use this tool to make the "
 "page bigger."
 msgstr ""
 
-# dc9e24c984a64041afcf1df5ca210482
+# 9220ccf406204988ae4725820e6cb141
 #: ../source/browse.rst:71
 msgid ""
 "**Full Screen** - You can press this to see the entire page without the "
 "toolbar."
 msgstr ""
 
-# de6fceb0833b4bf7b876f582af307a4a
+# 545313dc013b4618a65ef1266ccd92fa
 #: ../source/browse.rst:73
 msgid ""
 "**Tray Toggle button** - This tool only works when you have things on the "
@@ -234,24 +234,24 @@ msgid ""
 "bookmarks."
 msgstr ""
 
-# 23d52dfa15e04fd8abb237291c81d5d8
+# 136059b2536045069973593d07e917b5
 #: ../source/browse.rst:75
 msgid "**Home Icon**"
 msgstr ""
 
-# 70511096ae8c43a398b17ce3631ed72b
+# 424b0c2112d74a3caa5f41d376445622
 #: ../source/browse.rst:77
 msgid ""
 "Clicking this takes you back to the Home Page. Useful when you're lost and "
 "need a starting point."
 msgstr ""
 
-# 83c7fd2a5862451b83c57c41960d57c2
+# 9c410e0470f04b47a0f90a0e3d97aa91
 #: ../source/browse.rst:79
 msgid "**Address Bar**"
 msgstr ""
 
-# 2b4d33e208ed4ec58be5eed2bc72d414
+# 8d8d9b3d3ef04547aca2a4a2a818d0ac
 #: ../source/browse.rst:81
 msgid ""
 "Each page on the internet has its own address. The address bar shows you the "
@@ -260,12 +260,12 @@ msgid ""
 "to that page."
 msgstr ""
 
-# d409bdead36a45aa92fcf90394e7a1c3
+# b3788f4343cb4de9981540105ffb48ee
 #: ../source/browse.rst:83
 msgid "**Bookmark**"
 msgstr ""
 
-# d2f45d037ac54a2b8e96ca80d02541c2
+# a56657d9297c4dd6956902f5af28f395
 #: ../source/browse.rst:85
 msgid ""
 "Sometimes it is useful to remember the pages that you visited. Clicking this "
@@ -275,17 +275,17 @@ msgid ""
 "open a new Browse activity."
 msgstr ""
 
-# 9dabf92b8840411982c9ae794c351219
+# d2a555aeb37944e9a425ae690b6134d3
 #: ../source/browse.rst:87
 msgid "**Stop Activity Tool** Closes the current Browse activity."
 msgstr ""
 
-# 2408671fbe884bbe89faea2d4a06f935
+# 423d8684e16d49fb8a03e0acf4131fc9
 #: ../source/browse.rst:90
 msgid "**OLPC Library**"
 msgstr ""
 
-# 5bdfc50212364fafbbc713ac7291c209
+# 2f1aac007ed5441da6c9e17c04fdb7d9
 #: ../source/browse.rst:92
 msgid ""
 "The Browse activity has built in books, information and pages that you can "
@@ -293,12 +293,12 @@ msgid ""
 "to see what you can find. Have fun exploring!"
 msgstr ""
 
-# d7abd3e6aad6411d8171d9839ba654ab
+# 60e26fec8d9546aab44dd4bd96482d20
 #: ../source/browse.rst:94
 msgid "Copying Images From The Web"
 msgstr ""
 
-# a8a17858e77a45718bdeb2b5d71d23f2
+# c84f48f8402c4b9690921b05cc326700
 #: ../source/browse.rst:100
 msgid ""
 "Every time you create something whether it's a poem, a book or a nice "
@@ -311,7 +311,7 @@ msgid ""
 "reading: http://www.copyrightkids.org/"
 msgstr ""
 
-# 8f8a97dac30f4b648b27f08f0bca4c2b
+# 6374b2da69f04bea80e914246e501b17
 #: ../source/browse.rst:102
 msgid ""
 "To copy an image, point your mouse arrow on the picture and right-click on "
@@ -321,12 +321,12 @@ msgid ""
 "picture. There are two ways to copy an image:"
 msgstr ""
 
-# 3d2b09b675314a6b85699f222b8dcdfd
+# d000b30b46db4e92bcd787fd32451da3
 #: ../source/browse.rst:104
 msgid "**Keep Image** - this will put a copy of the image to the Journal."
 msgstr ""
 
-# edf8b8ecc02e441886b25f4975fcb47c
+# 9e6aa038e5404cf096431080f8f6b95b
 #: ../source/browse.rst:106
 msgid ""
 "**Copy Image** - this will place a copy of the image to the clipboard, which "
@@ -335,12 +335,12 @@ msgid ""
 "to save the image, it is best to do a \"Keep Image\" instead."
 msgstr ""
 
-# b63672be13a64e59a0b2cd7fc1f78d1b
+# 14411dfc8c2b4fecb003ca11aebdd63b
 #: ../source/browse.rst:109
 msgid "Learning with Browse"
 msgstr ""
 
-# e105062dda47439084edbcd8eca9b4af
+# 853cc13cd0a548588a3cbaa002f2f9f9
 #: ../source/browse.rst:111
 msgid ""
 "Browse gives access to the internet which is a powerful information and "
@@ -356,7 +356,7 @@ msgid ""
 "address bar): http://maps.google.com/"
 msgstr ""
 
-# 94fb9374d0694478b1bc66581178cdb2
+# a3955e4b005f44e2a0f22d204edf52c3
 #: ../source/browse.rst:115
 msgid ""
 "If you live in an area that is adequately mapped by Google Maps, you can ask "
@@ -368,12 +368,12 @@ msgid ""
 "town)?"
 msgstr ""
 
-# 8cd482b31a964f338420d52b126fd496
+# 0d2a6973671d4e6797042d2a9d53f5eb
 #: ../source/browse.rst:118
 msgid "Extending Browse"
 msgstr ""
 
-# 9dfcb6e3bda34f5caa5e796e1b0ba285
+# 409e1eb5540c480796642a4d16afa56e
 #: ../source/browse.rst:120
 msgid ""
 "There's a built in Google search bar on the home page of Browse that you can "
@@ -381,7 +381,7 @@ msgid ""
 "search texts to come up with better search results."
 msgstr ""
 
-# e39879b2d27b456d8a8ffdd73c63c5a0
+# 597df16e4da041cf8300b798ea461999
 #: ../source/browse.rst:122
 msgid ""
 "To allow students to be active participants in the global community, "
@@ -390,7 +390,7 @@ msgid ""
 "internet sites and pages."
 msgstr ""
 
-# b554b93d45434eea8e87ba166f6e0736
+# 2ef63005a36943c6b2ee26ee757ca55e
 #: ../source/browse.rst:124
 msgid ""
 "But like with any type of exploration, you have to start with caution. Not "
@@ -399,28 +399,28 @@ msgid ""
 "wiredkids.org/kids/index.html for more information."
 msgstr ""
 
-# 526c674b4f94477a8812d891118301f2
+# 25a98fea3ee94da590f50198feb9b22e
 #: ../source/browse.rst:127
 msgid "Where to report problems"
 msgstr ""
 
-# 26cdcfd1ba62416da3b7f6178d070480
+# 50bd0dac7dba4bfc98bac2bca6411add
 #: ../source/browse.rst:129
 msgid "In http://bugs.sugarlabs.org, component Browse."
 msgstr ""
 
-# 598d43fa87c6453c905e6605db4b8598
+# a2c0ad117732483498c50d6dcc5edfc5
 #: ../source/browse.rst:132
 msgid "Credits"
 msgstr ""
 
-# 499c3657e7be48eaab0f4cc6c1435c51
+# e218656a5da14189825a89eb61eaaf0e
 #: ../source/browse.rst:134
 msgid ""
 "Browse was developed and maintained by: Lucian, Sascha Silbe, erikos, manuq"
 msgstr ""
 
-# 0a16e3dd31a14766959065653dfe16ca
+# 878da1154085449daedc541b09a91cc5
 #: ../source/browse.rst:136
 msgid ""
 "Browse can be downloaded from the `Sugar Labs Activities repository <http://"

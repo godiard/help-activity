@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,72 +17,72 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 90d5c568b437499d8f39857b18dc61ae
+# 750f0c2aa2044ee49d9b20a2c4348c94
 #: ../source/launching_activities.rst:3
 msgid "Launching Activities"
 msgstr ""
 
-# 92d5f3caadc0400db5701b3e249799c2
+# 01d5225cb87a48e79ce73e8ed41f1c9f
 #: ../source/launching_activities.rst:5
 msgid "You can launch an Activity in four different ways:"
 msgstr ""
 
-# 09d63fe05e9c4af9bb39c4bd38b15352
+# 0b3a157c32634698a469f4b0738edf3f
 #: ../source/launching_activities.rst:7
 msgid "Click the Activity icon in the Home View."
 msgstr ""
 
-# 95f37b0d30234160b5b845438ec4d463
+# c87d01dbe3284ae3a9e8fc18c399c71b
 #: ../source/launching_activities.rst:8
 msgid "Resume your previous work with an Activity from the Journal."
 msgstr ""
 
-# 7a5c41d432de4e4686e70a58ff6b0e17
+# 21fafece53854129b152e2c942d5557d
 #: ../source/launching_activities.rst:9
 msgid "Join a shared Activity from the Neighborhood View."
 msgstr ""
 
-# e7a6decdeb34426c80de669b68e68f48
+# 849a9a98090a4e50bcd44dfaacbd682f
 #: ../source/launching_activities.rst:10
 msgid "Accept an invitation by clicking the invitation icon on the Frame."
 msgstr ""
 
-# e851cecf058e49228031a8197ceba089
+# d0d68816e1a94410b831a3320becf8f5
 #: ../source/launching_activities.rst:12
 msgid ""
 "When you launch an Activity, its icon flashes in the middle of the screen "
 "while it loads."
 msgstr ""
 
-# e1e3cd8c84e94953b733b998e7a5eb96
+# 537284c8dfb14cf4aa3f369c71e2ea4a
 #: ../source/launching_activities.rst:16
 msgid ""
 "Once the Activity is running, you will be placed into its Activity View."
 msgstr ""
 
-# 5dcb46fbc0284493ac1fee8911f48bb0
+# 69b3702face34240a4d2cf7635d0974a
 #: ../source/launching_activities.rst:19
 msgid "Launching Activities from the Home view"
 msgstr ""
 
-# 99fd24f59c6b4b8fbed37bf803dd1b89
+# 429a9dfa1c1140e99aad2dc3a819df35
 #: ../source/launching_activities.rst:21
 msgid "To get to the Home View,"
 msgstr ""
 
-# 449c20cabb124b45a5f2652c8f28d48f
+# 289c1a6a2a9a48749f0d3e548c8671d3
 #: ../source/launching_activities.rst:23
 msgid "click the Home icon on the Frame |frame|"
 msgstr ""
 
-# 3f640f82eed94bc1b669a26ade9f3840
+# 6570c689627c4464b2748aafde4d1eb6
 #: ../source/launching_activities.rst:27
 msgid ""
 "or press the F3 key. On the XO keyboard this key has a single dot |"
 "home_key|, and is one of the view keys |nav_buttons|."
 msgstr ""
 
-# 3e0d38b6e5174506b8a8efbde7a3f840
+# d6c6f674a0134936afc313970bb9c163
 #: ../source/launching_activities.rst:33
 msgid ""
 "Then click on the icon of the activity you want to start. If you aren't sure "
@@ -90,7 +90,7 @@ msgid ""
 "seconds and a label will appear with the activity name."
 msgstr ""
 
-# 1fa3e4c49f3d494486071578fb536e7a
+# 0d26670b11e54abe9da4a80603e02413
 #: ../source/launching_activities.rst:35
 msgid ""
 "If you've run the Activity before, clicking the icon will resume with your "
@@ -99,7 +99,7 @@ msgid ""
 "you made with the activity, and an option to \"Start new\"."
 msgstr ""
 
-# 7ca4242ab9d34b488e8ec2ef0623939d
+# d7cbe8ceca73452596c1589aa7e6a7be
 #: ../source/launching_activities.rst:37
 msgid ""
 "If you don't see the Activity's icon, click the menu icons (2) (3) to change "
@@ -107,7 +107,7 @@ msgid ""
 "in the search box (1)."
 msgstr ""
 
-# 3bd9d51f8a904ecba7803c97f5a64c16
+# a5b97197141c439fa0ad2fab5c824b8e
 #: ../source/launching_activities.rst:41
 msgid ""
 "In list view mode (3) you can click the star (4) next to an Activity's name "
@@ -115,22 +115,22 @@ msgid ""
 "favorites view"
 msgstr ""
 
-# 33a545f5081549d69544380b95bb5f3c
+# dde9815843404e34830e958a3c14aee9
 #: ../source/launching_activities.rst:45
 msgid "If the Activity fails to start, you will be returned to Home View."
 msgstr ""
 
-# f0e49b43133549849482ae59f8f7b571
+# fb106d02ae254de4a4601b9b8ba39988
 #: ../source/launching_activities.rst:48
 msgid "Resuming from the Journal"
 msgstr ""
 
-# 4227b354426042aebada880a5500c021
+# d6b0f9fd0447487c83ff24b83eb178c5
 #: ../source/launching_activities.rst:50
 msgid "Click the activity's icon or click Resume on its hover menu."
 msgstr ""
 
-# 98937b4bdd1c42378ec7d5457bcb59da
+# ca58da1358d44c4f9bab1f1461345d57
 #: ../source/launching_activities.rst:54
 msgid ""
 "You can also launch some journal entries in a different activity using the "
@@ -138,39 +138,39 @@ msgid ""
 "activity in Etoys or Browse."
 msgstr ""
 
-# 0208d860c8a04663b8d4234d61315b5d
+# 83352ea2ebdc46618930ebbb8526a6d2
 #: ../source/launching_activities.rst:56
 msgid ""
 "You can click the first drop-down menu in the Journal to only show certain "
 "kinds of entries or those made with a particular activity."
 msgstr ""
 
-# ac51fe537916404d9511e83d3712585c
+# 168cd65942934d5db61e9ccd7f7d06f3
 #: ../source/launching_activities.rst:59
 msgid "Joining a shared Activity"
 msgstr ""
 
-# 7da65535553d4af5b526c974db6593a9
+# 29d6984d55b245f0a1f6d38460fd5a6f
 #: ../source/launching_activities.rst:63
 msgid "Click the icon or click an option on the hover menu."
 msgstr ""
 
-# 315c5cdea5804682ad5789e52d9cc18a
+# 46e0f3cca8c9424ba4dfd2e9235b1593
 #: ../source/launching_activities.rst:66
 msgid "Joining an Activity by accepting an invitation"
 msgstr ""
 
-# 78bafd17907d48539bd52011648b52a6
+# fd7d5094625545e4b84cfa376ab94587
 #: ../source/launching_activities.rst:70
 msgid "Click Join in the hover menu on the Frame."
 msgstr ""
 
-# 6e01214da0494eb38f18cabb9cfa3044
+# 16477d69d0664f9b8a9143d8c745e8c3
 #: ../source/launching_activities.rst:74
 msgid "For users"
 msgstr ""
 
-# 3819d76655814d1f86915dad7d87e004
+# bd15d9785b0549fb94e426e986148767
 #: ../source/launching_activities.rst:76
 msgid ""
 "Try not to open more than three Activities at one time or your speed may be "

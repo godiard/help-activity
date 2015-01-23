@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 256db308b1ac4fc483b85c14c50c2d62
+# 41fd10d3fc484c47bb66ae872a083055
 #: ../source/about_olpc.rst:3
 msgid "About OLPC"
 msgstr ""
 
-# c003f92f2d694030951d00801d53c232
+# 766e97c95f2e4951ae6be8843a9a7ed4
 #: ../source/about_olpc.rst:6
 msgid "About One Laptop per Child"
 msgstr ""
 
-# fa10585168ec4c7c900a8e560e4fc96a
+# 633863371f7146778dcbaf7ce17f915e
 #: ../source/about_olpc.rst:8
 msgid ""
 "One Laptop per Child (OLPC) is a project started by Nicholas Negroponte at "
@@ -37,7 +37,7 @@ msgid ""
 "educational mission of OLPC."
 msgstr ""
 
-# 7d586e8b69db4d1d8fe0c5b383335da3
+# 228262152d394615b2c37bada8d65c08
 #: ../source/about_olpc.rst:10
 msgid ""
 "The mission for OLPC is simple yet compelling: To create educational "
@@ -46,7 +46,7 @@ msgid ""
 "designed for collaborative, joyful, and self-empowered learning."
 msgstr ""
 
-# 7fa58f118ff342479b9ce26cc9bd8437
+# cc022c0dca5b4a9caff540531676211e
 #: ../source/about_olpc.rst:12
 msgid ""
 "You can learn more about OLPC at http://laptop.org and http://wiki.laptop."

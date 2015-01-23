@@ -1,0 +1,248 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/physics.rst:3
+# 393a336b8e654199af0ed393e5d3cad1
+msgid "Physics"
+msgstr ""
+
+#: ../source/physics.rst:6
+# ba80c4920cc845efa1fd43f4515e4ada
+msgid "About"
+msgstr ""
+
+#: ../source/physics.rst:10
+# c5b7f1e44d5b4c0eb807173b529a2839
+msgid "Physics is a physical world simulator and playground. You can add squares, circles, triangles, or draw your own shapes, and see them come to life with forces (think gravity, Newton!), friction (scrrrrape), and inertia (ahh, slow down!)."
+msgstr ""
+
+#: ../source/physics.rst:13
+# 66bbbadacb6c4eafa67ca342d09ea783
+msgid "Getting to know the tools"
+msgstr ""
+
+#: ../source/physics.rst:17
+# 0597f443efae4947874593f47a4de74b
+msgid "This image shows all the tools used for creating objects. Reference the number shown below the tool to learn what it does."
+msgstr ""
+
+#: ../source/physics.rst:20
+# ea515cd2929344778b2d32e01c11780d
+msgid "Draw anything and it will appear in the canvas. You can use it to create custom shapes, or a surface. Like a slope."
+msgstr ""
+
+#: ../source/physics.rst:23
+# 4f9c1fe5d94d4270954e6d3d4cbe0cce
+msgid "You can make circles with it, just drag. Try rolling a circle down a slope."
+msgstr ""
+
+#: ../source/physics.rst:26
+# 8d3b7de69e6145b38feed902dd7c0c22
+msgid "You can make equilateral triangles (all sides equal) with this tool. Try making a seesaw by combining a triangle and a rectangle (described below)."
+msgstr ""
+
+#: ../source/physics.rst:29
+# 0c6ec8c4f7d0456397ff3d693a7c7e7b
+msgid "For making rectangles."
+msgstr ""
+
+#: ../source/physics.rst:32
+# de7e8663f5e74524ba8f102e91fab8ea
+msgid "You can make multi-sided shapes with this tool. Drag the mouse, then click on place where the vertices of the polygon should be. after you are finished, click in the circle surrounding the first dot you drew and the shape will be drawn."
+msgstr ""
+
+#: ../source/physics.rst:35
+# 1479dd3fa21b4da69b83055766e8c138
+msgid "You can move objects around with this tool. You can use it even when the game is running: Try grabbing an object and moving it around. It can be really fun."
+msgstr ""
+
+#: ../source/physics.rst:37
+# bc000578f15f4100b75d444c85ce9471
+msgid "When the game is paused, you can use dragging to move objects with more precision. You can also drag pins and motors. When you select the grab tool, the pins and motors will become bigger so that you can easily hold and drag."
+msgstr ""
+
+#: ../source/physics.rst:39
+# 1066072ecd014d698c50e945f09e9ef3
+msgid "**ProTip**: You can move motors and pins from one object to another. Also, moving them out of the body and dropping them in empty space deletes them."
+msgstr ""
+
+#: ../source/physics.rst:42
+# 500ba74ac478411cbb43bc013f572fb1
+msgid "With this tool, you can place a motor on an object. The object will then start rotating around that point. You can also change the speed with which it rotates, as will be explained in the Palette section."
+msgstr ""
+
+#: ../source/physics.rst:45
+# df99ee32f171450e8b97148e594e381c
+msgid "This tool allows you to make objects stick to the background and not move around, very much like pinning a paper to a clipboard. Just click where you want to place a pin."
+msgstr ""
+
+#: ../source/physics.rst:48
+# b4b3ae24e6d740f4bc613f29eb0f255a
+msgid "With this tool you can attach objects to other objects. Click on the point at which you want to attach the joint in the first object and drag the mouse over to the point at which you want the joint to end on the second object. Done!"
+msgstr ""
+
+#: ../source/physics.rst:51
+# d871ab61b2f448c5b7772c67bb421f0c
+msgid "Joints are like iron bars, they cannot bend. If you need rope, this tool does it for you. Just click and drag to make the rope. Be careful though, removing ropes once they have been made can be difficult."
+msgstr ""
+
+#: ../source/physics.rst:54
+# f0eb1a81c8e94a3995d71109c0fd733e
+msgid "Want to see how and where an object is moving? Put a tracer on it! Select this tool and click on the point on the object you want to trace. You can delete a tracer by left clicking with the destroy tool (below)"
+msgstr ""
+
+#: ../source/physics.rst:57
+# 27405278d17a4d6ca04610259615e2b7
+msgid "Select this tool and drag to leave a trail of destruction behind! You not only use this tool to destroy objects, but also pins, motors and tracers. A single left click deletes one pin/motor/tracer on the object. Since ropes are just small balls joined with small joints, you can try deleting them too, but it takes time and is mildly annoying. Therefore try to make rope only when you are sure you want it."
+msgstr ""
+
+#: ../source/physics.rst:60
+# 8ffa221f9d54414f885083e934ba4ba8
+msgid "**ProTip**: If you've drawn with a tool before and want multiple copies of the same shape, just do a left-click and the same object with be drawn again. Try it with the Rectangle tool! Draw a square and then left click again, you'll get another copy of the square."
+msgstr ""
+
+#: ../source/physics.rst:63
+# 58b09d132f8e449991d55f7895a90093
+msgid "Other cool features"
+msgstr ""
+
+#: ../source/physics.rst:67
+# cd1927bc3c1943d6885615a2bf7c9aa8
+msgid "Using this button, you can erase everything from the canvas. Careful, you cannot undo this!"
+msgstr ""
+
+#: ../source/physics.rst:71
+# 0702c023c2ba4a8fa93a995eb8035680
+msgid "This button allows you to delete all trace marks on the canvas."
+msgstr ""
+
+#: ../source/physics.rst:76
+# 37b61c6b2deb4e1ab018f014dbd53597
+msgid "These two buttons allow you to pause or start the game. The first button makes the game start again after a pause and the second stops it. These are ultra useful while building complicated machines, which you cannot build while the machine is running."
+msgstr ""
+
+#: ../source/physics.rst:79
+# ad2704d29785479cbf5aaec4e4c6002d
+msgid "All of the objects have palette menus to adjust object properties:"
+msgstr ""
+
+#: ../source/physics.rst:84
+# a9410411346340a0b2ac7daf84672823
+msgid "feather, wood, and anvil represent light to dense"
+msgstr ""
+
+#: ../source/physics.rst:86
+# fa183db459d342cca36df283028b5c38
+msgid "basketball, baseball, and bowling ball represent very bouncy to inelastic"
+msgstr ""
+
+#: ../source/physics.rst:88
+# 19ccdc93461143439b91ff1b78a7116d
+msgid "ice skate, shoe, and sneaker represent low to high coefficient of friction"
+msgstr ""
+
+#: ../source/physics.rst:92
+# cca5ae94f7694c7ba5268768247d3053
+msgid "The motor has a palette to set speed (fast and slow) and direction (counter-clockwise and clockwise)"
+msgstr ""
+
+#: ../source/physics.rst:96
+# b9e6ec05f8ce44e991f38f67ab8fca75
+msgid "The chain has a palette to set the coarseness and weight of the chain elements"
+msgstr ""
+
+#: ../source/physics.rst:99
+# e75f20c212ae436a8348b8dd8c7b44b8
+msgid "Ideas to try"
+msgstr ""
+
+#: ../source/physics.rst:101
+# d43fb6a028724a399fafebc6eda273aa
+msgid "Here are some ideas you could try:"
+msgstr ""
+
+#: ../source/physics.rst:103
+# e091f7f3e0c84cb99b6992c752080ce3
+msgid "Build a catapult to simulate Angry Birds"
+msgstr ""
+
+#: ../source/physics.rst:104
+# d4bae8d86d4d4c5b870b85e6ed90c47d
+msgid "Build a machine that sorts different sized balls in to two buckets, large and small, with no ball jams."
+msgstr ""
+
+#: ../source/physics.rst:105
+# cca5440c662f446db7fcfe4f155e3157
+msgid "A cyclic mechanism for lifting balls from the bottom of the screen to the top, again and again."
+msgstr ""
+
+#: ../source/physics.rst:106
+# ebe79c8ffde047a68430bbfc61f5c1fa
+msgid "Try dropping 2 different mass objects at the same time."
+msgstr ""
+
+#: ../source/physics.rst:107
+# 19d57fd494d841acb6408259b6997dbf
+msgid "Experiment with pendulums of different lengths and masses."
+msgstr ""
+
+#: ../source/physics.rst:108
+# a7456b995ef74ee484082ecac15db3fe
+msgid "Ping pong, can you make a device that hits a ball back and forth across the screen?"
+msgstr ""
+
+#: ../source/physics.rst:109
+# e6df1e5b8976442aabc75831362592b5
+msgid "Try building a mechanical binary clock."
+msgstr ""
+
+#: ../source/physics.rst:110
+# a34604464e444a21b9583fbf8c11f33a
+msgid "Convert rotation into parallel motion using pistons."
+msgstr ""
+
+#: ../source/physics.rst:111
+# aadc5dcbf63140608be2a985a53824f3
+msgid "Experiment with touching one motorised circle against one pinned circle of various sizes."
+msgstr ""
+
+#: ../source/physics.rst:112
+# a063ac672ecb45ffa326445406e233da
+msgid "Try building a rag-doll puppet and make it dance in a convincing way."
+msgstr ""
+
+#: ../source/physics.rst:113
+# ab23771f726640168323099664caf685
+msgid "Use just links and circles to make a structurally sound Eiffel Tower."
+msgstr ""
+
+#: ../source/physics.rst:114
+# ff9b43361f5e4cf4a4d5f83957f1e32f
+msgid "Try building a ratchet mechanism."
+msgstr ""
+
+#: ../source/physics.rst:115
+# 1eb5ab8c63a2410293fcce509858493b
+msgid "Try building an analogue clock face where the min hand goes around 60 times for each hour."
+msgstr ""
+
+#: ../source/physics.rst:116
+# 757c02d9ce6443cbb3c6a267a9f32cc1
+msgid "Modify the program itself: `Modifying Physics <http://wiki.sugarlabs.org/go/Activity_Team/Modifing_an_Activity#Modifying_Physics>`_"
+msgstr ""
+

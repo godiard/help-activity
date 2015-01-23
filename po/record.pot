@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,487 +17,487 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/record.rst:3
-# 1424f24d7b8243c0929e5860f81fd360
+# 6c2b38c585234caab99f21593cbe5ac2
 msgid "Record"
 msgstr ""
 
 #: ../source/record.rst:6
-# b185008a34194332bc4abbc311f657f9
+# 00f26de7bea8440585dd837ba4c3d0da
 msgid "About"
 msgstr ""
 
 #: ../source/record.rst:8
-# c6e01fc85a024b589eb89fd9db26abcb
+# 0c7859aa508b48049e4cfb60b1a6f358
 msgid "The Record Activity is used for recording audio and video and for taking pictures. You will need to have a built in, or an attached, microphone and/or camera to use Record."
 msgstr ""
 
 #: ../source/record.rst:10
-# 5218db0fbe414f8780a5862b36053f76
+# f08644f5f1e547cfaefb0ee55fc06e8c
 msgid "If your computer has no built in camera, or an unsuitable camera attached, then Record, will open in *Record audio* mode only."
 msgstr ""
 
 #: ../source/record.rst:13
-# a646aee8757b4362b4d3e8d4c1642487
+# c4f30fcc14e54cc780f56c6236b32079
 msgid "Quick start"
 msgstr ""
 
 #: ../source/record.rst:15
-# fa5fb63dd6d14003b8dfbafe9bc2e694
+# 4bcd384adfb24119bf5a4544057dd1d3
 msgid "There are three record or capture modes. Select **one** of these buttons to chose your Record mode."
 msgstr ""
 
 #: ../source/record.rst:19
-# d9a55b1396814f11a6afbd71ae3e3146
+# 38d74ec4b0704782860182786e8c882b
 msgid "The image above shows the buttons of the three *Record* modes, they are:"
 msgstr ""
 
 #: ../source/record.rst:21
-# e646e269ed4844e7b9f179206b0ec23a
+# d80d29fc4dc3452ba173fbeec058bf25
 msgid "Picture camera mode"
 msgstr ""
 
 #: ../source/record.rst:23
-# f63336966c6c4ff28b960aadbd63b57c
+# 0f47888c2a0b4ac2857ea8db3e169c7d
 msgid "Video camera mode"
 msgstr ""
 
 #: ../source/record.rst:25
-# 6b4be40a9ce14296a1a190e56f005c9c
+# 51b0ff5efcf64ddb998d720bbdccb0b0
 msgid "Audio, or sound mode"
 msgstr ""
 
 #: ../source/record.rst:27
-# 47fe7d2c5b704b7b89dde281e2f52559
+# e59c40ffd70345509c7f45aa5007cbb3
 msgid "This is the *Record* or capture button |Capture| in the centre of the screen, below *main image*."
 msgstr ""
 
 #: ../source/record.rst:31
-# 6010036f2a644a64aaeeb699e5e10240
+# f999b3f9c6a04f1cb0e846ecbb0f03b9
 msgid "The main image shows what will be captured. Record will capture whatever is in front of the camera in *Picture camera* mode, or *Video camera* mode, and will capture whatever the microphone can detect, when in *Audio* mode."
 msgstr ""
 
 #: ../source/record.rst:34
-# a8a32c2bc9f241d186a1e2233aa3002c
+# 4532a9730c594301b2d76acab92c106e
 msgid "**Tip** As always in Sugar, if you are not sure what a button will do, hover the cursor over it, to reveal its function."
 msgstr ""
 
 #: ../source/record.rst:37
-# 19d25905829346e7898902946d590e7f
+# d3803f8815ff4d859965beb3dd045f5f
 msgid "Record features in detail"
 msgstr ""
 
 #: ../source/record.rst:41
 #: ../source/record.rst:72
 #: ../source/record.rst:110
-# 127352b2188046f3bad7c4cebbef8116
-# f0c8b7b3da4a4937a20dcdf2ebbfea52
-# 30b0f0c6a2774da4b5d3e5470c95dc0f
+# f824e024e5fe4b618efcb0d41c9dfcef
+# 73af0157a969480991a684491ae278dd
+# 04881353c404471d8b7b1f29abe8691e
 msgid "**Toolbar and capture buttons explained**"
 msgstr ""
 
 #: ../source/record.rst:43
-# 3897b59b89c149cfb9d0209a8529afaf
+# 3e8f5e3b241044c2a179c38865633f01
 msgid "Activity tab. In the first field name the page or project. The Description button allows you to add a description to the :doc:`/journal` entry. Thirdly select Private, or My Neighbourhood, see :ref:`Sharing Media`."
 msgstr ""
 
 #: ../source/record.rst:45
-# b4c9883568584ba69cfbcb7c0707767c
+# f922ced4cdcf47c9bc3d16d93120834a
 msgid "Picture camera mode is selected."
 msgstr ""
 
 #: ../source/record.rst:47
-# 963bd55129c448b2aae476601d3a8e9d
+# 30471979ed944df991eb3f0b6b2140c6
 msgid "Video camera mode button. Press to switch to Video camera mode."
 msgstr ""
 
 #: ../source/record.rst:49
 #: ../source/record.rst:80
-# dd09f8d25d8e4955bf98c3bc24c2647d
-# 6db74236ff7b47eb82fdb10fc7035e4d
+# f850e488761b47398f1b820de7abac98
+# 72170e186cbb48c69d790e468e5fd793
 msgid "Audio recording mode button. Press to switch to Audio recording mode."
 msgstr ""
 
 #: ../source/record.rst:51
-# 2fe02089e234476ebf2a87c57ac29a9e
+# ae0924e412bf47b1ba1f66cd1043e225
 msgid "Select timer button. Press this button to engage a delay before taking a picture. Available delay options are, *Immediate*, *5 seconds*, or 10 secomds."
 msgstr ""
 
 #: ../source/record.rst:53
-# 72bef5c05aae4324a4bc9c6c3465f611
+# ae39330013de4474b093115d77dbd795
 msgid "Timer duration button. Duration is grayed out in *Picture camera* mode. In *Video* mode and in *Audio* mode press to *Select duration*. Available duration options are 2, 4, 6 minutes."
 msgstr ""
 
 #: ../source/record.rst:55
-# 22e165c092eb4d00b39d0c23d21ccb84
+# 455117d4ce2247e2a52d3615f67e6841
 msgid "Select quality button. The button is grayed out in *Picture camera* mode, and *Audio* mode. In Video camera mode, press this button to select low or high quality. Experiment and choose whichever gives the best results in your conditions."
 msgstr ""
 
 #: ../source/record.rst:57
-# bfcdfafdb5674f8ea7f0e745e046bdd2
+# 3564aa5af39f4f86b48886adfefa73ed
 msgid "This image represents an picture already taken. It is in the area of the screen called the *tray*, which contains thumbnail images."
 msgstr ""
 
 #: ../source/record.rst:59
-# 5917a9edabce461bb9815ae7c42ac99c
+# 73b14e1023e8482e9997af788741c367
 msgid "The record or capture button. Once a picture, video, or Audio recording has been captured, it is automaticly saved in the Journal, and the saved image or clip is represented as a thumbnail in the tray."
 msgstr ""
 
 #: ../source/record.rst:61
 #: ../source/record.rst:98
-# be22fdbaee8e4b1fae9bc8a21488aa60
-# 3f2a44832a294763a1477fc7e0fd8bd9
+# 2028b849361d4654bcfe448f3885ae94
+# 0368b01d7dda49e383d33b13faf32051
 msgid "When the tray is full of images, this button scrolls through the images."
 msgstr ""
 
 #: ../source/record.rst:63
 #: ../source/record.rst:100
-# eda30a959e5542f69dfa63630e9d77b2
-# ea9bc5182c2e45a3bd037f800477dc4a
+# e26785a08c3d40bcb25cde44dbfa5ac4
+# 380815e08b9b4d25b2dbe7a48e6e82ee
 msgid "Stop, or close the application."
 msgstr ""
 
 #: ../source/record.rst:65
-# c4291280395d4b2698c359d12afdaccb
+# 4b28c6381c5145898813f36903681905
 msgid "The next section covers Video camera mode, and then Audio recording in more specific detail. However you might now prefer to follow on to :ref:`Viewing, saving and managing your work`."
 msgstr ""
 
 #: ../source/record.rst:68
-# b1db331448e141f5841e2a06b9864f4a
+# 98618cff87404b059eb335747f282b2c
 msgid "Video camera"
 msgstr ""
 
 #: ../source/record.rst:74
-# d2c605006ec443bcab7ec1b5064f9020
+# cc4670f5efaa4e78a1a8e9422fed0584
 msgid "Activity tab. Here you can enter a name for the project, access the Journal, to provide a description, and select Private, or My Neighbourhood, see :ref:`Sharing Media`."
 msgstr ""
 
 #: ../source/record.rst:76
-# fed591be09a249789617de49ce154ba2
+# f9fb3fb307c24eacae941c9c626aea38
 msgid "Picture camera mode button. Press to switch to Picture camera mode."
 msgstr ""
 
 #: ../source/record.rst:78
-# 40bdff983fb64a898d263b2332a5c5cf
+# 95aaec2f7b7c4d19b6849379a82a0a0e
 msgid "Video camera mode button is selected, and capture or record has been started."
 msgstr ""
 
 #: ../source/record.rst:82
-# a14609c639e946c89db4b1e6111f2e05
+# d6d5ee3689f54e438b18f8a9fb747099
 msgid "Select timer button. Press this button to set a delay before capture, available delay options are, Immediate, 5 seconds, or 10 secomds."
 msgstr ""
 
 #: ../source/record.rst:84
-# 37ca4d881e8f4939a4d6aef7f4adf5d7
+# 356b9816269c44389744964fb4f961c3
 msgid "Timer duration button. In *Video* mode and in *Audio* mode, press to *Select duration*. Available duration options are 2, 4, 6 minutes."
 msgstr ""
 
 #: ../source/record.rst:86
-# 8d8eeb2cf4a149a9bcbec24eb13c5828
+# ba31ec2343e24ee995e09ce754c1ad2a
 msgid "Select quality button. In Video camera mode, press this button to select low or high quality. Experiment and choose whichever gives the best reults in your conditions."
 msgstr ""
 
 #: ../source/record.rst:88
-# f6f59c14ff3a4c709173786f2c50438b
+# 9ad4c10e2fd84e1f8dee2c18186db05d
 msgid "Record is in *Sharing* mode, and we have been joined by a collaborator."
 msgstr ""
 
 #: ../source/record.rst:90
-# 1f8f423a0c1d40cdbf4e88ef2aea9217
+# 057d191fd7274af5a4afd451d06d4649
 msgid "The image, which the other party shared is in the tray, identified by their characteristic colours. See also :ref:`Sharing Media`."
 msgstr ""
 
 #: ../source/record.rst:92
-# 6566005ccbb549079a1e62046ff501ef
+# 3df8b0ab87fe460e831ccefa0ab8c60e
 msgid "Time remaining bar. This is the time remaining, from the *Timer duration*, set with **6**."
 msgstr ""
 
 #: ../source/record.rst:94
-# 47f0358abbe94ec1b35ce3c535501844
+# 10e97b7736704674a38f2919ded32a29
 msgid "The button to stop capture and to save the video file. Once a recording has been captured, it is automaticly saved in the Journal."
 msgstr ""
 
 #: ../source/record.rst:96
-# aad29e067bce483697d8dd8b7b769ff0
+# a6d7387b5ddd481d8d17280ad6dcd811
 msgid "When you finish recording, the saved video clip will be represented by a thumbnail."
 msgstr ""
 
 #: ../source/record.rst:102
-# 495942148cfd4230b5a505dfe603d86d
+# 2cba6c464d4a4ee8b30fe807e8346651
 msgid "The next section is Audio recording. However you might now prefer to follow on to :ref:`Viewing, saving and managing your work`."
 msgstr ""
 
 #: ../source/record.rst:106
-# 080a1c082596480a80c9e6df522f52f2
+# 769ba9164bb34f659311b95dc8bdd2d1
 msgid "Audio"
 msgstr ""
 
 #: ../source/record.rst:112
-# a626a49e7e1f4349847c578f073d8467
+# ebd168c1a28f475d952192c53fbfb59c
 msgid "The tool bar items are just as described above."
 msgstr ""
 
 #: ../source/record.rst:114
-# 8c4a8eb66d1147a29a98197dbc91cf96
+# ca9cb19613c54dc08552f67d20e8bbe0
 msgid "It is always a good idea to enter a name for your file **1** in the Activity tab, so that it is easier to find your work later."
 msgstr ""
 
 #: ../source/record.rst:116
-# 37bca782c31c4df0b0b0a80222ad0214
+# d6db19c29bac4c28bfbb467df0c0ed77
 msgid "If you have a camera, an image **2** appears in the picture window and looks like live video. As the audio file is saved, the image is saved as a snapshot to help identify your audio recording."
 msgstr ""
 
 #: ../source/record.rst:118
-# c0d3b6e706524801b81cc22fde77652a
+# a01402ab50334ba0a71c85746f61526f
 msgid "The Select timer and Timer duration buttons **3** are available, to set a delay before start of recording, and set the duration. You can either leave the audio recording to run for the set duration, or press the stop capture button **4** at any time."
 msgstr ""
 
 #: ../source/record.rst:120
-# ffffa4c25f7d494d85617d8e503a6b2c
+# 793a423ad98b400aaf1bc02d13e04475
 msgid "As with the photo and video modes, you see an icon for your recording **5** show up in the tray once you are done."
 msgstr ""
 
 #: ../source/record.rst:125
-# 610074932d4944c69bf1982d46d2ef5d
+# 126058236a804bc89e0232d425c6b7c4
 msgid "Viewing, saving and managing your work"
 msgstr ""
 
 #: ../source/record.rst:127
-# 27125d2ae2274a88b712c8ccae926569
+# 1c5818cfed1c48eb891d3f7698089da8
 msgid "Working clock wise from the top left, shows the sequence, to save, name, and inspect an image once it has been taken. This sequence is taken in *Picture camera* mode, but the features are similar in all modes."
 msgstr ""
 
 #: ../source/record.rst:131
-# 4436add6448843079066dd5ba2f350ed
+# ca0b8712b41d45c58950ed3d594e1615
 msgid "The first screen shot, top left, shows the main image in Picture camera mode, while a picture, just taken, has been automatically saved and named in the Journal. It shows up as a thumbnail on the tray. The cursor is hovering on the thumbnail. The automaticly given, temporary name, is “Photo by Sugar Learner” **1**."
 msgstr ""
 
 #: ../source/record.rst:133
-# abfb5b561019467d91bb1b21aaba2640
+# bbaaa1987d0b441caeea3c38112e6e17
 msgid "When we click the thumbnail, the main image changes to *viewer* mode. Images are viewed and information can be updated."
 msgstr ""
 
 #: ../source/record.rst:135
-# bc7f6ee4c3994804b5b152f1d7b0fcd1
+# 670c62af0b01450f925f37e1227af531
 msgid "A field, in which to enter a title for the photo appears **2**. The title “Cornish village” is entered. Also at this point **2** is the full screen mode button. This will switch the main image to full screen."
 msgstr ""
 
 #: ../source/record.rst:137
-# e8decc8de3084208ba100c185dda9737
+# 8cc316ecf3bc49f2a13cdf91f62326e7
 msgid "At the bottom right of the main image is a little tab, **3**, which allows you to find out more about the photo that was taken. Now pressing that tab **4** reveals the image information, author, date, and a space to add tags. A tag is a single word that helps categorize an item."
 msgstr ""
 
 #: ../source/record.rst:139
-# 1979ad847b9b4855b881734439b7edf3
+# 878b87e7f2f44a9898ae77ce0ebf93ec
 msgid "The tray displays a history of your previously taken photos. When you have more photos in the tray the *scroll button* **5** scrolls through the images."
 msgstr ""
 
 #: ../source/record.rst:141
-# 0ad4f68bf60941ee8fa0895aea589e79
+# 3588acc4aea14a4f959579ac60af5c8e
 msgid "To replay a video or audio recording, click the thumbnail of the recording in the tray. When viewing or listening to a clip, if you move your cursor in the main image area, you see small window **6**, representing the output of your camera or microphone. Click on that window to return from *viewer* mode to *capture* mode."
 msgstr ""
 
 #: ../source/record.rst:143
-# 5df08160cab74e62be97915c8a7843f3
+# 1adf67da1a594ba6ab79c19b6594dfc6
 msgid "The final image is displayed full screen, and can be reduced to normal with the button **7**."
 msgstr ""
 
 #: ../source/record.rst:145
-# a22b9545b3f74aeea0d9c071744c7b56
+# af64e844d2254c69a93afae2f28f4d92
 msgid "Record stores images and audio in the Journal, from which they can be used by other activities, such as Paint, Write, Etoys, and Browse, as well as Memorize and some other games. Images can be copied to a USB storage device from the Journal."
 msgstr ""
 
 #: ../source/record.rst:150
-# ad1ffce8c82341f7ba8063304c0cf547
+# 1f727094bbfd42f882a673996006087f
 msgid "Sharing Media"
 msgstr ""
 
 #: ../source/record.rst:152
-# 77c3271528f749f38c438abe8f702e58
+# 4a5faf81726442d2ba768db2f627173f
 msgid "You can share photos, video and audio recordings (these can just be referred to as 'media') with your friends."
 msgstr ""
 
 #: ../source/record.rst:156
-# 07d235d78ddd437d9b77346b8c44acb4
+# 49649e0a827a437ea8438bfb68514065
 msgid "To share media you must first have some media in the tray. We have the image of a Bison in the tray."
 msgstr ""
 
 #: ../source/record.rst:158
-# 9bc087197735434cac738fc83075e3df
+# 87e8c98eada64211aa61287a19ddae04
 msgid "The Activity tab has been opened, the collaboraton button is pressed and \"My Neighborhood\" selected."
 msgstr ""
 
 #: ../source/record.rst:161
-# 7ad29dfcaef54a0a890217f47df3e176
+# 151244c87f3848fc8f378f4b882648a6
 msgid "Share, and join Record"
 msgstr ""
 
 #: ../source/record.rst:165
-# 50cc0d3c928a4314b858871c39e4df69
+# 8d84870747c746828379a30bdcf58f73
 msgid "Once you have made your Activity available to share, others, looking at their Neighborhood View, see your icon with the Record icon, an eye, close to it. They can now join your Activity by clicking on the Record icon next to your icon."
 msgstr ""
 
 #: ../source/record.rst:167
-# a66140dd6b2c4f9298b3a4e197f428cd
+# de870544b2ab48b2be3b5af62bd3ee00
 msgid "They must then select \"Join\" and their Record Activity opens with your images in their tray."
 msgstr ""
 
 #: ../source/record.rst:169
-# 8383e661c41d445baa7bb89891431e04
+# 1cc8055bd02a4918923997cc1e02eeae
 msgid "Now in Record, thumbnails of both parties are shared. The frame of the thumbnail is in the same colors as the XO icon of the person who took the photo."
 msgstr ""
 
 #: ../source/record.rst:172
-# 1fed0cfbda484c978a591c0b7b440bd0
+# 03fed482785f4208bc8cded3f9e9c312
 msgid "Images shared"
 msgstr ""
 
 #: ../source/record.rst:176
-# dc63207da14c47c0a70bc8915cbb1447
+# 147e2b698f014cb1951aba020516ea9b
 msgid "On your Frame, you can see the icons of all of the people with whom you are collaborating. You can also see their shared media."
 msgstr ""
 
 #: ../source/record.rst:178
-# 0c29e30520134e47a2fae66f9432a175
+# 1eb09797bffc44c2bf7d998380e097c5
 msgid "You can exit a shared Activity at any time."
 msgstr ""
 
 #: ../source/record.rst:180
-# 07cad5074a2c47588f345b09cf65a826
+# 0d7efd2a4e6a4ceeb0668670e12881d0
 msgid "|more| :doc:`/collaborating` has more information on sharing work in Sugar."
 msgstr ""
 
 #: ../source/record.rst:185
-# 7ad29dfcaef54a0a890217f47df3e176
+# 089db1fa86c84df0aa226aa04bcba310
 msgid "Getting creative with Record"
 msgstr ""
 
 #: ../source/record.rst:187
-# 7d2fd418445c40e9ac48c6d00086bdad
+# 466bd8709fb44cdfb2f10f27ef1a3ada
 msgid "Record can be used for :"
 msgstr ""
 
 #: ../source/record.rst:189
-# 718f26def1464b66ade1b7da080761eb
+# cb4a1e011f2749b79f193d4715245219
 msgid "Taking pictures."
 msgstr ""
 
 #: ../source/record.rst:190
-# e3ee296b32ac4efe9923896fb9cbe801
+# 883171e5328346deb642e5f9a2a83a47
 msgid "Recording video."
 msgstr ""
 
 #: ../source/record.rst:191
-# ff89a0edaf2043dd9dbfce69d9aa9e84
+# fb638a3e70784469ab3f7a05abe55508
 msgid "Recording audio."
 msgstr ""
 
 #: ../source/record.rst:192
-# 0041318062944f1d82384ad741b7e772
+# 5f6071d3058d403c9942d87558e33f2e
 msgid "Stop-motion photography."
 msgstr ""
 
 #: ../source/record.rst:193
-# 534236c85acb4a93942930dfd05ef252
+# ec9050e256b04b9bb86adcb34dd930ad
 msgid "Time-lapse photography."
 msgstr ""
 
 #: ../source/record.rst:194
-# 641b8d48393e4833988056353e228953
+# 602d9ca69647478fbe429c7b6049540e
 msgid "Creating 360° panoramas."
 msgstr ""
 
 #: ../source/record.rst:195
-# bff7dba8370b43a390a8298c1c61701a
+# e9dc5b409cb04aaaac4bcdec2e80384e
 msgid "Viewing slide shows."
 msgstr ""
 
 #: ../source/record.rst:196
-# 038de491ce0240d1975c37e8d6b18c83
+# 34dd22a5f9834e269ded08f380f49199
 msgid "Storing extra information about audio, video, and pictures."
 msgstr ""
 
 #: ../source/record.rst:199
-# 7ad29dfcaef54a0a890217f47df3e176
+# aeb063d53ab34359a38e0e73498b2706
 msgid "Things to Try with Record"
 msgstr ""
 
 #: ../source/record.rst:201
-# e743ec42810e4cd29252c23c542f5654
+# a9648f94997f4e1fbdb970031c65ca59
 msgid "You can easily take pictures and make videos by using a built-in, or connected, camera for still photography and video recording. You can also use the camera for video conferencing, which involves talking to others on a video screen knowing that the others can also view your video."
 msgstr ""
 
 #: ../source/record.rst:203
-# 8b980bff87724e088cb4b07313ee7528
+# c5dba774159641668406f6d58c9c87b8
 msgid "You can express yourself with sound, images, and video using the cameras and microphones. You are learning about light, observations, angle, and perspective. By recording the sights and sounds around you, others can learn about you, your culture, and environment. You can communicate with your voice and pictures. You can tell factual or emotional stories with film or pictures to help change perceptions or take action."
 msgstr ""
 
 #: ../source/record.rst:205
-# 91582c42e9114fc08fbb2b6608079a94
+# 953aea028d4b420fa582d936276d1474
 msgid "You could also try some of the following :"
 msgstr ""
 
 #: ../source/record.rst:207
-# 3b73201f9c4446faa11c9727d3eef2db
+# d173b115195b4f55a34a545bb600b568
 msgid "Use the Record Activity to record your voice with a built-in microphone."
 msgstr ""
 
 #: ../source/record.rst:208
-# 31671676b1084693a1ea578efca8b51e
+# 0cc7554cd7d5489e81cfe7257349ea3f
 msgid "Take a photo of where you live by aiming the camera lens at your home, and then clicking the circle icon."
 msgstr ""
 
 #: ../source/record.rst:209
-# d13bbc4d3b1c4fb4a16088fcb8d6aa7f
+# f8f1e03fdb9b4299960f4989be29b9c9
 msgid "Record sounds of your city or town."
 msgstr ""
 
 #: ../source/record.rst:210
-# 19d25905829346e7898902946d590e7f
+# acf0acba776b418088d19f515987da4d
 msgid "Record and leave messages for your family."
 msgstr ""
 
 #: ../source/record.rst:211
-# d332a4995eca4459ab98e03d5eb96ce5
+# 584e04636eb142d7b2b57add11ecb0d8
 msgid "Teachers - record a message for parents."
 msgstr ""
 
 #: ../source/record.rst:212
-# 6eef8ee0ca0b43a8938357abe8f0ea95
+# cea884e4da744a81a207a0bde4c790ae
 msgid "Interview your friends and record it to audio or video."
 msgstr ""
 
 #: ../source/record.rst:213
-# 7885445e725743bc888e1074baf658eb
+# efd5447807a14f409612e3adbaba793b
 msgid "Make a video diary."
 msgstr ""
 
 #: ../source/record.rst:214
-# 4c0db4bd47634ed6987be76e51bc6eb8
+# 65589601478a4faf9d3d101cf67a2aa5
 msgid "Open your photos in the Paint Activity and draw on them."
 msgstr ""
 
 #: ../source/record.rst:215
-# 6dba4dd6658149b2bbc69d6ded56accb
+# 5c15d625034e444491b428a8a050227d
 msgid "Add your pictures to a story using Write."
 msgstr ""
 
 #: ../source/record.rst:216
-# cde9dc9ebe0c48f6b0da49e6420e409f
+# 1e364c0e47d3471eafe583dda1156f55
 msgid "Upload a picture to Flickr or Wikimedia Commons."
 msgstr ""
 
 #: ../source/record.rst:217
-# eba85a4c035946219bc769c7734dade8
+# 4f4d7f1f92a340c2990cae2dbe5a30dd
 msgid "Attach a picture to an e-mail you send to a friend or family member."
 msgstr ""
 
 #: ../source/record.rst:218
-# a1bc73aac43b4337922e05944d9ea12c
+# 97aa6aa4913347e0a1c822e0881b0d0a
 msgid "Take a picture of a flower or plant from the same place every day to show how it changes."
 msgstr ""
 
 #: ../source/record.rst:219
-# 0a06282cc0c04e5bab9e6dfab6221b1f
+# 8e3f650419fc435a80a5ee6282ec03ac
 msgid "Take a picture of a baby animal every week to show how it grows."
 msgstr ""
 

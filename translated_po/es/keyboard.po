@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,22 +17,22 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 52210845a7d141d8897082c336f8e54d
+# e4b478ceb0ae44d1817b7f1c84f834dc
 #: ../source/keyboard.rst:3
 msgid "Keyboard"
 msgstr ""
 
-# 69ca3692e8ce4548b034876e30453f0e
+# 3cdb11d0ddd943f8a0fb4657604eed8c
 #: ../source/keyboard.rst:6
 msgid "The Keyboard and Touchpad"
 msgstr ""
 
-# 38f649f6764d4a3d9cd4628c345bf376
+# 24c8ec8a6ed94ae0a2b94c3a38537255
 #: ../source/keyboard.rst:10
 msgid "TODO: <We should have a picture of 1.5 rather than 1.0>"
 msgstr ""
 
-# 9795f6643b014f27b0e1c917ba670e2e
+# 96a96ae8e24445a48ace4712de43594d
 #: ../source/keyboard.rst:12
 msgid ""
 "The keyboard and touchpad—which are dust and water resistant—have special "
@@ -42,7 +42,7 @@ msgid ""
 "keys and the \"slider bar\")."
 msgstr ""
 
-# 9f119b6a24684dec80b06b938d3632f8
+# a2d33a5408cc44ec842426b2308e62a1
 #: ../source/keyboard.rst:14
 msgid ""
 "Escape key -- The escape key is labeled with an × symbol on a black circle. "
@@ -50,7 +50,7 @@ msgid ""
 "quit activities (ctrl + esc)."
 msgstr ""
 
-# 807c72634bc04751802e3c3574764ef7
+# bad11cfd5f1e448da7953399edac6313
 #: ../source/keyboard.rst:15
 msgid ""
 "Tab key -- The tab key is labeled with arrows pointing right and left. The "
@@ -59,7 +59,7 @@ msgid ""
 "alt + tab cycles forward through running Activities."
 msgstr ""
 
-# 168fccb3aa1d404ca4887c272902f38f
+# df97d8a609964acbaae7f9b87e23f866
 #: ../source/keyboard.rst:16
 msgid ""
 "Control key -- The control key is used in combination with other keys to "
@@ -67,7 +67,7 @@ msgid ""
 "+ v is used to paste from the clipboard."
 msgstr ""
 
-# 79cd747cec264e3eb170202d6cb9d627
+# 5c365548b95f4b27ae73bce2ea394677
 #: ../source/keyboard.rst:17
 msgid ""
 "Shift key -- The shift key is used in combination with other keys as a "
@@ -75,14 +75,14 @@ msgid ""
 "based alphabets."
 msgstr ""
 
-# a16f4f4114ca4b6588d6c7052be511d1
+# f8ed95e1d7c14e6aaf651fbefb8e6705
 #: ../source/keyboard.rst:18
 msgid ""
 "Fn key -- The function key is used in combination with other keys as a "
 "modifier. For example, fn + erase is delete; fn + up arrow is page up."
 msgstr ""
 
-# 261bc0f38f80446cb6ecd0c83f38a0e0
+# a4453aa8be58453b8ed1ece82d7f1bec
 #: ../source/keyboard.rst:19
 msgid ""
 "Alt key -- The alt key is used in combination with other keys to issue "
@@ -91,7 +91,7 @@ msgid ""
 "not in the Record Activity."
 msgstr ""
 
-# a4dc5ee54aa642eba5e36b1e4c70cc38
+# d3929737a8894b0fa19ad2ede3bf22c1
 #: ../source/keyboard.rst:20
 msgid ""
 "Spacebar -- The spacebar key types a space. In the future, when used in "
@@ -99,7 +99,7 @@ msgid ""
 "code for the currently running Activity."
 msgstr ""
 
-# 852d3e905f3042fb9ea9401a2cd88a22
+# 00cf530935884d12ad4b273005e5f4be
 #: ../source/keyboard.rst:21
 msgid ""
 "Alt Gr key -- The alt graphics key is used in combination with other keys as "
@@ -110,14 +110,14 @@ msgid ""
 "generates á."
 msgstr ""
 
-# 76ba161f502c48aeb71c28d15760056c
+# 3d68de263197482ca603806ff980bf36
 #: ../source/keyboard.rst:22
 msgid ""
 "Arrow keys -- The arrow keys are used for navigation; combined with the "
 "function key (fn), they are used for page up, page down, home, and end."
 msgstr ""
 
-# 6546ba7b5c1c448fae7e82cf64868f1d
+# 5fef71455b484b9e8595188df5259286
 #: ../source/keyboard.rst:23
 msgid ""
 "Language key -- The language key is found on keyboard layouts that combine "
@@ -127,7 +127,7 @@ msgid ""
 "key.)"
 msgstr ""
 
-# f295d504bbe44784b77d123082d515ee
+# 19ee7cbf557a47b29ebef469462aaa75
 #: ../source/keyboard.rst:24
 msgid ""
 "Enter key -- The enter key—in addition to its standard use—is used in "
@@ -135,14 +135,14 @@ msgid ""
 "mode."
 msgstr ""
 
-# 4f7410dc10b04a1b85d4dfa802978823
+# 6ef8908de4fb4e78b1f975e0082e1f4b
 #: ../source/keyboard.rst:25
 msgid ""
 "Erase key -- The erase key deletes the character behind the cursor "
 "(backspace). fn + erase deletes the key in front of (or on) the cursor."
 msgstr ""
 
-# ea4cbdea08624ffa9eefa244ae18c96e
+# 543a53e6fec74321b3d1eb53b47864a0
 #: ../source/keyboard.rst:26
 msgid ""
 "Frame key -- The Frame key toggles the presence of the Frame on the screen. "
@@ -150,12 +150,12 @@ msgid ""
 "taskbar, clipboard, wireless connections, battery level, and so on."
 msgstr ""
 
-# 5df16acb41ee4496bb48dcce14174bce
+# 659dd724aeb44dd3a84654cdae3b2dc3
 #: ../source/keyboard.rst:27
 msgid "Volume controls -- The volume keys lower and raise the audio level."
 msgstr ""
 
-# 4269227111d34b97804303ce9bcf820b
+# 8f709adef0a9405aa1bc61a801de591b
 #: ../source/keyboard.rst:28
 msgid ""
 "Brightness controls -- The brightness keys lower and raise the brightness of "
@@ -163,14 +163,14 @@ msgid ""
 "button presses."
 msgstr ""
 
-# 5648adc098b44af3835bc2af10d4ff41
+# 3475ee8af6b644aeb8339c51886149f6
 #: ../source/keyboard.rst:29
 msgid ""
 "View keys -- The four view keys, from left to right, take you to the "
 "Neighborhood view, the Group view, the Home view, and the Activity view."
 msgstr ""
 
-# 9d69783ae8f446f89c778fa83ccec229
+# 39f9e00c10f14663a84f9086ee158aa7
 #: ../source/keyboard.rst:30
 msgid ""
 "Search key -- The search key takes you directly to the Journal and places "

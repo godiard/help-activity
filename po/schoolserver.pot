@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,117 +17,117 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/schoolserver.rst:3
-# 09ffb8943eab42579514d1b1cd4ca3d4
+# 403076fe13c74afbbaaa14665fd206d1
 msgid "XS school server"
 msgstr ""
 
 #: ../source/schoolserver.rst:6
-# 3ed4074375654605934b37d995a8fe34
+# 20ba4e84bb73423397f531cc78a3ee6c
 msgid "Overview"
 msgstr ""
 
 #: ../source/schoolserver.rst:8
-# d10383c8a8104a7d9c8bdda711c767c1
+# 49d35a9c07b5475d822478e9df5e9cd1
 msgid "The XO school Server, or XS, is one of the products of the OLPC project, designed to complement the XO laptop. The XS is installed on x86 (Intel-compatible) computers. These could be conventional servers such as rack-mounted computers, purpose-built low-power machines, or even netbooks."
 msgstr ""
 
 #: ../source/schoolserver.rst:10
-# 91d942c88ded4203877d28a0592b96dd
+# 2130ee5a5175469d9adf0ed6738d846c
 msgid "The OLPC XS provides additional infrastructure extending the capabilities of the laptops. While the laptops are self-sufficient for many learning activities, other activities and services depend on the XS providing connectivity, shared resources and services. The XS provides XO machines with network connectivity for backups, anti-theft leases, web browsing, system, content updates, and asynchronous collaboration tools such as Moodle."
 msgstr ""
 
 #: ../source/schoolserver.rst:13
-# 765ae44e455840b7bdd0f066da2a57ee
+# 6aa23331b22748edbca93bd551b9003e
 msgid "Installation"
 msgstr ""
 
 #: ../source/schoolserver.rst:15
-# 4e70aecfca8845a2a68f79c33dc2183b
+# f34dc382995444779ff0c8c3f08ebe95
 msgid "Two installation options are available:"
 msgstr ""
 
 #: ../source/schoolserver.rst:17
-# 722b2d6ed4f24dcdad34359e4f292d9c
+# 516d17a44ccd46319850d4dc8707ffde
 msgid "XS installation CD (recommended): download and burn a CD image, and use the resultant CD to install the system. See details at http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_from_CD"
 msgstr ""
 
 #: ../source/schoolserver.rst:19
-# 319aba0250fd4a5dab2174054c123605
+# ad05af1967954c77b883c193bf00c7c3
 msgid "On top of another system (advanced): install the XS software packages on top of an existing operating system installation. See details at http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_on_top_of_existing_OS_installation"
 msgstr ""
 
 #: ../source/schoolserver.rst:21
-# 3f09ab9d9b9a4fae9dcca2579f954617
+# 1b302bebcaf04f35a8546368fac3b850
 msgid "The installation is fairly straight forward and requires minimal configuration after the initial installation to the XS hard drive."
 msgstr ""
 
 #: ../source/schoolserver.rst:24
-# 44a9fbaca4fc4f8c957cc2650e29088b
+# 27d499a3e1554cd5b737f7402f89a99d
 msgid "Configuration"
 msgstr ""
 
 #: ../source/schoolserver.rst:26
-# aeb8b45ec0e54bcc9485a4de0198fffd
+# 1016b666b8ac4cc0afc51564530a0cb8
 msgid "Configuring the XS involves choosing a server domain name. The hostname is always 'schoolserver'. So, using a domain name like example.org will give you schoolserver.example.org."
 msgstr ""
 
 #: ../source/schoolserver.rst:28
-# c03552a485a7412694eb1157457a0a0a
+# efcf4613f2334c06bd53e689d4cdffc7
 msgid "The XS has a fairly standard server-style networking setup. The XS provides DHCP and DNS services to all the XOs connected to it via a wireless access point. However, if the school already has its own network running its own DHCP services, the XS networking can be modified to work with the existing infrastructure. The XS can work with two Ethernet cards, where one works as a WAN interface, while the other works as the LAN interface. The XS can also work with a single Ethernet card where it works as a LAN interface for schools without WAN (Internet) connectivity. Optionally, such a server can provide WAN connectivity using a USB-to-Ethernet adapter."
 msgstr ""
 
 #: ../source/schoolserver.rst:31
-# 4db7604c805042059b8575581a8f1898
+# aeff056cb52340cda309873cb4ac3e22
 msgid "Services"
 msgstr ""
 
 #: ../source/schoolserver.rst:34
-# 14ad5f92fc3d4f2190da8811125f8c18
+# 7c74b07dcd51402392f2a0a1e0a8d842
 msgid "Collaboration"
 msgstr ""
 
 #: ../source/schoolserver.rst:36
-# 4633991606ca42e2abd0fef6128115df
+# 4c1a0dc65c0141d49ccb62e3dffcc605
 msgid "The XS provides collaboration services across a variety of activities. When XOs are connected to the School Server, the collaboration is managed through the server and can be segmented by a classroom or a group. While the user will not see anything different, the capacity of collaboration will scale up considerably with a XS in the mix."
 msgstr ""
 
 #: ../source/schoolserver.rst:39
-# b6e8a326a41f41b695a3de76f81ce2c3
+# fb93cf50638c4558b618ba8468d49a2f
 msgid "Caching"
 msgstr ""
 
 #: ../source/schoolserver.rst:41
-# 2c2c978663894f979ce61581ffb2c5be
+# 202f5f586a3546a9b8394ca5c7bd168f
 msgid "The XS uses Squid to cache content locally. At sites where Internet access is limited, slow or expensive, content caching helps in speeding up access to content by making copies on the XS and serving these up locally."
 msgstr ""
 
 #: ../source/schoolserver.rst:44
-# d23b4c99dd3e44ceb24cdeb08b9e126e
+# 4e3bdcc5fc15491ea937bb6d5a81d01d
 msgid "Backup and Restore"
 msgstr ""
 
 #: ../source/schoolserver.rst:46
-# d64a66a9db0045dc8ab44e56e86b00a9
+# a3ca4892df9f4fa9b4d4264d9da02b48
 msgid "The XS provides seamless backup services for each registered XO. The XS checks to see the backup status of the Journal on each XO and backs it up incrementally. Once the backups are made, these can be used to restore a child's work back on her XO."
 msgstr ""
 
 #: ../source/schoolserver.rst:49
-# 18e1b9ff589945e1a5e2c14d92519c9d
+# e92d901a93ef4b1884cd4c642bc9f2c0
 msgid "Antitheft Controls"
 msgstr ""
 
 #: ../source/schoolserver.rst:51
-# a6b4b37f872648b08666d17dccaa5892
+# 4ae94bfd6b7a4b94a55567d0814d81b9
 msgid "Antitheft controls lists all registered XOs in one location. additionally, this feature offers rescue leases to laptops to re-activate laptops in case of problems. If a laptop gets stolen, the antitheft control feature shuts it down."
 msgstr ""
 
 #: ../source/schoolserver.rst:54
-# da2842441a324bf89e47d6513574570d
+# 245a4f03911b42d79b8f66fbbbc1016c
 msgid "Learning Management System"
 msgstr ""
 
 #: ../source/schoolserver.rst:56
-# ea9b4426e2cc44bd84e42d7f5a7e8515
+# 1f7b6f0271774a2b9e90f5e683ab6cf4
 msgid "Moodle is a Learning Management System that provides the teacher with a way to create a course, manage assignments and administer assessment using a web-based interface. On the XO, the Moodle LMS is accessible via the Browse activity. Moodle features include assignment submission, discussion forums, file downloads, grade books, instant messages, calendars, news, announcements, quizzes and wiki."
 msgstr ""
 

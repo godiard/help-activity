@@ -1,0 +1,803 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 5241d9b0a0924291916b0219cd482285
+#: ../source/dimensions.rst:3
+msgid "Dimensions"
+msgstr ""
+
+# 07f688f7ee484ea0b1a95b81526b9778
+#: ../source/dimensions.rst:6
+msgid "About"
+msgstr ""
+
+# 501e4c316dad4994bf0fc1f9b2429607
+#: ../source/dimensions.rst:8
+msgid ""
+"Dimensions (previously known as Visual Match) is a pattern-matching game "
+"written for Sugar; it is included as part of the Honey collection of Sugar "
+"add-ons. The object of the game is to find sets of three cards where each "
+"attribute—color, shape, number of elements, and shading—either match on all "
+"three cards or are different on all three cards."
+msgstr ""
+
+# 7e5cda4a475f4f14b6dd9f41688c267d
+#: ../source/dimensions.rst:10
+msgid ""
+"Prime Dimensions is the number variant of Dimensions, where instead of "
+"shape, three prime numbers, 5, 7, and 11, are used. Texture is replaced by "
+"representation, e.g. Arabic numerals, Roman numerals, Mayan numerals, etc."
+msgstr ""
+
+# 0fc34f09d8de4f588708966da3fc8fe1
+#: ../source/dimensions.rst:12
+msgid ""
+"Word Dimensions is the word variant of Dimensions, where instead of shape, "
+"three word categories are used: animal, food, celestial body. Texture is "
+"replaced by font attribute: bold, italic, normal."
+msgstr ""
+
+# 8bf0145a14884d4bb0bb75a04be8ba46
+#: ../source/dimensions.rst:14
+msgid "Visual Match is deprecated."
+msgstr ""
+
+# a81d9b4f55594529a8b485459e1d79ec
+#: ../source/dimensions.rst:23
+msgid "Using Dimensions"
+msgstr ""
+
+# 6cc79f44f73d4e64bb3f7086123a4d7c
+#: ../source/dimensions.rst:26
+msgid "The Basics"
+msgstr ""
+
+# 7680b0681cfc4095a738793a7cebd3c2
+#: ../source/dimensions.rst:27
+msgid "Play by clicking on three cards to make a match."
+msgstr ""
+
+# 3dd71cfb383d4d85ab1572897e185faf
+#: ../source/dimensions.rst:29
+msgid ""
+"As you click, the cards will move to the match area on the left side of the "
+"screen. (You can also drag the cards to the match area.)"
+msgstr ""
+
+# b645aff816b74e8f9788eedba4980393
+#: ../source/dimensions.rst:30
+msgid "Once three cards are in the match area, a validation test is run:"
+msgstr ""
+
+# f0fcea308eff4faabd75f362535ae52e
+#: ../source/dimensions.rst:32
+msgid ""
+"If the cards make a `valid match <http://wiki.sugarlabs.org/go/Activities/"
+"Dimensions#Examples_of_valid_matches>`_, a smiley face will appear."
+msgstr ""
+
+# 317ea78dcdae462bb46e0fdece820b3d
+#: ../source/dimensions.rst:33
+msgid ""
+"If they are an `invalid match <http://wiki.sugarlabs.org/go/Activities/"
+"Dimensions#Examples_of_invalid_matches>`_, a frowny face will appear, which "
+"details as to why the cards do not match. Clicking on the smiley face will "
+"result in the match being removed and new cards dealt from the deck. "
+"Clicking on the frowny face will remove the last card in the match area back "
+"to the right side of the screen."
+msgstr ""
+
+# abc0f4c1520d4283a0abc06361a6c045
+#: ../source/dimensions.rst:35
+msgid "Once the game is over, the screen will fill with smiley faces."
+msgstr ""
+
+# 4da9aa5009204e838a3c4ff3c41d5972
+#: ../source/dimensions.rst:37
+msgid ""
+"`Video of basic game play <http://www.dailymotion.com/video/xbuw5j_visual-"
+"match>`_"
+msgstr ""
+
+# cdd6501b6649482793c89726565a006b
+#: ../source/dimensions.rst:39
+msgid ""
+"Note: When Dimensions first starts up, it shows a simple animation of game "
+"play. Click on the screen to interrupt the animation and begin play."
+msgstr ""
+
+# f9b4d8f0f9ea476f9ca93a8dda4df155
+#: ../source/dimensions.rst:43
+msgid "More Details"
+msgstr ""
+
+# f69692eaf77d496992c213e307911f15
+#: ../source/dimensions.rst:45
+msgid ""
+"Cards have four different attributes: color, shape, fill texture, and number "
+"of elements."
+msgstr ""
+
+# 8ff5a469d8ab48b1a75465ad67c63eb5
+#: ../source/dimensions.rst:47
+msgid ""
+"The number version works with prime factors instead of shapes and textures. "
+"The word version works with semantic groupings."
+msgstr ""
+
+# dd3cf903e0fd45eba416ba1a805023af
+#: ../source/dimensions.rst:50
+msgid ""
+"Matches must be valid across all four attributes. Examples of `valid <http://"
+"wiki.sugarlabs.org/go/Activities/Dimensions#Examples_of_valid_matches>`_ and "
+"`invalid <http://wiki.sugarlabs.org/go/Activities/"
+"Dimensions#Examples_of_valid_matches>`_ matches are shown below."
+msgstr ""
+
+# 0e05e3cd07fe4bbc9fc2306be1d65d10
+#: ../source/dimensions.rst:52
+msgid ""
+"A valid match is defined by cards where each attribute is either the same on "
+"each card or different on each card, e.g, all three red cards or one red, "
+"one green, and one blue card. An invalid match is when two cards share and "
+"attribute and the third card does not, e.g., one red and two green cards."
+msgstr ""
+
+# 5aa5779cffc84ec5817afe3f0581ff73
+#: ../source/dimensions.rst:55
+msgid ""
+"At the end of the game, all of the matches are displayed in a simple "
+"animation."
+msgstr ""
+
+# 3b0e2fdab03f4cf78476b6ed8fa5884d
+#: ../source/dimensions.rst:56
+msgid "Also, the game state is saved to the Journal and restored upon resume."
+msgstr ""
+
+# ff0bcdceeba146a5847c1d6025ec1a87
+#: ../source/dimensions.rst:57
+msgid "A simple cooperative sharing model is supported."
+msgstr ""
+
+# f7b932c607704941a27b55693e00cc2c
+#: ../source/dimensions.rst:59
+msgid ""
+"Everyone works cooperatively to find matches. Only the initiator of the "
+"shared session can start new games, change game type or level."
+msgstr ""
+
+# 72d7bcc082dc4751a9a55a6809df2ba7
+#: ../source/dimensions.rst:64
+msgid "Examples of valid matches"
+msgstr ""
+
+# 2980ee1cf2d44d13a4852badcf5a4f65
+# 59da2fe22fc74212a21ccf0bc8ba7514
+#: ../source/dimensions.rst:68 ../source/dimensions.rst:82
+msgid "Rows from top to bottom"
+msgstr ""
+
+# cd9a6d2d8dfe4a2bb0f7e061ef7fefa1
+#: ../source/dimensions.rst:70
+msgid "The colors, shapes, and shade match; numbers are different."
+msgstr ""
+
+# a9d65223303c4a4d9326ef5e2cfc3689
+#: ../source/dimensions.rst:72
+msgid "The numbers match; colors, shapes and shade are different."
+msgstr ""
+
+# 80eac25a60104ee0803075a50b1797a7
+#: ../source/dimensions.rst:74
+msgid "Everything is different."
+msgstr ""
+
+# 77a04c58a2d3497db6a0b497a44d855b
+#: ../source/dimensions.rst:78
+msgid "Examples of invalid matches"
+msgstr ""
+
+# a172f90bf66a499894cda06c7b85118e
+#: ../source/dimensions.rst:84
+msgid "two of the same colors (red)"
+msgstr ""
+
+# fad247d3d7234a77ad71e1eb6fc7c249
+#: ../source/dimensions.rst:86
+msgid "two of the same shape (X)"
+msgstr ""
+
+# ffc95b68a7ea44fe8cfcc435fe46ffe1
+#: ../source/dimensions.rst:88
+msgid "two of the same shade (solid)"
+msgstr ""
+
+# 76fc86abaf204697a20f6982488a111a
+#: ../source/dimensions.rst:90
+msgid "two of the same number (2)"
+msgstr ""
+
+# 443b9041a92045d4979daef66bd0e846
+#: ../source/dimensions.rst:94
+msgid "Additional Features"
+msgstr ""
+
+# 812161cc1a4d4edfb03f6fa88fcb1743
+#: ../source/dimensions.rst:95
+msgid ""
+"Dimensions includes a computer (robot) assistant: The robot will help you "
+"find matches."
+msgstr ""
+
+# 22f1600328a74050ba34f30bb34ec76e
+#: ../source/dimensions.rst:97
+msgid ""
+"It operates on a timer—finding matches after an adjustable number of "
+"seconds. The robot is enabled/disabled by clicking on the button the the "
+"Tool menu. You can also use the robot as a computer opponent. Decreasing the "
+"time between moves increases the challenge."
+msgstr ""
+
+# e79de95b227b4688a861caae1adcfc69
+#: ../source/dimensions.rst:101
+msgid "Dimensions includes Beginner, Intermediate, and Expert Modes."
+msgstr ""
+
+# 5cc2baf561294beaae9af5ad78f5e6ea
+#: ../source/dimensions.rst:103
+msgid ""
+"In Beginner Mode, there are only 9 (32) cards and only two card "
+"characteristics, In Intermediate mode, there are 27 (33) cards and three "
+"card characteristics. In Expert Mode, there are 81 (34) cards and four card "
+"characteristics."
+msgstr ""
+
+# f49fe855d1ba49b282b2c975b11a7890
+#: ../source/dimensions.rst:107
+msgid ""
+"Dimensions includes number-search and word-search games in addition to the "
+"pattern-search game."
+msgstr ""
+
+# b8c80ee39e0a4bf49fc04561abf5d73c
+#: ../source/dimensions.rst:109
+msgid ""
+"There is an edit mode so that customized word lists can be used in the Word "
+"Game (and shared over the network). Also, you can load custom cards from the "
+"Journal."
+msgstr ""
+
+# b6d28b8a4b714989b50fc1e52cec3f84
+#: ../source/dimensions.rst:112
+msgid ""
+"The grid layout is arbitrary; there is no need to pick in rows or columns, "
+"or one from each column."
+msgstr ""
+
+# 73d4683d608947518161c7017a7f1d9f
+#: ../source/dimensions.rst:113
+msgid ""
+"The blank cards on the left are a place to display the most recent match; "
+"they can be otherwise ignored."
+msgstr ""
+
+# 026705c9416847f89c69349f12946d6e
+#: ../source/dimensions.rst:114
+msgid ""
+"A count of number of matches found is shown in the toolbar; when the robot "
+"assistant is helping, the count is displayed as two numbers, where the "
+"number of matches found by the robot is in parentheses, e.g., 3(2) would "
+"indicate that the robot found 2 matches out of a total of 5 (3+2) found so "
+"far."
+msgstr ""
+
+# 34bf5261a224496eab185d3537234990
+#: ../source/dimensions.rst:115
+msgid ""
+"Dimensions keeps track of your best times (one for Beginner Mode and one for "
+"Expert Mode). These times are displayed next to the level-mode buttons on "
+"the `Tools Toolbar <http://wiki.sugarlabs.org/go/Activities/"
+"Dimensions#The_toolbars>`_."
+msgstr ""
+
+# 2462a141f46e4171b159772ea5f75f24
+#: ../source/dimensions.rst:117
+msgid ""
+"As you improve, Dimensions will automatically advance you to a more "
+"difficult level of play."
+msgstr ""
+
+# 441059c5180842aa8f770c79c8f41fa5
+#: ../source/dimensions.rst:119
+msgid "You can select cards using the keyboard:"
+msgstr ""
+
+# 86e9c2a143784a47982ce28559abaf88
+#: ../source/dimensions.rst:122
+msgid "Top Row"
+msgstr ""
+
+# d23304a7c13b46eaaa7c72baa3d501fb
+#: ../source/dimensions.rst:122
+msgid "1, 2, 3"
+msgstr ""
+
+# 63d8d24b0b35417f82643ff4595db01d
+#: ../source/dimensions.rst:123
+msgid "Second Row"
+msgstr ""
+
+# 3cef08be7ed3402a8cef3c8cb7674df6
+#: ../source/dimensions.rst:123
+msgid "q, w, e"
+msgstr ""
+
+# ca7ffc31073a4ce588a59097016993ab
+#: ../source/dimensions.rst:124
+msgid "Third Row"
+msgstr ""
+
+# 8e8b443e10d54a4181716ab6c53123ee
+#: ../source/dimensions.rst:124
+msgid "a, s, d"
+msgstr ""
+
+# c355331093ac44509142ae6022c690b6
+#: ../source/dimensions.rst:125
+msgid "Fourth Row"
+msgstr ""
+
+# c20415b138114797a1a55e9028870b2a
+#: ../source/dimensions.rst:125
+msgid "z, x, c"
+msgstr ""
+
+# 2241a0210dff457987bea92df032f6b3
+#: ../source/dimensions.rst:126
+msgid "Extra (bottom) Row"
+msgstr ""
+
+# c01ba7431d6e4d1fad7c4baa8eb8dee2
+#: ../source/dimensions.rst:126
+msgid "8, 9, 0"
+msgstr ""
+
+# c42267278d7641cc95ee0677e9b31050
+#: ../source/dimensions.rst:129
+msgid "Watch out, because Dimensions can be very addictive."
+msgstr ""
+
+# d808c1b1ad1646b98bc09e5aeec05e7b
+#: ../source/dimensions.rst:133
+msgid "Other modes of play"
+msgstr ""
+
+# 138d117852df4cb394b28f25d76487fc
+#: ../source/dimensions.rst:135
+msgid "Number Game"
+msgstr ""
+
+# 3a78c8220ec34fee98e579e107f4fb33
+#: ../source/dimensions.rst:139
+msgid "Everything is different: colors, prime factors, and representations."
+msgstr ""
+
+# 70d2bcef92a749d69e367c838a044584
+#: ../source/dimensions.rst:142
+msgid "Word Game"
+msgstr ""
+
+# 2290f29057784f37b90a272df4f96ada
+#: ../source/dimensions.rst:146
+msgid ""
+"The words are from different semantic groups; the colors are different; the "
+"font style (bold) matches."
+msgstr ""
+
+# 60e545394fbb4bcca1855126915af81f
+#: ../source/dimensions.rst:149
+msgid "When there is no match"
+msgstr ""
+
+# dd0a16af40ce48b784a894e0b2df1343
+#: ../source/dimensions.rst:153
+msgid ""
+"On occasion, there is no match among the 12 cards on the grid. If there is "
+"no match, three additional cards are dealt along the bottom row as "
+"illustrated in the figure above."
+msgstr ""
+
+# b34979932d004d4699d258be53bd1817
+#: ../source/dimensions.rst:157
+msgid "Gallery"
+msgstr ""
+
+# 606faf04739c4967a9d4c823a3591efb
+# a4f237aff49847fca0f4e8eeddc16e32
+# 1e8bf8b2b9754762ae9d01bc8f505ee5
+# f502430f8f03429698308dec8f96c044
+# d896aca05f454a7d9841a830ad9332f3
+#: ../source/dimensions.rst:161 ../source/dimensions.rst:174
+#: ../source/dimensions.rst:184 ../source/dimensions.rst:196
+#: ../source/dimensions.rst:206
+msgid "From left to right,"
+msgstr ""
+
+# 430f6275adcc4ff3a354cc097186cc22
+#: ../source/dimensions.rst:163
+msgid "Basic play: two dimensions: number and color"
+msgstr ""
+
+# 63db3804ef444581ac33a6ca5fe56c73
+#: ../source/dimensions.rst:165
+msgid "Intermediate play: three dimensions: number, color, and shape"
+msgstr ""
+
+# 4ec3de7db13f4ab79e7512deeeea1356
+#: ../source/dimensions.rst:167
+msgid "Advanced play: four dimensions: number, color, shape, and texture"
+msgstr ""
+
+# 72a05e422ae34f6d9cdc5fd44103d5e6
+#: ../source/dimensions.rst:169
+msgid "Numbers don't match"
+msgstr ""
+
+# ba8efa1daecf4bff83cb5bf6d17d036d
+#: ../source/dimensions.rst:176
+msgid "Colors don't match"
+msgstr ""
+
+# ca33d051a70c4585a91a111790984a3b
+#: ../source/dimensions.rst:178
+msgid "Shapes don't match"
+msgstr ""
+
+# e44e5fcd7b6c4dfdb675ba575dde2869
+#: ../source/dimensions.rst:180
+msgid "Textures don't match"
+msgstr ""
+
+# 9e81b46f888348c68f7d5e32116971e3
+#: ../source/dimensions.rst:186
+msgid "Prime factors (1,2,3,5,7 and 11) are used to determine matches"
+msgstr ""
+
+# b27dcdf727774d6dac426419d8af769d
+#: ../source/dimensions.rst:188
+msgid "Roman numerals and dots in a circle"
+msgstr ""
+
+# 70fbec0743a342cf93f41a55f7aea0c1
+#: ../source/dimensions.rst:190
+msgid "Hashes and products"
+msgstr ""
+
+# 27207db21066497ca60b649788144ff7
+#: ../source/dimensions.rst:192
+msgid "Mayan"
+msgstr ""
+
+# f824c722c9ce447abbd445e4ac8e80b8
+#: ../source/dimensions.rst:198
+msgid ""
+"semantic word groups (animal, food, celestial objects) are used to determine "
+"matches"
+msgstr ""
+
+# 08fd189127a0484ebda7c09e19404103
+#: ../source/dimensions.rst:200
+msgid "Editing the word list"
+msgstr ""
+
+# 3e36434dbe82440f94e15d1a3c2c3060
+#: ../source/dimensions.rst:202
+msgid "Loading custom cards from the Journal"
+msgstr ""
+
+# ab1ba725293849868d0a0df2cec93540
+#: ../source/dimensions.rst:208
+msgid "Custom cards loaded from the Journal"
+msgstr ""
+
+# f77d6ebe82e94bd39360d976577dd127
+#: ../source/dimensions.rst:210
+msgid "Playing with cards loaded from the Journal"
+msgstr ""
+
+# 4b0e428c250347478703ef806a22d2ff
+#: ../source/dimensions.rst:212
+msgid "the source code"
+msgstr ""
+
+# 679334b1d6f04b9987dafbbf64544809
+#: ../source/dimensions.rst:214
+msgid "Scores can be copied to the clipboard and then plotted by SimpleGraph."
+msgstr ""
+
+# 47eb27f4a9644533a41c2867ab4bed61
+#: ../source/dimensions.rst:217
+msgid "Learning with Dimensions"
+msgstr ""
+
+# 72aabf49a2e340dd8a2c7f8a67269543
+#: ../source/dimensions.rst:218
+msgid ""
+"At a basic level, Dimensions can be used to enhance the observational skills "
+"of young learners; they are repeatedly asked: what is the same? what is "
+"different? At a deeper level, the concepts of multidimensional sets can be "
+"explored."
+msgstr ""
+
+# 1cba67e125474ab7acc308b876883bb9
+#: ../source/dimensions.rst:220
+msgid ""
+"The numbers games can be used to explore different arithmetic "
+"representations."
+msgstr ""
+
+# 7797e2b9e58344adb18ef50bb7efb3c0
+#: ../source/dimensions.rst:224
+msgid "Extending Dimensions"
+msgstr ""
+
+# 8d7359d8690544629af84f4cad94a647
+#: ../source/dimensions.rst:226
+msgid "Exploring the math"
+msgstr ""
+
+# 2acd00d9d0c64d1385802412a8ed86cc
+#: ../source/dimensions.rst:227
+msgid ""
+"The combinatoric math behind Dimensions may be of interest to some learners: "
+"See `this <http://en.wikipedia.org/wiki/Set_%28game"
+"%29#Basic_Combinatorics_of_Set>`_ for an explanation."
+msgstr ""
+
+# 42b01af64c0b4156b1e8b0116674a0f8
+#: ../source/dimensions.rst:230
+msgid "Creating a custom game"
+msgstr ""
+
+# a806f0bc41bb43e682eab6003673ba02
+#: ../source/dimensions.rst:231
+msgid ""
+"You can create your own set of cards for Dimensions. Use your favorite "
+"program for creating images (Paint, Turtle Art, Record, etc.) to make sets "
+"of cards. You need to create at least 9 cards in order to play at the "
+"beginner level (3 cards each along 2 dimensions). You can also make a "
+"collection of 27 cards (3 cards each along 3 dimensions) or 81 cards (3 "
+"cards each along 4 dimensions). The cards must all have the same name in the "
+"journal with the exception of a number, beginning with 1 and incrementing by "
+"1, e.g., card.1.png, card.2.png, ... card.9.png. Any image format supported "
+"by Sugar should work and you do not have to include the image-type suffix in "
+"the title, e.g., card.1, card.2, ... card.9 will also work. Just be sure "
+"that the order corresponds to the serialization of your multidimensional "
+"space, e.g.:"
+msgstr ""
+
+# da671ba5f52244f9adfb3d9d1d8f748a
+#: ../source/dimensions.rst:234
+msgid "card name"
+msgstr ""
+
+# 05f342492bdd43cbaecc01936c6c0c0c
+#: ../source/dimensions.rst:234
+msgid "dimension 1"
+msgstr ""
+
+# d1e86665fae4492ab0216efd04bb1ba9
+#: ../source/dimensions.rst:234
+msgid "dimension 2"
+msgstr ""
+
+# cea84899ffd44bc8b0ae471d88ce5955
+#: ../source/dimensions.rst:236
+msgid "my-card.1"
+msgstr ""
+
+# 6b7a09a7bfb64074b091899532475247
+# aa020ffb084c45948dbc0144995a03d0
+# bdd0a237f4554531ad06bb46770e578b
+#: ../source/dimensions.rst:236 ../source/dimensions.rst:239
+#: ../source/dimensions.rst:242
+msgid "one"
+msgstr ""
+
+# e59d9293919f4a9b8c5b222137ea36a6
+# 0cf044f4ecb34d1e9a64596c784576ee
+# 9729246027ee473a98b1035d3eda2e2b
+#: ../source/dimensions.rst:236 ../source/dimensions.rst:237
+#: ../source/dimensions.rst:238
+msgid "red"
+msgstr ""
+
+# 8fa63dd6e31d40ccbaa6772dec73aadd
+#: ../source/dimensions.rst:237
+msgid "my-card.2"
+msgstr ""
+
+# 5a98ee2bf3db4c51bb7f155b49140acb
+# 240d76cc91604354a2113f30d4396a19
+# d7dd13eed1804e2fb7e8c87fa2d9d0ba
+#: ../source/dimensions.rst:237 ../source/dimensions.rst:240
+#: ../source/dimensions.rst:243
+msgid "two"
+msgstr ""
+
+# eae200307bec4df69df9518b1f96f65e
+#: ../source/dimensions.rst:238
+msgid "my-card.3"
+msgstr ""
+
+# b6465fe7d40f428fbf741e91a06f1647
+# d3185d6ed04744feb898218a14ff4de1
+# 4086f25fc5494b9288386f0e774200e3
+#: ../source/dimensions.rst:238 ../source/dimensions.rst:241
+#: ../source/dimensions.rst:244
+msgid "three"
+msgstr ""
+
+# 01ca7af2e0fe4930acc12def3fd1b818
+#: ../source/dimensions.rst:239
+msgid "my-card.4"
+msgstr ""
+
+# 98658b5fd0a3438689146631c4c8a31d
+# 02e949205ce248ac8bfdac01b7f0bdff
+# f0222e9392b047efa50e134c41e3df8b
+#: ../source/dimensions.rst:239 ../source/dimensions.rst:240
+#: ../source/dimensions.rst:241
+msgid "green"
+msgstr ""
+
+# 43ad271f2a9747a7a95aa7e65c0783ba
+#: ../source/dimensions.rst:240
+msgid "my-card.5"
+msgstr ""
+
+# c6cdb3a67d3c40eaa6cb7853eb4c7567
+#: ../source/dimensions.rst:241
+msgid "my-card.6"
+msgstr ""
+
+# 34e94c97f342428599ebef0e87ad213f
+#: ../source/dimensions.rst:242
+msgid "my-card.7"
+msgstr ""
+
+# ed172df77e064794ae082bbc697f7288
+# 073e5bf3ddb64f0eab8a6d3385c495b1
+# 0dda16ef77da47cb9724074bd79cbba8
+#: ../source/dimensions.rst:242 ../source/dimensions.rst:243
+#: ../source/dimensions.rst:244
+msgid "blue"
+msgstr ""
+
+# e262fcaadc85437c9f4637c618502751
+#: ../source/dimensions.rst:243
+msgid "my-card.8"
+msgstr ""
+
+# a7cea3752a4e428d943f3bf2eafaf67a
+#: ../source/dimensions.rst:244
+msgid "my-card.9"
+msgstr ""
+
+# 77da4535a0054290acf03c31576661cc
+#: ../source/dimensions.rst:247
+msgid ""
+"You load a set of custom cards from the Journal by clicking on the 'import "
+"image' icon |imp_img| and selecting any one image of your set. The rest will "
+"be loaded automatically."
+msgstr ""
+
+# 47dc9fdfa1f64c90929e331355c59f5c
+#: ../source/dimensions.rst:253
+msgid ""
+"The above cards were generated in `Turtle Art <http://wiki.sugarlabs.org/go/"
+"Activities/Turtle_Art>`_. The sample code is supplied with `Turtle Art "
+"<http://wiki.sugarlabs.org/go/Activities/Turtle_Art>`_: set.ta, the code "
+"generates a deck of cards and saves them as SVG to the Journal."
+msgstr ""
+
+# a037f76e28d44561b5ba9d819d5fb05c
+#: ../source/dimensions.rst:256
+msgid "Modifying Dimensions"
+msgstr ""
+
+# f00dfe0764df41149b8b4a60946c0455
+#: ../source/dimensions.rst:258
+msgid "Show me the code"
+msgstr ""
+
+# 99370b9cafaa4e6e99ea93fa84975384
+#: ../source/dimensions.rst:259
+msgid ""
+"You can explore the Dimensions source code [`cloning the project <http://git."
+"sugarlabs.org/projects/visualmatch/repos/mainline>`_] directly from git."
+msgstr ""
+
+# 1fe6fbf6277446108a49adeca1d1a0fc
+#: ../source/dimensions.rst:263
+msgid "Reporting Problems"
+msgstr ""
+
+# 9de6ef0abdea46dba8f1a11746624b52
+#: ../source/dimensions.rst:264
+msgid ""
+"There are several known problems with the current version of Dimensions:"
+msgstr ""
+
+# 50ce6c047c8c45c7b2e500ff8a3acc0f
+#: ../source/dimensions.rst:266
+msgid "Restore from Journal does not work on pre-0.82 versions of Sugar."
+msgstr ""
+
+# 3ec04f402c4e46af99e6b5b4ddbbe2c1
+#: ../source/dimensions.rst:267
+msgid ""
+"Chinese Cards don't display properly on some systems due to a missing font."
+msgstr ""
+
+# 07d2cc95e2c14926aa33b08651854878
+#: ../source/dimensions.rst:268
+msgid "There is no indication of whom found the match in group play."
+msgstr ""
+
+# 174228b572bc49028425f2e138c00c94
+#: ../source/dimensions.rst:270
+msgid ""
+"If you discover a bug in the program or have a suggestion for an "
+"enhancement, please `file a ticket <https://bugs.sugarlabs.org/newticket?"
+"component=Visual+Match>`_ in our bug-tracking system."
+msgstr ""
+
+# 5bc25d55d1964c0eb2ddedf13a331997
+#: ../source/dimensions.rst:272
+msgid ""
+"You can `view the open tickets here. <https://bugs.sugarlabs.org/query?"
+"status=accepted&status=assigned&status=new&status=reopened&component=Visual"
+"+Match>`_"
+msgstr ""
+
+# bee8a7f9cb974ec68ff49c3ae710027f
+#: ../source/dimensions.rst:276
+msgid "Credits"
+msgstr ""
+
+# 35a5f04906f146dc8212c3bf651464d5
+#: ../source/dimensions.rst:277
+msgid ""
+"Dimensions was written by `Walter Bender <http://wiki.sugarlabs.org/go/User:"
+"Walter>`_ and the students from his 2009-2010 freshman seminar at MIT: "
+"Games, Puzzles, and Other Things to Think With. Special thanks to Michele "
+"Pratusevich and Vincent Le, as well as Mark Battley."
+msgstr ""
+
+# 5f606656f996441da20e69a6041d142c
+#: ../source/dimensions.rst:281
+msgid "References"
+msgstr ""
+
+# f191c221dcc64c06a112f02c83745592
+#: ../source/dimensions.rst:282
+msgid "`Wiki page <http://wiki.sugarlabs.org/go/Activities/Dimensions>`_"
+msgstr ""

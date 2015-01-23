@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 9f0790d15889412ca798823f8dcdf057
+# dac4678adeef48b2a49d7bc964f58cf6
 #: ../source/write.rst:3
 msgid "Write"
 msgstr ""
 
-# b1d30687e26a45c2ab31971f07a230b2
+# 40d214ac5a2046f2a67d35529da36884
 #: ../source/write.rst:6
 msgid "About"
 msgstr ""
 
-# 5e982aea4015428892b66c452d3217e9
+# 8e78273db4e84088ba123043896d6d63
 #: ../source/write.rst:8
 msgid ""
 "The Write Activity serves as the document creation Activity in Sugar. Its "
@@ -37,57 +37,57 @@ msgid ""
 "layout operations."
 msgstr ""
 
-# 62b026c7350c4e6997e7792366690a09
+# affc147f27be426c91880770379d8970
 #: ../source/write.rst:10
 msgid ""
 "Write utilizes the :doc:`/journal`, your work is automatically saved, and :"
 "ref:`Collaboration` in the form of peer editing, group storytelling, etc."
 msgstr ""
 
-# e2f6bf194cdb4e2d86c41656aac3a5b7
+# fa2c3469e7a64b56851c34ffe1aa8694
 #: ../source/write.rst:12
 msgid ""
 "The Write Activity can be used to open and edit most common file formats, "
 "including ODT, DOC, RTF, TXT, and HTML."
 msgstr ""
 
-# 6dba100463674c9bb983bf6392168f4d
+# 42da7757a1f4491786d6cb4e848510cb
 #: ../source/write.rst:14
 msgid ""
 "Write is included in OLPC images and can be downloaded from `ASLO <http://"
 "activities.sugarlabs.org>`_, search for Paint."
 msgstr ""
 
-# f704f92bd24545889e4c5a12594b8bd9
+# 0cdb54bc589e4db39d90f41716d98eaa
 #: ../source/write.rst:17
 msgid "Using"
 msgstr ""
 
-# 43a0870fb13d4c5cacadb308deefd3f8
+# d448df63a4cd4a9793a7ea41dc8e6926
 #: ../source/write.rst:19
 msgid "Here Write has been used to produce some colorful text."
 msgstr ""
 
-# 737fe2535b69404ebf1778641f4b8ced
+# 4e2ef6a95e3f452e8529015a9bebd075
 #: ../source/write.rst:24
 msgid "The Toolbars"
 msgstr ""
 
-# b9be9816012a4254b80c12a73596f8ca
+# da54da740ee945ca926aa87fc94bd25b
 #: ../source/write.rst:26
 msgid ""
 "**Tip** Use the :ref:`say_selected_text` feature to have robot Alice read "
 "aloud this page in the background, while you explore the Write Activity."
 msgstr ""
 
-# 95bd4898e83041c68bb15926f1b641c1
+# e8d0166b0dfa40dba63ab8b3e4fcad58
 #: ../source/write.rst:30
 msgid ""
 "We look first at the nine buttons in the top row of the toolbar. The buttons "
 "open the corresponding tab or toolbar."
 msgstr ""
 
-# eabc2017177c42b8ba413533e98c43e9
+# d843502fd8e042fb819f9189ca516b6e
 #: ../source/write.rst:32
 msgid ""
 "Activity tab, or button, here you can enter a name for the page or project. "
@@ -95,363 +95,363 @@ msgid ""
 "journal` entry. Thirdly select Private, or My Neighbourhood."
 msgstr ""
 
-# 750e20aa1c224eeaae81f33ec6d50b15
+# 7efb7a6fc1e544ab9af5e31c87a965ec
 #: ../source/write.rst:33
 msgid ""
 "The Edit button: Allows to Copy, Paste, Undo, Redo, and search inside your "
 "document."
 msgstr ""
 
-# 289c0bc2f66c4851b8ac604c5d9ef66d
+# 9ccd648efdff46c0a7397d74b283d4ef
 #: ../source/write.rst:34
 msgid ""
 "The View button: Allows you to zoom in and out of the document and to "
 "navigate through the pages quickly."
 msgstr ""
 
-# 8a3f6b70ee9e4a3f86091fcf04b9e10b
+# 324518432d7041fabdcfea3fe23ee217
 #: ../source/write.rst:35
 msgid ""
 "The Speak button. You can have Speak, robot Alice, read your work aloud."
 msgstr ""
 
-# 6eb70cb1a42b43c796b9c60ac94744f6
+# 871a9d7cefad409883952a3ae6924bf8
 #: ../source/write.rst:36
 msgid ""
 "The Fonts button: Allows you to change the font, size, empphasis, colour and "
 "justify."
 msgstr ""
 
-# cce4014098e34c6195787279b59c0e9d
+# 5edd058136b14241b46f5f77caad3943
 #: ../source/write.rst:37
 msgid "The Paragraph button : Allows you to set heading and list styles."
 msgstr ""
 
-# 6eb70cb1a42b43c796b9c60ac94744f6
+# 270c90eed2194b4a892e7891ed33ca14
 #: ../source/write.rst:38
 msgid "The Insert table button : Allows you to insert and adjust a table."
 msgstr ""
 
-# 6eb70cb1a42b43c796b9c60ac94744f6
+# b55f38cf3f2c4d44beced88cd606d06c
 #: ../source/write.rst:39
 msgid "The Insert Image button : Allows you to insert images."
 msgstr ""
 
-# c1a32f788ea2460ea58a6f7110810aa4
+# 44b9250c5c7e47428a80ca459db4fb4d
 #: ../source/write.rst:40
 msgid "Stop or clpose the Activity."
 msgstr ""
 
-# a296687621534411b2e721181981ea80
+# 191b0d09c52e4b558e5a17b83ba5dd4e
 #: ../source/write.rst:43
 msgid "The Toolbar Sub Menus"
 msgstr ""
 
-# 02b9092bb6064581badc90aa69d56d92
+# 53acd84639034e848b04c2818b9c7e27
 #: ../source/write.rst:46
 msgid "Activity button (1)"
 msgstr ""
 
-# 41ca36d7efb745f2b3b8603b71016c0e
+# d2128f3e91bc4f6092c0c15077fd3637
 #: ../source/write.rst:50
 msgid ""
 "Allows you to name your file. Click the cursor in the field, the existing "
 "text is selected, and a new file name can be entered."
 msgstr ""
 
-# 943d0c8d20db41ad9b1cd2d2755b0218
+# 04428fa60ca7492c892ef8c492a2b79b
 #: ../source/write.rst:51
 msgid ""
 "The \"pencil and book\" icon, the Description button allows you to add a "
 "description to the :doc:`/journal` entry."
 msgstr ""
 
-# 9a91a014187047b9bdea0decc523272a
+# 2a7a8fcc647d4b5187f6dbc7f7781ced
 #: ../source/write.rst:52
 msgid ""
 "This button is the collaboration, or sharing \"switch\". The options are"
 msgstr ""
 
-# 9581d32bb5b4481f841275f11465d728
+# 03290deb7d124ab5a2c6cba056c642c9
 #: ../source/write.rst:54
 msgid ""
 "|Home_key_f3_small.png| Private, this is the non-sharing option, with no "
 "networking."
 msgstr ""
 
-# 387e864969bd457483f4763eafc0502d
+# 06d290c8a1b144779a2d51d79c816c8a
 #: ../source/write.rst:58
 msgid ""
 "|Neighborhood_key| My Neighbourhood, this is the sharing option, that is, "
 "networked with others."
 msgstr ""
 
-# e7064921bdb54622a356818837b63dd2
+# ef835a141bac4889b79d0e09e27a06fd
 #: ../source/write.rst:62
 msgid "See also below, :ref:`Collaboration`."
 msgstr ""
 
-# 8230ff4ffb004bec94c67cf1fbc8091f
+# ec83113c68a74f8c92240e96dd15c448
 #: ../source/write.rst:64
 msgid "Export, or Save in Rrich Text Format."
 msgstr ""
 
-# 532aaab465864733becf59d22b2e94cb
+# 932eae7580484e68a1875f0cda82b09d
 #: ../source/write.rst:65
 msgid "Export, or Save in HTML."
 msgstr ""
 
-# efd7974ded9a4263be4e68b21fefee9e
+# a0e01a7f848f409ab33f059b84c46b27
 #: ../source/write.rst:66
 msgid "Export, or Save in Plain text."
 msgstr ""
 
-# d482a9baa7fd4db18f53672000e4188d
+# b82780182e984ea2ae37c2159b6819be
 #: ../source/write.rst:67
 msgid "Export, or Save in Portable Document Format."
 msgstr ""
 
-# d1759da6b9124a0d811f9e64a02338db
+# 18a8f0267d91405092c1df5471d7b8fb
 #: ../source/write.rst:70
 msgid "Edit button (2)"
 msgstr ""
 
-# 75783c6879d540048fdc7aeb745c4359
+# 6943b3fc625c40de959d58d5c562bd84
 #: ../source/write.rst:74
 msgid "Copy"
 msgstr ""
 
-# 7f657134d620473f8ff818c11d88662e
+# 5c36443d963149008743e4a1eae12a41
 #: ../source/write.rst:75
 msgid "Paste"
 msgstr ""
 
-# e59fd37b20fc4b899c0ebeb038f7a70c
+# f9c04335a7764715aa1ccdd68298b8e1
 #: ../source/write.rst:76
 msgid "Undo"
 msgstr ""
 
-# ca13650509f346d2bf326f6027f852be
+# 53bcd5c1478a494fa8a0c4df6bce3f69
 #: ../source/write.rst:77
 msgid "Redo"
 msgstr ""
 
-# b8fcc26170114a53bbbf06c7ea1e68fa
+# e43352e6c6a24efcad6374e071946b92
 #: ../source/write.rst:78
 msgid "Search"
 msgstr ""
 
-# bf8a32ab4e364cb184c5c72dd95c5893
+# 5dbf070a387d49a387a0a934aa6d17b3
 #: ../source/write.rst:79
 msgid "Back"
 msgstr ""
 
-# b47a9525c413463aab4196e297d6b98d
+# 532d003c69e842cb8f4e8f19079e87c8
 #: ../source/write.rst:80
 msgid "Forward"
 msgstr ""
 
-# 73f50289d9034424b1f118c7abe8fa47
+# 10467c97f6414ed398fca46002406155
 #: ../source/write.rst:83
 msgid "View button (3)"
 msgstr ""
 
-# 6b1ccef6304b41f19030c6e1ebb67b8a
+# 2152ae017e834a61adaa2de61ae2fbe1
 #: ../source/write.rst:87
 msgid "Zoom out"
 msgstr ""
 
-# bcc47ed5c55e468d9b610f43473c597f
+# fa79a6c2b3864a5bb749a605825c1dfe
 #: ../source/write.rst:88
 msgid "Zoom in"
 msgstr ""
 
-# 6af6664119324ad5bcb8bd30c962d8b2
+# 61999462f41040d7b59172688ed1d8f9
 #: ../source/write.rst:89
 msgid "Zoom to width"
 msgstr ""
 
-# a1a2be93e4004370ad7d3dc60d50a6a1
+# 792b1fb58251464ebb6996e15e6a3c33
 #: ../source/write.rst:90
 msgid "Set Zoom"
 msgstr ""
 
-# c3862c362d524ae2ab8cd6d1aeff3fa2
+# a36b4fbefa4e466a974660cf9533f107
 #: ../source/write.rst:91
 msgid "Quick page navigation"
 msgstr ""
 
-# af622d01c0ae4d32a43950ac3eac917f
+# 46c4d179f1704318857b49d38e800e0b
 #: ../source/write.rst:94
 msgid "Speak button (4)"
 msgstr ""
 
-# 7bd6a4d651534c36ab3d34ede0564857
+# ad1d47e16b6745f891c279708c998c50
 #: ../source/write.rst:98
 msgid ""
 "Play / Pause the Speak function, robot Alice will read aloud any text which "
 "you select. See :ref:`say_selected_text`."
 msgstr ""
 
-# 7d1f709b97034246b17be1752eb40a3a
+# a917127d9ca94402990cf0f89467616e
 #: ../source/write.rst:99
 msgid "Stop robot Alice."
 msgstr ""
 
-# b0c5efd6aebb45248c3b5e95ceb73559
+# 283550203c2f4aa89764158862e4f61e
 #: ../source/write.rst:100
 msgid "Select robot Alice's language."
 msgstr ""
 
-# 15cdef50e40a48feb74fa5ffad3a88ac
+# 7337ad575bde4ae28e0b5ae4add7d5b4
 #: ../source/write.rst:103
 msgid "Fonts button (5)"
 msgstr ""
 
-# 6379c972e52a4fa9ae83b61307841cc0
+# f6d3a73152e544e18cc81de409226573
 #: ../source/write.rst:107
 msgid "Name of font"
 msgstr ""
 
-# a753330e3483407990bf5474f8889133
+# 4e0269cfcd4f4228a0db929ce6bc055b
 #: ../source/write.rst:108
 msgid "Size of font"
 msgstr ""
 
-# 50da761964ab41f49b3a380ba154d683
+# f9df40890dcd4fd8b57bb172b7af74cc
 #: ../source/write.rst:109
 msgid "Bold"
 msgstr ""
 
-# 956d223482e64af1b79b26cee86d2433
+# 83f4b6035170410dbddb6dbbae59d838
 #: ../source/write.rst:110
 msgid "Italic"
 msgstr ""
 
-# f69f67cb6beb460c9119da0f0dd45afe
+# b9710ca7e7534124be55ae4d5b3add22
 #: ../source/write.rst:111
 msgid "Underline"
 msgstr ""
 
-# 545da65760714e4dad30e5a46c32b951
+# b1312e3754cd41619613069e74d159ef
 #: ../source/write.rst:112
 msgid "Choose a color"
 msgstr ""
 
-# 27d31ff9de874d5283491430d0493114
+# 1e3abc5db8d54685841444d1be612d2d
 #: ../source/write.rst:113
 msgid "Justify your text to left, centre, right, or fill justify."
 msgstr ""
 
-# 9c2043296fd845f980eefe1eed4d896b
+# 5f85dba56fa24624991e7b31a23ce132
 #: ../source/write.rst:116
 msgid "Paragraph button (6)"
 msgstr ""
 
-# cf4920d35193454a966e493aa45c8469
-# 08d40380f7a841f1a8fa230d03c59bb1
+# 2cbe178700594eef8bc3257a6a62a06a
+# f2571d222f5e4c3d889d390cf78fe3cf
 #: ../source/write.rst:120 ../source/write.rst:129
 msgid "Normal"
 msgstr ""
 
-# 1a0778ba63ac407d848e1ae5eb50b8b5
+# e74a05eba5094d1daa57e1d18bf28636
 #: ../source/write.rst:121
 msgid "Heading 1"
 msgstr ""
 
-# 2cefce637c0d4be7b9c0bfcd14c40a6a
+# 1b16b2af392244b7b05661338f06bbae
 #: ../source/write.rst:122
 msgid "Heading 2"
 msgstr ""
 
-# 0bf249727fa74c20b6eb8da2510e39e1
+# 5e13f4769b8944aabe0f2124aae7a605
 #: ../source/write.rst:123
 msgid "Heading 3"
 msgstr ""
 
-# e04910d70fa6487d86e463dacd5cbee8
+# d2c6aa12cec64525904596e36473b860
 #: ../source/write.rst:124
 msgid "Heading 4"
 msgstr ""
 
-# c626e15017ac410bb0be8eae6904799d
+# e9d4491f99544ec3a588437469a77eda
 #: ../source/write.rst:125
 msgid "Block Text"
 msgstr ""
 
-# b6b342fd9d4449ff99f9c14c9f4bffed
+# d89c4b9c68db4ef29dc23086889ad77f
 #: ../source/write.rst:126
 msgid "Plain Text"
 msgstr ""
 
-# 32a407e7ab3448c1bf99892e695b95b7
+# bbde7eb9db8b480ca1e340d186a8ccc3
 #: ../source/write.rst:127
 msgid "Select list:"
 msgstr ""
 
-# 3bb599ce9a374fd887b550301f2e4a5a
+# 8f1815dfb56a4e0a820a3a577e190f67
 #: ../source/write.rst:130
 msgid "Bullet List"
 msgstr ""
 
-# 85371aec79e84ff4bea1be6a8380e3fd
+# 4e933aa629864ed784de49ddc8dec7af
 #: ../source/write.rst:131
 msgid "Dashed List"
 msgstr ""
 
-# 354180dcad674b64bd884eac10b5e5f4
+# e9267e272a0d49ca9daf3ee4c8fa4759
 #: ../source/write.rst:132
 msgid "Numbered List"
 msgstr ""
 
-# b829661bbec4422f8e1c0c2fe6cce70f
+# 7607a9a6341b450f9e9fde9ecda679ce
 #: ../source/write.rst:133
 msgid "Lower Case List"
 msgstr ""
 
-# 01df81f47df549c18b5de308df664cd7
+# 3c673ba142274c8d96e0162496445a11
 #: ../source/write.rst:134
 msgid "Upper Case List"
 msgstr ""
 
-# 1d90d4416d1c4f53b0887b75d2e1db4a
+# 5c1f336adf5942a99744c3c378540998
 #: ../source/write.rst:137
 msgid "The Insert Table button (7)"
 msgstr ""
 
-# ae6753bc38d9466cae7d3dd5b68a7867
+# ed76a8b4278547798525cb811d2e6dc9
 #: ../source/write.rst:141
 msgid ""
 "Create table, in the grid you select the number of rows and columns you want "
 "to appear."
 msgstr ""
 
-# 56601f1640304cf3956f1214f810a885
+# 48645b5b762c4178a1d3b1dee48a05e5
 #: ../source/write.rst:142
 msgid "Insert row."
 msgstr ""
 
-# 5b957001a9674147977a96663a854ecc
+# de29148bfc3647c691fa8812ccfd1401
 #: ../source/write.rst:143
 msgid "Delete row."
 msgstr ""
 
-# e59900e21a4f419a834b2def46fb0f81
+# 0034f8b783e04897bc2db2f9f9e10672
 #: ../source/write.rst:144
 msgid "Insert column."
 msgstr ""
 
-# dad771e0987c4e93b8d9187bc44c51ee
+# 7a883072d52c4d57bd5493f3beb3baf0
 #: ../source/write.rst:145
 msgid "Delete column."
 msgstr ""
 
-# 6df951a71a444c28adb89232e5f771b4
+# 4f59ea26a0d44a3aad5ff76bece6e727
 #: ../source/write.rst:148
 msgid "The Insert Image button (8)"
 msgstr ""
 
-# 9e5339cf47394676b8de43b1995a8119
+# 7f34837a8d6a46e6a87154363c8c75ec
 #: ../source/write.rst:152
 msgid ""
 "This button opens the Journal, or attached media, in \"search image mode\". "
@@ -461,60 +461,60 @@ msgid ""
 "reliably. Use this mode only to place images in tables."
 msgstr ""
 
-# cc4488e864b44afbb3fcb84adf23c261
+# 8bdbaa812be54259ba65c540fc7db3f6
 #: ../source/write.rst:154
 msgid ""
 "A checkbox allows to have image floating. In floating mode, the text will "
 "flush around the image, and the image will stay fixed in one place."
 msgstr ""
 
-# 4bfbee8afce5423485d792a902e928bb
+# 565994b83b05444b84d8b0e15ce9fca6
 #: ../source/write.rst:159
 msgid "Collaboration"
 msgstr ""
 
-# a41c69e81aa040f18dbf1856f85105dc
+# 68c45d1d9c8f452187a7a5e99a9ebec3
 #: ../source/write.rst:161
 msgid ""
 "The Write Activity supports collaborative (peer) editing, which means that "
 "multiple people can edit the same document at the same time."
 msgstr ""
 
-# 009d8b39c27a40d48d85eebe8cad3c55
+# d2847f8984f440098181bdaf7ebd29ee
 #: ../source/write.rst:163
 msgid "To start a collaboration, either:"
 msgstr ""
 
-# 443bed462c67489e841a32093585c1f1
+# 0cc1be8ab1824c1696a0896d910e94cd
 #: ../source/write.rst:165
 msgid "send an invitation, or"
 msgstr ""
 
-# 17d1876430cc4e959b874bce791e1729
+# 2fb8eb830ed64816afca535ed5f98c4e
 #: ../source/write.rst:166
 msgid "share with the Neighborhood"
 msgstr ""
 
-# d3f04417596d44c3bce3011322728efa
+# 4a883e84cf6648879ea4edfe9a8cfd01
 #: ../source/write.rst:168
 msgid ""
 "As with all Sugar Activities, invitations go to specific individuals, but "
 "sharing is open to anyone in the Neighborhood View."
 msgstr ""
 
-# 13b606198ffa4e049eacf9b797d76805
+# 5f77e93894db4d3587025b7d4bdd9d02
 #: ../source/write.rst:170
 msgid ""
 "|more| For more on this subject, please see the chapter in this manual on :"
 "doc:`/collaborating`."
 msgstr ""
 
-# d3a1bdcee0924ff1be93bc4183d09c1d
+# d25d655200f844eca8d30b01429d68ed
 #: ../source/write.rst:176
 msgid "Note to parents and teachers"
 msgstr ""
 
-# 255a2c1a1616432196eb1c53b0deb2ce
+# 8715cb2afad6441698180bc118564ab5
 #: ../source/write.rst:178
 msgid ""
 "Collaboration is a powerful feature of Write, but it is recommended that "
@@ -525,12 +525,12 @@ msgid ""
 "objects tend to get scrambled."
 msgstr ""
 
-# 3ec21b8c67c742e6b9b0eeac4d06f8b4
+# 9ccb066b6a344f65a77f03cec8cb1f49
 #: ../source/write.rst:181
 msgid "Group Storytelling"
 msgstr ""
 
-# d57d2ea8cb404622aaa0e42d51da46d0
+# 980abc6ae88d43fca79ca04433924071
 #: ../source/write.rst:183
 msgid ""
 "The Dadaists, a cultural movement that began in Europe towards the end of "
@@ -542,19 +542,19 @@ msgid ""
 "what the previous person contributed."
 msgstr ""
 
-# 8b88000a2c13438e857183349938b696
+# 52feb95d5afb447890aee780a309c2f5
 #: ../source/write.rst:185
 msgid ""
 "A shared instance of Write can be used in a similar way to create a "
 "collaborative story, poem, rhyme, or group stream of consciousness."
 msgstr ""
 
-# dc8ff538a2234500807c7ec8067b05ac
+# 3d9a5caf2bee436abde6a611e9958f38
 #: ../source/write.rst:188
 msgid "Using Write for group storytelling"
 msgstr ""
 
-# 2edce445a47c4e8797d3966f1fc4f52b
+# a48f327d862749fe878eaefd0320aeb5
 #: ../source/write.rst:190
 msgid ""
 "It is fun and easy to use Write for group storytelling. Simply share a "
@@ -562,48 +562,48 @@ msgid ""
 "document and adding to the story."
 msgstr ""
 
-# 86f5d387069e4ba69db057851d79fc4d
+# 5b58dbe757804d56a7e06d837a99ea0a
 #: ../source/write.rst:192
 msgid "**Steps:**"
 msgstr ""
 
-# 79b9fee023294976be2aa5991231ca44
+# 82a2d84abec2466bb2186a41190ac947
 #: ../source/write.rst:194
 msgid "Open a document in Write."
 msgstr ""
 
-# 3e0c035d6326406ab6ca381275242040
+# 8f674a4a9c4246178b5cd609aa709657
 #: ../source/write.rst:195
 msgid ""
 "Type in a rule on the first line for everyone to follow. (Some examples are "
 "listed below.)"
 msgstr ""
 
-# 3e3d174843d14972be4326a77fa8157c
+# 7a9bf812a5a34452ba91782d7006f1c7
 #: ../source/write.rst:196
 msgid "Go to the Activity tab."
 msgstr ""
 
-# 00567fb9eb1647f98ae31530f86b325e
+# cc8458ea5c3e4de0a35b416292c12b77
 #: ../source/write.rst:197
 msgid "Select \"Share with Neighborhood\"."
 msgstr ""
 
-# ac04c39286fc490aba557b81fe577e6e
+# 0ee790815c4a4168a4c510fe5ab5d8b6
 #: ../source/write.rst:198
 msgid ""
 "One at a time, each person in the group should open the shared document by "
 "clicking it in the Neighborhood View."
 msgstr ""
 
-# 0b4c23bad687489cb03b336653514dcc
+# d97106e608904985bd4bc96f4bec2850
 #: ../source/write.rst:199
 msgid ""
 "During their turn, they should follow the rule to add to the end of the "
 "story."
 msgstr ""
 
-# 305b15e580894b8491b20b064db1e909
+# b8f5f2a1b9d046dab36954bbfb8451ad
 #: ../source/write.rst:200
 msgid ""
 "They should exit Write after they have added to the story. (Important: the "
@@ -611,60 +611,60 @@ msgid ""
 "everyone has taken their turn.)"
 msgstr ""
 
-# 222b079c902544e8b9bbb5c3c1abb006
+# c82f279dc8284a82a296b37749c8dde3
 #: ../source/write.rst:201
 msgid ""
 "After each person has added to the story, the person who started the story "
 "should read it aloud to the group."
 msgstr ""
 
-# e0bc5649813a4441b4a0cbf70833f0b7
+# c0d983f7bd9644878cf04d596978ab94
 #: ../source/write.rst:203
 msgid "**Examples**"
 msgstr ""
 
-# 271eda4f269a46b1b20dc079bed20d96
+# 5f8b281c847d42a58ef55c8817f14764
 #: ../source/write.rst:205
 msgid "Add a sentence that continues the theme of a story."
 msgstr ""
 
-# ebd99c8a8ea24771bfc98091790dce8d
+# b2d3f4232cc445848269b367d9fd930b
 #: ../source/write.rst:206
 msgid ""
 "Add a new sentence that starts with the last word of the sentence that comes "
 "before it."
 msgstr ""
 
-# 72b3ced6a34148a88cdf5c08eee12b1f
+# 3293389e25d64fed93c28670f6ef36f0
 #: ../source/write.rst:207
 msgid ""
 "Add a new word that begins with the same letter as the last letter of the "
 "word before it."
 msgstr ""
 
-# db025bbe46704cfcb35c67abd1edfdde
+# 6fba08ff1fd344c0934ee701f5feb6d3
 #: ../source/write.rst:208
 msgid "Add an adjective after a noun, a noun after an adjective."
 msgstr ""
 
-# 74414dc6fcbc4018bb2d241e43636db7
+# 9cd7183935a04faf8a1c7d1b13deb481
 #: ../source/write.rst:209
 msgid ""
 "Add a word with one more letter than the word before it (this gets hard for "
 "a large group!)"
 msgstr ""
 
-# ab186b9b713d459cb8107431851bcd65
+# f82cf22186ca4ca2b7eaaefd23aae107
 #: ../source/write.rst:210
 msgid "Add words in alphabetical order."
 msgstr ""
 
-# b519c25f791c40fea2499ffee5f18971
+# 6e29f482500347f48346b1f921d87099
 #: ../source/write.rst:213
 msgid "Letter to the Editor"
 msgstr ""
 
-# 53eed8d7039d439c960c7a7435520718
+# a3b0d640f200496fa2cc2f481e797e94
 #: ../source/write.rst:215
 msgid ""
 "Writing is one of the most powerful means of personal expression ever "
@@ -672,7 +672,7 @@ msgid ""
 "true through out history."
 msgstr ""
 
-# b1faf4bb909749e598a9eaf188ebae5e
+# 7d158bee7ab04c5a82ab9326624832e7
 #: ../source/write.rst:217
 msgid ""
 "It is important that the world hear your voice and you can make you voice "
@@ -681,7 +681,7 @@ msgid ""
 "expression as well as the means to share your expression with others."
 msgstr ""
 
-# 5a9ded6e39da4185af8b4732f0bbcd81
+# bf67dd1ddb224f4c9090807e117014bf
 #: ../source/write.rst:219
 msgid ""
 "If you want to write a letter to the editor, you first need to look in the "
@@ -695,19 +695,19 @@ msgid ""
 "the available space on the page."
 msgstr ""
 
-# 09288e6e17da4e648e8de387abfbb714
+# 032533233e274c7caff4ff63a0d1b881
 #: ../source/write.rst:221
 msgid ""
 "If you keep your letter short and to the point, you have a better chance of "
 "experiencing the thrill of seeing your own words in print. Good luck!"
 msgstr ""
 
-# 4a07aa751d004e95877759ad48fc6ff9
+# e9227fb5ecb34c108d8d4b3fccd9c72f
 #: ../source/write.rst:224
 msgid "Examples"
 msgstr ""
 
-# fc72e8fbfa02479da76f0d6dcca90722
+# f0ce8e0313ab4ecfb026310a768e2801
 #: ../source/write.rst:226
 msgid ""
 "Children in the Galadima School in Abuja, Nigeria used Write to write "
@@ -715,21 +715,21 @@ msgid ""
 "improve the conditions of school for all the children of Nigeria."
 msgstr ""
 
-# e1e1d358ab2942dcb4f5d6511ea253c6
+# 36b82d7671f84f59966ce626885c04ad
 #: ../source/write.rst:228
 msgid ""
 "Children in Ban Samkha, Thailand used Write to share ideas with their "
 "teachers, their families, and their community."
 msgstr ""
 
-# 223c74cf8eb4451697b13665a4736c76
+# d8600a6884184c3c963f81f139730b77
 #: ../source/write.rst:230
 msgid ""
 "Children in Khairat, India use Write (and Record) to survey their village "
 "and compile a report to the community."
 msgstr ""
 
-# 07a79de488eb427f8afceb7e802ecee2
+# 53cbb45892384621917c00b8b8faedd3
 #: ../source/write.rst:232
 msgid ""
 "Children in Uruguay and Colombia are writing blog entries, also known as "
@@ -737,37 +737,37 @@ msgid ""
 "stories."
 msgstr ""
 
-# d5207e79c3fc45099013640324c337f6
+# ca2fb7f845d243469e159490235346d6
 #: ../source/write.rst:235
 msgid "Other learning activities"
 msgstr ""
 
-# 9cad0255fa99490d8d39e750db3cb917
+# 4b9050b7634f4b95a8831b8f4e298a37
 #: ../source/write.rst:237
 msgid "Start a school newspaper."
 msgstr ""
 
-# 708d92169718496f8fc01edc45f49bdc
+# 9777ee1fdfd74b4ca622c7c9181d33f4
 #: ../source/write.rst:238
 msgid "Write an autobiography."
 msgstr ""
 
-# f5774bbc77464ead9eab7c9498f29d5e
+# 6dd09d6e62dd414f9332eac23c580a92
 #: ../source/write.rst:239
 msgid "Interview someone from your community."
 msgstr ""
 
-# 36b7abbad93742c4a648bda2ab76ca48
+# 16dfd57268f64649b7b40440909564c1
 #: ../source/write.rst:240
 msgid "Write an article for the Wikipedia about your community."
 msgstr ""
 
-# 6d1a5653a43b475b8ffc619255764668
+# d5e68a8302a2456f8bf274a925488f6d
 #: ../source/write.rst:243
 msgid "Credits"
 msgstr ""
 
-# 4ec2a6268eb94941887d0cb533e19cc7
+# 183cc4373e7144f083bd0fb348704c45
 #: ../source/write.rst:245
 msgid ""
 "Write is based upon Abiword; the Sugar port was done by J.M. Maurer, Martin "

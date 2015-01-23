@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,46 +17,46 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# f80137a47f074e2e8e3c810c4e19eafd
+# 47e5061d76da4afead58d94b76e53e6e
 #: ../source/maintaining.rst:3
 msgid "Maintenance"
 msgstr ""
 
-# 3f4c74192d034189a8544ad8b718d7ba
+# 1084aa05ef9b4b6aa20474d52382f74d
 #: ../source/maintaining.rst:6
 msgid "Maintaining your XO"
 msgstr ""
 
-# 4d23dfca193d46e8bf9041c14e874434
+# 4596168184d244f3af0afcceff73ee5e
 #: ../source/maintaining.rst:8
 msgid ""
 "Although your XO is tough, try to keep it dry and clean. Here are some tips "
 "for taking care of it:"
 msgstr ""
 
-# 30ee415ddb2544d1969526c9d7b19a23
+# ee7d2469875b4ed1ab6064fc07e22805
 #: ../source/maintaining.rst:10
 msgid "Carry it carefully to avoid dropping it."
 msgstr ""
 
-# 6f456c1b2ba84e85a6693b06882a69d4
+# aee895976b7f418aa9ee2654cb043113
 #: ../source/maintaining.rst:11
 msgid "Don't step on it or sit on it."
 msgstr ""
 
-# ee0a64d0c15b43f49beeac9cc9b81ef4
+# f6fe243295b247ccaa28d082ca57999b
 #: ../source/maintaining.rst:12
 msgid "If it gets dirty, wipe it with a damp cloth and dry it."
 msgstr ""
 
-# 77e8ce62e9194574898f3811af92cf38
+# 92f91483a47c423d87c9228c0ebb3609
 #: ../source/maintaining.rst:13
 msgid ""
 "Do not dip it into water. If it gets wet, such as from rain, let it dry "
 "completely before using it."
 msgstr ""
 
-# 28e097f4a0594f068fb9c9495af03ff7
+# 51d98a15e8d6461d98cd9e88b47f80d0
 #: ../source/maintaining.rst:15
 msgid ""
 "The XO laptop has no hard drive and only two internal cables. With care it "
@@ -67,7 +67,7 @@ msgid ""
 "Internal bumpers protect the screen display by cushioning it."
 msgstr ""
 
-# d68ab28c67b94c7db5133a8d38b6ce1d
+# a5e6add36e9a400da5d2301083fba2a5
 #: ../source/maintaining.rst:17
 msgid ""
 "Sometimes, It happens that the keys you are pressing appear somewhat dark "
@@ -75,7 +75,7 @@ msgid ""
 "single key for long. And wipe it with clean cloth to clean it."
 msgstr ""
 
-# ac21d3e34e204898a03f679d1062c624
+# 85e949b72d29451995e4db8e75bcbee3
 #: ../source/maintaining.rst:19
 msgid ""
 "Maintenance of the XO hardware involves updating the software and firmware "

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# c4297bda974d4e61a597acc6d6b78ae2
+# 565fe13cb1e94df599c7c887f421036c
 #: ../source/chat.rst:3
 msgid "Chat"
 msgstr ""
 
-# df303d52b5cc47bd82823e65a28ecc55
+# 44fc9d1e1de8455d9d2528eb0400cb61
 #: ../source/chat.rst:6
 msgid "About"
 msgstr ""
 
-# 2a149434af0a4b4596f7a688b9017cd0
+# 03f1ade2019a4ee380316dac25e19cbf
 #: ../source/chat.rst:8
 msgid ""
 "The Chat Activity is used to exchange messages with your friends or "
@@ -36,17 +36,17 @@ msgid ""
 "XOs to chat - your own and the one that your friend uses."
 msgstr ""
 
-# 8d284fc243894469a5ebc8d2c384a0b0
+# 5383fe05a7414224aea8ee94363960d1
 #: ../source/chat.rst:13
 msgid "Using Chat"
 msgstr ""
 
-# daac80399a5c47d68b5322c997ad03e6
+# febc00065d764dbcb24a06d87d11d216
 #: ../source/chat.rst:16
 msgid "Starting Chat"
 msgstr ""
 
-# eb1da93972de41e889edce83fef5628d
+# 161b621f15f5409bb7f786a7d62684b8
 #: ../source/chat.rst:18
 msgid ""
 "Chat creates text conversation with others XO users. Chat is a shared "
@@ -54,7 +54,7 @@ msgid ""
 "those connected to your olpc mesh network."
 msgstr ""
 
-# 06b02b8b155f4094b8f969e0545d69d6
+# 1299820a002946679c8d4bad0e873ec6
 #: ../source/chat.rst:20
 msgid ""
 "The Chat Activity icon is a speech bubble. To add the Chat Activity to your "
@@ -62,26 +62,26 @@ msgid ""
 "Chat icon to start."
 msgstr ""
 
-# cad28e1b429d407990c9c310c014ee40
+# 80637e14e6b648ddb00ffd0bbb2423de
 #: ../source/chat.rst:25
 msgid "Sharing Chat"
 msgstr ""
 
-# 864ec0865a6a44db884028ae5e534d54
+# f3fbcd9c9c59440bb45ed33b9e264d5f
 #: ../source/chat.rst:27
 msgid ""
 "You can either share Chat publicly or keep it private and invite specific "
 "people to join."
 msgstr ""
 
-# bfca187d8191452eb93e7540e001ca7a
+# dbd242d400f74a4c841f070331f29de9
 #: ../source/chat.rst:29
 msgid ""
 "In the Chat toolbar, there is a circle icon with a dot.  Click on this icon "
 "and select the neighborhood or public sharing."
 msgstr ""
 
-# 9b96fa4a5e1040039bc0c6948558aa3a
+# c7a55205d4c44447a135aa9113b3fed9
 #: ../source/chat.rst:33
 msgid ""
 "When you have selected the Neighborhood View, find a friend to invite  and "
@@ -90,24 +90,24 @@ msgid ""
 "their frame. Your Chat icon also appears in their Neighborhood view."
 msgstr ""
 
-# 8e08edb215e04e06958b19fb960e718c
+# 29350a9f214345fb955d4055ce67e56e
 #: ../source/chat.rst:35
 msgid ""
 "You can invite as many other XOs to your Chat as you like, creating a "
 "private group discussion.  Anyone else who joins can invite others."
 msgstr ""
 
-# fcc227f0389e48748eaab03eb8abce33
+# f0d84001b1a74ed3924bacccfc3151be
 #: ../source/chat.rst:38
 msgid "Join a Chat"
 msgstr ""
 
-# 91edd974c458449ca036e86f34d2fd23
+# c7af3ffca85149ca9059f33196227493
 #: ../source/chat.rst:40
 msgid "You can join a Sugar Chat that has already been started."
 msgstr ""
 
-# 71a09879f59c4a878558eb18ebb40996
+# 48fb870f7d8a461ab21eeb21be817e02
 #: ../source/chat.rst:42
 msgid ""
 "Two or more XO computers from One Laptop Per Child can speak to each other "
@@ -117,21 +117,21 @@ msgid ""
 "Per Child."
 msgstr ""
 
-# c78f22db41d6448998e6a2af4bca401b
+# 1138f277530a4b05bd0ec6ec640bf03e
 #: ../source/chat.rst:44
 msgid ""
 "First, look at the Neighborhood View to see if there is an existing Chat you "
 "want to join."
 msgstr ""
 
-# 19ac6859d00d425db367ec1902fe930a
+# b103ed46602947aa8127366005bcb88c
 #: ../source/chat.rst:46
 msgid ""
 "**CHAT SAFELY**: Only chat with someone you know. If a someone invites you "
 "to chat, don't chat with them unless you know them."
 msgstr ""
 
-# 2f22fd9ca7424d6c86e6138946def5eb
+# ecb35cfdebba416e8a72cd351d803591
 #: ../source/chat.rst:50
 msgid ""
 "If you see a XO icon with a little speech bubble icon next to it, that "
@@ -139,24 +139,24 @@ msgid ""
 "showing a group Chat."
 msgstr ""
 
-# a640801345ff46669afa55ef5ede6f84
+# 0c96b97b93604c73a16ddd01b89730b4
 #: ../source/chat.rst:54
 msgid "Click the little speech icon, and select the Join option."
 msgstr ""
 
-# 07c7a354436c403da7f1ec860adce1a6
+# f454f43627c145e9b5bb46cfe7d32d0f
 #: ../source/chat.rst:56
 msgid ""
 "Then the Chat Activity starts, connected to the shared Chat. You see the "
 "other people in the Chat, on the Frame."
 msgstr ""
 
-# 92d49710ebba4af6a703b30dcaab5966
+# 51382651981147e29c6792dfbea7f46e
 #: ../source/chat.rst:59
 msgid "Chatting"
 msgstr ""
 
-# 70902437b58546fca96664430f8af216
+# 7acb9946ec014eb4a24a8ca122ad9897
 #: ../source/chat.rst:61
 msgid ""
 "Once you are in the Chat Activity, you can begin typing to send a message "
@@ -164,7 +164,7 @@ msgid ""
 "enter key to send it."
 msgstr ""
 
-# 06f5a019f07e4db8aaca988c0c1a9b64
+# 668336b0a12f4953aa4bfcd192fc864d
 #: ../source/chat.rst:65
 msgid ""
 "To enter messages type them in the box at the bottom of the Chat Activity. "
@@ -172,12 +172,12 @@ msgid ""
 "message appears on your friend's computer."
 msgstr ""
 
-# e81cd933bbcc4748847c750374a08636
+# 519b9aaf63d94d34a448a29bb0e0890d
 #: ../source/chat.rst:69
 msgid "Accept an invitation to chat"
 msgstr ""
 
-# dfa577f29daa473c845ee367f974a4f3
+# 87babd86010a4812b9376210b7c3b509
 #: ../source/chat.rst:71
 msgid ""
 "You may be invited to chat. An invitation appears as a little speech icon in "
@@ -186,50 +186,50 @@ msgid ""
 "the invitation."
 msgstr ""
 
-# 29b702a2aa0640a28220a17279eb7390
+# 98d0873ee6ab41d1937d867e5d988e59
 #: ../source/chat.rst:75
 msgid ""
 "You accept the invitation by hovering over the icon and selecting Join. You "
 "decline the invitation by selecting Decline."
 msgstr ""
 
-# 12df2e7691de4cd78cce1659036be9fb
+# a9788f9c695f46a98a050d842469137d
 #: ../source/chat.rst:81
 msgid "Things to Do with Chat"
 msgstr ""
 
-# b3051221138941bc8d1289466191580c
+# e6a6eed93f5e4be0b8fd2400ab286337
 #: ../source/chat.rst:83
 msgid ""
 "Chat is a great for sending messages back and forth with a friend, "
 "socializing, and working together on projects."
 msgstr ""
 
-# 9b50b64035f84557a3735b0f75d72159
+# 43f711be4b104613aebf90ec6842ab9d
 #: ../source/chat.rst:85
 msgid ""
 "Remember that being polite on a computer is just as important as being "
 "polite when you're speaking with someone."
 msgstr ""
 
-# 989920ede1ae4bd3ab7e2c21c1ddfc45
+# f3732e5a5ce04cb7b1b501077604b710
 #: ../source/chat.rst:87
 msgid "Be polite. Try not to interrupt."
 msgstr ""
 
-# 2ac61896909644a7b8f8947166381df9
+# fce9bd502a2249f18d2cc2024e47edb2
 #: ../source/chat.rst:88
 msgid "Read through what people are saying before you say something."
 msgstr ""
 
-# 58a2fd2116ef4008a3e1c23dbb4c61b4
+# 98e0ab5f18244b4e97e5dc949a564649
 #: ../source/chat.rst:89
 msgid ""
 "Don't type in ALL CAPITAL LETTERS. This style is considered rude as it is "
 "like shouting at someone."
 msgstr ""
 
-# 6be1f2a94f1544ecb613638e53d8d692
+# 7b1e4e459c144c3db655ca047fe011a5
 #: ../source/chat.rst:90
 msgid ""
 "If you do not speak the same language as another person it may be difficult "
@@ -238,12 +238,12 @@ msgid ""
 "want to say in another language so you can be friendly online."
 msgstr ""
 
-# aaaf946c20fe4c3191ebcb6341622956
+# 28c5c180b801434881fbf55005c3b00f
 #: ../source/chat.rst:92
 msgid "**Fun**"
 msgstr ""
 
-# 4b338893bb564d91ad7aaffea315eb25
+# bba78a178a9348f3be82694545d9b483
 #: ../source/chat.rst:94
 msgid ""
 "It can be fun to make words shorter when typing in a Chat Activity because "
@@ -251,79 +251,79 @@ msgid ""
 "instead of typing in \"how are you?\", you can type in \"how r u?\""
 msgstr ""
 
-# f3dc268d7e5742e4a44a8e49cb98e627
+# c611efe564e34a74a5a9a5f45c810503
 #: ../source/chat.rst:96
 msgid "The following are some ways you might like to try using Chat:"
 msgstr ""
 
-# 48fe187742b74f5e804ca90aa5f6117d
+# 23fce22f3aa64384a7c3fdde562e2d4f
 #: ../source/chat.rst:98
 msgid "Arrange a time to meet friends to play."
 msgstr ""
 
-# 975936fb3b0b4be3bba4c24f8cc46a4f
+# abc90739ac514757aca7f603b811125c
 #: ../source/chat.rst:99
 msgid "Organize a community gathering."
 msgstr ""
 
-# deb1049207234ad2b67098447908abe3
+# a89c31ab9fd64eb0bb1c18db83babd9c
 #: ../source/chat.rst:100
 msgid "Bring friends together to talk about doing a group project."
 msgstr ""
 
-# 599f9debdb4d43f99c45d335b9288b3f
+# 36cd097b113e4c6da03e42f970861cd7
 #: ../source/chat.rst:101
 msgid "Brainstorm ideas (either \"fast and furious\" or by taking turns)."
 msgstr ""
 
-# 0055e4d712fa4d0a9c85056bdff926ce
+# 9d22c065b7a24e28b3f0cba58cbeb0f6
 #: ../source/chat.rst:102
 msgid "Ask your teacher questions about your homework."
 msgstr ""
 
-# 17c86881267449feaefe23103baf84d3
+# 7be768f4a60d478fb255021c3e6b01f6
 #: ../source/chat.rst:103
 msgid ""
 "Use Chat and write a story with friends online using the Write Activity."
 msgstr ""
 
-# b5f1e7203b6940bea3290ff2d107a84b
+# 8523787fbb4c47a8ae1dd223710e4d88
 #: ../source/chat.rst:104
 msgid ""
 "Use Chat to practice writing in a foreign language (see if you can find a "
 "native speaker to chat with)."
 msgstr ""
 
-# fd5793dd1fe24c478c23dc876d7b357a
+# b580adc097e74c2bb2e47e3bfdd3ce3e
 #: ../source/chat.rst:105
 msgid "Organize other Sugar or XO users to meet and learn from each other."
 msgstr ""
 
-# 8ce5e86a646243ad800a0ad1b2446852
+# 8ff2d79706b94d48bd6ee5ee33b765d4
 #: ../source/chat.rst:106
 msgid "Use Chat to communicate with a grandparent or other family member."
 msgstr ""
 
-# b0da4b6159cd4e24babbd719e0ce9880
+# e295fbf76fda4752bd7d7130ef1a6fcf
 #: ../source/chat.rst:107
 msgid ""
 "Interview an expert using the Chat Activity as if they were in the "
 "classroom, especially an expert who wouldn’t otherwise be able to visit."
 msgstr ""
 
-# e7592817206d41789d4e82b79d56c00e
+# c03ab3fee1c643b3a858583986f43f61
 #: ../source/chat.rst:108
 msgid "Take group discussion notes."
 msgstr ""
 
-# b22aa2e8b1b34137ba2e0bf2fb7855d9
+# 020fb4a204bf4a15a3c570abef9c210c
 #: ../source/chat.rst:109
 msgid ""
 "Play a word-association game such as typing the first word that comes to "
 "mind when your friend types red."
 msgstr ""
 
-# 2cf7fbc1521d45fa8188dccd324a04b1
+# 14bca0e571d749ae9924312c9b9dd4ae
 #: ../source/chat.rst:110
 msgid ""
 "Play a role-playing game (for example, have a friend pretend to be a "
@@ -331,12 +331,12 @@ msgid ""
 "friend)."
 msgstr ""
 
-# 4c5aecdbbdd84e0384c327c8bc9c05cc
+# 03928ef409024d9b956053444353f5b1
 #: ../source/chat.rst:113
 msgid "Use emoticons in Chat"
 msgstr ""
 
-# 861dde639f1e4a5aaf57c1d5f8a709a5
+# 42418bbab3d049c383d6aecae96ab802
 #: ../source/chat.rst:115
 msgid ""
 "There are ways to tell friends how you feel just by using letters - they can "
@@ -344,92 +344,92 @@ msgid ""
 "look like a face, they are called emoticons."
 msgstr ""
 
-# e2d0b8812f904854ada41969136bd842
+# 8672217b931345afb6c2185acb998e10
 #: ../source/chat.rst:117
 msgid "Some are written so that you read them sideways."
 msgstr ""
 
-# 83ac2c3212e842e4a0bbf642c610f9b4
+# 8102e328a904452ab7344c58b7a68295
 #: ../source/chat.rst:119
 msgid "This is a happy face:"
 msgstr ""
 
-# d6609c325ffb4b60947936709151b2a5
+# 7db47c1255d5419cadb254d86685c507
 #: ../source/chat.rst:121
 msgid ":)"
 msgstr ""
 
-# d9232aa3d3af4de79811cd409ec88b38
+# ae5943d8ac2f476f931004eab20c4148
 #: ../source/chat.rst:123
 msgid "This is a sad face:"
 msgstr ""
 
-# 0f4de7d0637d49998a481674162bccf5
+# caf1a2cc036145c6a1dbd420c61b9b88
 #: ../source/chat.rst:125
 msgid ":("
 msgstr ""
 
-# 8bdbd43423be4f93bdaed8814badd6d6
+# abf9e69359d44e4f8e30f3a4da3b25c0
 #: ../source/chat.rst:127
 msgid "This is a wink:"
 msgstr ""
 
-# 6e1001bfe80b42b280c66977d3efab93
+# 0e464398b2b2410d96fd1905c8caeab2
 #: ../source/chat.rst:129
 msgid ";)"
 msgstr ""
 
-# 24c36327ff9d4355b0a432a28e76d5e4
+# 231a99fe884d44bca96b3b12e428d76b
 #: ../source/chat.rst:131
 msgid "See if you can find the keys on the keyboard to make the faces"
 msgstr ""
 
-# 5561c8d4342c437580f9c769e19acb6c
+# 35a65b6a4cc44c15be83e028cdb4d338
 #: ../source/chat.rst:133
 msgid "The two dots are the colon key : and the semicolon key ;"
 msgstr ""
 
-# 208a540f641b41be940ae12daf37574a
+# 882fc876479c4eadb9162604ba67ba4b
 #: ../source/chat.rst:135
 msgid "The mouth are the parentheses keys ()"
 msgstr ""
 
-# 3cc6d73dd188438eab84ac2cdf1aae28
+# 75c7e6ca43824abdaec17fb0d742083f
 #: ../source/chat.rst:137
 msgid "You can also make faces that go across:"
 msgstr ""
 
-# a30dbd468ee7491da206310a3490ad58
+# 88a20c4c20734ecdb8defdc5d74f4cc1
 #: ../source/chat.rst:139
 msgid "Happy"
 msgstr ""
 
-# d5577fec06044b9280aa9d54878eed28
+# e7a375df38d7461fae5e387324e04999
 #: ../source/chat.rst:141
 msgid "(^_^)"
 msgstr ""
 
-# 82f44fdb87044e9c894a2133e74a3456
+# eda84aad7c7749f9b837e616fccf33a7
 #: ../source/chat.rst:143
 msgid "Sad"
 msgstr ""
 
-# 95e351473dbc48bc9190c5f450d9e6c3
+# 681144372b594b3bbdceb2b53383f85b
 #: ../source/chat.rst:145
 msgid "(<_>)"
 msgstr ""
 
-# 0dc420f9b3694b6a9c70efc40fba21ab
+# a5578c9bb3ba4988aa1d1b26b51767ab
 #: ../source/chat.rst:147
 msgid "Winking (^_~)"
 msgstr ""
 
-# d6cb41bb8923483eab413b0143413b63
+# dd7ad0b4157f460b88c403f3b3339ba4
 #: ../source/chat.rst:149
 msgid "What other emoticons can you create with text in the Chat Activity?"
 msgstr ""
 
-# bc1cae68367c46eda69dd236bd392ac4
+# 4da54878fab64205ba460215e4f4b399
 #: ../source/chat.rst:151
 msgid ""
 "Can you draw pictures using only the text symbols on your keyboard? This "
@@ -437,12 +437,12 @@ msgid ""
 "my XO\" means, \"I love my XO.\""
 msgstr ""
 
-# 3e9f88583a094cc9b9d725938847ae0d
+# 85df8913e91347d69376965f544f8012
 #: ../source/chat.rst:154
 msgid "Make Friends"
 msgstr ""
 
-# 03437bae612344bdb1f373b988702605
+# 594f576876b3414992b350f207db2c5a
 #: ../source/chat.rst:156
 msgid ""
 "When you are in the Neighborhood View, if you move the pointer over someone, "
@@ -450,19 +450,19 @@ msgid ""
 "new friend appears in your Group View list."
 msgstr ""
 
-# ecad43ba69a74ad2ab588c3a5b6e96d0
+# d5711e4e8cfb4c5fa286043d04d7964a
 #: ../source/chat.rst:158
 msgid ""
 "The Group View list helps you keep a list of your friends online who you "
 "like chatting with."
 msgstr ""
 
-# be182a71c2874648a71a0dce3f57aa3b
+# 0d9af04ef00849c19ee3730dcbf3eb4d
 #: ../source/chat.rst:161
 msgid "Read a past log of conversations"
 msgstr ""
 
-# 32d4051dd9114940b13e98c967001dd0
+# 65d0ef72738043b09ef4d1078dbb9660
 #: ../source/chat.rst:163
 msgid ""
 "If you open the Journal Activity to open the Chat in the detail view, you "
@@ -470,12 +470,12 @@ msgid ""
 "Chat Activity window."
 msgstr ""
 
-# d39d766631ff4b11a611643c6aa6e384
+# c3f890a5406545959724029cda1e2a3d
 #: ../source/chat.rst:166
 msgid "Notes for parents and teachers"
 msgstr ""
 
-# 537551affa664e5e86a5984720dfb0b7
+# b8ab06ff41a04708a70a00377a4da426
 #: ../source/chat.rst:168
 msgid ""
 "Chat presents a great opportunity engage children in reading and writing. "
@@ -486,17 +486,17 @@ msgid ""
 "however, preparation and supervision are recommended."
 msgstr ""
 
-# 46e85b1197784ccfb7ae1313125a49e6
+# 96f46c60702e4caeae60711796de6ab0
 #: ../source/chat.rst:170
 msgid "Prepare your children and students:"
 msgstr ""
 
-# 025ddf3b1c52402d9ffba698ebe9465f
+# 889db606fa844ceba6de6c540571ca36
 #: ../source/chat.rst:172
 msgid "Remind them never to chat with someone they don't know."
 msgstr ""
 
-# 31ab725663d74cf094e7dea0b55d3eb0
+# 6584478ee3c94921953f747e77cc7e8e
 #: ../source/chat.rst:173
 msgid ""
 "Remind them to be courteous and never to use language they wouldn't be "
@@ -504,12 +504,12 @@ msgid ""
 "disagree, but not to be disagreeable)."
 msgstr ""
 
-# 3d9df94e54434468b7e24a285e5a6ea6
+# 3dd5c65ba034431b8a152928d0cf9147
 #: ../source/chat.rst:175
 msgid "Prepare your chat session:"
 msgstr ""
 
-# 18c54141ef0a4ca3a33923717238c34a
+# a6e15aadf75d42c38296596432981b53
 #: ../source/chat.rst:177
 msgid ""
 "Some teachers prepare questions in advance. They can paste these questions "
@@ -517,36 +517,36 @@ msgid ""
 "stay on task and keeps the pace of the session lively."
 msgstr ""
 
-# c6b7f6d508bf4c6e9c7df88b48c3b451
+# 1efdea92815645989b0f46c99edfbf1f
 #: ../source/chat.rst:179
 msgid ""
 "Limit the number of students participating in the Chat session; more that 10–"
 "12 participants makes a session chaotic."
 msgstr ""
 
-# b64d4256950340c7b830e83767620804
+# 498da96176014cf294bcf982b6bd17e2
 #: ../source/chat.rst:180
 msgid "Ask your students to prepare by posing questions in advance."
 msgstr ""
 
-# c7aabd5134f640daae27a9b8363482e9
+# 7fb7f600b7114e52ab601e8f4bf344cb
 #: ../source/chat.rst:181
 msgid ""
 "As in any classroom discussion, keep the conversation focused on just one or "
 "two topics."
 msgstr ""
 
-# 6cb5217706f04c6e96ad7f70f5167c70
+# e0cd3439dc6541fe88a7b915cbb759a7
 #: ../source/chat.rst:182
 msgid "IT IS SOMETIME USEFUL TO USE ALL-CAPS TO GET EVERYONE'S ATTENTION."
 msgstr ""
 
-# 07dbee52d2a84f9f9995bbecbeaacf50
+# 5237e07452744a219534fd94ed28c5ec
 #: ../source/chat.rst:185
 msgid "Advanced features"
 msgstr ""
 
-# fdaf3d5958bc471d8f964e362dc50892
+# bcfc955abb594ca38b9a70511f5d17ac
 #: ../source/chat.rst:187
 msgid ""
 "Computers not running Sugar can initiate chat connections to a Sugar user by "
@@ -555,12 +555,12 @@ msgid ""
 "with salut or Pidgin with Bonjour."
 msgstr ""
 
-# 01ec1f9c91c14d949c47d603f8d88989
+# aa3e3cd792b0457ca9506d1c44a77c13
 #: ../source/chat.rst:189
 msgid "Here's an example of a buddy list on another non-Sugar computer."
 msgstr ""
 
-# bbb9c62ac8e1465493862907c401399c
+# 1b48d0e87890431db820736ea9996586
 #: ../source/chat.rst:193
 msgid ""
 "When you initiating the chat on a non-Sugar computer using a Jabber client, "
@@ -569,17 +569,17 @@ msgid ""
 "lines are gray as shown below."
 msgstr ""
 
-# 2bbb53f1652d4b7f9bddda15629f808f
+# e7bc1b763659425880de9834415e2dc2
 #: ../source/chat.rst:197
 msgid "Here's what the non-Sugar computer sees on their Jabber client."
 msgstr ""
 
-# f3573743f6dd46e79297e389a6e03cb6
+# 09c8c4e80ca244e0a84aa6307f21d0c6
 #: ../source/chat.rst:201
 msgid "And here's the response as seen on the Sugar computer."
 msgstr ""
 
-# 338f58baf2ca4d86a7f73a6c7282e29b
+# f4987d4dd6814d678ff374de2eda6682
 #: ../source/chat.rst:205
 msgid ""
 "CHAT SAFELY: Remember, only chat with someone you know. If someone invites "
@@ -587,12 +587,12 @@ msgid ""
 "to refuse a chat request."
 msgstr ""
 
-# 34ec86b9d4f94d068cd165e6df2f554b
+# 0fba3f428b094ee2a265dc4a0b26a6f7
 #: ../source/chat.rst:208
 msgid "Note to parents and teachers"
 msgstr ""
 
-# 3489aafa208c4a1bbc112d15432094df
+# db73919de0eb43098c5d89063abfcddb
 #: ../source/chat.rst:210
 msgid ""
 "You can use this feature to chat with Sugar-enabled computers from non-Sugar-"

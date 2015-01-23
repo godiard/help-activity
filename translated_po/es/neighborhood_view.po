@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,24 +17,24 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 86356cfa011f4ef8997a36e383d04c93
+# 648be526d22d42f1a73e8ff8a3955508
 #: ../source/neighborhood_view.rst:3
 msgid "Neighborhood View"
 msgstr ""
 
-# 19e009176b764ca5b02b3c570448d30e
+# b7e87c84afce4030a9f086b7c91a3ae6
 #: ../source/neighborhood_view.rst:6
 msgid "Neighborhood View: Connecting to the Internet"
 msgstr ""
 
-# 35a61f3dd6924093971f969219ea1b0a
+# 945aabb29a7f4be7bcefabd460de7208
 #: ../source/neighborhood_view.rst:8
 msgid ""
 "You can use the Neighborhood View to connect to the Internet and to "
 "collaborate with others."
 msgstr ""
 
-# 4a80067d66e541f3a6784080960953e8
+# 36cbc0c149524d3c8793e8713df5a9db
 #: ../source/neighborhood_view.rst:12
 msgid ""
 "To see the Neighborhood View, click the Neighborhood icon on the Frame. You "
@@ -42,26 +42,26 @@ msgid ""
 "one, or press the F1 key."
 msgstr ""
 
-# 9aae414a6cbd44c8b232961a7bc7b955
+# 21e2ac5cd381440ca51178e1b76503df
 #: ../source/neighborhood_view.rst:15
 msgid "Neighborhood Elements"
 msgstr ""
 
-# 9b71a677e236400485c2d5ea7992c33c
+# 955387e170f44d4fb7a648fbaae6a1e5
 #: ../source/neighborhood_view.rst:19
 msgid ""
 "Search menu: You can find find people, Activities, or access points (what "
 "connects you to the Internet) using the search menu."
 msgstr ""
 
-# 5fe4113b0d524c6cb85f74217410a4d6
+# 332ebb7e84ae4c41a12f3f652d1e21ed
 #: ../source/neighborhood_view.rst:21
 msgid ""
 "Ad-Hoc network icon: An ad-hoc network lets you connect to other computers "
 "on a network."
 msgstr ""
 
-# 21721b3aadc6404096b681cd31cbbe88
+# febc6875d121436399ec1371d9c3af4c
 #: ../source/neighborhood_view.rst:23
 msgid ""
 "Access point: WiFi hot spots (Internet access points) appear as circles in "
@@ -79,14 +79,14 @@ msgid ""
 "change according to who is on that network.)"
 msgstr ""
 
-# 70aec48ebcae4ba1a4ec6ef1c9a0360d
+# 5cfdccadb1264542b6952439959d0116
 #: ../source/neighborhood_view.rst:25
 msgid ""
 "Shared Activities: Shared Activities appear as icons in the Neighborhood "
 "View and you can join them by clicking the corresponding icon."
 msgstr ""
 
-# b072eec7fd304ebcbb15e639fbd29f60
+# 17e19c4a430f43b18e87a41d141f06cf
 #: ../source/neighborhood_view.rst:27
 msgid ""
 "XO icon: Other Sugar users appear as XO icons. By hovering over them, you "
@@ -94,12 +94,12 @@ msgid ""
 "invite them to join you in a shared Activity."
 msgstr ""
 
-# 0962d193d09848aeb95263476a516f9c
+# 6c0dab0bb2e542cc99c82ad06a17a19e
 #: ../source/neighborhood_view.rst:29
 msgid "Open access point: An access point which isn't protected by a password."
 msgstr ""
 
-# dba967f6479a488e89194a5601c0c9f1
+# d2505e25fe204c7aac195a42dc57ac3c
 #: ../source/neighborhood_view.rst:31
 msgid "Connected networks: Once the computer has connected to a network"
 msgstr ""

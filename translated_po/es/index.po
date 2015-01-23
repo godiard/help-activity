@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,57 +17,57 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 58e8b08c4a0244efb93f35f9f9ba3706
+# 7f2ac2d4fc1448c48a3312c3c55be121
 #: ../source/index.rst:7
 msgid "Welcome to Sugar's documentation!"
 msgstr ""
 
-# f52b4c27f15a4341a934ac843186134f
+# 49f1869e253a4f72a2883aba971dc85d
 #: ../source/index.rst:9
 msgid "Contents:"
 msgstr ""
 
-# 899fb03ebc7c4e849deea61d35a63984
+# 8536fcc5193f4c989b07cb1a4b604b3a
 #: ../source/index.rst:11
 msgid "Using Sugar"
 msgstr ""
 
-# 8ff641e74b7f4cf49e24dbf81f00c7a9
+# da6a753d80264484a2faf762e9f044ef
 #: ../source/index.rst:27
 msgid "Using Activities"
 msgstr ""
 
-# 8ff641e74b7f4cf49e24dbf81f00c7a9
+# 98f3229450a444c084bf1904df1d945f
 #: ../source/index.rst:38
 msgid "Activities"
 msgstr ""
 
-# 37af2853aa1e4d76adb1ddbf80742986
-#: ../source/index.rst:62
+# 4832faa70b6041c19eaeedff165fd112
+#: ../source/index.rst:78
 msgid "Network"
 msgstr ""
 
-# 92e3533c23fc4b43a6c3bd955ce0da88
-#: ../source/index.rst:71
+# 23adfc2caed649e4b95a20d0fed37540
+#: ../source/index.rst:87
 msgid "The XO hardware"
 msgstr ""
 
-# 8ddb852eb272410295e7079a1259bbc5
-#: ../source/index.rst:86
+# a49cde5045714075ad4c031f76c9ea18
+#: ../source/index.rst:102
 msgid "About this manual"
 msgstr ""
 
-# 0a26503754214a608c0e4c6ad3dc6fa7
-#: ../source/index.rst:97
+# 9093cd5af2ad40058c8ca609f1dd12f7
+#: ../source/index.rst:113
 msgid "Contribute to this manual"
 msgstr ""
 
-# 402fe65b2e594d04bad70a9a22de4c19
-#: ../source/index.rst:105
+# b6c9d369c37343dbb2c0c45bc1c59b5b
+#: ../source/index.rst:121
 msgid "Support"
 msgstr ""
 
-# ef900d0c1d5a471bb46211ca71e97416
-#: ../source/index.rst:113
+# 36fedf0c7f154223ac2ca34da4043505
+#: ../source/index.rst:129
 msgid "Appendices"
 msgstr ""

@@ -1,0 +1,567 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/abacus.rst:3
+# 4b486e20cc374f91ab597f5fb747ade4
+msgid "Abacus"
+msgstr ""
+
+#: ../source/abacus.rst:6
+# 15a9c4e1e12b4b149ad3757e73f8434b
+msgid "About"
+msgstr ""
+
+#: ../source/abacus.rst:10
+# c7da849d855f4931bd8fbef830196637
+msgid "Abacus lets the learner explore different representations of numbers using different mechanical counting systems developed by the ancient Romans and Chinese. There are several different variants available for exploration: a suanpan, the traditional Chinese abacus with 2 beads on top and 5 beads below; a soroban, the traditional Japanese abacus with 1 bead on top and 4 beads below; the schety, the traditional Russian abacus, with 10 beads per column, with the exception of one column with just 4 beads used for counting in fourths; and the nepohualtzintzin, a Mayan abacus, 3 beads on top and 4 beads below (base 20). There is also a binary abacus, a hexadecimal abacus, and several abacuses that lets you calculate with common fractions: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, and 1/12. And there is a customization toolbar that lets you design your own abacus. The Incan abacus (Yupana) as a standalone program."
+msgstr ""
+
+#: ../source/abacus.rst:13
+# d305b1a75c8b4e4882a8c56a4080a9cb
+msgid "Using Abacus"
+msgstr ""
+
+#: ../source/abacus.rst:16
+# 58a4eb7fa4ca4a15be11378fc87219bb
+msgid "Clearing the abacus"
+msgstr ""
+
+#: ../source/abacus.rst:17
+# c2683d40b14845af9d7dd384617012ea
+msgid "Before you start an arithmetic operation, you need to \"clear\" the abacus. The upper beads should be positioned against the top of the frame and the lower beads should be positioned against the bottom of the frame. This is the default position for the abacus when you launch the activity."
+msgstr ""
+
+#: ../source/abacus.rst:19
+# 9a458326b5f247b6aad6a99b37ebacf1
+msgid "Note that some of the abacuses (e.g., the schety) do not have any upper beads. In such cases, all of the beads should start in the down position. Also note that the Clear Button on the main toolbar will also clear the abacus for you."
+msgstr ""
+
+#: ../source/abacus.rst:24
+# 76610b8053e94ca188226bdcd621f3ca
+msgid "Reading the abacus"
+msgstr ""
+
+#: ../source/abacus.rst:25
+# b9808415370e4809a9bac35fac5ec768
+msgid "In each column, the bottom beads represent 1s and the top beads represent 5s. (The exception is the column in the schety with only 4 beads. These are 1/4 each.) So for each bead you raise up from the bottom in a column add 1 and for each bead you lower from the top in the same column, add 5."
+msgstr ""
+
+#: ../source/abacus.rst:27
+# bbd66fb8a3e14c1aad4629f5fa3c2c93
+msgid "The columns themselves represent decimal positions from right to left, e.g., 1s, 10s, 100s, 1000s, etc. (There are some exceptions: (1) the nepohualtzintzin uses base 20, e.g., 1s, 20s, 400s, 8000s, etc.; (2) on the schety, the beads to the right of the column with just four beads are 0.1s, 0.01s, 0.001s, and 0.0001s; the black beads on the Caacupé abacus are fractions; and the custom abacus lets you choose whatever (integer) base you want.)"
+msgstr ""
+
+#: ../source/abacus.rst:29
+# b5383481f5f6425986e15c7dd509ef5b
+msgid "The current value is always displayed on the frame. Experiment and you will quickly learn to write and read numbers."
+msgstr ""
+
+#: ../source/abacus.rst:31
+# b7951127b33e4504b64a8fefafdea3e2
+msgid "Examples: In the gallery below, several simple examples are shown. In the gallery of images above, the number 54321 is shown on each of the different abaci."
+msgstr ""
+
+#: ../source/abacus.rst:35
+#: ../source/abacus.rst:47
+# c2ce9faa53c146288523edf2787892de
+# 43f5fa4bc4e94881859da270a84de47a
+msgid "From left to right,"
+msgstr ""
+
+#: ../source/abacus.rst:37
+# 6ceaef06a7ac43c282d791212b048936
+msgid "1 bottom bead is up, corresponding to 1 unit"
+msgstr ""
+
+#: ../source/abacus.rst:39
+# f404d2f5ab6947b3ad72faeb08379fbc
+msgid "1 top bead is down, corresponding to 5 units"
+msgstr ""
+
+#: ../source/abacus.rst:41
+# 04fc9b58823c4d3d93aeada7f3e95132
+msgid "5 bottom beads are up, also corresponding to 5 units"
+msgstr ""
+
+#: ../source/abacus.rst:43
+# 2c9074ab2d59446084a3021f884f1a84
+msgid "1 bottom bead is up and 1 top bead is down, corresponding to 6 units"
+msgstr ""
+
+#: ../source/abacus.rst:49
+# 28cdc62a7ece451c8c8befe8883a0f20
+msgid "5 bottom beads are up and 1 top bead is down, corresponding to 10 units (time to \"carry\" to the left)"
+msgstr ""
+
+#: ../source/abacus.rst:51
+# d62da573039c46af9a68a756724bba80
+msgid "This 10 is equivalent to..."
+msgstr ""
+
+#: ../source/abacus.rst:53
+# 545f715ad038486bba19dcedad4b1109
+msgid "... this 10"
+msgstr ""
+
+#: ../source/abacus.rst:55
+# 927c20a706a3446b8d244f7ee179dc41
+msgid "54321"
+msgstr ""
+
+#: ../source/abacus.rst:57
+# ffa8e491e44047f2861fb5ea518c4781
+msgid "Note: The display always assumes a fixed unit column, but you can override this choice."
+msgstr ""
+
+#: ../source/abacus.rst:61
+# 8ec0969b0fec4457aadea0265e3d1528
+msgid "The beads moved most recently are highlighted."
+msgstr ""
+
+#: ../source/abacus.rst:64
+# 771610140dee4a1baa8a1d7696d207ce
+msgid "Addition"
+msgstr ""
+
+#: ../source/abacus.rst:65
+# 009ce960b17d49bc940b65c5c3deed78
+msgid "To add, simply move in more beads to represent the number you are adding. There are two rules to follow: (1) whenever you have a total of 5 units or more on the bottom of a column, cancel out the 5 by sliding the beads back down and add a five to to the top; and (2) whenever you have a total of 10 units or more in a column, cancel out the 10 and add one unit to the column immediately to the left. (With the nepohualtzintzin, you work with 20 rather than 10.)"
+msgstr ""
+
+#: ../source/abacus.rst:67
+# 0edfb74858a54647800ca28717cf1c67
+msgid "Example: 4+3+5+19+24=55"
+msgstr ""
+
+#: ../source/abacus.rst:71
+#: ../source/abacus.rst:83
+#: ../source/abacus.rst:99
+#: ../source/abacus.rst:111
+#: ../source/abacus.rst:124
+#: ../source/abacus.rst:136
+#: ../source/abacus.rst:146
+#: ../source/abacus.rst:161
+#: ../source/abacus.rst:173
+#: ../source/abacus.rst:183
+#: ../source/abacus.rst:283
+#: ../source/abacus.rst:295
+#: ../source/abacus.rst:305
+# 8b11d25b13104d84a879c934a210c087
+# 25d1729828eb4cb3bc2b2952e2813b3d
+# f08c0cf442e145d2b4116723d1430ecb
+# d4bfc2bcbe46425ba18769104f7794b0
+# 03b2519a53454d069aecaf57c2e00ea7
+# 020b16ba56b54d77a19480b9408eaea9
+# 90be38a95a584089a0a966edfa093077
+# 0c802a924d1142dcb6b508eb09127514
+# 09fc1a88b13d48efa407cfbab4af0ad2
+# 0d570aaa3f874f6a9cab928483ca88ff
+# e81f3f57ceff46d6b7df1c62324af559
+# 4efc40453c41485eb84e3d2de1315708
+# ea7f73222280445e9d2e381e85d725e1
+msgid "from left to right,"
+msgstr ""
+
+#: ../source/abacus.rst:73
+# 3fdf9ffe00e844809fb4d34960942d19
+msgid "4"
+msgstr ""
+
+#: ../source/abacus.rst:75
+# ab7b8ae2638c44029c804ed74abe59bd
+msgid "+3=7 (5–2=3)"
+msgstr ""
+
+#: ../source/abacus.rst:77
+# 48505743bb6d42c1b1c3c42a6f36357a
+msgid "+5=12"
+msgstr ""
+
+#: ../source/abacus.rst:79
+# eb10448a5b874ee18abf1c45b69e9c9f
+msgid "carry 5s to next column"
+msgstr ""
+
+#: ../source/abacus.rst:85
+# e421854ca95e43f7b1a30e508e00dad2
+msgid "+19=31 (20-1=19)"
+msgstr ""
+
+#: ../source/abacus.rst:87
+# a8c818ef0fda4e0397557008661dd91d
+msgid "+24=55"
+msgstr ""
+
+#: ../source/abacus.rst:89
+# ceb2bfac97d34df8bc4946f710e7065f
+msgid "4+3+5+19+24=55"
+msgstr ""
+
+#: ../source/abacus.rst:92
+# 2f33f720c0b141ada967a2d8103d131f
+msgid "Subtraction"
+msgstr ""
+
+#: ../source/abacus.rst:93
+# f7cce04aa9ec46a48c269532913cf3d0
+msgid "Subtraction is the inverse of addition. Move out beads that correspond to the number you are subtracting. You can \"borrow\" from the column immediately to the left: subtracting one unit and adding 10 to the current column."
+msgstr ""
+
+#: ../source/abacus.rst:95
+# 69e28c2c296c4a65a8f8b575d34ac202
+msgid "Example: 26–2–4–6–10=4"
+msgstr ""
+
+#: ../source/abacus.rst:101
+# c27ca344e5a0464794a83b5a9dc1b049
+msgid "26"
+msgstr ""
+
+#: ../source/abacus.rst:103
+# 9766344c8124470fa44b472e69b3ddcc
+msgid "26-2=24"
+msgstr ""
+
+#: ../source/abacus.rst:105
+# 3ead15ba5a2a41fcb803f5d56a13271b
+msgid "24-4=20"
+msgstr ""
+
+#: ../source/abacus.rst:107
+# 07aacfbab340438688fa70d1880b8f16
+msgid "cary 10 to the right"
+msgstr ""
+
+#: ../source/abacus.rst:113
+# 0f6401c4a2ba45a4ab7d08ee4be4188a
+msgid "20-6=14"
+msgstr ""
+
+#: ../source/abacus.rst:115
+# 3b924e9ea1ab41829171a7081a37f08d
+msgid "14-10=4"
+msgstr ""
+
+#: ../source/abacus.rst:119
+# 7469762a030343c48373ef730470f3be
+msgid "Multiplication"
+msgstr ""
+
+#: ../source/abacus.rst:120
+# 4972dcac42344f11a1e4ce71296c3432
+msgid "There are several strategies for doing multiplication on an abacus. In the method used in the example below, the multiplier is stored on the far left of the abacus and the multiplicand is offset to the left by the number of digits in the multiplier. The red indicator is used to help keep track of where we are in the process."
+msgstr ""
+
+#: ../source/abacus.rst:126
+# 2a1ad565271847bba93870835917ced3
+msgid "486×24=? Begin by placing 24 in the left-most columns and 486 offset from the far right by two columns (since 24 has two digits). Set the indicator to the right of the multiplicand."
+msgstr ""
+
+#: ../source/abacus.rst:128
+# 4fff51dc4c9a4bd2be3c7df8143cd6f6
+msgid "Multiply the least-significant digits (LSD) of the multiplier (4) and multiplicand (6) and place the results (4×6=24) in the far right columns."
+msgstr ""
+
+#: ../source/abacus.rst:130
+# 67958269340a487f872e1aed1c41fa71
+msgid "Multiply the next digit in the multiplier (2, which corresponds to 2×10=20) and the LSD of the multiplicand (6) and add the results (2×6=12) on the right (advancing one column to the left to correspond to the power of the digit in the multiplier)."
+msgstr ""
+
+#: ../source/abacus.rst:132
+#: ../source/abacus.rst:142
+# 274161b505a847f09d91572f0b41e9f7
+# b5d39ade2577426f9ba722daee272f7e
+msgid "Move the indicator over one column to the left."
+msgstr ""
+
+#: ../source/abacus.rst:138
+# 9d0d52d92741427fa92e4c48ed2fb680
+msgid "Repeat for the next digit in the multiplicand (8): 4×8=32"
+msgstr ""
+
+#: ../source/abacus.rst:140
+# a6b88e48948448378075e4991824fa5d
+msgid "2×8=16"
+msgstr ""
+
+#: ../source/abacus.rst:148
+# f9b119da567a42ffb1524be6a26b7108
+msgid "Repeat for the next digit in the multiplicand (4): 4×4=16"
+msgstr ""
+
+#: ../source/abacus.rst:150
+# 2e318cadb02f460b9da3bdea47ed1d11
+msgid "2×4=8"
+msgstr ""
+
+#: ../source/abacus.rst:152
+# 824dc0c634b84508af13b5da4adb7f9a
+msgid "Clear the multiplier from the left and view the result: 486×24=11664"
+msgstr ""
+
+#: ../source/abacus.rst:156
+# 74e55c517d0d4da3b302793181a0efc4
+msgid "Division"
+msgstr ""
+
+#: ../source/abacus.rst:157
+# 8cc3d98ab6c4438286f44aa8b9457627
+msgid "Simple division (by a single-digit number) is the inverse of multiplication. In the example below, the dividend is put on the left (leaving one column vacant for the quotient) and the divisor on the right."
+msgstr ""
+
+#: ../source/abacus.rst:163
+# 88703db4850446b69b4f937986e6f1eb
+msgid "123456789÷2=? Place the dividend (123456789) on the left, leaving one blank column. Place the divisor (2) on the right."
+msgstr ""
+
+#: ../source/abacus.rst:165
+# ce6ea20ea74540239201ebdb4c3f6de4
+msgid "Working from the left to the right, divide a digit in the quotient and then move the indicator one column to the right. 1÷2=0.5"
+msgstr ""
+
+#: ../source/abacus.rst:167
+# b9e34ecec3954f0fb642c00a79cb20a4
+msgid "2÷2=1"
+msgstr ""
+
+#: ../source/abacus.rst:169
+# ce3e06bb88ce400a97f208796fd4dba1
+msgid "3÷2=1.5"
+msgstr ""
+
+#: ../source/abacus.rst:175
+# 6e6030d3750c4a6c9a27a5bdcca08ac0
+msgid "4÷2=2"
+msgstr ""
+
+#: ../source/abacus.rst:177
+# af72365052a24cdab2b581226f814b1e
+msgid "5÷2=2.5"
+msgstr ""
+
+#: ../source/abacus.rst:179
+# 5a06c1c3c4364a068abd70842eac74a1
+msgid "6÷2=3"
+msgstr ""
+
+#: ../source/abacus.rst:185
+# 9ace64c0080e4a30b6ee0ca1e032da1f
+msgid "7÷2=3.5"
+msgstr ""
+
+#: ../source/abacus.rst:187
+# c84bdf1852a649bc9d4e673962ad2599
+msgid "8÷2=4"
+msgstr ""
+
+#: ../source/abacus.rst:189
+# 6b397d41f54f48b396b9ad2753f5efb6
+msgid "9÷2=4.5"
+msgstr ""
+
+#: ../source/abacus.rst:191
+# 5af7470dfaf64f8788331eefc44143f2
+msgid "The result is 61728394.5."
+msgstr ""
+
+#: ../source/abacus.rst:195
+# 7bd04dbc3d0c41fb9ceddda30210199d
+msgid "Fractions"
+msgstr ""
+
+#: ../source/abacus.rst:196
+# dca5d33c45154efba1500d76e4971f76
+msgid "The fraction abacus lets you add and subtract common fractions: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, and 1/12, The fractional value is determined by the number of black beads on a rod, e.g., to work with thirds, use the rod with three beads, to work with fifths, use the rod with five beads."
+msgstr ""
+
+#: ../source/abacus.rst:198
+# afeabaedb4f74d62b58cdcc42048475a
+msgid "The rods with white beads are whole numbers in base 10; from left to right 100000, 10000, 1000, 100, 10, and 1."
+msgstr ""
+
+#: ../source/abacus.rst:202
+# f9ff92c82951469fbb7dc976935fbc78
+msgid "20 + 1 + 1/2 + 1/3 + 1/6 = 22"
+msgstr ""
+
+#: ../source/abacus.rst:206
+# b36ce2be8afa410e85736294093ea001
+msgid "The toolbars"
+msgstr ""
+
+#: ../source/abacus.rst:210
+#: ../source/abacus.rst:226
+#: ../source/abacus.rst:235
+#: ../source/abacus.rst:262
+# c19e7c36bbad4b58a2b9c40d15b2e8b6
+# bb2bae833eae483ea0b42ee0c614bbca
+# c08c9952a1224c00a67e3203522c98c7
+# 64755d890ef44d70abf4250ea2c42266
+msgid "From left to right:"
+msgstr ""
+
+#: ../source/abacus.rst:212
+# a663cbc68daa408f888f9ae8dd1c27a0
+msgid "project-toolbar button see below edit-toolbar button see below abacus-toolbar button see below customization-toolbar button clear button clear the abacus stop button exit the activity"
+msgstr ""
+
+#: ../source/abacus.rst:228
+# deee536b70b1446080b5af1f89fe7dd0
+msgid "copy copy current value to clipboard paste paste a value from the clipboard into the abacus"
+msgstr ""
+
+#: ../source/abacus.rst:237
+# 9b1095389fa1461192131cb55e7e21c0
+msgid "decimal button decimal abacus soroban button Japanese abacus saupan button Chinese abacus nepohualtzintzin button Mayan abacus hexadecimal button hexadecimal abacus binary button binary abacus schety button Russian abacus fraction button fraction abacus Caacupe button fraction abacus with +/– rod button Cuisenaire-like abacus custom button your custom abacus"
+msgstr ""
+
+#: ../source/abacus.rst:264
+# 6e3c572c68044ceebddbe89714640ad4
+msgid "rods select the number of rods: top beads select the number of beads on the top of the frame bottom select the number of beads on the bottom of the frame factor select the multiplication factor of top beads (e.g., on the Chinese abacus, each top bead counts as 5× the value of a bottom bead on the same rod) base select the base to determine the value of bottom beads across rods; this is 10 on most conventional abacuses, but 20 on the Mayan abacus, 16 on the hexadecimal abacus, and 2 on the binary abacus. create you must push this button to activate the selections you've made"
+msgstr ""
+
+#: ../source/abacus.rst:279
+# 3a3f91f3762244b6843d6df89f750e4d
+msgid "Gallery of abaci"
+msgstr ""
+
+#: ../source/abacus.rst:285
+# 1ce0724508c64fbdab88e1e9df316d56
+msgid "suanpan (Chinese)"
+msgstr ""
+
+#: ../source/abacus.rst:287
+# 54fa164a9f3d435b9a53c41939f2e7c2
+msgid "soropan (Japanese)"
+msgstr ""
+
+#: ../source/abacus.rst:289
+# 44661020ccee4754b3ae20e9aba86970
+msgid "schety (Russian)"
+msgstr ""
+
+#: ../source/abacus.rst:291
+# 49ed8df2f5784bef8dc8a51301d64e45
+msgid "nepohualtzintzin (Mayan)"
+msgstr ""
+
+#: ../source/abacus.rst:297
+# 295352364b3141ee82baf80cdaa57015
+msgid "binary (base 2)"
+msgstr ""
+
+#: ../source/abacus.rst:299
+# 02949c2445a446458b077a7a94f02c1e
+msgid "hexadecimal (base 16)"
+msgstr ""
+
+#: ../source/abacus.rst:301
+# 77467b3c943a48d28b6b121c15d80f62
+msgid "fractions (1/2, 1/3, 1/4,...)"
+msgstr ""
+
+#: ../source/abacus.rst:307
+# 667691ec05fa43e1b13f4524cf4c8344
+msgid "Caacupe (fractions with +/–)"
+msgstr ""
+
+#: ../source/abacus.rst:309
+# 28534c02065d40abaf2fb4b0e2e64a0e
+msgid "decimal (base 10)"
+msgstr ""
+
+#: ../source/abacus.rst:311
+# 42124db8c67b471eb128b4eba695cf1f
+msgid "Cuisenaire-style rods (fractions)"
+msgstr ""
+
+#: ../source/abacus.rst:313
+# 2b7d32e3c16e4fccb4bda82570a0e26e
+msgid "custom, as shown: octal (base 8)"
+msgstr ""
+
+#: ../source/abacus.rst:318
+# b5cf60e78b414f4884b5dd4b9fb5dfc5
+msgid "Learning with Abacus"
+msgstr ""
+
+#: ../source/abacus.rst:319
+# 0ca8bd17c2394d45a84d0f7479a42f66
+msgid "`Some lesson plans <http://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet>`_ for using Abacus are found here."
+msgstr ""
+
+#: ../source/abacus.rst:320
+# d37bd1dc5ec944b793e64f250a9fa900
+msgid "Using beads or pebbles, you can make an abacus. What is the difference between the abacus on the computer and a physical abacus?"
+msgstr ""
+
+#: ../source/abacus.rst:321
+# f0cdf5682cc64e53a7215f9e1b38a166
+msgid "It is possible to create a custom abacus. I often use the example of `Sumerian mathematics <https://en.wikipedia.org/wiki/Babylonian_mathematics#Sumerian_mathematics_.283000_.E2.80.94_2300_BC.29>`_: the Sumerians counted on the digital bones (phalanges) of their fingers, so the base of their counting system was 12. All of the 12s (and 60s) we have in our mathemateics, e.g., 12 hours, 60 seconds, etc. have their roots in Sumerian math. But the Sumerians never invented an abacus. What would a Sumerian abacus look like?"
+msgstr ""
+
+#: ../source/abacus.rst:325
+# 859891dc15b0473caf3f12ab913c10b6
+msgid "Extending Abacus"
+msgstr ""
+
+#: ../source/abacus.rst:326
+# feb7754f63374d10ba28c171c21d50c4
+msgid "A fun project is to compare calculations using Abacus with the Calculate Activity. Which is faster? Which is more accurate? Which is better for estimating? Which is better for comparing?"
+msgstr ""
+
+#: ../source/abacus.rst:327
+# 2ddb6140a5e149998d214b18106364a6
+msgid "Abacus supports paste, so you can take numeric values from other programs and paste them into the abacus to see what their representations are; for example, I often paste numbers into the hexadecimal abacus as a quick way of converting decimal to hexidecimal."
+msgstr ""
+
+#: ../source/abacus.rst:328
+# 66c78419abec4115a4b706e16450af34
+msgid "Abacus also supports copy, so you can take a sum calculated on an abacus and export it into SimpleGraph or some other data-visualization Activities."
+msgstr ""
+
+#: ../source/abacus.rst:329
+# 8c450452380a4cabb0e4579951b1cb24
+msgid "A fun collaborative mode might be to have a number randomly selected and each sharer work independently to post it on the abacus of their choice first. There could be a tally of beads awarded for each correct answer."
+msgstr ""
+
+#: ../source/abacus.rst:332
+# 4c7fe4c1ad1747a5ab04abb66c313fe5
+msgid "Reporting Problems"
+msgstr ""
+
+#: ../source/abacus.rst:333
+# a9e97109c6c640b5bac43e186bff7aa2
+msgid "If you discover a bug in the program or have a suggestion for an enhancement, please `file a ticket <https://bugs.sugarlabs.org/newticket?component=Abacus>`_ in our bug-tracking system."
+msgstr ""
+
+#: ../source/abacus.rst:335
+# ba896d460b58426e823ab1d2b02ce4e9
+msgid "You can `view the open tickets here. <https://bugs.sugarlabs.org/query?status=accepted&status=assigned&status=new&status=reopened&component=Abacus>`_"
+msgstr ""
+
+#: ../source/abacus.rst:339
+# a316a577e379467e8c4698a006965b5a
+msgid "References"
+msgstr ""
+
+#: ../source/abacus.rst:340
+# 8cf42b9eac4b42b49f44c96cbf1bb7c7
+msgid "`Wiki page <http://wiki.sugarlabs.org/go/Activities/Abacus>`_"
+msgstr ""
+

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,117 +17,117 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/battery.rst:3
-# 1eabd405486b4964a67723840c5e6745
+# 7788c0bda26049a8b1cf889bf4b0f6c3
 msgid "Charging the Battery"
 msgstr ""
 
 #: ../source/battery.rst:6
-# ee505435de754cf884766feace38113d
+# c006c7c219c943c1a97ecea115ee7d2a
 msgid "Using battery power"
 msgstr ""
 
 #: ../source/battery.rst:8
-# 28967ef432fa4f1ca5ef2fece7310f9e
+# 8773c90fe36c448ba09211e3f862b994
 msgid "The XO needs its battery or to be plugged into a wall directly. The laptop will run from either source of power. When you get your battery it should come with some amount of charge. Use the following instructions to install your battery and charge your laptop."
 msgstr ""
 
 #: ../source/battery.rst:12
-# 1d7e62a56dbd49cba2deddd073fa75bb
+# a6651723f070479d8e5e80ff79563b64
 msgid "This is the XO battery. The battery goes on the back of your XO."
 msgstr ""
 
 #: ../source/battery.rst:15
-# 3b6a1a34a6ed467e91b9dc60ebbd4137
+# 07a1358f2ca94a7a8b98166a663e4d92
 msgid "Installing the battery"
 msgstr ""
 
 #: ../source/battery.rst:17
-# c2bfa8fd96e8465b853edac43008bb56
+# 2a380b2a760844e6b069de81d127b963
 msgid "Line up the four tabs on the new battery with the long edge furthest from the catches."
 msgstr ""
 
 #: ../source/battery.rst:18
-# 480e3dd31b6e499f9dcaab60b7652d06
+# ac8a0810b91a41aeb2b9a82315c83304
 msgid "Drop the battery into place."
 msgstr ""
 
 #: ../source/battery.rst:22
-# 6a5f16facca1466fb8f3f52603b5b595
+# 157fbb231f5a474f86684849934f388f
 msgid "Slide the left-hand side catch to the left, and press the battery gently into place."
 msgstr ""
 
 #: ../source/battery.rst:23
-# 55026d679dba42f4b56ad27b17614ac9
+# bedfcb9201a0484db7ef752aad2a01bc
 msgid "Slide the right-hand side catch to the left, to lock the battery in place."
 msgstr ""
 
 #: ../source/battery.rst:28
-# 1c4a2c5f8d6f418796d9091e1b983a1c
+# 75051ed45d3241bd8c08d27195736a11
 msgid "Charging the battery"
 msgstr ""
 
 #: ../source/battery.rst:30
-# ccfb632b033d41a8832702a0dd7c9150
+# ba7f75cb047941cd805ad851aca0a576
 msgid "Ensure that the battery is in the back of the XO's case."
 msgstr ""
 
 #: ../source/battery.rst:31
-# 51e254985efe4193a47db970f834355f
+# c8dfa48779f34dfebfd6c2de836071dc
 msgid "Plug the power cord into your XO."
 msgstr ""
 
 #: ../source/battery.rst:32
-# d914caf0ed4a48fbbcd637035d2ec9dc
+# e46c1b7b63694693b8f238bc14d9a110
 msgid "Plug the other end of the power cord into the nearest power source, such as the one connected to the school's generator or a 12 Volt car battery."
 msgstr ""
 
 #: ../source/battery.rst:35
-# 4cb6841331bf4ee5ad73ef5f91c6b498
+# a05bbc00e08a4cdf8e8360a582d057d0
 msgid "Plugging in your XO"
 msgstr ""
 
 #: ../source/battery.rst:37
-# 36f4d2f6bf9f4b6cbea83168504a4368
+# 2bb77ca9338245a1b93dcd4f13e5eb0a
 msgid "You can use your XO while it is plugged in, when you are charging the battery or when you have a good source for power. For power sources, you can use the generator supplied by your school, the electrical grid, or another source of electricity."
 msgstr ""
 
 #: ../source/battery.rst:40
-# 670d40afdf3c4c518917ca3af7371cdf
+# b1e6dcafb7ba4cfcaaab53d72f389241
 msgid "When to charge the battery"
 msgstr ""
 
 #: ../source/battery.rst:42
-# 7e22cee6eb124c82ab59d8b075b2a391
+# d7fe56eaa1e648018ba32053cc65e2cb
 msgid "The battery icon in the Frame fills with color, showing you the current charge, or amount of power in the battery. Move the pointer over the battery icon to see how full the battery is. While the battery charges, the battery light near the power button (shaped like a battery) should display yellow, turning to green when the battery is fully charged. A red light tells you that the battery is running very low and you should charge it soon."
 msgstr ""
 
 #: ../source/battery.rst:45
-# ef5c38263240498e9e81801e65dc57ca
+# 28b7f7adea52480ba349c179394fd702
 msgid "Troubleshooting"
 msgstr ""
 
 #: ../source/battery.rst:47
-# ee88fe1dbb524bdb9c6fdb2e48bd6096
+# 027d6f279cc648bd931be56fdd85039c
 msgid "If your battery charge gets extremely low during shipping, your XO may not start up. Plugging in external power may not charge the battery."
 msgstr ""
 
 #: ../source/battery.rst:49
-# d7dd8d4682ec40978363bcebe8cc4595
+# 7083f6af9f6e4912becc7ea1c62b2129
 msgid "The solution is to remove the battery, power up the laptop on external power and then insert the battery. Then it will charge and the charging light will be on."
 msgstr ""
 
 #: ../source/battery.rst:51
-# 461a14962e0643949c31674f3b026f1c
+# 577a2fe4ba304f1680e94a995ae76f7e
 msgid "If you're the tinkering type, several more advanced battery troubleshooting tips are at: http://wiki.laptop.org/go/XO_Troubleshooting_Battery."
 msgstr ""
 
 #: ../source/battery.rst:54
-# bc3e97de68f34c3698d973d3feffad98
+# c4cd2d48728c47aca1ebb206c5289100
 msgid "Locating a battery for replacement"
 msgstr ""
 
 #: ../source/battery.rst:56
-# a1619df2420d49f1a1bfd145369ade67
+# 5ea743b94db54ef6885ebd3be1945e6f
 msgid "Refer to http://wiki.laptop.org/go/Directory_of_repair_centers to get to the most recent directory of repair centers, and ask for a replacement battery for your XO."
 msgstr ""
 

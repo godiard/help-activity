@@ -1,0 +1,157 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# b01a5ad64c5846459b7f84131bef8514
+#: ../source/log.rst:3
+msgid "Log"
+msgstr ""
+
+# 23fd3cf5728148fb8166aefb336e3364
+#: ../source/log.rst:6
+msgid "About"
+msgstr ""
+
+# 1b626c5decaa4cba884d056d55c8a3ca
+#: ../source/log.rst:10
+msgid ""
+"The Log Activity allows you to troubleshoot problems with your computer.  "
+"You can view the log files of Sugar and your Activities.  Log files contain "
+"errors, warnings and debugging information to help you fix problems."
+msgstr ""
+
+# 7a683634982b4c5394bb6f27258fb95d
+#: ../source/log.rst:15
+msgid "Using Log"
+msgstr ""
+
+# 10a72f4405d34e44a3d3c3ab547c25af
+#: ../source/log.rst:19
+msgid ""
+"When you open Log, there are 2 panels.  On the left is a list of log files. "
+"On the right, the contents of the selected file is displayed."
+msgstr ""
+
+# 4a328c23b766473f9315fd9bbf96962f
+#: ../source/log.rst:22
+msgid ""
+"The list of log files is divided into sections, each representing a folder. "
+"Pressing the arrow icon a to the folder name will hide or show its contents. "
+"Items without arrows are log files.  Pressing an item that does not have an "
+"arrow will display the contents of that file in the right panel."
+msgstr ""
+
+# bb1805bb50554bffbf0847199c048567
+#: ../source/log.rst:27
+msgid ""
+"There are 3 main folders in the log file list.  The first is the ``.sugar`` "
+"or ``dotsugar`` folder.  This contains the log files of Sugar and your "
+"Activities. The sub-folders contain backups of older logs (log files in ``."
+"sugar`` are deleted on shutdown).  The second main folder ``/var/log``.  "
+"This contains system log files.  These are helpful for troubleshooting "
+"issues related to your computer hardware.  The last main folder is "
+"``Other``, and contains miscellaneous log files."
+msgstr ""
+
+# 1d2297f34b7047778a5a3301855f442f
+#: ../source/log.rst:35
+msgid ""
+"The ``.sugar`` folder is the first folder you should look at when "
+"troubleshooting Sugar and your Activities.  The ``shell.log`` file contains "
+"errors, warnings and debugging information for the Sugar Shell.  The Sugar "
+"Shell covers the home and neighborhood views, journal, frame, web services "
+"and control panel.  Each activity has its own log file, named using its "
+"bundle ID. You can find an activity's bundle ID by opening view source while "
+"using the activity, clicking the ``activity`` folder and opening the "
+"``activity.info`` file.  If you open an activity for a 2nd time, a separate "
+"log file will be created, with ``-2`` added to the end of the file name.  "
+"This pattern continues if you run the activity more than 2 times."
+msgstr ""
+
+# 0ba75dd2377841649a95e95eba5b7808
+#: ../source/log.rst:47
+msgid "The Toolbars"
+msgstr ""
+
+# fcaadc89abf74cad9c3b6a0673d7dbef
+#: ../source/log.rst:51
+msgid "Activity Toolbar"
+msgstr ""
+
+# d21caceb6cf04b32a35c65af6b39b481
+#: ../source/log.rst:52
+msgid "Hide/Show the list of files"
+msgstr ""
+
+# d3ac2767c5a741a985cfdec2d501ae0c
+#: ../source/log.rst:53
+msgid "Copy the log file"
+msgstr ""
+
+# cd2f009e1c8e487fbc0954e4e226038f
+#: ../source/log.rst:54
+msgid ""
+"Enable/Disable word wrap.  When word wrap is disabled, there is a horizontal "
+"scroll bar.  When word wrap is enabled, the lines of text too long to fit on "
+"the screen are broken up."
+msgstr ""
+
+# c9548c20e98b44e4b568c4ca8d2004c5
+#: ../source/log.rst:57
+msgid "Find and highlight text in the log file"
+msgstr ""
+
+# 2421ff28bb5b49cabad5c2f05f606c27
+#: ../source/log.rst:58
+msgid "Previous matching text"
+msgstr ""
+
+# 14af8e7eba3b4929bd5de930575e736e
+#: ../source/log.rst:59
+msgid "Next matching text"
+msgstr ""
+
+# c0f64497ddd54e09bd40c336cf4f24a8
+#: ../source/log.rst:60
+msgid "Delete current log file"
+msgstr ""
+
+# 92ca61ee55664c948fe9c44019f3b02c
+#: ../source/log.rst:61
+msgid "Stop activity"
+msgstr ""
+
+# 837092eed96549359fb9cb6072c0b1f0
+#: ../source/log.rst:65
+msgid "Activity Name"
+msgstr ""
+
+# 4a7dc188809e4380932d487aa9be6990
+#: ../source/log.rst:66
+msgid "Activity Description"
+msgstr ""
+
+# f5433bfa802844c9aad1a1dd45e0a7af
+#: ../source/log.rst:67
+msgid ""
+"Save log files to Journal.  This packages the log files in a format that you "
+"can send over the internet.  If you find a bug, you can email this package "
+"to the activity's developers so they can fix this bug.  If you are filing a "
+"support ticket or bug report, you should attach this file, so the problem "
+"can be more easily diagnosed and fixed."
+msgstr ""

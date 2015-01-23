@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 5af42ee8b9104cc3a4b44487640db45a
+# 54a328a2cdb341dc915d5df8cfc5f496
 #: ../source/what_is_an_activity.rst:3
 msgid "What is an Activity"
 msgstr ""
 
-# 0d934b9c959943c99334579f6a86fb43
+# a6066539a4fa49a8b3b4887f3bb7d16a
 #: ../source/what_is_an_activity.rst:5
 msgid ""
 "Activities are the things you use to make projects in Sugar on your XO. "
@@ -30,7 +30,7 @@ msgid ""
 "icon."
 msgstr ""
 
-# 3304ca293b9d48f08bdc990d3ac72580
+# 2b800bb9353b44be8f3f689fd482d8c6
 #: ../source/what_is_an_activity.rst:9
 msgid ""
 "These activities have been selected from all those installed on your laptop. "
@@ -38,7 +38,7 @@ msgid ""
 "clicking on the “List” view (1) in the upper right corner of your screen."
 msgstr ""
 
-# 74912c9d74de4512ad20f0f23af8b44f
+# 7babc2b23fca466a8fbc30a55dce3a51
 #: ../source/what_is_an_activity.rst:11
 msgid ""
 "To start an activity, you can click its icon. This will open the last "
@@ -48,7 +48,7 @@ msgid ""
 "and click “start new”."
 msgstr ""
 
-# 1f6e0e4ea2b84ab5908cad7e83459213
+# dc05e0b6083e4734ba4a91e5c95ef6ec
 #: ../source/what_is_an_activity.rst:13
 msgid ""
 "There is one special activity called the “Journal” which appears under your "
@@ -61,7 +61,7 @@ msgid ""
 "exploration, such as Turtle Art, Etoys, and Scratch."
 msgstr ""
 
-# b960444df28244619cc7233118890934
+# 2acb9a4341274dcd8538443880d10201
 #: ../source/what_is_an_activity.rst:15
 msgid ""
 "There are Activities which are games, such as Memorize and Implode. Some "
@@ -72,7 +72,7 @@ msgid ""
 "in your animation, or story or Memorize game."
 msgstr ""
 
-# 46eeb1e058104ad48457c063d16e0f5c
+# e2f6d3b0af30408c8f646f4ef4e9907b
 #: ../source/what_is_an_activity.rst:17
 msgid ""
 "A set of Activities is pre-installed with the Sugar environment. More "

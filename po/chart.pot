@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/chart.rst:3
+# 17c5e952fafb4714b63cb69ced4d7c44
+msgid "Chart"
+msgstr ""
+
+#: ../source/chart.rst:6
+# b32d302236d44ffc8b55279993e33855
+msgid "About"
+msgstr ""
+
+#: ../source/chart.rst:8
+# 649961cc45604c57bbb512c0a65be1e3
+msgid "|Chart_icon| Chart lets you do graphical representation of simple tabular data, in the form \"label: value\". It can draw Horizontal/Vertical bar charts, line charts and pie charts."
+msgstr ""
+
+#: ../source/chart.rst:21
+# a5ee7e3eae2f4b5282cf87bb5d346bc3
+msgid "Using chart"
+msgstr ""
+
+#: ../source/chart.rst:24
+# a416dd48cdc34fc7a9441385b83dd9ef
+msgid "Basic Usage"
+msgstr ""
+
+#: ../source/chart.rst:26
+# 5a17ed1179d04db895341068394bb5a1
+msgid "First you need to add data to create the graph"
+msgstr ""
+
+#: ../source/chart.rst:28
+# b860a2d62a224a7783900add83751ce0
+msgid "You can add data with |add_icon| button"
+msgstr ""
+
+#: ../source/chart.rst:32
+# 3bf06147df7340a89c7d25f2a2026a3e
+msgid "... or remove data wih |remove_icon| button"
+msgstr ""
+
+#: ../source/chart.rst:36
+# 0e62c6b95b224791b5d607f8545deabd
+msgid "To change the graph title, just change the activity title"
+msgstr ""
+
+#: ../source/chart.rst:38
+# 8f970d6596874c59b3e4f32a71550403
+msgid "Next, you can change the type of the graph"
+msgstr ""
+
+#: ../source/chart.rst:40
+# 229bb9042efe407090bdd092c16f1fd6
+msgid "Vertical Bars |ver_icon|"
+msgstr ""
+
+#: ../source/chart.rst:44
+# 68bcdaf97ee441a7a3d510a0f6fa1acb
+msgid "Horizontal Bars |hor_icon|"
+msgstr ""
+
+#: ../source/chart.rst:48
+# 33e946161e474ef0958c6b742d4788d9
+msgid "Lines |line_icon|"
+msgstr ""
+
+#: ../source/chart.rst:52
+# c53c42c3eae34e3e93a4a2d2a10adb58
+msgid "Pie |pie_icon|"
+msgstr ""
+
+#: ../source/chart.rst:58
+# 84d500801b434598ba1dfe49980fe7b7
+msgid "Configs"
+msgstr ""
+
+#: ../source/chart.rst:60
+# 0c11464c1c554d59a19700bb87468e76
+msgid "You can change the colors or the horizontal and vertical labels in the configs toolbar |set_icon|"
+msgstr ""
+
+#: ../source/chart.rst:66
+# ac667430cfc54e4dbe351d7022346256
+msgid "Full Screen Mode"
+msgstr ""
+
+#: ../source/chart.rst:68
+# 99a4b45d748144b8aa1ffcdb5a0a41bf
+msgid "To enter full screen mode press ``Alt+Return`` or click the |FullScreen_Icon| Icon."
+msgstr ""
+
+#: ../source/chart.rst:74
+# d72b125af43946e99903790c8356a60a
+msgid "Download"
+msgstr ""
+
+#: ../source/chart.rst:75
+# ab527cd05c6c46fabc1d9c69a520e132
+msgid "`Activity page in our activities portal <http://activities.sugarlabs.org/en-US/sugar/addon/4534>`_"
+msgstr ""
+
+#: ../source/chart.rst:79
+# 1e10113d1a02466198fbc617457a80b4
+msgid "Development"
+msgstr ""
+
+#: ../source/chart.rst:81
+# 0d02f01561e54b17ab6022b76436037e
+msgid "`Git Repository <http://git.sugarlabs.org//simplegraph>`_"
+msgstr ""
+
+#: ../source/chart.rst:83
+# 8fcbe6e470984718b4b669bdce9209cf
+msgid "Chart uses `PyCHA library <https://bitbucket.org/lgs/pycha>`_"
+msgstr ""
+
+#: ../source/chart.rst:86
+# 17ec4e2594354604bf5136398401b609
+msgid "Ideas for future releases"
+msgstr ""
+
+#: ../source/chart.rst:88
+# acb6402236e74e6194275291a510bfbb
+msgid "Show a help tutorial when activity is started from scratch"
+msgstr ""
+
+#: ../source/chart.rst:90
+# 7b89ab5d53084ac2a1209f80b68475da
+msgid "Share, edit the data with your friends"
+msgstr ""
+
+#: ../source/chart.rst:93
+# 8cf4e6a1da7646bebd552cc2352f8072
+msgid "Support"
+msgstr ""
+
+#: ../source/chart.rst:94
+# ca22da90c99c4c388aa70bb4bbb2117e
+msgid "Support for this activity is provided by the developer"
+msgstr ""
+
+#: ../source/chart.rst:96
+# ebc18262758f4d6c88b4c333e856e0b9
+msgid "at http://wiki.sugarlabs.org/go/Activities/SimpleGraph"
+msgstr ""
+
+#: ../source/chart.rst:98
+# ecbfedc8bb374e3cae4cd8a3f0808c0c
+msgid "or by sending an e-mail to aguz@sugarlabs.org"
+msgstr ""
+
+#: ../source/chart.rst:102
+# 5bb1deabd1444c81aee55996b8e2d46e
+msgid "References"
+msgstr ""
+
+#: ../source/chart.rst:103
+# 2667d962d2104526af8636135fd2103a
+msgid "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/Chart>`_ `Download Page <http://activities.sugarlabs.org/en-US/sugar/addon/4534>`_"
+msgstr ""
+

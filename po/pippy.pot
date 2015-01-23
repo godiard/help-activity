@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,97 +17,97 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/pippy.rst:3
-# aea1eee0aa7241a58f36b4b125e0bb61
+# f0b976bffb7042088c3de84952f3a05d
 msgid "Pippy"
 msgstr ""
 
 #: ../source/pippy.rst:6
-# 72ba88feb4e94af0a7b50d29e23cc3ba
+# c8d491e2104e45088216a227b6a08fa2
 msgid "About"
 msgstr ""
 
 #: ../source/pippy.rst:8
-# 9b5503645bea4218835c791024b73f79
+# 7090aef1cc30449ab51408bc7db1db54
 msgid "Pippy allows the student to examine, execute, and modify simple Python programs. In addition it is possible to write Python statements to play sounds, calculate expressions, or make simple text based interactive games."
 msgstr ""
 
 #: ../source/pippy.rst:11
-# 3bbc8eaea5c545f1a57486f8bb84f119
+# e9959e0d8706408299235dbd7d00e6de
 msgid "Where to get Pippy"
 msgstr ""
 
 #: ../source/pippy.rst:13
-# 32f7a0e8ea7d4c0dbe26af128c582458
+# b0e32d7c34fd46528f091a6f66180714
 msgid "Pippy is included in the standard releases of the OLPC software. It is available for download `here <http://activities.sugarlabs.org/en-US/sugar/addon/4041>`_"
 msgstr ""
 
 #: ../source/pippy.rst:16
-# a2b8a4e8f2204914adf4a5fa3be646bc
+# e72ecf6149904d9bbced4560b1a802f5
 msgid "Using"
 msgstr ""
 
 #: ../source/pippy.rst:18
-# c4846862030945629504274cc216a8d9
+# 4c4d0a4bc6fa45ea8845de340c1cb7b8
 msgid "The left column is a list of python programs, which can be viewed, and modified in the upper right window, and where the results of execution are displayed in the lower right window."
 msgstr ""
 
 #: ../source/pippy.rst:23
-# c3186cb0325548fa801d6e912c66ad8c
+# bc37ed69ea6040859b80fdbb0054e579
 msgid "Learning with Pippy"
 msgstr ""
 
 #: ../source/pippy.rst:25
-# 2cab2088a52b478cb105e08dd560ead8
+# 64b421cf649e4a6c93a6345873ddf473
 msgid "Etoys and Turtle art provide easy introduction to programming. Pippy introduces a more traditional view of programming a computer, wherein the instructions are first written to a text file, and then executed with a \"run\" command."
 msgstr ""
 
 #: ../source/pippy.rst:27
-# 095ec45786a3472a968454ed353afc11
+# a8db27fd17d544fd83d378ec4a502455
 msgid "In particular, it is instructive to play with the sounds:"
 msgstr ""
 
 #: ../source/pippy.rst:29
-# 348a3966d7ab49daa65eaf87346b93d8
+# 7319013ecfe747e68704fe88b57fbafb
 msgid "Get the list of sounds by executing the Getsoundlist program"
 msgstr ""
 
 #: ../source/pippy.rst:30
-# 828f2526c38849268aa5b256b5a7b2ae
+# c48152eacf35417b8bf418bc8e0620c4
 msgid "Copy the name of one of the sounds and replace the \"digeridu\" sound name in Playwave program."
 msgstr ""
 
 #: ../source/pippy.rst:33
-# c76b7be84d3a4bfb9baa160584c842c8
+# aa64fe7ad97543848da72b90d3980dcf
 msgid "Extending Pippy"
 msgstr ""
 
 #: ../source/pippy.rst:35
-# 0ad66e533b4b4b8fb43b920d2973634e
+# 627f65f1329e4145b37a370d55aa24a1
 msgid "If Pippy is used in parallel with the Write Activity, it is possible to develop  larger programs. Copy the program that you develop in the Write Activity by selecting all (<ctrl>a) and copying it to the clipboard (<ctrl>c), then switch to the Pippy Activity, and paste (<ctrl>v) it into the code window. If there are errors that you want to correct, you can make the changes in the code window, and immediately see the results of your changes. Then by copying the changed program back to the clipboard, you can paste it back into the Word Activity, and save the changes to the Journal."
 msgstr ""
 
 #: ../source/pippy.rst:38
-# dbaa227e79b245758542ccc28a5c1994
+# 8f5cc848c6964a578b0a8ac88274eb8a
 msgid "Modifying Pippy"
 msgstr ""
 
 #: ../source/pippy.rst:40
-# 51d3f5126fc64ed79664ddbc75f2a04c
+# bdf038f9847743d19fdbe583af3c4b71
 msgid "The student can add small programs, and have them show up in the left column of Pippy by adding files to /home/olpc/Activities/Pippy.activity/data. There is a large number of suggested examples of programs for Pippy at http://wiki.laptop.org/go/Pippy#Examples."
 msgstr ""
 
 #: ../source/pippy.rst:43
-# c5f9de6c281c4a40b958c9f656e7cf5d
+# 9d9ff05047b74f9b99ad9cc882585f27
 msgid "Where to report problems"
 msgstr ""
 
 #: ../source/pippy.rst:45
-# 3e11a40327e343daaf0bd691295a3c15
+# d783471fb02049aebdcf98cf01ba767f
 msgid "There's a range of ways to report problems. The easiest is to email to the sugarlabs email list at sugar-devel@lists.sugarlabs.org. Someone on the list will respond to you, and perhaps also put a formal bug report at http://bugs.sugarlabs.org/."
 msgstr ""
 
 #: ../source/pippy.rst:47
-# aeee555e903c4f3db1c537b039ff9b92
+# 9e041419ca78416fbdcca4f5f4153b24
 msgid "Or you can register at http://bugs.sugarlabs.org/ and enter a bug report yourself."
 msgstr ""
 

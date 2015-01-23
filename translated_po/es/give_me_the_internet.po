@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 0da9b0c1eb254008af4deac36446b829
+# 00ff91c811704d658e0dbcd3051ac776
 #: ../source/give_me_the_internet.rst:3
 msgid "Give Me the Internet"
 msgstr ""
 
-# 832b5d5e01384a3f979da494a0703a81
+# 940ea1737881416a954f352363b4ab40
 #: ../source/give_me_the_internet.rst:6
 msgid "Give Me the Internet, Please"
 msgstr ""
 
-# 19a0279ce8364bebb4c38779c847ca4e
+# 7bcc6b11179d435397c926fe405a2405
 #: ../source/give_me_the_internet.rst:8
 msgid ""
 "The designers of the XO laptop designed it for primarily wireless access, so "
@@ -35,7 +35,7 @@ msgid ""
 "expensive to introduce wireless connections than wired ones."
 msgstr ""
 
-# d7241c7e4c294fffa1ab428802ad909a
+# c8e4a5d40aa9491796414293dd1806b8
 #: ../source/give_me_the_internet.rst:10
 msgid ""
 "XOs are designed to connect to other XOs using a mesh network. A mesh "
@@ -44,7 +44,7 @@ msgid ""
 "(ISP)."
 msgstr ""
 
-# 59dabde397f9469a98e84a8741942566
+# 59372dd06de0412e9643f530d3a3b090
 #: ../source/give_me_the_internet.rst:12
 msgid ""
 "The XO also supports wireless connections for direct Internet connection. "
@@ -52,36 +52,36 @@ msgid ""
 "connection."
 msgstr ""
 
-# dd10245c45df4b9887bc3244c3ab91f5
+# 20e66ca06286403db8a51018ec1f56e0
 #: ../source/give_me_the_internet.rst:14
 msgid "There are different ways to connect to the Internet:"
 msgstr ""
 
-# 80b732045d534960b48effe86db2f435
+# 72b3b0b4e26540488653ac4a67586e26
 #: ../source/give_me_the_internet.rst:16
 msgid ""
 "using a wireless access point such as a WiFi hotspot at a library or coffee "
 "shop, or a location that has a wireless router such as your house"
 msgstr ""
 
-# 66153fba40394f9a96e260558dfb35ff
+# 02b6f54b990c4242a7634148c205a05f
 #: ../source/give_me_the_internet.rst:17
 msgid "using a \"School Server\" provided by your school system"
 msgstr ""
 
-# 35c65810c95946cbb1396604ca0361fb
+# fbf40f7109854962987cf09f0031725b
 #: ../source/give_me_the_internet.rst:18
 msgid ""
 "using a USB-to-Ethernet cable that plugs into a cable modem, DSL modem, or "
 "local network such as those offered at a home or workplace"
 msgstr ""
 
-# 33c0c68d7ac6472e84876928882f2203
+# 7e6c97fa2b424b8a955f124b355c043a
 #: ../source/give_me_the_internet.rst:21
 msgid "Before you connect"
 msgstr ""
 
-# 3de89a86beb04d0f8b6f3fc644e82cac
+# 235a482a58c640b6a016e31817d61f0f
 #: ../source/give_me_the_internet.rst:23
 msgid ""
 "If you are going to connect at school or at home, check with your ISP to "
@@ -91,7 +91,7 @@ msgid ""
 "needed. The Troubleshooting chapter offers some assistance."
 msgstr ""
 
-# b2c79d10d62f4896b48d7a7b8149b983
+# 4b1546f0cc3b493599bfc035cb71311d
 #: ../source/give_me_the_internet.rst:25
 msgid ""
 "Check your current connection status as shown in the lower right area on the "
@@ -99,79 +99,79 @@ msgid ""
 "the connection and will connect again in the future."
 msgstr ""
 
-# d16be067aa184237a70094beb7cd2e84
+# c9f2721df40440289806640252f02310
 #: ../source/give_me_the_internet.rst:29
 msgid ""
 "Go to a location with your XO where you know there is a Wireless Access "
 "Point (WAP) nearby."
 msgstr ""
 
-# 9e66a4e26bb24483a3899a63bb2d27c1
+# 3ad26b8fc5e540108c99a363231a85f1
 #: ../source/give_me_the_internet.rst:31
 msgid ""
 "Find out the network name (or SSID) and its password, if it is secured with "
 "a password. The XO refers to this as the Wireless Key."
 msgstr ""
 
-# a74477f834994bd78f6086df937d3fad
+# 83a27aac747d4cec862b55f5b703a9ef
 #: ../source/give_me_the_internet.rst:34
 msgid "Connecting"
 msgstr ""
 
-# bd1604b86cc249b08faadc3e8137b90d
+# 14db8033903e4046b81300f55911fe7d
 #: ../source/give_me_the_internet.rst:36
 msgid "Go to the Neighborhood View."
 msgstr ""
 
-# a59b457a5fd24d149c16187e639ff4bd
+# 2b9de2d1b7b049a2b7093cae4417370a
 #: ../source/give_me_the_internet.rst:41
 msgid ""
 "In the Search field, enter the name of the network to which you want to "
 "connect."
 msgstr ""
 
-# e370ca36872f429099c9b2b46f42fab7
+# 3e1c63db9a174a33bc913becd0e20d4c
 #: ../source/give_me_the_internet.rst:45
 msgid ""
 "Or roll the pointer over one of the network access circles until you "
 "recognize the name of the wireless network."
 msgstr ""
 
-# 9d892558316a47349cb04d36ee78ffb2
+# 917d2ded005f483fa025457788a50d01
 #: ../source/give_me_the_internet.rst:50
 msgid "Checking name of an AP"
 msgstr ""
 
-# 80e34686075246d99fb136466582fecb
+# 0ca62c8ff3604bc39ebbbc8ba5579fa7
 #: ../source/give_me_the_internet.rst:52
 msgid "Connect by clicking the center of the circle."
 msgstr ""
 
-# 1be0fa2a87874cbf8d0bb37ee4d76576
+# 0be5fa28f145401daefdf585c33084f8
 #: ../source/give_me_the_internet.rst:56
 msgid ""
 "Wireless access points are represented by circles. The fill level indicates "
 "signal strength."
 msgstr ""
 
-# d25b34280b5a4486ac0375e92b0967d0
+# 768124ca3ef0415aa69f48d4f6376473
 #: ../source/give_me_the_internet.rst:60
 msgid "Access points that require keys have a \"locked\" icon."
 msgstr ""
 
-# 187d20034f064f6ab261921060365463
+# 9c067eb9f80e4e3abc876dc3c925826a
 #: ../source/give_me_the_internet.rst:64
 msgid ""
 "Access points that you have successfully connected to become \"Favorites\" "
 "as indicated by a star icon."
 msgstr ""
 
-# 29fafc0e2ef143f6b157b1271e520418
+# 6f2ee4afe6e944bcb964d5e60f09008d
 #: ../source/give_me_the_internet.rst:66
 msgid "TODO: Picture_49.png  need a new screen shot for the new mesh network"
 msgstr ""
 
-# 250092248f6644c09a6f7dbb0b538734
+# 3624239579b64ca3900bfb4fcfc33f2b
 #: ../source/give_me_the_internet.rst:68
 msgid ""
 "Access points that represent the Mesh network are indicated with a target "
@@ -180,51 +180,51 @@ msgid ""
 "or if you need to click to connect."
 msgstr ""
 
-# 5a7a74d7cd9f44a0897b94a6771cefa6
+# 2d6794f11cf54fc2a0ee353524201a58
 #: ../source/give_me_the_internet.rst:72
 msgid "Connected"
 msgstr ""
 
-# eaae95f97a114417a48325a1cefcc8f2
+# 3e8c9822e1c545349572d7174df2a0c8
 #: ../source/give_me_the_internet.rst:76
 msgid "Not yet connected"
 msgstr ""
 
-# 4c05c0b1dd0e4701b5c50f4b501caefb
+# 6de2878f26a54f7b8d13255516f45952
 #: ../source/give_me_the_internet.rst:78
 msgid "The name of the access point is displayed when you hover over it."
 msgstr ""
 
-# 1fe1333cba1441669c18067b7f7ac495
+# e410473c015f4af19e93ab22da516df2
 #: ../source/give_me_the_internet.rst:80
 msgid "The center of the circle blinks while the laptop is trying to connect."
 msgstr ""
 
-# 3820a47a922d4843958747b3cb7815ea
+# 7e47552897704d9fba88942f8f64a2c6
 #: ../source/give_me_the_internet.rst:84
 msgid ""
 "Enter the wireless key if prompted. You might need to ask your teacher or "
 "parent for the wireless key."
 msgstr ""
 
-# 9a4af5e29f2248cdba00a012cbe92239
+# 1938ee4152aa4ffc83a8b8b565973f56
 #: ../source/give_me_the_internet.rst:86
 msgid "Entering wireless encryption (WEP) password"
 msgstr ""
 
-# 9dece9f0f1574ef5abe63bbbbf64ee58
+# 673c5060bfe34024b52ca3e8d2dbdbc9
 #: ../source/give_me_the_internet.rst:88
 msgid "While the XO is connecting to the network, the Access Point blinks."
 msgstr ""
 
-# 9369db63f9b0440f827cd0497894a763
+# 4d42e3786ae840f097e2871857dbbd9f
 #: ../source/give_me_the_internet.rst:90
 msgid ""
 "Once you are connected, the menu on the circle in the Neighborhood View "
 "changes, and you can see a circle in the lower right area of the Frame."
 msgstr ""
 
-# dd5c5d1bd8214f0c807e198e47c52124
+# 39fc786dc8744a4781df7cb61fe4d1f2
 #: ../source/give_me_the_internet.rst:94
 msgid ""
 "if the attempt to connect fails, the circle stops blinking, but the access "
@@ -232,21 +232,21 @@ msgid ""
 "Neighborhood View to try again—it sometimes takes 2–3 tries to connect."
 msgstr ""
 
-# 968bcd44b1be4c959b8d4939dd66a556
+# a0b2696b4cf44b2287e2966023f8797e
 #: ../source/give_me_the_internet.rst:96
 msgid ""
 "To disconnect from the network, hover the pointer over the access point and "
 "click Disconnect on the menu."
 msgstr ""
 
-# 5e2f5141f34945589063a5420672a52a
+# c1546f54204b490b89f5d728380deca6
 #: ../source/give_me_the_internet.rst:100
 msgid ""
 "Once your XO is connected, you can return back to the Home View and launch "
 "the Browse Activity."
 msgstr ""
 
-# ed5e0ccf953043b38cbca6825bed4ab3
+# 377e6b031c5345f3a2bdee987d90a4b8
 #: ../source/give_me_the_internet.rst:106
 msgid ""
 "If you have not yet added the Browse Activity to your favorites, click the "
@@ -256,7 +256,7 @@ msgid ""
 "launch it (as is done in the next step)."
 msgstr ""
 
-# e4c9e78c3ab0407ebec0da5b51d3401d
+# 19bb958ac8bf41558dfd0db85d6bc43c
 #: ../source/give_me_the_internet.rst:107
 msgid ""
 "If you have added the Browse Activity to your favorites list, you can click "
@@ -264,12 +264,12 @@ msgid ""
 "Internet."
 msgstr ""
 
-# 9d87ad59e1aa4db5988f136fa6affb90
+# 257af580d2df492e96ea723ef06e4229
 #: ../source/give_me_the_internet.rst:109
 msgid "Click the globe icon to launch the Browse Activity."
 msgstr ""
 
-# 7964208b9a244bd8a04f5cc88defbbda
+# f00de516878348798a5d126a4efacb1b
 #: ../source/give_me_the_internet.rst:113
 msgid ""
 "If you cannot see an Access Point with a name that you recognize, the "
@@ -278,12 +278,12 @@ msgid ""
 "a network connection, refer to the Troubleshooting chapter."
 msgstr ""
 
-# cc15e7bfaaff4100b779928a8401dccd
+# f65c0e893917412a91157345dac624b0
 #: ../source/give_me_the_internet.rst:115
 msgid "More information about your XO's connection:"
 msgstr ""
 
-# 93fcc7b66fa64d219949c40c7040d642
+# e520f14b83a845f9b95883901c26763e
 #: ../source/give_me_the_internet.rst:117
 msgid ""
 "Your Wireless Access Point has a network name, also called an SSID, that "
@@ -292,7 +292,7 @@ msgid ""
 "Troubleshooting chapter for more information about hidden SSIDs."
 msgstr ""
 
-# 56d2d7b17d114dac822e290779f4dc91
+# c979773f02454345bd903f3f9ff74862
 #: ../source/give_me_the_internet.rst:118
 msgid ""
 "If you are connected to the Internet, your XO laptop cannot be on the mesh "
@@ -300,12 +300,12 @@ msgid ""
 "connect wirelessly to the Internet."
 msgstr ""
 
-# 9dc01f9724ec4c3fb324fc7678c38c5c
+# 4b1816c9bd4e44afb3e2e05aebbccf65
 #: ../source/give_me_the_internet.rst:121
 msgid "Mesh or AP"
 msgstr ""
 
-# 9b4687c905304069848d58fd81b21945
+# 8933611ab34d43c1b20a34b98e0e0881
 #: ../source/give_me_the_internet.rst:123
 msgid ""
 "If the XO cannot find an available Internet network point after five minutes "
@@ -313,21 +313,21 @@ msgid ""
 "connect to other nearby XO laptops."
 msgstr ""
 
-# b22b168ffa3043e395c6d2508170a880
+# 2ad3ce6e504d444c84a7c190a6aa3f69
 #: ../source/give_me_the_internet.rst:124
 msgid ""
 "Please be patient; it can take your XO up to a minute to find newly visible "
 "networks."
 msgstr ""
 
-# 4d28920900c647d68384647fafa90585
+# 4b9f702004ef4e4897181f3ce08890b8
 #: ../source/give_me_the_internet.rst:125
 msgid ""
 "Sometimes you'll be asked to enter the \"Wireless Key\" again. Enter it "
 "again and repeat until your connection is complete."
 msgstr ""
 
-# 1755e4048a794d089b35fcafac3c8168
+# dbd0cba526984668a3252e33057744ec
 #: ../source/give_me_the_internet.rst:127
 msgid ""
 "For more information about connecting, please see the Support FAQ online."
