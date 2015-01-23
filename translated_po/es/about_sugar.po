@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 4e2f6b0753974bf39ecfc3e73b103b24
+# fcdda02e6bf24c3d8ca3cedd2979ea4f
 #: ../source/about_sugar.rst:3
 msgid "About Sugar"
 msgstr ""
 
-# 12fc915cc17a4a7f9c5f4421a23623fc
+# 670e040eeee84ca4b3fa2934a6c5c0c4
 #: ../source/about_sugar.rst:6
 msgid "What is Sugar?"
 msgstr ""
 
-# 9aa58693d9bc4b62859b94b9aec91b57
+# d8678151984540949f052278d659a999
 #: ../source/about_sugar.rst:8
 msgid ""
 "*\"We like to think that a child's play is unconstrained—but when children "
@@ -41,7 +41,7 @@ msgid ""
 "anything drive them to work so hard.\" —Marvin Minsky, The Emotion Machine*"
 msgstr ""
 
-# ad203f6cf2e94f90a26ba01cee1d9766
+# 8be233777b9f42c68ae65433cc1921f4
 #: ../source/about_sugar.rst:10
 msgid ""
 "Sugar is a learning platform that reinvents how computers are used for "
@@ -55,14 +55,14 @@ msgid ""
 "(FOSS)."
 msgstr ""
 
-# 724c016dfdff40ba8c98110eb4ea5f58
+# eb4503f7232742ec8aaec75b528276aa
 #: ../source/about_sugar.rst:12
 msgid ""
 "|sugar_sharing| Sugar facilitates sharing and collaboration. Children can "
 "write documents, share books and pictures, or make music together with ease."
 msgstr ""
 
-# c43b69b4c93842bbb3bec0f02beb0721
+# db0c289560554db4a07dd857a201fc19
 #: ../source/about_sugar.rst:16
 msgid ""
 "|sugar_ring| There are no files, folders, or applications. Children interact "
@@ -70,7 +70,7 @@ msgid ""
 "the interaction that can be used to resume and reflect on the child's work."
 msgstr ""
 
-# 31fa778a559649a6a763f2ce6228ea40
+# 8d61387924334795b82ab9f3c550fb75
 #: ../source/about_sugar.rst:20
 msgid ""
 "|sugar_backup| Everything is saved automatically. It is our goal that you "
@@ -78,7 +78,7 @@ msgid ""
 "network server, adding additional protection."
 msgstr ""
 
-# c75a8956b15440efb677a3aeba2a5c12
+# 53b7384ff4dc48f3851d9af0f558f38c
 #: ../source/about_sugar.rst:24
 msgid ""
 "|sugar_journal| A Journal is used for accessing data. The Journal is a diary "
@@ -86,19 +86,19 @@ msgid ""
 "your work."
 msgstr ""
 
-# 059432e37d3c4459ad109aa7f1c4ea6f
+# 0727b186d809402b9fa641e867c19290
 #: ../source/about_sugar.rst:28
 msgid ""
 "|opensource| Sugar is free and open-source software. Sugar is licensed under "
 "the GNU GPL; updates will always respect the freedom of its users."
 msgstr ""
 
-# 8f6ec3097e61490484f932fe22b40f2a
+# fb05ba5c271845dab5363a68d3c8ffa8
 #: ../source/about_sugar.rst:33
 msgid "Note to parents and teachers The Sugar Philosophy"
 msgstr ""
 
-# 5ce2e21ff23242619f627cef0695eafe
+# c3e61e6123844f849a7011b073b5f6b6
 #: ../source/about_sugar.rst:35
 msgid ""
 "Information is about nouns. Learning is about verbs. The Sugar user "
@@ -109,33 +109,33 @@ msgid ""
 "for learning:"
 msgstr ""
 
-# 853ec439153740579643486a117da5a3
+# fcc72ca18d6847ae9089040d32516d0d
 #: ../source/about_sugar.rst:37
 msgid "Everyone is a teacher and a learner."
 msgstr ""
 
-# d7b7a379349c477f9f97beabf870d50d
+# 6ae4a7e8b6394ddda84392718f15895b
 #: ../source/about_sugar.rst:38
 msgid "Humans are social beings."
 msgstr ""
 
-# 2b877b9d53384bd2af066d35aaa89cc3
+# 4b0ff4d58de5498c98441f15cf4e6309
 #: ../source/about_sugar.rst:39
 msgid "Humans are expressive."
 msgstr ""
 
-# 12075e337bb14ecd98902f21ffddac5e
+# 53217456d97341909354f55996d713e7
 #: ../source/about_sugar.rst:41
 msgid "Two principles define the Sugar platform:"
 msgstr ""
 
-# 0e8ceefe2ea148d98915fa3ed3a1d8bd
+# 82553d7206af4bc9b106c5294c70dd00
 #: ../source/about_sugar.rst:43
 msgid ""
 "You learn through doing, so if you want to learn more, you want to do more."
 msgstr ""
 
-# 913b8ef81d3b4eb9b4d885847a30bce3
+# 8b46689ebbbd4514b00c41a9d864c937
 #: ../source/about_sugar.rst:44
 msgid ""
 "Love is a better master than duty—you want people to engage in things that "
@@ -143,12 +143,12 @@ msgid ""
 "always trumps external motivations."
 msgstr ""
 
-# 4fd233d395544394bc9fd7ffc8e7ac47
+# 857d09476535454fb6896dbdfcbcdff6
 #: ../source/about_sugar.rst:46
 msgid "Three experiences characterize the Sugar platform:"
 msgstr ""
 
-# 285f4567987c4fa98e0f77c71eeb49d0
+# f3421a837f024d4a9a2d8891e05bb528
 #: ../source/about_sugar.rst:48
 msgid ""
 "Sharing: The Sugar interface always shows the presence of other learners. "
@@ -156,14 +156,14 @@ msgid ""
 "each other, support each other, critique each other, and share ideas."
 msgstr ""
 
-# e021fa574a684240a481590cab25fad2
+# fecc05fd4c724636a9b8f1ac5c89079c
 #: ../source/about_sugar.rst:49
 msgid ""
 "Reflecting: Sugar uses a \"Journal\" to record each learner's activity. The "
 "Journal serves as a place for reflection and assessment of progress."
 msgstr ""
 
-# bf6279851c704fde8194b4f9c7bff295
+# 7754b48d746b43e59606b30a971b16c0
 #: ../source/about_sugar.rst:50
 msgid ""
 "Discovering: Sugar can accommodate a wide variety of users, with different "
@@ -173,7 +173,7 @@ msgid ""
 "and deeper, with no restrictions."
 msgstr ""
 
-# ae99b54aac2e4a4586d10c0bb45c7c26
+# 7afb0cbdaf5b42dab20a0e65b4f7b478
 #: ../source/about_sugar.rst:52
 msgid ""
 "Sugar is written in Python, an easy-to-learn interpreted language [3]_. This "
@@ -184,7 +184,7 @@ msgid ""
 "personal expression."
 msgstr ""
 
-# 0cc998c551324f1e88cf47add23e6015
+# ffe91f23f5f0427191f264d760eb396a
 #: ../source/about_sugar.rst:54
 msgid ""
 "Throughout this manual we have added brief \"Note to parents and teachers\" "
@@ -193,12 +193,12 @@ msgid ""
 "learning process."
 msgstr ""
 
-# 7943fd778bce472ab312d36c2d7bb3c8
+# 92a8eb6530c94f22a5302acdb39099cb
 #: ../source/about_sugar.rst:57
 msgid "Sugar Labs"
 msgstr ""
 
-# de31fa3671984251a7d6836c72e32fa9
+# 8da25d24835243a481e3e99faa648bf7
 #: ../source/about_sugar.rst:59
 msgid ""
 "Sugar was designed for One Laptop per Child (OLPC), as part of an effort to "
@@ -207,7 +207,7 @@ msgid ""
 "expression. Sugar is the user interface used on the OLPC XO laptop."
 msgstr ""
 
-# 8d6775e37dae42c982d03972f39f670f
+# a36223fb34374d8bb15774e07b3331fc
 #: ../source/about_sugar.rst:61
 msgid ""
 "Sugar Labs is a non-profit foundation whose mission is to produce, "
@@ -218,7 +218,7 @@ msgid ""
 "License (GPL) and free to anyone who wants to use or extend it."
 msgstr ""
 
-# 18b2d9a150a445a091cecaad2996353f
+# 40a1f77dfb5444419940de4ac72953e3
 #: ../source/about_sugar.rst:63
 msgid ""
 "Studio thinking is a term used to describe how visual arts teachers teach "
@@ -231,7 +231,7 @@ msgid ""
 "the arts, but to all disciplines."
 msgstr ""
 
-# df15ca0da9c74de8831aa31122accbca
+# c00ddfd1aba64d05b8c5b6eccf531761
 #: ../source/about_sugar.rst:65
 msgid ""
 "Reflective practice is a concept introduced by Donald Schön in his book The "
@@ -241,7 +241,7 @@ msgid ""
 "member, or a fellow student."
 msgstr ""
 
-# eb39c8bbdff74277be04342d8540e51c
+# ccba13e22a814be7b169037ad0d4f087
 #: ../source/about_sugar.rst:67
 msgid ""
 "An interpreted language is a programming language whose instructions are "

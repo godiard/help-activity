@@ -1,0 +1,192 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 545f3737eadb46d4ad702d309c32d98e
+#: ../source/getbooks.rst:3
+msgid "Get Books"
+msgstr ""
+
+# 61d18af395ab40bb8652bbbd84fe8545
+#: ../source/getbooks.rst:6
+msgid "About"
+msgstr ""
+
+# 6761b6c1267f47f9ac1ed575e4e7fae2
+#: ../source/getbooks.rst:8
+msgid ""
+"Get Books can be used to download your favorite books on Sugar. It helps you "
+"download from different places (Internet Archive, Feedbooks, etc) all from "
+"one place."
+msgstr ""
+
+# 38e54d9a350a4355874faa24fbaa7884
+#: ../source/getbooks.rst:10
+msgid ""
+"Once you have found the book you want to read, you can select the format in "
+"which you would like to download it (PDF or EPUB). Click on \"Get Book\" to "
+"start the download. At the top of the screen, a progress bar will appear "
+"that shows you the download progress. Once your book is downloaded, you can "
+"open it in the Read activity."
+msgstr ""
+
+# 12fce7052a3b4d7aa295eff944895e6a
+#: ../source/getbooks.rst:15
+msgid "How to find books"
+msgstr ""
+
+# d6f7c75b0cfc4676ac0c362d51ba3ab0
+#: ../source/getbooks.rst:16
+msgid "There are two ways in which you can find books:"
+msgstr ""
+
+# 0b482d343b46482191c4dca3622aaa05
+#: ../source/getbooks.rst:18
+msgid "Using search"
+msgstr ""
+
+# 73c9e00322d143959939ddc8c4b03bd9
+#: ../source/getbooks.rst:20
+msgid "Enter the book title in the search bar"
+msgstr ""
+
+# e842b6da8a5a441c88ec94322f10e7df
+#: ../source/getbooks.rst:21
+msgid "Select from where to search(Feedbooks or My books)"
+msgstr ""
+
+# a2e3a05e5e8748eea2ec2c7798eb4ca5
+#: ../source/getbooks.rst:22
+msgid "Press Enter"
+msgstr ""
+
+# 863ef01adb254885be293794489d8643
+#: ../source/getbooks.rst:24
+msgid "Using the catalogs"
+msgstr ""
+
+# 2d7edfb9e991449d9cb7717b962493e1
+#: ../source/getbooks.rst:26
+msgid "Under the catalogs, you can see different genres of books"
+msgstr ""
+
+# 4f89abe02bcf4431821d7e4886a296ba
+#: ../source/getbooks.rst:27
+msgid "Select the genre of your choice"
+msgstr ""
+
+# 26858ff9da71408485f84741521a4b72
+#: ../source/getbooks.rst:28
+msgid "You will get a list of books, with it's Title and Author"
+msgstr ""
+
+# 7c18ee466c6a413883d889eb262eb4aa
+#: ../source/getbooks.rst:29
+msgid "Click on the book you want"
+msgstr ""
+
+# e60b3ff2c0a74dbbb713263aaa00b248
+#: ../source/getbooks.rst:30
+msgid "Select the format and click \"Get Book\""
+msgstr ""
+
+# db25ad111f5947aebb2619e7a49256e9
+#: ../source/getbooks.rst:34
+msgid "How to change language"
+msgstr ""
+
+# c13dbdfc72ee48fea2deba4041ead504
+#: ../source/getbooks.rst:36
+msgid ""
+"To change the language, click on the (settings) |set_ico| icon and from the "
+"list you can select:"
+msgstr ""
+
+# be77f609b03641089b669a31c612b140
+#: ../source/getbooks.rst:40
+msgid "Any language"
+msgstr ""
+
+# 95ca919075dd4827b860e64609b4e7bd
+#: ../source/getbooks.rst:41
+msgid "French"
+msgstr ""
+
+# a81bc5f0d9994005a23ccd3c903890d6
+#: ../source/getbooks.rst:42
+msgid "English"
+msgstr ""
+
+# c0770595400f40d0aa7e4b3e727a7880
+#: ../source/getbooks.rst:43
+msgid "German"
+msgstr ""
+
+# fde17ea218dc44ffadff9e0a2296985c
+#: ../source/getbooks.rst:44
+msgid "Spanish; Castilian"
+msgstr ""
+
+# 7ef826f52c0544ef86c63e1d9ee6d4dc
+#: ../source/getbooks.rst:50
+msgid "How to show/hide catalogs"
+msgstr ""
+
+# aecc061d83a54633899cee2d3ac47407
+#: ../source/getbooks.rst:52
+msgid ""
+"To show/hide the catalogs, all you need to do is just press the (catalogs) |"
+"cat_ico| button"
+msgstr ""
+
+# 5c9a5180fd314b13a5602748674224af
+#: ../source/getbooks.rst:58
+msgid "Gallery"
+msgstr ""
+
+# 16e9431c90f744638671cd78af1dd749
+#: ../source/getbooks.rst:66
+msgid "Download"
+msgstr ""
+
+# ce1d6e2df30c4312a9b7538d2270da2e
+#: ../source/getbooks.rst:67
+msgid ""
+"`Activites Download page <http://activities.sugarlabs.org/en-US/sugar/"
+"addon/4304>`_"
+msgstr ""
+
+# dd66972db9854af287ced7c3a782ef4b
+#: ../source/getbooks.rst:71
+msgid "More Info"
+msgstr ""
+
+# 0c48815020df4f2db1c38b9a76489a2b
+#: ../source/getbooks.rst:72
+msgid ""
+"If you never developed a Sugar Activity, `must read <http://www.flossmanuals."
+"net/make-your-own-sugar-activities/>`_."
+msgstr ""
+
+# 9e47d59dfa90469d883266ca6ae5c3e0
+#: ../source/getbooks.rst:74
+msgid ""
+"If you want help us fixing some bugs on activities, and learn a little about "
+"how activities work, you can see at this `list of pending tickets <http://"
+"dev.laptop.org/~gonzalo/bugs_index.html>`_"
+msgstr ""

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 1c04be1136d0460680eab910532a9873
+# 5e494ff8e19c4a20819949fc5847af22
 #: ../source/home_view.rst:3
 msgid "Home View"
 msgstr ""
 
-# f0feed27c5da4a5392b0828ca503208d
+# 48d0b315c33348bfbb3e6da5816502f0
 #: ../source/home_view.rst:5
 msgid "Use the Home View to begin new Activities."
 msgstr ""
 
-# 99546bd92a944aa48f7a105a1a4abc20
+# 68a4adf1035d465c86e9f04a54603c25
 #: ../source/home_view.rst:7
 msgid ""
 "Note: When you have clicked on an Activity's icon, please wait for that "
@@ -39,41 +39,41 @@ msgid ""
 "returned to Home View."
 msgstr ""
 
-# 7d860dcda7f44f59911bc354563241b7
+# 03b341ee530947ff97800696e2e3f7e2
 #: ../source/home_view.rst:11
 msgid ""
 "To get to the Home View, click the Home icon on the Frame or press the F3 "
 "key."
 msgstr ""
 
-# de821e35b64040d084fd927159beba05
+# 36032beb470c4349b9c32ec2304e7281
 #: ../source/home_view.rst:13
 msgid ""
 "The Home View has several modes. Each mode has a different arrangement of "
 "Activities:"
 msgstr ""
 
-# ce2004b8f2514c55968fe38d8bfd6453
+# 83a5d74759294735a5e7e103e735fba6
 #: ../source/home_view.rst:15
 msgid "Your favorite Activities in a ring (Ring mode)"
 msgstr ""
 
-# b14733bb739b4c49ad5cf71fd64231d6
+# 4b72f044e04147e4ad02c19ef0992f0f
 #: ../source/home_view.rst:16
 msgid "Your installed Activities in a list (List view)"
 msgstr ""
 
-# d0504fa397f84887a3d15d4312367d42
+# 31d92c25278343c5a76bc7d8fc649510
 #: ../source/home_view.rst:17
 msgid "Your favorite Activities arranged freeform (Freeform mode)"
 msgstr ""
 
-# a6eb93b95ddf4662b8d3850f12007156
+# 7dff28a7b1b140dcbd786b11ada81e9c
 #: ../source/home_view.rst:20
 msgid "Favorites View"
 msgstr ""
 
-# a88e80c78fe846d8a085adfdf2ad12bf
+# 54ae8c2ff6544ece9b515ab72deaec37
 #: ../source/home_view.rst:24
 msgid ""
 "Search box: Use the search box to find Activities. Note: If in List view you "
@@ -81,19 +81,19 @@ msgid ""
 "the right end of the search box to undo an unintended search request."
 msgstr ""
 
-# 7aeeed3b9b064b7a9009fbd892046208
+# 791281b44ab04e2b9a4bb1cdfa4ee95a
 #: ../source/home_view.rst:25
 msgid ""
 "Favorites modes: Click an icon to switch to a different view. Hover over the "
 "Favorites icon to see a menu that lets you pick Ring mode or Freeform mode."
 msgstr ""
 
-# 2fe344e5cbac45b9ad3230a71cb4b8fb
+# 6d1a3139dba64cb5a7f12eb253481698
 #: ../source/home_view.rst:26
 msgid "List view: Click the icon to switch over to the List view."
 msgstr ""
 
-# b827423cfe664cff809ae8f431f37138
+# 5d33deca16cd473b9f7f72f72775fe8c
 #: ../source/home_view.rst:27
 msgid ""
 "Activity icon: Click an Activity icon to launch that Activity. Its icon is "
@@ -103,14 +103,14 @@ msgid ""
 "List View appear in this view."
 msgstr ""
 
-# fa2cf01038e949cea6269e62e70d8fea
+# 1c712ddeb7b34f1ebdace306ecce0d01
 #: ../source/home_view.rst:28
 msgid ""
 "Active Activity icon: The icon of the currently active Activity appears "
 "under the XO icon."
 msgstr ""
 
-# ba2d21da83b04aa68f15deacaf59f66d
+# 01062d147ebf4fe29a6b9e2158d55f42
 #: ../source/home_view.rst:29
 msgid ""
 "XO icon: Hover the pointer over the \"XO\" in the center of the Home View to "
@@ -118,26 +118,26 @@ msgid ""
 "chapter on Customizing Sugar)."
 msgstr ""
 
-# 5e41eb8e2b2940c2b7dc3c209a8a7b67
+# 0ff76c31553f495f80a053841ed20894
 #: ../source/home_view.rst:33
 msgid ""
 "When a search is started the Activities which don't correspond to the result "
 "are greyed out."
 msgstr ""
 
-# 75d7402cd3d04baea486cab0c86d0a5c
+# 6929d1ccc74240459ca9d1c7a122c9d8
 #: ../source/home_view.rst:36
 msgid "List View"
 msgstr ""
 
-# d6b4e31470684033b11388bb30895e93
+# 3bde7043c4534488b1574654585489ee
 #: ../source/home_view.rst:40
 msgid ""
 "Use the List view to manage all of your Activities and to choose which "
 "Activity icons will appear on the Favorites view."
 msgstr ""
 
-# 9b99e277c9994bf5927dbb5a796dcc74
+# d71c0f1c38ca47a8a37ce3e55115fa69
 #: ../source/home_view.rst:42
 msgid ""
 "Activity favorite icon: A star, which is colored for favorite Activities, "
@@ -145,21 +145,21 @@ msgid ""
 "clear it."
 msgstr ""
 
-# 4202eecb0b9349cca3d4c2445f46ddf0
+# caccd67ea6344ef3960f88105297fffa
 #: ../source/home_view.rst:43
 msgid ""
 "Activity icon: Click the icon to launch the Activity or hover over it to see "
 "the corresponding menu."
 msgstr ""
 
-# bb010a28719d48e4aadd94f3bda3389c
+# cbc7357c3be44073a9690682595d1f5c
 #: ../source/home_view.rst:44
 msgid ""
 "Hover menu: In this menu you can also launch, favorite and un-favorite "
 "Activities and erase them."
 msgstr ""
 
-# 582f4f97d112418a9c4ea08ac54d609b
+# 7e316a7da537459789298f7ce3cf1e16
 #: ../source/home_view.rst:45
 msgid ""
 "Version number: Here you can see which version of the Activity is currently "
@@ -167,12 +167,12 @@ msgid ""
 "version please refer to the How to Install and Update Activities section."
 msgstr ""
 
-# 0e9d2537712d4168b86a7f818dcd05b0
+# 6fe2f32dd5754e19837c32ac9f237c90
 #: ../source/home_view.rst:48
 msgid "Favorites View in Freeform Mode"
 msgstr ""
 
-# ff6fdb5ed9844fcb8636390bdc58f0ce
+# 0cdbf796a81b4190b5e0c83816ccc716
 #: ../source/home_view.rst:52
 msgid ""
 "The Freeform mode of the Home View works the same as the Ring mode, but the "
@@ -180,12 +180,12 @@ msgid ""
 "icons in this View to visually group them in a way that makes sense to you."
 msgstr ""
 
-# 8f835ec7a21c4a95a8d036def77ac992
+# bbbde8466489420ea2285081699f1238
 #: ../source/home_view.rst:55
 msgid "Activity Menu"
 msgstr ""
 
-# 77276b7e20a7466c92c700a1a746c5fc
+# 1b590d7546b245e2985c005148643678
 #: ../source/home_view.rst:59
 msgid ""
 "When hovering over an Activity icon a corresponding menu appears. From there "
@@ -193,12 +193,12 @@ msgid ""
 "new one."
 msgstr ""
 
-# fa6c0087006944d783031156f563d364
+# 3726dcfbbfbf40faaa518254280708ab
 #: ../source/home_view.rst:62
 msgid "XO Menu"
 msgstr ""
 
-# a556b7ccea1b4cf98315a9cb0990f9d3
+# d587fdb0792048e1ac81eb6a0f18ccaa
 #: ../source/home_view.rst:66
 msgid ""
 "Use the hover menu that appears over the XO icon to access the Sugar Control "

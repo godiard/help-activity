@@ -1,0 +1,125 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# bb3549b5b516448d87e6a1585f2213de
+#: ../source/turtleblocks3d.rst:3
+msgid "Turtle Blocks 3D"
+msgstr ""
+
+# a609c882bc3a4c3790111e1dc41f02af
+#: ../source/turtleblocks3d.rst:7
+msgid "About"
+msgstr ""
+
+# a030996e22d14863a04c40e625aac79f
+#: ../source/turtleblocks3d.rst:8
+msgid ""
+"|3d_icon| Turtle Blocks 3D is an extension of Turtle Blocks into three "
+"dimensions. Instead of moving a turtle on a plane, the turtle can be moved "
+"in a three-dimensional Cartesian space."
+msgstr ""
+
+# 763bef411d6e476ea46441dd625b14d8
+#: ../source/turtleblocks3d.rst:12
+msgid "Additional features include:"
+msgstr ""
+
+# ef8feba292284ee3b7a51fca2451021c
+#: ../source/turtleblocks3d.rst:14
+msgid "the ability to move the camera"
+msgstr ""
+
+# da42fb66620b4d90b2d948c235ded52a
+#: ../source/turtleblocks3d.rst:16
+msgid "export .to OBJ files (which can be imported into Blender et al.)"
+msgstr ""
+
+# 2ebd8c3a8cdc4a02a626f8dae165172c
+#: ../source/turtleblocks3d.rst:18
+msgid "import from .OBJ (which can be exported into Blender et al.)"
+msgstr ""
+
+# 3710737e1d48444eb24d093fe46d4bf3
+#: ../source/turtleblocks3d.rst:20
+msgid "Developer Comment: We plan to add texture mapping."
+msgstr ""
+
+# b44a6a651aaa4290a05812474c6b9cbc
+#: ../source/turtleblocks3d.rst:23
+msgid "Gallery"
+msgstr ""
+
+# a25c443b27ff480eb650d89bf0154bc2
+#: ../source/turtleblocks3d.rst:29
+msgid "Repositories"
+msgstr ""
+
+# 49f33e3d12f54f419702daa61ecc1bb4
+#: ../source/turtleblocks3d.rst:30
+msgid "`The Git repository <https://github.com/Anubhav-J/turtleart>`_"
+msgstr ""
+
+# 212e644a3a2a47ba9dc4f18c8dd3df75
+#: ../source/turtleblocks3d.rst:34
+msgid "Download"
+msgstr ""
+
+# cb05e90f435c4f04a2adc8f51a5d76db
+#: ../source/turtleblocks3d.rst:35
+msgid ""
+"`Activity page in our activities portal <http://activities.sugarlabs.org/"
+"sugar/addon/4757>`_"
+msgstr ""
+
+# e7151fd9b2eb4667a684971b1317b528
+#: ../source/turtleblocks3d.rst:39
+msgid "Support and More Info"
+msgstr ""
+
+# 8ce2429764884a90a62630f68c74f95c
+#: ../source/turtleblocks3d.rst:40
+msgid "2D Version, Turtle Blocks AKA Turtle Art:"
+msgstr ""
+
+# a962415b746344e1b74e5c79e330d776
+#: ../source/turtleblocks3d.rst:42
+msgid "`Git <https://github.com/walterbender/turtleart>`_"
+msgstr ""
+
+# 593efce6b7724dc7bccfad36e0577e4c
+#: ../source/turtleblocks3d.rst:44
+msgid "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/Turtle_Art>`_"
+msgstr ""
+
+# 7c8985c575bd4a5188b17aea226125fe
+#: ../source/turtleblocks3d.rst:46
+msgid ""
+"Support for this activity is provided by the developer at walter@sugarlabs."
+"org"
+msgstr ""
+
+# 39c8dc147b7c4a50b3ea7d12ad686a08
+#: ../source/turtleblocks3d.rst:50
+msgid "References"
+msgstr ""
+
+# 04db9a7499cc42bfb016d9f3ef331d81
+#: ../source/turtleblocks3d.rst:51
+msgid "`Download Page <http://activities.sugarlabs.org/sugar/addon/4757>`_"
+msgstr ""

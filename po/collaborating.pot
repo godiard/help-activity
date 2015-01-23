@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,167 +17,167 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/collaborating.rst:3
-# 3ad5ee8f7d5147e2afcfe90fba088ddc
+# fa75ab8a22514bd194d492ec22ea2b39
 msgid "Collaborating"
 msgstr ""
 
 #: ../source/collaborating.rst:6
-# 733861a7294a44458e9df48b1ad62dba
+# f86f2bb614654e5d998652b7c6839d6f
 msgid "About Collaborating"
 msgstr ""
 
 #: ../source/collaborating.rst:8
-# b14f9e7252604cea9ceafed064ae92c4
+# 70491a03309243d4816ad4947e1539cd
 msgid "One of the most important features of Sugar is the ability for you to collaborate, or network, and share a project that you are working on with others. This can take the form of multiple cursors in a document, multiple musical instruments, two players in a game, multiple uses in chat (below), and so on. Many Activities support collaboration, see below, :ref:`Where to get Collaborating`"
 msgstr ""
 
 #: ../source/collaborating.rst:10
-# 1a67c044ba3f42f499c3327ce9f52267
+# 95ac576f0d3044d78674d33c4f7d22df
 msgid "This image is from the Activity toolbar of Write, which is an Activity which supports collaboration."
 msgstr ""
 
 #: ../source/collaborating.rst:14
-# c8bc88d94d064ba6b383b0b295095dd8
+# b5542fd7a1164dc2b793ca82b6b0b21d
 msgid "The highlighted button is the collaboration, or sharing, \"switch\". The options are"
 msgstr ""
 
 #: ../source/collaborating.rst:16
-# 62bdff0bd204483d87e63203f068e332
+# 35cb2f3ab5df43fdb2708bcf25d85027
 msgid "|Home_key_f3_small.png| Home icon, which, when you hover the cursor over, reveals \"Private\". This is the non-sharing option, with no networking."
 msgstr ""
 
 #: ../source/collaborating.rst:20
-# dce9a3fa50574eda95baaa15f12e2e42
+# 7fc06a002b4f4573a0bb97ce1e20cbbe
 msgid "|Neighborhood_key| Neighborhood icon, which, when you hover the cursor over, reveals \"My Neighborhood\". This is the sharing option, that is, networked."
 msgstr ""
 
 #: ../source/collaborating.rst:24
-# f9599c00227f425aa4ccfd4465cbad1b
+# 2180839aee0e454eb08f8f008e96e184
 msgid "In some activities, the collaboration button is grayed (disable), that means the activity can't collaborate."
 msgstr ""
 
 #: ../source/collaborating.rst:27
-# f213a0daa77743a0a8022f3a592182cc
+# 249fd6870fad4ebf967e2ba9bdfb8af5
 msgid "Chatting in Chat"
 msgstr ""
 
 #: ../source/collaborating.rst:29
-# efd1212a10264ecf9d09780f80bb963a
+# 52d2fe593cf6418c80478bec1ae21280
 msgid "An example of collaboration, or networking, is chatting. Chatting is available in the Sugar Activity Chat."
 msgstr ""
 
 #: ../source/collaborating.rst:34
-# 467e238d8a5246f59e2b567ffdeea0ec
+# 5bb208a96a2844af999faa812c00d63e
 msgid "Collaboration in Distance Activity"
 msgstr ""
 
 #: ../source/collaborating.rst:36
-# 2e43b32367bc444791c6ae10b731b9e5
+# 80bf9b6f64bf43dba5c9bd07fd27cbfc
 msgid "If you want to share with one of your friends, inside the Activity that you want share, click on the \"Home\" icon that says \"Private\" then click on the \"Neighborhood\" icon, like below."
 msgstr ""
 
 #: ../source/collaborating.rst:42
-# 36c7dea610dd49fd93576b33852d702d
+# 449c98dfcf7c499ba320bf5e73449c13
 msgid "This will make it available to all other persons connected to your same Ad-hock network. An icon of the Activity you are sharing will appear in the Neighborhood view inviting others to join. To join, all they will need to do is hover over the icon of the Activity you are sharing and click join. (This is also how you join the work of others when they share with you)."
 msgstr ""
 
 #: ../source/collaborating.rst:49
-# e17835612359412c9c89a57196b1add1
+# f81f800591094513b6fc3bb91c3067a6
 msgid "Where to get Collaborating"
 msgstr ""
 
 #: ../source/collaborating.rst:51
-# 4383e2ca1951479ea64f5421f79f125e
+# 43d34451309a4549ba707a8c7c2b5aad
 msgid "Collaborating is a built-in function in the following Activities provided in the current Sugar distribution:"
 msgstr ""
 
 #: ../source/collaborating.rst:53
-# 9ec89714a8154dd882624e1f6884c3ef
+# 21bd5a717c154b8fa459d68629154b16
 msgid "Browse"
 msgstr ""
 
 #: ../source/collaborating.rst:54
-# c8cbb6adc93e471ea35bf666c594fa33
+# aae6006808b048deb48ee3555c66dc02
 msgid "Calculate"
 msgstr ""
 
 #: ../source/collaborating.rst:55
-# aad121a464a24b4fbaf5f968b09eec80
+# 9f570b9099b04434a5e9df746f39c6d5
 msgid "Chat"
 msgstr ""
 
 #: ../source/collaborating.rst:56
-# da09f6f7037942cab14177899a42ffed
+# dd78f0d33a3f4cb487c1c0040b4d4247
 msgid "Distance"
 msgstr ""
 
 #: ../source/collaborating.rst:57
-# da01887317c943039cd2eded8bd3f853
+# c2a8b520d989444f8ed720bb121e9981
 msgid "Etoys"
 msgstr ""
 
 #: ../source/collaborating.rst:58
-# 695c373a6da54667ade8ebcf25b76eeb
+# 7a129b1ab7ef48749ee6ce8ca5183af4
 msgid "Image Viewer (not marked Favorite)"
 msgstr ""
 
 #: ../source/collaborating.rst:59
-# f749d5d3d776426ba39960eed8019d30
+# 6f852c9d158f42fabba41ecef3369c5b
 msgid "Implode"
 msgstr ""
 
 #: ../source/collaborating.rst:60
-# a163718cc3194f76b460fefcaf735e56
+# 21ac1093f38d4a17aee687b42b993f09
 msgid "Maze"
 msgstr ""
 
 #: ../source/collaborating.rst:61
-# 41ee4c3b0eb94a459223142dd7d0ddf8
+# 56a1dbc1dfbd495b9eb59c5233879d00
 msgid "Memorize"
 msgstr ""
 
 #: ../source/collaborating.rst:62
-# 19a84eeac9774f3aa96b1ef63942f349
+# d2a7cd9bca814aa2a12e581047236b30
 msgid "Pippy"
 msgstr ""
 
 #: ../source/collaborating.rst:63
-# 9f60d6a193994f9e8e250ea5dc04a70b
+# 5aaf4c5bf41448d0a639baab2118b668
 msgid "Read"
 msgstr ""
 
 #: ../source/collaborating.rst:64
-# cf21d7fa1cac40eda441276d134060c3
+# be486f5001c747e1b66d75b866bcc590
 msgid "Record"
 msgstr ""
 
 #: ../source/collaborating.rst:65
-# cfd6000c6c6a44939e41a77362d7708e
+# d2754272f87242fdba22ee7863f55963
 msgid "Speak"
 msgstr ""
 
 #: ../source/collaborating.rst:66
-# 1ced64a83ed44dad9049a2e3863b06b4
+# 9f30ee724f6040088d8c2d022039c283
 msgid "TamTamMini"
 msgstr ""
 
 #: ../source/collaborating.rst:67
-# b08353feb5964aef8e6bf6df436dd5c0
+# e742357cda5e4e40aa8ebcb9b0216788
 msgid "TamTamJam"
 msgstr ""
 
 #: ../source/collaborating.rst:68
-# ac7afd51d2334edda071fbd89f1c033f
+# cb99f8e234fb4fd7853efae341edd690
 msgid "Turtle Art"
 msgstr ""
 
 #: ../source/collaborating.rst:69
-# 93158fc388584ab6bcaef67497b59f7f
+# ade897d68eb0415097d18fa25ea04b27
 msgid "Write"
 msgstr ""
 
 #: ../source/collaborating.rst:73
-# ec16b85e1e564cbd9b2ef575e8ec30ff
+# f94ac162a4c448d6b32852d6677faee8
 msgid "Not all Activities are able to collaborate. There are many others available in the `Sugar Labs Activities repository <http://activities.sugarlabs.org/>`_"
 msgstr ""
 

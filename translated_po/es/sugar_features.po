@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,31 +17,31 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 3f4fe422823e4058beb2fedf849b8734
+# dd09fbb355a94eed97167bc55eb18d18
 #: ../source/sugar_features.rst:3
 msgid "Sugar Features"
 msgstr ""
 
-# b90a2859393d4196b7bc824d4a62a54d
+# 3117ebfe45ef40518ecd535db11c9532
 #: ../source/sugar_features.rst:5
 msgid ""
 "This page presents a number of Sugar features common to many Activities. The "
 "page is designed as a series of \"reference topics\"."
 msgstr ""
 
-# 31fa509e71af42ba9e7a78d7c59b07b0
+# 355a3584341f4547964dfba7ac3c5412
 #: ../source/sugar_features.rst:7
 msgid ""
 "This experimental page includes graphical spacers to separate non-related "
 "topics."
 msgstr ""
 
-# 277774a39c8f4df2a3650204a12f3b81
+# bee4cca821a7497ebeb30b57c8a9c164
 #: ../source/sugar_features.rst:12
 msgid "View source"
 msgstr ""
 
-# 8ee1e20c056541d3a50cebef5020a1fe
+# daba3b2e16124156afc0001e8f991959
 #: ../source/sugar_features.rst:14
 msgid ""
 "You always can view the source code of Sugar Activities. In most cases, View "
@@ -49,7 +49,7 @@ msgid ""
 "Browse, you can see the HTML code of the page seen in the activity."
 msgstr ""
 
-# f89e150aa5f74f1e92cb35f01e1f1151
+# 8448e6de41914d69b37ab5bfbe4303c1
 #: ../source/sugar_features.rst:16
 msgid ""
 "You can see the source window pressing Fn-space in your XO or Ctrl-Shift-V "
@@ -60,12 +60,12 @@ msgid ""
 "as described here :doc:`/how_to_help`"
 msgstr ""
 
-# 5fd86517add34c59abc05875f1765a73
+# ca9b9343338e40828d1f4ee1ee4ba221
 #: ../source/sugar_features.rst:21
 msgid "Duplicating activities"
 msgstr ""
 
-# e151aeb0fb304d3cb29f69ed965b9145
+# 5a8520a93af1475494517412710b08b1
 #: ../source/sugar_features.rst:23
 msgid ""
 "A option to duplicate an activity has been added to the View Source alert. "
@@ -75,29 +75,29 @@ msgid ""
 "breaking the original activity."
 msgstr ""
 
-# 9fb9568e4e26448a902f0d02836a2981
+# 51c36c8499934d9eb5e4f215843b3d08
 #: ../source/sugar_features.rst:27
 msgid "|more| For more information:"
 msgstr ""
 
-# 24d16e54b17544f38ce67d9b4565f0b3
+# b660f0ce871b45dfac0650aebe033a0c
 #: ../source/sugar_features.rst:31
 msgid ""
 "The Sugarlabs.org wiki has a informative article: http://wiki.sugarlabs.org/"
 "go/View_Source"
 msgstr ""
 
-# c2b9a613a7a4457bb1cd9a6bd8099d1f
+# 574d8db9ecce4a389f49fcb7b9a0e24c
 #: ../source/sugar_features.rst:34
 msgid "*End of topic - spacer below.*"
 msgstr ""
 
-# 60b186b2618d422a9d18d26156b52523
+# acb26d85c5da467ba0761ec179c57ca8
 #: ../source/sugar_features.rst:41
 msgid "Say selected text"
 msgstr ""
 
-# c18c3b301dcd44c29cb39962d06ca9de
+# 1e720f8c93854a0f85555a2e88103dca
 #: ../source/sugar_features.rst:45
 msgid ""
 "You can have :doc:`/speak`, or robot Alice, read aloud, selected text. Here "
@@ -106,12 +106,12 @@ msgid ""
 "while you explore that Activity."
 msgstr ""
 
-# 0cb2d2329ceb42128ab88a19e69a12b1
+# e0f08c9750b54033baa9f584bdd77783
 #: ../source/sugar_features.rst:47
 msgid "Try it now, Select the text in this frame."
 msgstr ""
 
-# 26b778d675274b669c2ce712455123c4
+# 9b8a33b0a26045588d03a24c5072d6b4
 #: ../source/sugar_features.rst:49
 msgid ""
 "To select text, move the mouse to the top left of the text, there is a green "
@@ -120,7 +120,7 @@ msgid ""
 "near the correct point."
 msgstr ""
 
-# be7cb656b0b04e4d961f757a42101769
+# 934553e33b5f42a382c6d942b7e8296a
 #: ../source/sugar_features.rst:51
 msgid ""
 "Bring in the :doc:`/frame` with the \"Frame key\" or F6. Press on the "
@@ -128,7 +128,7 @@ msgid ""
 "text*. Notice also that there is a pause feature, once *speech* has started."
 msgstr ""
 
-# 7a8f76618bc24e578a45e6c12beaaa57
+# fe464b2c97ca4d938601b84b18fea4b2
 #: ../source/sugar_features.rst:55
 msgid ""
 "The *Say selected text* feature is available in many text based Activities "
@@ -137,7 +137,7 @@ msgid ""
 "toolbar of an Activity, as in :doc:`/write`."
 msgstr ""
 
-# c223d6319f8143938a8e9955bdefb6b1
+# fe29e602a2ca428a93ade8b8a09c6c60
 #: ../source/sugar_features.rst:59
 msgid ""
 "This is a new unfinished page, you can modify it yourself following guidance "

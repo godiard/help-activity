@@ -1,0 +1,137 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 278ce6a3e26640b8ab972e9dad58bac8
+#: ../source/jukebox.rst:3
+msgid "Jukebox"
+msgstr ""
+
+# 5a3d5f122dd44162b6b2606e013611a3
+#: ../source/jukebox.rst:6
+msgid "About"
+msgstr ""
+
+# 720026ec7f8c438cab4ea1fbafd96876
+#: ../source/jukebox.rst:8
+msgid ""
+"Jukebox is the media player to play different kinds of audio and video files "
+"including online streams. It also supports playlists like .m3u and .pls."
+msgstr ""
+
+# 80d5661cb4a74c4cb3377aac9d657bd6
+#: ../source/jukebox.rst:11
+msgid "Where to get Jukebox"
+msgstr ""
+
+# 716b6f76f64848418381357364c85b03
+#: ../source/jukebox.rst:13
+msgid ""
+"Jukebox is included in the standard releases of the OLPC software. If for "
+"some reason Jukebox is not installed, it can be downloaded from its "
+"`Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4045>`_"
+msgstr ""
+
+# 7db3c04d92c2412e8c4750c1bc0d7315
+#: ../source/jukebox.rst:18
+msgid "Using"
+msgstr ""
+
+# 345207a6653c43b4b09b7276bb0f7698
+#: ../source/jukebox.rst:20
+msgid ""
+"Across the lower area, you can see the videos and if being the corresponding "
+"option checked will also appreciate the playlist, and at the top, there are "
+"options to control the flow, and how to view the current track"
+msgstr ""
+
+# 7d4bacf5c7534a86a32e5e4887502f82
+#: ../source/jukebox.rst:24
+msgid "The Toolbars"
+msgstr ""
+
+# 0ebcf334243145588434c9bc281397df
+#: ../source/jukebox.rst:28
+msgid "Expand visual options."
+msgstr ""
+
+# 6ff216f8a31a4d0780aa1322b1913e0e
+#: ../source/jukebox.rst:29
+msgid "Load news tracks."
+msgstr ""
+
+# 9591e0c319454bf794e4652b30c98688
+#: ../source/jukebox.rst:30
+msgid "Remove actual track."
+msgstr ""
+
+# e4ed3d00a03d451ca0fffa3bde8ebc2a
+#: ../source/jukebox.rst:31
+msgid "Previous track."
+msgstr ""
+
+# b2925ead8a9d4501b2fc5dcc6f9ed227
+#: ../source/jukebox.rst:32
+msgid "Play/Pause actual track."
+msgstr ""
+
+# 16db50fc67194f0a8f85fbcc5111a469
+#: ../source/jukebox.rst:33
+msgid "Next track."
+msgstr ""
+
+# 944ad859dfde47278c3dd31f5d5942af
+#: ../source/jukebox.rst:34
+msgid "Control the track progress"
+msgstr ""
+
+# ff9594b21b824b8683c30492d9d3349c
+#: ../source/jukebox.rst:38
+msgid "The Toolbar Sub Menus"
+msgstr ""
+
+# 5dfaa9250011436e9efdab89b7ac16aa
+#: ../source/jukebox.rst:42
+msgid "Show/Hide the playlist"
+msgstr ""
+
+# a1a9934d81bd4ad5b8b5bf54410b5c48
+#: ../source/jukebox.rst:43
+msgid "Fullscreen mode/Normal mode"
+msgstr ""
+
+# 9db78bd8229345e483fba2682f9b4e32
+#: ../source/jukebox.rst:46
+msgid "More about Jukebox"
+msgstr ""
+
+# 60ff935ce82a42f8a57563202ee94434
+#: ../source/jukebox.rst:48
+msgid ""
+"If you open more than one media file, Jukebox will save a \"play list\" with "
+"all the files you selected. Then you can create list by topics, and open all "
+"the files later just selecting the list saved in your Journal."
+msgstr ""
+
+# fdba9af6d78f4fbda5dea146129eb0b8
+#: ../source/jukebox.rst:51
+msgid ""
+"You can open files located in external devices like a usb device, from "
+"Jukebox, without copying them in the Journal, that is really useful if the "
+"files are too big."
+msgstr ""

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# cea75f5c03584d23a50983877eb093ed
+# 7ef19f7b37a741389604305158f59eb4
 #: ../source/help.rst:3
 msgid "Help"
 msgstr ""
 
-# 1acc56b91db14ea9bafa1d884cce6a1f
+# 2441b607db8d481fbf6640c78cb45014
 #: ../source/help.rst:5
 msgid "Help displays documentation for Sugar and the XO laptop."
 msgstr ""
 
-# 02dd0235c22a4bffbfa31416a420c9aa
+# 72cacea5d0814e8eaad97861aa474dce
 #: ../source/help.rst:9
 msgid ""
 "The image above is of the top of the screen, when the Activity Help is "
@@ -35,47 +35,47 @@ msgid ""
 "toolbar. Starting from the left, they are:"
 msgstr ""
 
-# f135166a858c4f56b0512397f5d3d6ee
+# 90818c77677d4190b5a3e57f34150dc2
 #: ../source/help.rst:11
 msgid "Activity tab or toolbar button."
 msgstr ""
 
-# dc6bb48f7b7046fdbba8e484709eccd2
+# c58f165790ba433cab4608396356814e
 #: ../source/help.rst:13
 msgid "View toolbar button."
 msgstr ""
 
-# b0226a985fe141dd9ba70867a2a42be2
+# c344225b6504424890521f8ef40f939f
 #: ../source/help.rst:15
 msgid "Home button, brings you back to the index, or contents page."
 msgstr ""
 
-# a9e04bf31f6447e2927771fe5de69098
+# efc9d6b42a354d0995560d0378a6c0a4
 #: ../source/help.rst:17
 msgid "Back button."
 msgstr ""
 
-# ad82506ad74646e990b78fb87bb6570e
+# 48002fd28c914a42973f0c8e6c76915b
 #: ../source/help.rst:19
 msgid "Forward button."
 msgstr ""
 
-# 6cdb520fa3124ef085077f95c35fc674
+# da6a19ad49cb47fca49d1e4faafec523
 #: ../source/help.rst:21
 msgid "Stop, or close the Activity, on the far right of the toolbar."
 msgstr ""
 
-# 74694a5120a24daa8419e306688af362
+# 3cd3fefd7db346acaaf1889c2a30b40d
 #: ../source/help.rst:24
 msgid "Tour of Help"
 msgstr ""
 
-# a304b6233f324e6a981d3e6397a9742b
+# 10fbd1dee5284425998f803d3660d8ce
 #: ../source/help.rst:25
 msgid "We see, working clockwise from top left:"
 msgstr ""
 
-# 1a1e4358f6ae4f74bdd41cd5784f3da9
+# 76cf425497e148489f843f9d11cf2ede
 #: ../source/help.rst:29
 msgid ""
 "Activity tab, here you can enter a name for the page or project. The "
@@ -83,13 +83,13 @@ msgid ""
 "description to the :doc:`/journal` entry."
 msgstr ""
 
-# 1c17c4c938da43c6a0166f25fc979ecc
+# 24acad504ea64f6ab579c6807ad5bc57
 #: ../source/help.rst:31
 msgid ""
 "The :doc:`/collaborating`, or sharing, icon is grayed out and not available."
 msgstr ""
 
-# f8d10faf2f0e4dcb9073a786dd9f07dc
+# c8879d5940d44621a47c956f83c9e9fa
 #: ../source/help.rst:33
 msgid ""
 "In Help you do not really need to provide a name for the page you are "
@@ -97,61 +97,61 @@ msgid ""
 "journal`."
 msgstr ""
 
-# 01786992348f48cca529ed6cb7ca5172
+# 174ebcbde6f540c5804c6bed6a1bab3e
 #: ../source/help.rst:35
 msgid ""
 "View toolbar button. The buttons are zoom in, zoom out, and enlarge page to "
 "*Full screen*."
 msgstr ""
 
-# a11768c396b8480384ba22196cd9e61c
+# e4a98b359e8b4a7da8e1e7a6cc457496
 #: ../source/help.rst:37
 msgid ""
 "*Next* button, top right of every page, takes you to the next page of Help."
 msgstr ""
 
-# c5768dbb48054b878c37a4c14071dcfc
+# 3b6e5998317648b28c4143f40753e6b1
 #: ../source/help.rst:39
 msgid ""
 "Follow links in the index to jump to that page. Here the Activity FotoToon "
 "is being selected."
 msgstr ""
 
-# 4e424fca9f65492f9d84809b0626c867
+# 5bb2433182364f61854c4f1625c9b932
 #: ../source/help.rst:41
 msgid "Forward and Back buttons help you navigate."
 msgstr ""
 
-# 97a5c62026d44da0bead3d647af7c3e3
+# 1f1b6ee698a046c587a7ffaca7b5c31b
 #: ../source/help.rst:43
 msgid ""
 "Use this small red icon, only showing when you hover the cursor over it, at "
 "the end of a paragraph heading, to place the paragraph well on your screen."
 msgstr ""
 
-# b22df936621c4fbbba7f6bb0e3a39635
+# b205fa95f6d34f1397f3b90dfe651f05
 #: ../source/help.rst:45
 msgid ""
 "Here we see a link to the OLPC getting started page. Within Help you can "
 "follow links, which take you onto the internet, when you are online."
 msgstr ""
 
-# 4e06c007d1524150814b3e77f51119c9
+# 4e9741016ac54ce583c65d8f4cad373e
 #: ../source/help.rst:47
 msgid "The Home button brings you back to the index, or contents page."
 msgstr ""
 
-# 53a77a1858a64e05bd7ca000472cbfa7
+# dfa96e02e06e43949ed335e26e821e21
 #: ../source/help.rst:49
 msgid "Stop, or close the Activity."
 msgstr ""
 
-# d833824018094b5483c54d9997b74bb5
+# 73a5f64a4c9249ccbc62d59357c7cea5
 #: ../source/help.rst:52
 msgid "Help read aloud"
 msgstr ""
 
-# 127667468204491faf8eff97f6efcc44
+# 50618b58142840ec8449bca6a417bc01
 #: ../source/help.rst:54
 msgid ""
 "In Help, and other text based Activities, you can have robot Alice (the "
@@ -159,7 +159,7 @@ msgid ""
 "while you explore the Activity. See :ref:`say_selected_text`"
 msgstr ""
 
-# 0fd526329fe644ef8472b050eefee674
+# 4723b0b457d6484c8c8a4ee2829c9d97
 #: ../source/help.rst:56
 msgid ""
 "|more| The underlying software used to display Help, and for the user to "

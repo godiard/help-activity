@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 125999c0aab44cc1a0dc0c0aba2ba104
+# 3d8d5f42e62944568bae229c96f8af72
 #: ../source/about.rst:3
 msgid "About this Manual"
 msgstr ""
 
-# a8720a54e0bf4efdbd16e03ed7c4c2db
+# f2359dee5edf443081f6e5732ec6df82
 #: ../source/about.rst:6
 msgid "Introduction"
 msgstr ""
 
-# ee7429495d534f94906e4f8ae91604e0
+# 1e9baa426cb84087bd826b9ee72d404c
 #: ../source/about.rst:8
 msgid ""
 "The XO laptop is an educational tool designed to be put into the hands of "
@@ -36,7 +36,7 @@ msgid ""
 "world, translated into multiple languages."
 msgstr ""
 
-# 8c8ccdaa763c474aa73057487bdecbf0
+# cbd38acdb6ea42bbb281c35a1b4678ed
 #: ../source/about.rst:14
 msgid ""
 "The XO runs free and open source software, Sugar, which allows anyone to "
@@ -45,7 +45,7 @@ msgid ""
 "OLPC's educational goals."
 msgstr ""
 
-# 8d8da9b445764a728390774d59ecc3b7
+# 0d12a38c2ffc4d219d1af8f468e68efd
 #: ../source/about.rst:16
 msgid ""
 "When you open the XO, you will see the high-resolution, easy-to-read screen "
@@ -54,7 +54,7 @@ msgid ""
 "rough-and-tumble daily lives that children lead."
 msgstr ""
 
-# 7f17f1af298a4885bd7195bd647a875c
+# 0c5c541382be4cfa945af8038f7fb8a0
 #: ../source/about.rst:18
 msgid ""
 "We hope you learn more about the XO laptop by reading these pages, so that "

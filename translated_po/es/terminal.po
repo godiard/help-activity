@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 10b37104f5514119b3ee721c011bcd8f
+# cc1299987a284f6994dd3eb30b0cf544
 #: ../source/terminal.rst:3
 msgid "Terminal"
 msgstr ""
 
-# 0cdc1e641609485d83a9468ffe20714e
+# cd847ac8443b4a259d0665223555214c
 #: ../source/terminal.rst:6
 msgid "About"
 msgstr ""
 
-# d99a00eab40a4ae8b4ec7013b247122a
+# 75545e2cfb9f4485ba4d8cd75042d379
 #: ../source/terminal.rst:8
 msgid ""
 "Terminal is a full-screen text mode program that provides a Command-Line "
@@ -37,7 +37,7 @@ msgid ""
 "that can be done within Linux that does not involve graphics or video."
 msgstr ""
 
-# a05861acd005422f8c898d6aac99e912
+# d27b29162ce147e3927245fccaaf8c7c
 #: ../source/terminal.rst:10
 msgid ""
 "For example, typing **pwd** (Print name of current/Working Directory) at the "
@@ -45,19 +45,19 @@ msgid ""
 "typing **ls** at the command line lists the content of the current directory."
 msgstr ""
 
-# 8e99e6d35f144d02b927a74fe5cac868
+# 0a063f495ffa4d9a9cb800f2e783c32a
 #: ../source/terminal.rst:13
 msgid "Where to get Terminal"
 msgstr ""
 
-# 6aa19c14bdce43388707629d6510e114
+# 7eaccbd17a0e4780bf06c029baa5c8dd
 #: ../source/terminal.rst:15
 msgid ""
 "Terminal is provided with Sugar on every XO. However, by default it is not "
 "selected for display in the Home view as a Favorite."
 msgstr ""
 
-# b952484ff5ac4f53af841da397d41e06
+# efa6d0253e5c4150b6c040aa796b8e65
 #: ../source/terminal.rst:17
 msgid ""
 "To select Terminal as a Favorite, go to Home view, then click the List view "
@@ -65,26 +65,26 @@ msgid ""
 "you switch back to the ring of icons in Home view, Terminal will be visible."
 msgstr ""
 
-# a5e9938b7b6643bb9cd40d4e5e39f240
+# 95adec1bd92f410c81e5520d56047b38
 #: ../source/terminal.rst:19
 msgid ""
 "Alternatively, you can leave Terminal unselected, and start it from list "
 "view by clicking its icon or selecting Start from its hover menu."
 msgstr ""
 
-# eee7df5a1ead49a9ab8e6c60902905e7
+# c62eb938c5a9446fa9197a247ac3f456
 #: ../source/terminal.rst:21
 msgid ""
 "If for some reason Terminal is not installed, it can be downloaded from its "
 "`Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4043>`_"
 msgstr ""
 
-# f40f229b7a004a279e37e993bcc29b0d
+# f501dbe9d082465bb4bc63b5c1e4e5ad
 #: ../source/terminal.rst:24
 msgid "Using"
 msgstr ""
 
-# 6d1716efd7b84ff7a1855e5dc4b5555a
+# 9cbad61a21304c7389d8d9f69d9b8a70
 #: ../source/terminal.rst:26
 msgid ""
 "Type commands with options that modify their effects and arguments, usually "
@@ -92,19 +92,19 @@ msgid ""
 "output."
 msgstr ""
 
-# 22877b699c5d44929d95f0340e1fdce5
+# a43d66c4a98b40c5b405d256604f312d
 #: ../source/terminal.rst:28
 msgid "Examples: **pwd** and **ls**, as shown above"
 msgstr ""
 
-# 1fc2bc8323e64039a3298bdfd3699f17
+# 7c5731f2a4ab48799eecfd5680c9ba8c
 #: ../source/terminal.rst:30
 msgid ""
 "Chain programs together, so that the following program processes the output "
 "of the earlier program."
 msgstr ""
 
-# 43485f6032d348d3b579bc2fee37097a
+# c761d3d943a74a4fa1026e4e5b51cdfe
 #: ../source/terminal.rst:36
 msgid ""
 "Get a listing of the current directory, but show only lines where the file "
@@ -112,14 +112,14 @@ msgid ""
 "represents the data link between the programs."
 msgstr ""
 
-# 82bd866f12c940f1ac1d7f3d8bac410e
+# 72d391bdabc94caa87733311d6b6275b
 #: ../source/terminal.rst:38
 msgid ""
 "Get information on programs. For example, many commands respond to the **-"
 "h** or **--help** options with a concise summary."
 msgstr ""
 
-# 1e38c0b2280041d1880fe6bf4cdea7d0
+# 0c04864544f9426f936fd978a394867c
 #: ../source/terminal.rst:46
 msgid ""
 "The **man** and **info** utilities are unfortunately not available on XOs, "
@@ -128,59 +128,59 @@ msgid ""
 "supported languages."
 msgstr ""
 
-# 9471dbbcc21f4c1599acec8202c9e20a
+# 193ded2fd86e4b4b82f02b68ec45c88d
 #: ../source/terminal.rst:50
 msgid "The Toolbar"
 msgstr ""
 
-# 64c27087ceb540a4ae0822b5f0da10d1
+# 94e4739f949a4701b6fd750abb8804c4
 #: ../source/terminal.rst:54
 msgid "Activity: Name this session and add a description to Journal"
 msgstr ""
 
-# 3721f3507c1446fc9e89a1eadfeb52c3
+# 88e651851ad04322b70091b211283bfd
 #: ../source/terminal.rst:55
 msgid "Edit (scissors icon): Copy and Paste"
 msgstr ""
 
-# daf91f0ee1e84df1bff9fa14b79d00b6
+# cc50c96ba7af43fd93c51d8f03ca0fb0
 #: ../source/terminal.rst:56
 msgid "View (eye icon): Increase or Decrease font size, view in full screen"
 msgstr ""
 
-# 61e557a7ece44d6a8488fc731f4a372e
+# 546c7953dcff48c7af023b0d68389711
 #: ../source/terminal.rst:57
 msgid "Help: Display useful commands"
 msgstr ""
 
-# 317001f6472844c6bb04f9f142df4ce3
+# e2c6c619c6024a7d93081b67afe55d08
 #: ../source/terminal.rst:58
 msgid "Stop: Close terminal activity"
 msgstr ""
 
-# 1e9b64856ee94981a4b5cc1ee4317cb4
+# c204de8e75e74f62ade39063fbe27ad4
 #: ../source/terminal.rst:59
 msgid "Tabs: Open and close tabs"
 msgstr ""
 
-# 0b8b7e80314349079c0c104e02016f13
+# 1ab885d1feb04a32b5ac9c39c268807e
 #: ../source/terminal.rst:62
 msgid "Learning with Terminal"
 msgstr ""
 
-# f44ac706b7094bc39acdfcb11763cee7
+# 732ddde26c9948ac841da449bf3449b3
 #: ../source/terminal.rst:64
 msgid ""
 "Terminal is essential to learning advanced Linux functions, such as system "
 "administration, compiling software, and many other such topics."
 msgstr ""
 
-# 9f130c6e859a4c728ce889c52e432572
+# 11b5a04d445244aa8aa4889bebed2d8c
 #: ../source/terminal.rst:67
 msgid "Extending Terminal"
 msgstr ""
 
-# 3403652842c14c11af0cb0251be89ad4
+# f4312b2770664180848e9e11dc466a47
 #: ../source/terminal.rst:69
 msgid ""
 "Users have the option of installing text-mode software that works in a "
@@ -190,7 +190,7 @@ msgid ""
 "text windows. To install mc, enter"
 msgstr ""
 
-# bb78548bb9344414a237d900b7218845
+# 3a09187e1e364fd590a844375eb2915b
 #: ../source/terminal.rst:75
 msgid ""
 "This invokes the Yellow Dog Update Manager to install the Red Hat/Fedora "
@@ -201,19 +201,19 @@ msgid ""
 "viewing or editing files, changing file permissions, and much more."
 msgstr ""
 
-# b4706872a1f946daaa335c6b2b3a3021
+# 8cc81a1fe1894676903982a9c86d91f4
 #: ../source/terminal.rst:77
 msgid "See the FLOSS Manuals manuals"
 msgstr ""
 
-# 9e57c4dbcd4a41d4ab9ca42c086f62fd
+# 38d458b0b2614013a55aa1a36387ba3b
 #: ../source/terminal.rst:79
 msgid ""
 "`Terminal <http://en.flossmanuals.net/terminal/>`_ about the Sugar Terminal "
 "activity"
 msgstr ""
 
-# f3afe01106144d87870adffce8e45a5e
+# c4f6531d9d7f46d2817e6f273db35360
 #: ../source/terminal.rst:80
 msgid ""
 "`Introduction to the Command Line <http://en.flossmanuals.net/command-line/"

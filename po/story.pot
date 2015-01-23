@@ -1,0 +1,198 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/story.rst:3
+# 1aa005ff4cc749b3acc120c1a10e083d
+msgid "Story"
+msgstr ""
+
+#: ../source/story.rst:6
+# 12d6e7f0ef054e488de1b6bc4557525e
+msgid "About"
+msgstr ""
+
+#: ../source/story.rst:8
+# 691a15f6171d4c12923cd3f75c072eb4
+msgid "|Story_ico| The Story Activity uses images to prompt a learner to tell a story."
+msgstr ""
+
+#: ../source/story.rst:12
+# afb755b3db1045009126714b0c52b4a4
+msgid "The Story activity is available for download from the `Sugar Activity Library Story <http://activities.sugarlabs.org/sugar/addon/4565>`_"
+msgstr ""
+
+#: ../source/story.rst:16
+# 430553cae24a4a1b84d7e457d28c1823
+msgid "Story can use the images from `Art4Apps project <http://wiki.sugarlabs.org/go/Art4Apps>`_ if installed."
+msgstr ""
+
+#: ../source/story.rst:19
+# 3940abf5da7741409b8b5a4bcc224af6
+msgid "Using Story"
+msgstr ""
+
+#: ../source/story.rst:21
+# c5a79ccc59904752b01b00d6d4d822cb
+msgid "The learner should try to tell a story that ties the images together into a comprehensive narrative."
+msgstr ""
+
+#: ../source/story.rst:24
+# d715c027e75a4a8cbd074d387244f645
+msgid "Toolbar"
+msgstr ""
+
+#: ../source/story.rst:28
+# 66a05fab505147c483e57f240468c8ca
+msgid "(From left to right)"
+msgstr ""
+
+#: ../source/story.rst:30
+# 894b24caeda141f79fe657d8b816758b
+msgid "Activity-toolbar Button: Opens standard Sugar activity toolbar"
+msgstr ""
+
+#: ../source/story.rst:31
+# 59f21c69888e4100b4716fa088f44519
+msgid "Reload-images Button: loads nine new images"
+msgstr ""
+
+#: ../source/story.rst:32
+# 7d36904c3bbb499aad24be04bd4ab8ec
+msgid "View all images at once Button"
+msgstr ""
+
+#: ../source/story.rst:36
+# f91f3e1f24664c87b9c54d46b6f88f0e
+msgid "View images one at a time Button"
+msgstr ""
+
+#: ../source/story.rst:40
+# 374b0e7381ac4535a18e9794e1d0763c
+msgid "Playback Button: playback audio recording"
+msgstr ""
+
+#: ../source/story.rst:41
+# b9c7e0be2a6241c2a2ef6f6157f46415
+msgid "Save as image"
+msgstr ""
+
+#: ../source/story.rst:42
+# 0a2cca3318bc470da536ae516784ab9d
+msgid "Save as PDF"
+msgstr ""
+
+#: ../source/story.rst:47
+# 8c2113155cae4affacef31a9a6b013de
+msgid "(From top to bottom)"
+msgstr ""
+
+#: ../source/story.rst:49
+# 41756e3c013542888d0fdbb48eec0121
+msgid "Record input from microphone"
+msgstr ""
+
+#: ../source/story.rst:50
+# e4dd38fc184d4520b53105d0bd2d4d01
+msgid "Play the recording"
+msgstr ""
+
+#: ../source/story.rst:51
+# 14a345a171504695b7c52617a4d53bbd
+msgid "Speak the story (text to speech)"
+msgstr ""
+
+#: ../source/story.rst:54
+# 660b14bb55854c77830fcf09ad089d0a
+msgid "Learning with Story"
+msgstr ""
+
+#: ../source/story.rst:55
+# ab0a69737cc64b3e86e1d0eedcbb778c
+msgid "Story is a fun way to get children to engage in narration. Simply generate some images and let the children's imagination do the rest."
+msgstr ""
+
+#: ../source/story.rst:59
+# ec65a1deaf37409eaf0b2b547a814d4c
+msgid "Extending Story"
+msgstr ""
+
+#: ../source/story.rst:61
+# d4054f42fd0747a7be08860aa2aa3ba8
+msgid "Ask the students to transcribe and refine their stories using the Sugar Write activity. (They can save to the Journal the images used to prompt their story and then embed this image into their Write document.)"
+msgstr ""
+
+#: ../source/story.rst:62
+# 550edabd99f34156a70bc8371da70c01
+msgid "A spoken story (or notes) can be recorded to the Journal."
+msgstr ""
+
+#: ../source/story.rst:63
+# 976ba1cd024c429fbb3ef5e401c77417
+msgid "Story can be shared, so the narration can be created amongst multiple students. They can chain together a story by taking turns; each turn involving generating narration for one image."
+msgstr ""
+
+#: ../source/story.rst:67
+# 9ca053ef6db34e7e8d16e5a8a572d56e
+msgid "Modifying Story"
+msgstr ""
+
+#: ../source/story.rst:68
+# 7d6c8970593f4ac6ac8622a9d111cab0
+msgid "Add new images to Story by putting them in the images folder of the activity."
+msgstr ""
+
+#: ../source/story.rst:70
+# 8385e3c2b73d4c6f90999cc2254f76fc
+msgid "The source code is available on `GitHub server <https://github.com/walterbender/story>`_"
+msgstr ""
+
+#: ../source/story.rst:74
+# f3424ca166a441339e81db5eec3a80f4
+msgid "Reporting Bugs"
+msgstr ""
+
+#: ../source/story.rst:75
+# 029a0257f384451482f4370524ef5c5f
+msgid "To report a bug or to see what bugs have been reported and/or fixed, please go to the `bug tracking page <https://bugs.sugarlabs.org/newticket?component=Story>`_."
+msgstr ""
+
+#: ../source/story.rst:79
+# 5d757954394940f9bea86161b9bff942
+msgid "Credits"
+msgstr ""
+
+#: ../source/story.rst:80
+# d60b9d20810e40d8aa9fc3fd64f3adae
+msgid "Story was written and is maintained by `Walter <http://wiki.sugarlabs.org/go/User:Walter>`_, `Ignacio_Rodríguez <http://wiki.sugarlabs.org/go/User:Ignacio_Rodr%C3%ADguez>`_. He was inspired in part by Claudia Urrea."
+msgstr ""
+
+#: ../source/story.rst:82
+# 2edbc6d77ded40109ddd067531dcb363
+msgid "Most of the images are from the `The Noun Project <http://thenounproject.com/>`_."
+msgstr ""
+
+#: ../source/story.rst:86
+# 8987da2cd3544f839ff8e6b9f6e3da09
+msgid "References"
+msgstr ""
+
+#: ../source/story.rst:87
+# bb06cda11fd946fe80f1468ba20243c2
+msgid "`Wiki page <http://wiki.sugarlabs.org/go/Activities/Story>`_"
+msgstr ""
+

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# f278c95e8159480a86448b5c77a50996
+# 61bcbc3fc4c64fa6973b46a104e77dd1
 #: ../source/getting_started.rst:3
 msgid "Getting Started"
 msgstr ""
 
-# 2686f6b0360f4ba49dba99c630a8aaeb
+# 22d57a73da484188a563066e57ff5419
 #: ../source/getting_started.rst:5
 msgid "Read Me First:"
 msgstr ""
 
-# 28b7f2329f654baba4e1c0c31719f3cd
+# b8b6a5dd7e6a4fdd9fd7601d0fadc58d
 #: ../source/getting_started.rst:7
 msgid ""
 "Welcome to XO-land! You are about to start on a wonderful adventure of "
@@ -38,7 +38,7 @@ msgid ""
 "learn to do a little computer programming."
 msgstr ""
 
-# b92a5126998f43f3b51e48650f08ea50
+# 56948739243548d09d51495baeb71076
 #: ../source/getting_started.rst:9
 msgid ""
 "But the XO represents a lot more than that. It is a symbol of your "
@@ -47,14 +47,14 @@ msgid ""
 "using your XO as children around the world do."
 msgstr ""
 
-# cde4ebaf4fe54f6daf36e6f7475f9680
+# dc19273572c540e7b7a5426d1633d471
 #: ../source/getting_started.rst:11
 msgid ""
 "Before you get started, consider reading these great tips: http://laptop.org/"
 "start"
 msgstr ""
 
-# b66acced143b4251889e5298c4c77197
+# 628498ac36684a3eaf6a0c3308bcaaf7
 #: ../source/getting_started.rst:13
 msgid ""
 "The first thing you need to do is carefully unpack your XO. Save everything! "
@@ -62,7 +62,7 @@ msgid ""
 "to save the box, packing materials, and any paperwork that is in the box."
 msgstr ""
 
-# ede6394873bd4ef4aa5c028917f4e8a3
+# 0cb71f943f2c4672aeaff2f1b28a0a96
 #: ../source/getting_started.rst:19
 msgid ""
 "Before you use your XO for the first time, you should fully charge the "
@@ -70,7 +70,7 @@ msgid ""
 "connect the charger."
 msgstr ""
 
-# 11ad30f0dbb744d4a67ebf3d50cbf184
+# 1ff52f65780a4fc885f3c2d941174bad
 #: ../source/getting_started.rst:21
 msgid ""
 "While you wait for it to charge, read through the rest of this guide and see "

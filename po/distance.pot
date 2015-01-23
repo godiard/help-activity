@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/distance.rst:3
+# 41d1ab8fcd7144ad8ddb68347b9ade0a
+msgid "Distance"
+msgstr ""
+
+#: ../source/distance.rst:6
+# 643356092ffc43ec8ab52797c6ffca57
+msgid "About"
+msgstr ""
+
+#: ../source/distance.rst:8
+# 24e48de4649e4ac0b6777433d196e299
+msgid "Distance (earlier known as Acoustic Tape Measure) determines the physical distance between two computers by measuring how long it takes sound pulses to travel between them."
+msgstr ""
+
+#: ../source/distance.rst:14
+# 46ccabd00ced44608f0c5ad52f43ed74
+msgid "Download"
+msgstr ""
+
+#: ../source/distance.rst:16
+# d235ddbc4b154e8cae2d1aeeb1f827e6
+msgid "`Activity page in our activities portal <http://activities.sugarlabs.org/en-US/sugar/addon/4264>`_"
+msgstr ""
+
+#: ../source/distance.rst:18
+# 31ffbed155c14f588b840821d9328b87
+msgid "`Git Repository <http://git.sugarlabs.org/distance>`_"
+msgstr ""
+
+#: ../source/distance.rst:22
+# b9fe0797874a4df2a3b42cd2186dab42
+msgid "Using Distance"
+msgstr ""
+
+#: ../source/distance.rst:24
+# 4d27ee7f07df495eb5f04e3cbacce5fd
+msgid "You need two laptops in order to use this activity."
+msgstr ""
+
+#: ../source/distance.rst:27
+# c26b86aca5d7484f92c2950f45fad871
+msgid "Steps"
+msgstr ""
+
+#: ../source/distance.rst:29
+# 18ce28cc4d5f461c93c70892daedaa45
+msgid "Launch the Distance activity on one of the computers by clicking on the icon in the Home view."
+msgstr ""
+
+#: ../source/distance.rst:31
+# 528992ce203144349944596a1a6a6ea1
+msgid "Share the activity from the Share icon on the activity toolbar (or send an invitation to the another computer)."
+msgstr ""
+
+#: ../source/distance.rst:33
+# ed273198239942599a309324a9c1cdd5
+msgid "Launch the Distance activity on the second computer by clicking on the icon in the Neighborhood view (or Invitation icon)."
+msgstr ""
+
+#: ../source/distance.rst:35
+# 419c2409125f460789a3aea888964616
+msgid "Click on the \"Begin Measuring Distance\" button found near the top of the activity view on both computers."
+msgstr ""
+
+#: ../source/distance.rst:37
+# 4cc7b4ca23644666a9b0b15f66a61b33
+msgid "The first computer will send an audio pulse; the second computer will respond with an audio pulse of its own; then both computers will calculate and display the distance between them (by default, the measurement is displayed in meters)."
+msgstr ""
+
+#: ../source/distance.rst:39
+# d2aa5f871aab4a6c8297cb4464cfa0cd
+msgid "This process (Step 5) will repeat until you click on the \"Stop Measuring Distance\" button or you exit the activity."
+msgstr ""
+
+#: ../source/distance.rst:42
+# 79e96616c7f44d04a8306636d00fd112
+msgid "Notes"
+msgstr ""
+
+#: ../source/distance.rst:44
+# 1ca190e777c84e458c9ea1d1150db8e5
+msgid "Try not to move the laptops while a measurement is taking place as it will result in a inaccurate measurement. You can move them between consecutive measurements."
+msgstr ""
+
+#: ../source/distance.rst:46
+# b2243de0ab384ee7a87a707c1a4f9129
+msgid "If the \"Begin Measuring Distance\" button does not activate, try relaunching the Distance activity again on the second laptop from the Neighborhood view."
+msgstr ""
+
+#: ../source/distance.rst:50
+# 9dfa738e0b484bfe988a3d9955c20681
+msgid "Atmospheric conditions can impact the accuracy of the measurement; you can override the default settings by using the Atmosphere toolbar."
+msgstr ""
+
+#: ../source/distance.rst:54
+# 0ad891eb30f44dee8ecc4e1a97a336e2
+msgid "The units of measure can be changed by choosing a unit from the combo box (meters, centimeters, inches, feet, yards, or custom units) on the Customize toolbar. If you chose \"custom units\", the current distance between the two laptops will be used as a metric. For example, you could measure the height of a student, Pedro, and then select that distance to define a new unit of measure, the \"Pedro\"."
+msgstr ""
+
+#: ../source/distance.rst:58
+# 59f10f19241a482bb25c076021079f5f
+msgid "The Copy button found on the Edit toolbar can be used to copy measurements to the toolbar."
+msgstr ""
+
+#: ../source/distance.rst:60
+# 30b7c22757884040a03c0ccece2cbac2
+msgid "The Paste button found on the Edit toolbar can be used to paste a new measurement unit into the activity. The scale of the measurement units should be specified in terms of meters, e.g., 39.37 for specifying inches."
+msgstr ""
+
+#: ../source/distance.rst:64
+# 08ee87d897ba40cdadc1c2653193c33e
+msgid "Reporting problems"
+msgstr ""
+
+#: ../source/distance.rst:65
+# 733e18bb4c354281a2fb9e4f822796e1
+msgid "`File Bug Report <https://bugs.sugarlabs.org/newticket?component=Distance>`_"
+msgstr ""
+
+#: ../source/distance.rst:68
+# af319805f830424ea6a4caff18295805
+msgid "Credits"
+msgstr ""
+
+#: ../source/distance.rst:69
+# 8d7617188c764f0aaaa23a2549e33e49
+msgid "Distance was written by Benjamin Schwartz. It is maintained by Rafael Ortiz and Walter Bender"
+msgstr ""
+
+#: ../source/distance.rst:73
+# 7e8b69cee2274381ae14f569078d5741
+msgid "References"
+msgstr ""
+
+#: ../source/distance.rst:74
+# 65862bd1736c431087fbc3589d808f71
+msgid "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/Distance>`_"
+msgstr ""
+

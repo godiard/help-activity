@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# adc679f08ee0461c96275c650137a96e
+# 8abef9970421494fabb50bc0170b124a
 #: ../source/tamtammini.rst:3
 msgid "TamTam"
 msgstr ""
 
-# 9cc47585f19c4aac88bb372862111a62
+# 3fe3202c36734c318ee59cfcfc1b51ce
 #: ../source/tamtammini.rst:6
 msgid "About TamTamMini"
 msgstr ""
 
-# 6f59612cd0b94108902311c3e262f284
+# eb471350edaf44eb816e03148ddb7cec
 #: ../source/tamtammini.rst:8
 msgid ""
 "Welcome to TamTamMini!  This chapter of the Users manual is about TamTamMini "
@@ -36,7 +36,7 @@ msgid ""
 "require increasingly higher levels of musical skill to use."
 msgstr ""
 
-# 095f7e44cfb04209a71d73d5f3f638ae
+# dd73e9e84df94de3a7c74357860deeb8
 #: ../source/tamtammini.rst:10
 msgid ""
 "**TamTamMini** is the simplest of the four TamTam Activities but it offers a "
@@ -46,7 +46,7 @@ msgid ""
 "utilize the mesh network."
 msgstr ""
 
-# 14f2d795040440f1876bbea16db91fa8
+# c9f9e38e49b044b7a930565b72a4cef1
 #: ../source/tamtammini.rst:12
 msgid ""
 "You can begin by choosing an instrument or sound and experimenting with "
@@ -54,7 +54,7 @@ msgid ""
 "will help you learn to do that."
 msgstr ""
 
-# 1cccd80bfa7e45efb7109f588ac6b1d8
+# 3056503380b0491a85eff1c590947613
 #: ../source/tamtammini.rst:14
 msgid ""
 "For more about TamTamMini, including how to use the Drum Machine and Loops, "
@@ -62,7 +62,7 @@ msgid ""
 "tam/_full/>`_\" FLOSS manual."
 msgstr ""
 
-# 16351d0bb22f4fcfbe70a0c661e4bfe7
+# 6c0955cea9ef4059bde23bba49c4e6b2
 #: ../source/tamtammini.rst:16
 msgid ""
 "**TamTamJam** is more complex than TamTamMini, but still suitable for school "
@@ -72,7 +72,7 @@ msgid ""
 "beat with other XOs through the mesh network."
 msgstr ""
 
-# 9e96cd88b2ab49e4871ea85715a4f135
+# 6273a7ee93f84945b1faffee45e00fd3
 #: ../source/tamtammini.rst:18
 msgid ""
 "**TamTamEdit** is the basic TamTamActivity and must be installed in order to "
@@ -82,19 +82,19 @@ msgid ""
 "limitless variety of musical styles."
 msgstr ""
 
-# 879345efe5b1433ead7d09a63ddbd173
+# 516e28145c124d038b8abdd10ab359f9
 #: ../source/tamtammini.rst:21
 msgid ""
 "**TamTamSynthLab** is a highly sophisticated synthesizer program suitable "
 "for advanced work in both music and physics."
 msgstr ""
 
-# 20c8520d8bb64a2c9ef10d80969f9367
+# d7b0796f6b174979a87afd40a4cfa2b1
 #: ../source/tamtammini.rst:24
 msgid "Starting TamTamMini"
 msgstr ""
 
-# cfe6ffd34e014ddf9010a01d095aa1e3
+# 7545e3ae5f4842cb8437d32e93e277ac
 #: ../source/tamtammini.rst:26
 msgid ""
 "Select the TamTamMini icon (little drum with drumsticks)from the Favorites "
@@ -103,12 +103,12 @@ msgid ""
 "appear."
 msgstr ""
 
-# ca73b5aa8d9b42cd81eeadedc97c1263
+# fbe839da1a044c43ae5ed284eca6ddf6
 #: ../source/tamtammini.rst:30
 msgid "If you cannot find TamTamMini, change to the List View"
 msgstr ""
 
-# db1f332d44e744c690204f21be22012e
+# 4f3fb138da394809a06a6bacba007fa5
 #: ../source/tamtammini.rst:34
 msgid ""
 "When you find it in List View first check the little star next to the name "
@@ -117,17 +117,17 @@ msgid ""
 "it to open TamTamMini."
 msgstr ""
 
-# 424f40e566e0478286dd483a5e1875b7
+# 85b1c0311aec44e2bc075766b36c4003
 #: ../source/tamtammini.rst:37
 msgid "Learning With TamTamMini"
 msgstr ""
 
-# f715d55db8694f7497db76d69ac98205
+# 2e9b38136ee446aca828b1675737cf11
 #: ../source/tamtammini.rst:40
 msgid "Choosing An Instrument"
 msgstr ""
 
-# b8e887786cc54d70a375d260650993ce
+# 959d79a1e13e4861a932a18bfc47dc2e
 #: ../source/tamtammini.rst:44
 msgid ""
 "TamTamMini offers a wide variety of instruments and sounds.  Before choosing "
@@ -137,7 +137,7 @@ msgid ""
 "the sound. Clicking again repeats the sound."
 msgstr ""
 
-# 2577b5ea19924c72a5036279dd56f4e5
+# c85b1bf073f848bd9865f85bb1240305
 #: ../source/tamtammini.rst:46
 msgid ""
 "After trying all of the sounds, choose the instrument you will use.  Please "
@@ -148,12 +148,12 @@ msgid ""
 "instruments will also work fine."
 msgstr ""
 
-# 5ceb2725a685467087767511c735f3b4
+# 1ac50f41bc0144ac9c63220892c9c51d
 #: ../source/tamtammini.rst:49
 msgid "Introduction To The Keyboard"
 msgstr ""
 
-# 2d79152fb45845c1927421478bf96814
+# 8dacc7b3bf9843a0ac64b8099f805b86
 #: ../source/tamtammini.rst:51
 msgid ""
 "TamTamMini utilizes the regular keyboard to play the musical notes.  This "
@@ -164,12 +164,12 @@ msgid ""
 "\"Ti\" with \"Si.\""
 msgstr ""
 
-# d1b5c91b95004c8a8dbcd1d5198de8f8
+# 8bacca9ec5e54096a37eabc3c9a27a6e
 #: ../source/tamtammini.rst:54
 msgid "Playing A Major Scale"
 msgstr ""
 
-# bbede94c1cb745a39a70408837791fcc
+# 59ae633834c2449f842d3a7b4b2cfaf9
 #: ../source/tamtammini.rst:56
 msgid ""
 "In most western music a 7 note scale is used and then the names of the notes "
@@ -178,7 +178,7 @@ msgid ""
 "many vibrations per second as the first note."
 msgstr ""
 
-# 32b2ede80a194d27a83ec5a780454246
+# b4ad4ad6fbe344e6a6f2d63cb7d94aef
 #: ../source/tamtammini.rst:58
 msgid ""
 "Use the instrument you have chosen to try playing a 2 octave major scale "
@@ -186,45 +186,45 @@ msgid ""
 "for you as well."
 msgstr ""
 
-# 590eb1800a864c94be208b082afc7f44
+# a329215e07fe4816ba1d68f52b7eb2ca
 #: ../source/tamtammini.rst:60
 msgid "(First Octave)"
 msgstr ""
 
-# 260573f9f2dc46fc96017b006602dfd0
-# 932064712ae447829672909fc74c7088
+# c32f99bdf2e14f729801f4c5399304f7
+# 2c9ee1b4caf247adb2c24b49c734d6ab
 #: ../source/tamtammini.rst:62 ../source/tamtammini.rst:69
 msgid "Do      Re      Mi      Fa      Sol     La      Ti      Do"
 msgstr ""
 
-# 9ce68ae5912d4dfd9bcd6ba3aa209334
+# 59a6d52b3f5c46508021cfec810d73eb
 #: ../source/tamtammini.rst:64
 msgid "Z     X       C       V       B       N       M       ,"
 msgstr ""
 
-# cb81f1c174f14a86a27b81557a79a047
+# dbe9cfba6437490e96357bf5f100a863
 #: ../source/tamtammini.rst:67
 msgid "(Second Octave)"
 msgstr ""
 
-# fa93fce5d3284cb8a640b75895df49bd
+# 2aeea06ae0ad4bcaba46726855354fc0
 #: ../source/tamtammini.rst:71
 msgid "Q      W       E       R       T       Y       U       I"
 msgstr ""
 
-# 220352f304e04dce9b0afca5317ca00e
+# 1ceea36ecbb3467ea24e351371e021f3
 #: ../source/tamtammini.rst:73
 msgid ""
 "Note: \"Do\" is repeated in the second line. Leave one out if you like. You "
 "may also want to practice the scale a bit until you feel comfortable with it."
 msgstr ""
 
-# 419ef5bb247f4d94b823b03d9921e37a
+# 8bc7ff145c1343259b5fbd8c7143c74d
 #: ../source/tamtammini.rst:79
 msgid "Playing A Simple Song"
 msgstr ""
 
-# 871a61943b0c413d98a1a1b800901bf6
+# 66a6f869ecc34d4fbd821a6427219193
 #: ../source/tamtammini.rst:81
 msgid ""
 "When you feel comfortable playing the 2 octave major scale, try this simple "
@@ -233,52 +233,52 @@ msgid ""
 "notes. (Example: Mi___)"
 msgstr ""
 
-# 437a906e5ab34103ba10175e3c7e0a21
+# fcbf0f9d77b14131b6d5614bfd5487ec
 #: ../source/tamtammini.rst:83
 msgid "Mi      Re      Do      Re      Mi      Mi      Mi___"
 msgstr ""
 
-# 17874779f68449189663351171e31b73
+# 1a27a9cb524c4de4b5978cdd04648530
 #: ../source/tamtammini.rst:85
 msgid "C       X       Z       X       C       C       C___"
 msgstr ""
 
-# bc16223f354a41888b5c0f412d52b958
+# a3d5dadc1094420aa2c1d1afbc23ea7a
 #: ../source/tamtammini.rst:87
 msgid "Re      Re      Re\\_    Mi      Sol     Sol___"
 msgstr ""
 
-# 3b47d7dbdcbd46b1a90361a962369a7b
+# 420eda698a424bf686ed1c1acc5ec9fb
 #: ../source/tamtammini.rst:89
 msgid "X       X       X___    C       B       B___"
 msgstr ""
 
-# 18839cc1ea6e41918c9efce9790d4b39
+# fababa58e1ed485a829eee83a102bb78
 #: ../source/tamtammini.rst:91
 msgid "Mi      Re      Do      Re      Mi      Mi      Mi      Mi"
 msgstr ""
 
-# 59cce4fa54844cdda60b7e5bc84001be
+# e8f3d30ec94e45ab87174e601cdb1f75
 #: ../source/tamtammini.rst:93
 msgid "C       X       Z       X       C       C       C       C"
 msgstr ""
 
-# 7e07d3cb69df4abd9f2552c2d7b0334d
+# d554446a363148738d17615070b9da57
 #: ../source/tamtammini.rst:95
 msgid "Re      Re      Mi      Re      Do___"
 msgstr ""
 
-# 39d9af4a7ca5459bba297706b6abd575
+# daa4c2112e0c4085bf70de21a31822f0
 #: ../source/tamtammini.rst:97
 msgid "X       X       C       X       Z___"
 msgstr ""
 
-# 9fb7366d8fda4e3a81edc09a6355f477
+# 2bc8e6fb9c3d40b2935428d6a843719f
 #: ../source/tamtammini.rst:99
 msgid "**Challenge:** Play this same song using QWERT for the notes."
 msgstr ""
 
-# 7777ce3f7dd744c5b3ea62c55b7cc052
+# f51f5aeff4294bc188295c03781c2fba
 #: ../source/tamtammini.rst:101
 msgid ""
 "**Challenge:** If you have more than one XO player, try with the same "
@@ -287,7 +287,7 @@ msgid ""
 "together."
 msgstr ""
 
-# e3b6a29619f246739776e00e40920831
+# 865297b235174f438b90c628236b063a
 #: ../source/tamtammini.rst:103
 msgid ""
 "**Challenge:**  Chords are formed when 3 or more different notes are played "
@@ -301,37 +301,37 @@ msgid ""
 "numeral five) chord."
 msgstr ""
 
-# 9b176f62e7054168b0bf17e0400c99f9
+# c0c7fd93938c4cf8b2d8bd4f4bef91d8
 #: ../source/tamtammini.rst:105
 msgid "Try these:"
 msgstr ""
 
-# 83fed570458440d1a0ecbf5931086467
+# 1b360e3d7521456c8731efca898c2baf
 #: ../source/tamtammini.rst:107
 msgid "``Sol B      La  N      Ti  M      Sol T``"
 msgstr ""
 
-# 1830cc3b500e4f56bebf12aa7008d062
+# aca77a9d6aeb42a59971230de336bd1f
 #: ../source/tamtammini.rst:109
 msgid "``Mi  C      Fa  V      Fa  B      Mi  E``"
 msgstr ""
 
-# ae785030a7f046a1872eda1135a260d9
+# 6d772373098948548db7e24f26232082
 #: ../source/tamtammini.rst:111
 msgid "``Do  Z      Do  Z      Re  X      Do  Q``"
 msgstr ""
 
-# 823111a8dfb64499bdac56ba8123e60c
+# 24799eacb9dc441e9c8fc6abdd636918
 #: ../source/tamtammini.rst:113
 msgid "``I          IV         V          I``"
 msgstr ""
 
-# f538231659f440b3b3929b2ed903aaab
+# 5c651a5078cf4a23afa229d6b110b062
 #: ../source/tamtammini.rst:116
 msgid "Playing Other Songs"
 msgstr ""
 
-# 3718757c81004a0e8e57aeca56e04d7c
+# fe24960d196448dc8906d4a20679ddc4
 #: ../source/tamtammini.rst:118
 msgid ""
 "Here is another song already figured out for you to try. It is an old "
@@ -339,75 +339,75 @@ msgid ""
 "Mozart and Haydn, both it to use in their music."
 msgstr ""
 
-# 13ae614ac99e43f99f19a2dac324e7fc
+# 4df83744e6ba4a05932fafd15056b2df
 #: ../source/tamtammini.rst:121
 msgid "Twinkle, Twinkle, Little Star"
 msgstr ""
 
-# 47220ddc4f7049889a02f31d7f4070d6
-# 52a56e4089ac4160a751c6c0ec5d3f13
+# 3e1db4048f15461ab1faf19c7f52f03e
+# 57428aed3c0c4a9788a7f8ac2e9528e2
 #: ../source/tamtammini.rst:123 ../source/tamtammini.rst:147
 msgid "Do      Do      Sol     Sol     La      La      Sol____"
 msgstr ""
 
-# 4386130a80714e2ea0bff29d97b80a1b
-# 7fc62c0687cc473e9a063727e4164d43
+# b604e7514ea44478978843288f91e4f7
+# b2d14aae28824e709f4f4b3d351489bd
 #: ../source/tamtammini.rst:125 ../source/tamtammini.rst:149
 msgid "Z       Z       B       B       N       N       B_____"
 msgstr ""
 
-# 5c68d62070854b7a8d8be0fe13b4b39b
-# fe1adffcefbd402e9031691589296101
-# 49bf0ffe71744457a84501374981948a
-# 3120edeed4fc4ce5909c55186295448a
+# d6529e0b6bf4480c92e40a1ad33972a7
+# 8227e8ff9cb64aa3a215bf9f2de2b83a
+# ce739d4b2e2747178f9ac250d61ceeeb
+# e4d9eb815ac249d0bf3ad00354ac5dbd
 #: ../source/tamtammini.rst:127 ../source/tamtammini.rst:133
 #: ../source/tamtammini.rst:139 ../source/tamtammini.rst:145
 msgid "1       2       3       4       1       2       3____4"
 msgstr ""
 
-# 1d572638239a47d492fe9bdae1f90aae
-# 9ff999c4f2fd46dcadc43e83c755598b
+# ff320e1bcfd24206ab18c6584f7a4e75
+# 2299856da9f34259a166d598226b1e18
 #: ../source/tamtammini.rst:129 ../source/tamtammini.rst:153
 msgid "Fa      Fa      Mi      Mi      Re      Re      Do____"
 msgstr ""
 
-# b6e34f8cd2c14929bc7d0a1f8dab569e
-# 661dae13fbdb437b891af61b1969229c
+# 9645e4477962402eaeb311f786c61c25
+# 7d952869e6514468bfbb749f2ac6601d
 #: ../source/tamtammini.rst:131 ../source/tamtammini.rst:155
 msgid "V       V       C       C       X       X       Z_____"
 msgstr ""
 
-# 0dbc587244324a19beebe2a8807a7cf3
-# 9c176436724b48cfb7f54eeb65c6a35b
+# 42175af19e3b49dda5f9ffd13e6b3176
+# 49d2ef97fab14761af8378145c4cb374
 #: ../source/tamtammini.rst:135 ../source/tamtammini.rst:141
 msgid "Sol     Sol     Fa      Fa      Mi      Mi      Re____"
 msgstr ""
 
-# a50b5350dbe64bf49b179bac3cb4f644
-# cbd29fe4f0b24245ac6d814de27aeb94
+# 4e56e6bd3af74c439e5a9d1f920a9603
+# e15e0dec83da4624a426e1b517b01886
 #: ../source/tamtammini.rst:137 ../source/tamtammini.rst:143
 msgid "B       B       V       V       C       C       X _____"
 msgstr ""
 
-# 8f94aee3db764d11877e396e914b557a
-# b1c4159c60b84f479f3ec6c4d210be9d
+# 8c4fcaff44b547c1a52ec9d954cd3788
+# c5e4d6d7d3684c4c8241cdfaf04c7550
 #: ../source/tamtammini.rst:151 ../source/tamtammini.rst:157
 msgid "1       2       3       4       1       2       3____   4"
 msgstr ""
 
-# 0a0978eacc06463eb6637a17abc40154
+# 7d8bf5a5539140188adf7b6fb4908764
 #: ../source/tamtammini.rst:160
 msgid "Challenges"
 msgstr ""
 
-# 290194402ac14b7b88924bae388bcf80
+# 5421153ba6ae480b80fb36a4bac1f1c7
 #: ../source/tamtammini.rst:162
 msgid ""
 "Try to figure out other simple songs on the XO.  Write them down to help you "
 "remember the notes and to share them with other people."
 msgstr ""
 
-# 8ee212f4d5ac4a11b29da9130cc1f06f
+# 386f063a88a24204a1a885a8bc6dba4d
 #: ../source/tamtammini.rst:164
 msgid ""
 "If you have enjoyed working with TamTamMini, you can find more information "
@@ -415,7 +415,7 @@ msgid ""
 "available soon."
 msgstr ""
 
-# b6920f04eb4a43e1a226a401887c5708
+# 409ee501544e4c519248ed1c1320bb13
 #: ../source/tamtammini.rst:166
 msgid ""
 "Note: This introduction to TamTamMini has focused on the Major Scale which "

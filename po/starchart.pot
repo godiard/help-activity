@@ -1,0 +1,403 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/starchart.rst:3
+# 22dbcde1111040798af3cbf4940f67ec
+msgid "StarChart"
+msgstr ""
+
+#: ../source/starchart.rst:6
+# ef107a7e1b7742dcba12ba2aa7880384
+msgid "About"
+msgstr ""
+
+#: ../source/starchart.rst:8
+# 2a6adaf4b23e4c4eb9b1b7ff33065f93
+msgid "|Star_ico| This activity will display a map of the sky showing the position of the visible stars, some of the larger and brighter deep-sky objects (DSOs), the \"classical\" planets, the sun and the moon."
+msgstr ""
+
+#: ../source/starchart.rst:12
+# 4014fb3b2c604ffe8d5bd22dd1dee60c
+msgid "You may specify a location (longitude and latitude) and the time (including time zone offset from GMT) that you wish to have a plot for. Alternatively, you can get a plot which is updated once a minute showing the current sky."
+msgstr ""
+
+#: ../source/starchart.rst:14
+# 4c005209b9e3482590fb52358a5e9a10
+msgid "You can also learn your way around the sky by using the \"Locate\" feature to find an object whose name you know or by using the \"Identify\" feature to get the name of something you see on the chart."
+msgstr ""
+
+#: ../source/starchart.rst:16
+# 9f68d599c2e24fc6905c36c4eb6a9453
+msgid "If you have access to a small telescope or a pair of binoculars, StarChart can provide a magnified view encompassing 7 degrees of the sky centered on a point you specify."
+msgstr ""
+
+#: ../source/starchart.rst:18
+# d180bfe706b34efe900fdd503a129543
+msgid "The latest version (StarChart 16) can be downloaded from `here <http://activities.sugarlabs.org/en-US/sugar/addon/4300>`_."
+msgstr ""
+
+#: ../source/starchart.rst:22
+# 4131f11594d442088f72a33c7c8251f1
+msgid "Introduction"
+msgstr ""
+
+#: ../source/starchart.rst:24
+# ba9b57d279644e73bd8148a0ca5d8ae6
+msgid "StarChart was created by a professional programmer and amateur astronomer who likes to vacation in places far removed from his home town and appreciates the opportunity to view the sky from these places. The XO is a wonderful travel accessory for supporting this sort of thing since it is light, compact and frugal of battery power while providing a reasonably large, reasonably high resolution color display."
+msgstr ""
+
+#: ../source/starchart.rst:26
+# 8ae0ff74b08f466789a9bb9ef2e40b23
+msgid "This Activity is intended to support the star-gazer who has no instrument better than his own eyes. It can be used as a guide to the sky overhead, as a tool for planning future observations (including observations from a different location) or as a way to reprise the look of the sky as it was at some time in the past."
+msgstr ""
+
+#: ../source/starchart.rst:30
+# 380571bc6ddd4772a1deba64f754b65e
+msgid "Using Star Chart"
+msgstr ""
+
+#: ../source/starchart.rst:33
+# af4a193f255242e196f94eb01c0bc5ac
+msgid "Before you begin"
+msgstr ""
+
+#: ../source/starchart.rst:35
+# 84f5d34efe204d908a0d486bd575ea31
+msgid "Be sure your XO has been set to the correct time-zone offset and the correct local time! The astronomical algorithms need to compute GMT (UT) and can't do that if \"now\" isn't the right time. (This is only an issue if you don't plan to always use \"specify time\". But it's still an untidy way to operate your computer.)"
+msgstr ""
+
+#: ../source/starchart.rst:39
+# 00f5607c7fbd4c2e8ab2b3c1d4ad9cef
+msgid "Installation and set-up"
+msgstr ""
+
+#: ../source/starchart.rst:41
+# da67244840504cb89e32680d9da7b450
+msgid "For best results, remove any previous version of StarChart you may have installed. Re-start X (hit Ctrl-Alt-Backspace). Then, simply follow the usual procedure for downloading and installing an Extra Activity."
+msgstr ""
+
+#: ../source/starchart.rst:43
+# 138101612fdc4df0a69129dcb2e79504
+msgid "Once you have installed StarChart, start it and select the clock button."
+msgstr ""
+
+#: ../source/starchart.rst:47
+# 30ef3db7fb524b34b8e5d425ebc3103f
+msgid "Is the time (YYYY/MM/DD,HH:MM) the correct year, month, day, hour and minute for your location (it's 24-hour time -- 1:00 PM is 13:00 in that system)? Is the zone offset showing the correct hours and minutes that your locale is offset from GMT? (Hint: Eastern Standard Time in the USA is \"-5:00\" with respect to GMT.) If not, stop the activity and correct your time and time-zone using the Sugar control panel before proceeding."
+msgstr ""
+
+#: ../source/starchart.rst:49
+# 6469a1a5fef7440a91076c1e5d67e164
+msgid "If the time and date are correct, the chart will be displaying the sky for a location in Massachusetts, USA as of right now. If you don't happen to be in that location, you will need to enter your longitude and latitude. Click on \"where\" to display the controls for doing this. You should be able to get your coordinates from any good map, Google Earth or simply use the published coordinates for any relatively nearby city or town. Another possibility is from a site on the internet such as http://www.mapquest.com/atlas which provides a map with latitude and longitude information from which you can interpolate your specific coordinates."
+msgstr ""
+
+#: ../source/starchart.rst:51
+# dfd57554b1a0463e810441a116a944c3
+msgid "Don't be obsessive about the precision for this: the star chart will not look noticibly different if you are wrong by one or two degrees either way in latitude or longitude. Being off 100 km won't make enough of a difference to show. But be sure you select East or West longitude and North or South latitude! Then click \"Ok\" so the program knows you really want to change these settings."
+msgstr ""
+
+#: ../source/starchart.rst:53
+# 4e65370cf1f04dc7945602736092372d
+msgid "Now I'd recommend clicking the \"Make Home\" button. StarChart will save this location as your \"home\" position. From now on, whenever you start the activity the location will default to these coordinates."
+msgstr ""
+
+#: ../source/starchart.rst:57
+# 80c3f4cf0d524cac9a90c927d13d0e16
+msgid "How to read the plot"
+msgstr ""
+
+#: ../source/starchart.rst:59
+# 0d9269c5e0eb46c58ce26ed10abcac83
+msgid "Stars are drawn (with default settings of the \"What\" menu tab controls) as white dots of different sizes. The brightest stars are drawn as the biggest dots; the dimmest stars are drawn as the smallest dots."
+msgstr ""
+
+#: ../source/starchart.rst:61
+# 34eec7bb2966443090ec45186059ef93
+msgid "The constellations are drawn as white lines forming the stick-figures defined by the International Astronomical Union."
+msgstr ""
+
+#: ../source/starchart.rst:63
+# b2df3697798f45dabaffb7ae5ef167ab
+msgid "The sun, moon and \"classical\" planets are drawn as their astrological symbols and plotted much larger than they actually appear."
+msgstr ""
+
+#: ../source/starchart.rst:65
+# e7faabad27614af78c1ce7dc0330fca4
+msgid "Deep sky objects are plotted as areas of gray, with different \"decorations\", depending on the type of the object."
+msgstr ""
+
+#: ../source/starchart.rst:67
+# 962eea93cf8d46ff9de87f84e3958ac0
+msgid "A diffuse nebula (such as the one in Orion) is plotted as a gray rectangle."
+msgstr ""
+
+#: ../source/starchart.rst:68
+# e0d0dbfb258348b89dae8776e0e1f2b8
+msgid "A galaxy is plotted as a gray ellipse or circle with a white border."
+msgstr ""
+
+#: ../source/starchart.rst:69
+# 2bb3c21bae1c41cc87eda30a670b6dd7
+msgid "A planetary nebula is plotted as a gray circle with a central white dot."
+msgstr ""
+
+#: ../source/starchart.rst:70
+# 27513f112425406e85331c0b8d84ad98
+msgid "An open cluster is plotted as a gray circle with no border."
+msgstr ""
+
+#: ../source/starchart.rst:71
+# c2655d7705bf4564ba0b9381b2bf33e3
+msgid "A globular cluster is plotted as a gray circle with a white border and a central dot."
+msgstr ""
+
+#: ../source/starchart.rst:73
+# a7319ea47d234da79051e51d4370b4b3
+msgid "Although the ellipse representing a galaxy is roughly the correct eccentricity, the orientation of the ellipse on the chart is arbitrary and does not reflect the galaxy's actual position angle."
+msgstr ""
+
+#: ../source/starchart.rst:75
+# bfd119f73af4477aa2f146e5d093dee7
+msgid "To identify symbols, you can correlate them to the `Astronomical Symbols on Wikipedia <http://en.wikipedia.org/wiki/Astronomical_symbols>`_"
+msgstr ""
+
+#: ../source/starchart.rst:79
+# ed69306c56a44c8c838727eff25c0fdd
+msgid "Operating Instructions"
+msgstr ""
+
+#: ../source/starchart.rst:81
+# c4492c69b6de453b9bd3fdebdd132218
+msgid "The initial display for StarChart will show the sky for your locale and the current time. (This assumes you have done the steps described above in \"Installation and set-up\".)"
+msgstr ""
+
+#: ../source/starchart.rst:86
+# dcd6ceddc3ab4ed8b7616f382bb2718c
+msgid "Menu"
+msgstr ""
+
+#: ../source/starchart.rst:90
+# febe4e22dc20462fa885ca4c9986b781
+msgid "(We will go from left to right)"
+msgstr ""
+
+#: ../source/starchart.rst:92
+# b25224b4d3ea4151966243754f2c7bbc
+msgid "|eye_ico| is for changing the appearance. For exapmle, it lets you change the color combinations of the map and decide how many stars you want to see and if you want the constellation figures. These settings get saved, too. So if you prefer black stars on white sky you can get that combination. Let's walk through each option and see what it does to the appearance of the map."
+msgstr ""
+
+#: ../source/starchart.rst:97
+# 7052282571394ffbba717b000b30cdd4
+msgid "Things you can do"
+msgstr ""
+
+#: ../source/starchart.rst:99
+# ae2dabdcea5a456aa1c91bd17e369e17
+msgid "Toggle Full-Screen"
+msgstr ""
+
+#: ../source/starchart.rst:103
+# c7587dd4fa884f87bcd61b7de5c95bd8
+msgid "Toggle Night Vision"
+msgstr ""
+
+#: ../source/starchart.rst:105
+# 643380fe90594a8099cee63ea04a3c8f
+msgid "The \"Night Vision\" option makes the activity's display mostly red on black. Red light doesn't affect your night vision so using this mode lets your eyes read the map and still remain sensitive enough to see the dim stars. Hint: it also helps to set the brightness of the back-light as low as you can and still read the chart to minimize the effect on your night vision."
+msgstr ""
+
+#: ../source/starchart.rst:109
+# 76d85db5d78b4e8e96a52721301952bf
+msgid "Invert Display"
+msgstr ""
+
+#: ../source/starchart.rst:111
+# 37ffa59fc4ba41408721363b16b64307
+msgid "But sometimes you will find it easier to work with a chart that's black on white like a page in a book. This mode is not good for use at night but it's fine in a classroom or in daylight. To get a black chart on a white background, set \"Invert Display\"."
+msgstr ""
+
+#: ../source/starchart.rst:115
+# a5a2076f79734543ac7d9ff83cc47a80
+msgid "Flip L/R"
+msgstr ""
+
+#: ../source/starchart.rst:117
+# 544d098effb84c44885d75f2ae29b635
+msgid "Normally, StarChart shows its map with east on the left. This may seem odd to you because a terrestrial map would show east on the right. But if you face east and hold the map so that east is near the ground, you'll discover that with a terrestrial map, north on the map is now to your south! With StarChart's mirrored map, north is north and south is south when east is down. That means what you see on your XO's screen will match what you see in the sky."
+msgstr ""
+
+#: ../source/starchart.rst:119
+# 1842b94111264ef69735ecbaccc2f589
+msgid "But if you find it confusing to have east on the left and west on the right, you can set \"Flip L/R\" and get the map to be like a terrestrial map."
+msgstr ""
+
+#: ../source/starchart.rst:123
+# 7c70860227fa403aa6619f4881cf3183
+msgid "Draw Constellations"
+msgstr ""
+
+#: ../source/starchart.rst:125
+# 7aac3c3c375a490b9c14235e899492a8
+msgid "Stars are grouped in imaginary figures called constellations. These represented scientific and navigational instruments, gods and goddesses, mythical and real animals and other patterns that people saw in the sky. Since drawing detailed pictures would make the chart too confusing, astronomers usually draw simple stick-figures. StarChart normally plots these standard figures. But you can turn that off and just see the stars themselves if you want -- after all, there are no lines drawn in the sky!"
+msgstr ""
+
+#: ../source/starchart.rst:129
+# ad742ff8123c4ca98fcfed5cf9d95725
+msgid "Change magnitude level (Choose between 1 to 6)"
+msgstr ""
+
+#: ../source/starchart.rst:131
+# 3b7e4fad2b4647808a44b9bc5a265b41
+msgid "Stars come in different brightnesses. Astronomers call these levels of brightness \"magnitudes\". The brightest stars are magnitude zero (well, in a couple of cases, brighter than that); the dimmest stars that you can see without a telescope or binoculars on a really dark night will be about magnitude 6."
+msgstr ""
+
+#: ../source/starchart.rst:133
+# 30c75523db5b4b0ab919e6c483899a30
+msgid "There are a lot more dim stars than bright ones. So if StarChart always plotted all the stars you could see, there would be so many (over 1,000!) that it would be hard for you to read the map. So there's a control (actually six of them) that lets you select how dim the stars the activity should bother to plot. StarChart defaults to plotting stars of magnitude 4 or brighter. This is a good compromise between having not enough stars to appreciate what the sky looks like and having so many that it's confusing. This brightness is about what you would see on an average night in suburban locations."
+msgstr ""
+
+#: ../source/starchart.rst:135
+# 365fd30a6ea54af2a71c9d118be945ca
+msgid "Here is what the plot looks like when you have asked for only the brightest of the stars. This is what the sky might look like from the middle of a large city. (magnitude level 1)"
+msgstr ""
+
+#: ../source/starchart.rst:139
+# ead4c7420d364ab88e9a50c1d7dc4f14
+msgid "And this is what the sky might look like from a mountain a long way from cities or towns on a moonless night. (magnitude level 6)"
+msgstr ""
+
+#: ../source/starchart.rst:143
+# 7d5cf870bafb499fa4f8e4e08f695db0
+msgid "(magnitude level 4)"
+msgstr ""
+
+#: ../source/starchart.rst:148
+# 80aa3653c85e43e2ab130439af01153c
+msgid "Where |pos_ico| (Specify Location)"
+msgstr ""
+
+#: ../source/starchart.rst:152
+# 87f2a63655d340acbb234a2f090f180f
+msgid "This is the menu tab that lets you tell StarChart from what place on earth you would like to see the sky plotted. Usually, this would be where you are, but sometimes you might want to see what the sky looks like to someone living elsewhere."
+msgstr ""
+
+#: ../source/starchart.rst:154
+# 00062c858bca46958f6d83ae289f124c
+msgid "A location on earth is specified by longitude and latitude. Longitudes go from zero to 180 degrees east or from zero to 180 degrees west. Latitudes go from zero to 90 degrees north or zero to 90 degrees south."
+msgstr ""
+
+#: ../source/starchart.rst:156
+# b020bb47412a48e2aabd3cc5a2ca04ce
+msgid "The StarChart activity will accept an angle as a number of degrees, including fractional degrees (like \"123.45\") or an angle as degrees, minutes and seconds. In this second type of angle, you must use a form like \"123d27m33s\". Enter longitude (be sure to select east or west) and latitude (be sure to select north or south) and click on the \"Ok\" button. If the new location is substantially distant from the old, the star map will look very different."
+msgstr ""
+
+#: ../source/starchart.rst:158
+# f9e1370e7018407386290b0f01bb6757
+msgid "The \"Make Home\" button will set the selected location as your default observatory coordinates. This setting is then remembered for all future StarChart sessions."
+msgstr ""
+
+#: ../source/starchart.rst:163
+# 4c77bff0661544fab4ed33b51dde6cd0
+msgid "When |time_ico| (Specify Time)"
+msgstr ""
+
+#: ../source/starchart.rst:165
+# c378a273406e48b495b0a99e4201ee71
+msgid "These controls let you specify the time for which you want the chart plotted."
+msgstr ""
+
+#: ../source/starchart.rst:169
+# cc4f12be3f154d6ba1d1164b87cfbd70
+msgid "Normally, \"Now\" is selected and the current year, month, day, hour and minute and the number of hours and minutes that your time-zone differs from GMT by is shown in the time and offset fields. Additionally, the time field will automatically be updated to track the current local time and the plot will automatically be recomputed once a minute. In this mode, the plot will match the current sky and will move over time the way the sky does. But you can also use these controls to specify that you want a chart for a particular time in the future or past."
+msgstr ""
+
+#: ../source/starchart.rst:171
+# 3d359b9767e641ed8dbfb5bbf4032a45
+msgid "Click the \"Specify time\" radio button, since \"Now\" isn't what you want anymore. Now specify the new time, beginning with the year. Time is entered as a four-digit year, a two-digit month and a two-digit day, separated by slash (/) characters, a comma (,) and then the hour and minute in 24-hour time separated by a colon (:). Example: 2008/02/20,22:00 would be 10 PM on the 20th of February, 2008. Next, if your location observes daylight time, you may need to add or subtract an hour from the time-zone offset value if the time you entered is on the \"other side of the daylight time boundary\". Finally, click \"Ok\" to get the new plot."
+msgstr ""
+
+#: ../source/starchart.rst:173
+# fc6d1d8c398d47418ffa7af5097dd6b2
+msgid "When you click on the \"Specify time\" radio button, StarChart stops the display from automatically being updated. Clicking on the \"Now\" radio button will set the time back to the current time and resume automatically updating the time fields and the chart."
+msgstr ""
+
+#: ../source/starchart.rst:178
+# c4a4097da6654ea1a927b6ce2f20c14f
+msgid "Locate |type_ico|"
+msgstr ""
+
+#: ../source/starchart.rst:180
+# 5854730fbbb74553acfe112ed5dead51
+msgid "These controls let you select an object and have it highlighted on the chart so you can tell where the object is in the sky. You can \"locate\" planets, stars (either by the constellation which contains the star or from a list of the brightest stars) or \"deep-sky\" objects."
+msgstr ""
+
+#: ../source/starchart.rst:182
+# 276394b0052a41bb80e5e89e551821db
+msgid "Planets"
+msgstr ""
+
+#: ../source/starchart.rst:183
+# c1eeea99be564d739bb86b937529cee9
+msgid "Stars by Constellation"
+msgstr ""
+
+#: ../source/starchart.rst:184
+# e795bcf8e9e24b6e844e8c5eec43e69c
+msgid "Brightest Stars"
+msgstr ""
+
+#: ../source/starchart.rst:185
+# 26af9886c8a14e6397fbac9b71dd8392
+msgid "Deep-sky Objects"
+msgstr ""
+
+#: ../source/starchart.rst:190
+# 52cce85840744d56912f1c6c115e0169
+msgid "You begin by selecting the type of object. Then you pick the object itself..."
+msgstr ""
+
+#: ../source/starchart.rst:192
+# 331a1b51c68a45ac8dddbb087daea00d
+msgid "Select from the list and sub-lists to locate whatever object you wish to."
+msgstr ""
+
+#: ../source/starchart.rst:194
+# ce3152aaa6334e17a5efb24767f18c46
+msgid "Examples:"
+msgstr ""
+
+#: ../source/starchart.rst:206
+# 7c986367477b4db3a5e84f4067ecdbb8
+msgid "Reporting Bugs"
+msgstr ""
+
+#: ../source/starchart.rst:207
+# 14c7c536438045479076d921e43ef879
+msgid "To report a bug or to see what bugs have been reported and/or fixed, please go to the `bug tracking page <http://wiki.laptop.org/go/StarChart/Bug_tracking>`_."
+msgstr ""
+
+#: ../source/starchart.rst:210
+# 96bc5af274e341a59b2a632e44d5f6bc
+msgid "References"
+msgstr ""
+
+#: ../source/starchart.rst:211
+# 8f2c1f6246f54dac90dbf303d86284f8
+msgid "`Wiki page <http://wiki.laptop.org/go/StarChart>`_"
+msgstr ""
+

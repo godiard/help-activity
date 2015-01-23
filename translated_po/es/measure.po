@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 7cf91e410e2640999c2f232b64943513
+# e395d78e9c984cf6b1eebd809036874b
 #: ../source/measure.rst:3
 msgid "Measure"
 msgstr ""
 
-# a78f4123779344ba940d5bc75e06ce95
+# ac2c2c4aa8c3432db3cc9a53d8867ece
 #: ../source/measure.rst:6
 msgid "About"
 msgstr ""
 
-# e85a4222ca7f495cad1989fe53d1274a
+# ed8bfc9f2e1c4990806ec85ecccff6b1
 #: ../source/measure.rst:8
 msgid ""
 "This Activity draws a picture of the sound heard by the internal microphone "
@@ -37,14 +37,14 @@ msgid ""
 "machine called an oscilloscope."
 msgstr ""
 
-# b0450a81cd22434cac8e73f31726377a
+# b5c9a65c5ad64e9dbcf96a6d48467c2d
 #: ../source/measure.rst:10
 msgid ""
 "As well as graphing signal as a function of time, Measure can also graph as "
 "a function of frequency."
 msgstr ""
 
-# 51ab8573670f475db1f124d9b755df7c
+# d06f6a05c7fc4708bcaa22e3570cdfb4
 #: ../source/measure.rst:12
 msgid ""
 "The XO-1 laptop is only capable of mono input, the XO-1.5 and XO-1.75 are "
@@ -52,106 +52,106 @@ msgid ""
 "at once."
 msgstr ""
 
-# 5108ee6e49da43e9ab2f61d050e51772
+# 524d5c7f6a4643098deda53c35821e2d
 #: ../source/measure.rst:17
 msgid "Using"
 msgstr ""
 
-# ba6f0e7bcc4340ec8f3026e0b6c93069
+# 5ca356d74a694788959473e23dcc9b4d
 #: ../source/measure.rst:21
 msgid ""
 "Select secondary toolbar - allows the Activity's Journal entry to be renamed"
 msgstr ""
 
-# 63bfff9088c34afca9072f25e4d86202
+# 048d12b021724346b85b25ee2223b583
 #: ../source/measure.rst:22
 msgid "Select secondary toolbar - measurement settings"
 msgstr ""
 
-# e7eedb2311b14cbeb32d7c9495da974b
+# 7a5cdc9770174efca0708f0d0b69d563
 #: ../source/measure.rst:23
 msgid "The selected input type - Sound (AC voltage), resistance or DC voltage"
 msgstr ""
 
-# e6fd976b023c4c6ab332b74b8a7f0c80
+# 1edc4abc0b114c94907e4f963f7ad228
 #: ../source/measure.rst:24
 msgid "The time scale"
 msgstr ""
 
-# 901a5267461240098088552ca37f5388
+# f199d95c1284454cb0a23d37c80ebb76
 #: ../source/measure.rst:25
 msgid "Freeze the display"
 msgstr ""
 
-# bb888ad7b6de4b299d0aafa9d9b69582
+# d25f6072790c4431b696cf00eebb69bc
 #: ../source/measure.rst:26
 msgid "Capture sample now - saves an image of the wave in the Journal"
 msgstr ""
 
-# 802f0a43e592490397fda7a4e0b3e83a
+# a6eaa0478e564d1489c876238d5aaeb5
 #: ../source/measure.rst:27
 msgid "Stop - exits the Activity"
 msgstr ""
 
-# ce01712393cc4b35b4503ea5956c8160
+# 5c25bae71b05471eae7a2b0ec6d22783
 #: ../source/measure.rst:28
 msgid "Invert - invert the display"
 msgstr ""
 
-# 358fa8511169428ba638d97b66fb4e9a
+# e7026f4ca2ef4d92bc335caa20b8125f
 #: ../source/measure.rst:29
 msgid "Use these sliders to control the sensitivity"
 msgstr ""
 
-# d9906a6792844fb6ad7b2f1c17e8f061
+# 4b207eea686f4668bbbab7120210afab
 #: ../source/measure.rst:30
 msgid "The settings that are selected"
 msgstr ""
 
-# b8a9240643104eeea5425ec3c8714fbb
+# c22c41270c7d4de28908d8e516797f5a
 #: ../source/measure.rst:34
 msgid "The secondary toolbar - measurement settings"
 msgstr ""
 
-# 7d50543cd2344a269498c138fb87dd50
+# 342bd40ad44548be9bc7aba374564938
 #: ../source/measure.rst:36
 msgid ""
 "Sound - use this setting with the internal microphone, external microphone "
 "and external AC signals"
 msgstr ""
 
-# 7bae0a3a7d0f440cbfb1a66e1766ff5c
+# 67266ee273e54d098687dd5fb095212b
 #: ../source/measure.rst:38
 msgid "Resistance sensor - use with external resistive type transducers"
 msgstr ""
 
-# 6dc3025b80d34f70a48c1aa82f130279
+# c8ea44842058479baa9591d63afce941
 #: ../source/measure.rst:40
 msgid "Voltage sensor - use with external sensors which generate a voltage"
 msgstr ""
 
-# 0eccf318ecdd4986a508a6741a6faae2
+# fd7ebcd59335483986f05361285fcb1a
 #: ../source/measure.rst:42
 msgid ""
 "Time base/frequency - graphs the signal vs. time or graphs amplitude vs. "
 "frequency"
 msgstr ""
 
-# eb9f25f3df854edba1e4d6eb958e1613
+# 0ee39f65034947c58a2cbfda819a0130
 #: ../source/measure.rst:44
 msgid ""
 "Sample interval - a text file 'Measure Log' is saved to the journal, it "
 "contains one sample per interval"
 msgstr ""
 
-# 1ee405aa2e284a31a08a832c5e6bf4e3
+# e10b0d35f08d43c5a428fc6c1938c161
 #: ../source/measure.rst:46
 msgid ""
 "Starts/stops saving a text file 'Measure Log' with measured values as "
 "readable text"
 msgstr ""
 
-# 16536e4a48b641c0b095f552bfc9f064
+# 87a228ca574d4266bd6045ffce54ac6d
 #: ../source/measure.rst:48
 msgid ""
 "This feature is not working well in version 36, the intention is to "
@@ -159,12 +159,12 @@ msgid ""
 "on a rising edge or falling edge"
 msgstr ""
 
-# 111901d8b7f44ccc85465e0e5607b540
+# 3e087492cd0148b881770de3d1bf4e89
 #: ../source/measure.rst:51
 msgid "Applying"
 msgstr ""
 
-# 2148f561150343e9b6fa4e30a42f4c8d
+# 2bbb728d304e4d9fb9300a04b2b47c45
 #: ../source/measure.rst:53
 msgid ""
 "Let the children experiment with the internal microphone, try singing, "
@@ -172,54 +172,54 @@ msgid ""
 "Blocks Activity can generate an audio tone, see the Python Block."
 msgstr ""
 
-# 0847a91ec07943ddb3268e1a8c2b1d35
+# 8bc60c773d9b40a18ce19d6ae5a1a180
 #: ../source/measure.rst:55
 msgid "The children should learn through guided discovery that:"
 msgstr ""
 
-# 1b0a867cf2bb4e509aa70384fbf6bdd4
+# cb2dfb2c16fb443c8bf8d15eb54b09fd
 #: ../source/measure.rst:57
 msgid "sound is a pressure wave"
 msgstr ""
 
-# f7cf91007ef94ded8a81d81f1da053e1
+# fc8a211bd5284f33b5e97de5429be76b
 #: ../source/measure.rst:58
 msgid ""
 "the pitch of the sound is determined by the frequency or cycles per second "
 "(Hz)"
 msgstr ""
 
-# 2db91e78f3a04c93bc41610f61fd3c87
+# e44d153d60934e0dbf6b32310b48bb6f
 #: ../source/measure.rst:59
 msgid "the loudness of a sound is determined by the amplitude"
 msgstr ""
 
-# 8acd00e199734571b8cea3f43158881b
+# f87bf1c311da4aef8437a2c870e3bfc6
 #: ../source/measure.rst:60
 msgid "sounds contain multiple frequency components or harmonics"
 msgstr ""
 
-# ae2e384eb8b240c99f14c1eec83b6006
+# f76bf317920447c9baa2db7178bc2f79
 #: ../source/measure.rst:61
 msgid "the more pure sounds have less harmonics"
 msgstr ""
 
-# 68e727747a894b75b0171cdb4adb2cf1
+# 4c64a0cf36dc4e7e93797e7fd0dcbf66
 #: ../source/measure.rst:64
 msgid "Sharing"
 msgstr ""
 
-# db9c12cf2a58438dbf03230a12f8a0e3
+# e69ff11e0a1e4df9a644dbbec536053c
 #: ../source/measure.rst:66
 msgid "This Activity does not support sharing."
 msgstr ""
 
-# c04c4c8fe89c4172b23556923d342c91
+# f5b9231756114c608886d697ac154f99
 #: ../source/measure.rst:69
 msgid "Extending"
 msgstr ""
 
-# ffead53aeac14984bed5981de0ab770f
+# 08d2e1fd53704acb9a96fa0ac8d4356c
 #: ../source/measure.rst:71
 msgid ""
 "Measure is able to take input from a wide range of external sensors "
@@ -227,34 +227,34 @@ msgid ""
 "effect sensors, soil probes and many more."
 msgstr ""
 
-# 4a7b0978158a48918ff498d20acb8cbb
+# 8f75d23218b044a199b5d166a1625575
 #: ../source/measure.rst:73
 msgid "Care should be taken not to exceed the allowable input voltage:"
 msgstr ""
 
-# 4adbcdb4896248ce957849f087a68369
+# e80eed6640574e5daed1b3cbae4867c9
 #: ../source/measure.rst:75
 msgid "XO-1 -0.5 V to 5 V"
 msgstr ""
 
-# 3bb1c4491554487f9f182dfe653e1dd1
+# 802fb706e44a4a7f93e7a8418e2eab23
 #: ../source/measure.rst:77
 msgid "XO-1.5 -6 V to +9 V"
 msgstr ""
 
-# 8e632efeaccc4b8b838b2c5986fed987
+# 424f8615c87a48d59d9e441dea4594de
 #: ../source/measure.rst:79
 msgid "XO-1.75 -6 V to +9 V"
 msgstr ""
 
-# 22e41d7730ec4a5e89e3d3b6c04effa2
+# a624eb4c01e44e05867a3b851a1ea23f
 #: ../source/measure.rst:81
 msgid ""
 "It is a good idea, particularly on the XO-1, to put a resistor of 680 ohms "
 "in the phono plug, this increases the allowable input voltage range."
 msgstr ""
 
-# bd414dc286d1430c9b7bc8414f8e2f49
+# d45b38606f2c451e98a5f4a317b22ac0
 #: ../source/measure.rst:83
 msgid ""
 "You can find ideas for fun science experiments at http://wiki.sugarlabs.org/"

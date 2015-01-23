@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 09ffb8943eab42579514d1b1cd4ca3d4
+# 403076fe13c74afbbaaa14665fd206d1
 #: ../source/schoolserver.rst:3
 msgid "XS school server"
 msgstr ""
 
-# 3ed4074375654605934b37d995a8fe34
+# 20ba4e84bb73423397f531cc78a3ee6c
 #: ../source/schoolserver.rst:6
 msgid "Overview"
 msgstr ""
 
-# d10383c8a8104a7d9c8bdda711c767c1
+# 49d35a9c07b5475d822478e9df5e9cd1
 #: ../source/schoolserver.rst:8
 msgid ""
 "The XO school Server, or XS, is one of the products of the OLPC project, "
@@ -36,7 +36,7 @@ msgid ""
 "mounted computers, purpose-built low-power machines, or even netbooks."
 msgstr ""
 
-# 91d942c88ded4203877d28a0592b96dd
+# 2130ee5a5175469d9adf0ed6738d846c
 #: ../source/schoolserver.rst:10
 msgid ""
 "The OLPC XS provides additional infrastructure extending the capabilities of "
@@ -47,17 +47,17 @@ msgid ""
 "system, content updates, and asynchronous collaboration tools such as Moodle."
 msgstr ""
 
-# 765ae44e455840b7bdd0f066da2a57ee
+# 6aa23331b22748edbca93bd551b9003e
 #: ../source/schoolserver.rst:13
 msgid "Installation"
 msgstr ""
 
-# 4e70aecfca8845a2a68f79c33dc2183b
+# f34dc382995444779ff0c8c3f08ebe95
 #: ../source/schoolserver.rst:15
 msgid "Two installation options are available:"
 msgstr ""
 
-# 722b2d6ed4f24dcdad34359e4f292d9c
+# 516d17a44ccd46319850d4dc8707ffde
 #: ../source/schoolserver.rst:17
 msgid ""
 "XS installation CD (recommended): download and burn a CD image, and use the "
@@ -65,7 +65,7 @@ msgid ""
 "XS_Installing_Software_0.7#Installing_from_CD"
 msgstr ""
 
-# 319aba0250fd4a5dab2174054c123605
+# ad05af1967954c77b883c193bf00c7c3
 #: ../source/schoolserver.rst:19
 msgid ""
 "On top of another system (advanced): install the XS software packages on top "
@@ -74,19 +74,19 @@ msgid ""
 "XS_Installing_Software_0.7#Installing_on_top_of_existing_OS_installation"
 msgstr ""
 
-# 3f09ab9d9b9a4fae9dcca2579f954617
+# 1b302bebcaf04f35a8546368fac3b850
 #: ../source/schoolserver.rst:21
 msgid ""
 "The installation is fairly straight forward and requires minimal "
 "configuration after the initial installation to the XS hard drive."
 msgstr ""
 
-# 44a9fbaca4fc4f8c957cc2650e29088b
+# 27d499a3e1554cd5b737f7402f89a99d
 #: ../source/schoolserver.rst:24
 msgid "Configuration"
 msgstr ""
 
-# aeb8b45ec0e54bcc9485a4de0198fffd
+# 1016b666b8ac4cc0afc51564530a0cb8
 #: ../source/schoolserver.rst:26
 msgid ""
 "Configuring the XS involves choosing a server domain name. The hostname is "
@@ -94,7 +94,7 @@ msgid ""
 "you schoolserver.example.org."
 msgstr ""
 
-# c03552a485a7412694eb1157457a0a0a
+# efcf4613f2334c06bd53e689d4cdffc7
 #: ../source/schoolserver.rst:28
 msgid ""
 "The XS has a fairly standard server-style networking setup. The XS provides "
@@ -108,17 +108,17 @@ msgid ""
 "provide WAN connectivity using a USB-to-Ethernet adapter."
 msgstr ""
 
-# 4db7604c805042059b8575581a8f1898
+# aeff056cb52340cda309873cb4ac3e22
 #: ../source/schoolserver.rst:31
 msgid "Services"
 msgstr ""
 
-# 14ad5f92fc3d4f2190da8811125f8c18
+# 7c74b07dcd51402392f2a0a1e0a8d842
 #: ../source/schoolserver.rst:34
 msgid "Collaboration"
 msgstr ""
 
-# 4633991606ca42e2abd0fef6128115df
+# 4c1a0dc65c0141d49ccb62e3dffcc605
 #: ../source/schoolserver.rst:36
 msgid ""
 "The XS provides collaboration services across a variety of activities. When "
@@ -128,12 +128,12 @@ msgid ""
 "considerably with a XS in the mix."
 msgstr ""
 
-# b6e8a326a41f41b695a3de76f81ce2c3
+# fb93cf50638c4558b618ba8468d49a2f
 #: ../source/schoolserver.rst:39
 msgid "Caching"
 msgstr ""
 
-# 2c2c978663894f979ce61581ffb2c5be
+# 202f5f586a3546a9b8394ca5c7bd168f
 #: ../source/schoolserver.rst:41
 msgid ""
 "The XS uses Squid to cache content locally. At sites where Internet access "
@@ -141,12 +141,12 @@ msgid ""
 "to content by making copies on the XS and serving these up locally."
 msgstr ""
 
-# d23b4c99dd3e44ceb24cdeb08b9e126e
+# 4e3bdcc5fc15491ea937bb6d5a81d01d
 #: ../source/schoolserver.rst:44
 msgid "Backup and Restore"
 msgstr ""
 
-# d64a66a9db0045dc8ab44e56e86b00a9
+# a3ca4892df9f4fa9b4d4264d9da02b48
 #: ../source/schoolserver.rst:46
 msgid ""
 "The XS provides seamless backup services for each registered XO. The XS "
@@ -155,12 +155,12 @@ msgid ""
 "child's work back on her XO."
 msgstr ""
 
-# 18e1b9ff589945e1a5e2c14d92519c9d
+# e92d901a93ef4b1884cd4c642bc9f2c0
 #: ../source/schoolserver.rst:49
 msgid "Antitheft Controls"
 msgstr ""
 
-# a6b4b37f872648b08666d17dccaa5892
+# 4ae94bfd6b7a4b94a55567d0814d81b9
 #: ../source/schoolserver.rst:51
 msgid ""
 "Antitheft controls lists all registered XOs in one location. additionally, "
@@ -169,12 +169,12 @@ msgid ""
 "down."
 msgstr ""
 
-# da2842441a324bf89e47d6513574570d
+# 245a4f03911b42d79b8f66fbbbc1016c
 #: ../source/schoolserver.rst:54
 msgid "Learning Management System"
 msgstr ""
 
-# ea9b4426e2cc44bd84e42d7f5a7e8515
+# 1f7b6f0271774a2b9e90f5e683ab6cf4
 #: ../source/schoolserver.rst:56
 msgid ""
 "Moodle is a Learning Management System that provides the teacher with a way "

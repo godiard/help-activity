@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 52a4dcae0f83406199217b5824da4346
+# e5eae3700ceb4323a317d985b6210207
 #: ../source/gnome.rst:3
 msgid "GNOME"
 msgstr ""
 
-# 640285df2bd14b0c9508bd4aaff4b6d9
+# 41cb4a512d7543b1825dd2818822c879
 #: ../source/gnome.rst:5
 msgid ""
 "In late 2009 OLPC added a more conventional desktop environment called GNOME "
@@ -30,14 +30,14 @@ msgid ""
 "users."
 msgstr ""
 
-# ed0b5c1aaae049638af9fc5b777376ee
+# 2991a0db51864182826573c14ef4b580
 #: ../source/gnome.rst:10
 msgid ""
 "Users can switch from Sugar to GNOME through the Switch Desktop option under "
 "My Settings."
 msgstr ""
 
-# 314c56c5ba2844c5851ee40846d4551f
+# 35023b901f8b4ddfadd9dcb6c9e73fee
 #: ../source/gnome.rst:14
 msgid ""
 "After selecting the Switch Desktop option another confirmation dialogue with "
@@ -45,7 +45,7 @@ msgid ""
 "clicking the Restart now button."
 msgstr ""
 
-# d2d10738be47457883330c68dee5bb87
+# d6a989a8f7274321914babf6ba031614
 #: ../source/gnome.rst:18
 msgid ""
 "Switching back to Sugar from GNOME can be done via the Switch to Sugar icon "
@@ -53,7 +53,7 @@ msgid ""
 "the corresponding message box."
 msgstr ""
 
-# 37f0f6f33c9d43afb8308d878dcc3975
+# 28f9e8dabbb7468d9308d363cdfb8f7b
 #: ../source/gnome.rst:22
 msgid ""
 "Further information about GNOME is available on the `GNOME Web site <http://"

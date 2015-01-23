@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# aea1eee0aa7241a58f36b4b125e0bb61
+# f0b976bffb7042088c3de84952f3a05d
 #: ../source/pippy.rst:3
 msgid "Pippy"
 msgstr ""
 
-# 72ba88feb4e94af0a7b50d29e23cc3ba
+# c8d491e2104e45088216a227b6a08fa2
 #: ../source/pippy.rst:6
 msgid "About"
 msgstr ""
 
-# 9b5503645bea4218835c791024b73f79
+# 7090aef1cc30449ab51408bc7db1db54
 #: ../source/pippy.rst:8
 msgid ""
 "Pippy allows the student to examine, execute, and modify simple Python "
@@ -35,12 +35,12 @@ msgid ""
 "sounds, calculate expressions, or make simple text based interactive games."
 msgstr ""
 
-# 3bbc8eaea5c545f1a57486f8bb84f119
+# e9959e0d8706408299235dbd7d00e6de
 #: ../source/pippy.rst:11
 msgid "Where to get Pippy"
 msgstr ""
 
-# 32f7a0e8ea7d4c0dbe26af128c582458
+# b0e32d7c34fd46528f091a6f66180714
 #: ../source/pippy.rst:13
 msgid ""
 "Pippy is included in the standard releases of the OLPC software. It is "
@@ -48,12 +48,12 @@ msgid ""
 "addon/4041>`_"
 msgstr ""
 
-# a2b8a4e8f2204914adf4a5fa3be646bc
+# e72ecf6149904d9bbced4560b1a802f5
 #: ../source/pippy.rst:16
 msgid "Using"
 msgstr ""
 
-# c4846862030945629504274cc216a8d9
+# 4c4d0a4bc6fa45ea8845de340c1cb7b8
 #: ../source/pippy.rst:18
 msgid ""
 "The left column is a list of python programs, which can be viewed, and "
@@ -61,12 +61,12 @@ msgid ""
 "displayed in the lower right window."
 msgstr ""
 
-# c3186cb0325548fa801d6e912c66ad8c
+# bc37ed69ea6040859b80fdbb0054e579
 #: ../source/pippy.rst:23
 msgid "Learning with Pippy"
 msgstr ""
 
-# 2cab2088a52b478cb105e08dd560ead8
+# 64b421cf649e4a6c93a6345873ddf473
 #: ../source/pippy.rst:25
 msgid ""
 "Etoys and Turtle art provide easy introduction to programming. Pippy "
@@ -75,29 +75,29 @@ msgid ""
 "\" command."
 msgstr ""
 
-# 095ec45786a3472a968454ed353afc11
+# a8db27fd17d544fd83d378ec4a502455
 #: ../source/pippy.rst:27
 msgid "In particular, it is instructive to play with the sounds:"
 msgstr ""
 
-# 348a3966d7ab49daa65eaf87346b93d8
+# 7319013ecfe747e68704fe88b57fbafb
 #: ../source/pippy.rst:29
 msgid "Get the list of sounds by executing the Getsoundlist program"
 msgstr ""
 
-# 828f2526c38849268aa5b256b5a7b2ae
+# c48152eacf35417b8bf418bc8e0620c4
 #: ../source/pippy.rst:30
 msgid ""
 "Copy the name of one of the sounds and replace the \"digeridu\" sound name "
 "in Playwave program."
 msgstr ""
 
-# c76b7be84d3a4bfb9baa160584c842c8
+# aa64fe7ad97543848da72b90d3980dcf
 #: ../source/pippy.rst:33
 msgid "Extending Pippy"
 msgstr ""
 
-# 0ad66e533b4b4b8fb43b920d2973634e
+# 627f65f1329e4145b37a370d55aa24a1
 #: ../source/pippy.rst:35
 msgid ""
 "If Pippy is used in parallel with the Write Activity, it is possible to "
@@ -110,12 +110,12 @@ msgid ""
 "paste it back into the Word Activity, and save the changes to the Journal."
 msgstr ""
 
-# dbaa227e79b245758542ccc28a5c1994
+# 8f5cc848c6964a578b0a8ac88274eb8a
 #: ../source/pippy.rst:38
 msgid "Modifying Pippy"
 msgstr ""
 
-# 51d3f5126fc64ed79664ddbc75f2a04c
+# bdf038f9847743d19fdbe583af3c4b71
 #: ../source/pippy.rst:40
 msgid ""
 "The student can add small programs, and have them show up in the left column "
@@ -124,12 +124,12 @@ msgid ""
 "laptop.org/go/Pippy#Examples."
 msgstr ""
 
-# c5f9de6c281c4a40b958c9f656e7cf5d
+# 9d9ff05047b74f9b99ad9cc882585f27
 #: ../source/pippy.rst:43
 msgid "Where to report problems"
 msgstr ""
 
-# 3e11a40327e343daaf0bd691295a3c15
+# d783471fb02049aebdcf98cf01ba767f
 #: ../source/pippy.rst:45
 msgid ""
 "There's a range of ways to report problems. The easiest is to email to the "
@@ -138,7 +138,7 @@ msgid ""
 "sugarlabs.org/."
 msgstr ""
 
-# aeee555e903c4f3db1c537b039ff9b92
+# 9e041419ca78416fbdcca4f5f4153b24
 #: ../source/pippy.rst:47
 msgid ""
 "Or you can register at http://bugs.sugarlabs.org/ and enter a bug report "

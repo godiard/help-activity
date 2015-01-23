@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# bcd8f748263843abb4ec6face6188d9f
+# d3293d1b6db541c5bac5f8140c86d084
 #: ../source/getting_support.rst:3
 msgid "Getting Support"
 msgstr ""
 
-# 678e7bc214e24c04af053914c16e8015
+# 38c9c4e7f8fe4e8d8c5355330a084227
 #: ../source/getting_support.rst:5
 msgid ""
 "One Laptop per Child is an education project, not a laptop project. With "
@@ -33,7 +33,7 @@ msgid ""
 "things by trying to solve problems on your own!"
 msgstr ""
 
-# 3f24d86519f54f36bea7ef35c5d23ebe
+# 304b091d19bf456b872a23dcbcc3c280
 #: ../source/getting_support.rst:7
 msgid ""
 "That said, an entire community built this XO and everything on it, and we "
@@ -44,7 +44,7 @@ msgid ""
 "than any corporate help desk!"
 msgstr ""
 
-# cca32c321ad74b61be0a573cdc790d87
+# d600fefbc4c44710a64e72df98c099d3
 #: ../source/getting_support.rst:9
 msgid ""
 "If you have questions about the XO, ask a teacher for help, a friend, or "
@@ -53,12 +53,12 @@ msgid ""
 "RTFM knowledge base:"
 msgstr ""
 
-# ff12ec7a374f4d87aacae54487685138
+# 44697a87ea12449588635169a9a0605e
 #: ../source/getting_support.rst:11
 msgid "http://wiki.laptop.org/go/Support_FAQ"
 msgstr ""
 
-# 18ee06de84e54fb8829cd03a3e4d0a2d
+# 5db5b98281fd423bbcb66fd38a3bc612
 #: ../source/getting_support.rst:13
 msgid ""
 "Next try looking at http://support.laptop.org extensive helpful guidance for "
@@ -66,34 +66,34 @@ msgid ""
 "alongside others. Specifically, check out:"
 msgstr ""
 
-# 456dee081cd540cb8b680ebfb4a0a7a4
+# 925380237eca418baabff83ca3769d28
 #: ../source/getting_support.rst:15
 msgid "Getting Started: http://laptop.org/start"
 msgstr ""
 
-# 50eb89246e2e415488dc7462feaa2032
+# df00acc5d65d4025b801bc5741134823
 #: ../source/getting_support.rst:17
 msgid "Email Lists: http://lists.laptop.org"
 msgstr ""
 
-# 1ec7940820a24d95af1e5b8d8124d534
+# 4f8426bdb59147d8b87f38a9608df09b
 #: ../source/getting_support.rst:19
 msgid "Live Chat: http://forum.laptop.org/chat"
 msgstr ""
 
-# 480f523c43164ff4979476028c07b0ec
+# 75da90f86e3a483a892ceca733d210a1
 #: ../source/getting_support.rst:21
 msgid "OLPC Community: Wiki http://wiki.laptop.org"
 msgstr ""
 
-# 79af046160d741f0bb7055a78a8d40b5
+# e05e1056f1b44f9cb3d55e7e0d6ffe74
 #: ../source/getting_support.rst:23
 msgid ""
 "If you are still unable to find an answer online, please email help@laptop."
 "org."
 msgstr ""
 
-# 1586c42fb96a4e78986b8e106fa409e9
+# 2f64fc8ab91344288548309831e36dad
 #: ../source/getting_support.rst:25
 msgid ""
 "Did you know that our volunteers staff a live Help Chat site 24/7, on the "
@@ -105,7 +105,7 @@ msgid ""
 "laptop.org/go/IRC"
 msgstr ""
 
-# e42668fe2284402594f146b528a5d558
+# 020091054d35442d9409a275a409a4f9
 #: ../source/getting_support.rst:27
 msgid ""
 "We would also like to make special mention of our Support Gang, where an "
@@ -118,7 +118,7 @@ msgid ""
 "doing.\""
 msgstr ""
 
-# 9deed0104da544a9bc755bbfe6a35603
+# 558ab531a7b543be943495c52bfdc759
 #: ../source/getting_support.rst:29
 msgid "Thanks very much! OLPC Support Gang"
 msgstr ""

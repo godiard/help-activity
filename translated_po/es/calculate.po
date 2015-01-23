@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: 2015-01-23 13:48\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,144 +17,416 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# ac3509270e034ba08afa858cdf4b36ce
+# 90515274e3204c9da0bd61ab2bbe85ee
 #: ../source/calculate.rst:3
 msgid "Calculate"
 msgstr ""
 
-# 2efb020ad2274b66820d70fed6740cc2
+# 52b5b552ef374d81a248603f3a78289d
 #: ../source/calculate.rst:6
 msgid "About"
 msgstr ""
 
-# 836745ac2d644042bd730273ae005802
+# 9eda3c2b0a8f452baea522b94f321936
 #: ../source/calculate.rst:11
 msgid "Using Calculate"
 msgstr ""
 
-# 8140f1aa271440179e1a30d0fcdfb8a7
+# 128f13ba0e8c4a448c8e3657715ae9e8
 #: ../source/calculate.rst:13
 msgid ""
 "For those who have used a scientific calculator, most of the functions of "
 "Calculate will be quite familiar."
 msgstr ""
 
-# 461f66d15d464a1eb3752ba11295a1b0
+# 3cb226d732ff4155a2408263731a2950
 #: ../source/calculate.rst:15
 msgid "The Toolbars are"
 msgstr ""
 
-# 5348631292924e1497f33afc7ccb634f
+# ff70b6dcddd04756bcc8f2cb0ecd075b
 #: ../source/calculate.rst:17
 msgid ""
 "Activity, Calculate icon: Name session, Journal entry description, "
 "collaborate"
 msgstr ""
 
-# 74ed0a0037f54d25835f623e8cfd2d31
+# 51fe7806f5674e579b1fb35a0603f803
 #: ../source/calculate.rst:19
 msgid "Edit, scissors icon: Copy, Paste"
 msgstr ""
 
-# 720ebb99df19425abf96773960cf8602
+# 4c1733e203ab4b278909eb157c12755b
 #: ../source/calculate.rst:21
 msgid ""
 "Functions, {x}: Square, square root, reciprocal, exponential, power, "
 "logarithm, factorial"
 msgstr ""
 
-# 22a1ab4297ef4c51948cc5d998d04b90
+# 6a1dc0a65e424b73bfcb5669fb83a076
 #: ../source/calculate.rst:23
 msgid ""
 "Trigonometry, triangle icon: sin, cos, tan, sin-1, cos-1, tan-1, sinh, cosh, "
 "tanh"
 msgstr ""
 
-# 6c1b86a41bab48849036840502b91c40
+# 4a17b95ee24b4a09b697ef5be6f4e8c8
 #: ../source/calculate.rst:25
 msgid "Boolean, Venn diagram icon: and, or, =, !="
 msgstr ""
 
-# 077f4c2cac7742acb5abe89da6c3091f
+# 0f6297086af64f8eb6a82f2a7ffc9e41
 #: ../source/calculate.rst:27
 msgid "Constants, Greek letters icon: pi, e, gamma, phi"
 msgstr ""
 
-# 1ebd447f16834144b07a7762830b1260
+# 0180910faf854127b7f16c4b579c9cd6
 #: ../source/calculate.rst:29
 msgid "Plot: Hover menu offers Help"
 msgstr ""
 
-# e8175dd7631943dd92147401bc4eeb91
+# c1f6ef3508134a1e9f7df5d655d002ab
 #: ../source/calculate.rst:31
 msgid "Degrees/Radian angle measure"
 msgstr ""
 
-# 1b93b6bc030842218304604e045e75df
+# 4d51a4b36cb341c9bd82effe604cb626
 #: ../source/calculate.rst:33
 msgid "Scientific/Engineering notation"
 msgstr ""
 
-# 82a902c3afdf46e2bd29529176282163
+# 47605300a08b4e3d85754d858d5053c1
 #: ../source/calculate.rst:35
 msgid "Number of digits to show: 6, 9, 12, 15"
 msgstr ""
 
-# 283ff5d5200c49878660dcb9164ae0e4
+# ca8ac2fafd0f41db8664d784aee3d8ff
 #: ../source/calculate.rst:37
 msgid "Base: Decimal, binary, octal, hex"
 msgstr ""
 
-# 9106837c818a449ba29b1e615a91ec9c
+# 6c1c6c667e9e4b619f349161e0fd82df
 #: ../source/calculate.rst:39
 msgid "Exit"
 msgstr ""
 
-# 2dc035434c614aa1800fda882c46be0e
+# 8ecc959bfa294963a979637ef8764ce7
 #: ../source/calculate.rst:42
 msgid "Getting help"
 msgstr ""
 
-# 0f8b423812724d70b2a4acf72a266e60
+# ad5a7f46774640d09ace8b628bac88ea
 #: ../source/calculate.rst:44
 msgid "To see a help option for plot, enter the command"
 msgstr ""
 
-# e05f98698d35487080088287e33690c7
+# f3efc3a537124847819b5d057559a490
 #: ../source/calculate.rst:46
 msgid "``help(plot)``"
 msgstr ""
 
-# 1d528cb3c46f469cb4fb571b8c074140
+# 82c9f14fca9f476a961b44d60a993322
 #: ../source/calculate.rst:48
 msgid "on the text entry line."
 msgstr ""
 
-# 590437492596491297875f08f5c5a931
+# aa70b862cd7b486095d4264cc07649cb
 #: ../source/calculate.rst:50
 msgid "The general help function is"
 msgstr ""
 
-# faa5f7a846314fc4a2bbe6cb2132cf11
+# 8f57ef5115be4b368e4594a0b401a996
 #: ../source/calculate.rst:52
 msgid "``help()``"
 msgstr ""
 
-# b3ecb4a9ef154f46abe13526c7748b29
+# 19a82a1d76764858b62f05d9c857dafa
 #: ../source/calculate.rst:54
 msgid "The list of help topics is available with the command"
 msgstr ""
 
-# 18ba357f7d834daaa93c5eb94b52687a
+# e3940c0c1c904b16b6ba6c52d283ae12
 #: ../source/calculate.rst:56
 msgid "``help(index)``"
 msgstr ""
 
-# b125a09209f8410da21ed97a5f42d3b6
+# 59f2a3e0568f4f2590832c82ce2805a0
 #: ../source/calculate.rst:58
 msgid ""
 "including topics not supported on the menus. Help is not provided for the "
 "constants pi, e, gamma (Euler-Mascheroni Constant) and phi (Golden Ratio), "
 "but these can be looked up on the Internet. Clicking their icons inserts "
 "their numeric values."
+msgstr ""
+
+# ef7fbe88061a4238aa6ae01e85306629
+#: ../source/calculate.rst:61
+msgid "Functions in Calculate"
+msgstr ""
+
+# 0ccd3aa842e3447a85edf128c32d5349
+#: ../source/calculate.rst:63
+msgid "These are the list of functions available in Calculate Activity:"
+msgstr ""
+
+# ad08a89a4fdc42cbb5ba9f7f925304b5
+#: ../source/calculate.rst:65
+msgid "abs(x) - return absolute value of x, which means -x for x < 0"
+msgstr ""
+
+# d83cee48e7e64b159520e35c48381e7f
+#: ../source/calculate.rst:67
+msgid ""
+"acos(x) - return the arc cosine of x. This is the angle for which the cosine "
+"is x. Defined for -1 <= x < 1"
+msgstr ""
+
+# b835619636fc4f2fa88647ccb58a6d93
+#: ../source/calculate.rst:69
+msgid ""
+"acosh(x) - return the arc hyperbolic cosine of x. This is the value y for "
+"which the hyperbolic cosine equals x."
+msgstr ""
+
+# 495ed5babfb64ef7a064c578443f8e35
+#: ../source/calculate.rst:71
+msgid ""
+"and(x, y) - logical and returns True if x and y are True, else returns False"
+msgstr ""
+
+# f3101f333cec4384a4c087ca50ed7fb4
+#: ../source/calculate.rst:73
+msgid "add(x, y) - return x + y"
+msgstr ""
+
+# cbd70266fac04c29bd6430adbfb18457
+#: ../source/calculate.rst:75
+msgid ""
+"asin(x) - return the arc sine of x. This is the angle for which the sine is "
+"x. Defined for -1 <= x <= 1"
+msgstr ""
+
+# 1c6c4e9b1895481e966f0ce551e5dcdd
+#: ../source/calculate.rst:77
+msgid ""
+"asinh(x) - return the arc hyperbolic sine of x. This is the value y for "
+"which the hyperbolic sine equals x."
+msgstr ""
+
+# d2bd277f7737482a913ca51e29a1aabf
+#: ../source/calculate.rst:79
+msgid ""
+"atan(x) - return the arc tangent of x. This is the angle for which the "
+"tangent is x. Defined for all x"
+msgstr ""
+
+# c6cad2c3bebd436ca68061b8db975836
+#: ../source/calculate.rst:81
+msgid ""
+"atanh(x) - return the arc hyperbolic tangent of x. This is the value y for "
+"which the hyperbolic tangent equals x."
+msgstr ""
+
+# cd5e2a3fa656451185521df044ea86fd
+#: ../source/calculate.rst:83
+msgid ""
+"b10bin(x) - interpret a number written in base 10 as binary, e.g.: b10bin"
+"(10111) = 23."
+msgstr ""
+
+# a88a619845dc4593a4ef01320bea8ec0
+#: ../source/calculate.rst:85
+msgid "ceil(x) - return the smallest integer larger than x."
+msgstr ""
+
+# bef89ef78e4049368d05b5d08e0e84c7
+#: ../source/calculate.rst:87
+msgid ""
+"cos(x) - return the cosine of x. This is the x-coordinate on the unit circle "
+"at the angle x"
+msgstr ""
+
+# 6cc13180a1484cf68e1693570cacfd5d
+#: ../source/calculate.rst:89
+msgid ""
+"cosh(x) - return the hyperbolic cosine of x. Given by (exp(x) + exp(-x)) / 2"
+msgstr ""
+
+# 8fadf02ee70a4f9f94765ea6d31a5986
+#: ../source/calculate.rst:91
+msgid "div(x, y) - returns x/y where y!=0."
+msgstr ""
+
+# 531ed0c6bbff40e29a92b46417d8aa73
+#: ../source/calculate.rst:93
+msgid ""
+"gcd(a, b) - determine the greatest common denominator of a and b.For "
+"example, the biggest factor that is shared by the numbers 15 and 18 is 3."
+msgstr ""
+
+# 862dd46e5c7f4e34b4f4a9ee46a4eede
+#: ../source/calculate.rst:95
+msgid "exp(x) - return the natural exponent of x. Given by e^x"
+msgstr ""
+
+# 21d5917cf6f2456591abadabddc97ee8
+#: ../source/calculate.rst:97
+msgid ""
+"factorial(n) - return the factorial of n. Given by n * (n - 1) * (n - 2) "
+"* ... * 1"
+msgstr ""
+
+# 26d919eff7ec42f9ab6acbb4eee53164
+#: ../source/calculate.rst:99
+msgid ""
+"factorize(x) - determine the prime factors that together form x. For "
+"examples: 15 = 3 * 5."
+msgstr ""
+
+# 23ce172e50664651a2c5913ab3c89be4
+#: ../source/calculate.rst:101
+msgid "floor(x) - return the largest integer smaller than x."
+msgstr ""
+
+# 8d5ce84034684f38aca82644d7fd0778
+#: ../source/calculate.rst:103
+msgid "inv(x) - return the inverse of x, which is 1 / x"
+msgstr ""
+
+# 57abe50819084b9184c19561b4396fc3
+#: ../source/calculate.rst:105
+msgid "is_int(n) - determine whether n is an integer."
+msgstr ""
+
+# 13e14c294bdc4288a9ed59eccb0d7093
+#: ../source/calculate.rst:107
+msgid "is_prime(x) - Check if a number is a prime.For examples: is_prime(2)."
+msgstr ""
+
+# 861b5d59fc7a404b9230951310c5eb88
+#: ../source/calculate.rst:109
+msgid ""
+"ln(x) - return the natural logarithm of x. This is the value for which the "
+"exponent exp() equals x. Defined for x >= 0."
+msgstr ""
+
+# c07dc5f2989f4a08a19521639ad499ae
+#: ../source/calculate.rst:111
+msgid ""
+"log10(x) - return the base 10 logarithm of x. This is the value y for which "
+"10^y equals x. Defined for x >= 0."
+msgstr ""
+
+# a1aa01f0a2b241f382fa75afe124197f
+#: ../source/calculate.rst:113
+msgid ""
+"mod(x, y) - return the modulus of x with respect to y. This is the remainder "
+"after dividing x by y."
+msgstr ""
+
+# 961a7e2d03b04445964cd8b1c8cf9808
+#: ../source/calculate.rst:115
+msgid "mul(x, y) - return x * y"
+msgstr ""
+
+# cbb96fb8d95e4a95b79ed791bc9ddbf2
+#: ../source/calculate.rst:117
+msgid "negate(x) - return -x"
+msgstr ""
+
+# 26a068e6fd28401c99b0c82542c302aa
+#: ../source/calculate.rst:119
+msgid ""
+"Or(x, y) - logical or. Returns True if x or y is True, else returns False"
+msgstr ""
+
+# 282f4a7444574d5c8f27d39032ffa2db
+#: ../source/calculate.rst:121
+msgid "pow(x, y) - return x to the power y (x**y)"
+msgstr ""
+
+# 7dd47b1d042f43eca01a3599c4d09a2a
+#: ../source/calculate.rst:123
+msgid ""
+"rand_float() - return a random floating point number between 0.0 and 1.0"
+msgstr ""
+
+# 7e08bd3174e84bffbba41d96e40a47e1
+#: ../source/calculate.rst:125
+msgid ""
+"rand_int([<maxval>]) - return a random integer between 0 and <maxval>."
+"<maxval> is an optional argument and is set to 65535 by default."
+msgstr ""
+
+# 230ffc07d8b54954b9612b0d7c944da8
+#: ../source/calculate.rst:127
+msgid "round(x) - return the integer nearest to x."
+msgstr ""
+
+# 1cade3e13db542fcbb8a5cbb6b184e1a
+#: ../source/calculate.rst:129
+msgid ""
+"shift_left(x, y) - shift x by y bits to the left (multiply by 2 per bit)"
+msgstr ""
+
+# 47e690b367b3471c861b894b86b061cc
+#: ../source/calculate.rst:131
+msgid ""
+"shift_right(x, y) - shift x by y bits to the right (divide by 2 per bit)"
+msgstr ""
+
+# 466c47098237492ebd79815ebb20fe49
+#: ../source/calculate.rst:133
+msgid ""
+"sin(x) - return the sine of x. This is the y-coordinate on the unit circle "
+"at the angle x"
+msgstr ""
+
+# 1b507db1de34469db1c11825322ac5fd
+#: ../source/calculate.rst:135
+msgid ""
+"sinh(x) - return the hyperbolic sine of x. Given by (exp(x) - exp(-x)) / 2"
+msgstr ""
+
+# a4faaab5c46149cda506de54e3725148
+#: ../source/calculate.rst:137
+msgid "sinc(x) - return the sinc of x. This is given by sin(x) / x."
+msgstr ""
+
+# 504729de89854a1e9ca53411230f1e82
+#: ../source/calculate.rst:139
+msgid ""
+"sqrt(x) - return the square root of x. This is the value for which the "
+"square equals x. Defined for x >= 0."
+msgstr ""
+
+# 0a8d026cdf154ccc80eb184b1f2d3c82
+#: ../source/calculate.rst:141
+msgid "square(x) - return x * x"
+msgstr ""
+
+# ac95f95dc64a45b0a63c4a00bcfc5a18
+#: ../source/calculate.rst:143
+msgid "sub(x, y) - return x - y"
+msgstr ""
+
+# 48f15c4120ab45e795f78752d0c45e4b
+#: ../source/calculate.rst:145
+msgid ""
+"tan(x) - return the tangent of x. This is the slope of the line from the "
+"origin of the unit circle to the point on the unit circle defined by the "
+"angle x. Given by sin(x) / cos(x)"
+msgstr ""
+
+# d3aa6f5b96e64dc8a6bf6d63ea1c28b0
+#: ../source/calculate.rst:147
+msgid ""
+"tanh(x) - return the hyperbolic tangent of x. Given by sinh(x) / cosh(x)"
+msgstr ""
+
+# 4e6305a52ec64829a22b30114c1b0748
+#: ../source/calculate.rst:149
+msgid ""
+"xor(x, y) - logical xor. Returns True if either x is True (and y is False) "
+"or y is True (and x is False), else returns False"
 msgstr ""

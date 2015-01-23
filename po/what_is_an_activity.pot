@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,37 +17,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/what_is_an_activity.rst:3
-# 5af42ee8b9104cc3a4b44487640db45a
+# 54a328a2cdb341dc915d5df8cfc5f496
 msgid "What is an Activity"
 msgstr ""
 
 #: ../source/what_is_an_activity.rst:5
-# 0d934b9c959943c99334579f6a86fb43
+# a6066539a4fa49a8b3b4887f3bb7d16a
 msgid "Activities are the things you use to make projects in Sugar on your XO. Activities are found on your “Home” view in the circle around your “person” icon."
 msgstr ""
 
 #: ../source/what_is_an_activity.rst:9
-# 3304ca293b9d48f08bdc990d3ac72580
+# 2b800bb9353b44be8f3f689fd482d8c6
 msgid "These activities have been selected from all those installed on your laptop. They are called “Favorites”. You can change this list at any time by clicking on the “List” view (1) in the upper right corner of your screen."
 msgstr ""
 
 #: ../source/what_is_an_activity.rst:11
-# 74912c9d74de4512ad20f0f23af8b44f
+# 7babc2b23fca466a8fbc30a55dce3a51
 msgid "To start an activity, you can click its icon. This will open the last project you were working on. You can also see all your recent projects by hovering your pointer over the icon and look for the name of which you saved your project. In order to open a new session, hover your pointer on the icon and click “start new”."
 msgstr ""
 
 #: ../source/what_is_an_activity.rst:13
-# 1f6e0e4ea2b84ab5908cad7e83459213
+# dc05e0b6083e4734ba4a91e5c95ef6ec
 msgid "There is one special activity called the “Journal” which appears under your \"person\" icon, if you have no other Activities open, and on the Frame, or you can press the magnifying glass key in the top row of the keyboard to immediately open the Journal and search. The Journal keeps track of everything you do on the XO. It also stores the files you create with your Activity. Some Activities need no instruction or explanation, such as Maze and Speak. There are other Activities that require some learning and exploration, such as Turtle Art, Etoys, and Scratch."
 msgstr ""
 
 #: ../source/what_is_an_activity.rst:15
-# b960444df28244619cc7233118890934
+# 2acb9a4341274dcd8538443880d10201
 msgid "There are Activities which are games, such as Memorize and Implode. Some perform basic functions such as writing documents (Write), taking pictures or videos (Record), or browsing the Internet (Browse). Other Activities allow you to create complex images, games, animations and programs : Scratch, Etoys, TurtleArt. You can also make music with Tam Tam and use it in your animation, or story or Memorize game."
 msgstr ""
 
 #: ../source/what_is_an_activity.rst:17
-# 46eeb1e058104ad48457c063d16e0f5c
+# e2f6d3b0af30408c8f646f4ef4e9907b
 msgid "A set of Activities is pre-installed with the Sugar environment. More Activities can be found and added to your XO from the Sugar Activity Library, http://activities.sugarlabs.org. You can also add Activities from a USB drive (thumb drive)."
 msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,27 +17,27 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/about_olpc.rst:3
-# 256db308b1ac4fc483b85c14c50c2d62
+# 41fd10d3fc484c47bb66ae872a083055
 msgid "About OLPC"
 msgstr ""
 
 #: ../source/about_olpc.rst:6
-# c003f92f2d694030951d00801d53c232
+# 766e97c95f2e4951ae6be8843a9a7ed4
 msgid "About One Laptop per Child"
 msgstr ""
 
 #: ../source/about_olpc.rst:8
-# fa10585168ec4c7c900a8e560e4fc96a
+# 633863371f7146778dcbaf7ce17f915e
 msgid "One Laptop per Child (OLPC) is a project started by Nicholas Negroponte at the Massachusetts Institute of Technology (MIT) with a core of MIT Media Lab personnel. The organization has grown to include passionate people creating software and hardware and sustainable community involvement to fulfill the educational mission of OLPC."
 msgstr ""
 
 #: ../source/about_olpc.rst:10
-# 7d586e8b69db4d1d8fe0c5b383335da3
+# 228262152d394615b2c37bada8d65c08
 msgid "The mission for OLPC is simple yet compelling: To create educational opportunities for the world's poorest children by providing each child with a rugged, low-cost, low-power, connected laptop with content and software designed for collaborative, joyful, and self-empowered learning."
 msgstr ""
 
 #: ../source/about_olpc.rst:12
-# 7fa58f118ff342479b9ce26cc9bd8437
+# cc022c0dca5b4a9caff540531676211e
 msgid "You can learn more about OLPC at http://laptop.org and http://wiki.laptop.org -- everyone is welcome to participate."
 msgstr ""
 

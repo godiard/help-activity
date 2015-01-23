@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,162 +17,162 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/ports.rst:3
-# fbdabc35d4d2457d831bbbcb9b49e34a
+# 71021689662d4e3aaa6346848a5fc6d1
 msgid "Physical Features"
 msgstr ""
 
 #: ../source/ports.rst:6
-# e5b89b56e01242caba082ed5f1c94ef1
+# d5022efb31074f93ad37e3587233dfb8
 msgid "Features and Ports"
 msgstr ""
 
 #: ../source/ports.rst:8
-# 6c24f15adcfc460e93043b09d43b8628
+# ac3a096eb39c4544970e08b250768aa4
 msgid "The XO laptop has many built-in features. These include a camera, microphone, speakers and wireless antenna. In addition, the laptop allows for the attachment of other external devices. This is often done by plugging the devices into connectors (some are more commonly referred to as ports, jacks or slots)."
 msgstr ""
 
 #: ../source/ports.rst:11
-# 336abf25f0704ebcb41502d1952453ef
+# fbe9332e697149d99063987cc0e97081
 msgid "Backlit screen"
 msgstr ""
 
 #: ../source/ports.rst:13
-# 3c3083c0aef14eeb92ed414b2f134860
+# 4f696c8b11a94e7bafa37a39c0ee6b10
 msgid "The display functions in a full-color mode similar to other laptop displays and in an ultra-low-power, ultra-high-resolution, black-and-white mode that is readable in direct sunlight."
 msgstr ""
 
 #: ../source/ports.rst:19
-# 0d3c0058657946e2a76f3c84c63cb100
+# 78d01f5f3b5b4a74ba8b8976b2a4618a
 msgid "1, 2 - Built-in microphone"
 msgstr ""
 
 #: ../source/ports.rst:21
-# 00cec4fc4ba045caa908ed11df743a37
+# af0eec0d76ed4679bdcb727a46862759
 msgid "There is both a built-in microphone (and an external microphone jack, which supports both AC and DC sources.) As a privacy measure, an LED above the microphone (1) lights up whenever the microphone is in use."
 msgstr ""
 
 #: ../source/ports.rst:24
-# 52696cf81b244f1f9e4d7459e6250462
+# c921b63658b942f395e9f7680de966ee
 msgid "3, 8 - Built-in speakers"
 msgstr ""
 
 #: ../source/ports.rst:26
-# 4b578616d81141a1bf00d33066edbc0f
+# 6396a6c999ba473ea5b7f76b681660b2
 msgid "Internal stereo speakers and an amplifier provide a way to play music, videos, and anything you have recorded yourself. There’s also a jack for external headphones or speakers."
 msgstr ""
 
 #: ../source/ports.rst:29
-# aafed30d28fc4d029961dccb5ef01cb8
+# 751e94107e624054aa0564114caaec47
 msgid "4 - Game pad"
 msgstr ""
 
 #: ../source/ports.rst:31
-# 8b56b67d2185489b9e84ea82a4800c5b
+# 59f7322b98f9420eb81999befd687055
 msgid "Two sets of four-direction cursor-control keys can be game controllers. Since they still function when the screen is folded down into e-book mode, the XO creates a self-contained game playing pad including a controller."
 msgstr ""
 
 #: ../source/ports.rst:34
-# a370e43e39c84bae842ccb5119977c66
+# 609741600b0143159fa589ca1a3f05e4
 msgid "5 - Screen rotate button"
 msgstr ""
 
 #: ../source/ports.rst:36
-# 67381af4c53148eb89b6d6288fd213a9
+# b0b7805244a64378af7020ea1832447f
 msgid "A button on the XO laptop’s display frame changes the orientation of the screen, so it can be viewed right-side-up from any direction."
 msgstr ""
 
 #: ../source/ports.rst:39
-# 44167f3ac71b4fbeaac7f4a12e314f95
+# fc9ad197cf3a47bb8ee962d00fa63a44
 msgid "6, 7 - Built-in camera"
 msgstr ""
 
 #: ../source/ports.rst:41
-# a0b11caa824c40d084539badbebada57
+# 1fca5d0daff4433daaadf0fb246b4ef0
 msgid "The XO laptop has a built-in color camera, enabling still photography and video recording. As a privacy measure, an LED above the camera (6) lights up whenever the camera is on."
 msgstr ""
 
 #: ../source/ports.rst:44
-# bd8468772e874d1ea921c9d11af8f6dc
+# fce3a421251948268686abdab2547630
 msgid "9 - Game buttons"
 msgstr ""
 
 #: ../source/ports.rst:46
-# 0269032d7e1f4a5db7e6887aa8f6792f
+# 085c3018266b4b20871b2ffb4175ea80
 msgid "The game buttons can be used when the screen is folded down into e-book mode, creating a self-contained game player. The buttons are labeled with a circle, a square, a check, and an ×. These buttons are often used by Activities. For example, the circle button can be used as the shutter for the camera in the Record Activity."
 msgstr ""
 
 #: ../source/ports.rst:49
-# cad56666095e410ca85665af8af42dc1
+# b87893173846499cb6e1ba824641723b
 msgid "10 - Power button, indicator"
 msgstr ""
 
 #: ../source/ports.rst:51
-# e3f7cc52c797415cb0ddb1b484987ce1
+# 66197f5b284942ccb899d921d26d497e
 msgid "From left to right: the battery-level indicator; the power indicator; and the power button."
 msgstr ""
 
 #: ../source/ports.rst:53
-# 787d79ca26bc43d59fe73114d5238b69
+# 1cc6c54d018e455b992d9732df4656ff
 msgid "Along with offering unique connectivity options, the XO laptop can work with a wide range of external devices."
 msgstr ""
 
 #: ../source/ports.rst:58
-# 96e97ef241d645148b2d6fa7c7e473ff
+# 3d8802ae09104c72bf891cc4b06097ae
 msgid "11 - Antennae ears"
 msgstr ""
 
 #: ../source/ports.rst:60
-# 06c8b1f12e0c4d639b1f7b21f7182232
+# 4979f3201ebb419bb40795f7843b7897
 msgid "When the wireless antennae \"ears\" are rotated up, they provide the XO with a connection range vastly superior to those of conventional laptops. When down, they keep dirt out of the connectors and act as a latch."
 msgstr ""
 
 #: ../source/ports.rst:63
-# f0d58fdc1a184d54b931bb2bd5b56561
+# 512e5492b62e4db2b816fc2516b9e8c0
 msgid "12, 13 - External headphones and microphone jacks"
 msgstr ""
 
 #: ../source/ports.rst:65
-# ada5dd2c173d41608a1fb4b3e0d7e292
+# f5fe8ab0fac241bba0d7c00223f10fba
 msgid "Along with built-in speakers and microphone, the XO laptop features jacks for external headphones and an external microphone."
 msgstr ""
 
 #: ../source/ports.rst:68
-# 1d54875a923f43f08cba7071c72e0b74
+# 562229e7b7d34c62b3b03f9dcb94314a
 msgid "14 - USB/memory ports"
 msgstr ""
 
 #: ../source/ports.rst:70
-# 504b089e4eaa4ee0949d2188fdc31db2
+# 34f626c91974492a9459d55d2f1865f1
 msgid "The XO laptop features three external USB ports to support a variety of plug-in peripherals (one seen in the photo above, and two others under the other \"ear\"). Right side ports + battery"
 msgstr ""
 
 #: ../source/ports.rst:73
-# fc85a6ee8a1d47528729261adae33659
+# a2e87ae9c3ee46a19f7decad81b21f48
 msgid "15 - Power jack"
 msgstr ""
 
 #: ../source/ports.rst:75
-# a21a5239f33947818094ca50bde4b8fa
+# 0c9a8fba28e24236ac653da546a426df
 msgid "The XO comes with a power cord that can be plugged into any 110-to-240-volt AC outlet for charging. The power jack also accepts DC power from a solar panel for charging the XO laptop’s battery."
 msgstr ""
 
 #: ../source/ports.rst:78
-# 2ca9ff01b06043a1befbeb488698b7f5
+# 38ceab248ff04a3fafb9d49aa1d580d9
 msgid "SD memory card slot"
 msgstr ""
 
 #: ../source/ports.rst:80
-# d7a0446337de444fbcb2c164c3926924
+# 11bb6ba8f7ea49c3b3d0e3643be7bf87
 msgid "There is a slot underneath the display that accepts SD memory cards for photos, video, and other content. Rotate the display so that the left-hand edge is over the keyboard—the slot is then accessible from below."
 msgstr ""
 
 #: ../source/ports.rst:83
-# 391a40272d1c4111ae7bcbd0342065eb
+# 0680995f434a453f85b461028e031c99
 msgid "Rechargeable battery"
 msgstr ""
 
 #: ../source/ports.rst:85
-# c72244fce4574dbd9a8c53e2ed1b4f6b
+# 0848b3203abd4db8a7ed5d4f41067f12
 msgid "Since many children, maybe even you, live \"off the grid\" (in places with poor or non-existent power infrastructure), the XO laptop is designed to be extremely power efficient."
 msgstr ""
 

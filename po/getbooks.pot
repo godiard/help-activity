@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/getbooks.rst:3
+# 545f3737eadb46d4ad702d309c32d98e
+msgid "Get Books"
+msgstr ""
+
+#: ../source/getbooks.rst:6
+# 61d18af395ab40bb8652bbbd84fe8545
+msgid "About"
+msgstr ""
+
+#: ../source/getbooks.rst:8
+# 6761b6c1267f47f9ac1ed575e4e7fae2
+msgid "Get Books can be used to download your favorite books on Sugar. It helps you download from different places (Internet Archive, Feedbooks, etc) all from one place."
+msgstr ""
+
+#: ../source/getbooks.rst:10
+# 38e54d9a350a4355874faa24fbaa7884
+msgid "Once you have found the book you want to read, you can select the format in which you would like to download it (PDF or EPUB). Click on \"Get Book\" to start the download. At the top of the screen, a progress bar will appear that shows you the download progress. Once your book is downloaded, you can open it in the Read activity."
+msgstr ""
+
+#: ../source/getbooks.rst:15
+# 12fce7052a3b4d7aa295eff944895e6a
+msgid "How to find books"
+msgstr ""
+
+#: ../source/getbooks.rst:16
+# d6f7c75b0cfc4676ac0c362d51ba3ab0
+msgid "There are two ways in which you can find books:"
+msgstr ""
+
+#: ../source/getbooks.rst:18
+# 0b482d343b46482191c4dca3622aaa05
+msgid "Using search"
+msgstr ""
+
+#: ../source/getbooks.rst:20
+# 73c9e00322d143959939ddc8c4b03bd9
+msgid "Enter the book title in the search bar"
+msgstr ""
+
+#: ../source/getbooks.rst:21
+# e842b6da8a5a441c88ec94322f10e7df
+msgid "Select from where to search(Feedbooks or My books)"
+msgstr ""
+
+#: ../source/getbooks.rst:22
+# a2e3a05e5e8748eea2ec2c7798eb4ca5
+msgid "Press Enter"
+msgstr ""
+
+#: ../source/getbooks.rst:24
+# 863ef01adb254885be293794489d8643
+msgid "Using the catalogs"
+msgstr ""
+
+#: ../source/getbooks.rst:26
+# 2d7edfb9e991449d9cb7717b962493e1
+msgid "Under the catalogs, you can see different genres of books"
+msgstr ""
+
+#: ../source/getbooks.rst:27
+# 4f89abe02bcf4431821d7e4886a296ba
+msgid "Select the genre of your choice"
+msgstr ""
+
+#: ../source/getbooks.rst:28
+# 26858ff9da71408485f84741521a4b72
+msgid "You will get a list of books, with it's Title and Author"
+msgstr ""
+
+#: ../source/getbooks.rst:29
+# 7c18ee466c6a413883d889eb262eb4aa
+msgid "Click on the book you want"
+msgstr ""
+
+#: ../source/getbooks.rst:30
+# e60b3ff2c0a74dbbb713263aaa00b248
+msgid "Select the format and click \"Get Book\""
+msgstr ""
+
+#: ../source/getbooks.rst:34
+# db25ad111f5947aebb2619e7a49256e9
+msgid "How to change language"
+msgstr ""
+
+#: ../source/getbooks.rst:36
+# c13dbdfc72ee48fea2deba4041ead504
+msgid "To change the language, click on the (settings) |set_ico| icon and from the list you can select:"
+msgstr ""
+
+#: ../source/getbooks.rst:40
+# be77f609b03641089b669a31c612b140
+msgid "Any language"
+msgstr ""
+
+#: ../source/getbooks.rst:41
+# 95ca919075dd4827b860e64609b4e7bd
+msgid "French"
+msgstr ""
+
+#: ../source/getbooks.rst:42
+# a81bc5f0d9994005a23ccd3c903890d6
+msgid "English"
+msgstr ""
+
+#: ../source/getbooks.rst:43
+# c0770595400f40d0aa7e4b3e727a7880
+msgid "German"
+msgstr ""
+
+#: ../source/getbooks.rst:44
+# fde17ea218dc44ffadff9e0a2296985c
+msgid "Spanish; Castilian"
+msgstr ""
+
+#: ../source/getbooks.rst:50
+# 7ef826f52c0544ef86c63e1d9ee6d4dc
+msgid "How to show/hide catalogs"
+msgstr ""
+
+#: ../source/getbooks.rst:52
+# aecc061d83a54633899cee2d3ac47407
+msgid "To show/hide the catalogs, all you need to do is just press the (catalogs) |cat_ico| button"
+msgstr ""
+
+#: ../source/getbooks.rst:58
+# 5c9a5180fd314b13a5602748674224af
+msgid "Gallery"
+msgstr ""
+
+#: ../source/getbooks.rst:66
+# 16e9431c90f744638671cd78af1dd749
+msgid "Download"
+msgstr ""
+
+#: ../source/getbooks.rst:67
+# ce1d6e2df30c4312a9b7538d2270da2e
+msgid "`Activites Download page <http://activities.sugarlabs.org/en-US/sugar/addon/4304>`_"
+msgstr ""
+
+#: ../source/getbooks.rst:71
+# dd66972db9854af287ced7c3a782ef4b
+msgid "More Info"
+msgstr ""
+
+#: ../source/getbooks.rst:72
+# 0c48815020df4f2db1c38b9a76489a2b
+msgid "If you never developed a Sugar Activity, `must read <http://www.flossmanuals.net/make-your-own-sugar-activities/>`_."
+msgstr ""
+
+#: ../source/getbooks.rst:74
+# 9e47d59dfa90469d883266ca6ae5c3e0
+msgid "If you want help us fixing some bugs on activities, and learn a little about how activities work, you can see at this `list of pending tickets <http://dev.laptop.org/~gonzalo/bugs_index.html>`_"
+msgstr ""
+

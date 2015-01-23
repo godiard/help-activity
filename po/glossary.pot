@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-01-23 13:48\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,167 +17,167 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/glossary.rst:3
-# afab9c84943c48d4a0583b9d24417803
+# 6a87bb97727c4c07924de2813056a97a
 msgid "Glossary"
 msgstr ""
 
 #: ../source/glossary.rst:5
-# 38e319f65c6d41cb8d516b04769da863
+# 0d3d144cc14248afba9db36ad0006209
 msgid "Activity"
 msgstr ""
 
 #: ../source/glossary.rst:7
-# a3039dc9e9174e0b82a1b10495b267d4
+# ba6ebd616244435ba8460562ffe4c63c
 msgid "Sugar education software module. In other contexts these might be called programs, but we prefer to emphasize what the students can do with them, not where they came from."
 msgstr ""
 
 #: ../source/glossary.rst:9
-# 64618dac512a4f24b80833546ba52745
+# 464241ce33784fb6a13481078b7bd424
 msgid "Definition"
 msgstr ""
 
 #: ../source/glossary.rst:11
-# 86c14744ad754fc29cb3a3472753ff67
+# e12e57afbee14458b9275c70f72f0d74
 msgid "An association between a name which may mean nothing by itself and a description intended to convey an important idea. Frequently we need a different kind of association between names and ideas, such as pictures, animations, or actual experience. The most important purpose of definitions is to explain what the thing named does; another is to describe its uses, or as we often say its purposes; a third is to describe the appearance of something, so that we can recognize it when we see it; a fourth is to enable us to talk about the thing conveniently with those who already have some idea of it. Usually the order of importance of these purposes is entirely misunderstood."
 msgstr ""
 
 #: ../source/glossary.rst:13
-# 5871d3fd992d43a1bab6d7683b6a142c
+# 3ae4ab42ecee4c6f82f6688e38cb78e1
 msgid "Favorite"
 msgstr ""
 
 #: ../source/glossary.rst:15
-# 45e47df501164822ad88a39f0409c3e6
+# a12fe73b92224be0a8a1dd86f7703a26
 msgid "Activity that shows in the Home view icon ring. A user can mark an Activity as a Favorite in the List view by clicking the star outline next to the Activity name."
 msgstr ""
 
 #: ../source/glossary.rst:17
-# 23a795c613694c5aa6ccdf1f16240959
+# f07be50a24bd45dbbaadb7d006b704df
 msgid "Frame"
 msgstr ""
 
 #: ../source/glossary.rst:19
-# 0d4b32463ddf4b9683abcf868624eee4
+# 3870aa1c762b405d9a0435d55c57189b
 msgid "Popup rectangular border in Sugar showing View icons and active Activities on the top; friend icons on the right; hardware icons on the bottom; and icons for open documents on the left. The frame is activated by putting the mouse cursor into a corner of the screen, or optionally the side (see My Settings), or by pressing the Frame button on the top right of an XO keyboard. Moving the mouse cursor away from the activation area or pressing the Frame button while the Frame is active dismisses the Frame."
 msgstr ""
 
 #: ../source/glossary.rst:21
-# df00859991704f1bbaf34fc71c367a02
+# 40a26fafbe9f48b89985756bded08702
 msgid "Group view"
 msgstr ""
 
 #: ../source/glossary.rst:23
-# fd072778b01347e8be7590296d5e8d24
+# 60c77b67f0994141a01531f781b330b6
 msgid "View showing colored XO icons of the user's friends who are connected, and grayed-out icons for those who are not."
 msgstr ""
 
 #: ../source/glossary.rst:25
-# f9174f4654dd4bc2ac6be9c2f65dfcc3
+# eabb28f1915846d4bfe07aa20f39400b
 msgid "Home view"
 msgstr ""
 
 #: ../source/glossary.rst:27
-# 76bc371c47f54bc9a79fe07cd4b417ca
+# fb193648e2df4398884629c894afb54f
 msgid "View showing XO icon, an icon for the current Activity (or journal if no Activity has been started), and a ring or other arrangement of available Activity icons."
 msgstr ""
 
 #: ../source/glossary.rst:29
-# d745ee99b8994cc396199d9d337ffd40
+# a7b9a4e020f848a29c7d8e2b61281c2e
 msgid "Hover Menu"
 msgstr ""
 
 #: ../source/glossary.rst:31
-# 73b36fc8a2704db7b710891645e7b1aa
+# 8f9b7547047b49bfbe251909ca4a12b4
 msgid "A menu that pops up when the mouse cursor is held over an icon for one second, and expands further after one more second. A feature that many users cannot discover without being told about it."
 msgstr ""
 
 #: ../source/glossary.rst:33
-# a8d4c8e7df2e4a539611ccae6866d956
+# 0a1a2f738a5642548d983e53c179a8bd
 msgid "Index"
 msgstr ""
 
 #: ../source/glossary.rst:35
-# 7f4eb4dde8f444faad6ff773a589247f
+# 7199ac53e15d4220995232135d082b89
 msgid "Synonym for Glossary."
 msgstr ""
 
 #: ../source/glossary.rst:37
-# bee317659e3b49a3a887b807bc4b9551
+# 212b631eec4d4de681dd0939eeb18448
 msgid "Journal"
 msgstr ""
 
 #: ../source/glossary.rst:39
-# 54d5a8007a3149cebbcc48b0c86da9f0
+# 8f8ab12088774b67a82016daeb8ce304
 msgid "A browser for saved software sessions and documents, allowing sorting, searching, and access to metadata."
 msgstr ""
 
 #: ../source/glossary.rst:41
-# 969801f71ce949ff9a52ea69ae1ab242
+# 86d114a00e0b4d09b0babd517f5bb5c0
 msgid "Menu Bar"
 msgstr ""
 
 #: ../source/glossary.rst:43
-# a3c0631ad2344479875866f4d1564470
+# 3a455bf78e7d4d66b75428505b78742f
 msgid "A rectangular area at the top of the screen containing text labels or icons, where clicking with the mouse results in the appearance of a drop-down menu containing further labels or icons for Activity functions available to the user."
 msgstr ""
 
 #: ../source/glossary.rst:45
-# e65240fa61ae406fabe3bdb4d413a53e
+# 47d2b76e0eee4dba9a8ba7349c6bcf43
 msgid "Metadata"
 msgstr ""
 
 #: ../source/glossary.rst:47
-# 7a500ad730ec46a696f2c5b1868ffe8c
+# 4f5b70f26a414b6aa7d343364a01e748
 msgid "Information about a file, such as file type, software used to create it, description, tags, a screen shot, date and time, and more. The Journal maintains metadata about saved documents and software sessions."
 msgstr ""
 
 #: ../source/glossary.rst:49
-# c23576e2fa6b48ae8f21871b800f8c4b
+# 5fdc1e493d79467f9873372c78392c91
 msgid "Neighborhood view"
 msgstr ""
 
 #: ../source/glossary.rst:51
-# dbcbfb95e91b49dfb5d776e45b52cce8
+# 6a7e8527fe5c491893b177ecfa127b1d
 msgid "View showing wireless mesh and access points, connected XOs, and shared Activities."
 msgstr ""
 
 #: ../source/glossary.rst:53
-# eb00043682e744e6a5d882244368d4cb
+# 4e2bd61a9286414e845206582f9ff20d
 msgid "OS"
 msgstr ""
 
 #: ../source/glossary.rst:55
-# e3fc6054030548ba8629004207a307ec
+# c4ba0f06cf0e44d282c4a3e677b09b3d
 msgid "Operating System. This describes the Software that runs on your XO laptop."
 msgstr ""
 
 #: ../source/glossary.rst:57
-# bdd3d7e3fb0543c5be240ffbd7b788c5
+# 6dad01cb64524379a47c9bfd98c2cbb4
 msgid "School server (XS)"
 msgstr ""
 
 #: ../source/glossary.rst:59
-# 5282f5259e974448bcc0e2001f06ddd0
+# bf1b521d077e4412b18daad308c2eaaa
 msgid "A computer designed by OLPC for use in schools to hold student backups and content, and to provide school administration server software such as Moodle."
 msgstr ""
 
 #: ../source/glossary.rst:61
-# 5a7cf77648dd42fe96e07b357241071f
+# c60ad097bddb4ffea31f89d45eb93315
 msgid "Sugar"
 msgstr ""
 
 #: ../source/glossary.rst:63
-# bc7e5cf165cd4310a40653d0ac7c44ba
+# 54013929795143439a13afedc5debbe1
 msgid "Education software for the One Laptop Per Child project, designed to run on the XO and on other computers running the Linux operating system."
 msgstr ""
 
 #: ../source/glossary.rst:65
-# 67cb1a6927584857a0cf1ee40fa168ac
+# 09c89b722f4c44b78a0a87dcf927f698
 msgid "Toolbar"
 msgstr ""
 
 #: ../source/glossary.rst:67
-# ea7d047ee5e3436ebea4d5488456a4a3
+# 213a96345a1f4a7e81507ae3d8c7f205
 msgid "A rectangular area of the screen, usually at the top, containing icons representing Activity functions available to the user."
 msgstr ""
 
