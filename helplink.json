@@ -17,6 +17,7 @@
     "org.sugarlabs.IRC": "irc.html",
     "org.laptop.sugar.Jukebox": "jukebox.html",
     "org.gnome.Labyrinth": "labyrinth.html",
+    "org.laptop.Log": "log.html", 
     "org.laptop.MeasureActivity": "measure.html",
     "org.laptop.Memorize": "memorize.html",
     "org.sugarlabs.MusicKeyboard": "musickeyboard.html",
