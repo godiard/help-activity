@@ -54,6 +54,7 @@ Activities
     irc.rst
     jukebox.rst
     labyrinth.rst
+    log.rst
     measure.rst
     memorize.rst
     musickeyboard.rst
