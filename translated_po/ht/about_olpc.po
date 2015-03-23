@@ -1,0 +1,53 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# e1123179d2c149cf9d956c141a57545e
+#: ../source/about_olpc.rst:3
+msgid "About OLPC"
+msgstr ""
+
+# 995d5a505b6b4789a76725a527f8960b
+#: ../source/about_olpc.rst:6
+msgid "About One Laptop per Child"
+msgstr ""
+
+# 3c8617ed68f140af8b21ad46bcf461a8
+#: ../source/about_olpc.rst:8
+msgid ""
+"One Laptop per Child (OLPC) is a project started by Nicholas Negroponte at "
+"the Massachusetts Institute of Technology (MIT) with a core of MIT Media Lab "
+"personnel. The organization has grown to include passionate people creating "
+"software and hardware and sustainable community involvement to fulfill the "
+"educational mission of OLPC."
+msgstr ""
+
+# ebf60d74c4e54496aeed9bb15435eb36
+#: ../source/about_olpc.rst:10
+msgid ""
+"The mission for OLPC is simple yet compelling: To create educational "
+"opportunities for the world's poorest children by providing each child with "
+"a rugged, low-cost, low-power, connected laptop with content and software "
+"designed for collaborative, joyful, and self-empowered learning."
+msgstr ""
+
+# b0e2ed479fb1400199a2eb4e4c313680
+#: ../source/about_olpc.rst:12
+msgid ""
+"You can learn more about OLPC at http://laptop.org and http://wiki.laptop."
+"org -- everyone is welcome to participate."
+msgstr ""

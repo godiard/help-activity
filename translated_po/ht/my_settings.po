@@ -1,0 +1,167 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# efd06c271b844ee0a22a6c83d280d0c6
+#: ../source/my_settings.rst:3
+msgid "My Settings"
+msgstr ""
+
+# 16f2696d6a294a0e83433725fbfee110
+#: ../source/my_settings.rst:5
+msgid ""
+"The My Settings page in Sugar is similar to a Control Panel or System "
+"Settings window in other operating systems. It provides a way to set various "
+"values needed by system functions, such as the language for menus and "
+"messages, the keyboard layout for typing and otherwise controlling the "
+"system, date and time values and format, and much more."
+msgstr ""
+
+# 0d7653ffcc0546e0a553e775ba5da76f
+#: ../source/my_settings.rst:7
+msgid ""
+"To access My Settings, go to the Home view and activate the menu on the "
+"central XO icon, either by hovering with the cursor, or by right-clicking (O "
+"button on an XO). Then select My Settings. The following view appears."
+msgstr ""
+
+# 160d994480574261a7236990d8ea5f77
+#: ../source/my_settings.rst:9
+msgid "My Settings page"
+msgstr ""
+
+# 1b2e75e523b3402b9fd94fc08b2a52a4
+#: ../source/my_settings.rst:13
+msgid ""
+"Click any icon to open the indicated control. If you make changes, the "
+"window will offer you the choice whether to save (check mark) or discard (x) "
+"those changes. It may be necessary to reboot the computer or restart the "
+"Sugar session in order for the changes to take effect."
+msgstr ""
+
+# 7014644633bf4c419000d53c4004f946
+#: ../source/my_settings.rst:16
+msgid "About Me"
+msgstr ""
+
+# f5999c2d868144ae973121251d23207f
+#: ../source/my_settings.rst:18
+msgid "View and change your XO colors and name."
+msgstr ""
+
+# 278034f235634ba8aff379bb1a32d44e
+#: ../source/my_settings.rst:21
+msgid "About my Computer"
+msgstr ""
+
+# d2cef0fddc0e4665a8f08b60ada641ed
+#: ../source/my_settings.rst:23
+msgid ""
+"View technical information about your computer: serial number, software "
+"versions (Sugar, firmware, wireless), copyright, and license."
+msgstr ""
+
+# 8a729e9dbd3e48078fe2c844dd4b82c7
+#: ../source/my_settings.rst:26
+msgid "Background"
+msgstr ""
+
+# 76b6c3dae2184ce28aef3929bd4e9747
+#: ../source/my_settings.rst:31
+msgid "Date & Time"
+msgstr ""
+
+# 160c2fc227484496b4565110ef95dc17
+#: ../source/my_settings.rst:33
+msgid "Set timezone for date and time display."
+msgstr ""
+
+# 736107ebb6a743a09633fe0f1e902d02
+#: ../source/my_settings.rst:36
+msgid "Frame"
+msgstr ""
+
+# b3d9d5e411424c16bc8e89a34e2e68df
+#: ../source/my_settings.rst:38
+msgid ""
+"View and set activation rules for the frame. Set the dial as to whether you "
+"would like the frame to show up instantaneously (right away), never or "
+"somewhere in between when you move your cursor to both the corner and edge "
+"of your screen."
+msgstr ""
+
+# c717548f11aa48f9962767ac46fceca1
+#: ../source/my_settings.rst:41
+msgid "Language"
+msgstr ""
+
+# cf8864a8faa24a208d5a7faca33c4613
+#: ../source/my_settings.rst:43
+msgid ""
+"View and set user interface language. The language you are currently using "
+"will show on line 1. If you click on the arrow at the end of the line, you "
+"can select another language. Select from the menu by country and language, "
+"or click the + icon by the last line to add another line. If there are two "
+"or more lines, a - icon will appear by the last line to allow you to delete "
+"it."
+msgstr ""
+
+# 5840b8bc82ca4f9f8d737d0815c093e9
+#: ../source/my_settings.rst:46
+msgid "Modem Configuration"
+msgstr ""
+
+# 924c82f673a84eb794267738f7ebf785
+#: ../source/my_settings.rst:48
+msgid ""
+"Enter settings for a mobile broadband connection to a cellular (3G) network. "
+"Not required for WiFi."
+msgstr ""
+
+# 7b1f6ccbe0fb41ef85bb8993dd326dff
+#: ../source/my_settings.rst:51
+msgid "Network"
+msgstr ""
+
+# fdff37030ccd40229c3a9e8fc7f8bb1c
+#: ../source/my_settings.rst:53
+msgid ""
+"View and change settings for turning off wireless in order to save battery "
+"power, and view or set the jabber server name for collaboration."
+msgstr ""
+
+# 6b0558858f364d0fad684635d2522a7c
+#: ../source/my_settings.rst:56
+msgid "Software update"
+msgstr ""
+
+# 3b58125f7cdb425cba676853a57dd361
+#: ../source/my_settings.rst:58
+msgid ""
+"If you are able, check over the Internet for software updates, and install "
+"any that are available."
+msgstr ""
+
+# 591acc58ee5b40f7802eeb9455044f43
+#: ../source/my_settings.rst:61
+msgid "Configure your Web Services"
+msgstr ""
+
+# d1f5a5a53d3b46b5aa53fcbf7bce5ebd
+#: ../source/my_settings.rst:63
+msgid "Manage your online accounts and interventions to Journal."
+msgstr ""

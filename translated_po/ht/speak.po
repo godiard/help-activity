@@ -1,0 +1,160 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 7f9cfa0232c54b71a00e3e8a33f28d82
+#: ../source/speak.rst:3
+msgid "Speak"
+msgstr ""
+
+# 73dcac2220c34a66a59c76c5b4313b8f
+#: ../source/speak.rst:7
+msgid "**The toolbar buttons explained**"
+msgstr ""
+
+# a2dcbad5975c46318ea49039e455a7a4
+#: ../source/speak.rst:9
+msgid ""
+"Activity tab. In the first field name the session. The book and pencil icon, "
+"the Description button allows you to add a description to the :doc:`/"
+"journal` entry. Thirdly select Private, or My Neighbourhood mode."
+msgstr ""
+
+# d6e7b0f6db0547efae6acdc51431ba40
+#: ../source/speak.rst:10
+msgid "Type something to hear robot Alice read it aloud."
+msgstr ""
+
+# a985737d0d3e4e31addf17dbb51b4207
+#: ../source/speak.rst:11
+msgid "Ask robot Alice any question."
+msgstr ""
+
+# f5fcbe14beed4ffcb16e64dba07b323f
+#: ../source/speak.rst:12
+msgid "Voice chat."
+msgstr ""
+
+# 7d5dba64c54242a68ad20ffab976104b
+#: ../source/speak.rst:13
+msgid "Set language."
+msgstr ""
+
+# 6079adfad65a4d23b810cd367ce4dc90
+#: ../source/speak.rst:14
+msgid "Set pitch of voice and rate of delivery."
+msgstr ""
+
+# 718b37b0db084f3a8aa342a8247b6d3f
+#: ../source/speak.rst:15
+msgid "Alter shape of eyes and mouth"
+msgstr ""
+
+# d6a67022bef6440aafd0455dc4137916
+#: ../source/speak.rst:16
+msgid ""
+"Click the arrow button, and use the up/down arrow keys to scroll back "
+"through a history of things you have typed."
+msgstr ""
+
+# 0f8cf864b079469bb0cdc40436731db7
+#: ../source/speak.rst:17
+msgid "Stop, or close the Activity"
+msgstr ""
+
+# 37782be36da24f568ea934536ad8cc3e
+#: ../source/speak.rst:20
+msgid "Using"
+msgstr ""
+
+# 9aaf814f8e684ee19393766c099b6507
+#: ../source/speak.rst:22
+msgid ""
+"Speak is a talking face for the XO laptop. Anything you type will be spoken "
+"aloud using the XO's speech synthesizer, espeak. Use the toolbars at the top "
+"to change the voice's accent, rate and pitch or the shape of the eyes and "
+"mouth."
+msgstr ""
+
+# 2a671d2be98048c7bd4aaf80be7b8980
+#: ../source/speak.rst:24
+msgid "You can ask Alice a question too."
+msgstr ""
+
+# a357aeb8af484ee68ed8528492a25340
+#: ../source/speak.rst:26
+msgid ""
+"This is a great way to experiment with the speech synthesizer, learn to type "
+"or just have fun making a funny face for your XO."
+msgstr ""
+
+# 3e862dcb9003483e925f7d0ea1b89edd
+#: ../source/speak.rst:28
+msgid ""
+"After you've adjusted the settings it looks nicer in full-screen mode (Press "
+"Alt-Enter to switch)."
+msgstr ""
+
+# 1a17840341dc46528fc852ed0f62df8b
+#: ../source/speak.rst:30
+msgid ""
+"Use the Journal to resume your Speak activity including all voice, face and "
+"history settings."
+msgstr ""
+
+# 8349aa2fef8d4a9096bddb077aeafb47
+#: ../source/speak.rst:33
+msgid "Page suggested improvements"
+msgstr ""
+
+# e338bb9f89f641c68af96c4018978a97
+#: ../source/speak.rst:34
+msgid "... add the ideas."
+msgstr ""
+
+# 8a85318cbba74fe096275ae7ffe53f47
+#: ../source/speak.rst:36
+msgid "Expand voice chat."
+msgstr ""
+
+# bb46d4339b7b421983b7ab6a368444a4
+#: ../source/speak.rst:38
+msgid "Where Speak is good"
+msgstr ""
+
+# 0b11e4a2e71f47a7a1e3d0c17ff76468
+#: ../source/speak.rst:40
+msgid "Early reading - early writing - with FotoToon"
+msgstr ""
+
+# 6305f59899f84c708759c4253076c50b
+#: ../source/speak.rst:42
+msgid "Reading aloud Help pages"
+msgstr ""
+
+# c3ee7c4c6dd649e6aa75f10e99ca450d
+#: ../source/speak.rst:44
+msgid "Learn a language"
+msgstr ""
+
+# 0ee19e11fc8c4b82a1144272a633c13d
+#: ../source/speak.rst:48
+msgid ""
+"This is an experimental new page. You can improve it yourself by following :"
+"doc:`/how_to_help`, and perhaps borrowing content from http://wiki.laptop."
+"org/go/Speak"
+msgstr ""

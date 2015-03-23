@@ -1,0 +1,83 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 55ea0e12a45545f9964a28506063dd48
+#: ../source/maintaining.rst:3
+msgid "Maintenance"
+msgstr ""
+
+# 8ed2320580d44fd3b7264623efb1b964
+#: ../source/maintaining.rst:6
+msgid "Maintaining your XO"
+msgstr ""
+
+# d5f34728f84a4a65a181710c267a1ba5
+#: ../source/maintaining.rst:8
+msgid ""
+"Although your XO is tough, try to keep it dry and clean. Here are some tips "
+"for taking care of it:"
+msgstr ""
+
+# 2c73cf0d104442e1a302366884dc3b6b
+#: ../source/maintaining.rst:10
+msgid "Carry it carefully to avoid dropping it."
+msgstr ""
+
+# 36d9140138ed426fb72f8d2c74ead1c3
+#: ../source/maintaining.rst:11
+msgid "Don't step on it or sit on it."
+msgstr ""
+
+# 6d681263329a451ca842020939212a72
+#: ../source/maintaining.rst:12
+msgid "If it gets dirty, wipe it with a damp cloth and dry it."
+msgstr ""
+
+# 970784f6249949d6af5f0b83a1b7fd49
+#: ../source/maintaining.rst:13
+msgid ""
+"Do not dip it into water. If it gets wet, such as from rain, let it dry "
+"completely before using it."
+msgstr ""
+
+# 086e670202324d0b9f6471ac7d842f50
+#: ../source/maintaining.rst:15
+msgid ""
+"The XO laptop has no hard drive and only two internal cables. With care it "
+"can be disassembled for repair. For added robustness, the XO's plastic walls "
+"are thicker than other laptops. Its green mesh network antennae give a "
+"better wireless connection than typical laptops. Plus, they double as "
+"external covers for the USB ports, which are protected internally as well. "
+"Internal bumpers protect the screen display by cushioning it."
+msgstr ""
+
+# 3d05e080915e4d4f9b9e8ecb5746685d
+#: ../source/maintaining.rst:17
+msgid ""
+"Sometimes, It happens that the keys you are pressing appear somewhat dark "
+"shade of green or somewhat blackish. Remember, don't keep your hand on a "
+"single key for long. And wipe it with clean cloth to clean it."
+msgstr ""
+
+# 3b35005d67ed4b98bc996ca899e30d1f
+#: ../source/maintaining.rst:19
+msgid ""
+"Maintenance of the XO hardware involves updating the software and firmware "
+"and keeping the case in working order. Please refer to the Support section "
+"below for information on reflashing your XO."
+msgstr ""

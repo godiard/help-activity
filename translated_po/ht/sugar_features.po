@@ -1,0 +1,144 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 3cb2b12bc50e4f488cfe94e00e088397
+#: ../source/sugar_features.rst:3
+msgid "Sugar Features"
+msgstr ""
+
+# 2af5f3547e67462f8b4d450e6e25467e
+#: ../source/sugar_features.rst:5
+msgid ""
+"This page presents a number of Sugar features common to many Activities. The "
+"page is designed as a series of \"reference topics\"."
+msgstr ""
+
+# 7a2dad9e02b8487b88dabba60d6c280d
+#: ../source/sugar_features.rst:7
+msgid ""
+"This experimental page includes graphical spacers to separate non-related "
+"topics."
+msgstr ""
+
+# 93e1c67e7fd5417aa062966d3c30ecce
+#: ../source/sugar_features.rst:12
+msgid "View source"
+msgstr ""
+
+# adc760eac84541699713c62343034930
+#: ../source/sugar_features.rst:14
+msgid ""
+"You always can view the source code of Sugar Activities. In most cases, View "
+"Source will show you the python code of the activity, in other cases, like "
+"Browse, you can see the HTML code of the page seen in the activity."
+msgstr ""
+
+# 46c3702e6d7542b3bbaf6896b1be899e
+#: ../source/sugar_features.rst:16
+msgid ""
+"You can see the source window pressing Fn-space in your XO or Ctrl-Shift-V "
+"or pressing right click on the Activity's icon in the :doc:`/frame`. Here is "
+"an example of viewing the source of a page in :doc:`/help` Activity. In the "
+"case of this activity, you see the simple text, which Help converts into "
+"HTML pages for display. This is useful in the process of editing Help pages "
+"as described here :doc:`/how_to_help`"
+msgstr ""
+
+# 3ef01c865ee848e99cff5e0711f063cb
+#: ../source/sugar_features.rst:21
+msgid "Duplicating activities"
+msgstr ""
+
+# 5c96a92a6ae24d0a9ef105cdecfc67e6
+#: ../source/sugar_features.rst:23
+msgid ""
+"A option to duplicate an activity has been added to the View Source alert. "
+"By selecting this option, a copy of the activity is created in the user's "
+"$HOME/Activities directory. Thus we hope to encourage Sugar users to make "
+"modifications and improvements to the code they use without the risk of "
+"breaking the original activity."
+msgstr ""
+
+# 7fd793c4ee974c349739e27d45fc8585
+#: ../source/sugar_features.rst:27
+msgid "|more| For more information:"
+msgstr ""
+
+# 5ab8c2c24bcc4c6e8bd506aaa4095a64
+#: ../source/sugar_features.rst:31
+msgid ""
+"The Sugarlabs.org wiki has a informative article: http://wiki.sugarlabs.org/"
+"go/View_Source"
+msgstr ""
+
+# b411721c56ed4468a25a44c8e4caef0f
+#: ../source/sugar_features.rst:34
+msgid "*End of topic - spacer below.*"
+msgstr ""
+
+# 6395367cb42740da97d44a8b87e7fe16
+#: ../source/sugar_features.rst:41
+msgid "Say selected text"
+msgstr ""
+
+# 4081727ebc604a55b51e38143769109d
+#: ../source/sugar_features.rst:45
+msgid ""
+"You can have :doc:`/speak`, or robot Alice, read aloud, selected text. Here "
+"we demonstrate Alice reading text framed by :doc:`/help`. In Help, for "
+"instance, you can select a whole page of text, and have it read aloud to you "
+"while you explore that Activity."
+msgstr ""
+
+# 96c63822abc64c19afc6d24d4816132a
+#: ../source/sugar_features.rst:47
+msgid "Try it now, Select the text in this frame."
+msgstr ""
+
+# 062b218b1c074e27b845f2c11867df45
+#: ../source/sugar_features.rst:49
+msgid ""
+"To select text, move the mouse to the top left of the text, there is a green "
+"arrow near the correct point. Click the left, or main, mouse button. Move "
+"the cursor to the bottom right of the text to select, there is a red arrow "
+"near the correct point."
+msgstr ""
+
+# 73af09eeb6f24ae7ad52a2a3f64eeaec
+#: ../source/sugar_features.rst:51
+msgid ""
+"Bring in the :doc:`/frame` with the \"Frame key\" or F6. Press on the "
+"\"Speech lips\" icon in the bottom of the frame, then press on *Say selected "
+"text*. Notice also that there is a pause feature, once *speech* has started."
+msgstr ""
+
+# 4020cb59dee740108e1dc3320737eddc
+#: ../source/sugar_features.rst:55
+msgid ""
+"The *Say selected text* feature is available in many text based Activities "
+"including :doc:`/browse`, :doc:`/fototoon`, :doc:`/write`. Look out for the "
+"\"Speech lips\" icon in the bottom of the Frame, or as a button in the "
+"toolbar of an Activity, as in :doc:`/write`."
+msgstr ""
+
+# 5876236f09844ceeb428c86f430d7f9c
+#: ../source/sugar_features.rst:59
+msgid ""
+"This is a new unfinished page, you can modify it yourself following guidance "
+"here :doc:`/how_to_help`"
+msgstr ""

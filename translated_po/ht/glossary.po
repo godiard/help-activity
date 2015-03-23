@@ -1,0 +1,231 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# cdc606ee7fdf4f76af63e2a8daab7353
+#: ../source/glossary.rst:3
+msgid "Glossary"
+msgstr ""
+
+# 8f2e2f3b073e44dd9314f58948284391
+#: ../source/glossary.rst:5
+msgid "Activity"
+msgstr ""
+
+# c63492d7dda74df4a90f2d1e85e521a3
+#: ../source/glossary.rst:7
+msgid ""
+"Sugar education software module. In other contexts these might be called "
+"programs, but we prefer to emphasize what the students can do with them, not "
+"where they came from."
+msgstr ""
+
+# 8d230dfa828c47eda840d5d851a75989
+#: ../source/glossary.rst:9
+msgid "Definition"
+msgstr ""
+
+# ac1c38b35c674dbeae201a3045b60817
+#: ../source/glossary.rst:11
+msgid ""
+"An association between a name which may mean nothing by itself and a "
+"description intended to convey an important idea. Frequently we need a "
+"different kind of association between names and ideas, such as pictures, "
+"animations, or actual experience. The most important purpose of definitions "
+"is to explain what the thing named does; another is to describe its uses, or "
+"as we often say its purposes; a third is to describe the appearance of "
+"something, so that we can recognize it when we see it; a fourth is to enable "
+"us to talk about the thing conveniently with those who already have some "
+"idea of it. Usually the order of importance of these purposes is entirely "
+"misunderstood."
+msgstr ""
+
+# 69b2434312f54a09ab2e1ff3031da2e1
+#: ../source/glossary.rst:13
+msgid "Favorite"
+msgstr ""
+
+# e723e185a5a64f6980a67e634e4cc93f
+#: ../source/glossary.rst:15
+msgid ""
+"Activity that shows in the Home view icon ring. A user can mark an Activity "
+"as a Favorite in the List view by clicking the star outline next to the "
+"Activity name."
+msgstr ""
+
+# 46258079c3c34ffe91f4200e6fa27a2a
+#: ../source/glossary.rst:17
+msgid "Frame"
+msgstr ""
+
+# 36ff5349d5ba48629c8c0d3194171153
+#: ../source/glossary.rst:19
+msgid ""
+"Popup rectangular border in Sugar showing View icons and active Activities "
+"on the top; friend icons on the right; hardware icons on the bottom; and "
+"icons for open documents on the left. The frame is activated by putting the "
+"mouse cursor into a corner of the screen, or optionally the side (see My "
+"Settings), or by pressing the Frame button on the top right of an XO "
+"keyboard. Moving the mouse cursor away from the activation area or pressing "
+"the Frame button while the Frame is active dismisses the Frame."
+msgstr ""
+
+# 2b242b910b1f4450831df2ddd695c0c2
+#: ../source/glossary.rst:21
+msgid "Group view"
+msgstr ""
+
+# 9da65ea5ee3b4bc4a6afd5ad84006a76
+#: ../source/glossary.rst:23
+msgid ""
+"View showing colored XO icons of the user's friends who are connected, and "
+"grayed-out icons for those who are not."
+msgstr ""
+
+# ecb4567040264bb88b5c5bc52bdbebde
+#: ../source/glossary.rst:25
+msgid "Home view"
+msgstr ""
+
+# 749d47fe12d94b03bde60360eaac8587
+#: ../source/glossary.rst:27
+msgid ""
+"View showing XO icon, an icon for the current Activity (or journal if no "
+"Activity has been started), and a ring or other arrangement of available "
+"Activity icons."
+msgstr ""
+
+# 1a62688916254f2780a16dff5b265f53
+#: ../source/glossary.rst:29
+msgid "Hover Menu"
+msgstr ""
+
+# c136de4f87ec4902bbb33cac7ace3a99
+#: ../source/glossary.rst:31
+msgid ""
+"A menu that pops up when the mouse cursor is held over an icon for one "
+"second, and expands further after one more second. A feature that many users "
+"cannot discover without being told about it."
+msgstr ""
+
+# d836d81aaf2947ef9b343bc18308c264
+#: ../source/glossary.rst:33
+msgid "Index"
+msgstr ""
+
+# 582b9cc0ee3c40a4851902df431f69ea
+#: ../source/glossary.rst:35
+msgid "Synonym for Glossary."
+msgstr ""
+
+# 9f27b09cdb984776bb42777f4b3679b5
+#: ../source/glossary.rst:37
+msgid "Journal"
+msgstr ""
+
+# f0ae34235cbe4d31908d065afb46941d
+#: ../source/glossary.rst:39
+msgid ""
+"A browser for saved software sessions and documents, allowing sorting, "
+"searching, and access to metadata."
+msgstr ""
+
+# 8cb83f7079b1455ea6eb54ded204aa7f
+#: ../source/glossary.rst:41
+msgid "Menu Bar"
+msgstr ""
+
+# 3e1adda9723e48adb869e57ed50408ef
+#: ../source/glossary.rst:43
+msgid ""
+"A rectangular area at the top of the screen containing text labels or icons, "
+"where clicking with the mouse results in the appearance of a drop-down menu "
+"containing further labels or icons for Activity functions available to the "
+"user."
+msgstr ""
+
+# 1b9a9bbde48244d0bd699101975f181c
+#: ../source/glossary.rst:45
+msgid "Metadata"
+msgstr ""
+
+# 257ad1369a3b48d189ddb2abd236e0a6
+#: ../source/glossary.rst:47
+msgid ""
+"Information about a file, such as file type, software used to create it, "
+"description, tags, a screen shot, date and time, and more. The Journal "
+"maintains metadata about saved documents and software sessions."
+msgstr ""
+
+# fe5f705d51fc44f8993df6f5436275a0
+#: ../source/glossary.rst:49
+msgid "Neighborhood view"
+msgstr ""
+
+# 7913ce4beb274f898e08609ed4df3b1d
+#: ../source/glossary.rst:51
+msgid ""
+"View showing wireless mesh and access points, connected XOs, and shared "
+"Activities."
+msgstr ""
+
+# 21eb6ebd29524ba4b05034543e6ed677
+#: ../source/glossary.rst:53
+msgid "OS"
+msgstr ""
+
+# 6ec9a7a944e446cc9dcf22bb103bca72
+#: ../source/glossary.rst:55
+msgid ""
+"Operating System. This describes the Software that runs on your XO laptop."
+msgstr ""
+
+# ae28e4b2ff29488aa9a969a38009644d
+#: ../source/glossary.rst:57
+msgid "School server (XS)"
+msgstr ""
+
+# 30874c2a99284b9790d8f56dcbb28831
+#: ../source/glossary.rst:59
+msgid ""
+"A computer designed by OLPC for use in schools to hold student backups and "
+"content, and to provide school administration server software such as Moodle."
+msgstr ""
+
+# 2ff8b8b62b4e46fda349fdce3ccbb243
+#: ../source/glossary.rst:61
+msgid "Sugar"
+msgstr ""
+
+# b1b986440d364ed8a8561af76608282e
+#: ../source/glossary.rst:63
+msgid ""
+"Education software for the One Laptop Per Child project, designed to run on "
+"the XO and on other computers running the Linux operating system."
+msgstr ""
+
+# 496f2e07acfa4f128c277eb9788349c0
+#: ../source/glossary.rst:65
+msgid "Toolbar"
+msgstr ""
+
+# b44314e191de40a59d62ad2c0bb1ce85
+#: ../source/glossary.rst:67
+msgid ""
+"A rectangular area of the screen, usually at the top, containing icons "
+"representing Activity functions available to the user."
+msgstr ""

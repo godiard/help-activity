@@ -1,0 +1,123 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 6b84f018fde54fe194d58f6e6e2c85de
+#: ../source/getting_support.rst:3
+msgid "Getting Support"
+msgstr ""
+
+# 963629456f964a77aebb33c6b262d8b0
+#: ../source/getting_support.rst:5
+msgid ""
+"One Laptop per Child is an education project, not a laptop project. With "
+"connected laptops, learners are liberated to actively engage with others "
+"with similar interests in cultures of learning by doing without being "
+"limited by time or space. If you are having hardware or software problems "
+"with your XO, remember that its design is to encourage you to learn new "
+"things by trying to solve problems on your own!"
+msgstr ""
+
+# c4e8562c6798437f8be6500db1f487c4
+#: ../source/getting_support.rst:7
+msgid ""
+"That said, an entire community built this XO and everything on it, and we "
+"want to help you with it. Our OLPC global community of volunteers provide "
+"software and hardware troubleshooting and support. This section will help "
+"tell you where to find Support when you are really stuck! OLPC has proven "
+"that volunteer-driven support works, often with far more heartfelt caring "
+"than any corporate help desk!"
+msgstr ""
+
+# 5d196586880248acbeae37315705db3c
+#: ../source/getting_support.rst:9
+msgid ""
+"If you have questions about the XO, ask a teacher for help, a friend, or "
+"search on the Internet. If you have a question about your XO, there is a "
+"very good chance it is already answered within our expanding Support FAQ / "
+"RTFM knowledge base:"
+msgstr ""
+
+# 86e0438fd66741569cfae52ba7bfa4dc
+#: ../source/getting_support.rst:11
+msgid "http://wiki.laptop.org/go/Support_FAQ"
+msgstr ""
+
+# 00c465601f504456a57d29b6c3e50b2a
+#: ../source/getting_support.rst:13
+msgid ""
+"Next try looking at http://support.laptop.org extensive helpful guidance for "
+"exploring and fixing your XO, allowing you to solve challenging issues right "
+"alongside others. Specifically, check out:"
+msgstr ""
+
+# 5b961fcb23db4c1a895b9ed70c878480
+#: ../source/getting_support.rst:15
+msgid "Getting Started: http://laptop.org/start"
+msgstr ""
+
+# f29571ef1b1746f6956cbd21e0bb2114
+#: ../source/getting_support.rst:17
+msgid "Email Lists: http://lists.laptop.org"
+msgstr ""
+
+# 0fb2bafe90d24664b1d1667754e7b4af
+#: ../source/getting_support.rst:19
+msgid "Live Chat: http://forum.laptop.org/chat"
+msgstr ""
+
+# 690cd89403a6497cb3bd8e1b2d613172
+#: ../source/getting_support.rst:21
+msgid "OLPC Community: Wiki http://wiki.laptop.org"
+msgstr ""
+
+# 0dd8f67f2f28496db9cba04bba407ad0
+#: ../source/getting_support.rst:23
+msgid ""
+"If you are still unable to find an answer online, please email help@laptop."
+"org."
+msgstr ""
+
+# 736df9a79e4e455ea0a8838a72456fa3
+#: ../source/getting_support.rst:25
+msgid ""
+"Did you know that our volunteers staff a live Help Chat site 24/7, on the "
+"Internet? Click here: http://forum.laptop.org/chat Login with the color-name "
+"shown; that's guest ID. Type your question in the chat line at the bottom. "
+"You may have to wait for a response as our volunteers come in and out. If "
+"you are patient, we can probably help you! To learn more about what Internet "
+"Relay Chat (the system that makes this possible) is, click here: http://wiki."
+"laptop.org/go/IRC"
+msgstr ""
+
+# 36c2d132aaf04c8db69c0c445d9c2943
+#: ../source/getting_support.rst:27
+msgid ""
+"We would also like to make special mention of our Support Gang, where an "
+"enthusiastic group of volunteers assist XO users all over the world. If you "
+"are impressed with the passion and hard work of our volunteers, please "
+"consider giving back, by joining our dedicated community. Take a look at the "
+"link below. We would welcome your participation! http://wiki.laptop.org/go/"
+"Support_Gang http://wiki.laptop.org/go/Support_FAQ Be sure to review the "
+"Frequently Asked Questions (FAQ) link above. Many of us join and \"learn by "
+"doing.\""
+msgstr ""
+
+# 26739645f0bd4a8fb7f1e5c562f98b41
+#: ../source/getting_support.rst:29
+msgid "Thanks very much! OLPC Support Gang"
+msgstr ""

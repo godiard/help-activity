@@ -1,0 +1,1511 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 76823ea40ae542dd86f25bcff8f9e8db
+#: ../source/turtleart.rst:3
+msgid "Turtle Art"
+msgstr ""
+
+# 823b04c903d143fe90a8863fe54878ba
+#: ../source/turtleart.rst:6
+msgid "About"
+msgstr ""
+
+# 72e9b6c106f24f8ea95d3df67bde707d
+#: ../source/turtleart.rst:10
+msgid ""
+"Turtle Art, also known as Turtle Blocks, is an activity with a Logo-inspired "
+"graphical \"turtle\" that draws colorful art based on snap-together visual "
+"programming elements. Its \"low floor\" provides an easy entry point for "
+"beginners. It also has \"high ceiling\" programming, graphics, mathematics, "
+"and Computer Science features which will challenge the more adventurous "
+"student."
+msgstr ""
+
+# dcf6696f12bc4bfe83e92d1bbfbd3a51
+#: ../source/turtleart.rst:13
+msgid "Where to get Turtle Art"
+msgstr ""
+
+# 8145a701914d4bb8bb002da7c1b2da77
+#: ../source/turtleart.rst:15
+msgid ""
+"Is included in the OLPC image, and can be downloaded from the `Sugarlabs "
+"Activities repository <http://activities.sugarlabs.org/en-US/sugar/"
+"addon/4027>`_"
+msgstr ""
+
+# feb998f2aabf4493974a4e82a2ec630d
+#: ../source/turtleart.rst:19
+msgid ""
+"There are two inter-compatible programs: Turtle Art and Turtle Blocks. "
+"Turtle Art, which closely parallels the Java version of Turtle Art "
+"maintained by Brian Silverman, offers a small subset of the functionality of "
+"Turtle Blocks. Turtle Blocks is the version included in the Sugar "
+"distribution. Sugar users probably want to use Turtle Blocks rather than "
+"Turtle Art. (Also see Turtle Confusion, a collection of programming "
+"challenges designed by Barry Newell.)"
+msgstr ""
+
+# fefcf77a1d3a4b90a6e1511f6b5575ee
+#: ../source/turtleart.rst:22
+msgid "Using Turtle Art"
+msgstr ""
+
+# 0d9158cd999f4215ad99b5afa6b0deca
+#: ../source/turtleart.rst:26
+msgid ""
+"Start by clicking on (or dragging) blocks from the Turtle palette. Use "
+"multiple blocks to create drawings; as the turtle moves under your control, "
+"colorful lines are drawn."
+msgstr ""
+
+# 2628e3566f764209a6f9594893c0ac4d
+#: ../source/turtleart.rst:28
+msgid ""
+"You add blocks to your program by clicking on or dragging them from the "
+"palette to the main area. You can delete a block by dragging it back onto "
+"the palette. Click anywhere on a \"stack\" of blocks to start executing that "
+"stack or by clicking in the Rabbit (fast) , Turtle (slow) or Bug (debug) "
+"buttons |rabit-turtle| on the Project Toolbar."
+msgstr ""
+
+# ee4b853f024a4eef940a9a1b18ee7d01
+#: ../source/turtleart.rst:33
+msgid "Toolbars"
+msgstr ""
+
+# e091e828697d4da0aa03381a9f3bde0d
+#: ../source/turtleart.rst:36
+msgid "Main Toolbar"
+msgstr ""
+
+# 0eec972228d74fcf8f6baf847de380e9
+# 277fef546f78427aa3cdf4428e7cca9e
+# 2ca5a19afa9b438c999cfe06b92ab14c
+# 6ab6afc3b4d24eb4b7b54228238c9fcf
+#: ../source/turtleart.rst:40 ../source/turtleart.rst:68
+#: ../source/turtleart.rst:95 ../source/turtleart.rst:105
+msgid "From left to right:"
+msgstr ""
+
+# 7f817f7b691e42958dadeeceb2448323
+#: ../source/turtleart.rst:42
+msgid "Activity toolbar (includes sharing; saving/loading options);"
+msgstr ""
+
+# d2c66c5ffe1841908bcd97f5a1111e2f
+#: ../source/turtleart.rst:43
+msgid "Edit toolbar (including copy and paste);"
+msgstr ""
+
+# 9b66b464fafe40498da16fb6073cd5eb
+#: ../source/turtleart.rst:44
+msgid ""
+"View toolbar (including full-screen, coordinate overlays; turtle status, "
+"etc.);"
+msgstr ""
+
+# 7764b206fcc6412ea976c38f4942765e
+#: ../source/turtleart.rst:45
+msgid "Palette toolbar (including all programming blocks);"
+msgstr ""
+
+# 87cbeeecf1da48dc91f8977bcfe7c742
+#: ../source/turtleart.rst:46
+msgid "erase canvas;"
+msgstr ""
+
+# f38688c731234e6a8e6bfbb2d11c7aea
+#: ../source/turtleart.rst:47
+msgid "run project fast (rabbit);"
+msgstr ""
+
+# 96b256e122444920814bdb8591702d31
+#: ../source/turtleart.rst:48
+msgid "run project slow (snail);"
+msgstr ""
+
+# 867e857e0afa44da97b326314f8327fd
+#: ../source/turtleart.rst:49
+msgid "stop project;"
+msgstr ""
+
+# c7fbaa1e7329424385981519113af2b5
+#: ../source/turtleart.rst:50
+msgid "save a snapshot (save a copy of the current state of the project);"
+msgstr ""
+
+# 75c6ea9fd67b45c8ade5dcdaff6d515f
+#: ../source/turtleart.rst:51
+msgid "load examples;"
+msgstr ""
+
+# 8c47b5c36c8440e9a65c75b54f285a7f
+#: ../source/turtleart.rst:52
+msgid "display help palette;"
+msgstr ""
+
+# 028ac4de59d048a4b2d69afeff1285dd
+#: ../source/turtleart.rst:53
+msgid "stop activity"
+msgstr ""
+
+# 89cd4b50fc234bdfa8e5695c8979e581
+#: ../source/turtleart.rst:55
+msgid ""
+"Keyboard short cuts for the above: Alt+ palette; blocks; run; walk; stop; "
+"erase; e.g., Alt+e will erase the screen. Esc will return from full-screen "
+"mode."
+msgstr ""
+
+# 1e9b01ee1a384372917ec6a584593bca
+#: ../source/turtleart.rst:57
+msgid ""
+"**Notes:** The run buttons are tied to the Start Block. If no Start Block is "
+"used, then all blocks are run when either run button is clicked. The \"rabbit"
+"\" button runs the blocks at maximum speed. The \"snail\" button pauses and "
+"displays the turtle and block values between each step."
+msgstr ""
+
+# 2df73cfd0ef045d69b12a1478068f560
+#: ../source/turtleart.rst:59
+msgid ""
+"On older versions of Sugar (e.g., 0.84), the main toolbar will look like "
+"this:"
+msgstr ""
+
+# ec41073b3ec64b6a81d42bd6867f5210
+#: ../source/turtleart.rst:64
+msgid "Project Toolbar"
+msgstr ""
+
+# f6ad5360d428453b93a8727b356a76c4
+#: ../source/turtleart.rst:70
+msgid "Project title;"
+msgstr ""
+
+# 060887bcbebb4fb187bcd04808e64ddf
+#: ../source/turtleart.rst:71
+msgid "Write to Journal (on newer versions of Sugar)"
+msgstr ""
+
+# cf1506f76b654fddb607033811ef196d
+#: ../source/turtleart.rst:72
+msgid "Keep button (not shown; only appears on older Sugar systems)"
+msgstr ""
+
+# 37fb343c593e43b496492d3b29412310
+#: ../source/turtleart.rst:73
+msgid "Share button;"
+msgstr ""
+
+# 2330c18591b74ae89272bd56fd8671c0
+#: ../source/turtleart.rst:74
+msgid ""
+"Share blocks; shown in disable state. Used to share stacks of blocks between "
+"collaborators."
+msgstr ""
+
+# 328c7e410a1f43c9886da1a1086b9b99
+#: ../source/turtleart.rst:75
+msgid "Save as image;"
+msgstr ""
+
+# cdc479ce6be74ddd840f4f4ac788a7a8
+#: ../source/turtleart.rst:76
+msgid "Save as Logo;"
+msgstr ""
+
+# 3830ec95e2504e2aba0a7be492739e1c
+#: ../source/turtleart.rst:77
+msgid "Load a previously saved project from the Sugar Journal;"
+msgstr ""
+
+# f91968a319514c149268302f7ef1e0d1
+#: ../source/turtleart.rst:78
+msgid "Load Python code into a programmable block"
+msgstr ""
+
+# b9eec84786794ac99769ab20053cfd69
+#: ../source/turtleart.rst:84
+msgid "**Notes:**"
+msgstr ""
+
+# e0a90e38a3594a6e9096632a4953e949
+#: ../source/turtleart.rst:81
+msgid ""
+"On older Sugar systems, these controls appear on the Import/Export toolbar."
+msgstr ""
+
+# 8ad315a7a1454668a2a316d1847d425d
+#: ../source/turtleart.rst:83
+msgid "On smaller screens, the load/save buttons are shown on a palette."
+msgstr ""
+
+# 6895ad149bba4e7bad557b606b4a62ab
+#: ../source/turtleart.rst:84
+msgid ""
+"To share a stack, click on the share button. The cursor will change to the "
+"hand shape Ta-hand-cursor.png. Place the cursor on any block or stack of "
+"blocks and click. The blocks will be shared and the cursor will change back "
+"to the arrow shape."
+msgstr ""
+
+# 9fd7f1038d6947eebeffb585f1617a46
+#: ../source/turtleart.rst:89
+msgid "Edit Toolbar"
+msgstr ""
+
+# fede8350d5014e09a1bb68fae2700456
+#: ../source/turtleart.rst:93
+msgid ""
+"The Edit toolbar is used to copy stacks of blocks to the clipboard and to "
+"paste stacks from the clipboard. To copy a stack, click on the copy button "
+"or type Ctrl-c. The cursor will change to the hand shape Ta-hand-cursor.png. "
+"Place the cursor on any block or stack of blocks and click. The blocks will "
+"be copied to the Sugar clipboard and the cursor will change back to the "
+"arrow shape. To paste from the clipboard, type Ctrl-v or click the paste "
+"button."
+msgstr ""
+
+# ee5a638487c446a58225826bd8087a9e
+#: ../source/turtleart.rst:97
+msgid "Copy"
+msgstr ""
+
+# 0a35f5fb35b94579a1b2a322da7f91b7
+#: ../source/turtleart.rst:98
+msgid "Paste"
+msgstr ""
+
+# eb27653efa9647fdb1c83c651f2b1bd3
+#: ../source/turtleart.rst:101
+msgid "View Toolbar"
+msgstr ""
+
+# 8bf81427bfb24847913d91f2736fafb8
+#: ../source/turtleart.rst:107
+msgid "Full-screen button;"
+msgstr ""
+
+# be9ad8d4c7c146d68a4b87269da57d96
+#: ../source/turtleart.rst:108
+msgid "Cartesian-coordinate grid;"
+msgstr ""
+
+# 09c6d0a32d0447d3a38ba82333a6dbfe
+#: ../source/turtleart.rst:109
+msgid "polar-coordinate grid;"
+msgstr ""
+
+# 4f2af1cf60e54e3a915ff3d3f4e0725c
+#: ../source/turtleart.rst:110
+msgid "not shown: centimeter-coordinate grid (XO-only);"
+msgstr ""
+
+# b6afe6ef2920468d9f9b740c0576ab97
+#: ../source/turtleart.rst:111
+msgid "display of x,y coordinates, heading of turtle;"
+msgstr ""
+
+# 29afd55903c64cdb861891c8daced00c
+#: ../source/turtleart.rst:112
+msgid "Rescale-coordinates button;"
+msgstr ""
+
+# 6acf5cb1d4ee426bbd1f67e4b2210976
+#: ../source/turtleart.rst:113
+msgid "Grow block size;"
+msgstr ""
+
+# 565f7a90af8f41dd876ca97d4732d981
+#: ../source/turtleart.rst:114
+msgid "Shrink block size"
+msgstr ""
+
+# c608569fdc244573ad73c31487ede321
+#: ../source/turtleart.rst:115
+msgid "Disable/enable hover help"
+msgstr ""
+
+# 7c2022fca7ae4b13baa223824b3e821c
+#: ../source/turtleart.rst:118
+msgid "Palettes Toolbar"
+msgstr ""
+
+# 2e8324a017e141cdbbc0e3787da2568e
+#: ../source/turtleart.rst:120
+msgid ""
+"The palette menus are revealed by clicking on the Block icon on the main "
+"toolbar. (On older Sugar systems, select the Projects toolbar. When running "
+"Turtle Art from GNOME, the palettes are visible by default.)"
+msgstr ""
+
+# 08b723ee821640c09c8ccb34927bffe7
+#: ../source/turtleart.rst:124
+msgid ""
+"There are ten palettes of program elements available for program "
+"construction: Turtle movements; Pen attributes; Color attributes; Numeric "
+"operators; Logical operators; Logical blocks; Sensor blocks; Media blocks; "
+"Customization functions; and Presentation blocks. An eleventh palette is "
+"used for restoring blocks from the trash."
+msgstr ""
+
+# 5e6e88f1c08f4eafb317727d05e043f8
+#: ../source/turtleart.rst:126
+msgid ""
+"**Note:** Additional palettes may be loaded by plugin extensions to Turtle "
+"Blocks."
+msgstr ""
+
+# 1f8cae2a5c29435baa329a998d02da66
+#: ../source/turtleart.rst:128
+msgid ""
+"Blocks are dragged from the palette onto the canvas surface. To dispose of a "
+"block, drag it back onto the palette. (It will be placed onto the trash "
+"palette.)"
+msgstr ""
+
+# 13af8c9e042c4e06af3ea05410786477
+#: ../source/turtleart.rst:131
+msgid ""
+"The |Showblocks| button, which replaces the Stop button on the main toolbar "
+"while the program is executing, is used to reveal the program blocks. "
+"Individual palettes can be hidden by clicking on their highlighted tab."
+msgstr ""
+
+# 0db68cb3bdc24282ac4dc1abe976f519
+#: ../source/turtleart.rst:136
+msgid "Turtle Palette"
+msgstr ""
+
+# 5a369fa9f42b42c8a36f6a88908830d0
+#: ../source/turtleart.rst:140
+msgid "These blocks are used to control the movements of the turtle."
+msgstr ""
+
+# 44fdc7a3f2cb469b90d36ba12a7108e8
+#: ../source/turtleart.rst:142
+msgid "forward: move turtle forward"
+msgstr ""
+
+# 0058d786aa97459ca0b88a414921c5d0
+#: ../source/turtleart.rst:143
+msgid "back: move turtle backward"
+msgstr ""
+
+# 3acd55a6bbbf487a9dd464fdf4d332f1
+#: ../source/turtleart.rst:144
+msgid ""
+"clean: clear the screen and position the turtle in the center of the screen, "
+"pen down, color red, heading 0"
+msgstr ""
+
+# dde4fdae92944038b1243f28b7d7c030
+#: ../source/turtleart.rst:145
+msgid "left: rotate turtle counterclockwise"
+msgstr ""
+
+# 0acd601661fa4d9fbd7210fe7e107421
+#: ../source/turtleart.rst:146
+msgid "right: rotate turtle clockwise"
+msgstr ""
+
+# 10ceb9afecd74d8a92c3ddbb893c1ec4
+#: ../source/turtleart.rst:147
+msgid "arc: move turtle along an arc"
+msgstr ""
+
+# 2219c0eb7a9348a0a9bdefa89fe3146a
+#: ../source/turtleart.rst:148
+msgid "set xy: set turtle x,y position (0,0) is the center of the screen"
+msgstr ""
+
+# c0de1e296ee442afbfad8f6a098dfd2d
+#: ../source/turtleart.rst:149
+msgid "seth: set turtle heading"
+msgstr ""
+
+# bd3f5c763f2d457fa95bdf1705f65995
+#: ../source/turtleart.rst:150
+msgid ""
+"xcor: holds current x-coordinate value of the turtle (can be used in place "
+"of a number block)"
+msgstr ""
+
+# d15f4b01ac1f4b828148302b7dd19c98
+#: ../source/turtleart.rst:151
+msgid ""
+"ycor: holds current y-coordinate value of the turtle (can be used in place "
+"of a number block)"
+msgstr ""
+
+# 1f9f5406d2414a9e9af543595bbeb70d
+#: ../source/turtleart.rst:152
+msgid ""
+"heading: holds current heading value of the turtle (can be used in place of "
+"a number block)"
+msgstr ""
+
+# 6d1b8921472f4e90a01dcfc0b0474dfd
+#: ../source/turtleart.rst:155
+msgid "Pen Palette"
+msgstr ""
+
+# a68b5354828d4697b459ebae5c9193d2
+#: ../source/turtleart.rst:159
+msgid "These blocks are used to control the attributes of the turtle's pen."
+msgstr ""
+
+# 3eb2d2dd1aa54e26b64198a467d06228
+#: ../source/turtleart.rst:161
+msgid "pen up: turtle will not draw when moved"
+msgstr ""
+
+# 3ab39341e4194c68bb5b7d8356236f95
+#: ../source/turtleart.rst:162
+msgid "pen down: turtle will draw when moved"
+msgstr ""
+
+# 4a51066a1a5849e98821e34df104116d
+#: ../source/turtleart.rst:163
+msgid "set pen size: sets the width of the line drawn by the turtle"
+msgstr ""
+
+# 5f654f2c3ae64651992d1b89713c112b
+#: ../source/turtleart.rst:164
+msgid ""
+"fill screen: fill the screen with a color/shade and reposition the turtle in "
+"the center of the screen"
+msgstr ""
+
+# cdcec0b5b5c149ba9e766930e414a56e
+#: ../source/turtleart.rst:165
+msgid ""
+"pen size: width of the line drawn by the turtle (can be used in place of a "
+"number block)"
+msgstr ""
+
+# 62596ec0ec50474c90df0ee5e1882a76
+#: ../source/turtleart.rst:166
+msgid "set color: sets the pen color"
+msgstr ""
+
+# f5b917ba7f264188807e6d38c1c04a32
+#: ../source/turtleart.rst:167
+msgid "set shade: sets the pen shade"
+msgstr ""
+
+# 9967879556224f639d2098501c4932d5
+#: ../source/turtleart.rst:168
+msgid ""
+"set gray: sets the gray-level of the pen (Only available in Turtle Blocks)"
+msgstr ""
+
+# 3c3c1186072a462eb9216476ad1aaebc
+#: ../source/turtleart.rst:169
+msgid "color: current pen color (can be used in place of a number block)"
+msgstr ""
+
+# 36e9805b196c48a4ad119384d266fa24
+#: ../source/turtleart.rst:170
+msgid "shade: current pen shade (can be used in place of a number block)"
+msgstr ""
+
+# 2a60dea498204b628574b75be00ecac4
+#: ../source/turtleart.rst:171
+msgid ""
+"gray: current pen gray level (can be used in place of a number block) (Only "
+"available in Turtle Blocks)"
+msgstr ""
+
+# ab7cc318b0c94c4681b50b310c2c0ae6
+#: ../source/turtleart.rst:172
+msgid "start fill: starts a filled polygon (straight sides, not arcs)"
+msgstr ""
+
+# d821211c2c9e47a89ac0768ee7773408
+#: ../source/turtleart.rst:173
+msgid "end fill: ends a fill polygon (straight sides, not arcs)"
+msgstr ""
+
+# 7d530e2fdc604c5696e5c6e43cfecd7b
+#: ../source/turtleart.rst:176
+msgid "Color Palette"
+msgstr ""
+
+# 3cd24b2adb284ea783078a8b87f6c6f1
+#: ../source/turtleart.rst:180
+msgid ""
+"These blocks can be used with the set-pen-color block in place of a number "
+"block."
+msgstr ""
+
+# 3d28781e787e432ea308ec35bf5c7462
+#: ../source/turtleart.rst:183
+msgid "Numbers Palette"
+msgstr ""
+
+# 5539ea673fe64174a28adf10b9423eb3
+#: ../source/turtleart.rst:187
+msgid "These blocks are arithmetic and boolean operators."
+msgstr ""
+
+# ff697f85132f4e6eae65a9b876b75441
+#: ../source/turtleart.rst:189
+msgid ""
+"addition: adds two numeric inputs (also can be used to concatenate strings)"
+msgstr ""
+
+# 10be81a829c14921819a4d9ce3b48312
+#: ../source/turtleart.rst:190
+msgid "subtraction: subtracts the bottom numeric input from the top input"
+msgstr ""
+
+# 3c7a80655a474c33ab91ec75b6f4ca40
+#: ../source/turtleart.rst:191
+msgid "multiplication: multiplies two numeric inputs"
+msgstr ""
+
+# a8f5c419143446e682e169bd29b6d20b
+#: ../source/turtleart.rst:192
+msgid "division: divided top input (numerator) by bottom input (denominator)"
+msgstr ""
+
+# e8a2aa3a99df45d1afd2d5c35db9ed10
+#: ../source/turtleart.rst:193
+msgid "identity: identity function (used for spacing blocks)"
+msgstr ""
+
+# d444712b4c314c679b301a428134558a
+#: ../source/turtleart.rst:194
+msgid ""
+"modulo (remainder): calculates remainder when dividing top input by the "
+"bottom input"
+msgstr ""
+
+# 4be402e853004044889938d497de7d3e
+#: ../source/turtleart.rst:195
+msgid "square root (Only available with Turtle Blocks)"
+msgstr ""
+
+# 33a3d716b0ac423ab68129cafff4b30a
+#: ../source/turtleart.rst:196
+msgid ""
+"random number: generates a random integer between the minimum and maximum "
+"values"
+msgstr ""
+
+# 9c8153aa1edb41159cd4f5eb744c9a92
+#: ../source/turtleart.rst:197
+msgid "number block: a numeric input"
+msgstr ""
+
+# 5c9c3ca137954b4f9008ae00fc365b52
+#: ../source/turtleart.rst:198
+msgid "greater than: boolean greater than operator (used with flow blocks)"
+msgstr ""
+
+# 63b716af6dd54ab0b51c2bc29d40caf7
+#: ../source/turtleart.rst:199
+msgid "less than: boolean less than operator (used with flow blocks)"
+msgstr ""
+
+# 2e945d826d284bf39e033bdfa05e1ac3
+#: ../source/turtleart.rst:200
+msgid "equal to: boolean equal to operator (used with flow blocks)"
+msgstr ""
+
+# 390afc203fbf4ac4b61f1d9a9ebd1d8c
+#: ../source/turtleart.rst:201
+msgid "not: boolean not (Only available with Turtle Blocks)"
+msgstr ""
+
+# fea7d4f656264e948373c3e244e5cd73
+#: ../source/turtleart.rst:202
+msgid "and: boolean and (Only available with Turtle Blocks)"
+msgstr ""
+
+# 873707bda3a341f38e331215ab56c447
+#: ../source/turtleart.rst:203
+msgid "or: boolean or (Only available with Turtle Blocks)"
+msgstr ""
+
+# a7d96eb1d7484933b1cff3d08a7cc784
+#: ../source/turtleart.rst:206
+msgid "Flow Palette"
+msgstr ""
+
+# bcb610f7f36243f7ab5398e8b8c848aa
+#: ../source/turtleart.rst:210
+msgid "These blocks control program flow."
+msgstr ""
+
+# 3daa133bb84b4660b615912f0e320be5
+#: ../source/turtleart.rst:212
+msgid "wait: pause program execution (unit is seconds)"
+msgstr ""
+
+# edce057ffddd4370b1c12c7414dfa1d4
+#: ../source/turtleart.rst:213
+msgid "forever: continuously repeat execute stack under the right flow"
+msgstr ""
+
+# 54c9454c675d435d898cebf12e7594dd
+#: ../source/turtleart.rst:214
+msgid ""
+"repeat: repeat the execution of stack under the right flow a specified "
+"number of times"
+msgstr ""
+
+# a4754632648b49d3a765f8438fadab55
+#: ../source/turtleart.rst:215
+msgid ""
+"if/then: conditional execution of the stack under the right flow (uses "
+"boolean operators found on the Number palette)"
+msgstr ""
+
+# 590a5a331a17442aabb8e48d6124e134
+#: ../source/turtleart.rst:216
+msgid ""
+"if/then/else: conditional execution of the stack under the center and right "
+"flows (uses boolean operators found on the Number palette)"
+msgstr ""
+
+# 04bfd74bb9004123a3b6d0e852066c18
+#: ../source/turtleart.rst:217
+msgid "vertical spacer"
+msgstr ""
+
+# 58e822f783a04a2d8ef6ee2bb025c393
+#: ../source/turtleart.rst:218
+msgid "stop stack: interrupt execution"
+msgstr ""
+
+# 98dc43cd601543f4ac074b3b67fa4fd5
+#: ../source/turtleart.rst:219
+msgid ""
+"while: execute stack under right flow while the condition is true (uses "
+"boolean operators found on the Number palette) (Only available with Turtle "
+"Blocks)"
+msgstr ""
+
+# 1c7cef55eeea4bc2a41c4457feb6c9e3
+#: ../source/turtleart.rst:220
+msgid ""
+"until: execute stack under right flow until the condition is true (uses "
+"boolean operators found on the Number palette) (Only available with Turtle "
+"Blocks)"
+msgstr ""
+
+# 5b66d90efadf44cc80205b941b8bede6
+#: ../source/turtleart.rst:222
+msgid ""
+"**Note:** Nesting while and/or until blocks is not always reliable. If you "
+"encounter an error, try putting the nested block in a separate stack, "
+"accessed with an action block."
+msgstr ""
+
+# a3af757827184ac883dec3df648c1b08
+#: ../source/turtleart.rst:225
+msgid "Blocks Palette"
+msgstr ""
+
+# 1685b33616454b169c843c153442bbec
+#: ../source/turtleart.rst:229
+msgid "These blocks are for defining variables and subroutines."
+msgstr ""
+
+# 7c353158facd423a9b68d377271ba453
+#: ../source/turtleart.rst:231
+msgid "start: connects action to toolbar 'Run' button"
+msgstr ""
+
+# 7beb150912194f16ace614be40bf3e52
+#: ../source/turtleart.rst:232
+msgid ""
+"store in box 1: store a number, string, or media object in box 1 (Only "
+"available with Turtle Blocks)"
+msgstr ""
+
+# 9d0225b2d19044d1b8c1c575b25f44e6
+#: ../source/turtleart.rst:233
+msgid ""
+"store in box 2: store a number, string, or media object in box 2 (Only "
+"available with Turtle Blocks)"
+msgstr ""
+
+# 0df31d3a4a1c4a5686fda12d5661d160
+#: ../source/turtleart.rst:234
+msgid "text: string input"
+msgstr ""
+
+# 2a9f493d740f4cc19238dc4db22f7c3d
+#: ../source/turtleart.rst:235
+msgid ""
+"box 1: current value of box 1 (can be used in place of a number block) (Only "
+"available with Turtle Blocks)"
+msgstr ""
+
+# 153a41016eb84d5e88c13db7c308684c
+#: ../source/turtleart.rst:236
+msgid ""
+"box 2: current value of box 2 (can be used in place of a number block) (Only "
+"available with Turtle Blocks)"
+msgstr ""
+
+# d5613dc8150448a89ba66c722700a6eb
+#: ../source/turtleart.rst:237
+msgid ""
+"box: current value of named box (can be used in place of a number block)"
+msgstr ""
+
+# a9c9abcde5bf465fb53c4ac114db2083
+#: ../source/turtleart.rst:238
+msgid "store in: store a number, string, or media object in a named box"
+msgstr ""
+
+# de41997f0e1848feb17c193eb6d540f1
+#: ../source/turtleart.rst:239
+msgid "action: top of named action stack"
+msgstr ""
+
+# 7cc32f853b0c422ba0cc8809760a9e8d
+#: ../source/turtleart.rst:240
+msgid "action 1: top of action 1 stack (Only available with Turtle Blocks)"
+msgstr ""
+
+# 3164c6ec5d1b4f26bbd03c372f9c59cc
+#: ../source/turtleart.rst:241
+msgid "action 2: top of action 2 stack (Only available with Turtle Blocks)"
+msgstr ""
+
+# a3977dd5e22949fc8e99a47207288804
+#: ../source/turtleart.rst:242
+msgid "action: execute named action stack"
+msgstr ""
+
+# 7e3bb6e8b112483bb1f9ceea4df9c828
+#: ../source/turtleart.rst:243
+msgid "action 2: execute action 2 stack (Only available with Turtle Blocks)"
+msgstr ""
+
+# 2548fa7996a44dc6a07518967b995fb9
+#: ../source/turtleart.rst:244
+msgid "action 1: execute action 1 stack (Only available with Turtle Blocks)"
+msgstr ""
+
+# 7cbf9caed3524e0db681008c23181065
+#: ../source/turtleart.rst:246
+msgid ""
+"**Note:** When a named action or named box block are used, new blocks appear "
+"on the palette that correspond to these names; e.g., if a top of action "
+"stack is rename, \"to square\", an action block, \"to square\" is added to "
+"the palette."
+msgstr ""
+
+# 6cb2575d8d804355b29f656a125852b8
+#: ../source/turtleart.rst:249
+msgid "Sensors Palette"
+msgstr ""
+
+# 6a379d682c0a408dbd614bbf0408a99e
+#: ../source/turtleart.rst:253
+msgid ""
+"query keyboard: check for keyboard input (results are stored in the keyboard "
+"block)"
+msgstr ""
+
+# 94e97ccc55b24430bf0f7bfea437c617
+#: ../source/turtleart.rst:254
+msgid ""
+"keyboard: current value of keyboard input (can be used in place of a number "
+"block)"
+msgstr ""
+
+# aa2d84e7cc094ce7ad95ee624a620f2a
+#: ../source/turtleart.rst:255
+msgid ""
+"read pixel: push the RGB value of the pixel under the turtle onto the FILO "
+"(blue is first, red is last)"
+msgstr ""
+
+# 2212307c20a94594a1278ac4130c7cb9
+#: ../source/turtleart.rst:256
+msgid "turtle sees: the \"palette color\" of the pixel under the turtle"
+msgstr ""
+
+# 1593a325510b4aa2b967e059387f8182
+#: ../source/turtleart.rst:257
+msgid "time: number of seconds since program began"
+msgstr ""
+
+# 0dd2746a64b64463ab4780c68decfbb0
+#: ../source/turtleart.rst:258
+msgid "sound: raw data from microphone ranging -32000 to 32000"
+msgstr ""
+
+# d7664dc8468e4f47973248a325e3823c
+#: ../source/turtleart.rst:259
+msgid "volume (loudness): ranging 0 to 32000"
+msgstr ""
+
+# c6c4891ce6af46c5a07c48c7c966ff41
+#: ../source/turtleart.rst:260
+msgid "pitch: the resolution is +-8Hz"
+msgstr ""
+
+# aba5e7e9f9ab4e55b7535e87b80205f2
+#: ../source/turtleart.rst:261
+msgid "brightness: average luminance seen through camera"
+msgstr ""
+
+# b3483a0347a544d5beadab4766411265
+#: ../source/turtleart.rst:262
+msgid "camera: grab image from camera"
+msgstr ""
+
+# 7091724198de452ebe15293f73e0b7d4
+#: ../source/turtleart.rst:263
+msgid "button down: current state of the mouse button (1 == down; 0 == ip)"
+msgstr ""
+
+# 0ce6d24a530d4e26b4d9a59cbd70becb
+#: ../source/turtleart.rst:264
+msgid "mouse x: x position of mouse"
+msgstr ""
+
+# 51f77a10fa2b4f56a7bf024a2a5b58b6
+#: ../source/turtleart.rst:265
+msgid "mouse y: y position of mouse"
+msgstr ""
+
+# dec7aef9c5b34bb187d279b9578cef2b
+#: ../source/turtleart.rst:267
+msgid "The OLPC XO can measure external inputs with its microphone jack:"
+msgstr ""
+
+# 4c56f30c8a154550be555d906ec87f7e
+#: ../source/turtleart.rst:269
+msgid ""
+"resistance: measurement range is 750 to 14k ohms, (OLPC XO1) and 2k ohms to "
+"open circuit (OLPC XO1.5)"
+msgstr ""
+
+# ca1551fce34f488bb6474d37b2b8ddbe
+#: ../source/turtleart.rst:270
+msgid ""
+"voltage: measurement range is DC 0.4V to 1.85V. (OLPC XO1) and 0.17V to 3.0V "
+"(OLPC XO1.5)"
+msgstr ""
+
+# 90eba565a3114b82b1a30b966097ea55
+#: ../source/turtleart.rst:272
+msgid "The OLPC XO 1.75 also includes an accelerometer."
+msgstr ""
+
+# d21e21abe0e94c088a7302d5cbbd8bf4
+#: ../source/turtleart.rst:274
+msgid ""
+"accelerate (not shown): measure the acceleration of the computer. Results "
+"are pushed to the stack and can be retrieved by using 3 'pop' blocks (one "
+"for X (horizontal), one for Y (vertical), and one for Z (forward/backward))"
+msgstr ""
+
+# 30d2f47422694562a9466710ffa64903
+#: ../source/turtleart.rst:276
+msgid ""
+"See `Using Turtle Art Sensors <http://wiki.sugarlabs.org/go/Activities/"
+"Turtle_Art/Using_Turtle_Art_Sensors>`_ for more details about the sensor "
+"blocks."
+msgstr ""
+
+# f1a57cd679d34f3dbf61b32913c65575
+#: ../source/turtleart.rst:279
+msgid "Media Palette"
+msgstr ""
+
+# 44b74f426d494cf0b5a0281bb79936bf
+#: ../source/turtleart.rst:283
+msgid ""
+"These are a collection of blocks used for displaying media objects, such as "
+"images from the Journal."
+msgstr ""
+
+# f9584adca329454485c7bf4483581de6
+#: ../source/turtleart.rst:285
+msgid ""
+"journal: Sugar Journal media object (used with show block) (also available "
+"in Turtle Art)"
+msgstr ""
+
+# 2cb0e2763169485c86b748928e47c215
+#: ../source/turtleart.rst:286
+msgid "audio: Sugar Journal media object (used with show block)"
+msgstr ""
+
+# 5642a0015f2142c4a7dcdb52bae21903
+#: ../source/turtleart.rst:287
+msgid "video: Sugar Journal media object (used with show block)"
+msgstr ""
+
+# b19b931d23d64355a2a986acfcf83e6b
+#: ../source/turtleart.rst:288
+msgid "description: Sugar Journal description field (used with show block)"
+msgstr ""
+
+# a837947e2e96449e991e66dbe94c338a
+#: ../source/turtleart.rst:289
+msgid ""
+"text: text string (used with show block; also used with box and action "
+"blocks)"
+msgstr ""
+
+# 112bcf57492b481e944241c7fc8cb98f
+#: ../source/turtleart.rst:290
+msgid "show: draw text or display media object from the Journal"
+msgstr ""
+
+# 210484f946524190bd2876e4e4e57e3c
+#: ../source/turtleart.rst:291
+msgid "set scale: sets the scale of images displayed with show block"
+msgstr ""
+
+# eb58dfc1b11d4dcb9cdee0d4db06d76c
+#: ../source/turtleart.rst:292
+msgid ""
+"save picture: save the canvas to the Sugar Journal as a .png image (note: "
+"saves the canvas as displayed)"
+msgstr ""
+
+# 055ab77f593449048b005a4a9d2b3638
+#: ../source/turtleart.rst:293
+msgid ""
+"save SVG: save turtle graphics to the Sugar Journal as a .svg image (note: "
+"only saves the changes to the canvas in the current execution run)"
+msgstr ""
+
+# 66f15417d20c46e4bfba43a96eee1ba4
+#: ../source/turtleart.rst:294
+msgid "scale: sets scale for show block (100% is full-screen)"
+msgstr ""
+
+# c3e6945832104026a8f5a340133ea3da
+#: ../source/turtleart.rst:295
+msgid "wait for media: used to pause program while audio or video file plays"
+msgstr ""
+
+# 916902b33a5541fd8ae00273344ad43a
+#: ../source/turtleart.rst:296
+msgid "media stop: stop current sound or video"
+msgstr ""
+
+# 63d9ee5d84e04e22afb4981a52d59b17
+#: ../source/turtleart.rst:297
+msgid "media pause: pause current sound or video"
+msgstr ""
+
+# 58888768e1e6407a80f6b9570be4fef5
+#: ../source/turtleart.rst:298
+msgid "media resume: resume playing paused media"
+msgstr ""
+
+# 2382979b3dbb49468146f88c1ce64c09
+#: ../source/turtleart.rst:299
+msgid "speak: sends text to the voice synthesizer"
+msgstr ""
+
+# f37e03d985d64e4e9514614597f9aa62
+#: ../source/turtleart.rst:300
+msgid ""
+"sine wave: plays a sine wave of a given frequency, amplitude, and duration"
+msgstr ""
+
+# 9a598e72b7114840b6fc204753eb9af1
+#: ../source/turtleart.rst:303
+msgid "Extras Palette"
+msgstr ""
+
+# 704b91d1b8eb4f45ba1bb405551b6754
+#: ../source/turtleart.rst:307
+msgid ""
+"These are a collection of extra blocks for accessing advanced features only "
+"available in Turtle Blocks."
+msgstr ""
+
+# f250eb789b30442cb4d2ff317ac73590
+#: ../source/turtleart.rst:309
+msgid "push: push value onto FILO (first-in last-out) heap"
+msgstr ""
+
+# ad740e554f354186abaab27d3cb0e88d
+#: ../source/turtleart.rst:310
+msgid "show heap: show FILO in status block"
+msgstr ""
+
+# bdb8537459c647b9bff1e088234a2315
+#: ../source/turtleart.rst:311
+msgid "empty heap: empty the FILO"
+msgstr ""
+
+# f38b0bfcfa9047208584f4318a9619b9
+#: ../source/turtleart.rst:312
+msgid "pop: pop value off of the FILO (can be used in place of a number block)"
+msgstr ""
+
+# fcccad3f34e94d51b904d7c282c49a52
+#: ../source/turtleart.rst:313
+msgid "print: print value in status block (also available in Turtle Art)"
+msgstr ""
+
+# 8800e3fd7343464a84200a6635a1fe5f
+#: ../source/turtleart.rst:314
+msgid "comment: program comment (displayed in \"walk\" mode)"
+msgstr ""
+
+# ecc325279c514ee7996cd941bc7fc652
+#: ../source/turtleart.rst:315
+msgid ""
+"chr: Python chr primitive: converts ASCII to character (useful for "
+"converting keyboard input to text)"
+msgstr ""
+
+# 0a91e88107df4bc5b534034161ec2ee5
+#: ../source/turtleart.rst:316
+msgid "int: Python int primitive: converts input to integers"
+msgstr ""
+
+# a2dfa94b549e4f2e94e0097c419d888a
+#: ../source/turtleart.rst:317
+msgid "Python: a programmable block (can be used in place of a number block)"
+msgstr ""
+
+# 6e40a53c36c64919a49b7d5d0bcd193e
+#: ../source/turtleart.rst:319
+msgid ""
+"add your own math equation in the block, e.g., sin(x); This block is "
+"expandable to support up to three variables, e.g. f(x,y,z)"
+msgstr ""
+
+# 5f0151c461d64343b4ac7c8f3ff93933
+#: ../source/turtleart.rst:321
+msgid ""
+"Import Python: import Python code from the Sugar Journal (a more general-"
+"purpose programmable block). This block accepts a single variable x, as an "
+"input or up to 3 variables as an array x[0], x[1] and x[2]"
+msgstr ""
+
+# 2046956218134adaa6ae5561f88f363c
+#: ../source/turtleart.rst:322
+msgid "Cartesian: display Cartesian coordinate grid overlay"
+msgstr ""
+
+# 00a625bb44404868b4230703ce2301c2
+#: ../source/turtleart.rst:323
+msgid "polar: display polar coordinate grid overlay"
+msgstr ""
+
+# fadc1bff48284a10a1698008d434a790
+#: ../source/turtleart.rst:324
+msgid "turtle: specify which turtle is active"
+msgstr ""
+
+# 7d40dd9458c34202b1de512f20d074e3
+#: ../source/turtleart.rst:325
+msgid ""
+"turtle shell: import a image from the Journal to use as the turtle's "
+"'shell', i.e., replace the turtle with a sprite."
+msgstr ""
+
+# 8e25251ceb984f648293d4db26f2bb1c
+#: ../source/turtleart.rst:326
+msgid "sandwich clamp: \"clamp\" a stack of blocks to hide"
+msgstr ""
+
+# ae3ba9ec9a16451fac95609a2c6abf66
+#: ../source/turtleart.rst:329
+msgid "Portfolio Palette"
+msgstr ""
+
+# 12fb4e8b7b4240a2a6fa5aef68af26af
+#: ../source/turtleart.rst:333
+msgid ""
+"These blocks are used to make multimedia presentations only available in "
+"Turtle Blocks."
+msgstr ""
+
+# f052156324b545e2bd0c1a7cb8cdd346
+#: ../source/turtleart.rst:335
+msgid ""
+"hide blocks: hides all blocks and palettes (useful for decluttering the "
+"screen during presentations) (also available in Turtle Art)"
+msgstr ""
+
+# 80fde354068b44f49eb87398b5e943dc
+#: ../source/turtleart.rst:336
+msgid ""
+"show blocks: shows blocks and palettes (useful for resuming programming "
+"after a presentation)"
+msgstr ""
+
+# b11fd0a2dc434590aae395dcf7fb391b
+#: ../source/turtleart.rst:337
+msgid "full screen: goes into full-screen mode (hides Sugar toolbars)"
+msgstr ""
+
+# 56e4f245cf43463da7b141f722980dc4
+#: ../source/turtleart.rst:338
+msgid ""
+"list slide: used for bulleted lists; This block is expandable, allowing you "
+"to add as many bullets as you need"
+msgstr ""
+
+# 39da187b4fdb4edc8ffd294bb57ce6ab
+#: ../source/turtleart.rst:339
+msgid "picture slides: used for picture slides (1×1, 2×2, 1×2, and 2×1)"
+msgstr ""
+
+# b3c8358023954c2692193ad070fae1cb
+#: ../source/turtleart.rst:341
+msgid "Only available in Turtle Blocks:"
+msgstr ""
+
+# 46e428f8b0654f3e8f7e423059e29469
+#: ../source/turtleart.rst:343
+msgid ""
+"left: holds current x-coordinate value of the left edge of the screen (can "
+"be used in place of a number block)"
+msgstr ""
+
+# d1d27453ef8f4b5a8dfe801475e10856
+#: ../source/turtleart.rst:344
+msgid ""
+"top: holds current y-coordinate value of the top edge of the screen (can be "
+"used in place of a number block)"
+msgstr ""
+
+# 510a06382f4145d5aaef6a23ef12ef00
+#: ../source/turtleart.rst:345
+msgid ""
+"right: holds current x-coordinate value of the right edge of the screen (can "
+"be used in place of a number block)"
+msgstr ""
+
+# 759eb3bb9b834604ba9c1a6b54231099
+#: ../source/turtleart.rst:346
+msgid ""
+"bottom: holds current y-coordinate value of the bottom edge of the screen "
+"(can be used in place of a number block)"
+msgstr ""
+
+# 0efb5b15d74641aa870bf30c49f9fbef
+#: ../source/turtleart.rst:347
+msgid "width: screen width (can be used in place of a number block)"
+msgstr ""
+
+# 6984a3ccfddb4a6fa6bbbae0bced31c1
+#: ../source/turtleart.rst:348
+msgid "height: screen height (can be used in place of a number block)"
+msgstr ""
+
+# dd25a7e7c9264f19b91add8e9760c39c
+#: ../source/turtleart.rst:350
+msgid ""
+"**Note:** The slide blocks expand into stacks that can be edited for "
+"customized presentations."
+msgstr ""
+
+# 687add31d7604ce6aab5a2610cfd5e50
+#: ../source/turtleart.rst:353
+msgid "Trash Palette"
+msgstr ""
+
+# 254b00de001043d692eb1766ffa176dc
+#: ../source/turtleart.rst:357
+msgid ""
+"This palette holds any blocks that have been put in the trash. You can drag "
+"blocks out of the trash to restore them. The trash palette is emptied when "
+"you quit Turtle Art."
+msgstr ""
+
+# d9d5ce6d15e44436a53aa9b468dbb071
+#: ../source/turtleart.rst:360
+msgid "Vertical palettes"
+msgstr ""
+
+# e71f48d2310d4bab920bd7093544d017
+#: ../source/turtleart.rst:364
+msgid ""
+"An example of a vertical palette. Vertical palettes are used by default on "
+"the OLPC XO laptops running older versions of Sugar."
+msgstr ""
+
+# 2560e521550c49ffb4cd6b114496382a
+#: ../source/turtleart.rst:368
+msgid "Learning with Turtle Art"
+msgstr ""
+
+# 856edf7ac5d1449ca7500257c375d512
+#: ../source/turtleart.rst:370
+msgid ""
+"Tony Forster and Mokurai have created a number of Activities/Turtle Art/"
+"Tutorials Turtle Art Tutorials on a wide range of math, programming, art, "
+"and Computer Science topics. There is also a substantial literature of "
+"educational materials using the Logo programming language, from which Turtle "
+"Art and Turtle Blocks derive. The Exploring with Logo series from MIT Press "
+"is particularly recommended for showing how far beyond simple graphics Logo "
+"can go. Mokurai recommends starting with his first three, specifically "
+"designed for helping beginners of all ages, starting with the preliterate in "
+"preschool."
+msgstr ""
+
+# eb8d48685af2453a92bf5414cc9612de
+#: ../source/turtleart.rst:372
+msgid ""
+"`You be the Turtle <http://wiki.sugarlabs.org/go/Activities/Turtle_Art/"
+"Tutorials/You_be_the_Turtle>`_ without the computer."
+msgstr ""
+
+# 852f5dee2f7841a39bb97a541cf13c0a
+#: ../source/turtleart.rst:373
+msgid ""
+"`Mathematics and art <http://wiki.sugarlabs.org/go/Activities/Turtle_Art/"
+"Tutorials/Mathematics_and_art>`_, an introduction to TA."
+msgstr ""
+
+# 6576f3e7e9494f368fd266b1523cafe6
+#: ../source/turtleart.rst:374
+msgid ""
+"`Counting <http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/"
+"Counting>`_"
+msgstr ""
+
+# 287ae08f1e8d47bbb0aef7b4e8de17bc
+#: ../source/turtleart.rst:377
+msgid "Extending Turtle Art"
+msgstr ""
+
+# febb70598a1d49f68b1df9da0a2f8157
+#: ../source/turtleart.rst:379
+msgid ""
+"There are versions of Turtle Art in several programming languages and "
+"environments, including Logo, Python, Smalltalk, and others. Turtle Art can "
+"export programs in Logo, as explained below. There are programmable blocks "
+"in Turtle Art which make it possible to include any Python program within "
+"the Turtle Art world. The simplest case is a single function call used in a "
+"graphing program, but there is no inherent limit on what capabilities of "
+"Python one can add to TA."
+msgstr ""
+
+# 63bae5692ff5412e8ab394ffcf113166
+#: ../source/turtleart.rst:382
+msgid "Exporting to Berkeley Logo"
+msgstr ""
+
+# 0311a8322df741ca90aa09245ef9aebe
+#: ../source/turtleart.rst:384
+msgid ""
+"Turtle Art can export its projects to `Berkeley Logo <http://www.cs.berkeley."
+"edu/~bh/>`_ (using either **View Source** or the **Save as Logo** button on "
+"the **Project Toolbar**)"
+msgstr ""
+
+# 2d043a7f516e4c208aef5950460d3d43
+#: ../source/turtleart.rst:387
+msgid "Python Blocks in Turtle Art"
+msgstr ""
+
+# af5caa3123914062ae6e23ec67dfb273
+#: ../source/turtleart.rst:389
+msgid ""
+"There are two ways to create Python blocks: by loading sample code provided "
+"with Turtle Art or by loading Python code the your Journal."
+msgstr ""
+
+# 942d37da4413418a9d361677ee98152d
+#: ../source/turtleart.rst:391
+msgid "**Loading sample code**"
+msgstr ""
+
+# 3553b31c192046dfa9ac3499e85725f7
+#: ../source/turtleart.rst:393
+msgid ""
+"A number of individual sample programs are provided. Clicking on the Load "
+"Python Block button on the Load/Save Toolbar |loadpython| will invoke a file-"
+"selector dialog. Select the sample that you want and it will be both copied "
+"to the Journal and loaded into a Python block."
+msgstr ""
+
+# ab4010fe206441e79fed001ce4680dc1
+#: ../source/turtleart.rst:399
+msgid "**Loading code from the Journal**"
+msgstr ""
+
+# 56ad9e7c74fb43ffa4dea0e0b88dab72
+#: ../source/turtleart.rst:401
+msgid ""
+"Clicking on a Python block |pythoncodeblock| that has been dragged onto the "
+"canvas from the Extras palette will invoke an object-selector dialog."
+msgstr ""
+
+# 4485595c9ab245ff81c56211e215d0f9
+#: ../source/turtleart.rst:407
+msgid ""
+"Select the Python code that that you want and that code will be loaded into "
+"the selected block."
+msgstr ""
+
+# 9d5d3cc0adae48f69f955a8ebfdecadb
+#: ../source/turtleart.rst:409
+msgid ""
+"You can't run a Python block by clicking on it, as that opens the object "
+"selector; instead attach the block to another one and click elsewhere on the "
+"stack you have created."
+msgstr ""
+
+# 130eefd36e874922b7a833fa6ce37d66
+#: ../source/turtleart.rst:411
+msgid ""
+"Which ever way you create them, multiple Python blocks can have different "
+"code loaded in them."
+msgstr ""
+
+# e867902273a145c8989579a87a192419
+#: ../source/turtleart.rst:414
+msgid "Modifying Turtle Art"
+msgstr ""
+
+# a94e3f3856a74217b1efbdd94cf7517a
+#: ../source/turtleart.rst:416
+msgid ""
+"Turtle Art is under the MIT license. You are free to use it and learn with "
+"it. You are also encourage to modify it to suit your needs or just for a "
+"further opportunity to learn."
+msgstr ""
+
+# 95010c963f5842859bfd444d3375822c
+#: ../source/turtleart.rst:418
+msgid ""
+"Much of the motivation behind the Version 83 refactoring of the code was to "
+"make it easier for you to make changes. Most changes can be confined to two "
+"modules: taconstants.py and talogo.py. The former defines the blocks and "
+"palettes; the latter defines what code is executed by a block."
+msgstr ""
+
+# 806c5c5179594cb1b8c449bf66e79804
+#: ../source/turtleart.rst:420
+msgid ""
+"**Note:** As of Version 106, there is also support for plugins. If you can "
+"use the plugin mechanism to add support for additional devices, e.g., "
+"Arduino, or for making modifications such as are described below without "
+"making changes to the standard code base. (The advantage to the latter is "
+"that your changes will remain intact even after you upgrade to a newer "
+"version.)"
+msgstr ""
+
+# 9f68c198153745ab9808f9a5c4ca42b2
+#: ../source/turtleart.rst:422
+msgid ""
+"The tabasics.py file contains the constants that by-in-large determine the "
+"behavior of Turtle Art. Notably, the block palettes are defined below. If "
+"you want to add a new block to Turtle Art, you could simply add a block of "
+"code to that file or to turtle_block_plugin.py, which contains additional "
+"blocks. (Even better, write your own plugin!!)"
+msgstr ""
+
+# 96e6aabd2eaa42c182699cf9a0be568f
+#: ../source/turtleart.rst:424
+msgid "Adding a new palette is simply a matter of:"
+msgstr ""
+
+# 957943867c264b938d88a74aa90dd24b
+#: ../source/turtleart.rst:432
+msgid ""
+"For example, if we want to add a new turtle command, 'uturn', we'd use the "
+"add_block method in the Palette class."
+msgstr ""
+
+# 9d29df37660149f2a9e0e08b9fea2d56
+#: ../source/turtleart.rst:442
+msgid ""
+"Next, you need to define what your block will do. def_prim takes 3 "
+"arguments: the primitive name, the number of arguments—0 in this case—and "
+"the function to call—in this case, the canvas.seth function to set the "
+"heading."
+msgstr ""
+
+# 7e2b3a5cecdb4c61973a72a7eb02a47f
+#: ../source/turtleart.rst:449
+msgid ""
+"That's it. When you next run Turtle Art, you will have a 'uturn' block on "
+"the 'mypalette' palette."
+msgstr ""
+
+# 3be2b2f988a74e0998b92491ab8d3ba2
+#: ../source/turtleart.rst:451
+msgid ""
+"You will have to create icons for the palette-selector buttons. These are "
+"kept in the icons subdirectory. You need two icons: mypaletteoff.svg and "
+"mypaletteon.svg, where 'mypalette' is the same string as the entry you used "
+"in instantiating the Palette class. Note that the icons should be the same "
+"size (55x55) as the others. (This is the default icon size for Sugar "
+"toolbars.)"
+msgstr ""
+
+# 312d893d4b224f24a22848d20c90153a
+#: ../source/turtleart.rst:454
+msgid "Where to report problems"
+msgstr ""
+
+# c0dfd6bad7f64a259e1bdc253bc5853a
+#: ../source/turtleart.rst:456
+msgid ""
+"Please file bug reports `here <https://bugs.sugarlabs.org/newticket?"
+"component=Turtleart>`_."
+msgstr ""
+
+# 5e22edb23a85415a9f20331fecf2c4fe
+#: ../source/turtleart.rst:459
+msgid "Credits"
+msgstr ""
+
+# 792c57825fe54ab3bd1a2fecefadd15b
+#: ../source/turtleart.rst:461
+msgid ""
+"Walter Bender and Raúl Gutiérrez Segalés maintain the code (with some "
+"occasional help from Simon Schampijer)"
+msgstr ""
+
+# 62cff2a827314803a6bdd0ae9de3fe69
+#: ../source/turtleart.rst:463
+msgid ""
+"Alan Jhonn Aguiar Schwyn and the Butia Team have provided great feedback and "
+"many patches."
+msgstr ""
+
+# 76776f25f7374004a87e9e614d2c3a6e
+#: ../source/turtleart.rst:465
+msgid ""
+"Especially helpful feedback from Tony Forster, Guzmán Trinidad, and Bill Kerr"
+msgstr ""
+
+# fac59c6e17334031b7974181f1e4957b
+#: ../source/turtleart.rst:467
+msgid "Brian Silverman is the first author of Turtle Art"
+msgstr ""

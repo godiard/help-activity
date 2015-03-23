@@ -1,0 +1,168 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 315faee1e9ad4ca19db3f82bc89875d9
+#: ../source/help.rst:3
+msgid "Help"
+msgstr ""
+
+# 6fc4e466678247ee82df8a7d3a5f0b0a
+#: ../source/help.rst:5
+msgid "Help displays documentation for Sugar and the XO laptop."
+msgstr ""
+
+# 81f381a693484c5499ab7fcceeeeba3f
+#: ../source/help.rst:9
+msgid ""
+"The image above is of the top of the screen, when the Activity Help is "
+"running. There is a simple range of tabs and buttons on the top row of the "
+"toolbar. Starting from the left, they are:"
+msgstr ""
+
+# a88ee472cf414a019c494c53f0d8ebf6
+#: ../source/help.rst:11
+msgid "Activity tab or toolbar button."
+msgstr ""
+
+# 810d9d65f9b1471da75600b8b65c129a
+#: ../source/help.rst:13
+msgid "View toolbar button."
+msgstr ""
+
+# 1449bd5e410b41e0840d9633b866545b
+#: ../source/help.rst:15
+msgid "Home button, brings you back to the index, or contents page."
+msgstr ""
+
+# 45ca74355a7440ffa0fb5598f5343f35
+#: ../source/help.rst:17
+msgid "Back button."
+msgstr ""
+
+# c3caadee77be4221bd3ea9a8d01ffeaa
+#: ../source/help.rst:19
+msgid "Forward button."
+msgstr ""
+
+# 51d54b2cdb124470b51a22ff5712946d
+#: ../source/help.rst:21
+msgid "Stop, or close the Activity, on the far right of the toolbar."
+msgstr ""
+
+# 29094cac86fb454e91fa28f9439b56e3
+#: ../source/help.rst:24
+msgid "Tour of Help"
+msgstr ""
+
+# 9be69e6777894086a1cd37f36a658d47
+#: ../source/help.rst:25
+msgid "We see, working clockwise from top left:"
+msgstr ""
+
+# f26acf54ae9c49c6b0291e7bbbe2e386
+#: ../source/help.rst:29
+msgid ""
+"Activity tab, here you can enter a name for the page or project. The "
+"\"pencil and book\" icon the Description button allows you to add a "
+"description to the :doc:`/journal` entry."
+msgstr ""
+
+# 5da4e67070a14ca498e3c98405f018e8
+#: ../source/help.rst:31
+msgid ""
+"The :doc:`/collaborating`, or sharing, icon is grayed out and not available."
+msgstr ""
+
+# 8dffc6cc81e040d386ad6652f72665c5
+#: ../source/help.rst:33
+msgid ""
+"In Help you do not really need to provide a name for the page you are "
+"researching, but it allows you to get back to it easily from the :doc:`/"
+"journal`."
+msgstr ""
+
+# 068cecc87be54f73a5e3b9cf0aff6af4
+#: ../source/help.rst:35
+msgid ""
+"View toolbar button. The buttons are zoom in, zoom out, and enlarge page to "
+"*Full screen*."
+msgstr ""
+
+# c0b34e74382343c6b405c2bdd12e8a6b
+#: ../source/help.rst:37
+msgid ""
+"*Next* button, top right of every page, takes you to the next page of Help."
+msgstr ""
+
+# c04f804ae7844f82b3caafb28dbde1e3
+#: ../source/help.rst:39
+msgid ""
+"Follow links in the index to jump to that page. Here the Activity FotoToon "
+"is being selected."
+msgstr ""
+
+# 9733b13488a14fbea7540d0edeeb88e2
+#: ../source/help.rst:41
+msgid "Forward and Back buttons help you navigate."
+msgstr ""
+
+# 0b00a95f7b3946989e4fd738f31a7c71
+#: ../source/help.rst:43
+msgid ""
+"Use this small red icon, only showing when you hover the cursor over it, at "
+"the end of a paragraph heading, to place the paragraph well on your screen."
+msgstr ""
+
+# 2b2b5e3fbec74db7950062bdc95d75aa
+#: ../source/help.rst:45
+msgid ""
+"Here we see a link to the OLPC getting started page. Within Help you can "
+"follow links, which take you onto the internet, when you are online."
+msgstr ""
+
+# d2605e07c7454bd8bf74c7ba8c1de28d
+#: ../source/help.rst:47
+msgid "The Home button brings you back to the index, or contents page."
+msgstr ""
+
+# e44e1a762226492ba1c30d416d859ea4
+#: ../source/help.rst:49
+msgid "Stop, or close the Activity."
+msgstr ""
+
+# 1ef008030b9d426db0d41a1c4005841a
+#: ../source/help.rst:52
+msgid "Help read aloud"
+msgstr ""
+
+# 216e445bd04442e3b783a5c85e9553c2
+#: ../source/help.rst:54
+msgid ""
+"In Help, and other text based Activities, you can have robot Alice (the "
+"page :doc:`/speak` introduces Alice) read the page aloud in the background, "
+"while you explore the Activity. See :ref:`say_selected_text`"
+msgstr ""
+
+# cbcb682aa7be49449eadb9190e81f488
+#: ../source/help.rst:56
+msgid ""
+"|more| The underlying software used to display Help, and for the user to "
+"edit within Help, is Sphinx. To explore the possibilities of documentation "
+"made using this software, please follow the link to *Sphinx* in the footnote "
+"below."
+msgstr ""

@@ -1,0 +1,220 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 7ab3ff51f4004ef9a43a267315441cfc
+#: ../source/terminal.rst:3
+msgid "Terminal"
+msgstr ""
+
+# e1adfb330d8f4ca9994c2b4b8c77c759
+#: ../source/terminal.rst:6
+msgid "About"
+msgstr ""
+
+# 57bd11d5894c44f28dcf83a8ef27b024
+#: ../source/terminal.rst:8
+msgid ""
+"Terminal is a full-screen text mode program that provides a Command-Line "
+"Interface (CLI) to the software on a Linux system, such as the Fedora Linux "
+"that Sugar on the XO is based on. Users type (sometimes cryptic) commands to "
+"perform file management, system administration, or in fact almost anything "
+"that can be done within Linux that does not involve graphics or video."
+msgstr ""
+
+# deb5e86007064ea19e2410726fb7b632
+#: ../source/terminal.rst:10
+msgid ""
+"For example, typing **pwd** (Print name of current/Working Directory) at the "
+"command line in the home directory gives that location as /home/olpc, and "
+"typing **ls** at the command line lists the content of the current directory."
+msgstr ""
+
+# 3980ceefb2d042659a5c6f56cc0cbfbc
+#: ../source/terminal.rst:13
+msgid "Where to get Terminal"
+msgstr ""
+
+# cb8e7dee88184c8684e7e6eec82dc55e
+#: ../source/terminal.rst:15
+msgid ""
+"Terminal is provided with Sugar on every XO. However, by default it is not "
+"selected for display in the Home view as a Favorite."
+msgstr ""
+
+# 5f6ab1188f3041ae98a147872afba64b
+#: ../source/terminal.rst:17
+msgid ""
+"To select Terminal as a Favorite, go to Home view, then click the List view "
+"icon. Type **Te** into the search box. Click the star next to Terminal. When "
+"you switch back to the ring of icons in Home view, Terminal will be visible."
+msgstr ""
+
+# cce605ae37734a829b4dcf636d996be3
+#: ../source/terminal.rst:19
+msgid ""
+"Alternatively, you can leave Terminal unselected, and start it from list "
+"view by clicking its icon or selecting Start from its hover menu."
+msgstr ""
+
+# 64145da5025048879bd080f1b262a23b
+#: ../source/terminal.rst:21
+msgid ""
+"If for some reason Terminal is not installed, it can be downloaded from its "
+"`Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4043>`_"
+msgstr ""
+
+# e4e5b7e4770c4a4398d2d149da683d84
+#: ../source/terminal.rst:24
+msgid "Using"
+msgstr ""
+
+# 917595fda78b44ba8d73a51269f5e081
+#: ../source/terminal.rst:26
+msgid ""
+"Type commands with options that modify their effects and arguments, usually "
+"file names or other indications of where to get input and where to put "
+"output."
+msgstr ""
+
+# 1d5119cb5d834c4095e135132dc1e9d3
+#: ../source/terminal.rst:28
+msgid "Examples: **pwd** and **ls**, as shown above"
+msgstr ""
+
+# 734d3dd4b52b49a1b0b62bb7a9fe41f0
+#: ../source/terminal.rst:30
+msgid ""
+"Chain programs together, so that the following program processes the output "
+"of the earlier program."
+msgstr ""
+
+# 7b2aa65c9484492d8adaa9ebd44a0b59
+#: ../source/terminal.rst:36
+msgid ""
+"Get a listing of the current directory, but show only lines where the file "
+"or directory name includes the text \"Sugar\". The **|** symbol, read pipe, "
+"represents the data link between the programs."
+msgstr ""
+
+# 5da56d74b8f3482187131a0ccac01b39
+#: ../source/terminal.rst:38
+msgid ""
+"Get information on programs. For example, many commands respond to the **-"
+"h** or **--help** options with a concise summary."
+msgstr ""
+
+# 9c8a53bfe47d4f61a793deb4f92da4c1
+#: ../source/terminal.rst:46
+msgid ""
+"The **man** and **info** utilities are unfortunately not available on XOs, "
+"but will undoubtedly be included in Sugar whenever the XO of that time is "
+"capacious enough for all of the manual and information pages in all of the "
+"supported languages."
+msgstr ""
+
+# cae48d729c1d4b05a6c10bb5634f0fcd
+#: ../source/terminal.rst:50
+msgid "The Toolbar"
+msgstr ""
+
+# 93a532dc46384f6684db5d0de4c43b42
+#: ../source/terminal.rst:54
+msgid "Activity: Name this session and add a description to Journal"
+msgstr ""
+
+# afab29a140844e3ea363bf3d3b3ed7eb
+#: ../source/terminal.rst:55
+msgid "Edit (scissors icon): Copy and Paste"
+msgstr ""
+
+# b28b3428ea0d4d1d974e0d74cbf51475
+#: ../source/terminal.rst:56
+msgid "View (eye icon): Increase or Decrease font size, view in full screen"
+msgstr ""
+
+# d3d69e7f798f40f79e1cedee5674f45a
+#: ../source/terminal.rst:57
+msgid "Help: Display useful commands"
+msgstr ""
+
+# c6cad8b3b2e74d7ab1f2ae646de45301
+#: ../source/terminal.rst:58
+msgid "Stop: Close terminal activity"
+msgstr ""
+
+# dca4299c68484b9eb8d7cabd4c66387e
+#: ../source/terminal.rst:59
+msgid "Tabs: Open and close tabs"
+msgstr ""
+
+# 31310a3b91a3445881fd62dbb72324d3
+#: ../source/terminal.rst:62
+msgid "Learning with Terminal"
+msgstr ""
+
+# be5f246f363c48b5b45921a8b8fb16e5
+#: ../source/terminal.rst:64
+msgid ""
+"Terminal is essential to learning advanced Linux functions, such as system "
+"administration, compiling software, and many other such topics."
+msgstr ""
+
+# de6fba22116844fab9a32ab813b01f27
+#: ../source/terminal.rst:67
+msgid "Extending Terminal"
+msgstr ""
+
+# b0ee7fd8bd1f40a7aa5d6de59c878273
+#: ../source/terminal.rst:69
+msgid ""
+"Users have the option of installing text-mode software that works in a "
+"terminal window. Examples include text editors such as pico, or file "
+"managers such as Midnight Commander. MC simplifies many command line "
+"activities for the user, providing equivalents to many command in menus and "
+"text windows. To install mc, enter"
+msgstr ""
+
+# 959d388c9c0b48c3b237cf2f83af877b
+#: ../source/terminal.rst:75
+msgid ""
+"This invokes the Yellow Dog Update Manager to install the Red Hat/Fedora "
+"package for mc, including the program, documentation, and other files. Then "
+"the user can type mc at the command line and get a two-panel display of "
+"files in the same or different directories, together with function buttons "
+"and menus for creating and deleting directories, moving or copying files, "
+"viewing or editing files, changing file permissions, and much more."
+msgstr ""
+
+# 8b5a06aeaf014bbd95a93358c88e66cf
+#: ../source/terminal.rst:77
+msgid "See the FLOSS Manuals manuals"
+msgstr ""
+
+# c726ec81c1c147fa8e210bb8c5680f38
+#: ../source/terminal.rst:79
+msgid ""
+"`Terminal <http://en.flossmanuals.net/terminal/>`_ about the Sugar Terminal "
+"activity"
+msgstr ""
+
+# 474f0852f183488a80c9c8fc030fb41d
+#: ../source/terminal.rst:80
+msgid ""
+"`Introduction to the Command Line <http://en.flossmanuals.net/command-line/"
+">`_ for a user's tutorial on command line functions"
+msgstr ""

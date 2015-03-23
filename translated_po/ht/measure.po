@@ -1,0 +1,262 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 865532f525624b3eb06f0e8720a596a6
+#: ../source/measure.rst:3
+msgid "Measure"
+msgstr ""
+
+# 916b1673640244e1be25e2c331c552ee
+#: ../source/measure.rst:6
+msgid "About"
+msgstr ""
+
+# cad0910cb91d4c56a595c64be93f10ae
+#: ../source/measure.rst:8
+msgid ""
+"This Activity draws a picture of the sound heard by the internal microphone "
+"or of the signal present on the microphone socket. More specifically it "
+"draws a graph of this input versus time, the input is on the vertical axis "
+"and time is on the horizontal axis. That is, the laptop functions like a "
+"machine called an oscilloscope."
+msgstr ""
+
+# 3ae347327c4046e1acca5af2b2cc8747
+#: ../source/measure.rst:10
+msgid ""
+"As well as graphing signal as a function of time, Measure can also graph as "
+"a function of frequency."
+msgstr ""
+
+# e52d7871a7004c99906a92d185812c8e
+#: ../source/measure.rst:12
+msgid ""
+"The XO-1 laptop is only capable of mono input, the XO-1.5 and XO-1.75 are "
+"capable of stereo input on their microphone socket and can graph two signals "
+"at once."
+msgstr ""
+
+# b01aec2ac9fd4d3c9d2169fe3ba60d81
+#: ../source/measure.rst:17
+msgid "Using"
+msgstr ""
+
+# 32a843946a844bcaadf572667cf2ded9
+#: ../source/measure.rst:21
+msgid ""
+"Select secondary toolbar - allows the Activity's Journal entry to be renamed"
+msgstr ""
+
+# 3860d8017b51420397b8a7e62f59c67e
+#: ../source/measure.rst:22
+msgid "Select secondary toolbar - measurement settings"
+msgstr ""
+
+# 12468df1bad740c2bb00e29fbd6364b7
+#: ../source/measure.rst:23
+msgid "The selected input type - Sound (AC voltage), resistance or DC voltage"
+msgstr ""
+
+# d7ac7b5883634aed80eb6256769db8a9
+#: ../source/measure.rst:24
+msgid "The time scale"
+msgstr ""
+
+# cf4a0bac0884434fae098c14ddb4fe44
+#: ../source/measure.rst:25
+msgid "Freeze the display"
+msgstr ""
+
+# bf726c0131c04597ba6f481ce46e1b60
+#: ../source/measure.rst:26
+msgid "Capture sample now - saves an image of the wave in the Journal"
+msgstr ""
+
+# e1afea1a82af49d8bb783c20e6ec638b
+#: ../source/measure.rst:27
+msgid "Stop - exits the Activity"
+msgstr ""
+
+# 62490a7787c04a8e9c3bbc85ab823441
+#: ../source/measure.rst:28
+msgid "Invert - invert the display"
+msgstr ""
+
+# 86e032304fb542628967a845d2ab5c2b
+#: ../source/measure.rst:29
+msgid "Use these sliders to control the sensitivity"
+msgstr ""
+
+# 9c4a0ee50e7d4036ae21f6ee15ec6407
+#: ../source/measure.rst:30
+msgid "The settings that are selected"
+msgstr ""
+
+# 7b19b8897f0f4f88aa67d0d307d7d538
+#: ../source/measure.rst:34
+msgid "The secondary toolbar - measurement settings"
+msgstr ""
+
+# 79db95d7f5814ddb999891bdd50a8996
+#: ../source/measure.rst:36
+msgid ""
+"Sound - use this setting with the internal microphone, external microphone "
+"and external AC signals"
+msgstr ""
+
+# e44b0f0d5dd443f584fa374ef2f6adcb
+#: ../source/measure.rst:38
+msgid "Resistance sensor - use with external resistive type transducers"
+msgstr ""
+
+# 9be7058b35204864995c7c1859a280ba
+#: ../source/measure.rst:40
+msgid "Voltage sensor - use with external sensors which generate a voltage"
+msgstr ""
+
+# ce5d48254a334710a6538987375cc2c8
+#: ../source/measure.rst:42
+msgid ""
+"Time base/frequency - graphs the signal vs. time or graphs amplitude vs. "
+"frequency"
+msgstr ""
+
+# 1c7540c634c04172b17b9d471cae4f2d
+#: ../source/measure.rst:44
+msgid ""
+"Sample interval - a text file 'Measure Log' is saved to the journal, it "
+"contains one sample per interval"
+msgstr ""
+
+# 6c604efa87ed41f59c467efc63338c69
+#: ../source/measure.rst:46
+msgid ""
+"Starts/stops saving a text file 'Measure Log' with measured values as "
+"readable text"
+msgstr ""
+
+# a508406a136e4a7999b0ae267e1a1763
+#: ../source/measure.rst:48
+msgid ""
+"This feature is not working well in version 36, the intention is to "
+"synchronize the sample period to the waveform so that the sample will start "
+"on a rising edge or falling edge"
+msgstr ""
+
+# 3e934b0259db45dc824ccc18ddcf4898
+#: ../source/measure.rst:51
+msgid "Applying"
+msgstr ""
+
+# a4178134234b4ddb896223b3fe76b053
+#: ../source/measure.rst:53
+msgid ""
+"Let the children experiment with the internal microphone, try singing, "
+"whistling, musical instruments, the Tam Tam musical Activity. The Turtle "
+"Blocks Activity can generate an audio tone, see the Python Block."
+msgstr ""
+
+# fdbdb180edd44c1498673d05900bd756
+#: ../source/measure.rst:55
+msgid "The children should learn through guided discovery that:"
+msgstr ""
+
+# 689e49f882894c65b3dc4ec2bababe30
+#: ../source/measure.rst:57
+msgid "sound is a pressure wave"
+msgstr ""
+
+# 4bad1caac5fe4ac0be286cfb4a2364e9
+#: ../source/measure.rst:58
+msgid ""
+"the pitch of the sound is determined by the frequency or cycles per second "
+"(Hz)"
+msgstr ""
+
+# b04cefbd77b3479d91dabb26567cf005
+#: ../source/measure.rst:59
+msgid "the loudness of a sound is determined by the amplitude"
+msgstr ""
+
+# 938445780a8449dca5e6586bb74bd97d
+#: ../source/measure.rst:60
+msgid "sounds contain multiple frequency components or harmonics"
+msgstr ""
+
+# 7afc56719cb2415080393ea32e38ef22
+#: ../source/measure.rst:61
+msgid "the more pure sounds have less harmonics"
+msgstr ""
+
+# a7f196468bd047db9b5874608530776e
+#: ../source/measure.rst:64
+msgid "Sharing"
+msgstr ""
+
+# 8dcd10d5f45e47998359d950a86f3be7
+#: ../source/measure.rst:66
+msgid "This Activity does not support sharing."
+msgstr ""
+
+# 9d5ecba1b4304fc79376289e9514d243
+#: ../source/measure.rst:69
+msgid "Extending"
+msgstr ""
+
+# ffd16b6ff4a8479b875133b7a59caee6
+#: ../source/measure.rst:71
+msgid ""
+"Measure is able to take input from a wide range of external sensors "
+"including switches, photocells, temperature sensors, inductive loops, hall "
+"effect sensors, soil probes and many more."
+msgstr ""
+
+# 638fe0f86bc04c8e836c616afd31427b
+#: ../source/measure.rst:73
+msgid "Care should be taken not to exceed the allowable input voltage:"
+msgstr ""
+
+# 528626ec7a294c949af02fd963197966
+#: ../source/measure.rst:75
+msgid "XO-1 -0.5 V to 5 V"
+msgstr ""
+
+# ee9e9c068a6549b295c06f25fb97cb21
+#: ../source/measure.rst:77
+msgid "XO-1.5 -6 V to +9 V"
+msgstr ""
+
+# 72e0464f322e486c87fc741e3287ced5
+#: ../source/measure.rst:79
+msgid "XO-1.75 -6 V to +9 V"
+msgstr ""
+
+# 6d5e6b16c4df445cac918e2ddae63964
+#: ../source/measure.rst:81
+msgid ""
+"It is a good idea, particularly on the XO-1, to put a resistor of 680 ohms "
+"in the phono plug, this increases the allowable input voltage range."
+msgstr ""
+
+# 77b7be02b4fb4e09897f7b1a217b53b1
+#: ../source/measure.rst:83
+msgid ""
+"You can find ideas for fun science experiments at http://wiki.sugarlabs.org/"
+"go/Activities/TurtleArt/Using_Turtle_Art_Sensors and http://wiki.laptop.org/"
+"go/Measure"
+msgstr ""

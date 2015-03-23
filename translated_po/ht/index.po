@@ -1,0 +1,72 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 75582d63435244b78bab2ceb61701fc0
+#: ../source/index.rst:7
+msgid "Welcome to Sugar's documentation!"
+msgstr ""
+
+# 9fc64c39e78b42bdb8c65528fe494fc2
+#: ../source/index.rst:9
+msgid "Contents:"
+msgstr ""
+
+# 5c39b4b591ba408aa7fa0537e975c1c2
+#: ../source/index.rst:11
+msgid "Using Sugar"
+msgstr ""
+
+# f10540e048ce4d5985e3dd380f91dc8b
+#: ../source/index.rst:27
+msgid "Using Activities"
+msgstr ""
+
+# cfbebecb05e742419eda935ad097beb4
+#: ../source/index.rst:38
+msgid "Activities"
+msgstr ""
+
+# 67e4eb1b7f60417092154d441cbbb874
+#: ../source/index.rst:78
+msgid "Network"
+msgstr ""
+
+# 40d5280197c0495a86b5a582a2db774b
+#: ../source/index.rst:87
+msgid "The XO hardware"
+msgstr ""
+
+# bafcb547c8ac40db8027902f865b5358
+#: ../source/index.rst:102
+msgid "About this manual"
+msgstr ""
+
+# 10b0fd7979594de59cddb92d5b9dc969
+#: ../source/index.rst:113
+msgid "Contribute to this manual"
+msgstr ""
+
+# 89179aef960b4891b7a802d2c9660bca
+#: ../source/index.rst:121
+msgid "Support"
+msgstr ""
+
+# 43012cf39f394226b8612b2ec4025cef
+#: ../source/index.rst:129
+msgid "Appendices"
+msgstr ""

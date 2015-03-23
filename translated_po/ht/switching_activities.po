@@ -1,0 +1,51 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# 337a4ca5ec27402597e0dce1df6daa3f
+#: ../source/switching_activities.rst:4
+msgid "Switching Activities"
+msgstr ""
+
+# 9efe81cc6347471abbcfe086e2b4c687
+#: ../source/switching_activities.rst:6
+msgid "You can switch between Activities in two ways:"
+msgstr ""
+
+# d55a61b929f74d8e96fe66c495c69bdc
+#: ../source/switching_activities.rst:8
+msgid "In the Frame, click the icon of the Activity you want to switch to."
+msgstr ""
+
+# fae5e1c1dd37449d91a94c4138477505
+#: ../source/switching_activities.rst:9
+msgid ""
+"Hold down alt + tab at the same time to cycle through your open Activities "
+"until you reach the one you want."
+msgstr ""
+
+# 38d33bdce2704b1e82fc8ad8a27af34b
+# 5a604588aaaf4c378cc8d9f8e873a5ff
+#: ../source/switching_activities.rst:13 ../source/switching_activities.rst:17
+msgid "pressing alt + tab again"
+msgstr ""
+
+# b3c6f96685f54f58b01d0961da5895a4
+#: ../source/switching_activities.rst:23
+msgid ""
+"You can use the Clipboard and the Journal to move data between Activities."
+msgstr ""

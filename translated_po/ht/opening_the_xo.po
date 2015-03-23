@@ -1,0 +1,80 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# b5716131e82049ebb7a3483aba013017
+# d448d523eb2c44839d491336dac63aa2
+#: ../source/opening_the_xo.rst:3 ../source/opening_the_xo.rst:6
+msgid "Opening the XO"
+msgstr ""
+
+# a844a7cb9b7d44bcbeb635bb26aaf2f4
+#: ../source/opening_the_xo.rst:8
+msgid "You can open, flip, and close the XO to position it in different ways."
+msgstr ""
+
+# f0e40fe522c041eb80e93af890b29429
+#: ../source/opening_the_xo.rst:10
+msgid "To open the XO"
+msgstr ""
+
+# 7219593daca446aaa22408acd5d79069
+#: ../source/opening_the_xo.rst:12
+msgid ""
+"Position the laptop with the handle away from you, and then rotate both of "
+"the antennae towards you."
+msgstr ""
+
+# 7013a8f196c64bbf8d9b06fe6baf4be1
+#: ../source/opening_the_xo.rst:16
+msgid ""
+"Lift the front edge of the top of laptop, and then move the top upward away "
+"from you. You can hear and feel a slight click as you first lift the top."
+msgstr ""
+
+# c51e278fedb742f496f18a234f3d74a9
+#: ../source/opening_the_xo.rst:21
+msgid "To flip the XO"
+msgstr ""
+
+# ee8f2e12c20b41aba2aa3d3236d48a84
+#: ../source/opening_the_xo.rst:23
+msgid ""
+"You can switch the XO so that the screen lies flat and covers the keyboard. "
+"This lets you handle the gamepad buttons more easily or read electronic "
+"books (ebooks), using the arrow buttons to page forward and backward."
+msgstr ""
+
+# f45018e0d20642d789247d82b6abdb50
+#: ../source/opening_the_xo.rst:27
+msgid "Bring the display up to a 90-degree angle and rotate the antennae down."
+msgstr ""
+
+# 89de42c9d91b4147a306f42980386d53
+#: ../source/opening_the_xo.rst:28
+msgid "Rotate the display 180 degrees until it is facing backwards."
+msgstr ""
+
+# 7c9a4f0149f741568301553b186f449c
+#: ../source/opening_the_xo.rst:29
+msgid "Fold the display down onto the keyboard."
+msgstr ""
+
+# 2f9fa19bfff24313869e15f10a60ad69
+#: ../source/opening_the_xo.rst:30
+msgid "Press the rotate key to orient the display."
+msgstr ""

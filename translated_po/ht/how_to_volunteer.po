@@ -1,0 +1,381 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# b3f7da00bb1f4001851f8f70ceb4b0b1
+#: ../source/how_to_volunteer.rst:3
+msgid "How to volunteer"
+msgstr ""
+
+# e92683dac13246998ad5b50def9d9dbb
+#: ../source/how_to_volunteer.rst:6
+msgid "Volunteers Change the World"
+msgstr ""
+
+# 6a2e309516fa4d4281e098f3a87580d1
+#: ../source/how_to_volunteer.rst:8
+msgid ""
+"Join us in our global mission to improve education for the world's children! "
+"Volunteer contribution is central to the educational spirit of OLPC. The "
+"ways to volunteer are as varied as your interests. The sections that follow "
+"provide information to learn how to become a volunteer, based on your "
+"interests and background."
+msgstr ""
+
+# 591053d123a64eaf98595b984595ae8b
+#: ../source/how_to_volunteer.rst:10
+msgid ""
+"If learning matters to you, you will be welcome. To directly get involved, "
+"visit the web site http://olpcMAP.net or email volunteer@laptop.org."
+msgstr ""
+
+# 4c5cc9b7efa84b77bf6d4bd3e97aab1c
+#: ../source/how_to_volunteer.rst:12
+msgid ""
+"Finally, know that there are LOTS of fun, cool people out in the world who'd "
+"like to work and play together with you as contributors, to help spread our "
+"mission and to improve children's lives."
+msgstr ""
+
+# 69b21c909d324cc48a87372abae685e8
+#: ../source/how_to_volunteer.rst:15
+msgid "Kids, siblings, and parents"
+msgstr ""
+
+# c701043174ef4237a2ef8d895a04b21b
+#: ../source/how_to_volunteer.rst:17
+msgid ""
+"The XO is meant for the entire family to use, so learning as much as you can "
+"to help each other learn is one way to volunteer with (and for) other OLPC "
+"learners worldwide."
+msgstr ""
+
+# b9528fcf752747b9b14b32d86ff2b213
+#: ../source/how_to_volunteer.rst:19
+msgid ""
+"You can contribute to the wiki, a web site that you can edit, at http://wiki."
+"laptop.org to share your knowledge and XO laptop experience."
+msgstr ""
+
+# d31f704b34094e1cb9be80db1175189b
+#: ../source/how_to_volunteer.rst:21
+msgid ""
+"You can tell others about your projects and recruit others to join your "
+"efforts. To understand how easy it is to edit the wiki, go to http://wiki."
+"laptop.org/go/Wiki_getting_started."
+msgstr ""
+
+# 333c5aa8ba5644ebbe73ab05d5b31256
+#: ../source/how_to_volunteer.rst:23
+msgid ""
+"You might want to get involved in a regional group with other XO owners in "
+"your area. You can find many such vibrant communities at http://wiki.laptop."
+"org/go/Regional_community_groups."
+msgstr ""
+
+# 8b420da6852048719d54e6a5527631bb
+#: ../source/how_to_volunteer.rst:26
+msgid "Teachers, students, and educators"
+msgstr ""
+
+# a9cf6c516b924dba843d3ab5d2267c9b
+#: ../source/how_to_volunteer.rst:28
+msgid ""
+"The OLPC project is an education project above all else, so your "
+"contributions are highly valued. You can contribute by testing, developing "
+"content, mentoring, or running group activities. You can start a University "
+"chapter of OLPC users -- both formal Community Service Learning and great "
+"informal clubs exist. Details may be found at wiki.laptop.org/go/"
+"University_program."
+msgstr ""
+
+# e69dda04cae44ee5a1bd483ef3fa86b9
+#: ../source/how_to_volunteer.rst:30
+msgid ""
+"You can try to meet with other teachers and students within your geographic "
+"region, or look up pre-existing groups within the list of regional groups "
+"here: http://wiki.laptop.org/go/Groups."
+msgstr ""
+
+# 84bf8021694e4af8a00c77ca5ffeec43
+#: ../source/how_to_volunteer.rst:33
+msgid "Support Gang"
+msgstr ""
+
+# 701ee59c2e5b482fadd608487d6f6149
+#: ../source/how_to_volunteer.rst:35
+msgid ""
+"If you enjoy personally helping others, and the challenge of solving "
+"problems with learners worldwide, you would be a perfect fit for the Support "
+"Gang. We work together answering all kinds of questions about the XO, "
+"peripherals, software, volunteering, deployment, organizational development "
+"and anything else OLPC users ask about."
+msgstr ""
+
+# 70eb147927ef4a50ba19b03eaca996aa
+#: ../source/how_to_volunteer.rst:37
+msgid ""
+"Community Support Volunteers are an extremely friendly and supportive group, "
+"who came together from all around the world, and work together closely "
+"online. We also meet weekly with invited guest speakers by phone, and in "
+"person whenever possible."
+msgstr ""
+
+# ad2d55c5fdde4152a5897e47debe6b90
+#: ../source/how_to_volunteer.rst:39
+msgid ""
+"When you volunteer, fellow volunteers and OLPC will help you get started and "
+"assist you in finding answers to difficult or unusual technical questions. "
+"Bilingual volunteers are most especially welcome. Please join us at http://"
+"wiki.laptop.org/go/Support_Gang."
+msgstr ""
+
+# 8443e30151dc455582cffa50b60ead71
+#: ../source/how_to_volunteer.rst:42
+msgid "Documentation"
+msgstr ""
+
+# 46dc5e8d8341496ab2aadafc160321fb
+#: ../source/how_to_volunteer.rst:44
+msgid ""
+"If you would like to help others learn about the XO then you can help with "
+"the documentation. We have a dedicated team and we eagerly welcome new "
+"contributors! You don't need to be a expert on the technology to participate "
+"- you may wish to just spell check or check images. You may also be inspired "
+"to write a chapter or improve existing chapters. You can learn more on how "
+"to contribute by joining the OLPC Library mailing list http://lists.laptop."
+"org/listinfo/library"
+msgstr ""
+
+# b867c64a1f9a48f69269c1c020f4417d
+#: ../source/how_to_volunteer.rst:46
+msgid "Existing XO and Sugar manuals are written and hosted at FLOSS Manuals."
+msgstr ""
+
+# 53dbc9644c6a4008a21190f18fbf5053
+#: ../source/how_to_volunteer.rst:49
+msgid "Translators"
+msgstr ""
+
+# b2ac5704f16a41c69c370501b4997143
+#: ../source/how_to_volunteer.rst:51
+msgid ""
+"OLPC is a world-wide program that tries to reach people in many countries, "
+"who speak many different languages. You can get an idea of the program and "
+"look for your languages on the Sugar Labs translation server. If you speak "
+"and write more than one language, you can help translate the wiki or the "
+"software. If you can help, please see http://wiki.laptop.org/go/Translation."
+msgstr ""
+
+# 59ea0bac7d604cdfa0b587e42061320b
+#: ../source/how_to_volunteer.rst:54
+msgid "Content creators, writers, artists, photographers, videographers"
+msgstr ""
+
+# 80aeb1cfe17a4ddf86bdb4a535f7a406
+#: ../source/how_to_volunteer.rst:56
+msgid ""
+"Everyone is a creator: by creating and sharing something, you inevitably "
+"understand it better. Writing about the XO can also be one of the greatest "
+"contributions to helping others."
+msgstr ""
+
+# 7686ffb50d8245519527ef5388652c38
+#: ../source/how_to_volunteer.rst:58
+msgid ""
+"Please consider offering your communications or media talents on the OLPC "
+"Wiki - whether by writing, designing, editing, storytelling or simply "
+"organizing - anywhere within http://wiki.laptop.org."
+msgstr ""
+
+# c3a63c6d5fbb4876a659942882b361be
+#: ../source/how_to_volunteer.rst:60
+msgid ""
+"If you want to create art for the XO, you can join other artists at the Art "
+"Community page at http://wiki.laptop.org/go/Community:Art."
+msgstr ""
+
+# 3d69ee61477346daa606a407d6341330
+#: ../source/how_to_volunteer.rst:62
+msgid ""
+"You can upload photos to a great, growing worldwide archive at http://www."
+"flickr.com/groups/olpc. One group of photos even shows those specially taken "
+"by XO laptops themselves, using the Record Activity. Hardware designers and "
+"testers"
+msgstr ""
+
+# 9b0c53dc7bd34aeeadda4d8d52ac3e8b
+#: ../source/how_to_volunteer.rst:64
+msgid ""
+"There are lots of volunteer hardware opportunities, from brainstorming about "
+"alternative power to developing peripherals to repairing XOs. You may want "
+"to develop peripherals for the XO that use its USB ports or other inputs, "
+"for health applications or beyond: http://wiki.laptop.org/go/Health."
+msgstr ""
+
+# 3627387d6c9a47cc939ae346ffe033f1
+#: ../source/how_to_volunteer.rst:66
+msgid ""
+"You can get involved with community repair centers or start your own, with "
+"volunteers or as a business: http://wiki.laptop.org/go/"
+"Repair_center_locations."
+msgstr ""
+
+# ba29c401e12b4a2aaa7694709cc76ad0
+#: ../source/how_to_volunteer.rst:68
+msgid ""
+"You may want to work on power generation: http://lists.laptop.org/listinfo/"
+"power. Or firmware coding: http://wiki.laptop.org/go/OFW. To find out more "
+"about all of these types of hardware projects search for those keywords at: "
+"http://wiki.laptop.org/go/Category:Hardware."
+msgstr ""
+
+# 88c7c34dcf6549c98c2a116b9668b612
+#: ../source/how_to_volunteer.rst:71
+msgid "Software"
+msgstr ""
+
+# f0f64a43d6274b028ad6d6df3df9d999
+#: ../source/how_to_volunteer.rst:73
+msgid ""
+"Software Developers especially should connect with Sugar Labs: http://join."
+"sugarlabs.org"
+msgstr ""
+
+# d90ffdd1133b4d1ba8562b56aa1995d2
+#: ../source/how_to_volunteer.rst:75
+msgid ""
+"The XO's software is designed to be malleable because we want the help of "
+"all the people in the world who are capable of writing free software to help "
+"other people learn. To get involved, you can:"
+msgstr ""
+
+# 522e2d8c51ae4d208fd164a521d5ff00
+#: ../source/how_to_volunteer.rst:77
+msgid "Write activities http://wiki.sugarlabs.org/go/Activity_Team."
+msgstr ""
+
+# dad99e8846554031a59c927e20f6436d
+#: ../source/how_to_volunteer.rst:78
+msgid ""
+"Fix, report, or triage bugs http://bugs.sugarlabs.org and http://dev.laptop."
+"org."
+msgstr ""
+
+# 0dd7e21258c34ea383fac1751b0ea48c
+#: ../source/how_to_volunteer.rst:79
+msgid "Help test http://wiki.laptop.org/go/Friends_in_testing."
+msgstr ""
+
+# 414ef9cdd24e4065b06001722a453248
+#: ../source/how_to_volunteer.rst:80
+msgid "Hack Sugar and our OS http://wiki.laptop.org/go/Developers_manual."
+msgstr ""
+
+# 010b6cfb550d4caa9380fcf6a743516a
+#: ../source/how_to_volunteer.rst:82
+msgid "In short: \"patches are welcome\"."
+msgstr ""
+
+# 8282faec870d4b96be73da56fd3e9975
+#: ../source/how_to_volunteer.rst:85
+msgid "Local opportunities"
+msgstr ""
+
+# 4ecd2ea9fbfb4164a047407d737458fa
+#: ../source/how_to_volunteer.rst:87
+msgid ""
+"Help create changes in the community you live in - as well as ones you'd "
+"like to visit. Start or join a grassroots group: http://wiki.laptop.org/go/"
+"Groups."
+msgstr ""
+
+# 0806ba66e41541c99e55603da2e8182d
+#: ../source/how_to_volunteer.rst:89
+msgid ""
+"Create a Community Repair Center: http://wiki.laptop.org/go/"
+"Repair_center_locations."
+msgstr ""
+
+# 8c08db5410ea4dec8f2dcf009b3be6f3
+#: ../source/how_to_volunteer.rst:90
+msgid "Help out at a nearby Pilot deployment: http://planet.laptop.org."
+msgstr ""
+
+# d4d9c6e4b7994861af269e6c827e143a
+#: ../source/how_to_volunteer.rst:91
+msgid "Run, host, or attend an Event or Jam: http://olpcMAP.net."
+msgstr ""
+
+# 0c22cbd4f32f44bbbd521a90af5dc25d
+#: ../source/how_to_volunteer.rst:94
+msgid "Deployment"
+msgstr ""
+
+# 2ff4fdc09d3449a58b5d5fda70a47333
+#: ../source/how_to_volunteer.rst:96
+msgid ""
+"Volunteering at an OLPC deployment or school of any size is sometimes "
+"possible, in exceptional cases: http://wiki.laptop.org/go/ClassActs/Resources"
+msgstr ""
+
+# 4f62447be5e44b1599398ec866711ba7
+#: ../source/how_to_volunteer.rst:98
+msgid ""
+"Volunteers working on their own much smaller deployments, work together "
+"leveraging their mutual insights: http://wiki.laptop.org/go/ALEARN_Network"
+msgstr ""
+
+# 6774f2e255804247accafb9705c268a1
+#: ../source/how_to_volunteer.rst:100
+msgid ""
+"A great way to get started is to explore others' work at http://planet."
+"laptop.org and then email your specific interests and qualifications to: "
+"mailto:volunteer@laptop.org"
+msgstr ""
+
+# c0034279725448e888e59a322c37a0f9
+#: ../source/how_to_volunteer.rst:103
+msgid "Annual Community Summits"
+msgstr ""
+
+# d40025733c784a7da953f7d371b9f408
+#: ../source/how_to_volunteer.rst:105
+msgid ""
+"Nothing beats meeting in person, and the OLPC community's biggest annual "
+"summit occurs in October in San Francisco, thanks to: http://olpcSF.org."
+msgstr ""
+
+# 3559379d4e92468195ca036b6c45db3a
+#: ../source/how_to_volunteer.rst:107
+msgid ""
+"Similarly a more technical spring summit generally takes plan around May in "
+"Montevideo, Uruguay: http://ceibalJAM.org."
+msgstr ""
+
+# c9de0fe6593e49069e7c68304ec32ed7
+#: ../source/how_to_volunteer.rst:110
+msgid "Conclusions"
+msgstr ""
+
+# f2b1cbd3a0e84ce8a4c7651f9bc95235
+#: ../source/how_to_volunteer.rst:112
+msgid ""
+"We weren't kidding when we told you that we accept volunteer contributions "
+"of all shapes, sizes, and kinds. Would you enjoy making presents for "
+"millions of children every day? Can you help?"
+msgstr ""

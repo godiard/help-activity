@@ -1,0 +1,242 @@
+# Haitian translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ht\n"
+
+# fb61a90fcbe3425db5257c00b736375b
+#: ../source/restructuredtext.rst:3
+msgid "Writing in reStructuredText"
+msgstr ""
+
+# 487cba3e802d437b8dadf5fd55ea3244
+#: ../source/restructuredtext.rst:5
+msgid ""
+"This page is a short primer and cheat sheet for the markup language we are "
+"using in :doc:`/how_to_help`. The rst format is easy to create and we are "
+"using a part of it only."
+msgstr ""
+
+# 19f05a715cf84a5294f273814f968278
+#: ../source/restructuredtext.rst:10
+msgid "Titles"
+msgstr ""
+
+# 1867bb509413499d9ce9d1020da2162a
+#: ../source/restructuredtext.rst:29
+msgid "Links"
+msgstr ""
+
+# bf2af485bb724a0e82c6c97547e4e13e
+#: ../source/restructuredtext.rst:31
+msgid "Links like http://activities.sugarlabs.org are automatically created."
+msgstr ""
+
+# 6beedbd7146c4e5c917250080831ebf6
+#: ../source/restructuredtext.rst:33
+msgid ""
+"To create links where the text displayed in the page is different to the "
+"link you should do:"
+msgstr ""
+
+# 4548869d51de464481d363b6969ed0b5
+#: ../source/restructuredtext.rst:35
+msgid "You will find `ASLO <http://activities.sugarlabs.org>`_ here."
+msgstr ""
+
+# d2b14651d9c34d5f9035101e8e117e1d
+#: ../source/restructuredtext.rst:37
+msgid "Program writing software like Python_."
+msgstr ""
+
+# 944334f8266f4aacba0f7cd3c944feb4
+#: ../source/restructuredtext.rst:54
+msgid "Links within Help"
+msgstr ""
+
+# 90eb711028694191b38272a561a6e920
+#: ../source/restructuredtext.rst:56
+msgid ""
+"This link, :ref:`my-reference-label` links to the top paragraph of this "
+"document."
+msgstr ""
+
+# 1df3a028458648f38c4d6908c735618f
+#: ../source/restructuredtext.rst:58
+msgid ""
+"To see how this works, ``.. _my-reference-label:`` appears on line 7 of "
+"restructuredtext.rst."
+msgstr ""
+
+# b0e99d9915d04d96b820a4eb5373acd3
+#: ../source/restructuredtext.rst:60
+msgid ""
+"Secondly, this page contains more about terms and words used in sugar. :doc:"
+"`/glossary`"
+msgstr ""
+
+# 95910e1f6d6846d289c48fdd8c459d02
+#: ../source/restructuredtext.rst:72
+msgid "Lists"
+msgstr ""
+
+# d5eadb4afe3345bdaf92d2823f0892a1
+#: ../source/restructuredtext.rst:74
+msgid "Lists are simple"
+msgstr ""
+
+# 0be07fd899e94316acded4862a0fc055
+#: ../source/restructuredtext.rst:76
+msgid "First item"
+msgstr ""
+
+# 0183a476842c4c20ae1fb3dd73341b85
+#: ../source/restructuredtext.rst:77
+msgid "Second item"
+msgstr ""
+
+# d747914983f14b1088853acb93707fac
+#: ../source/restructuredtext.rst:78
+msgid "Last item"
+msgstr ""
+
+# 17a25b354f834ed9858d055fac95ea5e
+#: ../source/restructuredtext.rst:80
+msgid "or numbered:"
+msgstr ""
+
+# 0561ecc43b4c42fd9af75a7c0a04d522
+#: ../source/restructuredtext.rst:82
+msgid "One item"
+msgstr ""
+
+# 369e3ae7167641f79d4fc2d80907a7b2
+#: ../source/restructuredtext.rst:83
+msgid "Another item"
+msgstr ""
+
+# 79f7727502c84ed7867ba8b857c177ea
+#: ../source/restructuredtext.rst:84
+msgid "The last one"
+msgstr ""
+
+# 57f11fcbcfd84f74a141507e89ba95db
+#: ../source/restructuredtext.rst:101
+msgid "Simple table"
+msgstr ""
+
+# 8979ab2fe3b341da914f4dfe75b5cf7c
+#: ../source/restructuredtext.rst:104
+msgid "Inputs"
+msgstr ""
+
+# 5953e8f6ce1242e2aedde98298ea063d
+#: ../source/restructuredtext.rst:104
+msgid "Output"
+msgstr ""
+
+# 995cce8d58db4bfc97e9837b59731fdf
+#: ../source/restructuredtext.rst:106
+msgid "A"
+msgstr ""
+
+# 194b130053cf408c97ed5c37422dfc95
+#: ../source/restructuredtext.rst:106
+msgid "B"
+msgstr ""
+
+# 4e91454f5a904340a2be0d9273e8004e
+#: ../source/restructuredtext.rst:106
+msgid "A or B"
+msgstr ""
+
+# 1aca590678624cfd8797a38155554a11
+# 5e684c84ee70424893e7690348441d99
+# 3177bc6875fc47a38630651f62a2c005
+# c635948ddc4248e880ce146bcd23e694
+# c2f74ff7e7cf469191237a69b20788f1
+#: ../source/restructuredtext.rst:108 ../source/restructuredtext.rst:109
+#: ../source/restructuredtext.rst:110
+msgid "False"
+msgstr ""
+
+# 4db0854e91534916843a9135833162f4
+# 6e35512eb66548008910556371e76d56
+# b095fa7f9cd0490e921eb7499085d783
+# 53b218f708b64e9680fe3c6ee95dd2f0
+# 7c5a140edb244241914b12e0d9da6643
+# 13537a4894d4455e81842b550000232b
+# 0cfa5bef434d45c88cb92ff48b57438b
+#: ../source/restructuredtext.rst:109 ../source/restructuredtext.rst:110
+#: ../source/restructuredtext.rst:111
+msgid "True"
+msgstr ""
+
+# ecb6477c4ee54cab9dadb241a19de6bf
+#: ../source/restructuredtext.rst:128
+msgid "Images"
+msgstr ""
+
+# 616190276d464d07b53dfec530d53072
+#: ../source/restructuredtext.rst:130
+msgid "An image can be included like this:"
+msgstr ""
+
+# fed6987abd3a4a739651a61de48e0f59
+#: ../source/restructuredtext.rst:139
+msgid "Icons and small images"
+msgstr ""
+
+# 417a119b1c5f40ba81a3b732040353b1
+#: ../source/restructuredtext.rst:141
+msgid "|Neighborhood_key| This is the sharing option."
+msgstr ""
+
+# f8607912d4d6480aafc5142d753ed0de
+#: ../source/restructuredtext.rst:145
+msgid "|Home_key_f3_small| This is the Private option."
+msgstr ""
+
+# 47984db562fd4c2585749ece6f6f23e9
+#: ../source/restructuredtext.rst:160
+msgid "Adding a note"
+msgstr ""
+
+# 739588c8f5a34f52b9939ae0fab16f97
+#: ../source/restructuredtext.rst:164
+msgid ""
+"When you are required to place the first readable character at point 3 or 4 "
+"in the line, it is recommended to check if you are required to insert spaces "
+"or Tab."
+msgstr ""
+
+# 9628f9fc4c6c4f2ebb53195e03eb4693
+#: ../source/restructuredtext.rst:166
+msgid "And also"
+msgstr ""
+
+# 8903c7a69c38499cada58225088fdba1
+#: ../source/restructuredtext.rst:170
+msgid ""
+"Notice that first readable character of this note is under the \"s\", three "
+"spaces preceed it."
+msgstr ""
+
+# 25818f39acda4d2183918f726d7c0a2c
+#: ../source/restructuredtext.rst:185
+msgid ""
+"|more| There are links to :ref:`Further reading` at the foot of the page :"
+"doc:`/how_to_help`"
+msgstr ""
