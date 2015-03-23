@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,32 +17,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/gnome.rst:3
-# 52a4dcae0f83406199217b5824da4346
+# 76ec0b1947834538b7dc280be3979551
 msgid "GNOME"
 msgstr ""
 
 #: ../source/gnome.rst:5
-# 640285df2bd14b0c9508bd4aaff4b6d9
+# 1a5c3cdb22c545bba391259f17f35509
 msgid "In late 2009 OLPC added a more conventional desktop environment called GNOME to its operating system. This is intended for older children and advanced users."
 msgstr ""
 
 #: ../source/gnome.rst:10
-# ed0b5c1aaae049638af9fc5b777376ee
+# c405cd39c9b948519238dead3f1bc26a
 msgid "Users can switch from Sugar to GNOME through the Switch Desktop option under My Settings."
 msgstr ""
 
 #: ../source/gnome.rst:14
-# 314c56c5ba2844c5851ee40846d4551f
+# 1015dc8593a6499cb030fb88c3fa2df5
 msgid "After selecting the Switch Desktop option another confirmation dialogue with additional information appears. The switch to GNOME can be initiated by clicking the Restart now button."
 msgstr ""
 
 #: ../source/gnome.rst:18
-# d2d10738be47457883330c68dee5bb87
+# 4381571d93b94a20b70536ccd560299f
 msgid "Switching back to Sugar from GNOME can be done via the Switch to Sugar icon on the GNOME desktop or the Application - System Tools menu and confirming the corresponding message box."
 msgstr ""
 
 #: ../source/gnome.rst:22
-# 37f0f6f33c9d43afb8308d878dcc3975
+# a335a9439aeb4256bb00a7bd166ffb3d
 msgid "Further information about GNOME is available on the `GNOME Web site <http://gnome.org>`_ and its extensive `Help section <https://help.gnome.org/users/gnome-help/stable/>`_. Additional information about how to transfer files from Sugar's Journal to GNOME's Documents folder can be found in the Journal section."
 msgstr ""
 

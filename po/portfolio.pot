@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,446 +17,446 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/portfolio.rst:3
-# 654b79de6b2e4f46851dbac326610681
+# 2b97f5e20b524809bca299e372c60129
 msgid "Portfolio"
 msgstr ""
 
 #: ../source/portfolio.rst:6
-# 1a1d8c6f737c4f4abd2837f2e87f64dd
+# e0eb74abc66d4d9b8cf30c76791d470a
 msgid "About"
 msgstr ""
 
 #: ../source/portfolio.rst:10
-# 94db7cb317e0472e9dafd524707086e9
+# 001317938dd748229b90653684687079
 msgid "The Portfolio Activity creates a slide show from Sugar Journal entries that have been 'starred'."
 msgstr ""
 
 #: ../source/portfolio.rst:15
-# 9852c5b8e2a845edb52f2e9812a08504
+# 6598f10230a04cd9a0929bda9eb81cc5
 msgid "Where to get Portfolio"
 msgstr ""
 
 #: ../source/portfolio.rst:17
-# 185c240dd78a496192f945baea182852
+# 9c35c0e686e24e3885a30279eb130c47
 msgid "The Portfolio activity is included in OLPC images and available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/addon/4437>`_"
 msgstr ""
 
 #: ../source/portfolio.rst:19
-# b364c83d46f647b384264c7ae072c30e
+# 7cd13a0ac2c144babe8ff66fceb70d04
 msgid "The source code is available on the `Sugar Labs Gitorious server <http://git.sugarlabs.org/portfolio>`_."
 msgstr ""
 
 #: ../source/portfolio.rst:22
-# 6321b058dea04788b475230c14d242b2
+# c3b674d1598f44e1918fc97d97de2b00
 msgid "Using"
 msgstr ""
 
 #: ../source/portfolio.rst:24
-# a659e6d2805b41cbaa5a88d4de37fb09
+# 37c3ea2200a949039ed5f8fa8ef89f79
 msgid "Before you launch the activity, use the ☆ on the left of each Journal entry to mark that entry for inclusion in the portfolio. The Portfolio Activity will use the entry title as well as the preview image and description."
 msgstr ""
 
 #: ../source/portfolio.rst:28
-# 155abbed90374e6e9b061a98e884c838
+# ac3531dc07ee46b2b7acd9a8a5781092
 msgid "The title text, the preview image, and the description text from Journal entries is used in the portfolio presentations."
 msgstr ""
 
 #: ../source/portfolio.rst:32
-# 72e4debe53eb4d27a8324a754b0517fc
+# 7e19991411a64fe89dd436c69a5831cb
 msgid "In the Thumbnail View, you can reorder the slides in your presentation by dragging."
 msgstr ""
 
 #: ../source/portfolio.rst:36
-# 1725841cf1234cf4b8411d21d5bc9d8d
+# bdf2d9c3cee64d2f9d5265f4bdf8ac89
 msgid "With the Edit-description Button, you can directly edit a Journal entry's description field."
 msgstr ""
 
 #: ../source/portfolio.rst:40
-# 2dc826238b3049ad9ac3a4ba2f9b85a2
+# 37dad77304134c7c9f0612f2d5f23065
 msgid "When running the activity, use the ◀ and ▶ buttons to step one-by-one through the slide show. Use the auto-play button to start/pause a slide show. The delay between slides can be controlled by the interval chosen in the combo box. (The default is 10 seconds.)"
 msgstr ""
 
 #: ../source/portfolio.rst:42
-# da6a4b3ffc0f44e19b4476c6796eaa8f
+# a668a5956bd54e9c852c12a7ab850b8b
 msgid "**Did you know that:**"
 msgstr ""
 
 #: ../source/portfolio.rst:44
-# a1125a1fe77c4aa3ab80e05fd99d312f
+# 2631ac3868b248eeb61f48be0d935f1d
 msgid "you can record audio notes for each slide; the notes are played back whenever the slide is viewed;"
 msgstr ""
 
 #: ../source/portfolio.rst:45
-# 687c9c33a83e4693a366367239486aa3
+# 29305c23fa40473180efda71d55a2bce
 msgid "the colors used in the background are taken from the XO colors of the user;"
 msgstr ""
 
 #: ../source/portfolio.rst:46
-# 159495c4296d4e23a3e7735115dc8645
+# ba5842e2def949a9b6e1ae574a20753a
 msgid "a warning is displayed if there are no starred entries in your Journal;"
 msgstr ""
 
 #: ../source/portfolio.rst:47
-# 8c20dcbb316d42e29c1ebdfb6627d6dd
+# 570f9ab7e0af45fcbbb28436b90badfc
 msgid "the slide show can be saved as an PDF document that can be shared;"
 msgstr ""
 
 #: ../source/portfolio.rst:48
-# 8e2414b4b5f14dafa61db7b70493877a
+# 40d04c6028484467944db83c05b9a180
 msgid "in the thumbnail view, you can reorder your slides (by dragging them); and"
 msgstr ""
 
 #: ../source/portfolio.rst:49
-# 16cc81ee5f8c4a4f83c00d446799d7ea
+# 44f888c5573347a785c5a1f4cc4217da
 msgid "you can edit the descriptions for each slide (and save your edits to the Journal)."
 msgstr ""
 
 #: ../source/portfolio.rst:50
-# 8eefb68ab7244c189f97797deb604875
+# 655f858c89674266927516bf3575423f
 msgid "for group projects, try using the Bulletin-board Activity."
 msgstr ""
 
 #: ../source/portfolio.rst:53
-# 7ff17427987141b1a3e4c582ab262cec
+# 8fe16564dae540a2960de506c395303c
 msgid "The Toolbars"
 msgstr ""
 
 #: ../source/portfolio.rst:56
-# 863ea254984a442a898db466e81dee8c
+# 8fc0ad244bf244368db8f972c99429f5
 msgid "Main toolbar"
 msgstr ""
 
 #: ../source/portfolio.rst:60
-# 383e204b3e1946ef9c7c139a6ff40e5b
+# 2fb0f0bbb6df4ed88eb416eb4fef5fe7
 msgid "from left to right"
 msgstr ""
 
 #: ../source/portfolio.rst:62
-# 5c69835e168f40feba76e60c94036beb
+# 694f14cf650f4bcfb0e436163e3c9c6e
 msgid "**Activity-toolbar Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:63
 #: ../source/portfolio.rst:71
 #: ../source/portfolio.rst:73
-# 1525b6b9502a4909973f3fca1d18dab0
-# abff332e27704cfd9406a1ed591ca451
-# 83f05b00df074ed69ee1ee05580cc5f8
+# b2ca79383c514bacb11d0e2ba700691f
+# 28e24e341c7044a59ba31f205926fe75
+# c041f5f09bbb486bb5f7c90e99370f9c
 msgid "(toolbar described below)"
 msgstr ""
 
 #: ../source/portfolio.rst:64
-# dfc4a0f32a26470184571ed050e92a53
+# 19ef2e64a26d46aba847edde3af20bb6
 msgid "**Previous-slide Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:65
-# 739a8e4f949b466886151fd37500ff5c
+# bd7ca7739f7e483cb15de3af45acd299
 msgid "returns to the previous slide shown (also activated by typing <Ctrl-p>)"
 msgstr ""
 
 #: ../source/portfolio.rst:66
-# f3e2c3a354fb4a99807054a5dc4db8e1
+# 3b920bee343b400e86e2e413fc91aed5
 msgid "**Next-slide Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:67
-# ecd5f01c0b634ab8ae5803ccc2e796d9
+# a1db59abd6914ec399ccfe3ab4a82387
 msgid "goes to the next slide in the sequence (also activated by typing <Ctrl-n>)"
 msgstr ""
 
 #: ../source/portfolio.rst:68
-# d6b46337adb94813b58f812f5f0f7c7c
+# 277b94ca219f40f185fdcd1d945e7010
 msgid "**Auto-play Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:69
-# 91fd553b9532483fa9ad3d04e130c4f3
+# 2bdf16a46e2a40e6ab91fadb867cf4fa
 msgid "starts a slide show with a user-settable pause between each slide"
 msgstr ""
 
 #: ../source/portfolio.rst:70
-# e1aef17143a7416dab54a2831b64cd1a
+# 1baa17b5b3ed4af0956b6e0e55c07289
 msgid "**Customize-toolbar Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:72
-# 2ef74784535c4c3f9c716a6ecd7c84e0
+# dbbdc1bf0cba462eab0ea2d7d38ff1f6
 msgid "**Record-toolbar Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:74
-# daf0cc155d544523994610caa8c6f1a9
+# e22f82d9e55e46e98081c169882ab64c
 msgid "**Portfolio-view Radio Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:75
-# 813af6b7a68742468e033b6e81b9f859
+# e37d2c712830482eb153e8309a9b4437
 msgid "used to switch to portfolio view (default)"
 msgstr ""
 
 #: ../source/portfolio.rst:76
-# 8777588f87cc489d80dc66ae761be451
+# 4f3eafed870d454e8ac48abe565abd2c
 msgid "**Thumbnail-view Radio Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:77
-# a62d65c3dfc54931a713dc913bdb15bc
+# 61c19d2bdeb442909f609288bfb8c672
 msgid "used to switch to thumbnail view, where you can reorder the sequence of the slides by dragging them"
 msgstr ""
 
 #: ../source/portfolio.rst:78
-# abbdc3e3ce834d4a8bf4352313b23276
+# 9631da773d8d45de97f696252691c484
 msgid "**Full-screen-view Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:79
-# 01db85625a5b4d98af3d5711aecd54d7
+# 98920af3af784d56ab5cd88fff1cb929
 msgid "hides the toolbars (Return from full-screen by hitting the Esc key.)"
 msgstr ""
 
 #: ../source/portfolio.rst:80
-# 8563bb58f1fb4139a958f52cbc880adc
+# b3ee416b567a45d3bf9b2fc12662e115
 msgid "**Update-description Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:81
-# 17c168c207304509aec9cec6f2eadeeb
+# a60ed834c9494953895cc32bbead32d5
 msgid "Used to edit the description of the entry currently being viewed (Note: use the Save-annotations Button to make these edits permanent)."
 msgstr ""
 
 #: ../source/portfolio.rst:83
-# 9d71d420496b4126b26cc9c648430edf
+# 1332b548f2c649dc94701be56f699029
 msgid "**Stop Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:83
-# 3b0fcd922efe409b92de3a5250b040ca
+# 4b25c904294845e2972fb6be2bd3d2bc
 msgid "used to exit the activity"
 msgstr ""
 
 #: ../source/portfolio.rst:86
-# 77daaa9109e74c4aa7749541f7a2c573
+# b004845b98544616bac4e0ab418ced3b
 msgid "Activity Toolbar"
 msgstr ""
 
 #: ../source/portfolio.rst:88
-# 78c28491adfd4a32b54062d1d1f67a87
+# c383e23bd502495d8584531c75b98b2f
 msgid "**Activity name field**"
 msgstr ""
 
 #: ../source/portfolio.rst:89
-# 56c4bd7125b34663acb996f82c4c5763
+# 4481ca003d804672b4479709670d7207
 msgid "used to change the name of the activity (The name is used by the save-to-PDF Button.)"
 msgstr ""
 
 #: ../source/portfolio.rst:90
-# 3ba1b485dc2b49d6941bf930808ab306
+# b5ca6c953c6045bda193c50fa15a6023
 msgid "**Share Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:91
-# e3979a42963b4571bc95508927edabd0
+# 08be2a8900ef46feb1299010ae92eb9a
 msgid "as shown, disabled (Portfolio Activity version since v27 support sharing: joiners can add comments)"
 msgstr ""
 
 #: ../source/portfolio.rst:92
-# 101769bb279140ee87e6df34c81559e9
+# 7651c99c1f2340ac96d613d771424288
 msgid "**Reflection Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:93
-# fe2d00cf32954e1193e0cf2ac6748206
+# e1a61a46f40f4894993bda683e9864d6
 msgid "used to write descriptions for the Journal entry of this instance of Portfolio"
 msgstr ""
 
 #: ../source/portfolio.rst:94
-# 30392b2a436741fd9ab1f3dc03b86bb9
+# 97f4f90bd808450b8ab0d108f1b65335
 msgid "**Save-to-PDF Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:95
-# 4c3067fee6374fa5890030756e186240
+# 664d45def5ed4892bdeb8137c39bdd73
 msgid "used to save a copy of your presentation to the Sugar Journal as an PDF document"
 msgstr ""
 
 #: ../source/portfolio.rst:97
-# 4f7dcba218c6422bb9ed7805619c91e4
+# 7107fe9c423d4a36ae0c8e367f50df2e
 msgid "**Save-annotations Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:97
-# 05195a0193dc49d0a5aea9252ff8ced0
+# 3e1dd1e07304466393f6aa8940aef0ea
 msgid "used to save updates to the Journal entry descriptions"
 msgstr ""
 
 #: ../source/portfolio.rst:100
-# 820c3464b56a4c3bb7110325f2897179
+# f12f367803e443a390d63e6321e6dc61
 msgid "Options Toolbar"
 msgstr ""
 
 #: ../source/portfolio.rst:104
-# 00aaefcd5c634ad491a8da60c3a4e4fc
+# 84eac9a332714cd9a599f9b032b007a6
 msgid "**Timer Combo-box**"
 msgstr ""
 
 #: ../source/portfolio.rst:105
-# 240b6f42a6aa4724ab7ff7efb127b6db
+# d5187a2f167343e0b3ef98ce742e7c54
 msgid "lets you select a delay time between slides when using auto play (Choose two-seconds, ten-seconds, thirty-seconds, or one-minute delay)."
 msgstr ""
 
 #: ../source/portfolio.rst:107
-# 12b22eec5744414badf0f56b8d1bd595
+# 522297b59c1a492d90514c615a55d470
 msgid "**Refresh Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:107
-# 80bf76ca6006437e80420652db8b6a95
+# bce20c71f7884d95906f189c1c90ceed
 msgid "scans the Journal to pull in any changes made since the Portfolio activity was launched."
 msgstr ""
 
 #: ../source/portfolio.rst:110
-# 398d6299ed9846c1a4bab2a878f60775
+# a10759c922174787b3a8b35fedcd05f3
 msgid "Recording Toolbar"
 msgstr ""
 
 #: ../source/portfolio.rst:114
-# c37e45ddaf324e39b0c233577ecadedb
+# fb02d0bda4134bb88d5d79c9a32239a5
 msgid "**Record Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:115
-# 8105f76494574eb2a685f5b35c8da893
+# 0dfb5e11a1e64ba592b3654ad382e1ff
 msgid "used to record an audio note associated with the current slide"
 msgstr ""
 
 #: ../source/portfolio.rst:116
-# 77359401aa984fa3b748abd6f2ab1058
+# db05af7274634a3187c62560ba0fb598
 msgid "**Playback Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:117
-# 6774bc9429824a7187d44d179d94e2e4
+# eabfc52a1d204052bcb00681798bef72
 msgid "active when there is audio associated with the current slide"
 msgstr ""
 
 #: ../source/portfolio.rst:119
-# 2b6d3bdb8eda4eb7b88bda8dca282203
+# eb02db35b8fe4f989c27634bae5600b8
 msgid "**Save Button**"
 msgstr ""
 
 #: ../source/portfolio.rst:119
-# 9c27008638a84bb4bddc5b81cbcd6c0c
+# 3295a45b0201406c8f68d58f812261fb
 msgid "active when there is a new recording to save"
 msgstr ""
 
 #: ../source/portfolio.rst:122
-# aa7e041fa890446cb3a585af40398d01
+# f0c5fd32b9fd496c96ee1d404c25a54e
 msgid "Saving to PDF"
 msgstr ""
 
 #: ../source/portfolio.rst:124
-# dfe227a4721441209a2e4056d71b3f1a
+# 0dc13f6d5df745ffbf4bc33ad10ae1b7
 msgid "Each time your launch the Portfolio activity, it will update to reflect the current contents of your Journal. If you want to save a portfolio that represents a particular moment in time (or you want to share your portfolio with someone else), you need to save it as a PDF document. Click on the \"Save as PDF\" Button from the Activity toolbar menu and the content of the portfolio will be saved as a document in the Journal."
 msgstr ""
 
 #: ../source/portfolio.rst:128
-# 79f986266d0141ff8062cc622be1a19c
+# fe019001da0e4d42a9591de64178dcaa
 msgid "**Tip:** Open your Journal to make sure the portfolio has been saved."
 msgstr ""
 
 #: ../source/portfolio.rst:130
-# a1cb4e8eb28246ba9cd9afc7ccbfef52
+# 67e85fc7c47e48dbb36b06af537b4cfe
 msgid "**Tip:** You may want to copy the PDF file to a USB to open it in a different XO, or any other computer, using the Browse or Read activity."
 msgstr ""
 
 #: ../source/portfolio.rst:135
-# 6441142d6e344cd78fbc414dff490581
+# 660211d8201e4004b95503229fdcaee5
 msgid "Learning with Portfolio"
 msgstr ""
 
 #: ../source/portfolio.rst:137
-# 00efcd517b7140e99342f859a1421822
+# 3e0230cdf17b458a92b739245a749264
 msgid "Most education experts agree that the best approach to learning involves doing and then stepping back to reflect on the doing: What did I learn? How can I use that? What questions do I have?1 By helping children to ask good questions about the things they’ve done, as opposed to remembering the right answers, we are helping them to build the critical thinking skills that enable them to be independent problem solvers. Without reflection, learning is an open loop, and an open-loop system can neither identify and correct errors nor adapt to change."
 msgstr ""
 
 #: ../source/portfolio.rst:139
-# 9f345c85bdf04796ace6e8147a45b746
+# 2424f37599734d1c9b541e87c28dc9f8
 msgid "Sugar facilitates reflective learning by ensuring that everything a child does is recorded in an electronic journal which includes screen capture of a child’s work. After every activity, children are encouraged to share their observations, which are recorded in an electronic portfolio. From this record of activities, children can expand their portfolio into a multimedia narrative that shows what they have done, how they have done it and what their thoughts are on what they have created—children essentially become curators of their own work. The child’s process of telling about what they have learned as a “story” is a simple way to help reflection become a norm in their education."
 msgstr ""
 
 #: ../source/portfolio.rst:141
-# 0c6e97c8ca084e96873a8a74c74a946d
+# 7776353e94dc408c900ca967589269bf
 msgid "By building upon the automatic accumulation of work in the Sugar journal, the portfolio process can readily be integrated into the classroom routine. It can be used as an assessment tool to help teachers, parents, and school administrators understand better the depth and breadth of what a child has learned.2 At a “portfolio social”, parents could be invited to view presentations and ask children about their learning. The classroom teacher can add addition assessment slides to the portfolio addressing themes such as work habits and personal growth. This can become part of an archive that travels with a child across grade levels. Through juxtaposition, the child and teacher can see what has changed over the course of the years, trends, and areas for improvement."
 msgstr ""
 
 #: ../source/portfolio.rst:143
-# c8700008386b497394c7d2f883bb00f0
+# 20960e7acbe14972ad0417294fb448a9
 msgid "It is recommended that periodically (once per week, month, semester) that the children are asked to select and edit items for a portfolio presentation. For example, a weekly presentation could be made to classmates; a monthly one to parents; and perhaps once per semester, a school-wide presentation that makes all of the learning visible to administrators and community members during a social event."
 msgstr ""
 
 #: ../source/portfolio.rst:145
-# 71bc290670654d4d95094ad611efc854
+# 480a4bf7083c46d6a47e7c7abd1d6135
 msgid "Periodic PDF snapshots are also a great way to preserve a record of each child's work, and as a vehicle for assessing progress."
 msgstr ""
 
 #: ../source/portfolio.rst:148
-# 2bf6f631c4dc4d6c912922d2ef45184b
+# 77393c7c33f1415190f3e436abb42f6e
 msgid "Extending Portfolio"
 msgstr ""
 
 #: ../source/portfolio.rst:150
-# 06ab5167d34240329943652a89130384
+# 0c54dcdf4cb54f299f9deb2f91f96f0d
 msgid "In addition to using Portfolio as a tool for reflection, it can be used as a more general-purpose presentation tool. For example, a collection of photographs can be annotated (by using the title and description fields in the Journal detail view for each photo) and then made into a slide show. The order of the slides can be modified from the Thumbnail view. Modifying Portfolio"
 msgstr ""
 
 #: ../source/portfolio.rst:153
-# aa4bf23e168e4a10916b7033de1c95c8
+# 26522973516b46caa9d7fd07ba909918
 msgid "Manuq made some mock-ups of other layouts. It would be fun to add alternative layout options (or even add support for style sheets)."
 msgstr ""
 
 #: ../source/portfolio.rst:155
-# 414a28b94c5644358b0a57d23e8a2ea2
+# 1ec99f62bc7f46e3b0697409ed676af8
 msgid "See http://wiki.sugarlabs.org/go/Activities/Portfolio"
 msgstr ""
 
 #: ../source/portfolio.rst:157
-# fe96907ff9d7482bada3decf586e4ee7
+# 2fc94dfc62c14110bea93b9da22c70ea
 msgid "Another idea would be to add the ability to export video from Portfolio."
 msgstr ""
 
 #: ../source/portfolio.rst:159
-# e507e32b486f4f7489fe5c41b84d2bfe
+# acbc5334c0144eeb8c3de2e779b2b19c
 msgid "Your suggestions for enhancements and/or use cases..."
 msgstr ""
 
 #: ../source/portfolio.rst:162
-# 5f2652a8b4b342588bd619a0e8d6698e
+# 3220652e2c584167b3b95f0071e33eae
 msgid "A word to developers"
 msgstr ""
 
 #: ../source/portfolio.rst:164
-# ce9c2a4298ca4ec096591bcf2a05a456
+# 89c0ff9f638549c2895a846214d49556
 msgid "Reflection is an important part of learning and a good habit to establish in general. An analog to writing descriptions in the Journal -- the text that is shown in the Portfolio presentations -- is writing commit messages in git. It forces you to stop, reflect, and then articulate to others what you have done and why."
 msgstr ""
 
 #: ../source/portfolio.rst:167
-# a3510bbacd9a47789389e1d0af2acdab
+# a95546d153f84cd19502af2bd5662b99
 msgid "Where to report problems"
 msgstr ""
 
 #: ../source/portfolio.rst:169
-# 6ed541c7fdd34f438175ed3c3897ad15
+# 4f3a895f768c43d386558ac81a58beba
 msgid "You can report bugs and make feature requests on our bug-tracking system (You need to create an account first). To list all open tickets of Portfolio you can use query component=Portfolio. You are also welcome to leave comments/suggestions on the Talk:Activities/Portfolio page."
 msgstr ""
 
 #: ../source/portfolio.rst:172
-# 229e85a3cf5f4ea287b8c83684b27cbc
+# e1fef4f767f54c088dd6232ec5e54cdd
 msgid "Credits"
 msgstr ""
 
 #: ../source/portfolio.rst:174
-# 58fb9731424549379857b08b9b0b735f
+# 13af4bcc51a34aea854287cfc568b7d9
 msgid "Portfolio was written and is maintained by User:Walter. He was inspired in part by the work of BU Prof. Stefanakis."
 msgstr ""
 

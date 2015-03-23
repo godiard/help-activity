@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/irc.rst:3
+# 90a7e0e8547249568f76c786458e201a
+msgid "IRC"
+msgstr ""
+
+#: ../source/irc.rst:6
+# f91d60e86e6e4ac9982822b09123bc2b
+msgid "About"
+msgstr ""
+
+#: ../source/irc.rst:8
+# db687596851a47b7b139d9f82c2f6723
+msgid "|IRC_icon| The IRC activity allows you to chat with other Sugar/OLPC users and enthusiasts on the Internet via Internet Relay Chat (IRC)."
+msgstr ""
+
+#: ../source/irc.rst:12
+# 7e8be8b604fd44a1880dd4bf23ae7bbb
+msgid "The activity defaults to a \"channel\" (akin to a \"room\") called #sugar on the Freenode network, but you can join one of the many channels available by typing /join #channel, where #channel is the channel name. Like many Free/Open Source projects, Sugar developers frequent this channel, and are happy to help with any Sugar questions and suggestions you may have."
+msgstr ""
+
+#: ../source/irc.rst:14
+# 295007d33c1f471794680302dc0ba950
+msgid "See the Internet Relay Chat page on `this wiki <http://wiki.sugarlabs.org/go/Internet_Relay_Chat>`_ for a list of Sugar-related channels you can join."
+msgstr ""
+
+#: ../source/irc.rst:19
+# 05e20d1917c14141a663c3584fbb323e
+msgid "Using IRC"
+msgstr ""
+
+#: ../source/irc.rst:22
+# 822ab4e056664ee8b9f68fe3a43582ab
+msgid "IRC Commands"
+msgstr ""
+
+#: ../source/irc.rst:24
+# dd13bf65a2b045eebfd29ab99dcba90b
+msgid "The following commands can be typed into the input box, all preceded by a slash (/):"
+msgstr ""
+
+#: ../source/irc.rst:26
+# 0960938068f44f2aa1b80f7aa3207b26
+msgid "/join #channel - join a channel"
+msgstr ""
+
+#: ../source/irc.rst:28
+# 401fea877e8b4a8fa0676e855f1b614b
+msgid "/server irc.example.org - connect to a different network"
+msgstr ""
+
+#: ../source/irc.rst:30
+# e6c542257a744bc69e130739d49be56f
+msgid "/query user - open up a private chat window with another user"
+msgstr ""
+
+#: ../source/irc.rst:32
+# 5629de3fc833421eb0f3750b7e4370ec
+msgid "/msg user message - privately message another user without opening a new window"
+msgstr ""
+
+#: ../source/irc.rst:34
+# 4004a3804e6c4ac18a8eeb2c4beca1cb
+msgid "/nick new_name - change your nickname away from the default"
+msgstr ""
+
+#: ../source/irc.rst:36
+# 92cfd3da41d44aef9250f947d7862528
+msgid "Many other commands are available, and you can create and administer your own channels as well: see the `IRC FAQ <http://www.irchelp.org/irchelp/altircfaq.html>`_ for more information."
+msgstr ""
+
+#: ../source/irc.rst:40
+# 3b2c0b4639c34105b94a834ca3bcba00
+msgid "Download"
+msgstr ""
+
+#: ../source/irc.rst:41
+# 206a48732cb04af4801382abee0d2faf
+msgid "`ASLO IRC <http://activities.sugarlabs.org/sugar/addon/4029>`_"
+msgstr ""
+
+#: ../source/irc.rst:45
+# 3eecf5307eb2477aa74e5b1e5e27649b
+msgid "Development"
+msgstr ""
+
+#: ../source/irc.rst:46
+# db5ec377e79f4971acc58a02c6ff0679
+msgid "`Git Repository <http://git.sugarlabs.org/projects/irc>`_"
+msgstr ""
+
+#: ../source/irc.rst:50
+# 94b4e0ecd9cf4848bd30e55b8b1dfe19
+msgid "References"
+msgstr ""
+
+#: ../source/irc.rst:51
+# 104cfb5bc3894900a709dd84dcc37238
+msgid "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/IRC>`_"
+msgstr ""
+

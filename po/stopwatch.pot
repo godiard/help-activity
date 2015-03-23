@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/stopwatch.rst:3
+# 20dbc3007a294dc785b6dbcd731a6817
+msgid "StopWatch"
+msgstr ""
+
+#: ../source/stopwatch.rst:6
+# e218ed5f54e64ef09540fe61e7bb600d
+msgid "About"
+msgstr ""
+
+#: ../source/stopwatch.rst:8
+# 3340054676e64a48a03507f08b3c9b34
+msgid "StopWatch is the quintessential stopwatch Sugar, intuitivoy well as being easy to use, supports the needs of both simple and advanced timing.Among its innovations, StopWatch offers the ability to manage multiple timers simultaneously and to make it easier to manage their watches, you can rename them all."
+msgstr ""
+
+#: ../source/stopwatch.rst:11
+# 2ed17cf50ceb42e7bbd8661daaa978dc
+msgid "Where to get StopWatch"
+msgstr ""
+
+#: ../source/stopwatch.rst:13
+# ea3291c1dd634ec1a7f6785e2e1faa85
+msgid "While the StopWatch activity does not come preinstalled on all distributions OLPC software, you can download activity from its `Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4263>`_"
+msgstr ""
+
+#: ../source/stopwatch.rst:17
+# c9bc9c8d21964aed910786a0e9a23a74
+msgid "Using"
+msgstr ""
+
+#: ../source/stopwatch.rst:19
+# 03fe25247fb04df5946767a77806940f
+msgid "Indeed, the StopWatch activity is very easy to use, but if you do not understand any of the features of this activity, the references are listed below:"
+msgstr ""
+
+#: ../source/stopwatch.rst:24
+# 4066e296b9d04b698948dc42e593296d
+msgid "Select the name of a timing to keep your work organized."
+msgstr ""
+
+#: ../source/stopwatch.rst:25
+# 0efd6f655eba47e78bdc977316a09851
+msgid "Start/Pause the timing."
+msgstr ""
+
+#: ../source/stopwatch.rst:26
+# b042d7bd4f144fa49841c92f9a1bde79
+msgid "Reset the timing."
+msgstr ""
+
+#: ../source/stopwatch.rst:27
+# c94a659715624db4a7a4483a3bdd1ea6
+msgid "Create a mark of this time(in others timers, known as \"A return\")."
+msgstr ""
+
+#: ../source/stopwatch.rst:28
+# 22cde687779f4c43a22aadb9204df627
+msgid "The visor of actual time."
+msgstr ""
+
+#: ../source/stopwatch.rst:29
+# 67d85e8a3cc74cd1a6deb0b196c23e07
+msgid "A list of all times you checked."
+msgstr ""
+

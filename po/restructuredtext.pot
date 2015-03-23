@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,137 +17,137 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/restructuredtext.rst:3
-# cd02e4d9a97446b1b3e2cbb56cb6361f
+# fb61a90fcbe3425db5257c00b736375b
 msgid "Writing in reStructuredText"
 msgstr ""
 
 #: ../source/restructuredtext.rst:5
-# c221ed0b7c1046a1bef108dddee8ecb5
+# 487cba3e802d437b8dadf5fd55ea3244
 msgid "This page is a short primer and cheat sheet for the markup language we are using in :doc:`/how_to_help`. The rst format is easy to create and we are using a part of it only."
 msgstr ""
 
 #: ../source/restructuredtext.rst:10
-# 550ae91fed8c4ec192955f8321368c0f
+# 19f05a715cf84a5294f273814f968278
 msgid "Titles"
 msgstr ""
 
 #: ../source/restructuredtext.rst:29
-# 2fd767f7696641a7865e1fa77741762a
+# 1867bb509413499d9ce9d1020da2162a
 msgid "Links"
 msgstr ""
 
 #: ../source/restructuredtext.rst:31
-# 4e0c236df06e44e99896dfe6c823eb29
+# bf2af485bb724a0e82c6c97547e4e13e
 msgid "Links like http://activities.sugarlabs.org are automatically created."
 msgstr ""
 
 #: ../source/restructuredtext.rst:33
-# d3958a274dfd4d7eb33399a1892c8a1c
+# 6beedbd7146c4e5c917250080831ebf6
 msgid "To create links where the text displayed in the page is different to the link you should do:"
 msgstr ""
 
 #: ../source/restructuredtext.rst:35
-# 9fbd162969a64635a7038a40ca48de2e
+# 4548869d51de464481d363b6969ed0b5
 msgid "You will find `ASLO <http://activities.sugarlabs.org>`_ here."
 msgstr ""
 
 #: ../source/restructuredtext.rst:37
-# 3dce2a468db54e438496e3ff9d5ebea5
+# d2b14651d9c34d5f9035101e8e117e1d
 msgid "Program writing software like Python_."
 msgstr ""
 
 #: ../source/restructuredtext.rst:54
-# d0810b2c6673493f98e037f360a8354b
+# 944334f8266f4aacba0f7cd3c944feb4
 msgid "Links within Help"
 msgstr ""
 
 #: ../source/restructuredtext.rst:56
-# e6754f81bdc14061a565f497c4adfa48
+# 90eb711028694191b38272a561a6e920
 msgid "This link, :ref:`my-reference-label` links to the top paragraph of this document."
 msgstr ""
 
 #: ../source/restructuredtext.rst:58
-# b51e78a29e3344998dad3c62f2fe1bad
+# 1df3a028458648f38c4d6908c735618f
 msgid "To see how this works, ``.. _my-reference-label:`` appears on line 7 of restructuredtext.rst."
 msgstr ""
 
 #: ../source/restructuredtext.rst:60
-# c55e9920843f44808ea649c095df9779
+# b0e99d9915d04d96b820a4eb5373acd3
 msgid "Secondly, this page contains more about terms and words used in sugar. :doc:`/glossary`"
 msgstr ""
 
 #: ../source/restructuredtext.rst:72
-# 64c0d9fca540479d8b4820c8c7ef41ea
+# 95910e1f6d6846d289c48fdd8c459d02
 msgid "Lists"
 msgstr ""
 
 #: ../source/restructuredtext.rst:74
-# 4cb5dfe71fc34a74a089b2d06d97478d
+# d5eadb4afe3345bdaf92d2823f0892a1
 msgid "Lists are simple"
 msgstr ""
 
 #: ../source/restructuredtext.rst:76
-# d38093b49f524d5e98edb1d5c419c617
+# 0be07fd899e94316acded4862a0fc055
 msgid "First item"
 msgstr ""
 
 #: ../source/restructuredtext.rst:77
-# 16d72c22f6004e23bdcde7cbfff7fbb0
+# 0183a476842c4c20ae1fb3dd73341b85
 msgid "Second item"
 msgstr ""
 
 #: ../source/restructuredtext.rst:78
-# 42ad7f667f574caabf51deff1ea65e2e
+# d747914983f14b1088853acb93707fac
 msgid "Last item"
 msgstr ""
 
 #: ../source/restructuredtext.rst:80
-# 5a3b0251e2ab403d98c26e9467d4924c
+# 17a25b354f834ed9858d055fac95ea5e
 msgid "or numbered:"
 msgstr ""
 
 #: ../source/restructuredtext.rst:82
-# 79ca8a9f0e194b36b3fbd346703427bc
+# 0561ecc43b4c42fd9af75a7c0a04d522
 msgid "One item"
 msgstr ""
 
 #: ../source/restructuredtext.rst:83
-# 33a1f5c90ec747eb872d3c8ffef124a5
+# 369e3ae7167641f79d4fc2d80907a7b2
 msgid "Another item"
 msgstr ""
 
 #: ../source/restructuredtext.rst:84
-# 599475ac2fae4cbf8f90f95d0f7425f1
+# 79f7727502c84ed7867ba8b857c177ea
 msgid "The last one"
 msgstr ""
 
 #: ../source/restructuredtext.rst:101
-# 364ceaf8eb2f48dc90e1a97dc40aa444
+# 57f11fcbcfd84f74a141507e89ba95db
 msgid "Simple table"
 msgstr ""
 
 #: ../source/restructuredtext.rst:104
-# eb0b17a2184e4e1da837ff87d9e64f4c
+# 8979ab2fe3b341da914f4dfe75b5cf7c
 msgid "Inputs"
 msgstr ""
 
 #: ../source/restructuredtext.rst:104
-# ac0186dd497446acb7ec5299717a839a
+# 5953e8f6ce1242e2aedde98298ea063d
 msgid "Output"
 msgstr ""
 
 #: ../source/restructuredtext.rst:106
-# c59b0ddc9f6c49559345295d114316f8
+# 995cce8d58db4bfc97e9837b59731fdf
 msgid "A"
 msgstr ""
 
 #: ../source/restructuredtext.rst:106
-# 9001175c2a78431bad5229d68d04e9b6
+# 194b130053cf408c97ed5c37422dfc95
 msgid "B"
 msgstr ""
 
 #: ../source/restructuredtext.rst:106
-# e7a890138402464f8bb6217c508b89e3
+# 4e91454f5a904340a2be0d9273e8004e
 msgid "A or B"
 msgstr ""
 
@@ -156,11 +156,11 @@ msgstr ""
 #: ../source/restructuredtext.rst:108
 #: ../source/restructuredtext.rst:109
 #: ../source/restructuredtext.rst:110
-# b537b72958454497878b5217942e2d93
-# da095d60a2474546bcae6a242ad90f30
-# 19dd06420c6b435ea242427b3f5943fc
-# d44ae1226b2d475eb2c612284692f00a
-# e6cbd080914f4073b6d2c319e631fc9f
+# 1aca590678624cfd8797a38155554a11
+# 5e684c84ee70424893e7690348441d99
+# 3177bc6875fc47a38630651f62a2c005
+# c635948ddc4248e880ce146bcd23e694
+# c2f74ff7e7cf469191237a69b20788f1
 msgid "False"
 msgstr ""
 
@@ -171,63 +171,63 @@ msgstr ""
 #: ../source/restructuredtext.rst:111
 #: ../source/restructuredtext.rst:111
 #: ../source/restructuredtext.rst:111
-# ace1daa9e5a3402fa7eefa0ec6b86b5b
-# f30b8180111247758c65fafb38ec4041
-# 8a1a7900bf99494291d70be30e28ef93
-# fcd46da0c2584149a33e95379c432066
-# 1b472ce3ed234235b0a1068750d30698
-# ee07d8230de241c6ab6512d9c82da51f
-# 6d181203244a4397a82b9d5ac95d9b8b
+# 4db0854e91534916843a9135833162f4
+# 6e35512eb66548008910556371e76d56
+# b095fa7f9cd0490e921eb7499085d783
+# 53b218f708b64e9680fe3c6ee95dd2f0
+# 7c5a140edb244241914b12e0d9da6643
+# 13537a4894d4455e81842b550000232b
+# 0cfa5bef434d45c88cb92ff48b57438b
 msgid "True"
 msgstr ""
 
 #: ../source/restructuredtext.rst:128
-# 67092bed4dac4a32bfea4de5a5712ee7
+# ecb6477c4ee54cab9dadb241a19de6bf
 msgid "Images"
 msgstr ""
 
 #: ../source/restructuredtext.rst:130
-# d6f51224cc42407a8a72d8d705cf4ffe
+# 616190276d464d07b53dfec530d53072
 msgid "An image can be included like this:"
 msgstr ""
 
 #: ../source/restructuredtext.rst:139
-# 284327b7d5884d31bbeb1da0111abc1b
+# fed6987abd3a4a739651a61de48e0f59
 msgid "Icons and small images"
 msgstr ""
 
 #: ../source/restructuredtext.rst:141
-# 99bd577f28454fa39b2b93c518e77a03
+# 417a119b1c5f40ba81a3b732040353b1
 msgid "|Neighborhood_key| This is the sharing option."
 msgstr ""
 
 #: ../source/restructuredtext.rst:145
-# 7c01c5ceb37c4e36b0743adf863dd478
+# f8607912d4d6480aafc5142d753ed0de
 msgid "|Home_key_f3_small| This is the Private option."
 msgstr ""
 
 #: ../source/restructuredtext.rst:160
-# 1b2f6d69ddd74e5f971e7236af7932d4
+# 47984db562fd4c2585749ece6f6f23e9
 msgid "Adding a note"
 msgstr ""
 
 #: ../source/restructuredtext.rst:164
-# 6a85361bd9c047149ad6216410db8463
+# 739588c8f5a34f52b9939ae0fab16f97
 msgid "When you are required to place the first readable character at point 3 or 4 in the line, it is recommended to check if you are required to insert spaces or Tab."
 msgstr ""
 
 #: ../source/restructuredtext.rst:166
-# 44e14ab735114761861dd258a368c2d4
+# 9628f9fc4c6c4f2ebb53195e03eb4693
 msgid "And also"
 msgstr ""
 
 #: ../source/restructuredtext.rst:170
-# df819fb6c84c4a96aea51b33b8e6c378
+# 8903c7a69c38499cada58225088fdba1
 msgid "Notice that first readable character of this note is under the \"s\", three spaces preceed it."
 msgstr ""
 
 #: ../source/restructuredtext.rst:185
-# 1c29eee4d4474681af4557ef5a8e5219
+# 25818f39acda4d2183918f726d7c0a2c
 msgid "|more| There are links to :ref:`Further reading` at the foot of the page :doc:`/how_to_help`"
 msgstr ""
 

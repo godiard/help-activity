@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,182 +17,182 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/getting_connected.rst:3
-# e995dd113628470284c99cd8f08906fa
+# 5603d01d6214455fbaeb6ce5d224045f
 msgid "Getting Connected"
 msgstr ""
 
 #: ../source/getting_connected.rst:5
-# 28bb93fff194427aa17726987f202f01
+# 979b10e8e2354a13bf60788329d653c2
 msgid "A primary goal of the Sugar learning platform is enabling students to learn and work together."
 msgstr ""
 
 #: ../source/getting_connected.rst:7
-# 7f2ca8363ab648c9af03412f0b0ae573
+# b116eddccd9b4ab7994bb7fc0bfe6ff0
 msgid "In a wireless environment, an access point (AP) is a device that allows your computer to connect to an existing set of communicating devices. The access point usually has a direct connection to the internet, and can relay data between the wireless devices and the devices it can access."
 msgstr ""
 
 #: ../source/getting_connected.rst:10
-# 2280457b308d4de195fd02a836f5e93d
+# cea5552e06884862852db621b6532582
 msgid "Multiple ways to connect to others"
 msgstr ""
 
 #: ../source/getting_connected.rst:12
-# c7d885c4ebbb496bb08a0116482edcfc
+# 0d5e4daec5bd4e2ab66855de5255acd5
 msgid "wireless access point (WiFi hotspot);"
 msgstr ""
 
 #: ../source/getting_connected.rst:13
-# 6031a95969274282921a263385be1a4a
+# 70ce8b1576e64327a7596175e8563d17
 msgid "wired network—may require an external adapter;"
 msgstr ""
 
 #: ../source/getting_connected.rst:14
-# ff3de05c498f442ba9b68a68ea9b240e
+# c242f97a558f49af931f52e44c0b6961
 msgid "OLPC “School Server” mesh network;"
 msgstr ""
 
 #: ../source/getting_connected.rst:15
-# 2562211307d744bdaf4b3d8f64e3b9d6
+# 0deec969f348453ebcc84763ff6bf36f
 msgid "OLPC “simple” mesh network, which lets you collaborate directly with other Sugar users."
 msgstr ""
 
 #: ../source/getting_connected.rst:18
-# c2bbc9a77c054925b860c08ebf12f40b
+# af8fedcb3cad433f88b489d304a80dbe
 msgid "Connecting through an access point"
 msgstr ""
 
 #: ../source/getting_connected.rst:20
-# 9e0840b861f847ef91b788b23ef9dec9
+# c3ba7007f9064216a1fbdd275ed58cf5
 msgid "You can connect from the Neighborhood View. You can see information about the connection on the Frame."
 msgstr ""
 
 #: ../source/getting_connected.rst:22
-# b9edd2924d454a97a15da192133dcbde
+# e20e61c3090846fbae1d3fef71126423
 msgid "**Step 1: Go to the Neighborhood View**"
 msgstr ""
 
 #: ../source/getting_connected.rst:26
-# 6907dc4121a1456c8747ebf18630c430
+# 3bc5780d727e4e81a63b3d474062c5bd
 msgid "Go to the Neighborhood View to connect to an access point."
 msgstr ""
 
 #: ../source/getting_connected.rst:28
-# 2a6ee5c13b2a4e4cadfaa64c2ab09a7f
+# dc396b48537c46099dbc8e8a84e9285c
 msgid "Tip: To access the Neighborhood View, click on the Neighborhood Icon on the Frame or by pressing the F1 key."
 msgstr ""
 
 #: ../source/getting_connected.rst:30
-# 2094934e3279480cbf92fff5e3ee9cad
+# 17fbe1947a8e42dcb4a15e911cebd8ce
 msgid "**Step 2: Choose an access point**"
 msgstr ""
 
 #: ../source/getting_connected.rst:34
-# 20d4777fec57433dbb77d53110428dbf
+# 60cbad098bb44149a343d28bf03147de
 msgid "Networks (access points) are represented by circles on the Neighborhood View. Hover over a circle to see more information about an access point. An access point is identified by the name (ESSID) it broadcasts. An OLPC laptop mesh-point—represented by a series of concentric circles—is identified by its channel number (1, 6, or 11). You can also search for an access point by name in the search bar at the top of the page."
 msgstr ""
 
 #: ../source/getting_connected.rst:36
-# 33616e880dc74cddbb00f081e392061f
+# c63cdaeea36f468291df32c81b8b864d
 msgid "Note: If an access point is not broadcasting its name, the Neighborhood View may show that AP with some other name."
 msgstr ""
 
 #: ../source/getting_connected.rst:38
-# 48fdef5da663471f9bd5628094c04f0b
+# 251e3c131d374a709eb12528e2d4d53d
 msgid "Signal strength is indicated by the fill level of the circle. The color of the circle is based upon the name of the access point. A lock icon identifies networks that are secured and require a key (passcode) to use. A star icon identifies access points that have been previously used (favorites)."
 msgstr ""
 
 #: ../source/getting_connected.rst:40
-# ea96bdad626b46c5b26effc094dc786a
+# 607370d5009f4a05894d064654d50155
 msgid "**Step 3: Activate a connection**"
 msgstr ""
 
 #: ../source/getting_connected.rst:42
-# fa36c55528b742bd9885ad32321cde2b
+# 0744e3285f444de596c8f7ae00667d14
 msgid "To activate a network connection, click once inside the circle that corresponds to your chosen access point (or click on the Connect option in the hover menu)."
 msgstr ""
 
 #: ../source/getting_connected.rst:44
-# 7780e30724014e77a76805374f0f7bbe
+# 1fb71529c1b645b799e5ac8626d48afb
 msgid "While the connection is being established, the inside of the circle will blink. Once the connection is established, an icon for that connection will be shown on the bottom edge of Frame. If for some reason the connection failed, the circle will stop blinking. Sometimes it is necessary to try several times before the connection is established."
 msgstr ""
 
 #: ../source/getting_connected.rst:46
-# fe1ea872ab18425095b16af40d111999
+# b16312d2f7e44908a315b62d8481712e
 msgid "If the access point is secured and requires a key, a dialog prompts you for the required information. Different access points may require different types of keys. Before entering the key, be sure to select the correct type from the pull-down menu that is presented."
 msgstr ""
 
 #: ../source/getting_connected.rst:48
-# 2b1b3f5dc5e3491a910194fbca668640
+# 059a4d9dfff84e6f8a2da9efdde78717
 msgid "**Step 4: Checking the connection**"
 msgstr ""
 
 #: ../source/getting_connected.rst:52
-# 580a8c84d86e405ead80f39b8076dd7a
+# 9203af8084214616b7e219d2439d23fc
 msgid "The connection status is detailed in a hover menu."
 msgstr ""
 
 #: ../source/getting_connected.rst:56
-# 5e477420f53a4408a3e68928556ea33b
+# 572b2646c9a04fbcaae969ce5ae0ceb8
 msgid "You can check the status of your connection from the Frame (from any view). By hovering over the circle icon, you will find details about your connection status in a hover menu. OLPC deployments"
 msgstr ""
 
 #: ../source/getting_connected.rst:58
-# 73c28f96385847638df1940bb4ba3c4e
+# 8ae74bdd8ab643109e996f4a0161e41d
 msgid "OLPC has designed a mesh network that allows XO laptops to communicate without the presence of the Internet and a School Server as a means to make their school network connectivity more efficient. The School Server also provides web and chat services."
 msgstr ""
 
 #: ../source/getting_connected.rst:61
-# 168b0ac09deb4616b45861f4605ce5d1
+# 8b1da3b0f3544e61ad0d8a2cc9d49bbd
 msgid "Note to parents and teachers"
 msgstr ""
 
 #: ../source/getting_connected.rst:63
-# 90d5df07661f4827ad9faac66f9cfcb3
+# bf20e7c7294c4c8eae64d62e4f4e9c8c
 msgid "Collaboration between learners is one of the most important features of Sugar. To enable collaboration in a classroom or home setting, it is necessary to establish the same type of connection for each computer. Computers can be connected through a School Server, a simple mesh if they are OLPC XOs, or an access point."
 msgstr ""
 
 #: ../source/getting_connected.rst:65
-# 68af4646fe0b440799f3881306029a8f
+# 20a95e4ab41d4d8db9b0be9491124965
 msgid "When using an access point for the connection, the computers must all use the same Jabber server in order to collaborate. Please refer to the Sugar Control Panel discussion in the Personalizing Sugar chapter for details regarding the configuration of Jabber."
 msgstr ""
 
 #: ../source/getting_connected.rst:68
-# 284ba514a0bf4a818f6c663c7ab1c11a
+# 587088c344ba446390c5ce77320fa191
 msgid "Additional hints"
 msgstr ""
 
 #: ../source/getting_connected.rst:72
-# 5acdcfb2c8b243c99e9a710004fdebd8
+# d1cb67cf3fb34bd38af41fbe3608eda8
 msgid "You make your connection from the Neighborhood View."
 msgstr ""
 
 #: ../source/getting_connected.rst:76
-# 659c4715a6394484afa913c2a9112bba
+# 81847c0e9748433f91756e9b5d986411
 msgid "Your current connection status is shown on the Frame. Also, the hover menu will indicate \"Connected\". It sometimes takes 2–3 tries to connect. To disconnect, select “Disconnect” from the hover menu that appears in either of the network status menus (See Step 4 above)."
 msgstr ""
 
 #: ../source/getting_connected.rst:80
-# 2108a1e9d71f490db7ba5d64948217b1
+# d90678a6339745b88b9d47f0a286d0d6
 msgid "Access points are represented by circles. The fill level indicates signal strength."
 msgstr ""
 
 #: ../source/getting_connected.rst:84
-# 0764a39cca4a46d2a75d6b2124b02b44
+# b3479fdd971d4641b4bd533f46f5217e
 msgid "Access points that require keys have a lock icon. The color of the circle is calculated from the ESSID of the access point. The name of the access point is displayed when you hover over it."
 msgstr ""
 
 #: ../source/getting_connected.rst:88
-# e4844af78757498985522ef268a3665c
+# 9c44d2b91eb845828682d6166b5cae49
 msgid "You connect by “clicking” in the center of the circle. The center of the circle will blink while the laptop is trying to connect."
 msgstr ""
 
 #: ../source/getting_connected.rst:92
-# a446c2b0f3904e22be2f283252823614
+# 9d81818657b144a5882b9636c4a2be30
 msgid "If you are using an OLPC XO computer, mesh points are represented by a series of concentric circles. The color of a mesh point is the same as your XO color. If your OLPC XO computer is “mesh enabled” and you have not connected to an AP, you will automatically be joined to a simple mesh network, enabling you to collaborate with others in the mesh, but not necessarily to access the Internet."
 msgstr ""
 
 #: ../source/getting_connected.rst:96
-# c54870c656904573bf70447c98ea60f2
+# 07482ed3d2c04f5db01645136e21c2d2
 msgid "You are prompted if the access point requires a key."
 msgstr ""
 

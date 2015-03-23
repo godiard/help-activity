@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/credits_copyright.rst:3
-# f2b04b9d54d44aeab7be3f4ba3c2cd04
+# 20139cf6128540768a11c99479b30cfa
 msgid "Credits and Copyright"
 msgstr ""
 
 #: ../source/credits_copyright.rst:5
-# 72366826f07340af976ca7be4642601b
+# 8a7c2557386043caaf44ddb835fabf79
 msgid "Following is a list of all the credits and copyright associated with the help content."
 msgstr ""
 
 #: ../source/credits_copyright.rst:8
-# 4ac4662551b04552bac4d8e349c8ed2c
+# 72822b83ac4644768671e4da9b55e682
 msgid "About this Manual"
 msgstr ""
 
@@ -35,10 +35,10 @@ msgstr ""
 #: ../source/credits_copyright.rst:29
 #: ../source/credits_copyright.rst:67
 #: ../source/credits_copyright.rst:137
-# f2976288fdee4c7ca210ca640023b5ae
-# e7133c71e8ee4178836cd16ab600641e
-# dbdedc3bd1764f6e83dd772b58538628
-# b44d942f264346ac8461f6c773fc7008
+# e98deb782f8e4700abf83f8dea4d9237
+# 13052faddc544cb3b17e747b650cf2ed
+# f5ab341adc5d45aaa24b1c08f10e64cc
+# 55923fa94a3f47d0b6d4da729b946b73
 msgid "© Anne Gentle 2008"
 msgstr ""
 
@@ -51,15 +51,15 @@ msgstr ""
 #: ../source/credits_copyright.rst:194
 #: ../source/credits_copyright.rst:250
 #: ../source/credits_copyright.rst:293
-# 565b5fe4d71744e0b2f74bf21e755c28
-# de4c69ad1dfa45e7ac0cfa97aaab52d6
-# ee10b1b63a134ccdb2982c2ffa55b2eb
-# 41dbfe4399d640ddb4a43bcb4b3c8fce
-# 764df0e4549d436a9fd104aab285ba1f
-# 9af013f5865544deb243ea3f2c217829
-# 8779bd51269147e8bb8e7792ff460355
-# 745439a2e88645c6a225412da5b9fabc
-# ef758a5eb3434ba999e3950791cea7da
+# 9687b6d4981d497e9b74488cb9f5fbc5
+# e60dfc70b4e4444282a7fd585f321107
+# c4424b1437dd4357b5ddb4f5a8bda39f
+# 99c9588e594d4e92b5f67b59a082a61e
+# 49967e2066524707a61ef0c10cb41805
+# 352f61766a0c485a976f04189c282d6b
+# 0496e3d08b3f4f1e8726a679ef88adde
+# 96a87fc29bca462c88b0ad13803f16d1
+# 233a5e98e9884ef2a1aca99e354c0765
 msgid "adam hyde 2008"
 msgstr ""
 
@@ -70,13 +70,13 @@ msgstr ""
 #: ../source/credits_copyright.rst:143
 #: ../source/credits_copyright.rst:276
 #: ../source/credits_copyright.rst:327
-# e8450c60619b4d4aa619481825f2a08c
-# 141d5f935454416799a69d60dd31c13d
-# 6e07fc5370db48e8baed534033704e72
-# 87d62ef45b194cde92f3da12a1c3be4c
-# 4b9bfb39bb1a4793918626ce97a34444
-# 52df4ad50a214aab819b0a932dbd6d77
-# ce6d07070195402787dd665aba4249db
+# 00341e63607f40439e1f35764942a04b
+# 5dc99046b34c46ce85ea61a08f773415
+# 9765092e696c49a09729410338b74e5f
+# 887932cc8bcd4fd686246845ca7b21d1
+# dca5bdb5e30f4df694481496af0ac152
+# cdecd50df87f492088d3059e4033410f
+# 27b2d78ace0a4679822ba52e634af24f
 msgid "A Holt 2008"
 msgstr ""
 
@@ -84,10 +84,10 @@ msgstr ""
 #: ../source/credits_copyright.rst:35
 #: ../source/credits_copyright.rst:60
 #: ../source/credits_copyright.rst:301
-# 2447a412d85842fc97225a631c2d7374
-# 245d8d773f97495aa8963ee51d204dac
-# 0fdf46e72439405cad79d44ce708a49e
-# c7b21bbc1fee4d3cade9594d6c7a7aba
+# d685d02eada8445590149967e178d671
+# 51e04f5088004d568cc4de2242c40b37
+# 6cb9b49575204b54a03cec65426bd217
+# 69fd2932f1944468a05262d88a4e1ada
 msgid "Rob Mason 2008"
 msgstr ""
 
@@ -97,12 +97,12 @@ msgstr ""
 #: ../source/credits_copyright.rst:147
 #: ../source/credits_copyright.rst:280
 #: ../source/credits_copyright.rst:329
-# 3ad1d9a81be14464b573dc2443a9ad24
-# b7bed156086242929f27faff89234305
-# 1c661db170e64dd6919cd0386e84996b
-# 62dc835d3df14b3fb1b92b9d806defe8
-# da6eed03cf7f4ff49e4918bafd2b9161
-# d65f5b2163224f94adbc37531f59637b
+# 7c6578513e774d3fb6ee3429cbb5a17c
+# 56ff3436ff1e49dfabb983e053f4e6de
+# b2ce8f0c0f9948cc9b28c0148fe6fff8
+# b1f44c489f8f49699e2361a65011a4fe
+# 1a60f9be566a409da3c901dea7d81bcc
+# a1bef9a21eaf4d2c8f75f1b91765e2ae
 msgid "Sandy Culver 2008"
 msgstr ""
 
@@ -117,37 +117,37 @@ msgstr ""
 #: ../source/credits_copyright.rst:254
 #: ../source/credits_copyright.rst:282
 #: ../source/credits_copyright.rst:331
-# 51dd2c183c324a7f8985bc1fb06115b7
-# 9b7a3d193baa48cb9e158f9bf658c367
-# e316d5b3815d4358998ff0c849c087a0
-# b922c38b348e41249ab7a244ac73c542
-# 0bc6277026ed4455803bc3138b6008d8
-# 2a2da46bd0f74a7a95f7965f3978f915
-# 0e214720b60946539e592b94af046b36
-# 2f44001a12e14e1fb136e300ba370d2c
-# 22a33da4617f41be924f81ed46aead34
-# ed2a2d3cc8db49999b49530eb72ab1c4
-# 67fae9a78387416e9633a1aff97b134f
+# 5aef891090d7483f9d447a7a21a50046
+# 0f2cfa9a13ca48a88cbcf5f2eee00142
+# 37a62868581b42a9b8fd3490a74b30b5
+# 42886d84528a439c8ab6fe154e980801
+# feccce9f3c1f4185874a42048ad5682b
+# b8dc9f43d26e4c53be97911d558e4c76
+# 01fd67e7694e42cfbaa7434a627e01be
+# 5fc79376e4594113881eceb8f7eff97c
+# dea0c849dc454e7983f9a64cacdf28ca
+# 5413fcce12e84221b75d8e633efd912a
+# a6579fb2d8154413b703a70b311359ff
 msgid "Tom Boyle 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:25
-# 1cee4e81e77040a5b239c34e25f51b71
+# a5aa944b9c7d49e3bd5332cd51c89c36
 msgid "About OLPC"
 msgstr ""
 
 #: ../source/credits_copyright.rst:42
-# 8b60d45573dd481ab31c53877ff769cd
+# abc67ea29f364e85864a42a6639ecd30
 msgid "About Sugar"
 msgstr ""
 
 #: ../source/credits_copyright.rst:46
-# 2794c7042ddf4219bef2a4a5fff751b8
+# 5645c8cd1e424ace8f5856adde7ecd8f
 msgid "© Walter Bender 2006, 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:48
-# 53dddc02530540fda0f75c4d5621cfa9
+# 9dd6a63c29fb44ccb6d36a5bfb04447a
 msgid "adam hyde 2006, 2007, 2008"
 msgstr ""
 
@@ -156,16 +156,16 @@ msgstr ""
 #: ../source/credits_copyright.rst:164
 #: ../source/credits_copyright.rst:196
 #: ../source/credits_copyright.rst:297
-# ab57b5feaf824550a2bc01a8247db1ce
-# 50a6f44de6c442aaac4ce7b32a030ac1
-# 4af3d0a36ac844b7921568e3b60ed9bf
-# e2dc5b1554674be7a56af35a49e1ce5e
-# a205c9edb3ed48d895657ce44952dbbf
+# 247b6c9c83864296b00694fcbee85e87
+# bef6abe99db14d7abc029fc33a96ae6c
+# 3193d9e5901b4cea8d03db8574835edb
+# 22478987549840488aa98de204d56c11
+# ad69ff78c92f4dfba4950023b10ffe21
 msgid "David Farning 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:52
-# fd33561b321e4235a1c2860426486577
+# 27d15c17d37c419bacd9d84fc259dd77
 msgid "Emily Kaplan 2008"
 msgstr ""
 
@@ -177,48 +177,48 @@ msgstr ""
 #: ../source/credits_copyright.rst:215
 #: ../source/credits_copyright.rst:278
 #: ../source/credits_copyright.rst:299
-# a2e59af0506c4347bdb5ce240a02c9b0
-# e1c84a3572c94b1da6bc4878b7b3ba30
-# 912bed65ead14281955fb15aa6abc8d2
-# d4ef68fef94443b7b7bacf0c5700c21a
-# a98ed902d7474c07ba4d10ebb9e5e1d7
-# b88a67f102644c82a3d12a1e7bf31e7f
-# 871a887761c844acb8d587fa15631edd
-# e5a6fc4f50c04d8384974231efd67734
+# b0e321804efa4130a0ff7bd2693dc7c7
+# 8b4ec6006b5b4685bb4160b3f3ae3bcd
+# 3b6a3005fab24658a8fb661248d4f18d
+# 11e5129891b041faa9d76be5232bcdf9
+# 5fb14bce55b24fa8b04eefe03f448c88
+# a3f927a391c94eaca222ba3974b9b482
+# eb61958c6df34db79d3fc4b02a94c605
+# dcf938882c12425ba1b4ba001d237aa8
 msgid "Janet Swisher 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:56
-# 373269cf222744b2ac11189305a6790f
+# c0b4468e6d044c2b95ed9be890c3419f
 msgid "Luke Faraone 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:58
-# a936498419ad416ea067da5f2867a45e
+# 4f2be74941a043f3b1abe17da8674820
 msgid "Rita Freudenberg 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:63
-# c3d30328c9f34190be112849551be8e3
+# 33c7ade7c17c4a61a22217eab5f38724
 msgid "Charging the Battery"
 msgstr ""
 
 #: ../source/credits_copyright.rst:71
 #: ../source/credits_copyright.rst:122
 #: ../source/credits_copyright.rst:274
-# 576ed84de07e4e3f85f32f3551d46dd0
-# 7c0ec205810541b285c0bc41caee4023
-# 798cb6c1d0054be49edc45fd1d277f41
+# 3b8b38ca48c84fbf82288c69726524b9
+# 8380ba0bfa4348039676570d1aacb6d8
+# fcbc50b84883489c8739a7a282e6f278
 msgid "Charles McCarthy 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:79
-# db1c9a149b2042af9030702c3301fcf5
+# 9f79b22b448748f3b939c3688e277326
 msgid "Seth Woodworth 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:84
-# b8518ff87e094d84a4f6b2ed22872e6b
+# e7763cac444c4310b6ec53ab5bb9ce8d
 msgid "Chat"
 msgstr ""
 
@@ -227,11 +227,11 @@ msgstr ""
 #: ../source/credits_copyright.rst:160
 #: ../source/credits_copyright.rst:192
 #: ../source/credits_copyright.rst:291
-# c531ec652d164d87b49fbc2e02c8a726
-# e2469332c6cf49f78ccb7c77021804a5
-# 5175100dfd8442ac9191baee165b2954
-# ab9ea5651c8c47a2bf1f81c579447e0c
-# 77b587e2223a4b84b3da588f5c607f65
+# 00af2c0b6cf4404f8c094d209e69c3f6
+# 080a9ee910d0499d85c04a02d7eb98a4
+# 2409cc1f3f1c472c99693d72b8747fec
+# 52b07ea0965a46eaa0e0c2b2eee38b88
+# 29a20112d5344405b9069c348fa6ec57
 msgid "© Walter Bender 2008"
 msgstr ""
 
@@ -242,37 +242,37 @@ msgstr ""
 #: ../source/credits_copyright.rst:235
 #: ../source/credits_copyright.rst:270
 #: ../source/credits_copyright.rst:321
-# b526ab3193f7409eace8de6e47b7047c
-# 52c1272f85a34c94bd7b5a521f8870f3
-# eb1aab97265642a9a4fd5acb4fdcb251
-# 4f625f55975949a59984af1fc5f424c7
-# 05bddfec314a498f85bc0c59fdc5841d
-# 656142d6172b4880978ee010462e50cc
-# 867d2e49c04f42c7acebee94335570f0
+# 891a700be295492b82aea7ecb9da363b
+# c0924d73d08d40f18383d74e1962cc0d
+# 543ab503f68f46c183e1968323afceae
+# f659a094142a4d0abdb79685c3642d65
+# ed6bb5b9b9424e69a2d96441a4649369
+# cdcb62ea443a4bfa879e24496f7cc2c0
+# 7d63968cf749472181b2b222ac4b05a9
 msgid "Anne Gentle 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:92
-# b80a1abc959d4f66a2cd78dbe3a049ac
+# 03e1766f4a604179a0e05c4a90fa1d5d
 msgid "Sandra Thaxter 2012"
 msgstr ""
 
 #: ../source/credits_copyright.rst:95
-# 0136ff99f8b34417976b5195409bd4e4
+# edc37334088c46ac823947b5f5449680
 msgid "Getting Connected"
 msgstr ""
 
 #: ../source/credits_copyright.rst:103
-# 0a8bec3f72c34f3490ff85cf3d6ffc7b
+# e30af82d83a74711b7db37545e9c2ddd
 msgid "David Cramer 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:107
 #: ../source/credits_copyright.rst:168
 #: ../source/credits_copyright.rst:200
-# 8ba0c89dee054dec8a20415896fa7b56
-# c7b46fbb10f949f8887150b8c904f8aa
-# 19ac154316df498a9068e35b1d7401ed
+# f37a3f9c5ee646f281e3d25f32db1bdd
+# f16b52f812ed45a19ae4bca6d106770e
+# ea5e1bb240cc44ccb8b91a68ec4ff2ac
 msgid "Janis Grinbergs 2008"
 msgstr ""
 
@@ -285,35 +285,35 @@ msgstr ""
 #: ../source/credits_copyright.rst:241
 #: ../source/credits_copyright.rst:284
 #: ../source/credits_copyright.rst:333
-# fca6c61d8cc3490885be8b6b507eec48
-# 6ad30a382f5b4e6e88ab988acff1dbea
-# 6c9ced01fcbb42cb866b05d84197961c
-# 1b2e5ed93cf44dcbbd6977e0b9b87bf4
-# 818e43180fdf48b380d93e536ed215c8
-# 2ac2ba6b763d4e7399708a18f9b4697e
-# 237888a97e5c4daaa21fa84802fc1631
-# 3e730f4c186c47b8a6b072164262709a
-# 0f770fb6cbf749289df76a40e33aa9e6
+# f803630db2f34713bd2fcab1b8a74de4
+# 186130c8b6c24508a780e56dce772c05
+# b282a2dc83a147aab402318d21d0c106
+# e716abfc85e74ef18e684ad1e0617b2a
+# a18aa6b182d546d68840a49bfa8c4959
+# 5463a6a3a25e45a1988d184c8f929f64
+# 00184caf1cba49899888adb93e094699
+# 89bb2222a73847fea2d6cf688a4c3e80
+# 02fbcc27ee5745caa539cac1a87df104
 msgid "G Hunt 2012"
 msgstr ""
 
 #: ../source/credits_copyright.rst:112
-# 77dc7ec184d04a24863a584c63d4d972
+# 7b241fa80bc64975971c9b6b7c02e323
 msgid "Getting Started"
 msgstr ""
 
 #: ../source/credits_copyright.rst:116
-# 2a5d882b6b8046d48b1c7dd61430508d
+# 05b426349e974f17a621990f18fae6c5
 msgid "© Caryl Bigenho 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:126
-# ac537077af95470fbb129046819021d7
+# 130c908faca64462bc906887ee997b0f
 msgid "Lisa Lewis 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:133
-# b4eb588b44e94b30aabb6888df27544d
+# 1ce74085feff44bdb11bc7b64f7d1e74
 msgid "Give Me the Internet"
 msgstr ""
 
@@ -322,11 +322,11 @@ msgstr ""
 #: ../source/credits_copyright.rst:237
 #: ../source/credits_copyright.rst:295
 #: ../source/credits_copyright.rst:323
-# b7f3b8118d2e436695f5c4120e1ebdd6
-# 2444fd0bd09e4b3cb5995d5957826fd5
-# 9caa6df067e74569affd90c5cbdf1c52
-# ad4e3a33a55a4aac9383f99cb4621237
-# 77349e5a201c4a47b64be8b8ef28136c
+# ed0defeaa3a24e3287849ea8d4a0ef92
+# 63076719a0b24f7d9190f1dcebc80d22
+# f099e35d04914354a5ffc75cf1d177d5
+# debcf36f5be641b994a44759e44725b2
+# dfb52bc49e79417684568b97ae0e255c
 msgid "Brian Jordan 2008"
 msgstr ""
 
@@ -335,124 +335,124 @@ msgstr ""
 #: ../source/credits_copyright.rst:252
 #: ../source/credits_copyright.rst:272
 #: ../source/credits_copyright.rst:325
-# c8315ac9e4f9446eb189a515ec323ea8
-# ba78c0f3f7b7413fada19d4c4d47b872
-# c375dde823164c7b9a9f4d1940b10adb
-# ac520560376e4c3caa407e77f4714330
-# 7c0ed3905e0648819dbcf70744957731
+# 532fefd668e04256af78fa0fa4702462
+# 3fc69f2387a449aea50cb557c846b06a
+# 018b3d32be1c4477b9f8298d9e8616e8
+# 43319022bb10402298ff83766a4c3455
+# c77ea0e272274582869771779ea302ec
 msgid "Caryl Bigenho 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:149
 #: ../source/credits_copyright.rst:217
-# 770b11e50ce14c8188f9a439787bd3e9
-# 2fda45d3277b401f9f214092aa982eec
+# ee7e41e3122646b7912ecc21dd1d3310
+# 18cd055241934b569df89eb8782988d8
 msgid "S Page 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:156
-# 666e30bb0f1a4fa0aceec0152a2afc2d
+# 3e814bedfd9b4bcebdc897dcd073f461
 msgid "Home View"
 msgstr ""
 
 #: ../source/credits_copyright.rst:173
-# 852fb15a74704cc18f15693467b6eedf
+# ac930078131d491497a6fab493842ed5
 msgid "Keyboard"
 msgstr ""
 
 #: ../source/credits_copyright.rst:177
 #: ../source/credits_copyright.rst:233
-# 70a4eb39043545aaac12424d6f3f4c4f
-# 0bc430f3ac414245840c4d9915b14a75
+# 6cb8bb9130644592a1ce74c7e1693156
+# 09dcec6166904d6bb09afc657f9d05b6
 msgid "© Seth Woodworth 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:188
-# 8b08f7f6c60948e48223c498e6cf08b8
+# a28b7829bc424dcf837466025047ee0a
 msgid "Neighborhood View"
 msgstr ""
 
 #: ../source/credits_copyright.rst:202
-# a7b0105916a54ad59513d3e3954c7701
+# ec46dd7b54e74bf8a6dff4f9e9974c78
 msgid "Morgan Collett 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:205
-# 4977ba9422b0456ab38d724e12f3bedd
+# 2e908cd64c12489a8a1637b6cb409fc1
 msgid "Opening the XO"
 msgstr ""
 
 #: ../source/credits_copyright.rst:209
 #: ../source/credits_copyright.rst:268
 #: ../source/credits_copyright.rst:319
-# 0ab5bfd6598c45208ba3434827863244
-# efe007dae5f54f9783360d1f266f356e
-# 7790498f5c054d41801e5a59b78ec0d1
+# 36d8df4cdd554ad1a69ce3511401ed71
+# c1af4895722a4ebc9184d63141207189
+# 94f0fba8a9a44a3c84fdbcf73eef17a9
 msgid "© adam hyde 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:222
-# 317c1a86ddbc4c8ba46b41d4cebbf2c9
+# 87803006eec04ed88b14c80bcd34306b
 msgid "Pippy"
 msgstr ""
 
 #: ../source/credits_copyright.rst:229
-# 9997f87844db46a98d9c6c3aac9adbb3
+# 2b5962bafed54b3393375d5191c4c49c
 msgid "Physical Features"
 msgstr ""
 
 #: ../source/credits_copyright.rst:244
-# f00aad7ae4a24f27b08fe05ddace3eb9
+# 9a05ff02d2d8480c88b7916b7c5d9d54
 msgid "Record"
 msgstr ""
 
 #: ../source/credits_copyright.rst:248
-# 5f5d52a6f523414f91aef529dfc177cb
+# 12295b4aa7b843379638c1ed19713981
 msgid "© Faisal Anwar 2008"
 msgstr ""
 
 #: ../source/credits_copyright.rst:257
-# cbd856de288942779319ec24809b892c
+# 3fb9be84ab8b4f28b22c2306499d5d8b
 msgid "XS school server"
 msgstr ""
 
 #: ../source/credits_copyright.rst:261
-# 3987d48a9bd146718d3fe131f3859d49
+# 73428e1562ab46e698f76d8a50bd9540
 msgid "© Sameer Verma and George Hunt 2012"
 msgstr ""
 
 #: ../source/credits_copyright.rst:264
-# 997425bc14da4375b48d6d9b3f899aa9
+# 2226ad25728943508700dc980ac37984
 msgid "Starting the XO"
 msgstr ""
 
 #: ../source/credits_copyright.rst:287
-# b8aea9b837e34d699b812ce3643e3480
+# 1e648bafb4ad4d4e8ffe5f5980e1248b
 msgid "The Sugar User Interface"
 msgstr ""
 
 #: ../source/credits_copyright.rst:304
-# 4e53bb25ff464433b204449b0f19ab24
+# 2150761ba7f449838257e26d11d113cc
 msgid "Terminal"
 msgstr ""
 
 #: ../source/credits_copyright.rst:308
-# f5fbf72461ec418c98a22842ca25cf00
+# 075d49ebe4424e8e88c525f6b3a41f8e
 msgid "Sayamindu"
 msgstr ""
 
 #: ../source/credits_copyright.rst:310
-# e75a1f8f25014c93baa5741fb3678bec
+# 4dfab7402406498a9c1f4792e1eda9d3
 msgid "Wadeb"
 msgstr ""
 
 #: ../source/credits_copyright.rst:312
-# b21ee10406314eaa9e5239581ed55019
+# d31511bb6b134d1a97526a06f61c5580
 msgid "Activity Team"
 msgstr ""
 
 #: ../source/credits_copyright.rst:315
-# 3c5410caa29d492fb031f0a41d600fa1
+# c3c8d4782541466eaf4fb39b21ad2849
 msgid "Troubleshooting Connectivity"
 msgstr ""
 

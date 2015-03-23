@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/finance.rst:3
+# d2c79b0bd91840b8a3cfbdd35028c2e7
+msgid "Finance"
+msgstr ""
+
+#: ../source/finance.rst:8
+# 42bb0868c31c44968a0b70b851163980
+msgid "About"
+msgstr ""
+
+#: ../source/finance.rst:10
+# dffbafe38cd84f4faeb077d6b0185d3c
+msgid "Finance is a simple financial planning activity. It can be integrated into classroom assignments, or else used to track finances for a school club. It might also be useful for students who wish to help their parents with home finances."
+msgstr ""
+
+#: ../source/finance.rst:12
+# 0a4aea04300248cfa8aba358e0ad83a8
+msgid "The register view allows students to enter income and expenses, assign categories, and review past transactions. The chart view shows students a visual breakdown of their expenses by category. The budget view allows users to assign a monthly budget to each category, and to see how each month's expenses compare to the budget."
+msgstr ""
+
+#: ../source/finance.rst:14
+# 2fcb071f0f834c719b8b9267d6da5c3d
+msgid "Finance is designed to be extensively localized. The user interface is translatable, and local conventions are used to display monetary values."
+msgstr ""
+
+#: ../source/finance.rst:17
+# ed030323a0df4e59bc4a40869f0236a9
+msgid "Git It!"
+msgstr ""
+
+#: ../source/finance.rst:18
+# dc68f2825c0649ba934f89446e60794a
+msgid "`Git Link <https://github.com/godiard/finance-activity>`_"
+msgstr ""
+
+#: ../source/finance.rst:22
+# ec81e2ce32e2471a865373684a485738
+msgid "Gallery"
+msgstr ""
+
+#: ../source/finance.rst:29
+# affa669e43f84e0c88b0bd1b447e7b84
+msgid "References"
+msgstr ""
+
+#: ../source/finance.rst:31
+# 8d4628cb5b4c42f7a0f81c33131d6876
+msgid "`Sugar Wiki Activity Page <http://activities.sugarlabs.org/sugar/addon/4040>`_"
+msgstr ""
+
+#: ../source/finance.rst:33
+# 4e02a5bb295141888ff931b52fb1e4ce
+msgid "`Source <https://github.com/godiard/finance-activity>`_"
+msgstr ""
+

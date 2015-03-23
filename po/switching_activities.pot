@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,34 +17,34 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/switching_activities.rst:4
-# e4d00d310f67490db9e59981a33c8cdf
+# 337a4ca5ec27402597e0dce1df6daa3f
 msgid "Switching Activities"
 msgstr ""
 
 #: ../source/switching_activities.rst:6
-# e25052b53c1a4c6b9b3f9bb0723d0246
+# 9efe81cc6347471abbcfe086e2b4c687
 msgid "You can switch between Activities in two ways:"
 msgstr ""
 
 #: ../source/switching_activities.rst:8
-# b490f244714b4c8db2f8a2a170ccdcdc
+# d55a61b929f74d8e96fe66c495c69bdc
 msgid "In the Frame, click the icon of the Activity you want to switch to."
 msgstr ""
 
 #: ../source/switching_activities.rst:9
-# 3ccaffe5eec948ff80495dd96bfa5f11
+# fae5e1c1dd37449d91a94c4138477505
 msgid "Hold down alt + tab at the same time to cycle through your open Activities until you reach the one you want."
 msgstr ""
 
 #: ../source/switching_activities.rst:13
 #: ../source/switching_activities.rst:17
-# 19538959fc394b828afa1652c2640f96
-# c5608861aa1d44e194b2f40dd6171eee
+# 38d33bdce2704b1e82fc8ad8a27af34b
+# 5a604588aaaf4c378cc8d9f8e873a5ff
 msgid "pressing alt + tab again"
 msgstr ""
 
 #: ../source/switching_activities.rst:23
-# d5fc73bd443741af998daf49eb9f59ad
+# b3c6f96685f54f58b01d0961da5895a4
 msgid "You can use the Clipboard and the Journal to move data between Activities."
 msgstr ""
 

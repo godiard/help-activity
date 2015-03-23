@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,67 +17,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/group_view.rst:3
-# c4035e4aaf094b4c874ee64a40fa573e
+# 97c2f92652f04175972e7f0edbeef40f
 msgid "Group View"
 msgstr ""
 
 #: ../source/group_view.rst:5
-# 85269a3f066b44cea2243ea94204dbf1
+# 970789f00e144137983838d603626c22
 msgid "The Group View shows you, your friends and allows you to easily interact with them."
 msgstr ""
 
 #: ../source/group_view.rst:8
-# 2b8126185f8c45d3ab3173ee38e85941
+# 35bd0921309d42908ba1979013609089
 msgid "Accessing the Group View"
 msgstr ""
 
 #: ../source/group_view.rst:12
-# fcae555d35b14ce1892fb979dd584607
+# ee1904b2ab3c4ef99f628ee4b386a669
 msgid "To show the Group View, click the Group icon on the Frame or press the F2 key."
 msgstr ""
 
 #: ../source/group_view.rst:16
-# d30c2c05950d4c1bbb8f678668f7fbb4
+# 54ba82722a434dc3b1e756c5d32aff81
 msgid "The Group View shows you and your friends. XO icons that are dimmed represent friends who are currently offline."
 msgstr ""
 
 #: ../source/group_view.rst:19
-# 290b0748b5f4437e91081547ea44978d
+# e653d7498cf34dcfb6d5077a560276dd
 msgid "Adding a friend"
 msgstr ""
 
 #: ../source/group_view.rst:21
-# 95a16d38e1dd4147bdba078b34486b94
+# d0eea092e86b4a3094ef7602f18090ec
 msgid "You add friends to the Group View from the Neighborhood View."
 msgstr ""
 
 #: ../source/group_view.rst:25
-# 634111068de04eaab297fa5b32f69ddb
+# e46a5451962f460792035af2f7995e13
 msgid "When you hover over an XO icon, the Make friend menu option appears. Click this option to add that person as a friend."
 msgstr ""
 
 #: ../source/group_view.rst:29
-# 3fbcf9117f85436c9faebb6f783739e3
+# a1d873923d5e424f9505e07d570168fb
 msgid "Your new friend's icon then appears in the Group View."
 msgstr ""
 
 #: ../source/group_view.rst:32
-# fb6d1a79513d4640a408b5f16bfd53bd
+# 86e2109a898241a684295c9b4588028c
 msgid "Inviting a friend"
 msgstr ""
 
 #: ../source/group_view.rst:36
-# ac6aec951a6d4847b8c57a518dd8b7ee
+# 753b05e5ba2b44f9a251884c4d7702cd
 msgid "From the hover menu, you can also invite friends to join your current Activity. There is more information about invitations and sharing in the Collaborating chapter."
 msgstr ""
 
 #: ../source/group_view.rst:39
-# 1d8c2ccf69a246969e47a3bba91e6761
+# 490026fc2b564140a94c0f5da290c8c2
 msgid "Removing a friend"
 msgstr ""
 
 #: ../source/group_view.rst:43
-# 4e31aadc138b4805a671e464e3831779
+# 795e09f3b7d54b85a427d1635f069546
 msgid "You can remove a friend from the Group View using the hover menu. Click Remove friend. That person's icon disappears from the Group View."
 msgstr ""
 

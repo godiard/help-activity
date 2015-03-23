@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,52 +17,52 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/intro17.rst:3
-# cc9abaa7087a49f89e7a21ea4098befe
+# b519cdd5d2d64a9e887ad5708b9e6710
 msgid "Introduction to XO Help 17"
 msgstr ""
 
 #: ../source/intro17.rst:5
-# 17d3aa7ca35d417aa61b3b4fcfe03bbf
+# 1b21e9e9ae2d48cca375a8c2ab1867f3
 msgid "Welcome to a new look in XO Help 17."
 msgstr ""
 
 #: ../source/intro17.rst:7
-# 597531fb75ea4703ba244e82708cf460
+# 16e5c870c5c04dca8bd4afde9672bb2c
 msgid "If you are starting with an XO laptop you might jump straight to the top of the \"Hardware section\" :doc:`/getting_started`."
 msgstr ""
 
 #: ../source/intro17.rst:9
-# 2afc52cf208e4f33bc7eeba924b82c87
+# 56008048d25e4e3aba07baf714d82215
 msgid "When you press the \"next\" link at the top right of this page you will move on to the page, The Sugar User Interface. To a new user this is a somethat theoretical page, but the **following** few pages covering navigation are more new user friendly and important for all new users."
 msgstr ""
 
 #: ../source/intro17.rst:11
-# 04a5b00eb4054ac99a445bf037d9395a
+# 70e906b7b0af484191f0b603c7a57004
 msgid "The Activity you are using, Help, has its own :doc:`/help` page. Help will display, the pages in the index, plus (when you are online) pages linked to the internet."
 msgstr ""
 
 #: ../source/intro17.rst:13
-# 09a7d7f804bd4dd9a0b3fb266e687796
+# ee3edbe3c4dd4a498add6979412dd421
 msgid "In Help use the \"Back\" button |Back| to return to the previous page, and the \"Home\" button |Home| to return to :doc:`/index`"
 msgstr ""
 
 #: ../source/intro17.rst:15
-# cecc606b391e4426b4e872b5a0a692f0
+# f803854bd4144cf5b0bcd5293ad11846
 msgid "Activities are listed in alphabetical order, starting with :doc:`/browse`."
 msgstr ""
 
 #: ../source/intro17.rst:17
-# 2008e789ed744c9faf88bb1b9d78392c
+# 4d8086f6bf764fa6bf410ce90ed6d5cd
 msgid "The section of the table of Contents, Network, starts with the page :doc:`/give_me_the_internet`"
 msgstr ""
 
 #: ../source/intro17.rst:19
-# 278a3f88d2514f2e8dc048853d67408f
+# faf4b01225f24e47a8fcc3280b4a456f
 msgid "In Help pages, the green arrow |more| is used to signify moving to material at a deeper level."
 msgstr ""
 
 #: ../source/intro17.rst:23
-# a3da5974580c42659a39fcf49032c8eb
+# b4d5311bc4ac43ee85a310b5f67a4b90
 msgid "This is an experimental new page. You can improve it yourself by following :doc:`/how_to_help`."
 msgstr ""
 

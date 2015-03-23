@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,42 +17,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/exiting_activities.rst:3
-# df0aa9a3d8414b1297c00ba9a7545ec4
+# 0391c9a8c2414163a27fb465fbdbf259
 msgid "Exiting Activities"
 msgstr ""
 
 #: ../source/exiting_activities.rst:5
-# b89af12ba22b4955ba36dfe69bad3cde
+# 1053bdd950fa4fb39ebe573d6cf724b1
 msgid "To Exit an Activity, use the touchpad or a mouse to move the cursor to the close box on the right corner of the Frame and click. Try to have no more than three Activities open at once."
 msgstr ""
 
 #: ../source/exiting_activities.rst:9
-# 2b95b96ee580422aac6f632dba2742b6
+# 929162b71702477cb976e9e357688bc2
 msgid "To quit an Activity using a keyboard shortcut, press and hold the **ctrl** key, and then press the **q** key."
 msgstr ""
 
 #: ../source/exiting_activities.rst:12
-# 75de69d0040b4da5af195b741e2f0b44
+# b70a7a553d1140f59ddebe0b57930abf
 msgid "Scratch"
 msgstr ""
 
 #: ../source/exiting_activities.rst:14
-# 453ad426d25f4276b4ad443d2b9eb6d6
+# f8c174e402884f09b036f6de9fedffa7
 msgid "There are some \"Activities\", such as Scratch, that are closed from the \"File\" menu by selecting \"Quit\" or \"Exit\". These activities may require a separate step to save your work by clicking on the \"save\" or \"save as\" command or may also be done by clicking the folder icon with a downpointing arrow."
 msgstr ""
 
 #: ../source/exiting_activities.rst:16
-# 55a7134539164282a167752bf91e873b
+# e7c1fe8ce4474b7597123162e04d989e
 msgid "In Scratch, for example, you must go to \"File\" then \"Save As\" then give your project a name next to \"New Filename\" then click \"OK\"."
 msgstr ""
 
 #: ../source/exiting_activities.rst:21
-# 1a9854862bd0490d917e82da8b1235f1
+# 846701ffd532498696907aab47eebf10
 msgid "Etoys"
 msgstr ""
 
 #: ../source/exiting_activities.rst:23
-# 336dfe6b815340f6b093f71b6f096517
+# 25e51166b50d44df99f4174b3ef4cb25
 msgid "The Etoys Activity closes by clicking a button that has an ✕ within a white disc, rather than the stop sign."
 msgstr ""
 

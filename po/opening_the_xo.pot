@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,58 +18,58 @@ msgstr ""
 
 #: ../source/opening_the_xo.rst:3
 #: ../source/opening_the_xo.rst:6
-# 29437cb560b64ee4af0a7cbae06d8ad2
-# 8807fe37a8fd46bc891095175de75e9a
+# b5716131e82049ebb7a3483aba013017
+# d448d523eb2c44839d491336dac63aa2
 msgid "Opening the XO"
 msgstr ""
 
 #: ../source/opening_the_xo.rst:8
-# 28b6352dbb7f4c0286f6abc0bd6ccc3f
+# a844a7cb9b7d44bcbeb635bb26aaf2f4
 msgid "You can open, flip, and close the XO to position it in different ways."
 msgstr ""
 
 #: ../source/opening_the_xo.rst:10
-# d9bfcbcbb2b947e2adfa25aa6bd697b9
+# f0e40fe522c041eb80e93af890b29429
 msgid "To open the XO"
 msgstr ""
 
 #: ../source/opening_the_xo.rst:12
-# fb42746470254ed0b5ce58727d5b983b
+# 7219593daca446aaa22408acd5d79069
 msgid "Position the laptop with the handle away from you, and then rotate both of the antennae towards you."
 msgstr ""
 
 #: ../source/opening_the_xo.rst:16
-# 4810dc2025234f649b2ed8be4507ce98
+# 7013a8f196c64bbf8d9b06fe6baf4be1
 msgid "Lift the front edge of the top of laptop, and then move the top upward away from you. You can hear and feel a slight click as you first lift the top."
 msgstr ""
 
 #: ../source/opening_the_xo.rst:21
-# 6b6c688ea7674503ac7f78ddad8d6e02
+# c51e278fedb742f496f18a234f3d74a9
 msgid "To flip the XO"
 msgstr ""
 
 #: ../source/opening_the_xo.rst:23
-# 9e7e9f552bfb4e93983aec6d1328f010
+# ee8f2e12c20b41aba2aa3d3236d48a84
 msgid "You can switch the XO so that the screen lies flat and covers the keyboard. This lets you handle the gamepad buttons more easily or read electronic books (ebooks), using the arrow buttons to page forward and backward."
 msgstr ""
 
 #: ../source/opening_the_xo.rst:27
-# 06f0aea70df6438485cf4270d9e21e40
+# f45018e0d20642d789247d82b6abdb50
 msgid "Bring the display up to a 90-degree angle and rotate the antennae down."
 msgstr ""
 
 #: ../source/opening_the_xo.rst:28
-# 20f8caac3dc74c4c99c599741a914253
+# 89de42c9d91b4147a306f42980386d53
 msgid "Rotate the display 180 degrees until it is facing backwards."
 msgstr ""
 
 #: ../source/opening_the_xo.rst:29
-# 5a56f3f364e24b86b1e59b913b82ca31
+# 7c9a4f0149f741568301553b186f449c
 msgid "Fold the display down onto the keyboard."
 msgstr ""
 
 #: ../source/opening_the_xo.rst:30
-# 4c82815e183e46cf9bab052246fda0a1
+# 2f9fa19bfff24313869e15f10a60ad69
 msgid "Press the rotate key to orient the display."
 msgstr ""
 

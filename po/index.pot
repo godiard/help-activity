@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,57 +17,57 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/index.rst:7
-# 58e8b08c4a0244efb93f35f9f9ba3706
+# 75582d63435244b78bab2ceb61701fc0
 msgid "Welcome to Sugar's documentation!"
 msgstr ""
 
 #: ../source/index.rst:9
-# f52b4c27f15a4341a934ac843186134f
+# 9fc64c39e78b42bdb8c65528fe494fc2
 msgid "Contents:"
 msgstr ""
 
 #: ../source/index.rst:11
-# 899fb03ebc7c4e849deea61d35a63984
+# 5c39b4b591ba408aa7fa0537e975c1c2
 msgid "Using Sugar"
 msgstr ""
 
 #: ../source/index.rst:27
-# 8ff641e74b7f4cf49e24dbf81f00c7a9
+# f10540e048ce4d5985e3dd380f91dc8b
 msgid "Using Activities"
 msgstr ""
 
 #: ../source/index.rst:38
-# 8ff641e74b7f4cf49e24dbf81f00c7a9
+# cfbebecb05e742419eda935ad097beb4
 msgid "Activities"
 msgstr ""
 
-#: ../source/index.rst:62
-# 37af2853aa1e4d76adb1ddbf80742986
+#: ../source/index.rst:78
+# 67e4eb1b7f60417092154d441cbbb874
 msgid "Network"
 msgstr ""
 
-#: ../source/index.rst:71
-# 92e3533c23fc4b43a6c3bd955ce0da88
+#: ../source/index.rst:87
+# 40d5280197c0495a86b5a582a2db774b
 msgid "The XO hardware"
 msgstr ""
 
-#: ../source/index.rst:86
-# 8ddb852eb272410295e7079a1259bbc5
+#: ../source/index.rst:102
+# bafcb547c8ac40db8027902f865b5358
 msgid "About this manual"
 msgstr ""
 
-#: ../source/index.rst:97
-# 0a26503754214a608c0e4c6ad3dc6fa7
+#: ../source/index.rst:113
+# 10b0fd7979594de59cddb92d5b9dc969
 msgid "Contribute to this manual"
 msgstr ""
 
-#: ../source/index.rst:105
-# 402fe65b2e594d04bad70a9a22de4c19
+#: ../source/index.rst:121
+# 89179aef960b4891b7a802d2c9660bca
 msgid "Support"
 msgstr ""
 
-#: ../source/index.rst:113
-# ef900d0c1d5a471bb46211ca71e97416
+#: ../source/index.rst:129
+# 43012cf39f394226b8612b2ec4025cef
 msgid "Appendices"
 msgstr ""
 

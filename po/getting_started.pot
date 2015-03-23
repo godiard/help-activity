@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,42 +17,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/getting_started.rst:3
-# f278c95e8159480a86448b5c77a50996
+# 4c7f56f0e8fd43ca9ac519e7088102db
 msgid "Getting Started"
 msgstr ""
 
 #: ../source/getting_started.rst:5
-# 2686f6b0360f4ba49dba99c630a8aaeb
+# 706540427a5545ae86dca09fab626d9b
 msgid "Read Me First:"
 msgstr ""
 
 #: ../source/getting_started.rst:7
-# 28b7f2329f654baba4e1c0c31719f3cd
+# 35551b59a2e14f7aa85c47424b706567
 msgid "Welcome to XO-land! You are about to start on a wonderful adventure of exploration and learning. The cute little green and white machine in the box is the tool that will enable you to travel the world via the Internet, compose and play music, create works of art, do science experiments, take photos and videos, communicate with friends and family via e-mail, and even learn to do a little computer programming."
 msgstr ""
 
 #: ../source/getting_started.rst:9
-# b92a5126998f43f3b51e48650f08ea50
+# 782a2deb68a34cee979f92bcf3430622
 msgid "But the XO represents a lot more than that. It is a symbol of your commitment to the education of the children of the world. OLPC is not a computer project, it is an education project. We hope you will proudly enjoy using your XO as children around the world do."
 msgstr ""
 
 #: ../source/getting_started.rst:11
-# cde4ebaf4fe54f6daf36e6f7475f9680
+# 838323eb1d6f48b78ae7a7b6835ec12d
 msgid "Before you get started, consider reading these great tips: http://laptop.org/start"
 msgstr ""
 
 #: ../source/getting_started.rst:13
-# b66acced143b4251889e5298c4c77197
+# 7fcd81f8233b499b8582e7b4bce91ea4
 msgid "The first thing you need to do is carefully unpack your XO. Save everything! If you don't, you may accidentally throw away something important. Be sure to save the box, packing materials, and any paperwork that is in the box."
 msgstr ""
 
 #: ../source/getting_started.rst:19
-# ede6394873bd4ef4aa5c028917f4e8a3
+# 16a9e100247f47b198f43966a5418519
 msgid "Before you use your XO for the first time, you should fully charge the battery. The Battery section below shows you how to install the battery and connect the charger."
 msgstr ""
 
 #: ../source/getting_started.rst:21
-# 11ad30f0dbb744d4a67ebf3d50cbf184
+# b447de2fa70d4261ac673b5753cc8461
 msgid "While you wait for it to charge, read through the rest of this guide and see what you can do!"
 msgstr ""
 

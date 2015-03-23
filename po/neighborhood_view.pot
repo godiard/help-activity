@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,62 +17,62 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../source/neighborhood_view.rst:3
-# 86356cfa011f4ef8997a36e383d04c93
+# 43d6aeece2a74c75b9cb2292f4cbc9fd
 msgid "Neighborhood View"
 msgstr ""
 
 #: ../source/neighborhood_view.rst:6
-# 19e009176b764ca5b02b3c570448d30e
+# e1c199e074a5476e8760c83b917d9828
 msgid "Neighborhood View: Connecting to the Internet"
 msgstr ""
 
 #: ../source/neighborhood_view.rst:8
-# 35a61f3dd6924093971f969219ea1b0a
+# a4bd6aaf14924c0bbcacc0546daeff8f
 msgid "You can use the Neighborhood View to connect to the Internet and to collaborate with others."
 msgstr ""
 
 #: ../source/neighborhood_view.rst:12
-# 4a80067d66e541f3a6784080960953e8
+# 2031836128c54a14b91c6833e47cb887
 msgid "To see the Neighborhood View, click the Neighborhood icon on the Frame. You can also use the Neighborhood button for this purpose if your keyboard has one, or press the F1 key."
 msgstr ""
 
 #: ../source/neighborhood_view.rst:15
-# 9aae414a6cbd44c8b232961a7bc7b955
+# e2db518a333840e5a3ac2e883d5d1cc0
 msgid "Neighborhood Elements"
 msgstr ""
 
 #: ../source/neighborhood_view.rst:19
-# 9b71a677e236400485c2d5ea7992c33c
+# 9b5b84590ec948f5a92754803d295324
 msgid "Search menu: You can find find people, Activities, or access points (what connects you to the Internet) using the search menu."
 msgstr ""
 
 #: ../source/neighborhood_view.rst:21
-# 5fe4113b0d524c6cb85f74217410a4d6
+# 15de2fc72609484f9e572ee8a8d785f9
 msgid "Ad-Hoc network icon: An ad-hoc network lets you connect to other computers on a network."
 msgstr ""
 
 #: ../source/neighborhood_view.rst:23
-# 21721b3aadc6404096b681cd31cbbe88
+# b428e7ebdefc45b189282700f32b9eb4
 msgid "Access point: WiFi hot spots (Internet access points) appear as circles in the Neighborhood view. If you hover over a circle, the name of the network appears. Each circle has another color inside, the more full the inside color, the better the connection. To connect to a network, click the circle. If the circle shows a lock symbol, expect to enter a key or password. The inside of the circle blinks while your system tries to connect. Once you are connected, an icon for the connection will appear at bottom right of the Frame. To disconnect, hover over the circle, and choose Disconnect on the menu. Or hover over the icon in the Frame, and choose Disconnect there. (OLPC XO-1 Note: The XO-1 laptop has three mesh network channels. By clicking on a mesh icon you join that particular mesh network, and disconnect from an Access point network. The other XO icons are shown will change according to who is on that network.)"
 msgstr ""
 
 #: ../source/neighborhood_view.rst:25
-# 70aec48ebcae4ba1a4ec6ef1c9a0360d
+# e56239b7c7d346c0be39d8bf076ff464
 msgid "Shared Activities: Shared Activities appear as icons in the Neighborhood View and you can join them by clicking the corresponding icon."
 msgstr ""
 
 #: ../source/neighborhood_view.rst:27
-# b072eec7fd304ebcbb15e639fbd29f60
+# a989d3f9b8f44241884280170a88d00f
 msgid "XO icon: Other Sugar users appear as XO icons. By hovering over them, you can discover the nickname of that person and can add them as a friend or invite them to join you in a shared Activity."
 msgstr ""
 
 #: ../source/neighborhood_view.rst:29
-# 0962d193d09848aeb95263476a516f9c
+# 61f1769a9b3d4ec09fb3e09be299860c
 msgid "Open access point: An access point which isn't protected by a password."
 msgstr ""
 
 #: ../source/neighborhood_view.rst:31
-# dba967f6479a488e89194a5601c0c9f1
+# 0a56d63d1118450eacf730a0a082702e
 msgid "Connected networks: Once the computer has connected to a network"
 msgstr ""
 

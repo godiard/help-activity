@@ -1,0 +1,278 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../source/poll.rst:3
+# c90126067c134b89a3a6ea5f9556bf70
+msgid "Poll"
+msgstr ""
+
+#: ../source/poll.rst:6
+# b597e8283f7f4170b44ff9533dd67532
+msgid "Overview"
+msgstr ""
+
+#: ../source/poll.rst:7
+# b52bbaa9626c48e28329c9b57ac4ab25
+msgid "A poll is a research tool that helps explain what a group of people think about a subject.  First you present the group with a question and a set of answer choices. Then each person in the group gets to vote for the answer which best describes their personal feelings or opinion.  After collecting votes from the whole group, you look for a pattern in their answers.  You can also ask the same question of different groups (i.e. boys and girls or children and adults) and see how each group answers."
+msgstr ""
+
+#: ../source/poll.rst:9
+# fa9e33b4359941ae96ab84702280dd9a
+msgid "A poll can be used to help a community make a decision and take action.  It can also be used to understand the similarities and differences among individuals and groups of people."
+msgstr ""
+
+#: ../source/poll.rst:11
+# ac0397eb557e435e8f114bf29d33520e
+msgid "Polls are a helpful tool for any research project.  Use this Poll tool and lesson plans with whatever subject you are studying.  It can also be used to make collaborative decisions in the classroom about academic activities and among friends about social issues."
+msgstr ""
+
+#: ../source/poll.rst:13
+# 31668f60b8ac4e3bacf8657f908b2f30
+msgid "Skills:"
+msgstr ""
+
+#: ../source/poll.rst:15
+# a8211d4e160246e3ae3099da1ae3bff8
+msgid "Learn what a poll is and how it works."
+msgstr ""
+
+#: ../source/poll.rst:17
+# 3a57db646d0f468bb26bd2385a4ef65a
+msgid "Learn how to use polls to gather information and make decisions."
+msgstr ""
+
+#: ../source/poll.rst:19
+# e11ef1f8540e4c64bec4e04aa839b97f
+msgid "Practice choosing poll subjects."
+msgstr ""
+
+#: ../source/poll.rst:21
+# 40f50efa19f347bda7f52d4f5ee3e5df
+msgid "Learn how to formulate good poll questions and answer choices."
+msgstr ""
+
+#: ../source/poll.rst:23
+# 02b61bbcc8c3485394ca639cb1925c8a
+msgid "Practice basic survey skills of data collection, analysis and presentation."
+msgstr ""
+
+#: ../source/poll.rst:25
+# 9129268a00484f7488bd020b27489f1a
+msgid "Learn how to use a bar graph to represent votes and opinions."
+msgstr ""
+
+#: ../source/poll.rst:27
+# d783ae459e094e4ebe29549be5803af0
+msgid "Learn how to represent poll results using ratios and percentages."
+msgstr ""
+
+#: ../source/poll.rst:29
+# 23233f4bd60e4db792d5e43bf7aadab9
+msgid "Learn how to help peers understand an idea or an opinion."
+msgstr ""
+
+#: ../source/poll.rst:31
+# d14fc6f1843d43e28f68ce01d1985fa0
+msgid "Learn from classmates."
+msgstr ""
+
+#: ../source/poll.rst:33
+# 8916353a196a4ddcba57b7d1f7d506d0
+msgid "Learn how to present poll results and make collaborative decisions based on those results."
+msgstr ""
+
+#: ../source/poll.rst:35
+# efa9f444e58a4dc2bb137b5d42b7498e
+msgid "Practice using new functions and features of the XO Laptop."
+msgstr ""
+
+#: ../source/poll.rst:38
+# 8f94d06235004d29ac0d339acff7efc8
+msgid "Participate in a Poll"
+msgstr ""
+
+#: ../source/poll.rst:40
+# e3c8891bd97b4865b405f63bdd7e967d
+msgid "Open the Poll activity from the Sugar Home view."
+msgstr ""
+
+#: ../source/poll.rst:42
+# a383d8d8d22b4f8e86a91e29cac9bad9
+msgid "Choose a Poll topic from the list, and click the “VOTE” button next to it."
+msgstr ""
+
+#: ../source/poll.rst:44
+# f730257e352142788b91c60767d9abea
+msgid "A Poll question and answer choices will appear. Read them carefully, then click on your favorite answer. Click the “VOTE” button to submit your answer."
+msgstr ""
+
+#: ../source/poll.rst:46
+# 4aa227fa6d5342f3b8d9b0d13d7da4b0
+msgid "After you vote, current Poll results will appear. You will see the exact number of votes cast (so far) for each answer. You will also see a bar graph that shows which answer is currently the most popular among the whole group."
+msgstr ""
+
+#: ../source/poll.rst:48
+# 5a7b1f51d2bd493d856ea0528c2b308b
+msgid "Look at the number of votes next to each answer. Which one has the most votes so far? How many people chose the same answer as you? Which answer do you think will win? Why?"
+msgstr ""
+
+#: ../source/poll.rst:50
+# 4ac28db57cc04932bf7d46494b5b7b43
+msgid "Look at the bar graph. Which answer has the longest bar? What does that mean? Which answer has the shortest bar? What does that mean?"
+msgstr ""
+
+#: ../source/poll.rst:52
+# 594577612ba2447ca62370cc5450dfa2
+msgid "Let each person in your group vote in this poll. How did the votes and bar graphs change?"
+msgstr ""
+
+#: ../source/poll.rst:54
+# ddd76e64d2684c4bab9da3743a142d16
+msgid "After everyone votes, discuss the final results. What did you learn from the poll? Were you surprised by the results? How could you use this information?"
+msgstr ""
+
+#: ../source/poll.rst:56
+# fac640b3887d4ec4a137179b958e410e
+msgid "Generate a list of ideas for polls. Record your ideas on a blackboard, on paper or in the “Write” program on the XO Laptop. What would you like to learn from each poll you thought of? What would you do with the results?"
+msgstr ""
+
+#: ../source/poll.rst:59
+# 76ec1e6a0af744c399224ff7317c2f7f
+msgid "Build a Poll"
+msgstr ""
+
+#: ../source/poll.rst:61
+# 47f522c2d0da42d68cfcb319175d0919
+msgid "Make a poll of your own! The goal is to build a poll that is interesting to you, and learn to collect votes from people and reach conclusions or make decisions based on your poll."
+msgstr ""
+
+#: ../source/poll.rst:63
+# 0202254b0c384fbd958fcaa74fa784fd
+msgid "Example poll idea:  “What is your favorite activity on the XO?” You can use this poll in your classroom or your family, to find out what activity is the most favorite or popular."
+msgstr ""
+
+#: ../source/poll.rst:66
+# ed49136f10da4453a53b927ce65c9064
+msgid "Open the Poll Builder activity and click on the “Build a Poll” button at the bottom of the screen."
+msgstr ""
+
+#: ../source/poll.rst:68
+# b2caf0712b9a45729be7bb9ae76947fe
+msgid "Fill in your poll details on the blank form that appears. Type in your poll title, question and answers, and the number of votes you want to collect."
+msgstr ""
+
+#: ../source/poll.rst:70
+# a34ebca935aa4719b515c3002284e2d6
+msgid "Think about your “Poll Title” and “Question.” The title is the name of your poll, and the question is what you want to know.    In our example poll, the title is “Favorite Food” and the question is “What is your favorite food?”"
+msgstr ""
+
+#: ../source/poll.rst:72
+# d33a0413ac14436d903028e4f3fcc9e3
+msgid "Next type in the number of votes you want to collect in your poll. This number is called a “sample size” by researchers.  To do this correctly, think about how many people you want to poll. Is it all of the students in your class? Just the 12-year-olds? All of the people in your family? All of the women in your town?"
+msgstr ""
+
+#: ../source/poll.rst:74
+# 5948eb87880b406bb79206c60e3851b5
+msgid "Now type in the “Answer choices,” you want people to choose from. You can offer 2, 3, 4 or 5 answer choices in this poll.  In our Favorite Food example, the answer choices could be: 1. Bread, 2. Rice, 3. Beans, 4. Candy, 5. Bananas."
+msgstr ""
+
+#: ../source/poll.rst:76
+# a69418d6fb02431496cd14625b98be34
+msgid "Once you have filled in all of the “Build a Poll” fields, click “Step 1: Preview” to see how your poll will look."
+msgstr ""
+
+#: ../source/poll.rst:78
+# af7d5a0ce90f4442b85883653a3597de
+msgid "If you like how it looks, click “Save Poll.”"
+msgstr ""
+
+#: ../source/poll.rst:80
+# 87202aa3c1e34156a4a432cfae49b3be
+msgid "If you want to change something, click “Edit Poll.” You can change the information in any field."
+msgstr ""
+
+#: ../source/poll.rst:82
+# 66ca4365e63a43619e4aaad76c24db97
+msgid "When you are happy, click “Step 2: Save Poll” -- your poll will be built."
+msgstr ""
+
+#: ../source/poll.rst:85
+# 2becdee85a9d4ede86569311fef14068
+msgid "Collect Poll Data"
+msgstr ""
+
+#: ../source/poll.rst:87
+# e1bf6b819a774b70bb04bddde993a66e
+msgid "Now that your poll is built, invite people to take your poll on the XO. Walk around with your laptop, and ask people to answer your research question."
+msgstr ""
+
+#: ../source/poll.rst:89
+# 61e2063f2d7a4d609121154493ff72f3
+msgid "Decide how you are going to get the information you need.  You could read your question and the answer choices to each person and click their answer on your XO. Or, you can show each person how to select your poll from the list, read the poll by themselves and click on their answer choice by themselves."
+msgstr ""
+
+#: ../source/poll.rst:91
+# 80cd45dbf96e46c6bf5520a39f085b89
+msgid "For best results, each person should vote only once. The Poll will close when you reach the number of your “sample size.”"
+msgstr ""
+
+#: ../source/poll.rst:93
+# 6f050718030e453cb16ce3774fbcce4c
+msgid "Try to collect votes from the people you originally thought about when you chose the “number of votes to collect.” If it was girls, ask only girls.  Otherwise your results will not reflect the group you had in mind."
+msgstr ""
+
+#: ../source/poll.rst:95
+# 76f4b49d5cec4d2aa569e5ab869bec3a
+msgid "Remember, you can create the same poll again, and ask different kinds of people to answer each time.  It will be very interesting to compare the results of the same question asked to different groups, such as boys and girls or adults and children."
+msgstr ""
+
+#: ../source/poll.rst:98
+# 8924d1f4e62c4ddf9e528fc37a9662d2
+msgid "Use Data to make Observations and Decisions"
+msgstr ""
+
+#: ../source/poll.rst:100
+# 08bbeb25eff0437990a2607fe7165577
+msgid "After you have collected the poll data you needed from one or more groups, look at the results and think about what they mean."
+msgstr ""
+
+#: ../source/poll.rst:102
+# c954490372424c3bb0eec40d49f3db2c
+msgid "Open the Poll activity on your XO and find your poll title on the list. Click the “See Results” button to see how people voted."
+msgstr ""
+
+#: ../source/poll.rst:104
+# 1859eb2dc8d4482ba5c020273b78c313
+msgid "Look at the Bar Graphs that represent the votes (results) of your poll. Which answer has the longest bar? What does that mean? Which answer has the shortest bar? What does that mean?"
+msgstr ""
+
+#: ../source/poll.rst:107
+# fadb31c973db47b49ccad338b82d5857
+msgid "If you tried your poll with different groups (girls, boys, teachers, students, adults, children, etc.) Open each poll and see if there are any differences."
+msgstr ""
+
+#: ../source/poll.rst:109
+# 14d5b2a9be0d4c7c8c1f8a240fef8f7d
+msgid "Write down notes about what you see; put your findings on paper or record them with the “Write” activity on your XO. How does this kind of information help you draw conclusions about the people you surveyed? Does the data accurately represent an entire group?   Does it matter if you questioned 25 people or 100 people? Why?"
+msgstr ""
+
+#: ../source/poll.rst:111
+# 7aafbacf6c7347c8838e8ced8f720aa7
+msgid "Present you findings to your class, or to the people who took the poll. Tell them what you learned for the poll and discuss the results together. Brainstorm about what could be done with this information."
+msgstr ""
+
