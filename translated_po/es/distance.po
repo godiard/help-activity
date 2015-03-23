@@ -1,0 +1,241 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# bba66c77a87947bbb24ed05ad4831f73
+#: ../source/distance.rst:3
+msgid "Distance"
+msgstr "Distancia"
+
+# 54d3324b7530427c95b584a13ca03e77
+#: ../source/distance.rst:6
+msgid "About"
+msgstr "Acerca de"
+
+# 8e02bb4a595041a28ae9cf3e42b515f7
+#: ../source/distance.rst:8
+msgid ""
+"Distance (earlier known as Acoustic Tape Measure) determines the physical "
+"distance between two computers by measuring how long it takes sound pulses "
+"to travel between them."
+msgstr ""
+"Distancia (anteriormente conocido como acústica cinta métrica) determina la "
+"distancia física entre dos equipos midiendo el tiempo que tarda pulsos de "
+"sonido para viajar entre ellos."
+
+# e873de8c6ef54eaf866ac6362c595527
+#: ../source/distance.rst:14
+msgid "Download"
+msgstr "Descargar"
+
+# 95c741f170274fbabe4f0981b3e9b6f7
+#: ../source/distance.rst:16
+msgid ""
+"`Activity page in our activities portal <http://activities.sugarlabs.org/en-"
+"US/sugar/addon/4264>`_"
+msgstr ""
+"`Página Actividad en nuestro portal de actividades <http: // actividades. "
+"sugarlabs. org / en-US / azúcar / addon / 4264> `_"
+
+# 22a78df61f974534b6036fc6528da929
+#: ../source/distance.rst:18
+msgid "`Git Repository <http://git.sugarlabs.org/distance>`_"
+msgstr "`Go Repositorio <http: // Go. sugarlabs. org / distancia> `_"
+
+# e254ed941c864dbc947d8890ba4b6628
+#: ../source/distance.rst:22
+msgid "Using Distance"
+msgstr "Utilizando Distancia"
+
+# 398ec4cec47c40d192ae51df9d547752
+#: ../source/distance.rst:24
+msgid "You need two laptops in order to use this activity."
+msgstr ""
+"Se necesitan dos ordenadores portátiles con el fin de usar esta actividad."
+
+# 5d03bbb05f464f35a871840234b850a8
+#: ../source/distance.rst:27
+msgid "Steps"
+msgstr "Pasos"
+
+# 1a79a38b1d3d4ff988836f2e171b6151
+#: ../source/distance.rst:29
+msgid ""
+"Launch the Distance activity on one of the computers by clicking on the icon"
+" in the Home view."
+msgstr ""
+"Lanzamiento de la actividad a distancia sobre uno de los equipos haciendo "
+"clic en el icono en la vista de inicio."
+
+# 8dd77eac97ba4e0ab647120f4ef391e3
+#: ../source/distance.rst:31
+msgid ""
+"Share the activity from the Share icon on the activity toolbar (or send an "
+"invitation to the another computer)."
+msgstr ""
+"Comparte la actividad desde el icono de Compartir en la barra de "
+"herramientas de actividad (o enviar una invitación a la otra computadora)."
+
+# 5aee42f2732d472882352c8f92991ad9
+#: ../source/distance.rst:33
+msgid ""
+"Launch the Distance activity on the second computer by clicking on the icon "
+"in the Neighborhood view (or Invitation icon)."
+msgstr ""
+"Inicie la actividad Distancia en el segundo equipo, haga clic en el icono de"
+" la (icono o invitación) Vista Barrio."
+
+# c27d81d894f74ea08cbbd38ad4e3d87d
+#: ../source/distance.rst:35
+msgid ""
+"Click on the \"Begin Measuring Distance\" button found near the top of the "
+"activity view on both computers."
+msgstr ""
+"Haga clic en el botón \"Comenzar Medición.de.la.distancia\" que se encuentra"
+" en la parte superior de la vista de la actividad en ambos equipos."
+
+# 348f373a1a3b4a9c82802baec53db0cc
+#: ../source/distance.rst:37
+msgid ""
+"The first computer will send an audio pulse; the second computer will "
+"respond with an audio pulse of its own; then both computers will calculate "
+"and display the distance between them (by default, the measurement is "
+"displayed in meters)."
+msgstr "El primer equipo enviará un pulso de audio; ."
+
+# 90972c94e1f745daae968a06ac5646fa
+#: ../source/distance.rst:39
+msgid ""
+"This process (Step 5) will repeat until you click on the \"Stop Measuring "
+"Distance\" button or you exit the activity."
+msgstr ""
+"Este proceso (Paso 5) se repite hasta que haga clic en el botón \"Detener la"
+" medición Distancia\" o salir de la actividad."
+
+# 9d39f709085943fcb1818d185c018132
+#: ../source/distance.rst:42
+msgid "Notes"
+msgstr "Notas"
+
+# 0338a04ae1314a349a53f107f643c99d
+#: ../source/distance.rst:44
+msgid ""
+"Try not to move the laptops while a measurement is taking place as it will "
+"result in a inaccurate measurement. You can move them between consecutive "
+"measurements."
+msgstr ""
+"Trate de no mover las computadoras portátiles mientras una medición está "
+"llevando a cabo, ya que dará lugar a una medición inexacta. Puede moverlos "
+"entre mediciones consecutivas."
+
+# d99a0b0c910c4976821af9fea81eafd8
+#: ../source/distance.rst:46
+msgid ""
+"If the \"Begin Measuring Distance\" button does not activate, try "
+"relaunching the Distance activity again on the second laptop from the "
+"Neighborhood view."
+msgstr ""
+"Si el botón \"Begin Medición de la distancia\" no se activa, trate de "
+"relanzar la actividad Distancia de nuevo en el segundo portátil desde el "
+"Vecindario."
+
+# 55516914d49b4e3aa75c4983a809cb1a
+#: ../source/distance.rst:50
+msgid ""
+"Atmospheric conditions can impact the accuracy of the measurement; you can "
+"override the default settings by using the Atmosphere toolbar."
+msgstr ""
+"Las condiciones atmosféricas pueden afectar la exactitud de la medición; ."
+
+# 92cc81461de34206a3e7cfca03172226
+#: ../source/distance.rst:54
+msgid ""
+"The units of measure can be changed by choosing a unit from the combo box "
+"(meters, centimeters, inches, feet, yards, or custom units) on the Customize"
+" toolbar. If you chose \"custom units\", the current distance between the "
+"two laptops will be used as a metric. For example, you could measure the "
+"height of a student, Pedro, and then select that distance to define a new "
+"unit of measure, the \"Pedro\"."
+msgstr ""
+"Las unidades de medida pueden ser cambiadas por la elección de una unidad en"
+" el cuadro combinado (metros, centímetros, pulgadas, pies, yardas, o "
+"unidades personalizadas) en la barra de herramientas Personalizar. Si elige "
+"\"unidades de medida\", la distancia actual entre las dos computadoras "
+"portátiles se utilizará como una métrica. Por ejemplo, se podría medir la "
+"altura de un estudiante, Pedro y, a continuación, seleccione esa distancia "
+"para definir una nueva unidad de medida, el \"Pedro\"."
+
+# ba49c24839f84c7f89e14f71b8f0738b
+#: ../source/distance.rst:58
+msgid ""
+"The Copy button found on the Edit toolbar can be used to copy measurements "
+"to the toolbar."
+msgstr ""
+"El botón Copiar que se encuentra en la barra de herramientas de edición se "
+"puede utilizar para copiar las mediciones de la barra de herramientas."
+
+# 823807fdaead45b9b8659dcdbbe62ff1
+#: ../source/distance.rst:60
+msgid ""
+"The Paste button found on the Edit toolbar can be used to paste a new "
+"measurement unit into the activity. The scale of the measurement units "
+"should be specified in terms of meters, e.g., 39.37 for specifying inches."
+msgstr ""
+"El botón Pegar que se encuentra en la barra de herramientas de edición se "
+"puede utilizar para pegar una nueva unidad de medida en la actividad. La "
+"escala de las unidades de medida debe especificarse en términos de metros, "
+"e. g. , 39. 37 pulgadas para que especifican."
+
+# 691404bbbe6c49419e6a3e68a613d474
+#: ../source/distance.rst:64
+msgid "Reporting problems"
+msgstr "Informe de problemas"
+
+# 06623c51adaf48fc922c22766393b7f6
+#: ../source/distance.rst:65
+msgid ""
+"`File Bug Report <https://bugs.sugarlabs.org/newticket?component=Distance>`_"
+msgstr ""
+"`Archivo Bug Report <https: // bichos. sugarlabs. org / newticket? "
+"componente = Distancia> `_"
+
+# fc10aad8af2f44df9cca7cc5604e4302
+#: ../source/distance.rst:68
+msgid "Credits"
+msgstr "Créditos"
+
+# f6fdd6d811e44013bb5ac0a8a81380ce
+#: ../source/distance.rst:69
+msgid ""
+"Distance was written by Benjamin Schwartz. It is maintained by Rafael Ortiz "
+"and Walter Bender"
+msgstr ""
+"Distancia fue escrito por Benjamin Schwartz. Es mantenido por Rafael Ortiz y"
+" Walter Bender"
+
+# 53f8d563e2ce470997c5b3fae6fd19da
+#: ../source/distance.rst:73
+msgid "References"
+msgstr "Referencias"
+
+# 96dbda2c088f441680391d19bfcfca70
+#: ../source/distance.rst:74
+msgid "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/Distance>`_"
+msgstr ""
+"`Wiki Páginas <http: // wiki. sugarlabs. org / go / Actividades / Distancia>"
+" `_"

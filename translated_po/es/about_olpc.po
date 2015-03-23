@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,27 +17,32 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 256db308b1ac4fc483b85c14c50c2d62
+# e1123179d2c149cf9d956c141a57545e
 #: ../source/about_olpc.rst:3
 msgid "About OLPC"
-msgstr ""
+msgstr "Acerca de OLPC"
 
-# c003f92f2d694030951d00801d53c232
+# 995d5a505b6b4789a76725a527f8960b
 #: ../source/about_olpc.rst:6
 msgid "About One Laptop per Child"
-msgstr ""
+msgstr "Acerca de One Laptop per Child"
 
-# fa10585168ec4c7c900a8e560e4fc96a
+# 3c8617ed68f140af8b21ad46bcf461a8
 #: ../source/about_olpc.rst:8
 msgid ""
 "One Laptop per Child (OLPC) is a project started by Nicholas Negroponte at "
-"the Massachusetts Institute of Technology (MIT) with a core of MIT Media Lab "
-"personnel. The organization has grown to include passionate people creating "
-"software and hardware and sustainable community involvement to fulfill the "
+"the Massachusetts Institute of Technology (MIT) with a core of MIT Media Lab"
+" personnel. The organization has grown to include passionate people creating"
+" software and hardware and sustainable community involvement to fulfill the "
 "educational mission of OLPC."
 msgstr ""
+"One Laptop per Child (OLPC) es un proyecto iniciado por Nicholas Negroponte "
+"en el Instituto de Tecnología de Massachusetts (MIT), con un núcleo de "
+"personal del MIT Media Lab. La organización ha crecido hasta incluir a gente"
+" apasionada que crean software y hardware y la participación comunitaria "
+"sostenible para cumplir con la misión educativa de la OLPC."
 
-# 7d586e8b69db4d1d8fe0c5b383335da3
+# ebf60d74c4e54496aeed9bb15435eb36
 #: ../source/about_olpc.rst:10
 msgid ""
 "The mission for OLPC is simple yet compelling: To create educational "
@@ -45,10 +50,17 @@ msgid ""
 "a rugged, low-cost, low-power, connected laptop with content and software "
 "designed for collaborative, joyful, and self-empowered learning."
 msgstr ""
+"La misión de OLPC es simple pero convincente: Para crear oportunidades "
+"educativas para los niños más pobres del mundo, proporcionando a cada niño "
+"con un bajo costo robusto, de baja potencia, portátil conectado con el "
+"contenido y software diseñado para la colaboración, alegre, y auto "
+"facultado- ."
 
-# 7fa58f118ff342479b9ce26cc9bd8437
+# b0e2ed479fb1400199a2eb4e4c313680
 #: ../source/about_olpc.rst:12
 msgid ""
-"You can learn more about OLPC at http://laptop.org and http://wiki.laptop."
-"org -- everyone is welcome to participate."
+"You can learn more about OLPC at http://laptop.org and "
+"http://wiki.laptop.org -- everyone is welcome to participate."
 msgstr ""
+"Usted puede aprender más sobre OLPC en http: // portátil. org y http: // "
+"wiki. portátil. org - todo el mundo es bienvenido a participar."

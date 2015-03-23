@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,88 +17,113 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 0c33d336e150424688e38df574c831a0
+# 3353eb2194b1450ba1bb0059d4257793
 #: ../source/repair.rst:3
 msgid "Repairs"
-msgstr ""
+msgstr "Reparaciones"
 
-# 0b3ebd33cb224f30b1fdba5e18a67df2
+# b5430c242669414a81a1e3272b7ba2c7
 #: ../source/repair.rst:5
 msgid ""
-"Your XO is built and designed for repair work to be completed with only your "
-"hands and a screwdriver, and the case includes extra screws in case you need "
-"them. Please refer to http://wiki.laptop.org/go/Disassembly for important "
-"details on how to start on repairs."
+"Your XO is built and designed for repair work to be completed with only your"
+" hands and a screwdriver, and the case includes extra screws in case you "
+"need them. Please refer to http://wiki.laptop.org/go/Disassembly for "
+"important details on how to start on repairs."
 msgstr ""
+"Tu XO está construida y diseñada para trabajos de reparación a ser "
+"completado con sólo sus manos y un destornillador, y el caso incluye "
+"tornillos adicionales en caso de que los necesite. Por favor, consulte http:"
+" // wiki. portátil. org / go / Desmontaje para detalles importantes sobre "
+"cómo iniciar en reparaciones."
 
-# 2b7f61547313404886fd5ecd52ae64dc
+# ff5a21f1072044eeb9bc4e0a46ed40a0
 #: ../source/repair.rst:7
 msgid ""
 "For photos and step-by-step instructions on repairing your XO or putting "
 "replacement parts in, go to http://wiki.laptop.org/go/Repair."
 msgstr ""
+"Para fotos y las instrucciones paso a paso sobre la reparación de su XO o "
+"poner piezas de recambio, vaya a http: // wiki. portátil. org / go / "
+"Reparación."
 
-# 0303a5439f7144029f47b20b803db411
+# 620504c2b37c46138af2a263a84d5336
 #: ../source/repair.rst:9
 msgid ""
 "Refer to http://wiki.laptop.org/go/Repair_center_locations to get to the "
 "most recent directory of repair centers, if you do not want to repair your "
 "XO yourself."
 msgstr ""
+"Consulte http: // wiki. portátil. org / go / Repair_center_locations para "
+"llegar al directorio más reciente de centros de reparación, si usted no "
+"desea reparar su XO a ti mismo."
 
-# 69aeb5d5e97f4240a1361cb8b4bf7771
+# 0dc2b544623c4f71ad74f804b18bb5e1
 #: ../source/repair.rst:12
 msgid "Recalibrating the touchpad on the XO 1.0"
-msgstr ""
+msgstr "Recalibración de la pantalla táctil en la XO 1. 0"
 
-# 78be30c8375341fcbd081763a0befdc4
+# 79dbcb8e07064a198f9207abd207217b
 #: ../source/repair.rst:14
 msgid ""
 "If the pointer is not following your finger on the touchpad of a XO 1.0, or "
 "if it jumps to the corners when you touch the touchpad, please try this "
 "recalibration procedure:"
 msgstr ""
+"Si el puntero no está siguiendo el dedo en la pantalla táctil de un XO 1. 0,"
+" o si se salta a las esquinas cuando se toca la pantalla táctil, por favor "
+"intente este procedimiento de recalibración:"
 
-# 58b75f95575048769add2a9439252739
+# a4dfd7a3614a4f78a6d9c480133e7eaf
 #: ../source/repair.rst:16
 msgid ""
-"Hold down the three keys at one time: the upper left, upper right, and lower "
-"right of the keyboard and the fourth key, fn, the lower leftmost key, as the "
-"last one pressed, and then release them all."
+"Hold down the three keys at one time: the upper left, upper right, and lower"
+" right of the keyboard and the fourth key, fn, the lower leftmost key, as "
+"the last one pressed, and then release them all."
 msgstr ""
+"Mantenga pulsadas las tres teclas a la vez: la parte superior izquierda, "
+"superior derecha, y abajo a la derecha del teclado y la cuarta clave, nota, "
+"la tecla inferior izquierda, como el último presiona, y luego liberar a "
+"todos."
 
-# 3420d861dcac4c75905de53aa4a9b429
+# 0bce60b0189f46efaa65b5b45c8243b5
 #: ../source/repair.rst:20
 msgid ""
 "If this doesn't help, try shutting down the laptop and removing the battery "
 "for ten seconds before restarting."
 msgstr ""
+"Si esto no ayuda, trate de apagar el ordenador portátil y de retirar la "
+"batería durante diez segundos antes de reiniciar."
 
-# ecb603308f724907a53b5d87dd000890
+# 9d786603fbfe4290a5c411bd295cda00
 #: ../source/repair.rst:22
 msgid ""
 "Finally, plug a standard USB mouse into your laptop to bypass the problem."
 msgstr ""
+"Por último, conecte un ratón USB estándar en su computadora portátil para "
+"evitar el problema."
 
-# ec09b584461c47da8bad8ab99f7fad09
+# 10178969fe854dd9872899900669919c
 #: ../source/repair.rst:25
 msgid "How to do a Keyboard Test"
-msgstr ""
+msgstr "Cómo realizar una prueba de teclado"
 
-# 2751adfb308d4d99a7b2f626e57e895c
+# a885768e4c74408d94bfa4b7f77455ce
 #: ../source/repair.rst:27
 msgid "Checking for keys that stay down or appear stuck"
-msgstr ""
+msgstr "Comprobación de las claves que se quedan abajo o aparecen pegados"
 
-# ebf8c7171e904f3881da670bc4686f30
+# 39cbcccc16f6431f97e84861041aad4b
 #: ../source/repair.rst:29
 msgid ""
 "Your XO must have a developer's key to do this keyboard test. Refer to "
 "http://wiki.laptop.org/go/Developer_key for more information about "
 "developer's keys."
 msgstr ""
+"Tu XO debe tener la clave de un desarrollador para realizar esta prueba "
+"teclado. Consulte http: // wiki. portátil. org / go / Developer_Key para "
+"obtener más información acerca de las claves de los desarrolladores."
 
-# 8c9d22de99cd46d9965611fd7c8d5e8f
+# 76bcedecd5a547a3a5924e30ec006386
 #: ../source/repair.rst:31
 msgid ""
 "With the XO off, hold down the \"check mark\" game button (above the power "
@@ -106,129 +131,164 @@ msgid ""
 "\"Release the game keys to continue\" and shows a text diagram of which key "
 "is pressed."
 msgstr ""
+"Con la XO, mantenga pulsado el botón de \"marca de verificación\" juego (por"
+" encima del botón de encendido) mientras presiona el botón de encendido. "
+"Después de la puesta en marcha, la pantalla mostrará \"Suelta las teclas de "
+"juego para continuar\" y muestra un diagrama cuyo texto se pulsa la tecla."
 
-# 3f1dabfa0c2a4c20b601c3855209307e
+# 644e1dda9e204d4bb2f663f8e7f6da1c
 #: ../source/repair.rst:32
 msgid "Release the \"check mark\" game button."
-msgstr ""
+msgstr "Suelte el botón del juego \"marca de verificación\"."
 
-# 4def6929ca104e1ebf6e799f747e7144
+# b391e2fc5a17439792985db2726adf1f
 #: ../source/repair.rst:33
 msgid ""
 "Next, after you see \"Type the Esc key to interrupt automatic startup,\" "
-"press the escape key in the upper left hand corner of the keyboard layout (a "
-"circle with an x). The XO displays an ok prompt."
+"press the escape key in the upper left hand corner of the keyboard layout (a"
+" circle with an x). The XO displays an ok prompt."
 msgstr ""
+"A continuación, después de ver \"Escriba la tecla Esc para interrumpir el "
+"inicio automático\", pulse la tecla de escape en la esquina superior "
+"izquierda de la distribución del teclado (un círculo con una x). La XO "
+"muestra un indicador ok."
 
-# 15a2d8f192f1419bb80fa0ecb95c7d81
+# 0fe1cf55c7fc4894bbb636c255d59d24
 #: ../source/repair.rst:34
 msgid "At the ok prompt, type:"
-msgstr ""
+msgstr "En el indicador ok, escriba:"
 
-# b8439dceebf744ddabdb5bb44c084823
+# 7f1ed761f045420ab01aec41d15e3443
 #: ../source/repair.rst:36
 msgid "``test keyboard``"
-msgstr ""
+msgstr "`` Keyboard`` prueba"
 
-# b05170a00e6e462e8db8e23a21eb24e0
+# c80357ea6c1d4ea8a01fe823c1b8dc1d
 #: ../source/repair.rst:38
 msgid "and press enter."
-msgstr ""
+msgstr "y pulse Enter."
 
-# d8e2972ff98b45d09263cace069a60ec
+# 2f2e17ed462f4a4584091dadd11a452f
 #: ../source/repair.rst:40
 msgid "A blue keyboard map displays on the screen."
-msgstr ""
+msgstr "Un mapa azul teclado aparece en la pantalla."
 
-# 5bd600d8838e482fb179b2de2c975fa4
+# ca168ee0b3764c18a9eef5fcfcc0bb0f
 #: ../source/repair.rst:42
 msgid ""
 "Press keys one at a time to see the keyboard map turn the key light blue."
 msgstr ""
+"Pulse las teclas de una en una para ver el mapa del teclado enciende la luz "
+"azul clave."
 
-# 2b7fc892502a47d7889b5e45423e6b7a
+# da0d180bac104603acf98a7ab3e2d2c3
 #: ../source/repair.rst:43
 msgid ""
-"If the display on screen shows a light blue key constantly, the keyboard has "
-"a problem with that particular key sticking. Refer to a repair center for "
-"full diagnosis and repair at http://wiki.laptop.org/go/"
-"Repair_center_locations."
+"If the display on screen shows a light blue key constantly, the keyboard has"
+" a problem with that particular key sticking. Refer to a repair center for "
+"full diagnosis and repair at "
+"http://wiki.laptop.org/go/Repair_center_locations."
 msgstr ""
+"Si la visualización de la pantalla muestra una llave azul luz "
+"constantemente, el teclado tiene un problema con eso se pegue clave "
+"particular. Recomendar a un centro de reparación para el diagnóstico y la "
+"reparación completa en http: // wiki. portátil. org / go / "
+"Repair_center_locations."
 
-# 94d35e21eae648d2a08bad20cbb3ab1a
+# e9bcf73b2d4b4b05ab4a74a16fb2ce51
 #: ../source/repair.rst:44
 msgid ""
 "Press the the escape key (circle with an x) again to exit the keyboard test."
 msgstr ""
+"Pulse la tecla Escape (círculo con una x) de nuevo para salir de la prueba "
+"del teclado."
 
-# af2d864ea60d42808f64cf0ceddde8bc
+# c28e299be0ea4f69b2cb4c377dcbb6dd
 #: ../source/repair.rst:45
 msgid "At the ok prompt, type reboot to restart."
-msgstr ""
+msgstr "En el indicador ok, escriba reboot para reiniciar."
 
-# 5c85d7d85e704bde8340f24df1e57ce5
+# df651bd849f5471586edc59830952ca3
 #: ../source/repair.rst:48
 msgid "Repairing damage to the keyboard"
-msgstr ""
+msgstr "Reparación de daños en el teclado"
 
-# e6b97a0e4f684d36b278a555e54ffa00
+# d0094e8021ce4158a761a0ca6f848679
 #: ../source/repair.rst:50
 msgid ""
 "If your keyboard becomes damaged, normally it has to be replaced. "
 "Replacements are available through the repair centers. Information on spare "
-"parts and repair centers can be found at http://wiki.laptop.org/go/"
-"Repair_center_locations."
+"parts and repair centers can be found at "
+"http://wiki.laptop.org/go/Repair_center_locations."
 msgstr ""
+"Si el teclado está dañado, normalmente tiene que ser reemplazado. Los "
+"repuestos se encuentran disponibles a través de los centros de reparación. "
+"Información sobre piezas de repuesto y centros de reparación se puede "
+"encontrar en http: // wiki. portátil. org / go / Repair_center_locations."
 
-# a275c3ddb99944e89c112819bf8e52bf
+# 41dabc4ce8014838af08abd45dcf9172
 #: ../source/repair.rst:53
 msgid "Troubleshooting the internal XO hardware"
-msgstr ""
+msgstr "Solución de problemas del hardware XO interna"
 
-# 734ad632621f40b7916bbada72297fed
+# 174387ada1924c119103151be5e79078
 #: ../source/repair.rst:55
-msgid "The XO can give you information about possible repairs that are needed."
+msgid ""
+"The XO can give you information about possible repairs that are needed."
 msgstr ""
+"La XO le puede dar información acerca de las posibles reparaciones que sean "
+"necesarias."
 
-# b72da34bbd984069a3b6b3989b68c602
+# 0b6f3c3773134ad49014db68f4d7882e
 #: ../source/repair.rst:57
 msgid ""
 "Start by pressing the power button for a second, and then answer the "
 "following questions. Does the Power LED half-circle light up?"
 msgstr ""
+"Comience presionando el botón de encendido durante un segundo, y luego "
+"responder a las siguientes preguntas. ¿El LED de alimentación semicírculo "
+"encienden?"
 
-# cf4fcb8dc841448db8a3a37e5c60fbae
+# 12fc9aabc356480496c785b6013b8f26
 #: ../source/repair.rst:59
 msgid ""
 "When the power button is pressed once, and the power LED doesn't turn on, "
 "first try resetting it."
 msgstr ""
+"Cuando se pulsa el botón de encendido una vez, y el LED de encendido no se "
+"enciende, primer intento de restablecerlo."
 
-# a90ed491fa9b4f2a9d1064278218e3ad
+# 39c717913b5b4b50b366712051385536
 #: ../source/repair.rst:61
 msgid "To reset the XO, remove all power sources from the laptop:"
 msgstr ""
+"Para restablecer la XO, retire todas las fuentes de alimentación del "
+"ordenador portátil:"
 
-# 79767a6ecbf044759333c90d152a4763
+# 44e2b3c638ee4357b87e6041bf8e5082
 #: ../source/repair.rst:63
 msgid "Take the battery out and remove the power adapter."
-msgstr ""
+msgstr "Saque la batería y retire el adaptador de corriente."
 
-# 44be7c20f2f14802a577d80a3d373dfd
+# 275c37ed89b8414983aecb0a93101a56
 #: ../source/repair.rst:64
 msgid ""
 "Wait two minutes. This allows embedded hardware to lose all power and reset "
 "itself."
 msgstr ""
+"Espere dos minutos. Este hardware permite incrustado a perder todo el poder "
+"y restablecer en sí."
 
-# fb83dda8e6844ad3954dd3cea0c21268
+# 4a7a440e4b7a4b55a040210ac52a26f6
 #: ../source/repair.rst:65
 msgid ""
 "Replace at least one source of power, either the battery or power adapter, "
 "and watch the power/battery LED while you do so."
 msgstr ""
+"Reemplazar al menos una fuente de alimentación, el adaptador de batería o "
+"alimentación, y ver el LED de alimentación / batería mientras lo hace."
 
-# b13fbf641b7b4cd589870a7fd1a7144e
+# 9cd053df63e0410cb081cedc7e41ec85
 #: ../source/repair.rst:67
 msgid ""
 "The battery LED should flash orange momentarily (about a quarter of a "
@@ -236,8 +296,13 @@ msgid ""
 "either have a motherboard hardware problem or faulty EC firmware installed. "
 "Contact a repair center for assistance."
 msgstr ""
+"El LED de batería debe parpadear momentáneamente naranja (alrededor de un "
+"cuarto de segundo) cuando la energía se vuelve a aplicar primero. Si usted "
+"no ve este flash, o bien tienen un problema de hardware de la placa base o "
+"defectuoso firmware instalado CE. Póngase en contacto con un centro de "
+"reparación de asistencia."
 
-# 54152fe9f53f4287b05767696770d6e5
+# 3dc051940bc24d37b0384f7b048d21b3
 #: ../source/repair.rst:69
 msgid ""
 "If the power LED doesn't turn on or flash, but the laptop proceeds to "
@@ -245,8 +310,12 @@ msgid ""
 "themselves or the power LED driver. The LEDs are in series, so if one fails "
 "they may both fail to light."
 msgstr ""
+"Si el LED de alimentación no se enciende ni parpadea, pero el producto de "
+"portátiles para iluminar la luz de fondo e incluso empezar, el problema "
+"puede ser los propios o el conductor de la energía LED LED. Los LEDs están "
+"en serie, por lo que si uno falla pueden fallar tanto a la luz."
 
-# 002a1da99a6340de8ae690497b7ce57b
+# eb610d145601455dab583edf441e57b7
 #: ../source/repair.rst:71
 msgid ""
 "On rare occasions, the power button becomes stuck mechanically. In this "
@@ -254,8 +323,12 @@ msgid ""
 "does not turn on. Ensure that the power button is moving freely by pressing "
 "it a few times."
 msgstr ""
+"En raras ocasiones, el botón de encendido se queda atrapado mecánicamente. "
+"En este caso, el ordenador portátil no detecta la depresión del botón de "
+"encendido, y no se enciende. Asegúrese de que el botón de encendido se mueve"
+" libremente pulsando un par de veces."
 
-# 2e4824d813814bd9947c35d79e1e330f
+# 9802547b0b76494c847e86bf22fe9d25
 #: ../source/repair.rst:73
 msgid ""
 "If the battery LED flashed on restoration of power and the power button "
@@ -263,8 +336,12 @@ msgid ""
 "determine the reason for failure. Contact a repair center for assistance. "
 "Does the display light up?"
 msgstr ""
+"Si el LED de la batería se encendió la restauración del poder y el botón de "
+"encendido no se ha quedado atascado, y no se detectan otros signos de vida, "
+"entonces no se puede determinar el motivo del error. Póngase en contacto con"
+" un centro de reparación de asistencia. ¿Visualiza la luz para arriba?"
 
-# 1f362c7b7b4541e0b9cfb4ae113b04e7
+# dd898e676bea4437afea674905262099
 #: ../source/repair.rst:75
 msgid ""
 "After starting the XO and viewing the power LED, the next visible feedback "
@@ -273,52 +350,80 @@ msgid ""
 "for the screen should be turned on, even if the backlight was previously "
 "turned off."
 msgstr ""
+"Después de iniciar el XO y ver el LED de alimentación, el siguiente "
+"retroalimentación visible desde la XO es que se ilumine la pantalla. La "
+"pantalla LCD debe ser inicializado con el blanco y luego comienzan a mostrar"
+" texto o gráficos. La retroiluminación de la pantalla debe estar encendido, "
+"incluso si la luz de fondo se convirtió previamente off."
 
-# a84c85341c544e2ebcfe2b5ba2ed24dd
+# 2289ed642ec04826a068fe10548e782f
 #: ../source/repair.rst:77
 msgid ""
 "If this does not happen then the boot sequence may not be operating "
-"correctly. Next, look at the Microphone activity LED to see if it is lit. If "
-"the power LED and the microphone LED are both lit then a serious boot error "
-"has occurred and you should contact a repair center for assistance. Can you "
-"hear the startup sound when the XO starts?"
+"correctly. Next, look at the Microphone activity LED to see if it is lit. If"
+" the power LED and the microphone LED are both lit then a serious boot error"
+" has occurred and you should contact a repair center for assistance. Can you"
+" hear the startup sound when the XO starts?"
 msgstr ""
+"Si esto no sucede, entonces la secuencia de arranque no esté funcionando "
+"correctamente. A continuación, consulte la actividad Micrófono LED para ver "
+"si se enciende. Si el LED de encendido y el LED del micrófono están ambos "
+"encendidos entonces se ha producido un error en el arranque seria y usted "
+"debe ponerse en contacto con un centro de reparación de asistencia. ¿Puedes "
+"oír el sonido de inicio cuando el XO comienza?"
 
-# 2cb48c47d4cf43709568761169ab23d8
+# 5f0ea9ebe5ef434d8e3fe1ca43ceac9f
 #: ../source/repair.rst:79
 msgid ""
 "If the startup sound does not play, this usually indicates a problem that a "
 "repair center needs to fix. Yes, the startup sound plays"
 msgstr ""
+"Si el sonido de inicio no se reproduce, esto suele indicar un problema que "
+"un centro de reparación necesita arreglar. Sí, el inicio de obras de teatro "
+"sonido"
 
-# c1f655b98d534141be81c913419a4d07
+# c020a855517547a390465b45e10e3e25
 #: ../source/repair.rst:81
 msgid ""
 "If the display doesn't initialize, but the boot sound plays, then this is "
 "probably a problem with the display. No, the XO boots normally, but no boot "
 "sound plays"
 msgstr ""
+"Si la pantalla no inicia, pero el sonido de arranque juega, entonces este es"
+" probablemente un problema con la pantalla. No, las botas XO normalmente, "
+"pero no reproduce el sonido de arranque"
 
-# d96325bd62dc402291702ac229d5e3e9
+# 798b707e942f4d288421f1b35976b278
 #: ../source/repair.rst:83
 msgid ""
-"If no boot sound is played, but the machine boots normally and has audio, it "
-"is possible that the default boot volume to has been changed to 0. While the "
-"boot sound is playing, you can adjust the volume using the volume adjust "
-"keys. This modified volume setting is saved and used for future boots. Try "
+"If no boot sound is played, but the machine boots normally and has audio, it"
+" is possible that the default boot volume to has been changed to 0. While "
+"the boot sound is playing, you can adjust the volume using the volume adjust"
+" keys. This modified volume setting is saved and used for future boots. Try "
 "increasing the volume right after starting the laptop a few times, and see "
 "if the boot sound returns."
 msgstr ""
+"Si no se reproduce ningún sonido de arranque, pero la máquina arranca "
+"normalmente y tiene audio, es posible que el volumen de arranque por defecto"
+" a se ha cambiado a 0. Mientras que el sonido de arranque está jugando, "
+"puede ajustar el volumen mediante el ajuste de volumen teclas. Este ajuste "
+"de volumen modificado se guardará y utilizará para las botas de futuros. "
+"Intente aumentar el volumen justo después de arrancar el ordenador portátil "
+"un par de veces, y ver si el sonido de arranque devoluciones."
 
-# 5ed7fe3230aa46d08100a1942522fe96
+# b4a988f6619a4f85995c12b0d07c065f
 #: ../source/repair.rst:85
 msgid ""
 "If no boot sound is played, and the machine boots normally but has no audio "
 "see http://wiki.laptop.org/go/XO_Troubleshooting_AV. Does the display "
 "remains blank after starting up?"
 msgstr ""
+"Si no se reproduce ningún sonido de arranque, y la máquina arranca "
+"normalmente, pero no tiene audio ver http: // wiki. portátil. org / go / "
+"XO_Troubleshooting_AV. ¿La pantalla permanece en blanco después de la puesta"
+" en marcha?"
 
-# 85814a9a528d41c5a6849efb05a77edf
+# 3c06feb6d92e422cbced660da61339d8
 #: ../source/repair.rst:87
 msgid ""
 "Sometimes the display is active (including backlight), but no text or "
@@ -330,66 +435,109 @@ msgid ""
 "The XO should proceed with a firmware update and boot normally. Is the "
 "display is showing an XO icon only?"
 msgstr ""
+"A veces la pantalla se activa (incluida la retroiluminación), pero no hay "
+"texto o los gráficos aparecen. Este problema puede ser causado por la "
+"eliminación de la alimentación a una XO mientras se está actualizando el "
+"firmware. Usted debe contactar a un centro de reparación de asistencia. ¿La "
+"pantalla dice \"Conectar facultad de proceder\"? . Si este es el problema, "
+"proporcionar ambas fuentes de poder y reinicio. La XO debe proceder con una "
+"actualización de firmware y arranque normalmente. ¿Está la pantalla muestra "
+"un icono XO solo?"
 
-# 3e53f6c8954c4ca599aad4136139c888
+# b65799eda37b4f1492389c4599f97740
 #: ../source/repair.rst:89
 msgid "This means that the XO has started the startup process."
-msgstr ""
+msgstr "Esto significa que la XO ha comenzado el proceso de inicio."
 
-# 5490c2e5b2f34359baab343689227aac
+# 7747551758b1468fba30722f04ca324e
 #: ../source/repair.rst:91
 msgid ""
 "You can see much more information about your Open Firmware by holding the "
 "\"check mark\" game button (above the power button) after powering on. That "
 "makes Open Firmware display more detailed messages about what it is doing "
-"during the secure boot process (including early boot messages from the Linux "
-"kernel). The messages are in English only. Is it showing an XO icon with a "
+"during the secure boot process (including early boot messages from the Linux"
+" kernel). The messages are in English only. Is it showing an XO icon with a "
 "serial number and three icons below it?"
 msgstr ""
+"Se puede ver mucha más información acerca de su Open Firmware manteniendo "
+"pulsado el botón del juego \"marca de verificación\" (por encima del botón "
+"de encendido) después de encender. Eso hace que el Open Firmware mostrar "
+"mensajes más detallados acerca de lo que está haciendo durante el proceso de"
+" arranque seguro (incluyendo mensajes de arranque iniciales del núcleo de "
+"Linux). Los mensajes están en Inglés solamente. ¿Se muestra un icono XO con "
+"un número de serie y tres iconos debajo de ella?"
 
-# 7991a1523c8a426d86db16691845447f
+# c41d6285ec67488db6b68d3ab71edb5a
 #: ../source/repair.rst:93
 msgid ""
-"If the laptop powers up, but stops when displaying the XO icon in the middle "
-"of the screen, followed by a serial number (e.g. CSN74902B22) and three "
+"If the laptop powers up, but stops when displaying the XO icon in the middle"
+" of the screen, followed by a serial number (e.g. CSN74902B22) and three "
 "icons (SD disk, USB disk, Network signal strength), it is looking for its "
-"activation lease. This should eventually print \"Activation lease not found"
-"\" at the top of the screen and power-off soon thereafter."
+"activation lease. This should eventually print \"Activation lease not "
+"found\" at the top of the screen and power-off soon thereafter."
 msgstr ""
+"Si los poderes de la portátil, pero se detiene cuando se muestra el icono de"
+" XO en el centro de la pantalla, seguido por un número de serie (e. g. "
+"CSN74902B22) y tres iconos (disco SD, disco USB, intensidad de la señal de "
+"red), que está en busca de su contrato de arrendamiento de activación. Esto "
+"a la larga debe imprimir \"arrendamiento de activación no encontrado\" en la"
+" parte superior de la pantalla y el apagado poco después."
 
-# 1283ca7b08374f47a729926b76661f16
+# 3f5fca6969df4405977721d5fce29051
 #: ../source/repair.rst:95
 msgid ""
 "The solution is to re-activate the laptop. Obtain a copy of the lease (or a "
-"new lease) from your country activation manager, place it (named \"lease.sig"
-"\") in the top-level directory of a USB key and boot the laptop. See the "
-"\"what to do with activation keys\" section within: http://wiki.laptop.org/"
-"go/Activation_and_Developer_Keys. Is it showing an XO icon with a \"sad face"
-"\" above it?"
+"new lease) from your country activation manager, place it (named "
+"\"lease.sig\") in the top-level directory of a USB key and boot the laptop. "
+"See the \"what to do with activation keys\" section within: "
+"http://wiki.laptop.org/go/Activation_and_Developer_Keys. Is it showing an XO"
+" icon with a \"sad face\" above it?"
 msgstr ""
+"La solución es volver a activar el ordenador portátil. Obtenga una copia del"
+" contrato de arrendamiento (o un nuevo contrato de arrendamiento) de su "
+"gerente activación país, colóquelo (llamado \"contrato de arrendamiento. sig"
+" \") en el directorio de nivel superior de una llave USB y arrancar el "
+"ordenador portátil. Vea la sección \"¿qué hacer con las llaves de "
+"activación\" en: http: // wiki. portátil. org / go / "
+"Activation_and_Developer_Keys. ¿Se muestra un icono XO con una \"cara "
+"triste\" por encima de ella?"
 
-# aaf7c440da0b4c84b55855baf4efa943
+# 25c6bbfe57a8458c927d3c7e467a3059
 #: ../source/repair.rst:97
 msgid ""
-"This means that Open Firmware couldn't find a signed operating system on the "
-"internal flash memory. Firmware bootup also looks on USB memory sticks and "
+"This means that Open Firmware couldn't find a signed operating system on the"
+" internal flash memory. Firmware bootup also looks on USB memory sticks and "
 "SD cards for signed operating system software."
 msgstr ""
+"Esto significa que Open Firmware no pudo encontrar un sistema operativo "
+"firmado en la memoria flash interna. El arranque de firmware también se ve "
+"en memorias USB y tarjetas SD para software de sistema operativo firmado."
 
-# 8ff44a0e2b654f55a086ef9f483742d5
+# 71f6eb9361384a26a6e96b3c3ce4cc05
 #: ../source/repair.rst:99
 msgid ""
-"Try upgrading or re-installing the software: http://wiki.laptop.org/go/"
-"Secure_Upgrade. XO icon with a single dot below it?"
+"Try upgrading or re-installing the software: "
+"http://wiki.laptop.org/go/Secure_Upgrade. XO icon with a single dot below "
+"it?"
 msgstr ""
+"Intente actualizar o volver a instalar el software: http: // wiki. portátil."
+" org / go / Secure_Upgrade. Icono de XO con un solo punto por debajo de "
+"ella?"
 
-# 032bb1a77e4840ec8ba400b393f838dc
+# d12e0ff1826e4700aed286e49ad937b9
 #: ../source/repair.rst:101
 msgid ""
 "If the XO powers up, but stops when just displaying the XO icon in the "
 "middle, with a single dot below it, it means that something was wrong when "
 "the Linux operating system started. When this happens, try upgrading or "
-"reinstalling the XO. If this has happened to the same XO more than one time, "
-"consider a repair center for full diagnosis and repair at http://wiki.laptop."
-"org/go/Repair_center_locations."
+"reinstalling the XO. If this has happened to the same XO more than one time,"
+" consider a repair center for full diagnosis and repair at "
+"http://wiki.laptop.org/go/Repair_center_locations."
 msgstr ""
+"Si los poderes de la XO, pero se detiene cuando acaba de mostrar el icono de"
+" XO en el medio, con un solo punto por debajo de ella, significa que algo "
+"andaba mal cuando el sistema operativo Linux empezó. Cuando esto sucede, "
+"trate de actualizar o reinstalar el XO. Si esto ha ocurrido a la misma XO "
+"más de una vez, considere un centro de reparación para el diagnóstico y la "
+"reparación completa en http: // wiki. portátil. org / go / "
+"Repair_center_locations."

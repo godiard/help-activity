@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,65 +17,79 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 29437cb560b64ee4af0a7cbae06d8ad2
-# 8807fe37a8fd46bc891095175de75e9a
+# b5716131e82049ebb7a3483aba013017
+# d448d523eb2c44839d491336dac63aa2
 #: ../source/opening_the_xo.rst:3 ../source/opening_the_xo.rst:6
 msgid "Opening the XO"
-msgstr ""
+msgstr "La apertura de la XO"
 
-# 28b6352dbb7f4c0286f6abc0bd6ccc3f
+# a844a7cb9b7d44bcbeb635bb26aaf2f4
 #: ../source/opening_the_xo.rst:8
 msgid "You can open, flip, and close the XO to position it in different ways."
 msgstr ""
+"Usted puede abrir, dar la vuelta y cerrar la XO para colocarlo de diferentes"
+" maneras."
 
-# d9bfcbcbb2b947e2adfa25aa6bd697b9
+# f0e40fe522c041eb80e93af890b29429
 #: ../source/opening_the_xo.rst:10
 msgid "To open the XO"
-msgstr ""
+msgstr "Para abrir la XO"
 
-# fb42746470254ed0b5ce58727d5b983b
+# 7219593daca446aaa22408acd5d79069
 #: ../source/opening_the_xo.rst:12
 msgid ""
 "Position the laptop with the handle away from you, and then rotate both of "
 "the antennae towards you."
 msgstr ""
+"Coloque el ordenador portátil con el mango de distancia de usted, y luego "
+"girar tanto de las antenas hacia usted."
 
-# 4810dc2025234f649b2ed8be4507ce98
+# 7013a8f196c64bbf8d9b06fe6baf4be1
 #: ../source/opening_the_xo.rst:16
 msgid ""
 "Lift the front edge of the top of laptop, and then move the top upward away "
 "from you. You can hear and feel a slight click as you first lift the top."
 msgstr ""
+"Levante la parte delantera de la parte superior de la computadora portátil, "
+"y luego mover la parte superior hacia arriba lejos de ti. Puedes escuchar y "
+"sentir un ligero chasquido cuando usted levanta primero la parte superior."
 
-# 6b6c688ea7674503ac7f78ddad8d6e02
+# c51e278fedb742f496f18a234f3d74a9
 #: ../source/opening_the_xo.rst:21
 msgid "To flip the XO"
-msgstr ""
+msgstr "Para voltear la XO"
 
-# 9e7e9f552bfb4e93983aec6d1328f010
+# ee8f2e12c20b41aba2aa3d3236d48a84
 #: ../source/opening_the_xo.rst:23
 msgid ""
 "You can switch the XO so that the screen lies flat and covers the keyboard. "
 "This lets you handle the gamepad buttons more easily or read electronic "
 "books (ebooks), using the arrow buttons to page forward and backward."
 msgstr ""
+"Puede cambiar la XO para que la pantalla quede plano y cubre el teclado. "
+"Esto le permite manejar los botones del gamepad más fácilmente o leer libros"
+" electrónicos (ebooks), utilizando los botones de flecha a la página hacia "
+"adelante y hacia atrás."
 
-# 06f0aea70df6438485cf4270d9e21e40
+# f45018e0d20642d789247d82b6abdb50
 #: ../source/opening_the_xo.rst:27
-msgid "Bring the display up to a 90-degree angle and rotate the antennae down."
+msgid ""
+"Bring the display up to a 90-degree angle and rotate the antennae down."
 msgstr ""
+"Traiga la pantalla hasta un ángulo de 90 grados y girar la antena hacia "
+"abajo."
 
-# 20f8caac3dc74c4c99c599741a914253
+# 89de42c9d91b4147a306f42980386d53
 #: ../source/opening_the_xo.rst:28
 msgid "Rotate the display 180 degrees until it is facing backwards."
-msgstr ""
+msgstr "Gire la pantalla 180 grados hasta que se enfrenta al revés."
 
-# 5a56f3f364e24b86b1e59b913b82ca31
+# 7c9a4f0149f741568301553b186f449c
 #: ../source/opening_the_xo.rst:29
 msgid "Fold the display down onto the keyboard."
-msgstr ""
+msgstr "Doble la pantalla sobre el teclado."
 
-# 4c82815e183e46cf9bab052246fda0a1
+# 2f9fa19bfff24313869e15f10a60ad69
 #: ../source/opening_the_xo.rst:30
 msgid "Press the rotate key to orient the display."
-msgstr ""
+msgstr "Pulse la tecla de rotación para orientar la pantalla."

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,32 +17,37 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# df0aa9a3d8414b1297c00ba9a7545ec4
+# 0391c9a8c2414163a27fb465fbdbf259
 #: ../source/exiting_activities.rst:3
 msgid "Exiting Activities"
-msgstr ""
+msgstr "Actividades Salir"
 
-# b89af12ba22b4955ba36dfe69bad3cde
+# 1053bdd950fa4fb39ebe573d6cf724b1
 #: ../source/exiting_activities.rst:5
 msgid ""
 "To Exit an Activity, use the touchpad or a mouse to move the cursor to the "
 "close box on the right corner of the Frame and click. Try to have no more "
 "than three Activities open at once."
 msgstr ""
+"Para salir de una actividad, utilice el touchpad o el ratón para mover el "
+"cursor a la casilla de cierre en la esquina derecha del marco y haga clic "
+"en. Trate de tener no más de tres actividades abiertas a la vez."
 
-# 2b95b96ee580422aac6f632dba2742b6
+# 929162b71702477cb976e9e357688bc2
 #: ../source/exiting_activities.rst:9
 msgid ""
 "To quit an Activity using a keyboard shortcut, press and hold the **ctrl** "
 "key, and then press the **q** key."
 msgstr ""
+"Para salir de una actividad mediante una combinación de teclas, mantenga "
+"pulsada la tecla Ctrl ** ** clave, y luego presione el ** q ** clave."
 
-# 75de69d0040b4da5af195b741e2f0b44
+# b70a7a553d1140f59ddebe0b57930abf
 #: ../source/exiting_activities.rst:12
 msgid "Scratch"
-msgstr ""
+msgstr "Rasguño"
 
-# 453ad426d25f4276b4ad443d2b9eb6d6
+# f8c174e402884f09b036f6de9fedffa7
 #: ../source/exiting_activities.rst:14
 msgid ""
 "There are some \"Activities\", such as Scratch, that are closed from the "
@@ -51,20 +56,28 @@ msgid ""
 "\"save as\" command or may also be done by clicking the folder icon with a "
 "downpointing arrow."
 msgstr ""
+"Hay algunos \"Actividades\", tales como el principio, que se cerró en el "
+"menú \"Archivo\", seleccione \"Salir\" o \"Salir\". Estas actividades pueden"
+" requerir un paso separado para guardar su trabajo haciendo clic en el "
+"\"guardar\" o \"guardar como\" comandos o también se puede hacer haciendo "
+"clic en el icono de la carpeta con una flecha downpointing."
 
-# 55a7134539164282a167752bf91e873b
+# e7c1fe8ce4474b7597123162e04d989e
 #: ../source/exiting_activities.rst:16
 msgid ""
 "In Scratch, for example, you must go to \"File\" then \"Save As\" then give "
 "your project a name next to \"New Filename\" then click \"OK\"."
 msgstr ""
+"En Scratch, por ejemplo, tiene que ir a \"Archivo\" y luego \"Guardar como\""
+" y luego darle a su proyecto un nombre al lado de \"Nuevo nombre de "
+"archivo\" y haga clic en \"Aceptar\"."
 
-# 1a9854862bd0490d917e82da8b1235f1
+# 846701ffd532498696907aab47eebf10
 #: ../source/exiting_activities.rst:21
 msgid "Etoys"
-msgstr ""
+msgstr "Etoys"
 
-# 336dfe6b815340f6b093f71b6f096517
+# 25e51166b50d44df99f4174b3ef4cb25
 #: ../source/exiting_activities.rst:23
 msgid ""
 "The Etoys Activity closes by clicking a button that has an ✕ within a white "

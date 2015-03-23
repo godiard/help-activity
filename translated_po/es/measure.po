@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 7cf91e410e2640999c2f232b64943513
+# 865532f525624b3eb06f0e8720a596a6
 #: ../source/measure.rst:3
 msgid "Measure"
-msgstr ""
+msgstr "Medida"
 
-# a78f4123779344ba940d5bc75e06ce95
+# 916b1673640244e1be25e2c331c552ee
 #: ../source/measure.rst:6
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
-# e85a4222ca7f495cad1989fe53d1274a
+# cad0910cb91d4c56a595c64be93f10ae
 #: ../source/measure.rst:8
 msgid ""
 "This Activity draws a picture of the sound heard by the internal microphone "
@@ -36,228 +36,269 @@ msgid ""
 "and time is on the horizontal axis. That is, the laptop functions like a "
 "machine called an oscilloscope."
 msgstr ""
+"Esta actividad hace un dibujo del sonido escuchado por el micrófono interno "
+"o de la señal presente en la entrada de micrófono. Más específicamente, se "
+"dibuja un gráfico de esta entrada en función del tiempo, la entrada está en "
+"el eje vertical y el tiempo está en el eje horizontal. Es decir, las "
+"funciones de ordenador portátil como una máquina llamada un osciloscopio."
 
-# b0450a81cd22434cac8e73f31726377a
+# 3ae347327c4046e1acca5af2b2cc8747
 #: ../source/measure.rst:10
 msgid ""
 "As well as graphing signal as a function of time, Measure can also graph as "
 "a function of frequency."
 msgstr ""
+"Así como la representación gráfica de la señal como una función del tiempo, "
+"medida puede gráfico como una función de la frecuencia."
 
-# 51ab8573670f475db1f124d9b755df7c
+# e52d7871a7004c99906a92d185812c8e
 #: ../source/measure.rst:12
 msgid ""
 "The XO-1 laptop is only capable of mono input, the XO-1.5 and XO-1.75 are "
-"capable of stereo input on their microphone socket and can graph two signals "
-"at once."
+"capable of stereo input on their microphone socket and can graph two signals"
+" at once."
 msgstr ""
+"El XO-1 portátil sólo es capaz de entrada mono, el XO-1. 5 y XO-1. 75 son "
+"capaces de entrada estéreo de su toma de micrófono y puede graficar dos "
+"señales a la vez."
 
-# 5108ee6e49da43e9ab2f61d050e51772
+# b01aec2ac9fd4d3c9d2169fe3ba60d81
 #: ../source/measure.rst:17
 msgid "Using"
-msgstr ""
+msgstr "Uso"
 
-# ba6f0e7bcc4340ec8f3026e0b6c93069
+# 32a843946a844bcaadf572667cf2ded9
 #: ../source/measure.rst:21
 msgid ""
 "Select secondary toolbar - allows the Activity's Journal entry to be renamed"
 msgstr ""
+"Seleccione la barra de herramientas secundaria - permite la entrada Diario "
+"de la actividad que se desea renombrar"
 
-# 63bfff9088c34afca9072f25e4d86202
+# 3860d8017b51420397b8a7e62f59c67e
 #: ../source/measure.rst:22
 msgid "Select secondary toolbar - measurement settings"
-msgstr ""
+msgstr "Seleccione la barra de herramientas secundaria - ajustes de medición"
 
-# e7eedb2311b14cbeb32d7c9495da974b
+# 12468df1bad740c2bb00e29fbd6364b7
 #: ../source/measure.rst:23
 msgid "The selected input type - Sound (AC voltage), resistance or DC voltage"
 msgstr ""
+"El tipo seleccionado de entrada - Sonido (tensión alterna), resistencia o "
+"tensión continua"
 
-# e6fd976b023c4c6ab332b74b8a7f0c80
+# d7ac7b5883634aed80eb6256769db8a9
 #: ../source/measure.rst:24
 msgid "The time scale"
-msgstr ""
+msgstr "La escala de tiempo"
 
-# 901a5267461240098088552ca37f5388
+# cf4a0bac0884434fae098c14ddb4fe44
 #: ../source/measure.rst:25
 msgid "Freeze the display"
-msgstr ""
+msgstr "Congelar la pantalla"
 
-# bb888ad7b6de4b299d0aafa9d9b69582
+# bf726c0131c04597ba6f481ce46e1b60
 #: ../source/measure.rst:26
 msgid "Capture sample now - saves an image of the wave in the Journal"
-msgstr ""
+msgstr "Muestra Capture ahora - guarda una imagen de la onda en el Diario"
 
-# 802f0a43e592490397fda7a4e0b3e83a
+# e1afea1a82af49d8bb783c20e6ec638b
 #: ../source/measure.rst:27
 msgid "Stop - exits the Activity"
-msgstr ""
+msgstr "Stop - sale de la Actividad"
 
-# ce01712393cc4b35b4503ea5956c8160
+# 62490a7787c04a8e9c3bbc85ab823441
 #: ../source/measure.rst:28
 msgid "Invert - invert the display"
-msgstr ""
+msgstr "Invertir - invertir la pantalla"
 
-# 358fa8511169428ba638d97b66fb4e9a
+# 86e032304fb542628967a845d2ab5c2b
 #: ../source/measure.rst:29
 msgid "Use these sliders to control the sensitivity"
-msgstr ""
+msgstr "Utilice estos controles deslizantes para controlar la sensibilidad"
 
-# d9906a6792844fb6ad7b2f1c17e8f061
+# 9c4a0ee50e7d4036ae21f6ee15ec6407
 #: ../source/measure.rst:30
 msgid "The settings that are selected"
-msgstr ""
+msgstr "Los ajustes que se seleccionan"
 
-# b8a9240643104eeea5425ec3c8714fbb
+# 7b19b8897f0f4f88aa67d0d307d7d538
 #: ../source/measure.rst:34
 msgid "The secondary toolbar - measurement settings"
-msgstr ""
+msgstr "La barra de herramientas secundaria - ajustes de medición"
 
-# 7d50543cd2344a269498c138fb87dd50
+# 79db95d7f5814ddb999891bdd50a8996
 #: ../source/measure.rst:36
 msgid ""
 "Sound - use this setting with the internal microphone, external microphone "
 "and external AC signals"
 msgstr ""
+"Sonido - utilizar este ajuste con el micrófono interno, micrófono externo y "
+"señales de CA externos"
 
-# 7bae0a3a7d0f440cbfb1a66e1766ff5c
+# e44b0f0d5dd443f584fa374ef2f6adcb
 #: ../source/measure.rst:38
 msgid "Resistance sensor - use with external resistive type transducers"
 msgstr ""
+"Sensor de Resistencia - utilizar con transductores de tipo resistivo externo"
 
-# 6dc3025b80d34f70a48c1aa82f130279
+# 9be7058b35204864995c7c1859a280ba
 #: ../source/measure.rst:40
 msgid "Voltage sensor - use with external sensors which generate a voltage"
 msgstr ""
+"Sensor de Voltaje - utilizar con sensores externos que generan una tensión"
 
-# 0eccf318ecdd4986a508a6741a6faae2
+# ce5d48254a334710a6538987375cc2c8
 #: ../source/measure.rst:42
 msgid ""
 "Time base/frequency - graphs the signal vs. time or graphs amplitude vs. "
 "frequency"
 msgstr ""
+"Base de tiempo / frecuencia - representa gráficamente la señal vs. tiempo o "
+"gráficos de la amplitud vs. frecuencia"
 
-# eb9f25f3df854edba1e4d6eb958e1613
+# 1c7540c634c04172b17b9d471cae4f2d
 #: ../source/measure.rst:44
 msgid ""
 "Sample interval - a text file 'Measure Log' is saved to the journal, it "
 "contains one sample per interval"
 msgstr ""
+"Intervalo de muestra - un archivo de texto \"Log Mida 'se guarda en la "
+"revista, contiene una muestra por cada intervalo"
 
-# 1ee405aa2e284a31a08a832c5e6bf4e3
+# 6c604efa87ed41f59c467efc63338c69
 #: ../source/measure.rst:46
 msgid ""
 "Starts/stops saving a text file 'Measure Log' with measured values as "
 "readable text"
 msgstr ""
+"Inicia / deja de guardar un archivo de texto \"Log Mida 'con los valores "
+"medidos en forma de texto legible"
 
-# 16536e4a48b641c0b095f552bfc9f064
+# a508406a136e4a7999b0ae267e1a1763
 #: ../source/measure.rst:48
 msgid ""
 "This feature is not working well in version 36, the intention is to "
 "synchronize the sample period to the waveform so that the sample will start "
 "on a rising edge or falling edge"
 msgstr ""
+"Esta función no está funcionando bien en la versión 36, la intención es "
+"sincronizar el período de la muestra a la forma de onda para que la muestra "
+"se iniciará en el flanco ascendente o flanco descendente"
 
-# 111901d8b7f44ccc85465e0e5607b540
+# 3e934b0259db45dc824ccc18ddcf4898
 #: ../source/measure.rst:51
 msgid "Applying"
-msgstr ""
+msgstr "Aplicando"
 
-# 2148f561150343e9b6fa4e30a42f4c8d
+# a4178134234b4ddb896223b3fe76b053
 #: ../source/measure.rst:53
 msgid ""
 "Let the children experiment with the internal microphone, try singing, "
 "whistling, musical instruments, the Tam Tam musical Activity. The Turtle "
 "Blocks Activity can generate an audio tone, see the Python Block."
 msgstr ""
+"Dejad que los niños experimenten con el micrófono interno, intente cantar, "
+"silbar, instrumentos musicales, el Tam Tam Actividad musical. La Actividad "
+"Bloques tortuga puede generar un tono de audio, consulte el Python Bloquear."
 
-# 0847a91ec07943ddb3268e1a8c2b1d35
+# fdbdb180edd44c1498673d05900bd756
 #: ../source/measure.rst:55
 msgid "The children should learn through guided discovery that:"
-msgstr ""
+msgstr "Los niños deben aprender por descubrimiento guiado que:"
 
-# 1b0a867cf2bb4e509aa70384fbf6bdd4
+# 689e49f882894c65b3dc4ec2bababe30
 #: ../source/measure.rst:57
 msgid "sound is a pressure wave"
-msgstr ""
+msgstr "sonido es una onda de presión"
 
-# f7cf91007ef94ded8a81d81f1da053e1
+# 4bad1caac5fe4ac0be286cfb4a2364e9
 #: ../source/measure.rst:58
 msgid ""
 "the pitch of the sound is determined by the frequency or cycles per second "
 "(Hz)"
 msgstr ""
+"el tono del sonido se determina por la frecuencia o ciclos por segundo (Hz)"
 
-# 2db91e78f3a04c93bc41610f61fd3c87
+# b04cefbd77b3479d91dabb26567cf005
 #: ../source/measure.rst:59
 msgid "the loudness of a sound is determined by the amplitude"
-msgstr ""
+msgstr "la intensidad de un sonido está determinada por la amplitud"
 
-# 8acd00e199734571b8cea3f43158881b
+# 938445780a8449dca5e6586bb74bd97d
 #: ../source/measure.rst:60
 msgid "sounds contain multiple frequency components or harmonics"
-msgstr ""
+msgstr "sonidos contienen múltiples componentes de frecuencia o armónicos"
 
-# ae2e384eb8b240c99f14c1eec83b6006
+# 7afc56719cb2415080393ea32e38ef22
 #: ../source/measure.rst:61
 msgid "the more pure sounds have less harmonics"
-msgstr ""
+msgstr "los sonidos más puros tienen menos de armónicos"
 
-# 68e727747a894b75b0171cdb4adb2cf1
+# a7f196468bd047db9b5874608530776e
 #: ../source/measure.rst:64
 msgid "Sharing"
-msgstr ""
+msgstr "Compartiendo"
 
-# db9c12cf2a58438dbf03230a12f8a0e3
+# 8dcd10d5f45e47998359d950a86f3be7
 #: ../source/measure.rst:66
 msgid "This Activity does not support sharing."
-msgstr ""
+msgstr "Esta actividad no admite compartir."
 
-# c04c4c8fe89c4172b23556923d342c91
+# 9d5ecba1b4304fc79376289e9514d243
 #: ../source/measure.rst:69
 msgid "Extending"
-msgstr ""
+msgstr "Extensión"
 
-# ffead53aeac14984bed5981de0ab770f
+# ffd16b6ff4a8479b875133b7a59caee6
 #: ../source/measure.rst:71
 msgid ""
 "Measure is able to take input from a wide range of external sensors "
 "including switches, photocells, temperature sensors, inductive loops, hall "
 "effect sensors, soil probes and many more."
 msgstr ""
+"Medida es capaz de tomar la entrada de una amplia gama de sensores externos,"
+" incluyendo interruptores, fotocélulas, sensores de temperatura, bucles "
+"inductivos, sensores de efecto Hall, sondas de suelo y muchos más."
 
-# 4a7b0978158a48918ff498d20acb8cbb
+# 638fe0f86bc04c8e836c616afd31427b
 #: ../source/measure.rst:73
 msgid "Care should be taken not to exceed the allowable input voltage:"
 msgstr ""
+"Se debe tener cuidado para no exceder la tensión de entrada permitida:"
 
-# 4adbcdb4896248ce957849f087a68369
+# 528626ec7a294c949af02fd963197966
 #: ../source/measure.rst:75
 msgid "XO-1 -0.5 V to 5 V"
-msgstr ""
+msgstr "XO-1 -0. 5 V a 5 V"
 
-# 3bb1c4491554487f9f182dfe653e1dd1
+# ee9e9c068a6549b295c06f25fb97cb21
 #: ../source/measure.rst:77
 msgid "XO-1.5 -6 V to +9 V"
-msgstr ""
+msgstr "XO-1. 5 -6 V de 9 V"
 
-# 8e632efeaccc4b8b838b2c5986fed987
+# 72e0464f322e486c87fc741e3287ced5
 #: ../source/measure.rst:79
 msgid "XO-1.75 -6 V to +9 V"
-msgstr ""
+msgstr "XO-1. 75 -6 V de 9 V"
 
-# 22e41d7730ec4a5e89e3d3b6c04effa2
+# 6d5e6b16c4df445cac918e2ddae63964
 #: ../source/measure.rst:81
 msgid ""
 "It is a good idea, particularly on the XO-1, to put a resistor of 680 ohms "
 "in the phono plug, this increases the allowable input voltage range."
 msgstr ""
+"Es una buena idea, sobre todo en la XO-1, para poner una resistencia de 680 "
+"ohmios en la clavija fonográfica, esto aumenta el rango de tensión de "
+"entrada permitida."
 
-# bd414dc286d1430c9b7bc8414f8e2f49
+# 77b7be02b4fb4e09897f7b1a217b53b1
 #: ../source/measure.rst:83
 msgid ""
-"You can find ideas for fun science experiments at http://wiki.sugarlabs.org/"
-"go/Activities/TurtleArt/Using_Turtle_Art_Sensors and http://wiki.laptop.org/"
-"go/Measure"
+"You can find ideas for fun science experiments at "
+"http://wiki.sugarlabs.org/go/Activities/TurtleArt/Using_Turtle_Art_Sensors "
+"and http://wiki.laptop.org/go/Measure"
 msgstr ""
+"Usted puede encontrar ideas para experimentos científicos divertidos en "
+"http: // wiki. sugarlabs. org / go / Actividades / TurtleArt / "
+"Using_Turtle_Art_Sensors y http: // wiki. portátil. org / go / Medida"

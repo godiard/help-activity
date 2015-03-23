@@ -1,0 +1,109 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 20dbc3007a294dc785b6dbcd731a6817
+#: ../source/stopwatch.rst:3
+msgid "StopWatch"
+msgstr "StopWatch"
+
+# e218ed5f54e64ef09540fe61e7bb600d
+#: ../source/stopwatch.rst:6
+msgid "About"
+msgstr "Acerca de"
+
+# 3340054676e64a48a03507f08b3c9b34
+#: ../source/stopwatch.rst:8
+msgid ""
+"StopWatch is the quintessential stopwatch Sugar, intuitivoy well as being "
+"easy to use, supports the needs of both simple and advanced timing.Among its"
+" innovations, StopWatch offers the ability to manage multiple timers "
+"simultaneously and to make it easier to manage their watches, you can rename"
+" them all."
+msgstr ""
+"El cronómetro está el cronómetro por excelencia Azúcar, intuitivoy además de"
+" ser fácil de usar, soporta las necesidades tanto de tiempo simple y "
+"avanzada. Entre sus innovaciones, StopWatch ofrece la posibilidad de "
+"gestionar varios temporizadores simultáneamente y para que sea más fácil de "
+"administrar sus relojes, puede cambiar el nombre de todos ellos."
+
+# 2ed17cf50ceb42e7bbd8661daaa978dc
+#: ../source/stopwatch.rst:11
+msgid "Where to get StopWatch"
+msgstr "Dónde obtener StopWatch"
+
+# ea3291c1dd634ec1a7f6785e2e1faa85
+#: ../source/stopwatch.rst:13
+msgid ""
+"While the StopWatch activity does not come preinstalled on all distributions"
+" OLPC software, you can download activity from its `Activity page "
+"<http://activities.sugarlabs.org/en-US/sugar/addon/4263>`_"
+msgstr ""
+"Si bien la actividad cronómetro no viene preinstalado en todas las "
+"distribuciones de software de OLPC, se puede descargar la actividad de su "
+"`página Actividad <http: // actividades. sugarlabs. org / en-US / azúcar / "
+"addon / 4263> `_"
+
+# c9bc9c8d21964aed910786a0e9a23a74
+#: ../source/stopwatch.rst:17
+msgid "Using"
+msgstr "Uso"
+
+# 03fe25247fb04df5946767a77806940f
+#: ../source/stopwatch.rst:19
+msgid ""
+"Indeed, the StopWatch activity is very easy to use, but if you do not "
+"understand any of the features of this activity, the references are listed "
+"below:"
+msgstr ""
+"De hecho, la actividad StopWatch es muy fácil de usar, pero si usted no "
+"entiende alguna de las características de esta actividad, las referencias se"
+" enumeran a continuación:"
+
+# 4066e296b9d04b698948dc42e593296d
+#: ../source/stopwatch.rst:24
+msgid "Select the name of a timing to keep your work organized."
+msgstr ""
+"Seleccione el nombre de un calendario para mantener su trabajo organizado."
+
+# 0efd6f655eba47e78bdc977316a09851
+#: ../source/stopwatch.rst:25
+msgid "Start/Pause the timing."
+msgstr "Iniciar / Pausa el calendario."
+
+# b042d7bd4f144fa49841c92f9a1bde79
+#: ../source/stopwatch.rst:26
+msgid "Reset the timing."
+msgstr "Cambiar el calendario."
+
+# c94a659715624db4a7a4483a3bdd1ea6
+#: ../source/stopwatch.rst:27
+msgid "Create a mark of this time(in others timers, known as \"A return\")."
+msgstr ""
+"Crear una marca de este tiempo (en otros temporizadores, conocido como \"El "
+"regreso\")."
+
+# 22cde687779f4c43a22aadb9204df627
+#: ../source/stopwatch.rst:28
+msgid "The visor of actual time."
+msgstr "La visera de tiempo real."
+
+# 67d85e8a3cc74cd1a6deb0b196c23e07
+#: ../source/stopwatch.rst:29
+msgid "A list of all times you checked."
+msgstr "Una lista de todos los tiempos ha marcado."

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 3ad5ee8f7d5147e2afcfe90fba088ddc
+# 33cc4ba825794d1ca2da85f7182b1dfe
 #: ../source/collaborating.rst:3
 msgid "Collaborating"
-msgstr ""
+msgstr "Colaborando"
 
-# 733861a7294a44458e9df48b1ad62dba
+# eb7258a3643c4c818bb362557e9f47fe
 #: ../source/collaborating.rst:6
 msgid "About Collaborating"
-msgstr ""
+msgstr "Acerca de Colaboración"
 
-# b14f9e7252604cea9ceafed064ae92c4
+# fe66ebc20d5140d3bc172a70b076edf7
 #: ../source/collaborating.rst:8
 msgid ""
 "One of the most important features of Sugar is the ability for you to "
@@ -37,177 +37,212 @@ msgid ""
 "and so on. Many Activities support collaboration, see below, :ref:`Where to "
 "get Collaborating`"
 msgstr ""
+"Una de las características más importantes de azúcar es la capacidad para "
+"que usted pueda colaborar, o red, y compartir un proyecto que se está "
+"trabajando bien con los demás. Esto puede tomar la forma de múltiples "
+"cursores en un documento, múltiples instrumentos musicales, dos jugadores en"
+" un juego, múltiples usos en el chat (abajo), etc.. Muchas actividades de "
+"apoyo a la colaboración, véase más adelante,: ref: `¿Dónde conseguir "
+"Collaborating`"
 
-# 1a67c044ba3f42f499c3327ce9f52267
+# bc3f2ae4be714032a2a8d7f20e35c604
 #: ../source/collaborating.rst:10
 msgid ""
-"This image is from the Activity toolbar of Write, which is an Activity which "
-"supports collaboration."
+"This image is from the Activity toolbar of Write, which is an Activity which"
+" supports collaboration."
 msgstr ""
+"Esta imagen es de la barra de herramientas de actividad de escritura, que es"
+" una actividad que apoya la colaboración."
 
-# c8bc88d94d064ba6b383b0b295095dd8
+# 76cd86310ad44af09b56842f7ba67f93
 #: ../source/collaborating.rst:14
 msgid ""
 "The highlighted button is the collaboration, or sharing, \"switch\". The "
 "options are"
 msgstr ""
+"El botón resaltado es la colaboración o el intercambio, \"cambiar\". Las "
+"opciones son"
 
-# 62bdff0bd204483d87e63203f068e332
+# e0d1a3e84e6d4dd182e3b254a121c208
 #: ../source/collaborating.rst:16
 msgid ""
 "|Home_key_f3_small.png| Home icon, which, when you hover the cursor over, "
 "reveals \"Private\". This is the non-sharing option, with no networking."
 msgstr ""
+"| Home_key_f3_small. png | Inicio icono, que, cuando se pasa el cursor "
+"sobre, revela \"Privado\". Esta es la opción de no compartir, sin redes."
 
-# dce9a3fa50574eda95baaa15f12e2e42
+# 0307eac8bac640e8916b298f273724bf
 #: ../source/collaborating.rst:20
 msgid ""
-"|Neighborhood_key| Neighborhood icon, which, when you hover the cursor over, "
-"reveals \"My Neighborhood\". This is the sharing option, that is, networked."
+"|Neighborhood_key| Neighborhood icon, which, when you hover the cursor over,"
+" reveals \"My Neighborhood\". This is the sharing option, that is, "
+"networked."
 msgstr ""
+"| Neighborhood_key | icono Entorno, que, cuando se pasa el cursor sobre, "
+"revela \"Mi Barrio\". Esta es la opción de uso compartido, es decir, en red."
 
-# f9599c00227f425aa4ccfd4465cbad1b
+# cb7ebcdea2ca48d090134421500a842e
 #: ../source/collaborating.rst:24
 msgid ""
-"In some activities, the collaboration button is grayed (disable), that means "
-"the activity can't collaborate."
+"In some activities, the collaboration button is grayed (disable), that means"
+" the activity can't collaborate."
 msgstr ""
+"En algunas actividades, el botón de colaboración está en gris "
+"(deshabilitar), eso significa que la actividad no puede colaborar."
 
-# f213a0daa77743a0a8022f3a592182cc
+# 59781f8b903a4dfabb76b096980e3f15
 #: ../source/collaborating.rst:27
 msgid "Chatting in Chat"
-msgstr ""
+msgstr "Charla en el Chat"
 
-# efd1212a10264ecf9d09780f80bb963a
+# 5c9197a1373f4595bc9b42138c1dd773
 #: ../source/collaborating.rst:29
 msgid ""
 "An example of collaboration, or networking, is chatting. Chatting is "
 "available in the Sugar Activity Chat."
 msgstr ""
+"Un ejemplo de colaboración, o en red, está charlando. Charlando está "
+"disponible en el azúcar Actividad de Chat."
 
-# 467e238d8a5246f59e2b567ffdeea0ec
+# ebb20a34ee9943c583fcacfec4b5b7ca
 #: ../source/collaborating.rst:34
 msgid "Collaboration in Distance Activity"
-msgstr ""
+msgstr "Colaboración en Distancia Actividad"
 
-# 2e43b32367bc444791c6ae10b731b9e5
+# 8fa1bdbee959423fb0a646f56ebb765c
 #: ../source/collaborating.rst:36
 msgid ""
 "If you want to share with one of your friends, inside the Activity that you "
 "want share, click on the \"Home\" icon that says \"Private\" then click on "
 "the \"Neighborhood\" icon, like below."
 msgstr ""
+"Si quieres compartir con uno de sus amigos, dentro de la actividad que desea"
+" compartir, haga clic en el icono \"Inicio\" que dice \"Privado\" y luego "
+"haga clic en el icono de \"Barrio\", como a continuación."
 
-# 36c7dea610dd49fd93576b33852d702d
+# 006138b9fc60447292169c6bbbd1dfb9
 #: ../source/collaborating.rst:42
 msgid ""
 "This will make it available to all other persons connected to your same Ad-"
 "hock network. An icon of the Activity you are sharing will appear in the "
-"Neighborhood view inviting others to join. To join, all they will need to do "
-"is hover over the icon of the Activity you are sharing and click join. (This "
-"is also how you join the work of others when they share with you)."
+"Neighborhood view inviting others to join. To join, all they will need to do"
+" is hover over the icon of the Activity you are sharing and click join. "
+"(This is also how you join the work of others when they share with you)."
 msgstr ""
+"Esto hará que sea disponible para todas las personas conectadas a la misma "
+"red ad-corvejón. Un icono de la Actividad estás compartiendo aparecerá en la"
+" vista de Barrio invitar a otros a unirse. Para participar, lo único que "
+"tendrán que hacer es ciernen sobre el icono de la Actividad va a compartir y"
+" haga clic en Unirse. (Así es también como se inscribe el trabajo de los "
+"demás cuando comparten con usted)."
 
-# e17835612359412c9c89a57196b1add1
+# 47a2ebb3327041ba8d7590893363c072
 #: ../source/collaborating.rst:49
 msgid "Where to get Collaborating"
-msgstr ""
+msgstr "Dónde obtener Colaborar"
 
-# 4383e2ca1951479ea64f5421f79f125e
+# ef8ce621903e4953a2c83272d3d4533c
 #: ../source/collaborating.rst:51
 msgid ""
-"Collaborating is a built-in function in the following Activities provided in "
-"the current Sugar distribution:"
+"Collaborating is a built-in function in the following Activities provided in"
+" the current Sugar distribution:"
 msgstr ""
+"La colaboración es una función incorporada en las siguientes actividades "
+"previstas en la distribución actual del azúcar:"
 
-# 9ec89714a8154dd882624e1f6884c3ef
+# ada29f4cbdb34aeb8482956d5664b903
 #: ../source/collaborating.rst:53
 msgid "Browse"
-msgstr ""
+msgstr "Explorar"
 
-# c8cbb6adc93e471ea35bf666c594fa33
+# dfbb72559ca443c28991e5484dace7db
 #: ../source/collaborating.rst:54
 msgid "Calculate"
-msgstr ""
+msgstr "Calcular"
 
-# aad121a464a24b4fbaf5f968b09eec80
+# 16aa2f4f93fa4e6fa1e5c80adc283639
 #: ../source/collaborating.rst:55
 msgid "Chat"
-msgstr ""
+msgstr "Charlar"
 
-# da09f6f7037942cab14177899a42ffed
+# 0dcd53e7fe624b7f995664b4088b6471
 #: ../source/collaborating.rst:56
 msgid "Distance"
-msgstr ""
+msgstr "Distancia"
 
-# da01887317c943039cd2eded8bd3f853
+# 25630dee3d544d4bbd76ba278edf53e2
 #: ../source/collaborating.rst:57
 msgid "Etoys"
-msgstr ""
+msgstr "Etoys"
 
-# 695c373a6da54667ade8ebcf25b76eeb
+# 4d2f91d412304133b35f7eb2e2a83287
 #: ../source/collaborating.rst:58
 msgid "Image Viewer (not marked Favorite)"
-msgstr ""
+msgstr "Visor de imágenes (no marcada favorita)"
 
-# f749d5d3d776426ba39960eed8019d30
+# 5953e628a1014de0b8fe459c082663e8
 #: ../source/collaborating.rst:59
 msgid "Implode"
-msgstr ""
+msgstr "Implosión"
 
-# a163718cc3194f76b460fefcaf735e56
+# d3dd5c16a93a46fea6a6459eca86b639
 #: ../source/collaborating.rst:60
 msgid "Maze"
-msgstr ""
+msgstr "Laberinto"
 
-# 41ee4c3b0eb94a459223142dd7d0ddf8
+# 4d1e9fa996e44634b57a07d92ee0bfaa
 #: ../source/collaborating.rst:61
 msgid "Memorize"
-msgstr ""
+msgstr "Memorizar"
 
-# 19a84eeac9774f3aa96b1ef63942f349
+# cd6078c2016a46b79e75a3d7770bb958
 #: ../source/collaborating.rst:62
 msgid "Pippy"
-msgstr ""
+msgstr "Pippy"
 
-# 9f60d6a193994f9e8e250ea5dc04a70b
+# 8ca46899c9f14626a3e6e92dc02c921a
 #: ../source/collaborating.rst:63
 msgid "Read"
-msgstr ""
+msgstr "Leer"
 
-# cf21d7fa1cac40eda441276d134060c3
+# 01bbc9a1150c4a51b20f665a98f0e5f7
 #: ../source/collaborating.rst:64
 msgid "Record"
-msgstr ""
+msgstr "Registro"
 
-# cfd6000c6c6a44939e41a77362d7708e
+# 30b1df3db14148eab7d3809b3b0113c6
 #: ../source/collaborating.rst:65
 msgid "Speak"
-msgstr ""
+msgstr "Hablar"
 
-# 1ced64a83ed44dad9049a2e3863b06b4
+# 3a5dbe9154bf44acaeaa3983ab09c11f
 #: ../source/collaborating.rst:66
 msgid "TamTamMini"
-msgstr ""
+msgstr "Tamtam"
 
-# b08353feb5964aef8e6bf6df436dd5c0
+# f61a417f818741359168b54430a5aff3
 #: ../source/collaborating.rst:67
 msgid "TamTamJam"
-msgstr ""
+msgstr "TamTamJam"
 
-# ac7afd51d2334edda071fbd89f1c033f
+# e45c743e58054ffe84b5b3c2ea15c2e4
 #: ../source/collaborating.rst:68
 msgid "Turtle Art"
-msgstr ""
+msgstr "Turtle Art"
 
-# 93158fc388584ab6bcaef67497b59f7f
+# adc0b5a039b44f398761244b78abe47f
 #: ../source/collaborating.rst:69
 msgid "Write"
-msgstr ""
+msgstr "Escribir"
 
-# ec16b85e1e564cbd9b2ef575e8ec30ff
+# 02d91a0fcc1d4100ada1b494b235eb83
 #: ../source/collaborating.rst:73
 msgid ""
 "Not all Activities are able to collaborate. There are many others available "
-"in the `Sugar Labs Activities repository <http://activities.sugarlabs.org/>`_"
+"in the `Sugar Labs Activities repository "
+"<http://activities.sugarlabs.org/>`_"
 msgstr ""
+"No todas las actividades son capaces de colaborar. Hay muchos otros "
+"disponibles en el `Sugar Labs Actividades repositorio <http: // actividades."
+" sugarlabs. org /> `_"

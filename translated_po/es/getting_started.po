@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,62 +17,81 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# f278c95e8159480a86448b5c77a50996
+# 4c7f56f0e8fd43ca9ac519e7088102db
 #: ../source/getting_started.rst:3
 msgid "Getting Started"
-msgstr ""
+msgstr "Empezando"
 
-# 2686f6b0360f4ba49dba99c630a8aaeb
+# 706540427a5545ae86dca09fab626d9b
 #: ../source/getting_started.rst:5
 msgid "Read Me First:"
-msgstr ""
+msgstr "Lea esto primero:"
 
-# 28b7f2329f654baba4e1c0c31719f3cd
+# 35551b59a2e14f7aa85c47424b706567
 #: ../source/getting_started.rst:7
 msgid ""
 "Welcome to XO-land! You are about to start on a wonderful adventure of "
-"exploration and learning. The cute little green and white machine in the box "
-"is the tool that will enable you to travel the world via the Internet, "
+"exploration and learning. The cute little green and white machine in the box"
+" is the tool that will enable you to travel the world via the Internet, "
 "compose and play music, create works of art, do science experiments, take "
 "photos and videos, communicate with friends and family via e-mail, and even "
 "learn to do a little computer programming."
 msgstr ""
+"Bienvenido a XO-tierra! . La maquinita verde y blanco lindo en el cuadro es "
+"la herramienta que le permitirá viajar por el mundo a través de Internet, "
+"componer y tocar música, crear obras de arte, hacer experimentos "
+"científicos, tomar fotos y videos, comunicarse con amigos y familiares a "
+"través de ."
 
-# b92a5126998f43f3b51e48650f08ea50
+# 782a2deb68a34cee979f92bcf3430622
 #: ../source/getting_started.rst:9
 msgid ""
 "But the XO represents a lot more than that. It is a symbol of your "
 "commitment to the education of the children of the world. OLPC is not a "
-"computer project, it is an education project. We hope you will proudly enjoy "
-"using your XO as children around the world do."
+"computer project, it is an education project. We hope you will proudly enjoy"
+" using your XO as children around the world do."
 msgstr ""
+"Pero la XO representa mucho más que eso. Es un símbolo de su compromiso con "
+"la educación de los niños del mundo. OLPC no es un proyecto informático, es "
+"un proyecto de educación. Esperamos que usted disfrute de orgullo usando tu "
+"XO como los niños de todo el mundo hacen."
 
-# cde4ebaf4fe54f6daf36e6f7475f9680
+# 838323eb1d6f48b78ae7a7b6835ec12d
 #: ../source/getting_started.rst:11
 msgid ""
-"Before you get started, consider reading these great tips: http://laptop.org/"
-"start"
+"Before you get started, consider reading these great tips: "
+"http://laptop.org/start"
 msgstr ""
+"Antes de empezar, le recomendamos que lea estos grandes consejos: http: // "
+"portátil. org / inicio"
 
-# b66acced143b4251889e5298c4c77197
+# 7fcd81f8233b499b8582e7b4bce91ea4
 #: ../source/getting_started.rst:13
 msgid ""
-"The first thing you need to do is carefully unpack your XO. Save everything! "
-"If you don't, you may accidentally throw away something important. Be sure "
+"The first thing you need to do is carefully unpack your XO. Save everything!"
+" If you don't, you may accidentally throw away something important. Be sure "
 "to save the box, packing materials, and any paperwork that is in the box."
 msgstr ""
+"Lo primero que hay que hacer es descomprimir cuidadosamente su XO. Guarde "
+"todo! . Asegúrese de guardar la caja, los materiales de embalaje, y "
+"cualquier documentación que está en la caja."
 
-# ede6394873bd4ef4aa5c028917f4e8a3
+# 16a9e100247f47b198f43966a5418519
 #: ../source/getting_started.rst:19
 msgid ""
 "Before you use your XO for the first time, you should fully charge the "
 "battery. The Battery section below shows you how to install the battery and "
 "connect the charger."
 msgstr ""
+"Antes de utilizar el XO, por primera vez, debe cargar completamente la "
+"batería. La sección de la batería abajo muestra cómo instalar la batería y "
+"conecte el cargador."
 
-# 11ad30f0dbb744d4a67ebf3d50cbf184
+# b447de2fa70d4261ac673b5753cc8461
 #: ../source/getting_started.rst:21
 msgid ""
-"While you wait for it to charge, read through the rest of this guide and see "
-"what you can do!"
+"While you wait for it to charge, read through the rest of this guide and see"
+" what you can do!"
 msgstr ""
+"Mientras espera a que se cargue, lea el resto de esta guía y ver lo que "
+"puede hacer!"

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,80 +17,94 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# c4035e4aaf094b4c874ee64a40fa573e
+# 97c2f92652f04175972e7f0edbeef40f
 #: ../source/group_view.rst:3
 msgid "Group View"
-msgstr ""
+msgstr "Vista de grupo"
 
-# 85269a3f066b44cea2243ea94204dbf1
+# 970789f00e144137983838d603626c22
 #: ../source/group_view.rst:5
 msgid ""
 "The Group View shows you, your friends and allows you to easily interact "
 "with them."
 msgstr ""
+"La vista de grupo muestra, sus amigos y le permite interactuar fácilmente "
+"con ellos."
 
-# 2b8126185f8c45d3ab3173ee38e85941
+# 35bd0921309d42908ba1979013609089
 #: ../source/group_view.rst:8
 msgid "Accessing the Group View"
-msgstr ""
+msgstr "Acceso a la vista de grupo"
 
-# fcae555d35b14ce1892fb979dd584607
+# ee1904b2ab3c4ef99f628ee4b386a669
 #: ../source/group_view.rst:12
 msgid ""
 "To show the Group View, click the Group icon on the Frame or press the F2 "
 "key."
 msgstr ""
+"Para mostrar la vista de grupo, haga clic en el icono de grupo en el Marco o"
+" presione la tecla F2."
 
-# d30c2c05950d4c1bbb8f678668f7fbb4
+# 54ba82722a434dc3b1e756c5d32aff81
 #: ../source/group_view.rst:16
 msgid ""
 "The Group View shows you and your friends. XO icons that are dimmed "
 "represent friends who are currently offline."
 msgstr ""
+"La vista de grupo que usted y sus amigos muestra. Iconos XO que están "
+"atenuadas representan amigos que están actualmente fuera de línea."
 
-# 290b0748b5f4437e91081547ea44978d
+# e653d7498cf34dcfb6d5077a560276dd
 #: ../source/group_view.rst:19
 msgid "Adding a friend"
-msgstr ""
+msgstr "Adición de un amigo"
 
-# 95a16d38e1dd4147bdba078b34486b94
+# d0eea092e86b4a3094ef7602f18090ec
 #: ../source/group_view.rst:21
 msgid "You add friends to the Group View from the Neighborhood View."
-msgstr ""
+msgstr "Para agregar amigos a la vista de grupo desde el Barrio Vista."
 
-# 634111068de04eaab297fa5b32f69ddb
+# e46a5451962f460792035af2f7995e13
 #: ../source/group_view.rst:25
 msgid ""
 "When you hover over an XO icon, the Make friend menu option appears. Click "
 "this option to add that person as a friend."
 msgstr ""
+"Al pasar sobre un icono XO, aparece la opción de menú amigo Make. Haga clic "
+"en esta opción para agregar a esa persona como un amigo."
 
-# 3fbcf9117f85436c9faebb6f783739e3
+# a1d873923d5e424f9505e07d570168fb
 #: ../source/group_view.rst:29
 msgid "Your new friend's icon then appears in the Group View."
-msgstr ""
+msgstr "Icono de su nuevo amigo y luego aparece en la vista de grupo."
 
-# fb6d1a79513d4640a408b5f16bfd53bd
+# 86e2109a898241a684295c9b4588028c
 #: ../source/group_view.rst:32
 msgid "Inviting a friend"
-msgstr ""
+msgstr "Invitar a un amigo"
 
-# ac6aec951a6d4847b8c57a518dd8b7ee
+# 753b05e5ba2b44f9a251884c4d7702cd
 #: ../source/group_view.rst:36
 msgid ""
 "From the hover menu, you can also invite friends to join your current "
 "Activity. There is more information about invitations and sharing in the "
 "Collaborating chapter."
 msgstr ""
+"En el menú de la libración, también puede invitar a amigos a unirse a su "
+"actividad actual. Hay más información acerca de las invitaciones y el "
+"intercambio en el capítulo de Colaboración."
 
-# 1d8c2ccf69a246969e47a3bba91e6761
+# 490026fc2b564140a94c0f5da290c8c2
 #: ../source/group_view.rst:39
 msgid "Removing a friend"
-msgstr ""
+msgstr "Extracción de un amigo"
 
-# 4e31aadc138b4805a671e464e3831779
+# 795e09f3b7d54b85a427d1635f069546
 #: ../source/group_view.rst:43
 msgid ""
 "You can remove a friend from the Group View using the hover menu. Click "
 "Remove friend. That person's icon disappears from the Group View."
 msgstr ""
+"Puede eliminar un amigo de la vista de grupo utilizando el menú activable. "
+"Haga clic en Eliminar amigo. Icono de esa persona desaparece de la vista de "
+"grupo."

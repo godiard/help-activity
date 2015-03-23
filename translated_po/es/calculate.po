@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,140 +17,148 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# ac3509270e034ba08afa858cdf4b36ce
+# 2e46ea2e57b9404c91aa61279673a9e1
 #: ../source/calculate.rst:3
 msgid "Calculate"
-msgstr ""
+msgstr "Calcular"
 
-# 2efb020ad2274b66820d70fed6740cc2
+# c16044307d924ac280aa485d197652b4
 #: ../source/calculate.rst:6
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
-# 836745ac2d644042bd730273ae005802
+# 649482cf401344a28a234a9cf1193f68
 #: ../source/calculate.rst:11
 msgid "Using Calculate"
-msgstr ""
+msgstr "Utilizando Calcular"
 
-# 8140f1aa271440179e1a30d0fcdfb8a7
+# a646ffb967cc4dc09d4751bae2e9bdcf
 #: ../source/calculate.rst:13
 msgid ""
 "For those who have used a scientific calculator, most of the functions of "
 "Calculate will be quite familiar."
 msgstr ""
+"Para aquellos que han utilizado una calculadora científica, la mayoría de "
+"las funciones de Calcular será muy familiar."
 
-# 461f66d15d464a1eb3752ba11295a1b0
+# 10c47e6de75649d3b307e57a48e7ae18
 #: ../source/calculate.rst:15
 msgid "The Toolbars are"
-msgstr ""
+msgstr "Las barras de herramientas son"
 
-# 5348631292924e1497f33afc7ccb634f
+# b349e13916cb46c1a41a4aa90c5289e5
 #: ../source/calculate.rst:17
 msgid ""
 "Activity, Calculate icon: Name session, Journal entry description, "
 "collaborate"
 msgstr ""
+"Actividad, Calcular icono: Sesión Nombre, Diario descripción de la entrada, "
+"colaborar"
 
-# 74ed0a0037f54d25835f623e8cfd2d31
+# 6a21415f1ba649edb6dbc9e90dbe2d1a
 #: ../source/calculate.rst:19
 msgid "Edit, scissors icon: Copy, Paste"
-msgstr ""
+msgstr "Editar, icono de las tijeras: Copiar, Pegar"
 
-# 720ebb99df19425abf96773960cf8602
+# 6e20301be81e467797ad8d891b6107e6
 #: ../source/calculate.rst:21
 msgid ""
 "Functions, {x}: Square, square root, reciprocal, exponential, power, "
 "logarithm, factorial"
 msgstr ""
+"Funciones, {x}: Cuadrado, Raíz cuadrada, recíproco, exponencial, poder, "
+"logaritmo, factorial"
 
-# 22a1ab4297ef4c51948cc5d998d04b90
+# 850048deafe54eb6b2a41e912358b2da
 #: ../source/calculate.rst:23
 msgid ""
-"Trigonometry, triangle icon: sin, cos, tan, sin-1, cos-1, tan-1, sinh, cosh, "
-"tanh"
+"Trigonometry, triangle icon: sin, cos, tan, sin-1, cos-1, tan-1, sinh, cosh,"
+" tanh"
 msgstr ""
+"Trigonometría, icono triángulo: sin, cos, tan, sin-1, cos-1, tan-1, senh, "
+"cosh, tanh"
 
-# 6c1b86a41bab48849036840502b91c40
+# b0f24499eb114bb0a00c621ab8b508cc
 #: ../source/calculate.rst:25
 msgid "Boolean, Venn diagram icon: and, or, =, !="
-msgstr ""
+msgstr "Boole, icono diagrama de Venn: y, o, =, =!"
 
-# 077f4c2cac7742acb5abe89da6c3091f
+# 3d0f2cd050a743f3b9373efe8a426b14
 #: ../source/calculate.rst:27
 msgid "Constants, Greek letters icon: pi, e, gamma, phi"
-msgstr ""
+msgstr "Constantes, letras griegas icono: pi, e, gamma, phi"
 
-# 1ebd447f16834144b07a7762830b1260
+# 790bf9ffc1014ea5a0c0a5fd5fd441ac
 #: ../source/calculate.rst:29
 msgid "Plot: Hover menu offers Help"
-msgstr ""
+msgstr "Terreno: menú Hover ofrece Ayuda"
 
-# e8175dd7631943dd92147401bc4eeb91
+# 5156c0e739aa4be7a03f0fbcabbc7053
 #: ../source/calculate.rst:31
 msgid "Degrees/Radian angle measure"
-msgstr ""
+msgstr "Grados / medida de ángulo en radianes"
 
-# 1b93b6bc030842218304604e045e75df
+# 73130149c51540bc8b9f80dedeb1e7fc
 #: ../source/calculate.rst:33
 msgid "Scientific/Engineering notation"
-msgstr ""
+msgstr "Científico notación / Ingeniería"
 
-# 82a902c3afdf46e2bd29529176282163
+# ebff0b781dbd4e879eb3a45d7663cda1
 #: ../source/calculate.rst:35
 msgid "Number of digits to show: 6, 9, 12, 15"
-msgstr ""
+msgstr "Número de dígitos a mostrar: 6, 9, 12, 15"
 
-# 283ff5d5200c49878660dcb9164ae0e4
+# 52eb927a4bf04a4ab5ee0001d6b2e54f
 #: ../source/calculate.rst:37
 msgid "Base: Decimal, binary, octal, hex"
-msgstr ""
+msgstr "Base: decimal, binario, octal, hexadecimal"
 
-# 9106837c818a449ba29b1e615a91ec9c
+# 5b7689a0c9ae4885bb7dfdf2f1bceded
 #: ../source/calculate.rst:39
 msgid "Exit"
-msgstr ""
+msgstr "Salida"
 
-# 2dc035434c614aa1800fda882c46be0e
+# eb915323a1354b539fca76f1b59e104b
 #: ../source/calculate.rst:42
 msgid "Getting help"
-msgstr ""
+msgstr "Obtener ayuda"
 
-# 0f8b423812724d70b2a4acf72a266e60
+# ae392b5add984bf59d8af4a03a6a1a87
 #: ../source/calculate.rst:44
 msgid "To see a help option for plot, enter the command"
-msgstr ""
+msgstr "Para ver una opción de ayuda para la trama, entre el mandato"
 
-# e05f98698d35487080088287e33690c7
+# 3890deaadb574488aacd8041f616dd4b
 #: ../source/calculate.rst:46
 msgid "``help(plot)``"
-msgstr ""
+msgstr "`` Ayuda (parcela) ``"
 
-# 1d528cb3c46f469cb4fb571b8c074140
+# f54b908234bd4e729ef5075d386dfed7
 #: ../source/calculate.rst:48
 msgid "on the text entry line."
-msgstr ""
+msgstr "en la línea de entrada de texto."
 
-# 590437492596491297875f08f5c5a931
+# 47b064a960f24e2db176c0b8cf153347
 #: ../source/calculate.rst:50
 msgid "The general help function is"
-msgstr ""
+msgstr "La función de ayuda general es"
 
-# faa5f7a846314fc4a2bbe6cb2132cf11
+# 4a670eed65b3496baabae8e6a10c8d23
 #: ../source/calculate.rst:52
 msgid "``help()``"
-msgstr ""
+msgstr "`` Help () ``"
 
-# b3ecb4a9ef154f46abe13526c7748b29
+# 99e83d16073c45fd910f499146d74a50
 #: ../source/calculate.rst:54
 msgid "The list of help topics is available with the command"
-msgstr ""
+msgstr "La lista de temas de ayuda está disponible con el comando"
 
-# 18ba357f7d834daaa93c5eb94b52687a
+# 8d84959824cd4032b3a1fb6b69c70ebc
 #: ../source/calculate.rst:56
 msgid "``help(index)``"
-msgstr ""
+msgstr "`` Ayuda (índice) ``"
 
-# b125a09209f8410da21ed97a5f42d3b6
+# b0bf6ecf35f64a45a97f051075a1e439
 #: ../source/calculate.rst:58
 msgid ""
 "including topics not supported on the menus. Help is not provided for the "
@@ -158,3 +166,7 @@ msgid ""
 "but these can be looked up on the Internet. Clicking their icons inserts "
 "their numeric values."
 msgstr ""
+"incluyendo temas que no son compatibles en los menús. La ayuda no se "
+"proporciona la pi constantes, e, gamma (Euler-Mascheroni constante) y phi "
+"(Golden Ratio), pero éstas se puede consultar en Internet. Al hacer clic en "
+"sus iconos inserta sus valores numéricos."

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,662 +17,763 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 9f0790d15889412ca798823f8dcdf057
+# 303de3007518461fb50b5eb982f46f29
 #: ../source/write.rst:3
 msgid "Write"
-msgstr ""
+msgstr "Escribir"
 
-# b1d30687e26a45c2ab31971f07a230b2
+# f2ed608d17df4687a81bc962030c8d34
 #: ../source/write.rst:6
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
-# 5e982aea4015428892b66c452d3217e9
+# 68bad1899edc4db6a987eb8e6d21bf1d
 #: ../source/write.rst:8
 msgid ""
 "The Write Activity serves as the document creation Activity in Sugar. Its "
 "simple interface provides an easy starting point for children, presenting "
 "tools that make writing a story, poem, or essay simple and straightforward. "
-"It also supports tools for inserting images, creating tables, and performing "
-"layout operations."
+"It also supports tools for inserting images, creating tables, and performing"
+" layout operations."
 msgstr ""
+"La actividad de escritura sirve como la creación de actividad documento en "
+"Sugar. Su sencilla interfaz proporciona un punto de partida fácil para los "
+"niños, presentando herramientas que hacen que escribir un cuento, un poema o"
+" ensayo simple y directo. También es compatible con las herramientas para la"
+" inserción de imágenes, creación de tablas, y la realización de operaciones "
+"de diseño."
 
-# 62b026c7350c4e6997e7792366690a09
+# e7bc1ab41825408e81c08d67fb1086f1
 #: ../source/write.rst:10
 msgid ""
-"Write utilizes the :doc:`/journal`, your work is automatically saved, and :"
-"ref:`Collaboration` in the form of peer editing, group storytelling, etc."
+"Write utilizes the :doc:`/journal`, your work is automatically saved, and "
+":ref:`Collaboration` in the form of peer editing, group storytelling, etc."
 msgstr ""
+"Escribir utiliza el: doc: `/ journal`, el trabajo se guarda automáticamente,"
+" y: ref:` Collaboration` en forma de edición de los compañeros, la narración"
+" de cuentos en grupo, etc.."
 
-# e2f6bf194cdb4e2d86c41656aac3a5b7
+# 5da07af97dd4454bbf40e95f01102958
 #: ../source/write.rst:12
 msgid ""
 "The Write Activity can be used to open and edit most common file formats, "
 "including ODT, DOC, RTF, TXT, and HTML."
 msgstr ""
+"La actividad de escritura puede ser utilizada para abrir y editar formatos "
+"de archivo más comunes, incluyendo ODT, DOC, RTF, TXT y HTML."
 
-# 6dba100463674c9bb983bf6392168f4d
+# 3a9deb31ce1445e2b3a936d2d2150391
 #: ../source/write.rst:14
 msgid ""
-"Write is included in OLPC images and can be downloaded from `ASLO <http://"
-"activities.sugarlabs.org>`_, search for Paint."
+"Write is included in OLPC images and can be downloaded from `ASLO "
+"<http://activities.sugarlabs.org>`_, search for Paint."
 msgstr ""
+"Escribir está incluido en las imágenes de OLPC y se puede descargar desde "
+"`ASLO <http: // actividades. sugarlabs. org> `_, buscar Paint."
 
-# f704f92bd24545889e4c5a12594b8bd9
+# 68d4d930d532421e8c31b986da3e826d
 #: ../source/write.rst:17
 msgid "Using"
-msgstr ""
+msgstr "Uso"
 
-# 43a0870fb13d4c5cacadb308deefd3f8
+# d8b7d4a4008e406da9d566a8d4559c10
 #: ../source/write.rst:19
 msgid "Here Write has been used to produce some colorful text."
-msgstr ""
+msgstr "Aquí escritura se ha utilizado para producir un texto colorido."
 
-# 737fe2535b69404ebf1778641f4b8ced
+# 04829dc98eb94b039508677cfac0eaa3
 #: ../source/write.rst:24
 msgid "The Toolbars"
-msgstr ""
+msgstr "Las barras de herramientas"
 
-# b9be9816012a4254b80c12a73596f8ca
+# 6d372e2a9f4647898f83c9105d013a31
 #: ../source/write.rst:26
 msgid ""
 "**Tip** Use the :ref:`say_selected_text` feature to have robot Alice read "
 "aloud this page in the background, while you explore the Write Activity."
 msgstr ""
+"** Tip ** Utilice el: ref: `característica say_selected_text` tener robot "
+"Alice leyó en voz alta esta página en el fondo, mientras explora la "
+"actividad de escritura."
 
-# 95bd4898e83041c68bb15926f1b641c1
+# e17f1648677a4b3d8296b35ad1eebc03
 #: ../source/write.rst:30
 msgid ""
-"We look first at the nine buttons in the top row of the toolbar. The buttons "
-"open the corresponding tab or toolbar."
+"We look first at the nine buttons in the top row of the toolbar. The buttons"
+" open the corresponding tab or toolbar."
 msgstr ""
+"Miramos por primera vez en los nueve botones en la fila superior de la barra"
+" de herramientas. Los botones abren la ficha o barra de herramientas "
+"correspondiente."
 
-# eabc2017177c42b8ba413533e98c43e9
+# 66584d5d78dc42849cbc68a569014d95
 #: ../source/write.rst:32
 msgid ""
 "Activity tab, or button, here you can enter a name for the page or project. "
-"The Description button allows you to add a description to the :doc:`/"
-"journal` entry. Thirdly select Private, or My Neighbourhood."
+"The Description button allows you to add a description to the "
+":doc:`/journal` entry. Thirdly select Private, or My Neighbourhood."
 msgstr ""
+"Pestaña Actividad, o botón, aquí se puede introducir un nombre para la "
+"página o proyecto. El botón Descripción le permite añadir una descripción "
+"para el: doc: `entrada / journal`. En tercer lugar seleccione Privada o Mi "
+"Barrio."
 
-# 750e20aa1c224eeaae81f33ec6d50b15
+# b79d25774233458db444a44f996dcfb1
 #: ../source/write.rst:33
 msgid ""
 "The Edit button: Allows to Copy, Paste, Undo, Redo, and search inside your "
 "document."
 msgstr ""
+"El botón Editar: Permite copiar, pegar, deshacer, rehacer, y buscar dentro "
+"de su documento."
 
-# 289c0bc2f66c4851b8ac604c5d9ef66d
+# c5300c1c5d1245909cc3bd6471beb77c
 #: ../source/write.rst:34
 msgid ""
 "The View button: Allows you to zoom in and out of the document and to "
 "navigate through the pages quickly."
 msgstr ""
+"El botón Ver: Le permite acercar y alejar del documento y navegar a través "
+"de las páginas de forma rápida."
 
-# 8a3f6b70ee9e4a3f86091fcf04b9e10b
+# 965e0f752e044d508d50a5e93cb0eed6
 #: ../source/write.rst:35
 msgid ""
 "The Speak button. You can have Speak, robot Alice, read your work aloud."
 msgstr ""
+"El botón Speak. Usted puede tener Speak, robot Alice, leer su trabajo en voz"
+" alta."
 
-# 6eb70cb1a42b43c796b9c60ac94744f6
+# 56df8b07abcc4fc3b4d9661338e58de5
 #: ../source/write.rst:36
 msgid ""
-"The Fonts button: Allows you to change the font, size, empphasis, colour and "
-"justify."
+"The Fonts button: Allows you to change the font, size, empphasis, colour and"
+" justify."
 msgstr ""
+"El botón Fuentes: Le permite cambiar el tipo de letra, el tamaño, empphasis,"
+" color y justificas."
 
-# cce4014098e34c6195787279b59c0e9d
+# ab81a3e8123646629755c587d3ea54bb
 #: ../source/write.rst:37
 msgid "The Paragraph button : Allows you to set heading and list styles."
 msgstr ""
+"El botón Párrafo: Le permite establecer estilos de título y de la lista."
 
-# 6eb70cb1a42b43c796b9c60ac94744f6
+# 3cb44ae93751453dbc8d693f879c9c81
 #: ../source/write.rst:38
 msgid "The Insert table button : Allows you to insert and adjust a table."
-msgstr ""
+msgstr "El botón Insertar tabla: Permite insertar y ajustar una mesa."
 
-# 6eb70cb1a42b43c796b9c60ac94744f6
+# cda7a21f2ff9481689c2adf0af409e94
 #: ../source/write.rst:39
 msgid "The Insert Image button : Allows you to insert images."
-msgstr ""
+msgstr "El botón Insertar imagen: Le permite insertar imágenes."
 
-# c1a32f788ea2460ea58a6f7110810aa4
+# 16156ca2dd9d4ec6bce64bc71548ffbf
 #: ../source/write.rst:40
 msgid "Stop or clpose the Activity."
-msgstr ""
+msgstr "Detener o clpose la Actividad."
 
-# a296687621534411b2e721181981ea80
+# 79066e115878428389a312d0db8417de
 #: ../source/write.rst:43
 msgid "The Toolbar Sub Menus"
-msgstr ""
+msgstr "El Sub Toolbar Menús"
 
-# 02b9092bb6064581badc90aa69d56d92
+# 0a9f0d6a4d584eca979aa03ccfa5f711
 #: ../source/write.rst:46
 msgid "Activity button (1)"
-msgstr ""
+msgstr "Botón de actividad (1)"
 
-# 41ca36d7efb745f2b3b8603b71016c0e
+# daca83fefbb844cd86fe2b2077742cc3
 #: ../source/write.rst:50
 msgid ""
 "Allows you to name your file. Click the cursor in the field, the existing "
 "text is selected, and a new file name can be entered."
 msgstr ""
+"Le permite asignar un nombre a su archivo. Haga clic en el cursor en el "
+"campo, se selecciona el texto existente, y un nuevo nombre de archivo se "
+"puede introducir."
 
-# 943d0c8d20db41ad9b1cd2d2755b0218
+# b87626d1f40046f3acf795f61ec88b65
 #: ../source/write.rst:51
 msgid ""
 "The \"pencil and book\" icon, the Description button allows you to add a "
 "description to the :doc:`/journal` entry."
 msgstr ""
+"El icono \"lápiz y el libro\", el botón Descripción le permite añadir una "
+"descripción al: doc: `entrada / journal`."
 
-# 9a91a014187047b9bdea0decc523272a
+# 90448a8aa84740bfb48ec939f2f3c0b5
 #: ../source/write.rst:52
-msgid ""
-"This button is the collaboration, or sharing \"switch\". The options are"
+msgid "This button is the collaboration, or sharing \"switch\". The options are"
 msgstr ""
+"Este botón es la colaboración, o compartir \"interruptor\". Las opciones son"
 
-# 9581d32bb5b4481f841275f11465d728
+# f391a3c5ffcd47b59de04aa9ed6be053
 #: ../source/write.rst:54
 msgid ""
 "|Home_key_f3_small.png| Private, this is the non-sharing option, with no "
 "networking."
 msgstr ""
+"| Home_key_f3_small. png | Privado, esta es la opción de no compartir, sin "
+"redes."
 
-# 387e864969bd457483f4763eafc0502d
+# cfe2d991a047475591b5f436ce62d5b4
 #: ../source/write.rst:58
 msgid ""
 "|Neighborhood_key| My Neighbourhood, this is the sharing option, that is, "
 "networked with others."
 msgstr ""
+"| Neighborhood_key | Mi Barrio, esta es la opción para compartir, es decir, "
+"en red con otros."
 
-# e7064921bdb54622a356818837b63dd2
+# cbaead39e0fc401c805a02773a052e14
 #: ../source/write.rst:62
 msgid "See also below, :ref:`Collaboration`."
-msgstr ""
+msgstr "Véase también más adelante,: ref: `Collaboration`."
 
-# 8230ff4ffb004bec94c67cf1fbc8091f
+# 6d4a5c27d881409eba928adbdc781e50
 #: ../source/write.rst:64
 msgid "Export, or Save in Rrich Text Format."
-msgstr ""
+msgstr "Exportar o Guardar en Rrich formato de texto."
 
-# 532aaab465864733becf59d22b2e94cb
+# da856f27ccb0439d8b0ec3d2d4d8c34c
 #: ../source/write.rst:65
 msgid "Export, or Save in HTML."
-msgstr ""
+msgstr "Exportar o Guardar en HTML."
 
-# efd7974ded9a4263be4e68b21fefee9e
+# c7728e496c53491785f89de2eaf8e907
 #: ../source/write.rst:66
 msgid "Export, or Save in Plain text."
-msgstr ""
+msgstr "Exportar o Guardar en Texto sin formato."
 
-# d482a9baa7fd4db18f53672000e4188d
+# 36604666571243cfa7ffb4608acfb396
 #: ../source/write.rst:67
 msgid "Export, or Save in Portable Document Format."
-msgstr ""
+msgstr "Exportar o Guardar en formato de documento portátil."
 
-# d1759da6b9124a0d811f9e64a02338db
+# 62249059898c4629b09f67a01ba3c17b
 #: ../source/write.rst:70
 msgid "Edit button (2)"
-msgstr ""
+msgstr "Botón Editar (2)"
 
-# 75783c6879d540048fdc7aeb745c4359
+# 6b4a44d828484102a1dfc6826613145d
 #: ../source/write.rst:74
 msgid "Copy"
-msgstr ""
+msgstr "Copia"
 
-# 7f657134d620473f8ff818c11d88662e
+# 0ab04a7a52b94f8897588ec69a135a8b
 #: ../source/write.rst:75
 msgid "Paste"
-msgstr ""
+msgstr "Pasta"
 
-# e59fd37b20fc4b899c0ebeb038f7a70c
+# 0a4fb0f7b2ec428786e706f56ac6b805
 #: ../source/write.rst:76
 msgid "Undo"
-msgstr ""
+msgstr "Deshacer"
 
-# ca13650509f346d2bf326f6027f852be
+# 53f2744ea35f484ab04a19ddf852fa51
 #: ../source/write.rst:77
 msgid "Redo"
-msgstr ""
+msgstr "Listo"
 
-# b8fcc26170114a53bbbf06c7ea1e68fa
+# 8827a25c4af5426ea66f99cd30b2fe46
 #: ../source/write.rst:78
 msgid "Search"
-msgstr ""
+msgstr "Búsqueda"
 
-# bf8a32ab4e364cb184c5c72dd95c5893
+# 4e45a06226d543fdb48f8c25303d2c90
 #: ../source/write.rst:79
 msgid "Back"
-msgstr ""
+msgstr "Espalda"
 
-# b47a9525c413463aab4196e297d6b98d
+# 6f2e9aae6c2e430d9bb5440ea4170db2
 #: ../source/write.rst:80
 msgid "Forward"
-msgstr ""
+msgstr "Adelante"
 
-# 73f50289d9034424b1f118c7abe8fa47
+# 6552d27975c2466892ce0b658d9e6c56
 #: ../source/write.rst:83
 msgid "View button (3)"
-msgstr ""
+msgstr "Ver botón (3)"
 
-# 6b1ccef6304b41f19030c6e1ebb67b8a
+# 243000dc1730464aa216318fb13b65bb
 #: ../source/write.rst:87
 msgid "Zoom out"
-msgstr ""
+msgstr "Alejar"
 
-# bcc47ed5c55e468d9b610f43473c597f
+# a064d18793a44167b88af9fc77c5ec9c
 #: ../source/write.rst:88
 msgid "Zoom in"
-msgstr ""
+msgstr "Acercar"
 
-# 6af6664119324ad5bcb8bd30c962d8b2
+# d1649518dc074827be3a48dd8c27988f
 #: ../source/write.rst:89
 msgid "Zoom to width"
-msgstr ""
+msgstr "Zoom a la anchura"
 
-# a1a2be93e4004370ad7d3dc60d50a6a1
+# 59db7f0c0a624849ac8c2510661a574f
 #: ../source/write.rst:90
 msgid "Set Zoom"
-msgstr ""
+msgstr "Ajuste zoom"
 
-# c3862c362d524ae2ab8cd6d1aeff3fa2
+# 9e9545cf34be4ee88f1a07d00ea38a67
 #: ../source/write.rst:91
 msgid "Quick page navigation"
-msgstr ""
+msgstr "Navegación de la página rápida"
 
-# af622d01c0ae4d32a43950ac3eac917f
+# 18fd316bf7a14eaaaf3417407413a4dc
 #: ../source/write.rst:94
 msgid "Speak button (4)"
-msgstr ""
+msgstr "Botón Hablar (4)"
 
-# 7bd6a4d651534c36ab3d34ede0564857
+# 851b8b01901f4d35a3d727685f3ebd30
 #: ../source/write.rst:98
 msgid ""
 "Play / Pause the Speak function, robot Alice will read aloud any text which "
 "you select. See :ref:`say_selected_text`."
 msgstr ""
+"Reproducir / Pausa la función Speak, robot Alice leerá en voz alta cualquier"
+" texto que se selecciona. Ver: ref: `say_selected_text`."
 
-# 7d1f709b97034246b17be1752eb40a3a
+# 479a98c427694c539f22a7906e75a820
 #: ../source/write.rst:99
 msgid "Stop robot Alice."
-msgstr ""
+msgstr "Detener robot Alice."
 
-# b0c5efd6aebb45248c3b5e95ceb73559
+# 98444826b5834b2a8b0c005fc6bb6825
 #: ../source/write.rst:100
 msgid "Select robot Alice's language."
-msgstr ""
+msgstr "Seleccione robot lenguaje de Alice."
 
-# 15cdef50e40a48feb74fa5ffad3a88ac
+# c8abf763cf504817b2724f7f1d1ad790
 #: ../source/write.rst:103
 msgid "Fonts button (5)"
-msgstr ""
+msgstr "Botón Fuentes (5)"
 
-# 6379c972e52a4fa9ae83b61307841cc0
+# b4b229fa530645039810657b788aeee5
 #: ../source/write.rst:107
 msgid "Name of font"
-msgstr ""
+msgstr "Nombre de la fuente"
 
-# a753330e3483407990bf5474f8889133
+# af17ed7e8ac44e68873305216b78b5dc
 #: ../source/write.rst:108
 msgid "Size of font"
-msgstr ""
+msgstr "Tamaño de la fuente"
 
-# 50da761964ab41f49b3a380ba154d683
+# 63c45f90697242438226c05a19d7af09
 #: ../source/write.rst:109
 msgid "Bold"
-msgstr ""
+msgstr "Audaz"
 
-# 956d223482e64af1b79b26cee86d2433
+# 9994730d4967485baa438f8f1657e736
 #: ../source/write.rst:110
 msgid "Italic"
-msgstr ""
+msgstr "Itálico"
 
-# f69f67cb6beb460c9119da0f0dd45afe
+# f00bb6a6340b49a4973f9d25a8b48bda
 #: ../source/write.rst:111
 msgid "Underline"
-msgstr ""
+msgstr "Subrayar"
 
-# 545da65760714e4dad30e5a46c32b951
+# 575bc5aca01a494d95a5786824caddc7
 #: ../source/write.rst:112
 msgid "Choose a color"
-msgstr ""
+msgstr "Elige un color"
 
-# 27d31ff9de874d5283491430d0493114
+# 263d77b28a79469eb7eb0228033127de
 #: ../source/write.rst:113
 msgid "Justify your text to left, centre, right, or fill justify."
 msgstr ""
+"Justificar el texto a la izquierda, centro, derecha, o llenar justificar."
 
-# 9c2043296fd845f980eefe1eed4d896b
+# 1f5b01544d02444d9bfb32b361ef242f
 #: ../source/write.rst:116
 msgid "Paragraph button (6)"
-msgstr ""
+msgstr "Botón Párrafo (6)"
 
-# cf4920d35193454a966e493aa45c8469
-# 08d40380f7a841f1a8fa230d03c59bb1
+# 2b881e84eb9548caa5d0a233b89e9802
+# 841c78168e2743d9bdd53f2752d58f18
 #: ../source/write.rst:120 ../source/write.rst:129
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
-# 1a0778ba63ac407d848e1ae5eb50b8b5
+# a3800bca28934a00a4f469cbca49c1b4
 #: ../source/write.rst:121
 msgid "Heading 1"
-msgstr ""
+msgstr "Título 1"
 
-# 2cefce637c0d4be7b9c0bfcd14c40a6a
+# 793b40cfa11f451da2e85ace63020297
 #: ../source/write.rst:122
 msgid "Heading 2"
-msgstr ""
+msgstr "Título 2"
 
-# 0bf249727fa74c20b6eb8da2510e39e1
+# ea615d4fbedc4c448ca29cb0063063e5
 #: ../source/write.rst:123
 msgid "Heading 3"
-msgstr ""
+msgstr "Título 3"
 
-# e04910d70fa6487d86e463dacd5cbee8
+# 0cd699b50fd7486ab4d0fce82c93943f
 #: ../source/write.rst:124
 msgid "Heading 4"
-msgstr ""
+msgstr "Rúbrica 4"
 
-# c626e15017ac410bb0be8eae6904799d
+# e8b78ad6698349638920eda11f04e31e
 #: ../source/write.rst:125
 msgid "Block Text"
-msgstr ""
+msgstr "Bloque de texto"
 
-# b6b342fd9d4449ff99f9c14c9f4bffed
+# 2822f2cbba764adfbe23628a18d9e15d
 #: ../source/write.rst:126
 msgid "Plain Text"
-msgstr ""
+msgstr "Texto sin formato"
 
-# 32a407e7ab3448c1bf99892e695b95b7
+# b50c80dbb39d4789a05c4ecf515a3983
 #: ../source/write.rst:127
 msgid "Select list:"
-msgstr ""
+msgstr "Seleccione la lista:"
 
-# 3bb599ce9a374fd887b550301f2e4a5a
+# e89ff09472bf4dc590d094ad6a1757ee
 #: ../source/write.rst:130
 msgid "Bullet List"
-msgstr ""
+msgstr "Lista Bullet"
 
-# 85371aec79e84ff4bea1be6a8380e3fd
+# 42801690253c4354a8156605bc7337bf
 #: ../source/write.rst:131
 msgid "Dashed List"
-msgstr ""
+msgstr "La Lista"
 
-# 354180dcad674b64bd884eac10b5e5f4
+# acf09010592846e096d4f336ec515ac2
 #: ../source/write.rst:132
 msgid "Numbered List"
-msgstr ""
+msgstr "Lista numerada"
 
-# b829661bbec4422f8e1c0c2fe6cce70f
+# 20495981cf1841afa00bace5287ff1c3
 #: ../source/write.rst:133
 msgid "Lower Case List"
-msgstr ""
+msgstr "Bajo Lista de Casos"
 
-# 01df81f47df549c18b5de308df664cd7
+# ddb2cec8ca14447f9942e533f836a687
 #: ../source/write.rst:134
 msgid "Upper Case List"
-msgstr ""
+msgstr "Lista mayúsculas"
 
-# 1d90d4416d1c4f53b0887b75d2e1db4a
+# bc0748e6e1934a13913df019a78b4c7e
 #: ../source/write.rst:137
 msgid "The Insert Table button (7)"
-msgstr ""
+msgstr "El botón Insertar tabla (7)"
 
-# ae6753bc38d9466cae7d3dd5b68a7867
+# 41e02f3836944c54863a733c0f81420b
 #: ../source/write.rst:141
 msgid ""
-"Create table, in the grid you select the number of rows and columns you want "
-"to appear."
+"Create table, in the grid you select the number of rows and columns you want"
+" to appear."
 msgstr ""
+"Crear una tabla, en la cuadrícula de seleccionar el número de filas y "
+"columnas que desea que aparezca."
 
-# 56601f1640304cf3956f1214f810a885
+# ca144da5892541209373f4ca143b97f7
 #: ../source/write.rst:142
 msgid "Insert row."
-msgstr ""
+msgstr "Insertar fila."
 
-# 5b957001a9674147977a96663a854ecc
+# 630dc47754954a3cb49a1cdd3c80c129
 #: ../source/write.rst:143
 msgid "Delete row."
-msgstr ""
+msgstr "Eliminar fila."
 
-# e59900e21a4f419a834b2def46fb0f81
+# aa79e1890a02408cb53ce00d250cdc73
 #: ../source/write.rst:144
 msgid "Insert column."
-msgstr ""
+msgstr "Insertar columna."
 
-# dad771e0987c4e93b8d9187bc44c51ee
+# 79195a3970974775889434ad3490b33a
 #: ../source/write.rst:145
 msgid "Delete column."
-msgstr ""
+msgstr "Eliminar columna."
 
-# 6df951a71a444c28adb89232e5f771b4
+# 6f0b8f19ea0b492a85f9cccd189728e5
 #: ../source/write.rst:148
 msgid "The Insert Image button (8)"
-msgstr ""
+msgstr "El botón Insertar imagen (8)"
 
-# 9e5339cf47394676b8de43b1995a8119
+# d553299450ed4b8e9679b5839ee46fe6
 #: ../source/write.rst:152
 msgid ""
 "This button opens the Journal, or attached media, in \"search image mode\". "
 "In the default (non floating) mode the image is inserted and the text is "
-"before or after the image. If you insert text before the image, the image is "
-"displaced. Sometimes, use a two box table to contain associated text "
+"before or after the image. If you insert text before the image, the image is"
+" displaced. Sometimes, use a two box table to contain associated text "
 "reliably. Use this mode only to place images in tables."
 msgstr ""
+"Este botón abre el Diario, o medios conectados, en \"la búsqueda del modo de"
+" imagen\". En el modo por defecto (no flotante) se inserta la imagen y el "
+"texto es antes o después de la imagen. Si inserta el texto antes de la "
+"imagen, la imagen se desplaza. A veces, utilizar una tabla de dos cajas para"
+" contener texto asociado fiable. Utilice este modo sólo para colocar las "
+"imágenes en las tablas."
 
-# cc4488e864b44afbb3fcb84adf23c261
+# 5294409718424216a8942a4c76854801
 #: ../source/write.rst:154
 msgid ""
 "A checkbox allows to have image floating. In floating mode, the text will "
 "flush around the image, and the image will stay fixed in one place."
 msgstr ""
+"Una casilla de verificación permite tener imagen flotante. En el modo "
+"flotante, el texto eliminará alrededor de la imagen, y la imagen se quedará "
+"fija en un solo lugar."
 
-# 4bfbee8afce5423485d792a902e928bb
+# f7d6cbf9bb064690b291220b57a793c1
 #: ../source/write.rst:159
 msgid "Collaboration"
-msgstr ""
+msgstr "Colaboración"
 
-# a41c69e81aa040f18dbf1856f85105dc
+# 9366f61e16fb48ea9ac207903f4f93d5
 #: ../source/write.rst:161
 msgid ""
 "The Write Activity supports collaborative (peer) editing, which means that "
 "multiple people can edit the same document at the same time."
 msgstr ""
+"La actividad de escritura apoya (peer) la edición colaborativa, lo que "
+"significa que varias personas pueden editar el mismo documento al mismo "
+"tiempo."
 
-# 009d8b39c27a40d48d85eebe8cad3c55
+# 574741724a82497e8d789f92d3027cb9
 #: ../source/write.rst:163
 msgid "To start a collaboration, either:"
-msgstr ""
+msgstr "Para iniciar una colaboración, ya sea:"
 
-# 443bed462c67489e841a32093585c1f1
+# 342900c7f1f44878a403504925c3b64f
 #: ../source/write.rst:165
 msgid "send an invitation, or"
-msgstr ""
+msgstr "enviar una invitación, o"
 
-# 17d1876430cc4e959b874bce791e1729
+# 07d2ce3afa1d48628020f9f68f33663d
 #: ../source/write.rst:166
 msgid "share with the Neighborhood"
-msgstr ""
+msgstr "compartir con el Barrio"
 
-# d3f04417596d44c3bce3011322728efa
+# 75cf844e3f724fb1b1cedf236af49ecf
 #: ../source/write.rst:168
 msgid ""
 "As with all Sugar Activities, invitations go to specific individuals, but "
 "sharing is open to anyone in the Neighborhood View."
 msgstr ""
+"Al igual que con todas las actividades de azúcar, invitaciones van a "
+"individuos específicos, sino el intercambio está abierto a cualquier persona"
+" en el Barrio Vista."
 
-# 13b606198ffa4e049eacf9b797d76805
+# 3042c6c2aa45479dbed219d85f15f0ca
 #: ../source/write.rst:170
 msgid ""
-"|more| For more on this subject, please see the chapter in this manual on :"
-"doc:`/collaborating`."
+"|more| For more on this subject, please see the chapter in this manual on "
+":doc:`/collaborating`."
 msgstr ""
+"| Más información | Para más información sobre este tema, consulte el "
+"capítulo de este manual en: doc: `/ collaborating`."
 
-# d3a1bdcee0924ff1be93bc4183d09c1d
+# d2ec77885c454b919c7b83bde51813c5
 #: ../source/write.rst:176
 msgid "Note to parents and teachers"
-msgstr ""
+msgstr "Nota para los padres y maestros"
 
-# 255a2c1a1616432196eb1c53b0deb2ce
+# e1278fa4549e44fe85f9a2b124dfb660
 #: ../source/write.rst:178
 msgid ""
 "Collaboration is a powerful feature of Write, but it is recommended that "
-"when you do collaborate, keep the number of people editing the same document "
-"to just 2–3 people. Otherwise, there tend to be delays that cause the "
+"when you do collaborate, keep the number of people editing the same document"
+" to just 2–3 people. Otherwise, there tend to be delays that cause the "
 "document to get out of synch from one computer to another. Also, try to "
 "avoid using too many large pictures or tables when collaborating, as these "
 "objects tend to get scrambled."
 msgstr ""
+"De lo contrario, tiende a haber retrasos que hacen que el documento para "
+"salir de sincronización de un ordenador a otro. Además, trate de evitar el "
+"uso de demasiados cuadros o tablas cuando colaboran grandes, ya que estos "
+"objetos tienden a ser revueltos."
 
-# 3ec21b8c67c742e6b9b0eeac4d06f8b4
+# 90cb5c796e904138a9db7ce30e8d1fc9
 #: ../source/write.rst:181
 msgid "Group Storytelling"
-msgstr ""
+msgstr "Cuentacuentos Grupo"
 
-# d57d2ea8cb404622aaa0e42d51da46d0
+# 603ab4fb43de4f279044c865a1f227f1
 #: ../source/write.rst:183
 msgid ""
 "The Dadaists, a cultural movement that began in Europe towards the end of "
 "World War I (1916) invented a number of art-construction techniques, "
-"including collage and photo montage. Many of their works were collaborative, "
-"including exquisite corpse, a method by which a collection of words or "
+"including collage and photo montage. Many of their works were collaborative,"
+" including exquisite corpse, a method by which a collection of words or "
 "images was collectively assembled. Each collaborator adds to a composition "
 "in turn, either by following a rule or by being allowed to see the end of "
 "what the previous person contributed."
 msgstr ""
+"Los dadaístas, un movimiento cultural que comenzó en Europa a finales de la "
+"Primera Guerra Mundial (1916) inventó una serie de técnicas de arte de la "
+"construcción, incluyendo el collage y el fotomontaje. Muchas de sus obras "
+"fueron de colaboración, incluyendo cadáver exquisito, un método por el cual "
+"un conjunto de palabras o imágenes se ensambló colectivamente. Cada "
+"colaborador se suma a una composición, a su vez, ya sea siguiendo una regla "
+"o por que se les permita ver el final de lo que la persona anterior "
+"contribuyó."
 
-# 8b88000a2c13438e857183349938b696
+# 7601aee4b84946078ec5de724cafd9f9
 #: ../source/write.rst:185
 msgid ""
 "A shared instance of Write can be used in a similar way to create a "
 "collaborative story, poem, rhyme, or group stream of consciousness."
 msgstr ""
+"Un ejemplo común de escritura se puede utilizar de una manera similar para "
+"crear una historia de colaboración, poema, rima, o arroyo grupo de "
+"conciencia."
 
-# dc8ff538a2234500807c7ec8067b05ac
+# a52f20b66f0d479e9d0f02503d71f9c0
 #: ../source/write.rst:188
 msgid "Using Write for group storytelling"
-msgstr ""
+msgstr "Usando Escribir para contar historias grupo"
 
-# 2edce445a47c4e8797d3966f1fc4f52b
+# 0da0b1ed451f4800a84e1a17e3cfc9cd
 #: ../source/write.rst:190
 msgid ""
 "It is fun and easy to use Write for group storytelling. Simply share a "
 "document with a group of friends (or your class); take turns opening the "
 "document and adding to the story."
 msgstr ""
+"Es divertido y fácil de usar de escritura para contar historias grupo. "
+"Simplemente compartir un documento con un grupo de amigos (o su clase); ."
 
-# 86f5d387069e4ba69db057851d79fc4d
+# 43a2013d9d954772b6f255a7a79867a2
 #: ../source/write.rst:192
 msgid "**Steps:**"
-msgstr ""
+msgstr "** Pasos: **"
 
-# 79b9fee023294976be2aa5991231ca44
+# 6cd50d32974743368dc6066aeddb69e3
 #: ../source/write.rst:194
 msgid "Open a document in Write."
-msgstr ""
+msgstr "Abra un documento en escritura."
 
-# 3e0c035d6326406ab6ca381275242040
+# de22420ef427435cb4c5036d7807dd8c
 #: ../source/write.rst:195
 msgid ""
 "Type in a rule on the first line for everyone to follow. (Some examples are "
 "listed below.)"
 msgstr ""
+"Escriba en una regla en la primera línea para todo el mundo a seguir. "
+"(Algunos ejemplos son los siguientes. )"
 
-# 3e3d174843d14972be4326a77fa8157c
+# cc1b2b98e0b7471fba9676d78ef83198
 #: ../source/write.rst:196
 msgid "Go to the Activity tab."
-msgstr ""
+msgstr "Ve a la pestaña Actividad."
 
-# 00567fb9eb1647f98ae31530f86b325e
+# ecfaaa2a851c4b838eb7aeee824eae9b
 #: ../source/write.rst:197
 msgid "Select \"Share with Neighborhood\"."
-msgstr ""
+msgstr "Seleccione \"Compartir con Barrio\"."
 
-# ac04c39286fc490aba557b81fe577e6e
+# 335229501103417eaa27a4cc86ae9d94
 #: ../source/write.rst:198
 msgid ""
 "One at a time, each person in the group should open the shared document by "
 "clicking it in the Neighborhood View."
 msgstr ""
+"Uno a la vez, cada persona en el grupo debe abrir el documento compartida "
+"haciendo clic en el Barrio Vista."
 
-# 0b4c23bad687489cb03b336653514dcc
+# 900f3435020b4f4683e37297c5997038
 #: ../source/write.rst:199
 msgid ""
 "During their turn, they should follow the rule to add to the end of the "
 "story."
 msgstr ""
+"Durante su turno, deben seguir la regla a añadir a la final de la historia."
 
-# 305b15e580894b8491b20b064db1e909
+# 6a02ca2710dd495bb389a6197101c9e2
 #: ../source/write.rst:200
 msgid ""
 "They should exit Write after they have added to the story. (Important: the "
 "person who originally shared the document should not exit Write until "
 "everyone has taken their turn.)"
 msgstr ""
+"Deben salir de escritura después de que se han sumado a la historia. "
+"(Importante: la persona que originalmente compartía el documento no debe "
+"salir de escritura hasta que todos hayan tenido su turno. )"
 
-# 222b079c902544e8b9bbb5c3c1abb006
+# aeceacc6b8b04929a74cd8b903e426ed
 #: ../source/write.rst:201
 msgid ""
 "After each person has added to the story, the person who started the story "
 "should read it aloud to the group."
 msgstr ""
+"Después de que cada persona ha añadido a la historia, la persona que inició "
+"la historia debe leer en voz alta al grupo."
 
-# e0bc5649813a4441b4a0cbf70833f0b7
+# 6e941acc9829455891667cd87361888e
 #: ../source/write.rst:203
 msgid "**Examples**"
-msgstr ""
+msgstr "** Ejemplos **"
 
-# 271eda4f269a46b1b20dc079bed20d96
+# f20b1ba8643947828e365edd4af5d95e
 #: ../source/write.rst:205
 msgid "Add a sentence that continues the theme of a story."
-msgstr ""
+msgstr "Añadir una frase que continúa con el tema de una historia."
 
-# ebd99c8a8ea24771bfc98091790dce8d
+# b3ceaf1743f04a5b94e5e800e617f75f
 #: ../source/write.rst:206
 msgid ""
-"Add a new sentence that starts with the last word of the sentence that comes "
-"before it."
+"Add a new sentence that starts with the last word of the sentence that comes"
+" before it."
 msgstr ""
+"Añadir una nueva oración que comienza con la última palabra de la frase que "
+"viene antes de que."
 
-# 72b3ced6a34148a88cdf5c08eee12b1f
+# 60b78a902fde4105859077d771ae6e81
 #: ../source/write.rst:207
 msgid ""
 "Add a new word that begins with the same letter as the last letter of the "
 "word before it."
 msgstr ""
+"Añadir una nueva palabra que comienza con la misma letra que la última letra"
+" de la palabra antes de que."
 
-# db025bbe46704cfcb35c67abd1edfdde
+# edc35edd178240ae9ca54265c8c7b888
 #: ../source/write.rst:208
 msgid "Add an adjective after a noun, a noun after an adjective."
 msgstr ""
+"Añadir un adjetivo después de un sustantivo, un sustantivo después de un "
+"adjetivo."
 
-# 74414dc6fcbc4018bb2d241e43636db7
+# 066878ab1a384a22a2772fed3d597fbc
 #: ../source/write.rst:209
 msgid ""
 "Add a word with one more letter than the word before it (this gets hard for "
 "a large group!)"
 msgstr ""
+"Añadir una palabra con una letra más de la palabra antes de que (esto se "
+"pone difícil para un grupo grande!)"
 
-# ab186b9b713d459cb8107431851bcd65
+# 4511761a59a7496f8b6172ef45d44d49
 #: ../source/write.rst:210
 msgid "Add words in alphabetical order."
-msgstr ""
+msgstr "Añadir palabras en orden alfabético."
 
-# b519c25f791c40fea2499ffee5f18971
+# eaffd68fbdf841d1ae3e44b5ec3d34f0
 #: ../source/write.rst:213
 msgid "Letter to the Editor"
-msgstr ""
+msgstr "Carta al Editor"
 
-# 53eed8d7039d439c960c7a7435520718
+# 11dcea7ddf5945dbb6c5559725b2cc0a
 #: ../source/write.rst:215
 msgid ""
 "Writing is one of the most powerful means of personal expression ever "
 "invented. The expression, \"the pen is mightier than the sword\" has rung "
 "true through out history."
 msgstr ""
+"La escritura es uno de los más poderosos medios de expresión personal que se"
+" ha inventado. La expresión, \"la pluma es más poderosa que la espada\" ha "
+"sonado cierto través de la historia."
 
-# b1faf4bb909749e598a9eaf188ebae5e
+# efa7c2afc9b44c7ca3d780cef8bd6fed
 #: ../source/write.rst:217
 msgid ""
 "It is important that the world hear your voice and you can make you voice "
@@ -680,96 +781,125 @@ msgid ""
 "in the Wikipedia, or by some other means. Write gives the power of "
 "expression as well as the means to share your expression with others."
 msgstr ""
+"Es importante que el mundo escuche su voz y que te puede hacer oír, ya sea a"
+" través de un blog, una carta al editor, un comentario en una página en la "
+"Wikipedia, o por algún otro medio. Escribir da el poder de expresión, así "
+"como el medio para compartir su expresión con los demás."
 
-# 5a9ded6e39da4185af8b4732f0bbcd81
+# 35c7eb8c52b7442aa31133ecc339e47f
 #: ../source/write.rst:219
 msgid ""
 "If you want to write a letter to the editor, you first need to look in the "
 "newspaper or on the paper's web site to find their e-mail address for "
-"letters. Some newspapers have a policy of publishing all appropriate letters "
-"sent to the editor, but most are more selective. All require you to include "
-"your complete name, address, and a contact telephone number. You can, "
-"however, request that your letter be published with \"name withheld\" if you "
-"want. Most editors call you to verify that you really did write the letter "
+"letters. Some newspapers have a policy of publishing all appropriate letters"
+" sent to the editor, but most are more selective. All require you to include"
+" your complete name, address, and a contact telephone number. You can, "
+"however, request that your letter be published with \"name withheld\" if you"
+" want. Most editors call you to verify that you really did write the letter "
 "before printing it. They also reserve the right to edit your letter to fit "
 "the available space on the page."
 msgstr ""
+"Si desea escribir una carta al editor, primero tiene que mirar en el "
+"periódico o en la página web del periódico para encontrar su dirección de "
+"correo electrónico para las letras. Algunos periódicos tienen una política "
+"de publicar todas las cartas apropiadas remitida al editor, pero la mayoría "
+"son más selectivos. Todos requieren que incluir su nombre completo, "
+"dirección y un teléfono de contacto. Puede, sin embargo, solicitar que su "
+"carta se publicará junto con \"nombre no revelado\" si quieres. La mayoría "
+"de los editores te llaman para verificar que realmente hizo escribir la "
+"carta antes de imprimirla. Ellos también se reservan el derecho de editar su"
+" carta para ajustarse al espacio disponible en la página."
 
-# 09288e6e17da4e648e8de387abfbb714
+# 3a9dd49ff34e491996ef5851703999b1
 #: ../source/write.rst:221
 msgid ""
 "If you keep your letter short and to the point, you have a better chance of "
 "experiencing the thrill of seeing your own words in print. Good luck!"
 msgstr ""
+"Si mantiene su carta breve y al punto, usted tiene una mejor oportunidad de "
+"experimentar la emoción de ver sus propias palabras en la impresión. Buena "
+"suerte!"
 
-# 4a07aa751d004e95877759ad48fc6ff9
+# adb30b18d4a24934aea6e300e2797a66
 #: ../source/write.rst:224
 msgid "Examples"
-msgstr ""
+msgstr "Ejemplos"
 
-# fc72e8fbfa02479da76f0d6dcca90722
+# 335f53b592dc4cce8c941c16ecea5383
 #: ../source/write.rst:226
 msgid ""
 "Children in the Galadima School in Abuja, Nigeria used Write to write "
 "letters to the president of Nigeria with suggestions about how he could "
 "improve the conditions of school for all the children of Nigeria."
 msgstr ""
+"Los niños de la Escuela Galadima en Abuja, Nigeria utilizan Write para "
+"escribir cartas al presidente de Nigeria, con sugerencias sobre cómo podría "
+"mejorar las condiciones de la escuela para todos los niños de Nigeria."
 
-# e1e1d358ab2942dcb4f5d6511ea253c6
+# d2183949fe264e9bab1dce2ad15c629c
 #: ../source/write.rst:228
 msgid ""
 "Children in Ban Samkha, Thailand used Write to share ideas with their "
 "teachers, their families, and their community."
 msgstr ""
+"Los niños en Ban Samkha, Tailandia utilizan Escribir para compartir ideas "
+"con sus profesores, a sus familias y su comunidad."
 
-# 223c74cf8eb4451697b13665a4736c76
+# f01caddd9ae8415db46db0e6466bae72
 #: ../source/write.rst:230
 msgid ""
 "Children in Khairat, India use Write (and Record) to survey their village "
 "and compile a report to the community."
 msgstr ""
+"Los niños en Khairat, India uso Write (y Record) a la encuesta de su aldea y"
+" compilar un informe a la comunidad."
 
-# 07a79de488eb427f8afceb7e802ecee2
+# 5e8f367abfa749529230b06ad9901b21
 #: ../source/write.rst:232
 msgid ""
 "Children in Uruguay and Colombia are writing blog entries, also known as "
 "blogging. Blog entries are typically chronologically ordered essays or "
 "stories."
 msgstr ""
+"Los niños en Uruguay y Colombia están escribiendo entradas de blog, también "
+"conocido como los blogs. Entradas de blog son típicamente ordenados "
+"cronológicamente ensayos o cuentos."
 
-# d5207e79c3fc45099013640324c337f6
+# 53e95d73c7424151904c856eb429e67e
 #: ../source/write.rst:235
 msgid "Other learning activities"
-msgstr ""
+msgstr "Otras actividades de aprendizaje"
 
-# 9cad0255fa99490d8d39e750db3cb917
+# d9d2453a944d4dc29fea375637a357b2
 #: ../source/write.rst:237
 msgid "Start a school newspaper."
-msgstr ""
+msgstr "Iniciar un periódico de la escuela."
 
-# 708d92169718496f8fc01edc45f49bdc
+# 42b91f18d8014b96ad29fb730392c680
 #: ../source/write.rst:238
 msgid "Write an autobiography."
-msgstr ""
+msgstr "Escribir una autobiografía."
 
-# f5774bbc77464ead9eab7c9498f29d5e
+# 0786e2e48f484dff9e19ed1fd4e1a9e3
 #: ../source/write.rst:239
 msgid "Interview someone from your community."
-msgstr ""
+msgstr "Entrevista a alguien de su comunidad."
 
-# 36b7abbad93742c4a648bda2ab76ca48
+# 2e03989dfd6d4a6aaf5b6a9d6e597e02
 #: ../source/write.rst:240
 msgid "Write an article for the Wikipedia about your community."
-msgstr ""
+msgstr "Escribir un artículo para la Wikipedia acerca de su comunidad."
 
-# 6d1a5653a43b475b8ffc619255764668
+# b42571b7dead415b8de945e81ca9cab8
 #: ../source/write.rst:243
 msgid "Credits"
-msgstr ""
+msgstr "Créditos"
 
-# 4ec2a6268eb94941887d0cb533e19cc7
+# 2d8a2b7a8e254ccbbf93f45f5a30a429
 #: ../source/write.rst:245
 msgid ""
 "Write is based upon Abiword; the Sugar port was done by J.M. Maurer, Martin "
 "Sevior, Tomeu Vizoso and Robert Staudinger"
 msgstr ""
+"Escribir se basa en Abiword; . M. Maurer, Martin Sevior, Tomeu Vizoso y "
+"Robert Staudinger"

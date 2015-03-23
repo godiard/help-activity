@@ -1,0 +1,483 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# 212ba8981b9144d48e9cc23c56f2c387
+#: ../source/physics.rst:3
+msgid "Physics"
+msgstr "Física"
+
+# dc76b02ea6a24e74a44d3012843aa516
+#: ../source/physics.rst:6
+msgid "About"
+msgstr "Acerca de"
+
+# 8730f2fe93804fdc8e67a65f166e60b9
+#: ../source/physics.rst:10
+msgid ""
+"Physics is a physical world simulator and playground. You can add squares, "
+"circles, triangles, or draw your own shapes, and see them come to life with "
+"forces (think gravity, Newton!), friction (scrrrrape), and inertia (ahh, "
+"slow down!)."
+msgstr ""
+"La física es un simulador mundo físico y parque. Puede agregar cuadrados, "
+"círculos, triángulos, o dibujar sus propias formas, y verlas venir a la vida"
+" con las fuerzas (pensar la gravedad, Newton!), Fricción (scrrrrape), y la "
+"inercia (ahh, disminuya la velocidad!)."
+
+# 25e0705612c341068cfcc33f0d950bea
+#: ../source/physics.rst:13
+msgid "Getting to know the tools"
+msgstr "Conocer las herramientas"
+
+# 00e1814a23d14d75a352b00c1f936984
+#: ../source/physics.rst:17
+msgid ""
+"This image shows all the tools used for creating objects. Reference the "
+"number shown below the tool to learn what it does."
+msgstr ""
+"Esta imagen muestra todas las herramientas utilizadas para crear objetos. "
+"Haga referencia al número que aparece debajo de la herramienta para aprender"
+" lo que hace."
+
+# bf6ac4de505b4e5eb9a823850afe7797
+#: ../source/physics.rst:20
+msgid "Magic Pen Tool:"
+msgstr "Magia herramienta Pluma:"
+
+# 197552469ede41db8176ded550369892
+#: ../source/physics.rst:20
+msgid ""
+"Draw anything and it will appear in the canvas. You can use it to create "
+"custom shapes, or a surface. Like a slope."
+msgstr ""
+"Dibujar cualquier cosa y como aparecerá en el lienzo. Se puede utilizar para"
+" crear formas personalizadas, o una superficie. Como una pendiente."
+
+# 6e893ee52cb148f9abdcde8722b24d8e
+#: ../source/physics.rst:23
+msgid "Circle Tool:"
+msgstr "Herramienta Círculo:"
+
+# 9c6fa9d6425244d38b75996e308a06fb
+#: ../source/physics.rst:23
+msgid ""
+"You can make circles with it, just drag. Try rolling a circle down a slope."
+msgstr ""
+"Usted puede hacer círculos con ella, sólo tienes que arrastrar. Trate de "
+"rodar un círculo por una pendiente."
+
+# 2b8162b044d04b579907b42039f014a3
+#: ../source/physics.rst:26
+msgid "Triangle Tool:"
+msgstr "Triángulo de la herramienta:"
+
+# 98d65443a72b402791ddc65d904525cd
+#: ../source/physics.rst:26
+msgid ""
+"You can make equilateral triangles (all sides equal) with this tool. Try "
+"making a seesaw by combining a triangle and a rectangle (described below)."
+msgstr ""
+"Usted puede hacer triángulos equiláteros (todos los lados iguales) con esta "
+"herramienta. Trate de hacer un balancín mediante la combinación de un "
+"triángulo y un rectángulo (descrito a continuación)."
+
+# 4be72bea49b8450abe651adc9f782faa
+#: ../source/physics.rst:29
+msgid "Rectangle Tool:"
+msgstr "Rectangle Tool:"
+
+# 0218056ef7ab425fa98774823dbe676b
+#: ../source/physics.rst:29
+msgid "For making rectangles."
+msgstr "Para hacer rectángulos."
+
+# 8c7d29bf02ec4ecabb288671ba45e7ba
+#: ../source/physics.rst:32
+msgid "Polygon Tool:"
+msgstr "Polygon Tool:"
+
+# fb0d38fff5144ef2a1a81208375ff373
+#: ../source/physics.rst:32
+msgid ""
+"You can make multi-sided shapes with this tool. Drag the mouse, then click "
+"on place where the vertices of the polygon should be. after you are "
+"finished, click in the circle surrounding the first dot you drew and the "
+"shape will be drawn."
+msgstr ""
+"Puede hacer formas múltiples caras con esta herramienta. Arrastre el ratón, "
+"a continuación, haga clic en el lugar donde los vértices del polígono deben "
+"ser. después de que haya terminado, haga clic en el círculo que rodea el "
+"primer punto que dibujó y la forma se dibujará."
+
+# 5a08a89b56ca4a9bb955efe296deecc8
+#: ../source/physics.rst:39
+msgid "Grab Tool:"
+msgstr "Coge la herramienta:"
+
+# b49378e514e44a57a46ce69177cfab50
+#: ../source/physics.rst:35
+msgid ""
+"You can move objects around with this tool. You can use it even when the "
+"game is running: Try grabbing an object and moving it around. It can be "
+"really fun."
+msgstr ""
+"Puede mover objetos con esta herramienta. Se puede utilizar incluso cuando "
+"el juego está en marcha: Trate de agarrar un objeto y cambiarlo de sitio. "
+"Puede ser muy divertido."
+
+# 82fbbb900dfe4ced9cfcdce9f1929a09
+#: ../source/physics.rst:37
+msgid ""
+"When the game is paused, you can use dragging to move objects with more "
+"precision. You can also drag pins and motors. When you select the grab tool,"
+" the pins and motors will become bigger so that you can easily hold and "
+"drag."
+msgstr ""
+"Cuando se detuvo el juego, puede utilizar arrastrar para mover objetos con "
+"más precisión. También puedes arrastrar alfileres y motores. Al seleccionar "
+"la herramienta de agarre, los pasadores y los motores serán más grandes para"
+" que pueda sostener y arrastrar fácilmente."
+
+# e3db7953d412404bb80d5010d00f34e7
+#: ../source/physics.rst:39
+msgid ""
+"**ProTip**: You can move motors and pins from one object to another. Also, "
+"moving them out of the body and dropping them in empty space deletes them."
+msgstr ""
+"** Protip **: Puede mover los motores y los pasadores de un objeto a otro. "
+"También, moverlos fuera del cuerpo y soltándolos en el espacio vacío que "
+"elimina."
+
+# 937fb0401b3c4d65bd4577ec83a2f0a1
+#: ../source/physics.rst:42
+msgid "Motor Tool:"
+msgstr "Herramienta de Motor:"
+
+# 58e3731fe9114c3b95345b7055ab54a1
+#: ../source/physics.rst:42
+msgid ""
+"With this tool, you can place a motor on an object. The object will then "
+"start rotating around that point. You can also change the speed with which "
+"it rotates, as will be explained in the Palette section."
+msgstr ""
+"Con esta herramienta, se puede colocar un motor en un objeto. El objeto "
+"entonces comenzará a girar alrededor de ese punto. También puede cambiar la "
+"velocidad con la que gira, como se explicará en la sección Paleta."
+
+# 88470556df094838b48da76b7769ad12
+#: ../source/physics.rst:45
+msgid "Pin Tool:"
+msgstr "Pin de la herramienta:"
+
+# e0ac826b0a794c32b11b2afb70ab136c
+#: ../source/physics.rst:45
+msgid ""
+"This tool allows you to make objects stick to the background and not move "
+"around, very much like pinning a paper to a clipboard. Just click where you "
+"want to place a pin."
+msgstr ""
+"Esta herramienta le permite hacer objetos se adhieren a un segundo plano y "
+"no moverse, muy parecido a fijar un papel a un portapapeles. Simplemente "
+"haga clic en la que desee colocar un pin."
+
+# 5ede02b7d92e4820a847ef066c0cafef
+#: ../source/physics.rst:48
+msgid "Joint Tool:"
+msgstr "Herramienta conjunta:"
+
+# dd9c6c9655e1454a8722b8a176f9e364
+#: ../source/physics.rst:48
+msgid ""
+"With this tool you can attach objects to other objects. Click on the point "
+"at which you want to attach the joint in the first object and drag the mouse"
+" over to the point at which you want the joint to end on the second object. "
+"Done!"
+msgstr ""
+"Con esta herramienta se puede adjuntar objetos a otros objetos. Haga clic en"
+" el punto en el que desea adjuntar la articulación en el primer objeto y "
+"arrastre el ratón sobre el punto en el que desea que la articulación se "
+"termina en el segundo objeto. Hecho!"
+
+# 2f3517209e1b4c7c93a7318774a53146
+#: ../source/physics.rst:51
+msgid "Rope Tool:"
+msgstr "Cuerda de la herramienta:"
+
+# 319afa2bf70a431daeafc21f2c411faa
+#: ../source/physics.rst:51
+msgid ""
+"Joints are like iron bars, they cannot bend. If you need rope, this tool "
+"does it for you. Just click and drag to make the rope. Be careful though, "
+"removing ropes once they have been made can be difficult."
+msgstr ""
+"Las articulaciones son como barras de hierro, que no pueden doblar. Si usted"
+" necesita la cuerda, esta herramienta lo hace por usted. Basta con hacer "
+"clic y arrastrar para hacer la cuerda. Tenga cuidado sin embargo, la "
+"eliminación de cuerdas, una vez que se han hecho puede ser difícil."
+
+# 8e846e46989343ad82d8da9e943f71f7
+#: ../source/physics.rst:54
+msgid "Trace Tool:"
+msgstr "Trazar herramienta:"
+
+# e9a58625dec44a5ea8ca5eed348e2490
+#: ../source/physics.rst:54
+msgid ""
+"Want to see how and where an object is moving? Put a tracer on it! Select "
+"this tool and click on the point on the object you want to trace. You can "
+"delete a tracer by left clicking with the destroy tool (below)"
+msgstr ""
+"¿Quieres ver cómo y dónde se mueve un objeto? . Puede eliminar un marcador "
+"haciendo clic izquierdo con la herramienta de destruir (abajo)"
+
+# 7d58372858e74e36ad10c049bf78429c
+#: ../source/physics.rst:58
+msgid "Destroy Tool:"
+msgstr "Destruya la herramienta:"
+
+# 9f5e163e131c44ea943b3aa55f806426
+#: ../source/physics.rst:57
+msgid ""
+"Select this tool and drag to leave a trail of destruction behind! You not "
+"only use this tool to destroy objects, but also pins, motors and tracers. A "
+"single left click deletes one pin/motor/tracer on the object. Since ropes "
+"are just small balls joined with small joints, you can try deleting them "
+"too, but it takes time and is mildly annoying. Therefore try to make rope "
+"only when you are sure you want it."
+msgstr ""
+"Seleccione esta herramienta y arrastre para dejar un rastro de destrucción "
+"detrás! . Un solo clic izquierdo borra un pin / motor / trazador en el "
+"objeto. Desde cuerdas son sólo pequeñas bolas unidas con articulaciones "
+"pequeñas, puede intentar borrarlos también, pero toma tiempo y es algo "
+"molesto. Por lo tanto, tratar de hacer sólo la cuerda cuando esté seguro de "
+"que desea que."
+
+# efa60c792ebb4610a574800b2bab8782
+#: ../source/physics.rst:60
+msgid ""
+"**ProTip**: If you've drawn with a tool before and want multiple copies of "
+"the same shape, just do a left-click and the same object with be drawn "
+"again. Try it with the Rectangle tool! Draw a square and then left click "
+"again, you'll get another copy of the square."
+msgstr ""
+"** Protip **: Si has dibujado con una herramienta antes y desea varias "
+"copias de la misma forma, acaba de hacer un clic izquierdo y el mismo objeto"
+" con redactarse de nuevo. Prueba con la herramienta Rectángulo! ."
+
+# 35cecab5bdff4dcd9259b991290a5d5d
+#: ../source/physics.rst:63
+msgid "Other cool features"
+msgstr "Otras características interesantes"
+
+# 0b3ea448f80540e1b4205057480e5e91
+#: ../source/physics.rst:67
+msgid ""
+"Using this button, you can erase everything from the canvas. Careful, you "
+"cannot undo this!"
+msgstr ""
+"Con este botón, puede borrar todo, desde el lienzo. Cuidado, no se puede "
+"deshacer esto!"
+
+# 8d7eb643944545c5b45f978c14199a40
+#: ../source/physics.rst:71
+msgid "This button allows you to delete all trace marks on the canvas."
+msgstr "Este botón le permite borrar todas las marcas de traza en el lienzo."
+
+# f2ee6f1b26f0471b992f17a2c5fb5cfd
+#: ../source/physics.rst:76
+msgid ""
+"These two buttons allow you to pause or start the game. The first button "
+"makes the game start again after a pause and the second stops it. These are "
+"ultra useful while building complicated machines, which you cannot build "
+"while the machine is running."
+msgstr ""
+"Estos dos botones le permiten pausar o iniciar el juego. El primer botón "
+"hace que el juego comience de nuevo después de una pausa, y el segundo lo "
+"detiene. Estos son ultra útil mientras que la construcción de máquinas "
+"complicadas, que no se puede construir, mientras que la máquina está en "
+"funcionamiento."
+
+# 0ac838711f2c4d8bab480a142b47ee1f
+#: ../source/physics.rst:79
+msgid "All of the objects have palette menus to adjust object properties:"
+msgstr ""
+"Todos los objetos tienen menús de paleta para ajustar las propiedades del "
+"objeto:"
+
+# 073ca449264943c69f9c8e301ec47b43
+#: ../source/physics.rst:83
+msgid "Mass"
+msgstr "Masa"
+
+# ae3c58da91cc41a3a61ad760a50666c9
+#: ../source/physics.rst:84
+msgid "feather, wood, and anvil represent light to dense"
+msgstr "pluma, madera y yunque representan la luz a densa"
+
+# cc4871214241416b8a6275fad807f84d
+#: ../source/physics.rst:85
+msgid "Bounciness"
+msgstr "De rebote"
+
+# f67b051b93a148b69f7fd66ac66515af
+#: ../source/physics.rst:86
+msgid ""
+"basketball, baseball, and bowling ball represent very bouncy to inelastic"
+msgstr ""
+"baloncesto, béisbol y bola de bowling representan muy animoso para "
+"inelástica"
+
+# c35cc88b40e34b0bba0e8eecff08a137
+#: ../source/physics.rst:88
+msgid "Friction"
+msgstr "Fricción"
+
+# 902b448cb9f6458da86ec34c579d39ca
+#: ../source/physics.rst:88
+msgid ""
+"ice skate, shoe, and sneaker represent low to high coefficient of friction"
+msgstr ""
+"patinar sobre hielo, zapato, zapatilla de deporte y representan menor a "
+"mayor coeficiente de fricción"
+
+# 4f1eb05a3d1c493f95c2a69780a3a52b
+#: ../source/physics.rst:92
+msgid ""
+"The motor has a palette to set speed (fast and slow) and direction (counter-"
+"clockwise and clockwise)"
+msgstr ""
+"El motor tiene una gama de colores para ajustar la velocidad (rápido y "
+"lento) y dirección (hacia la izquierda y hacia la derecha)"
+
+# 2b79ca511835487491702968abc6af70
+#: ../source/physics.rst:96
+msgid ""
+"The chain has a palette to set the coarseness and weight of the chain "
+"elements"
+msgstr ""
+"La cadena tiene una paleta para establecer la tosquedad y el peso de los "
+"elementos de la cadena"
+
+# a10da7eb7b1345889564f597184c9daf
+#: ../source/physics.rst:99
+msgid "Ideas to try"
+msgstr "Ideas para tratar"
+
+# 424a606f655244958281fa50ecfc1da1
+#: ../source/physics.rst:101
+msgid "Here are some ideas you could try:"
+msgstr "Aquí están algunas ideas que usted podría intentar:"
+
+# 143071f57bd5480db2d8e3adb8120d37
+#: ../source/physics.rst:103
+msgid "Build a catapult to simulate Angry Birds"
+msgstr "Construir una catapulta para simular Angry Birds"
+
+# ee72705baf1b4361bfd17a9d801e3703
+#: ../source/physics.rst:104
+msgid ""
+"Build a machine that sorts different sized balls in to two buckets, large "
+"and small, with no ball jams."
+msgstr ""
+"Construir una máquina que clasifica diferentes bolas de tamaño en dos cubos,"
+" grandes y pequeños, sin atascos de bolas."
+
+# 0720ea3b763f4b9e9c9e4b99e90b5819
+#: ../source/physics.rst:105
+msgid ""
+"A cyclic mechanism for lifting balls from the bottom of the screen to the "
+"top, again and again."
+msgstr ""
+"Un mecanismo cíclico para la elevación de las bolas desde la parte inferior "
+"de la pantalla a la parte superior, una y otra vez."
+
+# f42e8ebc356b4764b43f4ece1f761034
+#: ../source/physics.rst:106
+msgid "Try dropping 2 different mass objects at the same time."
+msgstr "Trate de caer 2 objetos de masa diferentes al mismo tiempo."
+
+# 984fbcb5f5264c2d883058cf85783a80
+#: ../source/physics.rst:107
+msgid "Experiment with pendulums of different lengths and masses."
+msgstr "Experimente con péndulos de diferentes longitudes y masas."
+
+# f27e67c763fa4de69bc8728576e09579
+#: ../source/physics.rst:108
+msgid ""
+"Ping pong, can you make a device that hits a ball back and forth across the "
+"screen?"
+msgstr ""
+"Ping pong, se puede hacer un dispositivo que golpea una pelota de un lado a "
+"otro de la pantalla?"
+
+# 5dbea21f5f3b4d3bb517f65ab689c0dc
+#: ../source/physics.rst:109
+msgid "Try building a mechanical binary clock."
+msgstr "Intenta construir un reloj binario mecánico."
+
+# 9640d4ba30ab44339a77456ba557f072
+#: ../source/physics.rst:110
+msgid "Convert rotation into parallel motion using pistons."
+msgstr "Convertir la rotación en pistones en movimiento usando paralelas."
+
+# b8113a313b52479c9811b0c534fb5857
+#: ../source/physics.rst:111
+msgid ""
+"Experiment with touching one motorised circle against one pinned circle of "
+"various sizes."
+msgstr ""
+"Experimente con tocar un círculo motorizado contra un círculo cubrió de "
+"varios tamaños."
+
+# 2ad05fc6063648e2bd7b4bb5bb2754ae
+#: ../source/physics.rst:112
+msgid "Try building a rag-doll puppet and make it dance in a convincing way."
+msgstr ""
+"Trate de construir una marioneta de trapo y hacer que bailar de una manera "
+"convincente."
+
+# 1475544937c241049e3fafbb69ae7404
+#: ../source/physics.rst:113
+msgid "Use just links and circles to make a structurally sound Eiffel Tower."
+msgstr ""
+"Utilice sólo enlaces y círculos para hacer una estructuralmente sólida Torre"
+" Eiffel."
+
+# 20841f21fd7640cf8286d6f2cfcfc638
+#: ../source/physics.rst:114
+msgid "Try building a ratchet mechanism."
+msgstr "Intenta construir un mecanismo de trinquete."
+
+# ecd7c4b0d6204be8a3f132392b262464
+#: ../source/physics.rst:115
+msgid ""
+"Try building an analogue clock face where the min hand goes around 60 times "
+"for each hour."
+msgstr ""
+"Intenta construir un reloj analógico rostro donde la mano min va alrededor "
+"de 60 veces por cada hora."
+
+# 6de3522fd9ae40f59726a3b395ed8dbb
+#: ../source/physics.rst:116
+msgid ""
+"Modify the program itself: `Modifying Physics "
+"<http://wiki.sugarlabs.org/go/Activity_Team/Modifing_an_Activity#Modifying_Physics>`_"
+msgstr ""
+"Modificar el programa en sí: `Modificación Física <http: // wiki. sugarlabs."
+" org / go / Activity_Team / Modifing_an_Activity # Modifying_Physics> `_"

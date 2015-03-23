@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,45 +17,49 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# caf88ba527864a0ca2c08f7cec4b59d0
+# 5fd8599971184b06888b34740020ff83
 #: ../source/hardware_evolution.rst:3
 msgid "Hardware evolution"
-msgstr ""
+msgstr "Evolución Hardware"
 
-# e1f1f1821d944fb99a7b0f3a0ccb9d4f
+# 281a61906f5947d89810479061c1d649
 #: ../source/hardware_evolution.rst:6
 msgid "Hardware Evolution 2008 - 2012"
-msgstr ""
+msgstr "Evolución Hardware 2008 - 2012"
 
-# efbdff56850b4ee0ba294b5adb84ed48
+# 7d4e195311924abc91a7263d6751cab8
 #: ../source/hardware_evolution.rst:8
 msgid ""
 "Although the XO has continued to look pretty much the same on the outside, "
 "the electronics inside have been changing. For details of the differences, "
 "refer to:"
 msgstr ""
+"Aunque la XO ha continuado buscando más o menos la misma en el exterior, la "
+"electrónica interior han ido cambiando. Para detalles de las diferencias, "
+"consulte:"
 
-# e3cbb4b22aab4d81b5ddaca2e1f8f9fe
+# e41f268102ec40499ffafc74a5308d2e
 #: ../source/hardware_evolution.rst:10
 msgid "http://wiki.laptop.org/go/Hardware_specification for the XO 1.0"
 msgstr ""
+"http: // wiki. portátil. org / go / Hardware_specification para la XO 1. 0"
 
-# f3606c5347e348fd9c732dfa8489b61b
+# c769064569e140529448aaf5b1d77ed7
 #: ../source/hardware_evolution.rst:12
 msgid "http://wiki.laptop.org/go/Hardware_specification_1.5"
-msgstr ""
+msgstr "http: // wiki. portátil. org / go / Hardware_specification_1. 5"
 
-# e00d8b45adc949adb8ac12cc4b710257
+# 1718442d80e9484a9a243dd5a88db23f
 #: ../source/hardware_evolution.rst:14
 msgid "http://wiki.laptop.org/go/XO-1.75"
-msgstr ""
+msgstr "http: // wiki. portátil. org / go / XO-1. 75"
 
-# 0c0af37104e24cdd85b8681bb9baabeb
+# 2d8963fee24341e68c92ea18498474e5
 #: ../source/hardware_evolution.rst:16
 msgid "http://wiki.laptop.org/go/XO-4"
-msgstr ""
+msgstr "http: // wiki. portátil. org / go / XO-4"
 
-# 177232dfca9a46a6a29edc4a566ac900
+# 3eff3ded4f004d9d9b59c4356b54117c
 #: ../source/hardware_evolution.rst:18
 msgid ""
 "To some extent, the changes were made to keep using high volume parts, and "
@@ -64,113 +68,122 @@ msgid ""
 "50%. With power management improvements, this permits the XO to last more "
 "than 3.5 hours."
 msgstr ""
+"Hasta cierto punto, se hicieron los cambios para mantener el uso de piezas "
+"de gran volumen, y mejorar el rendimiento. El cambio de 1. 5 a 1. 75 implicó"
+" un cambio del procesador de x86 a armar, y una reducción en el consumo de "
+"energía de alrededor de 50%. Con las mejoras de administración de energía, "
+"esto permite que la XO para durar más de 3. 5 horas."
 
-# 638d0283cd1f4ce0962b44e2e1d68e37
+# 0752e97ec0044789acae813e1ae7fd7d
 #: ../source/hardware_evolution.rst:20
 msgid ""
 "XO-4 is available in two models, XO-4 and XO-4 Touch. XO-4 provides multi "
 "touch input on the display."
 msgstr ""
+"XO-4 está disponible en dos modelos, XO-4 y XO-4 Touch. XO-4 ofrece multi "
+"toque de entrada en la pantalla."
 
-# d4bd69f2ce9341c8a21b0a2a390f04f0
+# a8c5bd2527084c3ea5cf0208a667d780
 #: ../source/hardware_evolution.rst:22
 msgid ""
 "As you can see from the \"boot time\" comparison, lower power has not been "
 "at the expense of decreased performance."
 msgstr ""
+"Como se puede ver en la comparación \"tiempo de inicio\", una energía más "
+"baja no ha sido a costa de una disminución del rendimiento."
 
-# a31a06b770784238868633822c0bb963
+# 1995f230625142febdfe3f1eb56026f3
 #: ../source/hardware_evolution.rst:25
 msgid "Version"
-msgstr ""
+msgstr "Versión"
 
-# 9b6b18ce73534d2982c3f2be5b06e14a
+# baf3f0622dd442dba99903266c64f75a
 #: ../source/hardware_evolution.rst:25
 msgid "Hard Disk"
-msgstr ""
+msgstr "Disco duro"
 
-# 9d0999355ee1448f9c50a50d0aca9c9f
+# a7d7df9d7d2c44a5a1e006efd2e91945
 #: ../source/hardware_evolution.rst:25
 msgid "Memory"
-msgstr ""
+msgstr "Memoria"
 
-# fa35eb81d08348109890d8f85e331b57
+# b18615e8d00c4d2fabcf676d51d3a0a6
 #: ../source/hardware_evolution.rst:25
 msgid "Boot Time"
-msgstr ""
+msgstr "El tiempo de arranque"
 
-# cf7f52e5b4f34c0bad516f655312139d
+# deadde5a43b64abf9e2468eb93eb6d9f
 #: ../source/hardware_evolution.rst:27
 msgid "XO 1.0"
-msgstr ""
+msgstr "XO 1. 0"
 
-# a07c4aa415ad4719b33ed747666d320f
+# 546242f71653411abee62d4854ccda9f
 #: ../source/hardware_evolution.rst:27
 msgid "1 GB"
-msgstr ""
+msgstr "1 GB"
 
-# c1958fde6ae34263abed37f55ffb9ef2
+# e426d77a7dd54c0b8702015d96ac4087
 #: ../source/hardware_evolution.rst:27
 msgid "256 MB"
-msgstr ""
+msgstr "256 MB"
 
-# 6d15ccf1d23e4381bf63e075f4a38a3b
+# ed667f1be98b416e87e93161ae72d1ca
 #: ../source/hardware_evolution.rst:27
 msgid "76 s"
-msgstr ""
+msgstr "76 s"
 
-# e2111522582b4b7a8eefaf01f7a22106
+# 75fbbfcbc33c4565985472fb12c16b4e
 #: ../source/hardware_evolution.rst:29
 msgid "XO 1.5"
-msgstr ""
+msgstr "XO 1. 5"
 
-# d3967de2f53b4bf68490b7ee73c5acfd
-# ec471e84b5b14efc999d2e188f9077ed
+# 52d0eefc22344480ae05057a1f127b8f
+# 93e1ce8b225a42619815bdb76c06b2db
 #: ../source/hardware_evolution.rst:29 ../source/hardware_evolution.rst:31
 msgid "4 GB"
-msgstr ""
+msgstr "4 GB"
 
-# 13c97e263099478db0485387980f2070
+# af507e44f7b6496b945b4e7874b78413
 #: ../source/hardware_evolution.rst:29
 msgid "1000 MB"
-msgstr ""
+msgstr "1000 MB"
 
-# c5bb98c34650495e8c87e55afeae6c1c
+# ea444eb1a4ca465fb3fc395d90d6beb1
 #: ../source/hardware_evolution.rst:29
 msgid "54 s"
-msgstr ""
+msgstr "54 s"
 
-# 09d19c576aa54ab483be6224b9c5239a
+# 942ed0d19aee42faa87a4a475c85f6d0
 #: ../source/hardware_evolution.rst:31
 msgid "XO-1.75"
-msgstr ""
+msgstr "XO-1. 75"
 
-# 8401368f6ba64b3ea95f14d743efced7
+# 093f924cb23341ca9a737906bb369e30
 #: ../source/hardware_evolution.rst:31
 msgid "512 MB"
-msgstr ""
+msgstr "512 MB"
 
-# 2b2ec9fc340c4de0b1e2638a19bb2aff
+# 6ec39dfa587c42a1a6c9bf06ae5677bf
 #: ../source/hardware_evolution.rst:31
 msgid "47 s"
-msgstr ""
+msgstr "47 s"
 
-# 8123de00a95b476abd1ca984ebb5a514
+# c2869ffc2be34933b240269a67a6f725
 #: ../source/hardware_evolution.rst:33
 msgid "XO-4"
-msgstr ""
+msgstr "XO-4"
 
-# 51d84b850a8e48b092e29bbcf1ed3955
+# bbe20cef88854b148156eefd099fcb2f
 #: ../source/hardware_evolution.rst:33
 msgid "4 or 8 GB"
-msgstr ""
+msgstr "4 u 8 GB"
 
-# 1fdd71e77b564bc6ab4c5c746a1c8067
+# 566171dbc9fa48c6bb01cfb4beb33a2c
 #: ../source/hardware_evolution.rst:33
 msgid "1 or 2 GB"
-msgstr ""
+msgstr "1 o 2 GB"
 
-# b661d5c90fee41b08acfa9e4259612b9
+# f12d3d3fbd634053868417b94e5f3d01
 #: ../source/hardware_evolution.rst:33
 msgid "38 s"
-msgstr ""
+msgstr "38 s"

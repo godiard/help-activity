@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,17 +17,17 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 4f3c82a4db884a41bc2d88898b7d315e
+# f56f6157b1a14bfc9665401bed15bdeb
 #: ../source/fototoon.rst:3
 msgid "FotoToon"
-msgstr ""
+msgstr "Foto Toon"
 
-# cf953678aefe43549f1aa44e1d74ec91
+# 3900d3c865e942c19d1c064c1e399196
 #: ../source/fototoon.rst:8
 msgid "About"
-msgstr ""
+msgstr "Acerca de"
 
-# 72bd2f6f78544419baaa2b4b2614201f
+# 394459377d724146934c1935d02b6428
 #: ../source/fototoon.rst:10
 msgid ""
 "The FotoToon Activity will allow you to create everything from a simple "
@@ -38,146 +38,199 @@ msgid ""
 "images of all kinds downloaded from the web. This could include photos, "
 "charts and graphs, maps, and the like."
 msgstr ""
+"El FotoToon actividad le permitirá crear de todo, desde una simple tira de "
+"\"comic\" a un documento largo determinar maneras ilustrado. Usted será "
+"capaz de importar muchos tipos de imágenes en los cristales de su proyecto y"
+" añadir burbujas de texto para ayudar a contar la historia. Usted puede "
+"utilizar las imágenes de fotos tomadas con la XO o importada de una cámara, "
+"dibujos hechos con actividades como pintura, e imágenes de todo tipo "
+"descargados de la web. Esto podría incluir fotos, cuadros y gráficos, mapas,"
+" etc.."
 
-# 51e369c6dd5143799d744cb292c26780
+# 92a7dae954c142bca20f071ceb6aa517
 #: ../source/fototoon.rst:12
 msgid ""
-"This introduction to FotoToon will show you how to get started with a simple "
-"4 panel project."
+"This introduction to FotoToon will show you how to get started with a simple"
+" 4 panel project."
 msgstr ""
+"Esta introducción a FotoToon le mostrará cómo empezar con un simple proyecto"
+" 4 Panel."
 
-# 57eb73515d424e7095dcefab8b7a9745
+# 03a952e890504fb0991a42949422da9e
 #: ../source/fototoon.rst:14
 msgid ""
-"FotoToon, like many other Sugar Activities, is often updated to fix \"bugs\" "
-"that users report. There was one update, from version 15 to version 16 "
+"FotoToon, like many other Sugar Activities, is often updated to fix \"bugs\""
+" that users report. There was one update, from version 15 to version 16 "
 "during the time this instruction chapter was written. By the time you use "
 "it, there may be others. The changes are usually minor and should not "
-"interfere with the usefulness of this information. Always try to be sure you "
-"are using the latest version."
+"interfere with the usefulness of this information. Always try to be sure you"
+" are using the latest version."
 msgstr ""
+"FotoToon, como muchas otras actividades de azúcar, a menudo se ha "
+"actualizado para corregir \"errores\" que reportan los usuarios. Había una "
+"actualización, desde la versión 15 a la versión 16 durante el tiempo en este"
+" capítulo instrucción fue escrito. En el momento en que lo utilice, puede "
+"haber otros. Los cambios son generalmente de menor importancia y no deben "
+"interferir con la utilidad de esta información. Siempre trate de asegurarse "
+"de que está utilizando la última versión."
 
-# 9dd5bb18463e4353bddc93928aa7218e
+# 8cd678ef4c92436f8d4ba9c514c5349d
 #: ../source/fototoon.rst:17
 msgid "Using FotoToon"
-msgstr ""
+msgstr "Utilizando FotoToon"
 
-# 75b7063e010443ff8b779cc37e0ab466
+# ad5c77409cf74a42acded8a604b52398
 #: ../source/fototoon.rst:20
 msgid "The Main FotoToon Toolbar"
-msgstr ""
+msgstr "El FotoToon Barra de herramientas principal"
 
-# d1c81c29df8e4bdcbe75ef5cca823dc1
+# 2f59ba10620049e4af51337ffa1aacb6
 #: ../source/fototoon.rst:24
 msgid ""
 "The FotoToon Toolbar has 9 icons including 3 with pulldown menus. The main "
-"FotoToon toolbar allows you to access many features of the Activity. Here is "
-"a description of what each of the icons will allow you to do:"
+"FotoToon toolbar allows you to access many features of the Activity. Here is"
+" a description of what each of the icons will allow you to do:"
 msgstr ""
+"La barra de herramientas FotoToon tiene 9 iconos los cuales 3 con menús "
+"desplegables. La barra de herramientas principal FotoToon le permite acceder"
+" a muchas características de la Actividad. He aquí una descripción de lo que"
+" cada uno de los iconos le permitirá hacer:"
 
-# 0e3979db0be04e079a66b55e85989085
+# 34403609816f4c6f80fbd57db8baa2c5
 #: ../source/fototoon.rst:26
 msgid ""
-"The FotoToon icon. When you hover your cursor over this icon you will open a "
-"small pulldown that allows you to export your work as an image or a book  "
+"The FotoToon icon. When you hover your cursor over this icon you will open a"
+" small pulldown that allows you to export your work as an image or a book  "
 "(pdf file). See below for more details."
 msgstr ""
+"El icono FotoToon. Al pasar el cursor sobre este icono se abrirá un pequeño "
+"menú desplegable que le permite exportar su trabajo como una imagen o un "
+"libro (archivo pdf). Vea a continuación para obtener más detalles."
 
-# a78900fd80bf421c9d38b9a2f4cd815d
+# 02509822e9cb4a57acc46d998892de4d
 #: ../source/fototoon.rst:27
 msgid ""
-"This icon allows you to view the content in full screen or presentation mode."
+"This icon allows you to view the content in full screen or presentation "
+"mode."
 msgstr ""
+"Este icono le permite ver el contenido en pantalla completa o modo de "
+"presentación."
 
-# 99e317d50837404b841d1017a2389f37
+# 34619a0bf83f4f00ae6e2405e8f40dba
 #: ../source/fototoon.rst:28
 msgid ""
 "The **Add Photo** icon. This icon allows you to add an image to your "
-"project. It can be a photo you take with the XO or digital camera, or import "
-"from the web. It can also be a picture, page, or project you create in "
+"project. It can be a photo you take with the XO or digital camera, or import"
+" from the web. It can also be a picture, page, or project you create in "
 "another Sugar Activity."
 msgstr ""
+"El ** Añadir foto ** icono. Este icono le permite añadir una imagen a su "
+"proyecto. Puede ser una foto que tome con la XO o una cámara digital, o la "
+"importación de la web. También puede ser una imagen, página o proyecto que "
+"cree en otra actividad Azúcar."
 
-# 4d2b8d2253e74efe98fb89248a78d7a2
+# 144ff490961f41929e2b250ab2de0b3a
 #: ../source/fototoon.rst:29
 msgid ""
-"The **Add a globe** icon. This allows you to add a globe. It is used to tell "
-"what the characters of your image is speaking. This also include some other "
-"icons such as whispher and think."
+"The **Add a globe** icon. This allows you to add a globe. It is used to tell"
+" what the characters of your image is speaking. This also include some other"
+" icons such as whispher and think."
 msgstr ""
+"El ** Añadir un globo ** icono. Esto le permite añadir un globo. Se utiliza "
+"para decir lo que los personajes de su imagen está hablando. Esto también "
+"incluye algunos otros iconos como whispher y pensar."
 
-# 82084e9af9224c81a4230c65effba5b4
+# ba2a9fc58fd84457a6ca396b62f41511
 #: ../source/fototoon.rst:30
 msgid ""
 "The **Choose a movement line** icon. This can be used to insert some other "
 "icons such as highlight and idea to the image."
 msgstr ""
+"El ** Elija una línea de movimiento ** icono. Esto se puede utilizar para "
+"insertar algunos otros iconos como resalte y idea a la imagen."
 
-# 044404edb6e847c3b659812b9ab42cce
+# 95678f606ded43d5996e8094961cf0f4
 #: ../source/fototoon.rst:31
 msgid ""
 "The **Rotate** icon. This allows you to rotate the selected object in the "
 "clockwise direction in 90 degrees for each click."
 msgstr ""
+"El ** ** Girar icono. Esto le permite rotar el objeto seleccionado en la "
+"dirección hacia la derecha en 90 grados por cada clic."
 
-# c60cc1c6b290483fb952fc60aea9119e
+# efa0e4a193824a749e2f8c9c5dc1e799
 #: ../source/fototoon.rst:32
 msgid "The **Delete** icon. This allows you to delete the selected object."
 msgstr ""
+"El ** ** Eliminar icono. Esto le permite eliminar el objeto seleccionado."
 
-# 70e95977a3b74d7f9cd94785fa057343
+# 1939010e533348af96c5d63f37c09420
 #: ../source/fototoon.rst:33
 msgid ""
 "This icon allows you to change the text properties of what you have typed. "
 "See below for more details."
 msgstr ""
+"Este icono le permite cambiar las propiedades del texto de lo que ha "
+"escrito. Vea a continuación para obtener más detalles."
 
-# 084155a0a9b54c068c574cad2c9f81c5
+# 76a05378e7da4f789889573cbf9aa85b
 #: ../source/fototoon.rst:34
 msgid ""
 "The familiar stop-sign icon is one way to stop the FotoToon Activity. You "
 "can also use the keyboard shortcut: ctrl-Q."
 msgstr ""
+"El icono de señal de stop familiar es una manera de detener la actividad "
+"FotoToon. También puede utilizar el atajo de teclado: Ctrl-Q."
 
-# 12a171ab3aa6412194cf7d47ae0956bf
+# 22d8dc9471454630a9c876b07c447e36
 #: ../source/fototoon.rst:36
 msgid ""
 "**Title:** box allows you to give a name to your project. Click on it and "
 "replace the content with the name you wish for your work."
 msgstr ""
+"** Título: ** cuadro le permite dar un nombre a su proyecto. Haga clic en él"
+" y reemplazar el contenido con el nombre que desee para su trabajo."
 
-# 563ff96ac4b74beb842db6603fa7ac10
-# 1e56b055498e4b03a1ad81a67ecad89a
+# 3f086c12d1234cb0b0f16e383fa6b375
+# d09076db0129418cb25b2a9df7021c28
 #: ../source/fototoon.rst:39 ../source/fototoon.rst:196
 msgid "The Export Pulldown"
-msgstr ""
+msgstr "El desplegable Exportación"
 
-# fa3e62eca7f0485cb192de6692b2e182
-# e2f6f3e8b2564d53a767d63b4c6ddfc2
+# 80c9440fef744dcfa0b9fb111a8bf1c2
+# 89d9379ae3f64fba88d017844d7e95c1
 #: ../source/fototoon.rst:43 ../source/fototoon.rst:200
 msgid ""
 "1a- This little panel allows you to name your project before you export it "
-"as an image. If you do nothing, it will appear in the Journal as, \"FotoToon "
-"as image.\" If you give it a name, such as \"My Project-1\" before exporting "
-"it will appear in the Journal as \"My Project-1 as image\". This will make "
-"it easier to find later in the Journal. Just erase the FotoToon label and "
-"replace it with the title you want to use. If you forget to name it when "
-"saving, you can always go to the Journal and select and rename it."
+"as an image. If you do nothing, it will appear in the Journal as, \"FotoToon"
+" as image.\" If you give it a name, such as \"My Project-1\" before "
+"exporting it will appear in the Journal as \"My Project-1 as image\". This "
+"will make it easier to find later in the Journal. Just erase the FotoToon "
+"label and replace it with the title you want to use. If you forget to name "
+"it when saving, you can always go to the Journal and select and rename it."
 msgstr ""
+"1a- Este pequeño panel le permite nombrar su proyecto antes de exportarlo "
+"como imagen. Si no hace nada, aparecerá en el Diario como \"FotoToon como "
+"imagen. \"Si le das un nombre, como\" Mi Proyecto-1 \"antes de exportarlo "
+"aparecerá en el Diario como\" Mi Proyecto-1 como una imagen \". Esto hará "
+"que sea más fácil encontrar más adelante en el Diario. Simplemente borrar la"
+" etiqueta FotoToon y reemplazarlo con el título que desea utilizar. Si se "
+"olvida de darle un nombre al guardar, siempre se puede ir a la Revista y "
+"seleccionar y cambiar su nombre."
 
-# fcdd31d4f7524a10882898140c13ff6b
+# 6feac1118bf344629c388f7ed8c33b73
 #: ../source/fototoon.rst:45
 msgid "1b- This allows you to add a description to the journal entry."
-msgstr ""
+msgstr "1b- Esto le permite añadir una descripción a la entrada de diario."
 
-# 2db5cef5f1c04da988c0d639a8ac912d
-# 6bf04cfbce414f9e82d9373806e4e7c9
+# 499c921c7ab243f4a6c3cf240afe1b66
+# cb8cc50f487947b9be46a78336117549
 #: ../source/fototoon.rst:47 ../source/fototoon.rst:204
 msgid "1c- This greyed out icon for home view is currently inactive."
-msgstr ""
+msgstr "1c- Este icono en gris para vista de inicio es actualmente inactivo."
 
-# 5c434b72d3a348dab33cca701a96003b
-# 8ef841add8f94b1ab1dc1356211cedbf
+# c874a5cc1e8a460986a27fe2d7389f53
+# b6cf7e294d5841b9b92e9cfcf3c70c32
 #: ../source/fototoon.rst:49 ../source/fototoon.rst:206
 msgid ""
 "1d- Click on this icon to export your project as an image. The export will "
@@ -186,9 +239,14 @@ msgid ""
 "make one by using the usual alt-1 (press the alt key and the 1 key at the "
 "same time)."
 msgstr ""
+"1D Haga clic en este icono para exportar el proyecto como una imagen. La "
+"exportación sólo mostrará su proyecto. Las barras de herramientas y otras "
+"cosas en la pantalla no se incluirán. Si desea una captura de pantalla de "
+"toda la pantalla, usted puede hacer uno usando el habitual alt-1 (pulse la "
+"tecla Alt y la tecla 1 al mismo tiempo)."
 
-# be5da76c78b544c0b98aa7a8aa70996c
-# 76144f408bdf49558dcf730287a50698
+# 51fe88d605e54b2aa1e0d775350001db
+# dcb5c4961aa54e2ea1dd4f6bd3c40773
 #: ../source/fototoon.rst:51 ../source/fototoon.rst:208
 msgid ""
 "1e- Click this icon to export your project as an book. The export will just "
@@ -196,13 +254,17 @@ msgid ""
 "included. The book will be saved in PDF format. It can be viewed from Read "
 "Activity."
 msgstr ""
+"1e Haga clic en este icono para exportar el proyecto como un libro. La "
+"exportación sólo mostrará su proyecto. Las barras de herramientas y otras "
+"cosas en la pantalla no se incluirán. El libro se guarda en formato PDF. Se "
+"puede ver a partir de la actividad de lectura."
 
-# cf6fb22459fc483d94f0321190deb5c5
+# 1580b98e11ae4ef0adcefdd47e8870db
 #: ../source/fototoon.rst:54
 msgid "The View Pulldown"
-msgstr ""
+msgstr "La vista desplegable"
 
-# 722f7aa18609476bb675afc21a682400
+# ec1df013532e4d878bdfd24ffae217e6
 #: ../source/fototoon.rst:58
 msgid ""
 "2a- Click this to view your project in slideshow mode. It will allow you to "
@@ -210,83 +272,99 @@ msgid ""
 "the sides to navigate forward and backword in your slides. Click on the "
 "**slidshow** icon again to return to edit mode."
 msgstr ""
+"2A- Haga clic aquí para ver el proyecto en modo de presentación. Se le "
+"permitirá ver su diapositiva del proyecto por diapositiva. En la "
+"presentación, haga clic en las flechas de los laterales para navegar hacia "
+"adelante y backword en las diapositivas. Haga clic en el icono ** ** "
+"Slidshow de nuevo para volver al modo de edición."
 
-# 80a01901b791474bb5b2e8fbbb71199e
+# 1f965664ff614e8e852908263b2ae789
 #: ../source/fototoon.rst:60
 msgid ""
 "2b - Click this to work in full screen. This will hide the toolbar and thus "
 "you will have more space for your design. Once you are in the full screen "
-"mode, the same icon will appear on the top right corner of the window. Click "
-"that icon to return to the normal edit mode."
+"mode, the same icon will appear on the top right corner of the window. Click"
+" that icon to return to the normal edit mode."
 msgstr ""
+"2b - Haga clic en este para trabajar en pantalla completa. Esto ocultará la "
+"barra de herramientas y por lo tanto usted tendrá más espacio para el "
+"diseño. Una vez que esté en el modo de pantalla completa, el mismo icono "
+"aparecerá en la esquina superior derecha de la ventana. Haga clic en ese "
+"icono para volver al modo de edición normal,."
 
-# c26ae2a6173149cf82b651f5353c7954
+# d8dedb04cf6b4d8b9b72591fb28f7467
 #: ../source/fototoon.rst:63
 msgid "Add a globe menu"
-msgstr ""
+msgstr "Añadir un menú globo"
 
-# c9e62b13ced3489c94a0583ba5ab2590
+# fa0eb722faa2470db3144654234c2fd9
 #: ../source/fototoon.rst:67
 msgid "3a- You can use this to present an expression of exclamation."
-msgstr ""
+msgstr "3a- Usted puede usar esto para presentar una expresión de admiración."
 
-# 891b707dcdd547c9864785052c3a8e3f
+# 396b99f8cbf24a8884055900f0a64acb
 #: ../source/fototoon.rst:69
 msgid ""
 "3b- You can use this when some one (a character) in your projects whispers "
 "someting to another."
 msgstr ""
+"3b-Usted puede usar esto cuando alguien (un personaje) en sus proyectos "
+"susurra calle detrás a otro."
 
-# 9dfdc6d7a7b945ebac213c2eda6a0452
+# a8bd6f31c33e4eca8fd4eb3978a77023
 #: ../source/fototoon.rst:71
 msgid ""
 "3c- You can use this to express what the characters of your projects are "
 "speaking."
 msgstr ""
+"3c- Usted puede usar esto para expresar lo que los personajes de sus "
+"proyectos están hablando."
 
-# f09a9a40f6764d72a22fd78f78d4a30c
+# 8bf6b154feee4f428b8432645bdfd489
 #: ../source/fototoon.rst:73
 msgid "3d- You can use this to add a box to your project."
-msgstr ""
+msgstr "3d- Usted puede usar esto para añadir un cuadro a su proyecto."
 
-# 1f18db0c0c36454ebf32583aa0ced02c
+# 58676b40069049bd97c2fe1372f3690b
 #: ../source/fototoon.rst:75
 msgid ""
 "3e- You can use this to express that some character in your project are "
 "thinking."
 msgstr ""
+"3e- Usted puede usar esto para expresar que algún personaje en su proyecto "
+"están pensando."
 
-# 1be8e6180960469a948c452ecfbf4902
+# 1120de76c65b4c30bf7f2fb366fca748
 #: ../source/fototoon.rst:78
 msgid "Choose a movement line menu"
-msgstr ""
+msgstr "Elija un menú línea movimiento"
 
-# 681db3891147479cbabff0e16a12f3fc
+# a570dd6e3a0746a28925cce636e8fbca
 #: ../source/fototoon.rst:82
 msgid "4a- You can use this to add a highlight to your project."
-msgstr ""
+msgstr "4a- Usted puede usar esto para añadir un toque de luz a tu proyecto."
 
-# 8196cff3cead4dfeac95cccfcfe16560
+# 86127ea7802b4bdbaa43ab6fcafac58a
 #: ../source/fototoon.rst:84
 msgid "4b- You can use this to add straight lines to your project."
-msgstr ""
+msgstr "4b- Usted puede usar esto para añadir líneas rectas a su proyecto."
 
-# e82784ca35934662b517e371bfaf8af8
+# 7731b8c5b4404d91852483bec56739c5
 #: ../source/fototoon.rst:86
 msgid "4c- You can use this to add an idea to your project."
-msgstr ""
+msgstr "4c- Usted puede usar esto para añadir una idea para su proyecto."
 
-# f7ac5280b436423581ec91752c196a37
+# 950fab9eca7641429a7a37861982ff1e
 #: ../source/fototoon.rst:88
 msgid "4d- You can use this to add curves to your project."
-msgstr ""
+msgstr "4D- Usted puede usar esto para añadir curvas a su proyecto."
 
-# d7e1d0aea65d45d4acbf1aaf46713f16
+# ee16f9a8b45744f290859de19d9c72fb
 #: ../source/fototoon.rst:91
 msgid "The Text Pulldown"
-msgstr ""
+msgstr "El desplegable Texto"
 
-# 9919d6a655c140bbad5ca28e9bee67a8
+# 7df764e25887400aafc3667c1a77ee65
 #: ../source/fototoon.rst:95
 msgid ""
 "The Text Pulldown menu allows you to control the appearance of the text you "
@@ -294,50 +372,67 @@ msgid ""
 "bubble you are currently working on. You do not have to highlight the text "
 "to change it."
 msgstr ""
+"El menú desplegable de texto le permite controlar el aspecto del texto se "
+"agrega a su proyecto. En general, se aplican a todo en la caja o una burbuja"
+" que está trabajando actualmente en. Usted no tiene que resaltar el texto "
+"para cambiarlo."
 
-# ad1e8f6af921482796050ae6a62c07d7
+# 910595341cbb48d48bb65decea74a906
 #: ../source/fototoon.rst:97
 msgid ""
 "8a- Selecting this icon will change the text you are working on to Bold. "
 "Clicking it again reverts back to regular text,"
 msgstr ""
+"8a- La selección de este icono cambiará el texto que se está trabajando a "
+"Negrita. Al hacer clic de nuevo vuelve al texto normal,"
 
-# bfd59794e2054f2db5b62fdb8ce5d237
+# 11325da9c68947fea0fce194c7a2ead3
 #: ../source/fototoon.rst:99
 msgid ""
 "8b- Selecting this icon will change the text your are working on to Italics."
 msgstr ""
+"8b- La selección de este icono cambiará el texto que se esté trabajando a "
+"cursiva."
 
-# 5513fc7088db4a86a4188aae3f8ae0bb
+# b9450edbe60345e3b1d762b29a5d0629
 #: ../source/fototoon.rst:101
 msgid ""
 "Note: clicking on both of these icons, in any order, will give you Bold "
-"Italic text. Clicking both again, in any order, will get you back to regular "
-"text."
+"Italic text. Clicking both again, in any order, will get you back to regular"
+" text."
 msgstr ""
+"Nota: al hacer clic en estos dos iconos, en cualquier orden, le dará en "
+"negrita y cursiva. Al hacer clic en tanto otra vez, en cualquier orden, te "
+"llevará de nuevo a texto normal."
 
-# a168a1b41aa343849f40748f881871ea
+# f49a2726fc714dafa2eef17196e3ffa8
 #: ../source/fototoon.rst:103
 msgid ""
 "8c- Clicking on this icon will open the Text Color Palette. See below for "
 "information on how to use it."
 msgstr ""
+"8c- Al hacer clic en este icono se abrirá el texto Paleta de colores. Véase "
+"más abajo para obtener información sobre cómo usarlo."
 
-# 8b64feddd2c14d9ea39bdb0af08171b5
+# 4187cf2779074b1292abcf4d68794b4f
 #: ../source/fototoon.rst:105
 msgid ""
 "8d-  Clicking this will reduce the size of the text. The current size will "
 "be displayed just next to this icon."
 msgstr ""
+"8d- hacer clic en este reducirá el tamaño del texto. El tamaño actual se "
+"mostrará justo al lado de este icono."
 
-# d4c4b5d3d2f04d338596c99e733a4b08
+# 8cb1f07da7b84df084c555ee8fc43754
 #: ../source/fototoon.rst:107
 msgid ""
-"8e - Clicking this will increase the size of the text. The current size will "
-"be displayed just before the icon."
+"8e - Clicking this will increase the size of the text. The current size will"
+" be displayed just before the icon."
 msgstr ""
+"8e - Al hacer clic en esta aumentará el tamaño del texto. El tamaño actual "
+"se mostrará justo antes del icono."
 
-# 3dbb2e68f76b43e08daca46707d9bed0
+# 0503c67011e94d569db1dae97c573c0c
 #: ../source/fototoon.rst:109
 msgid ""
 "8f- This pull down offers a choice of different fonts, listed in "
@@ -345,38 +440,53 @@ msgid ""
 "anything. Be sure to test the font on your text to see if it looks the way "
 "you would like it to."
 msgstr ""
+"8f- Este desplegable ofrece una selección de diferentes fuentes, por orden "
+"alfabético. Algunos, como \"Palos Ding\" no producen nada en realidad. "
+"Asegúrese de probar la fuente en el texto para ver si se ve la forma en que "
+"le gustaría que."
 
-# e8d3068d3b964e73a2edbc2111d9b4c9
+# 042822329e314892896cc20582d5e175
 #: ../source/fototoon.rst:112
 msgid "The Color Palette Pulldown"
-msgstr ""
+msgstr "La paleta de colores desplegable"
 
-# 86a8558068aa423993daad1c38dae46b
+# d5a0ebde2f5f4f6ab02ed5b9def68a55
 #: ../source/fototoon.rst:116
 msgid ""
 "The Color Palette Pulldown allows you to choose the color of your font. It "
 "will apply to everything in the box or bubble but can vary from one box or "
-"bubble to the next as you choose. There are 12 preset colors you can use, or "
-"you can create a custom color by selecting one of the preset colors and "
+"bubble to the next as you choose. There are 12 preset colors you can use, or"
+" you can create a custom color by selecting one of the preset colors and "
 "dragging the sliders to give more or less Red, Green, or Blue in the "
 "selected color. The little circle at the top of the Color Palette shows the "
-"current color. When you are satisfied with the color you have selected/"
-"modified, click on the little circle to accept the chosen color and close "
-"the Color Palette. It may take a few seconds for the new color to appear in "
-"the text box. But, don't worry, it will!"
+"current color. When you are satisfied with the color you have "
+"selected/modified, click on the little circle to accept the chosen color and"
+" close the Color Palette. It may take a few seconds for the new color to "
+"appear in the text box. But, don't worry, it will!"
 msgstr ""
+"La paleta de colores desplegable le permite elegir el color de la fuente. Se"
+" aplicará a todo en la caja o una burbuja, pero puede variar de una caja o "
+"de burbujas a la siguiente como usted elija. Hay 12 colores predefinidos que"
+" se pueden utilizar, o puede crear un color personalizado mediante la "
+"selección de uno de los colores predefinidos y arrastrando los deslizadores "
+"para dar más o menos rojo, verde o azul en el color seleccionado. El pequeño"
+" círculo en la parte superior de la paleta de colores muestra el color "
+"actual. Cuando esté satisfecho con el color que ha seleccionado / "
+"modificados, haga clic en el pequeño círculo de aceptar el color elegido y "
+"cerrar la paleta de colores. Puede tomar unos segundos para que el nuevo "
+"color que aparezca en el cuadro de texto. Pero, no se preocupe, lo hará!"
 
-# 4e0251a57c064891a3d22af3601d09eb
+# a9270b6a00a347c99e04fd33232501bd
 #: ../source/fototoon.rst:119
 msgid "Learning with FotoToon"
-msgstr ""
+msgstr "Aprender con FotoToon"
 
-# 43300e6d35334b7886a943c0fe5f7215
+# a03a613a209949b8a492d22e18d08d6b
 #: ../source/fototoon.rst:122
 msgid "Plan Ahead"
-msgstr ""
+msgstr "Planifique con anticipación"
 
-# 8085135886d14bbaa8be2840f0d237ac
+# 90a2edb834b04a96aafd565a5c21641b
 #: ../source/fototoon.rst:124
 msgid ""
 "FotoToon can be used for a wide variety of learning activities, but the "
@@ -384,80 +494,127 @@ msgid ""
 "we will make a 4 panel page using 4 photos. This is a good way to get "
 "started since the page can be printed on a single page."
 msgstr ""
+"FotoToon se puede utilizar para una amplia variedad de actividades de "
+"aprendizaje, pero el proceso general es siempre similares. Para el proyecto "
+"de ejemplo de esta sección, vamos a hacer una página 4 panel con 4 fotos. "
+"Esta es una buena manera de empezar desde la página se puede imprimir en una"
+" sola página."
 
-# 332f4d31347e433ebddb1cfa2982d822
+# 422fe0b6d44e4d61aa8b0807268b71ab
 #: ../source/fototoon.rst:126
 msgid ""
 "Here are the general steps you need to complete before you build your first "
 "FotoToon project:"
 msgstr ""
+"Estos son los pasos generales que debe completar antes de construir su "
+"primer proyecto FotoToon:"
 
-# 8b7820af7a344f07aa375a4ebae32712
+# 5197750b96254d34ac03be296c0122bb
 #: ../source/fototoon.rst:128
 msgid ""
 "**Step One: Decide what your project will be about.** You can tell a story "
 "about anything. For example, it could be about your pets, your home, your "
 "family, your town, or, even some photos you took at a party. Any topic is "
-"fine for our first project. The sample project will be about \"Healthy Snacks"
-"\" and the photos will be pictures of food."
+"fine for our first project. The sample project will be about \"Healthy "
+"Snacks\" and the photos will be pictures of food."
 msgstr ""
+"** Primer paso: Decida lo que su proyecto será de aproximadamente. ** Se "
+"puede contar una historia acerca de cualquier cosa. Por ejemplo, podría ser "
+"de sus mascotas, su hogar, su familia, su ciudad, o, incluso algunas fotos "
+"que tomó en una fiesta. Cualquier tema está muy bien para nuestro primer "
+"proyecto. El proyecto de ejemplo será sobre \"Healthy Snacks\" y las fotos "
+"serán las imágenes de alimentos."
 
-# f13b91640bc141d080f93516748743f0
+# ce751c09d6fa435d8af0f3ca98a88ccf
 #: ../source/fototoon.rst:130
 msgid ""
-"**Step Two: Make a plan.** Before you begin you should make a plan that will "
-"guide you through the construction of your project. Some people like to draw "
-"a little sketch of each pane showing what will be in the picture and a "
+"**Step Two: Make a plan.** Before you begin you should make a plan that will"
+" guide you through the construction of your project. Some people like to "
+"draw a little sketch of each pane showing what will be in the picture and a "
 "suggestion for what words will be added. If you like the panes can each be "
-"on a separate small piece of paper so you can re-arrange them easily This is "
-"called a **Story Board**. You may have another way you would like to make "
+"on a separate small piece of paper so you can re-arrange them easily This is"
+" called a **Story Board**. You may have another way you would like to make "
 "your plan, just be sure to include information about what pictures you will "
 "use, where you will get them, and what text you plan to add."
 msgstr ""
+"** Paso dos: Haga un plan. ** Antes de comenzar, deberá hacer un plan que le"
+" guiará a través de la construcción de su proyecto. Algunas personas, como "
+"para dibujar un pequeño bosquejo de cada panel que muestra lo que va a salir"
+" en la foto y una sugerencia para lo que se añadirán las palabras. Si te "
+"gustan los paneles pueden ser cada uno en un pequeño trozo de papel por "
+"separado para que pueda volver a organizar fácilmente esto se le llama ** "
+"Story Board **. Usted puede tener otra forma que le gustaría que su plan, "
+"sólo asegúrese de incluir información sobre las imágenes que quieres va a "
+"utilizar, donde obtendrá ellos, y lo que el texto va a agregar."
 
-# 8d0133dff9fd42a1adbc8e7257924f5c
+# 5d1d3b8517124c6aa77b9cb998d0ddda
 #: ../source/fototoon.rst:132
 msgid ""
 "**Step Three: Gather your images.** For starters, we will use images that "
-"were taken either with a camera, or using the **Record Activity** on the XO. "
-"Any image that can be imported to the Journal on your XO and viewed in "
-"**Image Viewer** can be used. It is a good idea to rename each of the photos "
-"you will be using in the Journal. The name can include the number of the "
+"were taken either with a camera, or using the **Record Activity** on the XO."
+" Any image that can be imported to the Journal on your XO and viewed in "
+"**Image Viewer** can be used. It is a good idea to rename each of the photos"
+" you will be using in the Journal. The name can include the number of the "
 "pane you plan to use it in so it is easy to find when you begin putting "
 "things together."
 msgstr ""
+"** Paso tres: Reúne a tus imágenes. ** Para empezar, vamos a utilizar las "
+"imágenes que se tomaron ya sea con una cámara, o utilizando el registro de "
+"actividad ** ** en la XO. Cualquier imagen que se puede importar a la "
+"Revista en su XO y ver en ** ** Image Viewer se puede utilizar. Es una buena"
+" idea para cambiar el nombre de cada una de las fotos que se van a utilizar "
+"en el Diario. El nombre puede incluir el número del panel tiene previsto "
+"utilizarlo en lo que es fácil de encontrar cuando se empieza a poner las "
+"cosas juntos."
 
-# e04cc546e6024a3dab5885b7654bbb8f
+# 61e13a3b8a994d5ca8e7d2acf05ed853
 #: ../source/fototoon.rst:135
 msgid "Place Your Images"
-msgstr ""
+msgstr "Hagan sus Imágenes"
 
-# cdbfc7bb13d0405d96e6c393c98a07fa
+# 1f06a9d3842242098bebab728ac7d6ba
 #: ../source/fototoon.rst:137
 msgid ""
 "Open the Journal and check to be sure your images are there and can be "
-"viewed in the Image Viewer (click on the file to open it and check). Be sure "
-"the images have names that include the number of the pane you plan to place "
-"them (1,2,3, or 4)."
+"viewed in the Image Viewer (click on the file to open it and check). Be sure"
+" the images have names that include the number of the pane you plan to place"
+" them (1,2,3, or 4)."
 msgstr ""
+"Abra el Diario y comprobar para asegurarse de que sus imágenes están ahí y "
+"se pueden ver en el visor de imágenes (haga clic en el archivo para abrirlo "
+"y comprobar). Asegúrese de que las imágenes tienen nombres que incluyen el "
+"número de la hoja va a colocarlos (1,2,3 o 4)."
 
-# 0cdcc6d6c4484ecd88f86289e29f0ada
+# 78a32187c7c4424bbc60598e9c2ae800
 #: ../source/fototoon.rst:139
 msgid ""
-"Open FotoToon and find the \"Add Photo\" icon (number 3 in the FotoToon main "
-"toolbar shown above). A list of available images will appear. Click on the "
+"Open FotoToon and find the \"Add Photo\" icon (number 3 in the FotoToon main"
+" toolbar shown above). A list of available images will appear. Click on the "
 "one you want to put in the first pane. When it has loaded, you can either "
-"leave it or remove it with the minus sign icon (number 7 in the main toolbar "
-"shown above). Warning: You can only remove the last image entered. That is "
+"leave it or remove it with the minus sign icon (number 7 in the main toolbar"
+" shown above). Warning: You can only remove the last image entered. That is "
 "why it is important to number the images according to the panes you wish to "
-"place them in. After the first image has been placed, continue adding images "
-"until all four for your first project have been placed. If you decide later "
-"that you want to change their order after they have been placed, you will "
+"place them in. After the first image has been placed, continue adding images"
+" until all four for your first project have been placed. If you decide later"
+" that you want to change their order after they have been placed, you will "
 "need to delete them and replace them in the new order. It is best to get "
 "your final placement before adding any text."
 msgstr ""
+"Abrir FotoToon y encontrar el icono \"Añadir foto\" (número 3 en la barra de"
+" herramientas principal FotoToon se muestra arriba). Aparecerá una lista de "
+"imágenes disponibles. Haz clic en el que usted quiere poner en el primer "
+"panel. Cuando se haya cargado, puede dejarlo o quitarlo con el icono de "
+"signo menos (número 7 en la barra de herramientas principal se muestra "
+"arriba). Advertencia: Sólo puede eliminar la última imagen entrado. Por eso "
+"es importante contar las imágenes de acuerdo con los paneles que desea "
+"colocarlos en. Después de la primera imagen se ha colocado, continúe "
+"agregando imágenes hasta que los cuatro para su primer proyecto se han "
+"colocado. Si más adelante decide que desea cambiar su orden después de que "
+"hayan sido colocados, tendrá que eliminarlas y sustituirlas en el nuevo "
+"orden. Lo mejor es conseguir que su ubicación final antes de añadir "
+"cualquier texto."
 
-# 62609e60016b4a62819476bc94c31645
+# 033b491d276f4205aceeaa99f0a6bc66
 #: ../source/fototoon.rst:145
 msgid ""
 "If you would like to use the same images that will be used in this sample "
@@ -466,52 +623,66 @@ msgid ""
 "image names. They will open in the Image Viewer and be automatically saved "
 "so you can access them for your project."
 msgstr ""
+"Si desea utilizar las mismas imágenes que se utilizarán en este proyecto de "
+"ejemplo, los encontrará en estos enlaces. Ir a cada enlace, subir la foto a "
+"una unidad USB, conéctelo a su XO, y abierto haciendo clic en los nombres de"
+" las imágenes. Se abrirá en el Visor de imágenes y se guarda automáticamente"
+" para que pueda acceder a ellos para su proyecto."
 
-# 8d55cbaf61384535a41c9c06515abcd7
+# c59ee34ba72d4c41870fd53d4ccecb95
 #: ../source/fototoon.rst:147
 msgid "Pane-1 http://wiki.laptop.org/go/File:1-Apple-Fries.png"
 msgstr ""
+"Pane-1 http: // wiki. portátil. org / go / Archivo: 1-apple-Fries. png"
 
-# 04b2e6275a1b47609996992d61a9fa0e
+# 1d89e1e6bb864fcfb23acb9608449dc1
 #: ../source/fototoon.rst:149
 msgid "Pane-2 http://wiki.laptop.org/go/File:2-Soda-Milk.png"
-msgstr ""
+msgstr "Pane-2 http: // wiki. portátil. org / go / archivo: 2-Soda-Leche. png"
 
-# 403635a61bba483288632b15570d97c5
+# 4bc909c33e184116bd1c7866ad0c97a3
 #: ../source/fototoon.rst:151
 msgid "Pane-3 http://wiki.laptop.org/go/File:3-Cookies-Yogurt.png"
 msgstr ""
+"Pane-3 http: // wiki. portátil. org / go / archivo: 3-cookies-Yogurt. png"
 
-# 2bf07da9134240a998dfc8bf33970891
+# b6dfc02a969a413498cd6854f0e16d7a
 #: ../source/fototoon.rst:153
 msgid "Pane-4 http://wiki.laptop.org/go/File:4-HealthySnacks.png"
 msgstr ""
+"Pane-4 http: // wiki. portátil. org / go / archivo: 4-HealthySnacks. png"
 
-# 2f4d5f2198324b70aa776c89345201c3
+# fe72a4483c554ca2a1617c5d05345a42
 #: ../source/fototoon.rst:156
 msgid "Add Dialog and Titles"
-msgstr ""
+msgstr "Añadir Diálogo y Títulos"
 
-# 4d73af31bf744d78baa7eac685aab5bd
+# c568d970acad40d7a990c0ef7d640c00
 #: ../source/fototoon.rst:158
 msgid ""
 "If you have planned well with your storyboard, you will have a pretty good "
-"idea of what you want to put in your dialog balloons and text boxes. You may "
-"even have a title in mind for your project. You can actually start this "
+"idea of what you want to put in your dialog balloons and text boxes. You may"
+" even have a title in mind for your project. You can actually start this "
 "process anywhere in your project. All of the balloons and boxes you will be "
 "using to do this will be identified in the first image above, the The Main "
 "PhotoToonToolbar."
 msgstr ""
+"Si usted ha planeado bien con su storyboard, usted tendrá una idea bastante "
+"buena de lo que se quiere poner en sus globos de diálogo y cuadros de texto."
+" Usted puede incluso tener un título en mente para su proyecto. En realidad "
+"se puede iniciar este proceso en cualquier parte de su proyecto. Todos los "
+"globos y cajas que va a utilizar para hacer esto se identificarán en la "
+"primera imagen de arriba, el El PhotoToonToolbar Principal."
 
-# 8fb0f4640f3049de80dfe2b939f2f254
+# 2fda023e70fe474e9e3dce525537064d
 #: ../source/fototoon.rst:160
 msgid ""
-"Making and placing your Title: If you know what you would like your title to "
-"be, you can start with that. It can always be changed later. When you start "
-"a project in FotoToon there will already be a tiny box for the title in a "
+"Making and placing your Title: If you know what you would like your title to"
+" be, you can start with that. It can always be changed later. When you start"
+" a project in FotoToon there will already be a tiny box for the title in a "
 "narrow band across the top of the project window. You can drag the upper "
-"left corner of the box to enlarge it (look for the cursor arrow to change to "
-"a thinner double headed arrow). You can also move it around in the band "
+"left corner of the box to enlarge it (look for the cursor arrow to change to"
+" a thinner double headed arrow). You can also move it around in the band "
 "across the top. Click on the box and type all or part of your title. Then "
 "you can change the type style and size using the pull downs in the Text "
 "Pulldown menu (see 8d and 8e) in the picture above). Experiment until you "
@@ -519,15 +690,30 @@ msgid ""
 "Don't worry if it isn't perfect, you can always come back later and change "
 "it. Notice that you can erase part of the text by backspacing over it."
 msgstr ""
+"Realización y colocación de su título: Si sabes lo que le gustaría que su "
+"título de ser, se puede empezar con eso. Siempre se puede cambiar más tarde."
+" Al iniciar un proyecto en FotoToon ya habrá una pequeña caja por el título "
+"en una banda estrecha en la parte superior de la ventana del proyecto. Puede"
+" arrastrar la esquina superior izquierda del cuadro para ampliarla (busca la"
+" flecha del cursor para cambiar a una doble flecha delgada). También puede "
+"mover alrededor de la banda en la parte superior. Haga clic en la casilla y "
+"escriba todo o parte de su título. A continuación, puede cambiar el estilo "
+"de letra y el tamaño utilizando los menús desplegables en el menú "
+"desplegable de texto (ver 8d y 8e) en la imagen de arriba). Experimente "
+"hasta encontrar un estilo y le gusta. También puede cambiar el color del "
+"tipo. No se preocupe si no es perfecto, siempre se puede volver más tarde y "
+"cambiarlo. Observe que puede borrar parte del texto sobrescribiéndolo que."
 
-# bd93e01c5e95492694ed8cb4d516897c
+# 290d9f90696b4ee992805f10a88d80d4
 #: ../source/fototoon.rst:166
 msgid ""
 "In this image you can see that we selected bold, a red color from the color "
 "palette, a type size of 26, and the Font \"Monospace\"."
 msgstr ""
+"En esta imagen se puede ver que hemos seleccionado en negrita, de color rojo"
+" de la paleta de colores, un tamaño de letra de 26, y el \"Monospace\" Font."
 
-# de268c540cd84c6dbf9af3cfbdf5f40d
+# 0b630e06e8134dd2a7f458141f746dc4
 #: ../source/fototoon.rst:169
 msgid ""
 "Adding Text Balloons: You can place the text balloons wherever you like "
@@ -538,8 +724,15 @@ msgid ""
 "the source of the dialog. Add the words to the balloon in the same way you "
 "added them to the Title box."
 msgstr ""
+"Adición de globos de texto: Puede colocar los globos de texto donde quieras "
+"dentro de un panel. Haga clic en el panel, y luego en el globo que desea "
+"utilizar (consulte \"Añadir un menú global\" y \"Elija un menú línea de "
+"movimiento\" para obtener explicaciones). El globo aparecerá en el panel. "
+"Usted puede arrastrarlo a la posición donde desee, y también puede arrastrar"
+" la colita a punto para la fuente del cuadro de diálogo. Añadir las palabras"
+" para que el globo de la misma manera que los agregó al cuadro Título."
 
-# 50ed933ae63243e9938cf51289ca3f15
+# c23f84ba7cfd4ac8966bd874bb5a6261
 #: ../source/fototoon.rst:174
 msgid ""
 "In this image you can see that we have added 4 dialog balloons (#4 in the "
@@ -551,88 +744,134 @@ msgid ""
 "You can see that our type size is 10, text color is black, and we are still "
 "using the \"Monospace\" font."
 msgstr ""
+"En esta imagen se puede ver que hemos agregado 4 globos de diálogo (# 4 en "
+"la barra de herramientas principal). También podríamos haber utilizado el "
+"\"pensar\" globo o el globo \"susurro\". El primer panel está bien, pero el "
+"primer balón en el segundo panel tiene que ser arrastrado a una mejor forma "
+"y tamaño. El segundo globo en el segundo panel aparece justo como lo hace "
+"cuando se añade primero. Todavía tiene que tener texto añadido y para "
+"cambiar el tamaño (arrastrando una esquina). Se puede ver que nuestro tamaño"
+" de letra es de 10, color del texto es negro, y todavía está utilizando el "
+"tipo de letra \"Monospace\"."
 
-# 58b601713734476ca98cdc5a46676edc
+# 9369d72419e744ce86acac768b1cff70
 #: ../source/fototoon.rst:176
 msgid ""
 "As you work with the various text items, you may wish to eliminate one "
 "entirely. Just click on it, then on the icon with the minus (-) sign (#7 in "
 "the main toolbar), and it will disappear."
 msgstr ""
+"A medida que trabaja con los distintos elementos de texto, es posible que "
+"desee eliminar uno enteramente. Simplemente haga clic en él, a continuación,"
+" en el icono con el signo menos (-) signo (# 7 en la barra de herramientas "
+"principal), y desaparecerá."
 
-# 422bc3a617214395979b036956390324
+# 436bc770aac34b63b046d303c7c9219e
 #: ../source/fototoon.rst:178
 msgid ""
-"Adding Exclamation Balloons: You may wish to include special exclamations to "
-"your project. Choose the exclamation balloon (choose from # 4 in the main "
-"toolbar). It is possible to eliminate the one longer point on the balloon by "
-"dragging it so that it matched the others. Again, type into the balloon just "
-"as you did in the title box and dialog balloons."
+"Adding Exclamation Balloons: You may wish to include special exclamations to"
+" your project. Choose the exclamation balloon (choose from # 4 in the main "
+"toolbar). It is possible to eliminate the one longer point on the balloon by"
+" dragging it so that it matched the others. Again, type into the balloon "
+"just as you did in the title box and dialog balloons."
 msgstr ""
+"Adición de exclamación Globos: Es posible que desee incluir exclamaciones "
+"especiales para su proyecto. Elija el globo de exclamación (elegir # 4 en la"
+" barra de herramientas principal). Es posible eliminar el punto más larga en"
+" el globo arrastrando de modo que coincide con los demás. Una vez más, se "
+"teclea en el globo, tal como hizo en el cuadro de título y globos de "
+"diálogo."
 
-# ceaa024aaa8d4c29813ad14fecb2c641
+# 6d55da03809b4a3987daa5c0824ec394
 #: ../source/fototoon.rst:180
 msgid ""
 "Adding extra Text Boxes: You can add a text box anywhere in any pane by "
-"clicking on the pane and then on the box icon in the diagram (choose from #4 "
-"in the main toolbar)."
+"clicking on the pane and then on the box icon in the diagram (choose from #4"
+" in the main toolbar)."
 msgstr ""
+"Cómo añadir cuadros de texto adicionales: Puede agregar un cuadro de texto "
+"en cualquier lugar en cualquier panel haciendo clic en el panel y después en"
+" el icono de la caja en el diagrama (elegir # 4 en la barra de herramientas "
+"principal)."
 
-# 2388d107933949a193c5d7535aa6c62a
+# 931f0187a2ee48008585d3b058b8c0a7
 #: ../source/fototoon.rst:184
 msgid ""
 "In this example you can see we have added 4 exclamation balloons and one "
 "extra text box. We used the same text size, font, and color as in the rest "
 "of the project. You could choose to use different ones in your project."
 msgstr ""
+"En este ejemplo se puede ver que hemos añadido 4 globos de exclamación y un "
+"cuadro de texto adicional. Se utilizó el mismo tamaño del texto, la fuente, "
+"y el color como en el resto del proyecto. Usted puede optar por utilizar "
+"otros diferentes en su proyecto."
 
-# 2b2c9acee19b407992cdc6b2a0d268fd
+# 8ac01ae1cb9f49619b6a5ba589d1d74d
 #: ../source/fototoon.rst:187
 msgid "Exporting Your Project"
-msgstr ""
+msgstr "Exportación de su proyecto"
 
-# ba0db9f830cd46379d87c5ae8f075701
+# 4f368fc8e7dd4054966f3836050b26c3
 #: ../source/fototoon.rst:189
 msgid ""
 "Now, if you have followed the instructions above, you should have a small, "
-"completed FotoToon Project. You may have decided to use the same photos that "
-"are in the sample, or you may have chosen to use images you have imported. "
-"These can be from your camera, your XO, downloads from the web, projects you "
-"have made in other Activities, drawings you made in Paint, or even photos "
+"completed FotoToon Project. You may have decided to use the same photos that"
+" are in the sample, or you may have chosen to use images you have imported. "
+"These can be from your camera, your XO, downloads from the web, projects you"
+" have made in other Activities, drawings you made in Paint, or even photos "
 "you have modified in Paint (import, then add things and/or crop as you "
 "like). When finished, your project will look something like this:"
 msgstr ""
+"Ahora, si usted ha seguido las instrucciones anteriores, usted debe tener un"
+" proyecto pequeño, completado FotoToon. Es posible que haya decidido "
+"utilizar las mismas fotos que se encuentran en la muestra, o puede haber "
+"optado por utilizar las imágenes que ha importado. Estos pueden ser de su "
+"cámara, su XO, descargas desde la web, los proyectos que ha hecho en otras "
+"actividades, dibujos que hizo en la pintura, o incluso fotos que se han "
+"modificado en Paint (importación, a continuación, añadir cosas y / o "
+"cultivos como quieras . Cuando haya terminado, su proyecto se verá algo como"
+" esto:"
 
-# a961e4d2955f4e33b97b0e24715aa2b4
+# 963842fdb0714e779d1efd13b3b1ed0e
 #: ../source/fototoon.rst:193
 msgid ""
-"Regardless of what you have made for your project, you will probably want to "
-"share it with others. You can do this as an email attachment or print it out "
-"as a paper copy. To do this, you need to export your project as an image "
-"stored in your Journal. The instructions for exporting your project are "
+"Regardless of what you have made for your project, you will probably want to"
+" share it with others. You can do this as an email attachment or print it "
+"out as a paper copy. To do this, you need to export your project as an image"
+" stored in your Journal. The instructions for exporting your project are "
 "shown above. We will repeat them here as well."
 msgstr ""
+"Independientemente de lo que usted ha hecho para su proyecto, es probable "
+"que desee compartir con los demás. Usted puede hacer esto como un archivo "
+"adjunto de correo electrónico o imprimirlo como una copia en papel. Para "
+"ello, es necesario exportar el proyecto como una imagen almacenada en el "
+"Diario. Las instrucciones para exportar el proyecto se muestran arriba. "
+"Vamos a repetir aquí también."
 
-# 4bfb6067459548569877b3adbfca3021
+# 4ae02cfa46224b36b34b15b476d733b6
 #: ../source/fototoon.rst:202
 msgid "1b- This allows you to add a description to jounal entry."
-msgstr ""
+msgstr "1b- Esto le permite añadir una descripción a la entrada jounal."
 
-# 0867b72b401e4041a8561bb52665e84a
+# 46b4cdc3ed2841119ea2f73c09035822
 #: ../source/fototoon.rst:210
 msgid ""
-"Look in the Journal. Your project should appear there with the name you gave "
-"it before exporting. If you forgot to give it a name, it will just say "
+"Look in the Journal. Your project should appear there with the name you gave"
+" it before exporting. If you forgot to give it a name, it will just say "
 "\"FotoToon.\" If this happened, rename it now, in the Journal before you "
 "forget to do it."
 msgstr ""
+"Busque en el Diario. Su proyecto debe aparecer allí con el nombre que le dio"
+" antes de exportar. Si usted se olvidó de darle un nombre, se acaba de decir"
+" \"FotoToon. \"Si esto sucediera, cambie su nombre por ahora, en el Diario "
+"antes se olvida de hacerlo."
 
-# f245b22109dd4acc966240a288209713
+# f085a4463f604185a04c4a8919a034d2
 #: ../source/fototoon.rst:213
 msgid "Extending FotoToon"
-msgstr ""
+msgstr "Extendiendo FotoToon"
 
-# a1f3c6bab59d496d92bf949fb5ff12fb
+# 1a63dbe58d264dce802823f43a5644a6
 #: ../source/fototoon.rst:215
 msgid ""
 "FotoToon can be used for much more than the simple 4-pane example we built "
@@ -640,16 +879,25 @@ msgid ""
 "areas where students and teachers can construct lessons on any topic. Here "
 "are some possible ideas for projects:"
 msgstr ""
+"FotoToon se puede utilizar para mucho más que la simple ejemplo 4-panel "
+"construimos en las instrucciones. Se puede adaptar para su uso en muchas "
+"áreas diferentes, donde los estudiantes y los profesores pueden construir "
+"lecciones sobre cualquier tema. Aquí están algunas ideas posibles para "
+"proyectos:"
 
-# d8e43e125c754c99a900f69f959fe10e
+# e66654cf817743dab1a16b96748a674f
 #: ../source/fototoon.rst:217
 msgid ""
 "Student written comic books for language arts practice. Students can write "
 "their own little \"graphic novels\" and even print them and take home to "
 "share with friends and family."
 msgstr ""
+"Estudiantes escrito libros de historietas para la práctica de artes del "
+"lenguaje. Los estudiantes pueden escribir sus propios pequeños \"novelas "
+"gráficas\" e incluso imprimirlos y llevarlos a casa para compartir con "
+"amigos y familiares."
 
-# bf53ca71bb354786b74ba729c7113c27
+# 0bd604ee58da4b5c9f7ce932e4223de9
 #: ../source/fototoon.rst:219
 msgid ""
 "Student produced magazine articles for any topic they and their teachers "
@@ -657,52 +905,66 @@ msgid ""
 "see in actual magazines. One or more panes on the page can be used just for "
 "text to extend the story. The text could be written in another program and "
 "imported as an image or put in a large text box that fills the pane. The "
-"advantage of doing it all in FotoToon is that it would be easier to edit and/"
-"or change the text there than if it is imported as an image. Some possible "
-"ideas for these articles could be:"
+"advantage of doing it all in FotoToon is that it would be easier to edit "
+"and/or change the text there than if it is imported as an image. Some "
+"possible ideas for these articles could be:"
 msgstr ""
+"Estudiantes producido artículos de revistas para cualquier tema que ellos y "
+"sus profesores eligen. Una sola página o dos páginas \"spread\" hará que sea"
+" como los que se ven en las revistas actuales. Uno o más ventanas de la "
+"página pueden ser utilizados sólo para el texto de extender la historia. El "
+"texto se puede escribir en otro programa y se importa como una imagen o "
+"puesto en un cuadro de texto de gran tamaño que llene el panel. La ventaja "
+"de hacerlo todo en FotoToon es que sería más fácil de editar y / o cambiar "
+"el texto allí que si se importa como una imagen. Algunas ideas posibles para"
+" estos artículos podrían ser:"
 
-# 8a0e6ba8060f42f6bbacf54d81b6ec1a
+# b9c839a8b37a4b82aaca0454e3979910
 #: ../source/fototoon.rst:221
 msgid "Cooking favorite foods (with recipes)"
-msgstr ""
+msgstr "Cocinar comidas favoritas (con recetas)"
 
-# 78ae4ebb4c564d20a5eedc3df4562489
+# 4b68c2dd20e34af0ba4786c1f03c2a44
 #: ../source/fototoon.rst:223
 msgid "Family pets (pictures and stories)"
-msgstr ""
+msgstr "Mascotas de la familia (imágenes e historias)"
 
-# 19fdadb0227c40598d08c19764117b83
+# f2ab7b439b7f46e9b5e3b332d8a5c0d9
 #: ../source/fototoon.rst:225
 msgid ""
 "Our neighborhood (pictures and stories of places to see or problems that "
 "need to be solved)"
 msgstr ""
+"Nuestro barrio (imágenes e historias de lugares para ver y problemas que "
+"necesitan ser resueltos)"
 
-# 148d2d03716c4ca2b839b34026f4fbd8
+# d0197f541948495ca62580b5fd2d71a1
 #: ../source/fototoon.rst:227
 msgid ""
 "Science articles with photos of plants, animals, rocks, etc. including "
 "descriptions and information"
 msgstr ""
+"Artículos de divulgación científica con fotos de plantas, animales, rocas, "
+"etc.. incluyendo descripciones e información"
 
-# da75aaae196d4708aa8f0e433c6f19f1
+# 73e9ab102c2b4997a9640be294508c2c
 #: ../source/fototoon.rst:229
 msgid ""
 "Historical articles with photos of people or places imported from the web"
 msgstr ""
+"Artículos históricos con fotos de personas o lugares importados de la web"
 
-# 47ba7cbdfb3b41e39fb829f61f790b0a
+# 4ca84f4e9e0943f8ba5f966018608446
 #: ../source/fototoon.rst:231
 msgid "\"How To\" articles on any topic the students or teacher choose"
-msgstr ""
+msgstr "\"Cómo\" artículos sobre cualquier tema los estudiantes o maestros eligen"
 
-# 93030fdd97f340479af52f9a67d92ded
+# 4e8500b9c2864e81ae1927e753f0331a
 #: ../source/fototoon.rst:235
 msgid "Modifying FotoToon"
-msgstr ""
+msgstr "Modificación FotoToon"
 
-# b2bcc1257949454bb3737b98a2455e48
+# 62db5a8206f44e8fb0059d1b8a1f17c1
 #: ../source/fototoon.rst:237
 msgid ""
 "FotoToon is free open source software and, as such is available to be "
@@ -711,20 +973,33 @@ msgid ""
 "suit your needs, you may do so. Just don't forget to give credit where "
 "credit is due."
 msgstr ""
+"FotoToon es software libre de código abierto y, como tal, está disponible "
+"para ser modificado por el usuario como lo deseen, siempre y cuando le dan "
+"el crédito apropiado fuente original. Así pues, si usted es un programador y"
+" quieres cambiar algo para satisfacer sus necesidades, es posible que lo "
+"haga. Eso sí, no te olvides de dar crédito a quien crédito merece."
 
-# 27e1379fe08f4a978743de8fe181f9d3
+# 8f09cc402097432f87851088b1bbd970
 #: ../source/fototoon.rst:239
 msgid ""
-"If you are not a programmer, you can suggest changes or modifications to the "
-"Activity to the original programmer at the same place where you would report "
-"problems. If it is something that will improve the Activity and not "
+"If you are not a programmer, you can suggest changes or modifications to the"
+" Activity to the original programmer at the same place where you would "
+"report problems. If it is something that will improve the Activity and not "
 "interfere with other parts of it, the programmers will be happy to consider "
 "including it in a future update."
 msgstr ""
+"Si usted no es un programador, puede sugerir cambios o modificaciones en la "
+"actividad a que el programador original en el mismo lugar donde le informará"
+" de problemas. Si se trata de algo que va a mejorar la actividad y no "
+"interferir con otras partes de la misma, los programadores estarán "
+"encantados de considerar la inclusión en una futura actualización."
 
-# 57fe34bb664f40beb9299b6c723479d1
+# a2f907af372d45ebb400e9291904bdb4
 #: ../source/fototoon.rst:241
 msgid ""
 "Because there are always updates and improvements happening with this "
 "program, be sure to always check to be sure you have the latest version."
 msgstr ""
+"Porque siempre hay cambios y mejoras que ocurren con este programa, "
+"asegúrese de comprobar siempre para asegurarse de que dispone de la última "
+"versión."

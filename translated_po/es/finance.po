@@ -1,0 +1,101 @@
+# Spanish translations for Sugar package.
+# Copyright (C) 2013, SugarLabs
+# This file is distributed under the same license as the Sugar package.
+# Automatically generated, 2015.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Sugar 0.100\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# d2c79b0bd91840b8a3cfbdd35028c2e7
+#: ../source/finance.rst:3
+msgid "Finance"
+msgstr "Finanzas"
+
+# 42bb0868c31c44968a0b70b851163980
+#: ../source/finance.rst:8
+msgid "About"
+msgstr "Acerca de"
+
+# dffbafe38cd84f4faeb077d6b0185d3c
+#: ../source/finance.rst:10
+msgid ""
+"Finance is a simple financial planning activity. It can be integrated into "
+"classroom assignments, or else used to track finances for a school club. It "
+"might also be useful for students who wish to help their parents with home "
+"finances."
+msgstr ""
+"Finanzas es una actividad sencilla de planificación financiera. Se puede "
+"integrar en las tareas de clase, o de lo utiliza para rastrear las finanzas "
+"de un club de la escuela. También podría ser útil para los estudiantes que "
+"desean ayudar a sus padres con las finanzas del hogar."
+
+# 0a4aea04300248cfa8aba358e0ad83a8
+#: ../source/finance.rst:12
+msgid ""
+"The register view allows students to enter income and expenses, assign "
+"categories, and review past transactions. The chart view shows students a "
+"visual breakdown of their expenses by category. The budget view allows users"
+" to assign a monthly budget to each category, and to see how each month's "
+"expenses compare to the budget."
+msgstr ""
+"La vista de registro permite a los estudiantes para entrar en los ingresos y"
+" gastos, asignar categorías, y revisar las transacciones pasadas. La vista "
+"gráfica muestra a los estudiantes un desglose visual de sus gastos por "
+"categoría. La vista presupuesto permite a los usuarios asignar un "
+"presupuesto mensual para cada categoría, y para ver cómo los gastos de cada "
+"mes en comparación con el presupuesto."
+
+# 2fcb071f0f834c719b8b9267d6da5c3d
+#: ../source/finance.rst:14
+msgid ""
+"Finance is designed to be extensively localized. The user interface is "
+"translatable, and local conventions are used to display monetary values."
+msgstr ""
+"Finanzas está diseñado para ser localizada ampliamente. La interfaz de "
+"usuario es traducible, y las convenciones locales se utilizan para los "
+"valores monetarios."
+
+# ed030323a0df4e59bc4a40869f0236a9
+#: ../source/finance.rst:17
+msgid "Git It!"
+msgstr "Git él!"
+
+# dc68f2825c0649ba934f89446e60794a
+#: ../source/finance.rst:18
+msgid "`Git Link <https://github.com/godiard/finance-activity>`_"
+msgstr "`Git Enlace <https: // github. com / godiard / finanzas-actividad> `_"
+
+# ec81e2ce32e2471a865373684a485738
+#: ../source/finance.rst:22
+msgid "Gallery"
+msgstr "Galería"
+
+# affa669e43f84e0c88b0bd1b447e7b84
+#: ../source/finance.rst:29
+msgid "References"
+msgstr "Referencias"
+
+# 8d4628cb5b4c42f7a0f81c33131d6876
+#: ../source/finance.rst:31
+msgid ""
+"`Sugar Wiki Activity Page "
+"<http://activities.sugarlabs.org/sugar/addon/4040>`_"
+msgstr ""
+"`Azúcar Wiki Actividad Página <http: // actividades. sugarlabs. org / azúcar"
+" / addon / 4040> `_"
+
+# 4e02a5bb295141888ff931b52fb1e4ce
+#: ../source/finance.rst:33
+msgid "`Source <https://github.com/godiard/finance-activity>`_"
+msgstr "`Fuente <https: // github. com / godiard / finanzas-actividad> `_"

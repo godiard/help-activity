@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,145 +17,165 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 02a3da22e7164cea86d2b6a6a133a9cd
+# 7f9cfa0232c54b71a00e3e8a33f28d82
 #: ../source/speak.rst:3
 msgid "Speak"
-msgstr ""
+msgstr "Hablar"
 
-# f783240040954ac4a890ddf9ce471797
+# 73dcac2220c34a66a59c76c5b4313b8f
 #: ../source/speak.rst:7
 msgid "**The toolbar buttons explained**"
-msgstr ""
+msgstr "** Los botones de la barra explicaron **"
 
-# ff0efa1e2b734b92a338c646d694c545
+# a2dcbad5975c46318ea49039e455a7a4
 #: ../source/speak.rst:9
 msgid ""
-"Activity tab. In the first field name the session. The book and pencil icon, "
-"the Description button allows you to add a description to the :doc:`/"
-"journal` entry. Thirdly select Private, or My Neighbourhood mode."
+"Activity tab. In the first field name the session. The book and pencil icon,"
+" the Description button allows you to add a description to the "
+":doc:`/journal` entry. Thirdly select Private, or My Neighbourhood mode."
 msgstr ""
+"Ficha Actividad. En el primer campo el nombre de la sesión. El icono de un "
+"libro y un lápiz, el botón Descripción le permite añadir una descripción al:"
+" doc: `entrada / journal`. En tercer lugar seleccione Privada, o el modo Mi "
+"Barrio."
 
-# 698593422356414aada2db427753b1c7
+# d6e7b0f6db0547efae6acdc51431ba40
 #: ../source/speak.rst:10
 msgid "Type something to hear robot Alice read it aloud."
-msgstr ""
+msgstr "Escriba algo para escuchar robot Alice leerlo en voz alta."
 
-# f420bf1d72f04430bda46265669d7b8a
+# a985737d0d3e4e31addf17dbb51b4207
 #: ../source/speak.rst:11
 msgid "Ask robot Alice any question."
-msgstr ""
+msgstr "Pregunte robot Alice cualquier pregunta."
 
-# 81b09128b1634c4c80097de3e19d48eb
+# f5fcbe14beed4ffcb16e64dba07b323f
 #: ../source/speak.rst:12
 msgid "Voice chat."
-msgstr ""
+msgstr "El chat de voz."
 
-# 075b6156e7724cfe847491213aa2e75b
+# 7d5dba64c54242a68ad20ffab976104b
 #: ../source/speak.rst:13
 msgid "Set language."
-msgstr ""
+msgstr "Establecer idioma."
 
-# 6ac8d30201c745b9a59019f7e79f7de7
+# 6079adfad65a4d23b810cd367ce4dc90
 #: ../source/speak.rst:14
 msgid "Set pitch of voice and rate of delivery."
-msgstr ""
+msgstr "Ajuste de tono de la voz y el ritmo de entrega."
 
-# 0bcb2bfd86f5448ea262f523b4385daf
+# 718b37b0db084f3a8aa342a8247b6d3f
 #: ../source/speak.rst:15
 msgid "Alter shape of eyes and mouth"
-msgstr ""
+msgstr "Alterar forma de los ojos y la boca"
 
-# 5fba96753f3642c4a83d5d8fe842ad42
+# d6a67022bef6440aafd0455dc4137916
 #: ../source/speak.rst:16
 msgid ""
 "Click the arrow button, and use the up/down arrow keys to scroll back "
 "through a history of things you have typed."
 msgstr ""
+"Haga clic en el botón de la flecha, y utilice las teclas de flecha arriba / "
+"abajo para desplazarse hacia atrás a través de una historia de las cosas que"
+" ha escrito."
 
-# 243b131a45464bfb854bd9a19bda905c
+# 0f8cf864b079469bb0cdc40436731db7
 #: ../source/speak.rst:17
 msgid "Stop, or close the Activity"
-msgstr ""
+msgstr "Detener o cierre la Actividad"
 
-# def59380a7264a0889d000ce4c47b60b
+# 37782be36da24f568ea934536ad8cc3e
 #: ../source/speak.rst:20
 msgid "Using"
-msgstr ""
+msgstr "Uso"
 
-# 13463548990849b49b702406b6b95d69
+# 9aaf814f8e684ee19393766c099b6507
 #: ../source/speak.rst:22
 msgid ""
 "Speak is a talking face for the XO laptop. Anything you type will be spoken "
-"aloud using the XO's speech synthesizer, espeak. Use the toolbars at the top "
-"to change the voice's accent, rate and pitch or the shape of the eyes and "
+"aloud using the XO's speech synthesizer, espeak. Use the toolbars at the top"
+" to change the voice's accent, rate and pitch or the shape of the eyes and "
 "mouth."
 msgstr ""
+"Hablar es una cara que habla en el portátil XO. Todo lo que escriba será "
+"hablado en voz alta utilizando el sintetizador de voz de la XO, espeak. "
+"Utilice las barras de herramientas en la parte superior para cambiar el "
+"acento, ritmo de la voz y el tono o la forma de los ojos y la boca."
 
-# 069b39f1f7d64652b28106415e4e819f
+# 2a671d2be98048c7bd4aaf80be7b8980
 #: ../source/speak.rst:24
 msgid "You can ask Alice a question too."
-msgstr ""
+msgstr "Usted puede pedir a Alice una pregunta demasiado."
 
-# df3b94db3bd84fafbcfdbfff46e2d798
+# a357aeb8af484ee68ed8528492a25340
 #: ../source/speak.rst:26
 msgid ""
-"This is a great way to experiment with the speech synthesizer, learn to type "
-"or just have fun making a funny face for your XO."
+"This is a great way to experiment with the speech synthesizer, learn to type"
+" or just have fun making a funny face for your XO."
 msgstr ""
+"Esta es una gran manera de experimentar con el sintetizador de voz, aprender"
+" a escribir o simplemente divertirse haciendo una cara divertida para su XO."
 
-# b99b9c87a26d4d57b7996aea3c1015d5
+# 3e862dcb9003483e925f7d0ea1b89edd
 #: ../source/speak.rst:28
 msgid ""
-"After you've adjusted the settings it looks nicer in full-screen mode (Press "
-"Alt-Enter to switch)."
+"After you've adjusted the settings it looks nicer in full-screen mode (Press"
+" Alt-Enter to switch)."
 msgstr ""
+"Después de haber ajustado la configuración que se ve mejor en el modo de "
+"pantalla completa (Pulse Alt-Enter para cambiar)."
 
-# feda7662cfda4230b1ea4b8e193ad0eb
+# 1a17840341dc46528fc852ed0f62df8b
 #: ../source/speak.rst:30
 msgid ""
 "Use the Journal to resume your Speak activity including all voice, face and "
 "history settings."
 msgstr ""
+"Utilice el Diario de reanudar su actividad Speak incluyendo todos, cara e "
+"historia ajustes de voz."
 
-# 747b95dbe1f34dd488ff02d23a625a68
+# 8349aa2fef8d4a9096bddb077aeafb47
 #: ../source/speak.rst:33
 msgid "Page suggested improvements"
-msgstr ""
+msgstr "Página sugirió mejoras"
 
-# 6e215293dbc845d28425cb8ee520c1ce
+# e338bb9f89f641c68af96c4018978a97
 #: ../source/speak.rst:34
 msgid "... add the ideas."
-msgstr ""
+msgstr ". . . añadir las ideas."
 
-# ad1a73d4a2824b308a6808cb41e9b924
+# 8a85318cbba74fe096275ae7ffe53f47
 #: ../source/speak.rst:36
 msgid "Expand voice chat."
-msgstr ""
+msgstr "Ampliar el chat de voz."
 
-# c2c916ebcd6349e99497cd4632b7af18
+# bb46d4339b7b421983b7ab6a368444a4
 #: ../source/speak.rst:38
 msgid "Where Speak is good"
-msgstr ""
+msgstr "Donde Speak es buena"
 
-# c3719b59c1c344f8a7d8c23b882c5286
+# 0b11e4a2e71f47a7a1e3d0c17ff76468
 #: ../source/speak.rst:40
 msgid "Early reading - early writing - with FotoToon"
-msgstr ""
+msgstr "A principios de lectura - escritura temprana - con FotoToon"
 
-# f69ac074214a4e42acc1d3b797b1bcc3
+# 6305f59899f84c708759c4253076c50b
 #: ../source/speak.rst:42
 msgid "Reading aloud Help pages"
-msgstr ""
+msgstr "La lectura en voz alta páginas de Ayuda"
 
-# 6d3a2409ef854387bd55e96105888d3b
+# c3ee7c4c6dd649e6aa75f10e99ca450d
 #: ../source/speak.rst:44
 msgid "Learn a language"
-msgstr ""
+msgstr "Aprender un idioma"
 
-# a50c8804ac6b440e8b5d004119859298
+# 0ee19e11fc8c4b82a1144272a633c13d
 #: ../source/speak.rst:48
 msgid ""
-"This is an experimental new page. You can improve it yourself by following :"
-"doc:`/how_to_help`, and perhaps borrowing content from http://wiki.laptop."
-"org/go/Speak"
+"This is an experimental new page. You can improve it yourself by following "
+":doc:`/how_to_help`, and perhaps borrowing content from "
+"http://wiki.laptop.org/go/Speak"
 msgstr ""
+"Se trata de una página nueva experimental. Usted puede mejorar usted mismo "
+"siguiendo: doc: `/ how_to_help` y contenido tal vez los préstamos de http: "
+"// wiki. portátil. org / go / Habla"

@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 120a1224c255477fa5d7a57961f9c18f
+# b219a7e5c20a4dfe9b51edbcdc262653
 #: ../source/frame.rst:3
 msgid "The Frame"
-msgstr ""
+msgstr "El Marco"
 
-# 82142481248341e5908de4c12a8e871d
+# fa2210078f664f62b2e1c11a88a26906
 #: ../source/frame.rst:5
 msgid ""
 "The Frame is the black border around the screen that holds the View icons, "
@@ -30,52 +30,65 @@ msgid ""
 "invitations and notifications, buddies, and global information that is used "
 "across all views."
 msgstr ""
+"El marco es el borde negro alrededor de la pantalla que contiene los iconos "
+"de vista, la barra de tareas Actividad, portapapeles, conexiones "
+"inalámbricas, nivel de batería, invitaciones y notificaciones, compinches, y"
+" mundiales de información que se utiliza en todos los puntos de vista."
 
-# 3ddd532714ea40629123411d94da5494
+# 4d839ac649f641b798374f9b55490631
 #: ../source/frame.rst:8
 msgid "Accessing the Frame"
-msgstr ""
+msgstr "Acceso al Marco"
 
-# 77a0ea65f52d49a7b5be4a27f218ff09
+# e004415fc7604c76953d937043a0fa8a
 #: ../source/frame.rst:10
 msgid "You can access the frame from any view in 2 ways:"
-msgstr ""
+msgstr "Puede acceder a la trama desde cualquier punto de vista de 2 maneras:"
 
-# 8a9fd5605aa743cb9981de11ee70e932
+# 97fe074aff174f88ac5a93856be78302
 #: ../source/frame.rst:12
 msgid ""
 "By using the Frame Key on the keyboard. On XO laptops the Frame key is the "
 "square icon on the upper right hand corner of your keyboard, on other "
 "laptops you can use the F6 key."
 msgstr ""
+"Mediante el uso de la clave del marco en el teclado. El XO laptops la tecla "
+"Frame es el icono cuadrado en la esquina superior derecha de tu teclado, en "
+"otras computadoras portátiles puede utilizar la tecla F6."
 
-# 19e94748f1bf481d8df62f4116a779e0
+# a450915114bf4003bbe8aa23812ce553
 #: ../source/frame.rst:13
 msgid ""
 "By moving the cursor to the edges or corners of your screen. (There are "
 "several options you can configure in this area, please refer to the My "
 "Settings section for more details.)"
 msgstr ""
+"Al mover el cursor a los bordes o esquinas de la pantalla. (Hay varias "
+"opciones que puede configurar en esta área, por favor refiérase a la sección"
+" Mi configuración para obtener más detalles. )"
 
-# ea7ded9788ee475c9b1c267822452f56
+# 3af5090174a24125b660ec42fb22fe3b
 #: ../source/frame.rst:15
 msgid ""
-"In the XO-4, with touch screen, is possible show the frame sliding a finger, "
-"from the top of the screen, a few centimeters. The same gesture will hide "
+"In the XO-4, with touch screen, is possible show the frame sliding a finger,"
+" from the top of the screen, a few centimeters. The same gesture will hide "
 "the frame too."
 msgstr ""
+"En el XO-4, con pantalla táctil, es posible mostrar la estructura deslizando"
+" un dedo, desde la parte superior de la pantalla, unos pocos centímetros. El"
+" mismo gesto, se oculta el marco demasiado."
 
-# 37120be42cdd4635a95e5502f1f62ca6
+# cb6c69b217eb4479b240689d7e1ec4db
 #: ../source/frame.rst:18
 msgid "Frame Elements"
-msgstr ""
+msgstr "Elementos de bastidor"
 
-# 20a9c3e9f9934da5aff7e2470e97c087
+# 985ded4545de4078afbd2c32f2bfe93a
 #: ../source/frame.rst:22
 msgid "The Frame view:"
-msgstr ""
+msgstr "El punto de vista del marco:"
 
-# c607289710ca4a6ea71bfff658310269
+# 294570db0c2144bb84f10a306de31c8d
 #: ../source/frame.rst:24
 msgid ""
 "Zoom menu: The Zoom menu (icons matching the important keyboard shortcuts "
@@ -83,13 +96,17 @@ msgid ""
 "Use it to move between the four Sugar views: Neighborhood, Group, Home, and "
 "Activity."
 msgstr ""
+"Menú Zoom: El menú de zoom (iconos que coinciden con los atajos de teclado "
+"importantes hacia la parte superior izquierda del teclado) aparece en el "
+"borde superior izquierdo del marco. Lo utilizan para moverse entre las "
+"cuatro vistas del azúcar: Barrio, Grupo, Inicio, y Actividad."
 
-# 25348af79e254f779aea5c7089d409e2
+# ea84988cc7f342889df58a4f8f3220f1
 #: ../source/frame.rst:25
 msgid ""
 "Running Activity list: The sequence of currently started Activities appears "
-"on the top edge of the Frame in the order that they were started. The active "
-"Activity is highlighted. (The Journal always appears here first.) Here you "
+"on the top edge of the Frame in the order that they were started. The active"
+" Activity is highlighted. (The Journal always appears here first.) Here you "
 "can see open Activities, save, close or switch between them, and view their "
 "source code. Sometimes an unlabeled circle appears here which represents an "
 "additional full-screen session started by an Activity whose icon already "
@@ -98,15 +115,28 @@ msgid ""
 "show up on this portion of the Frame. They appear as icons in the color of "
 "the person who sent them. Hover and you can see who it is and join in."
 msgstr ""
+"Lista abierta Actividad: La secuencia de actividades que actualmente "
+"iniciadas aparece en el borde superior del marco en el orden en que se "
+"iniciaron. La actividad activo se destacó. (El Diario siempre aparece aquí "
+"primero. ) Aquí puede ver Actividades abrir, guardar, cerrar o cambiar entre"
+" ellos, y ver su código fuente. A veces, un círculo sin etiqueta aparece "
+"aquí lo que representa una sesión de pantalla completa adicional iniciado "
+"por una actividad cuyo icono aparece ya en el borde superior del marco o una"
+" actividad que está teniendo problemas por completo a partir. Las "
+"invitaciones a sesiones de actividades de colaboración también aparecen en "
+"esta parte del marco. Ellos aparecen como iconos en el color de la persona "
+"que los envió. Hover y se puede ver de quién se trata y unirse en."
 
-# 53ab8ec08b1c4c57b879d8e23dd2ba3e
+# 24e4a8507c9c44a0a0c4edb3f4f61e74
 #: ../source/frame.rst:26
 msgid ""
-"Active buddy list: People you are currently collaborating with appear on the "
-"right edge of the Frame."
+"Active buddy list: People you are currently collaborating with appear on the"
+" right edge of the Frame."
 msgstr ""
+"Lista de contactos activa: Personas que actualmente esté colaborando, "
+"aparecen en el borde derecho del Marco."
 
-# 7f6b9cab2f9e4816b58ad2264eab7a6d
+# 08875167bd1b4844adcccef0b3928b6c
 #: ../source/frame.rst:27
 msgid ""
 "Clipboard: The left edge of the Frame serves as a clipboard. You can drag "
@@ -114,12 +144,22 @@ msgid ""
 "Activities. A hover menu also lets you remove them from the clipboard, open "
 "them in an Activity, or save (keep) them in your Journal."
 msgstr ""
+"Portapapeles: El borde izquierdo del marco actúa como portapapeles. Puede "
+"arrastrar objetos como imágenes y texto desde y hacia el portapapeles, y "
+"desde y hacia actividades. Un menú activable también le deja eliminarlos "
+"desde el portapapeles, abre en una actividad, o guardar (mantener) en tu "
+"Diario."
 
-# e298cfbd70e949af99ccdf4d4999e884
+# a7023234bdcf48b692092f0b4f34b687
 #: ../source/frame.rst:28
 msgid ""
-"System status (from left to right): Switch for the two modes of the touchpad "
-"(XO-1 only), external storage devices (e.g. thumb and hard drives), network "
-"status, text-to-speech, speaker (volume), and battery appear on the lower "
+"System status (from left to right): Switch for the two modes of the touchpad"
+" (XO-1 only), external storage devices (e.g. thumb and hard drives), network"
+" status, text-to-speech, speaker (volume), and battery appear on the lower "
 "edge of the Frame."
 msgstr ""
+"El estado del sistema (de izquierda a derecha): Interruptor para los dos "
+"modos de la pantalla táctil (XO-1 solamente), dispositivos de almacenamiento"
+" externo (e. g. pulgar y discos duros), estado de la red, de conversión de "
+"texto a voz, altavoz (volumen), y la batería aparece en el borde inferior "
+"del marco."

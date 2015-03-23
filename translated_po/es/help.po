@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,153 +17,188 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# cea75f5c03584d23a50983877eb093ed
+# 315faee1e9ad4ca19db3f82bc89875d9
 #: ../source/help.rst:3
 msgid "Help"
-msgstr ""
+msgstr "Ayuda"
 
-# 1acc56b91db14ea9bafa1d884cce6a1f
+# 6fc4e466678247ee82df8a7d3a5f0b0a
 #: ../source/help.rst:5
 msgid "Help displays documentation for Sugar and the XO laptop."
-msgstr ""
+msgstr "Ayuda muestra documentación de Azúcar y el portátil XO."
 
-# 02dd0235c22a4bffbfa31416a420c9aa
+# 81f381a693484c5499ab7fcceeeeba3f
 #: ../source/help.rst:9
 msgid ""
 "The image above is of the top of the screen, when the Activity Help is "
 "running. There is a simple range of tabs and buttons on the top row of the "
 "toolbar. Starting from the left, they are:"
 msgstr ""
+"La imagen de arriba es de la parte superior de la pantalla, cuando la "
+"actividad de ayuda está en marcha. Hay una sencilla serie de pestañas y "
+"botones en la fila superior de la barra de herramientas. A partir de la "
+"izquierda, que son:"
 
-# f135166a858c4f56b0512397f5d3d6ee
+# a88ee472cf414a019c494c53f0d8ebf6
 #: ../source/help.rst:11
 msgid "Activity tab or toolbar button."
-msgstr ""
+msgstr "Pestaña Actividad o botón de la barra."
 
-# dc6bb48f7b7046fdbba8e484709eccd2
+# 810d9d65f9b1471da75600b8b65c129a
 #: ../source/help.rst:13
 msgid "View toolbar button."
-msgstr ""
+msgstr "Ver botón de la barra."
 
-# b0226a985fe141dd9ba70867a2a42be2
+# 1449bd5e410b41e0840d9633b866545b
 #: ../source/help.rst:15
 msgid "Home button, brings you back to the index, or contents page."
 msgstr ""
+"Botón de inicio, le trae de vuelta al índice, o la página de contenido."
 
-# a9e04bf31f6447e2927771fe5de69098
+# 45ca74355a7440ffa0fb5598f5343f35
 #: ../source/help.rst:17
 msgid "Back button."
-msgstr ""
+msgstr "Botón Atrás."
 
-# ad82506ad74646e990b78fb87bb6570e
+# c3caadee77be4221bd3ea9a8d01ffeaa
 #: ../source/help.rst:19
 msgid "Forward button."
-msgstr ""
+msgstr "Botón Adelante."
 
-# 6cdb520fa3124ef085077f95c35fc674
+# 51d54b2cdb124470b51a22ff5712946d
 #: ../source/help.rst:21
 msgid "Stop, or close the Activity, on the far right of the toolbar."
 msgstr ""
+"Detener, o cerrar la actividad, en el extremo derecho de la barra de "
+"herramientas."
 
-# 74694a5120a24daa8419e306688af362
+# 29094cac86fb454e91fa28f9439b56e3
 #: ../source/help.rst:24
 msgid "Tour of Help"
-msgstr ""
+msgstr "Información de Ayuda"
 
-# a304b6233f324e6a981d3e6397a9742b
+# 9be69e6777894086a1cd37f36a658d47
 #: ../source/help.rst:25
 msgid "We see, working clockwise from top left:"
-msgstr ""
+msgstr "Vemos, en sentido horario de trabajo desde arriba a la izquierda:"
 
-# 1a1e4358f6ae4f74bdd41cd5784f3da9
+# f26acf54ae9c49c6b0291e7bbbe2e386
 #: ../source/help.rst:29
 msgid ""
 "Activity tab, here you can enter a name for the page or project. The "
 "\"pencil and book\" icon the Description button allows you to add a "
 "description to the :doc:`/journal` entry."
 msgstr ""
+"Pestaña Actividad, aquí se puede introducir un nombre para la página o "
+"proyecto. El \"lápiz y libro\" icono del botón Descripción le permite añadir"
+" una descripción al: doc: `entrada / journal`."
 
-# 1c17c4c938da43c6a0166f25fc979ecc
+# 5da4e67070a14ca498e3c98405f018e8
 #: ../source/help.rst:31
 msgid ""
 "The :doc:`/collaborating`, or sharing, icon is grayed out and not available."
 msgstr ""
+"El: doc: `/ collaborating`, o compartir, icono aparece atenuado y no está "
+"disponible."
 
-# f8d10faf2f0e4dcb9073a786dd9f07dc
+# 8dffc6cc81e040d386ad6652f72665c5
 #: ../source/help.rst:33
 msgid ""
 "In Help you do not really need to provide a name for the page you are "
-"researching, but it allows you to get back to it easily from the :doc:`/"
-"journal`."
+"researching, but it allows you to get back to it easily from the "
+":doc:`/journal`."
 msgstr ""
+"Ayuda usted realmente no necesita proporcionar un nombre para la página que "
+"se está investigando, pero le permite obtener de nuevo a él fácilmente desde"
+" el: doc: `/ journal`."
 
-# 01786992348f48cca529ed6cb7ca5172
+# 068cecc87be54f73a5e3b9cf0aff6af4
 #: ../source/help.rst:35
 msgid ""
 "View toolbar button. The buttons are zoom in, zoom out, and enlarge page to "
 "*Full screen*."
 msgstr ""
+"Ver botón de la barra. Los botones son acercar, alejar, y agrandar página a "
+"pantalla completa * *."
 
-# a11768c396b8480384ba22196cd9e61c
+# c0b34e74382343c6b405c2bdd12e8a6b
 #: ../source/help.rst:37
 msgid ""
 "*Next* button, top right of every page, takes you to the next page of Help."
 msgstr ""
+"* Siguiente * botón, arriba a la derecha de cada página, te lleva a la "
+"página siguiente de Ayuda."
 
-# c5768dbb48054b878c37a4c14071dcfc
+# c04f804ae7844f82b3caafb28dbde1e3
 #: ../source/help.rst:39
 msgid ""
 "Follow links in the index to jump to that page. Here the Activity FotoToon "
 "is being selected."
 msgstr ""
+"Siga los enlaces en el índice para ir a esa página. Aquí la Actividad "
+"FotoToon se selecciona."
 
-# 4e424fca9f65492f9d84809b0626c867
+# 9733b13488a14fbea7540d0edeeb88e2
 #: ../source/help.rst:41
 msgid "Forward and Back buttons help you navigate."
-msgstr ""
+msgstr "Adelante y Atrás botones le ayudan a navegar."
 
-# 97a5c62026d44da0bead3d647af7c3e3
+# 0b00a95f7b3946989e4fd738f31a7c71
 #: ../source/help.rst:43
 msgid ""
 "Use this small red icon, only showing when you hover the cursor over it, at "
 "the end of a paragraph heading, to place the paragraph well on your screen."
 msgstr ""
+"Utilice este pequeño icono rojo, mostrando sólo cuando se pasa el cursor "
+"sobre él, al final de una partida párrafo, para colocar el párrafo bien en "
+"su pantalla."
 
-# b22df936621c4fbbba7f6bb0e3a39635
+# 2b2b5e3fbec74db7950062bdc95d75aa
 #: ../source/help.rst:45
 msgid ""
 "Here we see a link to the OLPC getting started page. Within Help you can "
 "follow links, which take you onto the internet, when you are online."
 msgstr ""
+"Aquí vemos un enlace a la OLPC página Introducción. Dentro de Ayuda puede "
+"seguir enlaces, que te llevan a la Internet, cuando está en línea."
 
-# 4e06c007d1524150814b3e77f51119c9
+# d2605e07c7454bd8bf74c7ba8c1de28d
 #: ../source/help.rst:47
 msgid "The Home button brings you back to the index, or contents page."
 msgstr ""
+"El botón Inicio le trae de vuelta al índice, o la página de contenido."
 
-# 53a77a1858a64e05bd7ca000472cbfa7
+# e44e1a762226492ba1c30d416d859ea4
 #: ../source/help.rst:49
 msgid "Stop, or close the Activity."
-msgstr ""
+msgstr "Detener o cierre la Actividad."
 
-# d833824018094b5483c54d9997b74bb5
+# 1ef008030b9d426db0d41a1c4005841a
 #: ../source/help.rst:52
 msgid "Help read aloud"
-msgstr ""
+msgstr "Ayudar a leer en voz alta"
 
-# 127667468204491faf8eff97f6efcc44
+# 216e445bd04442e3b783a5c85e9553c2
 #: ../source/help.rst:54
 msgid ""
-"In Help, and other text based Activities, you can have robot Alice (the "
-"page :doc:`/speak` introduces Alice) read the page aloud in the background, "
+"In Help, and other text based Activities, you can have robot Alice (the page"
+" :doc:`/speak` introduces Alice) read the page aloud in the background, "
 "while you explore the Activity. See :ref:`say_selected_text`"
 msgstr ""
+"En Ayuda, y otras actividades realizadas en el texto, usted puede tener "
+"robot Alice (la página: doc: `/ speak` introduce Alice) leer la página en "
+"voz alta en el fondo, mientras explora la Actividad. Ver: ref: "
+"`say_selected_text`"
 
-# 0fd526329fe644ef8472b050eefee674
+# cbcb682aa7be49449eadb9190e81f488
 #: ../source/help.rst:56
 msgid ""
 "|more| The underlying software used to display Help, and for the user to "
 "edit within Help, is Sphinx. To explore the possibilities of documentation "
-"made using this software, please follow the link to *Sphinx* in the footnote "
-"below."
+"made using this software, please follow the link to *Sphinx* in the footnote"
+" below."
 msgstr ""
+"| Más información | El software subyacente utilizado para mostrar la Ayuda, "
+"y para el usuario que desea editar de Ayuda, es Esfinge. Para explorar las "
+"posibilidades de documentación realizados mediante este software, por favor "
+"siga el enlace a * * Esfinge en la nota de abajo."

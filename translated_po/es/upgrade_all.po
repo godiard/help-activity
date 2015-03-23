@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,20 +17,24 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 469c2421a7464926ad07f3803fc29208
+# 801fff7668194d8db079b55c8768a9a4
 #: ../source/upgrade_all.rst:3
 msgid "Upgrade all your Software"
-msgstr ""
+msgstr "Actualiza todo tu software"
 
-# b99035a8ae674a5894b37a88d68042c1
+# b869f106041344e2b35f283aec6a634a
 #: ../source/upgrade_all.rst:5
 msgid ""
 "Your XO comes pre-loaded with the software OS (operating system) designed "
 "for the XO. It is a good idea to keep your software up to date because our "
 "latest builds fix bugs in earlier releases and they are awesome!"
 msgstr ""
+"Tu XO viene pre-cargado con el sistema operativo de software (sistema "
+"operativo) diseñado para el XO. Es una buena idea para mantener su software "
+"actualizado porque nuestra últimas versiones corregir errores en versiones "
+"anteriores y que son impresionantes!"
 
-# f3245f9a3c524c4c955a57634099a86d
+# f6401aea27f04efeaccddeea88fb1626
 #: ../source/upgrade_all.rst:7
 msgid ""
 "The XO-1’s came with Sugar software. Did you know that with the latest "
@@ -39,29 +43,38 @@ msgid ""
 "transferable to using Windows or Mac OS. This Chapter will tell you how to "
 "upgrade your software."
 msgstr ""
+"¿Sabía usted que con el último software de su XO puede tener tanto azúcar y "
+"GNOME? . Este capítulo le dirá cómo actualizar el software."
 
-# c24c1fbef25b420aa96ed1d507149ffe
+# e7a640d01bb14e0d9c3bb5491960c119
 #: ../source/upgrade_all.rst:9
 msgid ""
 "The Software Releases can be found here: http://wiki.laptop.org/go/Releases"
 msgstr ""
+"Las versiones de software se pueden encontrar aquí: http: // wiki. portátil."
+" org / go / Releases"
 
-# be870a039f7440fcaa974c514c6ed245
+# f10d596816034d1f8b307409ed77f59d
 #: ../source/upgrade_all.rst:11
 msgid ""
 "The main page of the OLPC Wiki also contains links to the latest releases. "
 "http://wiki.laptop.org"
 msgstr ""
+"La página principal de la OLPC Wiki también contiene enlaces a los últimos "
+"comunicados. http: // wiki. portátil. org"
 
-# 960f1d13886541dda9266f08668f1f40
+# 4bf9021eaccc4f94a552df21c9cf95b0
 #: ../source/upgrade_all.rst:13
 msgid ""
 "There several methods of upgrading. Which one is right for you? Most people "
 "will want to use the \"clean install\" method. An overview of the upgrade "
 "options can be found here. http://wiki.laptop.org/go/Updating_the_XO"
 msgstr ""
+"Hay varios métodos de actualización. Cuál es el adecuado para usted? . Una "
+"visión general de las opciones de actualización se puede encontrar aquí. "
+"http: // wiki. portátil. org / go / Updating_the_XO"
 
-# 421300a60e5d4952b57d41258d5eb768
+# edcead0ede704086930c9d5c164c3d2a
 #: ../source/upgrade_all.rst:15
 msgid ""
 "Clear instructions on how to to change, upgrade, downgrade, or replace your "
@@ -69,8 +82,13 @@ msgid ""
 "you want to install here: http://wiki.laptop.org/go/Releases Next click on "
 "the Release notes for the release you will install."
 msgstr ""
+"Instrucciones claras sobre la forma de cambiar, mejorar, reducir o "
+"reemplazar su sistema operativo de XO se pueden encontrar en las notas de la"
+" versión. Elija la liberación (build) que desea instalar aquí: http: // "
+"wiki. portátil. org / go / Lanzamientos Luego haga clic en las notas de la "
+"versión para la liberación va a instalar."
 
-# 7333b830f6414ce09314c654d7922496
+# 15bf0b88cb204b70a2d5aeb4b176590a
 #: ../source/upgrade_all.rst:17
 msgid ""
 "Decide whether you want to do a clean install (Installation) which will "
@@ -78,8 +96,13 @@ msgid ""
 "offline update which will update the current software without erasing the "
 "existing Journal. Follow the instruction for the update method chosen."
 msgstr ""
+"Decida si quiere hacer una instalación limpia (Instalación) que formatear "
+"por completo su XO con archivos de una unidad USB, o una actualización en "
+"línea o fuera de línea que actualizar el software actual sin borrar el "
+"Diario existente. Siga las instrucciones para el método de actualización "
+"elegido."
 
-# 3851b80634244229b742db9deb08a754
+# d8f9f33366834352b92d89f2522b1f5f
 #: ../source/upgrade_all.rst:19
 msgid ""
 "A clean install uses a USB stick and the \"four button procedure\" to begin "
@@ -90,48 +113,56 @@ msgid ""
 "Internet access that will allow you to download the required 300-400MB "
 "within about an hour."
 msgstr ""
+"Una instalación limpia utiliza una memoria USB y los \"cuatro procedimiento "
+"botón\" para iniciar la actualización. Recordatorio Advertencia: Este método"
+" vuelve a formatos de su XO y todo en su XO se borrará si se utiliza este "
+"método. Va a seguir las instrucciones de las notas de la versión para la "
+"construcción elegido, y se necesita un dispositivo de almacenamiento USB que"
+" tiene al menos 1 GB de espacio libre y un ordenador con acceso a Internet "
+"que le permitirá descargar el 300-400MB requerido dentro de aproximadamente "
+"."
 
-# 718624aee7044e2fbf06ad14bc4a449b
+# 165cdcdfbba340f495134822f755e632
 #: ../source/upgrade_all.rst:23
 msgid "1 - Battery indicator"
-msgstr ""
+msgstr "1 - Indicador de batería"
 
-# a31d36ce5f88467e9360b6cde8f1d126
+# a6a13ccd499b43a783a1381b4a8eab1b
 #: ../source/upgrade_all.rst:24
 msgid "2 - Power indicator"
-msgstr ""
+msgstr "2 - Indicador de alimentación"
 
-# 60d8ce63f6ff4566991bf7ab485aafe5
+# aaba08cae3064082af8ef7225b4bd73f
 #: ../source/upgrade_all.rst:25
 msgid "3 - Power button"
-msgstr ""
+msgstr "3 - Botón de encendido"
 
-# eed54ee3bd9c43f287ccc0ed0f4d597b
+# 3adcbb95bbd544a18970beb662e99b3b
 #: ../source/upgrade_all.rst:26
 msgid "4 - Game buttons"
-msgstr ""
+msgstr "4 - Botones de juego"
 
-# 7a6b8fe6918241568082b7e557714aff
+# a8f1e64e759a430aa737dd4230554c2d
 #: ../source/upgrade_all.rst:28
 msgid "Follow these steps to upgrade your XO"
-msgstr ""
+msgstr "Siga estos pasos para actualizar su XO"
 
-# 8a896a893af44d28922020e428a23809
+# 7be9070166114c8bb61d3e5db8e8d0cf
 #: ../source/upgrade_all.rst:30
 msgid "Connect your XO to its charger."
-msgstr ""
+msgstr "Conecte su XO a su cargador."
 
-# ad0d049f719d474984e64ca1c7415ff3
+# 87dda18f114f4ddf814160f700690750
 #: ../source/upgrade_all.rst:32
 msgid "Turn off your XO."
-msgstr ""
+msgstr "Apague su XO."
 
-# 725afd3745ef40ebb487e898514f7792
+# 89c603e45d3e486b842c11beeeaf2790
 #: ../source/upgrade_all.rst:34
 msgid "Connect your prepared USB storage device to your XO."
-msgstr ""
+msgstr "Conecte el dispositivo de almacenamiento USB preparado para su XO."
 
-# 6370623d56524f7c8ff1237143f75d5e
+# fafdea6726d54055bc807e4f0ec0db78
 #: ../source/upgrade_all.rst:36
 msgid ""
 "Next, hold down all four gamepad keys above the power button, and then push "
@@ -139,33 +170,43 @@ msgid ""
 "to \"Release the game key to continue\". Do not continue until you see this "
 "message."
 msgstr ""
+"A continuación, mantenga pulsada las cuatro teclas gamepad sobre el botón de"
+" encendido, y luego presione el botón de encendido para encender el XO en. "
+"Usted verá un mensaje que le dice que \"Suelte la tecla juego para "
+"continuar\". No continúe hasta que vea este mensaje."
 
-# e0043ed0ee6e408aaab2f69709d06e04
+# 3db929f78e7f46378431c1a5f1062731
 #: ../source/upgrade_all.rst:38
 msgid ""
-"Release the gamepad keys.  The reflash process runs automatically; first you "
-"will see the XO arrange and color in a grid of boxes, then the XO will "
+"Release the gamepad keys.  The reflash process runs automatically; first you"
+" will see the XO arrange and color in a grid of boxes, then the XO will "
 "display \"Rebooting in 10 seconds...\""
 msgstr ""
+"Suelte las teclas gamepad. El proceso reflash ejecuta automáticamente; . . ."
+" \""
 
-# 49cba1700bf249e8af1cb4dcc95a0e19
+# 01f6587b16744df583438908bd852f12
 #: ../source/upgrade_all.rst:40
 msgid "The XO will then restart with a clean image."
-msgstr ""
+msgstr "La XO se reiniciará con una imagen limpia."
 
-# d1b81a136c804718a4f4ee5d63528f7f
+# 5afd7afebbb6464bac7c5634d7db14e4
 #: ../source/upgrade_all.rst:42
 msgid "Enter your name for your XO and then click Next."
-msgstr ""
+msgstr "Escriba su nombre para su XO y luego haga clic en Siguiente."
 
-# 8c0977d812ac4152b661bf7672b1ddeb
+# d05b1499f9c64fd7a5f59d78443b4cf6
 #: ../source/upgrade_all.rst:44
 msgid "Click the XO icon to change the colors and then click Done."
 msgstr ""
+"Haga clic en el icono de XO para cambiar los colores y luego haga clic en "
+"Hecho."
 
-# 20b685d16c4c4e398a9589ed346de365
+# c62b843266ae4adcbe42f119b5878fb3
 #: ../source/upgrade_all.rst:46
 msgid ""
 "Optionally, connect your XO to the Internet, then use the Control Panel to "
 "download the latest Activities."
 msgstr ""
+"Opcionalmente, conecte su XO a Internet, a continuación, utilizar el panel "
+"de control para descargar las últimas actividades."

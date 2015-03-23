@@ -1,14 +1,14 @@
 # Spanish translations for Sugar package.
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
-# Automatically generated, 2014.
-#
+# Automatically generated, 2015.
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-12-18 17:10\n"
-"PO-Revision-Date: 2013-12-18 17:10\n"
+"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -17,25 +17,29 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-# 0da9b0c1eb254008af4deac36446b829
+# 63eb7fe4570d48d4867c37facf94797b
 #: ../source/give_me_the_internet.rst:3
 msgid "Give Me the Internet"
-msgstr ""
+msgstr "Déme Internet"
 
-# 832b5d5e01384a3f979da494a0703a81
+# 002fe5a265ef4a8aab20e1eecb727f49
 #: ../source/give_me_the_internet.rst:6
 msgid "Give Me the Internet, Please"
-msgstr ""
+msgstr "Déme la Internet, por favor"
 
-# 19a0279ce8364bebb4c38779c847ca4e
+# f4cc6312ea07446294a54830e8cd0e21
 #: ../source/give_me_the_internet.rst:8
 msgid ""
-"The designers of the XO laptop designed it for primarily wireless access, so "
-"it can work well in developing nations, where it is faster and less "
+"The designers of the XO laptop designed it for primarily wireless access, so"
+" it can work well in developing nations, where it is faster and less "
 "expensive to introduce wireless connections than wired ones."
 msgstr ""
+"Los diseñadores de la laptop XO diseñadas para el acceso inalámbrico "
+"principalmente, por lo que puede funcionar bien en las naciones en "
+"desarrollo, donde es más rápido y menos costoso para introducir conexiones "
+"inalámbricas que los cableados."
 
-# d7241c7e4c294fffa1ab428802ad909a
+# 1d09047db74f4f64bfd2ea49852eadf4
 #: ../source/give_me_the_internet.rst:10
 msgid ""
 "XOs are designed to connect to other XOs using a mesh network. A mesh "
@@ -43,135 +47,170 @@ msgid ""
 "(wirelessly) without the need for a traditional Internet Service Provider "
 "(ISP)."
 msgstr ""
+"XO están diseñados para conectarse a otros XO utilizando una red de malla. "
+"Una red de malla permite laptops XO cercanas a hablar entre sí directamente "
+"(sin cables) sin la necesidad de un proveedor de servicios tradicionales de "
+"Internet (ISP)."
 
-# 59dabde397f9469a98e84a8741942566
+# 470551e4893a4e36a472d28f8349cb53
 #: ../source/give_me_the_internet.rst:12
 msgid ""
 "The XO also supports wireless connections for direct Internet connection. "
 "Collaboration with others on Activities does not require an Internet "
 "connection."
 msgstr ""
+"La XO también admite conexiones inalámbricas para la conexión directa a "
+"Internet. Colaboración con otros en actividades no requiere una conexión a "
+"Internet."
 
-# dd10245c45df4b9887bc3244c3ab91f5
+# 6e56ab0f98ff43d59f1986f3117ab4d6
 #: ../source/give_me_the_internet.rst:14
 msgid "There are different ways to connect to the Internet:"
-msgstr ""
+msgstr "Hay diferentes maneras de conectarse a Internet:"
 
-# 80b732045d534960b48effe86db2f435
+# 1e40a3f4fbe44e5c8767d041e22b732a
 #: ../source/give_me_the_internet.rst:16
 msgid ""
 "using a wireless access point such as a WiFi hotspot at a library or coffee "
 "shop, or a location that has a wireless router such as your house"
 msgstr ""
+"utilizando un punto de acceso inalámbrico, como un punto de acceso WiFi en "
+"una biblioteca o en la cafetería, o un lugar que tiene un router inalámbrico"
+" como su casa"
 
-# 66153fba40394f9a96e260558dfb35ff
+# 3cc7c7ed17aa482cb656b62d78a0765a
 #: ../source/give_me_the_internet.rst:17
 msgid "using a \"School Server\" provided by your school system"
-msgstr ""
+msgstr "usando un \"Servidor Escolar\" recibida por su sistema escolar"
 
-# 35c65810c95946cbb1396604ca0361fb
+# 14d14b545e7b4e2486545f1c181f3084
 #: ../source/give_me_the_internet.rst:18
 msgid ""
 "using a USB-to-Ethernet cable that plugs into a cable modem, DSL modem, or "
 "local network such as those offered at a home or workplace"
 msgstr ""
+"mediante un cable USB a Ethernet que se conecta a un módem por cable, módem "
+"DSL o red local, como los ofrecidos en un hogar o lugar de trabajo"
 
-# 33c0c68d7ac6472e84876928882f2203
+# 5cb31be0e0ab40f98dd975b008bd226e
 #: ../source/give_me_the_internet.rst:21
 msgid "Before you connect"
-msgstr ""
+msgstr "Antes de conectar"
 
-# 3de89a86beb04d0f8b6f3fc644e82cac
+# a92bfbe23ba046c2b999c68620123855
 #: ../source/give_me_the_internet.rst:23
 msgid ""
 "If you are going to connect at school or at home, check with your ISP to "
-"find out if the network is protected with a password. Your router also has a "
-"password which can be found in its documentation. Become familiar with your "
-"wireless router settings so that you can troubleshoot the connection if "
+"find out if the network is protected with a password. Your router also has a"
+" password which can be found in its documentation. Become familiar with your"
+" wireless router settings so that you can troubleshoot the connection if "
 "needed. The Troubleshooting chapter offers some assistance."
 msgstr ""
+"Si va a conectar en la escuela o en el hogar, consulte con su ISP para "
+"averiguar si la red está protegida con una contraseña. El router también "
+"tiene una contraseña que se puede encontrar en su documentación. "
+"Familiarizarse con la configuración del router inalámbrico para que pueda "
+"solucionar la conexión si es necesario. El capítulo Solución de problemas "
+"ofrece alguna asistencia."
 
-# b2c79d10d62f4896b48d7a7b8149b983
+# a2a44053f2a04ee6b274cf1da03187b4
 #: ../source/give_me_the_internet.rst:25
 msgid ""
-"Check your current connection status as shown in the lower right area on the "
-"Frame. If you have connected successfully in the past, the XO \"remembers\" "
-"the connection and will connect again in the future."
+"Check your current connection status as shown in the lower right area on the"
+" Frame. If you have connected successfully in the past, the XO \"remembers\""
+" the connection and will connect again in the future."
 msgstr ""
+"Compruebe el estado de conexión actual como se muestra en la parte inferior "
+"derecha de la Armadura. Si ha conectado con éxito en el pasado, el XO "
+"\"recuerda\" la conexión y se conectará de nuevo en el futuro."
 
-# d16be067aa184237a70094beb7cd2e84
+# d1ce63b8ab5742ae984c0542e9a7dc82
 #: ../source/give_me_the_internet.rst:29
 msgid ""
 "Go to a location with your XO where you know there is a Wireless Access "
 "Point (WAP) nearby."
 msgstr ""
+"Ir a un lugar con su XO donde se sabe que hay un punto de acceso inalámbrico"
+" (WAP) en las inmediaciones."
 
-# 9e66a4e26bb24483a3899a63bb2d27c1
+# ee79ce970bb74a1f8771d862b9d41bd0
 #: ../source/give_me_the_internet.rst:31
 msgid ""
 "Find out the network name (or SSID) and its password, if it is secured with "
 "a password. The XO refers to this as the Wireless Key."
 msgstr ""
+"Averigüe el nombre de la red (o SSID) y la contraseña, si se protege con una"
+" contraseña. La XO se refiere a esto como la Llave Inalámbrica."
 
-# a74477f834994bd78f6086df937d3fad
+# f70e870a44454f8d9a58bcadffbdb046
 #: ../source/give_me_the_internet.rst:34
 msgid "Connecting"
-msgstr ""
+msgstr "Conexión"
 
-# bd1604b86cc249b08faadc3e8137b90d
+# e172550e90b4470d9771e476b57c1398
 #: ../source/give_me_the_internet.rst:36
 msgid "Go to the Neighborhood View."
-msgstr ""
+msgstr "Vaya a la vista de Vecindario."
 
-# a59b457a5fd24d149c16187e639ff4bd
+# e3fc8a496dd043aaa1075535ca5d5857
 #: ../source/give_me_the_internet.rst:41
 msgid ""
 "In the Search field, enter the name of the network to which you want to "
 "connect."
 msgstr ""
+"En el campo Buscar, escriba el nombre de la red a la que desea conectarse."
 
-# e370ca36872f429099c9b2b46f42fab7
+# 9259714e5e984b31b43b7f89b078bfc5
 #: ../source/give_me_the_internet.rst:45
 msgid ""
 "Or roll the pointer over one of the network access circles until you "
 "recognize the name of the wireless network."
 msgstr ""
+"O rodar el puntero sobre uno de los círculos de acceso a la red hasta que "
+"reconozcas el nombre de la red inalámbrica."
 
-# 9d892558316a47349cb04d36ee78ffb2
+# 90e939cba048424b93ca3692a927ecd4
 #: ../source/give_me_the_internet.rst:50
 msgid "Checking name of an AP"
-msgstr ""
+msgstr "Comprobación de nombre de un punto de acceso"
 
-# 80e34686075246d99fb136466582fecb
+# f60cd20673864ac38b16a09e4348676e
 #: ../source/give_me_the_internet.rst:52
 msgid "Connect by clicking the center of the circle."
-msgstr ""
+msgstr "Conecte haciendo clic en el centro del círculo."
 
-# 1be0fa2a87874cbf8d0bb37ee4d76576
+# 67765ad362bb4e6481c35e724b8aa558
 #: ../source/give_me_the_internet.rst:56
 msgid ""
 "Wireless access points are represented by circles. The fill level indicates "
 "signal strength."
 msgstr ""
+"Puntos de acceso inalámbrico están representados por círculos. El nivel de "
+"llenado indica la intensidad de señal."
 
-# d25b34280b5a4486ac0375e92b0967d0
+# a1b3697c2e824b70baa4fdfdbe3fc099
 #: ../source/give_me_the_internet.rst:60
 msgid "Access points that require keys have a \"locked\" icon."
 msgstr ""
+"Los puntos de acceso que requieren teclas tienen un icono de \"bloqueado\"."
 
-# 187d20034f064f6ab261921060365463
+# 58cea01e67134fb0bef64fb5bd0d91e7
 #: ../source/give_me_the_internet.rst:64
 msgid ""
 "Access points that you have successfully connected to become \"Favorites\" "
 "as indicated by a star icon."
 msgstr ""
+"Los puntos de acceso que se ha conectado con éxito a convertirse en "
+"\"Favoritos\" según lo indicado por un icono de estrella."
 
-# 29fafc0e2ef143f6b157b1271e520418
+# 19942840d1dd482f8b84797f7441249e
 #: ../source/give_me_the_internet.rst:66
 msgid "TODO: Picture_49.png  need a new screen shot for the new mesh network"
 msgstr ""
+"TODO: Picture_49. png necesita una nueva captura de pantalla para la nueva "
+"red de malla"
 
-# 250092248f6644c09a6f7dbb0b538734
+# 09288903346842b48c6fd5a3039ef36b
 #: ../source/give_me_the_internet.rst:68
 msgid ""
 "Access points that represent the Mesh network are indicated with a target "
@@ -179,74 +218,91 @@ msgid ""
 "Hover your pointer over the access point to see if you're already connected "
 "or if you need to click to connect."
 msgstr ""
+"Los puntos de acceso que representan la red de malla se indican con un icono"
+" de objetivo, con una para el canal 1, uno para el canal 6, y uno para el "
+"canal 11. Sitúe el puntero sobre el punto de acceso para ver si ya está "
+"conectado o si es necesario hacer clic para conectarse."
 
-# 5a7a74d7cd9f44a0897b94a6771cefa6
+# 174e46a59a974f308b1c84a8062d6683
 #: ../source/give_me_the_internet.rst:72
 msgid "Connected"
-msgstr ""
+msgstr "Conectado"
 
-# eaae95f97a114417a48325a1cefcc8f2
+# 28f73a61658f49578feae52316c61e98
 #: ../source/give_me_the_internet.rst:76
 msgid "Not yet connected"
-msgstr ""
+msgstr "Todavía no conectado"
 
-# 4c05c0b1dd0e4701b5c50f4b501caefb
+# b3ea0126316440c48e3026eb585d9423
 #: ../source/give_me_the_internet.rst:78
 msgid "The name of the access point is displayed when you hover over it."
-msgstr ""
+msgstr "El nombre del punto de acceso se muestra cuando se pasa sobre ella."
 
-# 1fe1333cba1441669c18067b7f7ac495
+# a37cdad548fb4dc7bc6850eca0c42617
 #: ../source/give_me_the_internet.rst:80
 msgid "The center of the circle blinks while the laptop is trying to connect."
 msgstr ""
+"El centro del círculo parpadea mientras que el portátil está intentando "
+"conectarse."
 
-# 3820a47a922d4843958747b3cb7815ea
+# 018d39d1c7ff400683b9b56f29281de0
 #: ../source/give_me_the_internet.rst:84
 msgid ""
 "Enter the wireless key if prompted. You might need to ask your teacher or "
 "parent for the wireless key."
 msgstr ""
+"Introduzca la clave inalámbrica si se le pide. Puede que tenga que pedirle a"
+" su maestro o padre de la llave inalámbrica."
 
-# 9a4af5e29f2248cdba00a012cbe92239
+# 56dbe53236384b528c0558cd76aa0a01
 #: ../source/give_me_the_internet.rst:86
 msgid "Entering wireless encryption (WEP) password"
-msgstr ""
+msgstr "Entrando encriptación inalámbrica (WEP) contraseña"
 
-# 9dece9f0f1574ef5abe63bbbbf64ee58
+# f3a072fc919d4f4e91c715c0f20636bc
 #: ../source/give_me_the_internet.rst:88
 msgid "While the XO is connecting to the network, the Access Point blinks."
 msgstr ""
+"Mientras que el XO se conecta a la red, los parpadeos de punto de acceso."
 
-# 9369db63f9b0440f827cd0497894a763
+# 88da7f09ccd5478bb8c55ce4825512b5
 #: ../source/give_me_the_internet.rst:90
 msgid ""
 "Once you are connected, the menu on the circle in the Neighborhood View "
 "changes, and you can see a circle in the lower right area of the Frame."
 msgstr ""
+"Una vez conectado, el menú en el círculo en el Barrio Vista cambia, y se "
+"puede ver un círculo en la parte inferior derecha del marco."
 
-# dd5c5d1bd8214f0c807e198e47c52124
+# 56aef9850d9a49aa9d29b85fd1b6e595
 #: ../source/give_me_the_internet.rst:94
 msgid ""
 "if the attempt to connect fails, the circle stops blinking, but the access "
 "point icon does not appear in the Frame. Click the circle in the "
 "Neighborhood View to try again—it sometimes takes 2–3 tries to connect."
 msgstr ""
+"si el intento de conexión falla, el círculo deja de parpadear, pero el icono"
+" de punto de acceso no aparece en el Marco."
 
-# 968bcd44b1be4c959b8d4939dd66a556
+# d5b63389f95b4b6da7b6d7b77a6dec73
 #: ../source/give_me_the_internet.rst:96
 msgid ""
 "To disconnect from the network, hover the pointer over the access point and "
 "click Disconnect on the menu."
 msgstr ""
+"Para desconectarse de la red, pase el puntero sobre el punto de acceso y "
+"haga clic en Desconectar en el menú."
 
-# 5e2f5141f34945589063a5420672a52a
+# 7a88a901ae7a448cbf247e208f8fce94
 #: ../source/give_me_the_internet.rst:100
 msgid ""
 "Once your XO is connected, you can return back to the Home View and launch "
 "the Browse Activity."
 msgstr ""
+"Una vez que su XO está conectado, puede volver de nuevo a la vista principal"
+" y poner en marcha la actividad Navegar."
 
-# ed5e0ccf953043b38cbca6825bed4ab3
+# e0b78c81154a457593bb79effc57814c
 #: ../source/give_me_the_internet.rst:106
 msgid ""
 "If you have not yet added the Browse Activity to your favorites, click the "
@@ -255,21 +311,31 @@ msgid ""
 "by clicking the globe icon (2). Next time, you can use the freeform view to "
 "launch it (as is done in the next step)."
 msgstr ""
+"Si usted todavía no ha añadido la Actividad Navegar a tus favoritos, haga "
+"clic en la vista de lista (izquierda) y de desplazamiento para navegar. "
+"Añadir la actividad a su lista de favoritos haciendo clic en la estrella al "
+"lado (1). Lanzamiento Navegar por primera vez haciendo clic en el icono del "
+"globo (2). La próxima vez, usted puede utilizar la vista de forma libre para"
+" lanzarlo (como se hace en el paso siguiente)."
 
-# e4c9e78c3ab0407ebec0da5b51d3401d
+# dcd551e37f834b258dd80f602a6c5ce9
 #: ../source/give_me_the_internet.rst:107
 msgid ""
 "If you have added the Browse Activity to your favorites list, you can click "
 "the globe icon to open the Browse Activity and test your access to the "
 "Internet."
 msgstr ""
+"Si ha agregado la Actividad Navegar a tu lista de favoritos, puede hacer "
+"clic en el icono del globo para abrir el Navegar Actividad y probar su "
+"acceso a Internet."
 
-# 9d87ad59e1aa4db5988f136fa6affb90
+# 2d3bbc9466914625a7ec2d54fe0ed88b
 #: ../source/give_me_the_internet.rst:109
 msgid "Click the globe icon to launch the Browse Activity."
 msgstr ""
+"Haga clic en el icono del globo para iniciar la Exploración Actividad."
 
-# 7964208b9a244bd8a04f5cc88defbbda
+# 6f2976114cb3464cb8245240de5b7fbc
 #: ../source/give_me_the_internet.rst:113
 msgid ""
 "If you cannot see an Access Point with a name that you recognize, the "
@@ -277,13 +343,18 @@ msgid ""
 "working properly. For more information, or if you have difficulties getting "
 "a network connection, refer to the Troubleshooting chapter."
 msgstr ""
+"Si usted no puede ver un punto de acceso con un nombre que usted reconoce, "
+"la antena inalámbrica puede estar demasiado lejos, o el punto de acceso no "
+"esté funcionando correctamente. Para obtener más información, o si tiene "
+"dificultades para obtener una conexión de red, consulte el capítulo de "
+"solución de problemas."
 
-# cc15e7bfaaff4100b779928a8401dccd
+# 883f22331fd34823928d2bba69767bd4
 #: ../source/give_me_the_internet.rst:115
 msgid "More information about your XO's connection:"
-msgstr ""
+msgstr "Más información acerca de la conexión de XO:"
 
-# 93fcc7b66fa64d219949c40c7040d642
+# 0f802d00078b4638bf710ea74f4b0ea0
 #: ../source/give_me_the_internet.rst:117
 msgid ""
 "Your Wireless Access Point has a network name, also called an SSID, that "
@@ -291,44 +362,59 @@ msgid ""
 "hidden, which is configured on the access point. Refer to the "
 "Troubleshooting chapter for more information about hidden SSIDs."
 msgstr ""
+"Su punto de acceso inalámbrico tiene un nombre de red, también denominado "
+"SSID, que aparece en la vista de Vecindario. La XO no puede reconocer SSID "
+"que están ocultos, que está configurado en el punto de acceso. Consulte el "
+"capítulo Solución de problemas para obtener más información acerca de los "
+"SSID ocultos."
 
-# 56d2d7b17d114dac822e290779f4dc91
+# 7ba637b2f8c6475caf67e4f579d54ed3
 #: ../source/give_me_the_internet.rst:118
 msgid ""
 "If you are connected to the Internet, your XO laptop cannot be on the mesh "
 "network, and if your XO is on a mesh network, it cannot simultaneously "
 "connect wirelessly to the Internet."
 msgstr ""
+"Si está conectado a Internet, su computadora portátil XO no puede estar en "
+"la red de malla, y si su XO está en una red de malla, no se puede conectar "
+"al mismo tiempo de forma inalámbrica a Internet."
 
-# 9dc01f9724ec4c3fb324fc7678c38c5c
+# 37eebe39d5c54ffcaaa74d5b3ed1255e
 #: ../source/give_me_the_internet.rst:121
 msgid "Mesh or AP"
-msgstr ""
+msgstr "Malla o AP"
 
-# 9b4687c905304069848d58fd81b21945
+# acb243f869a0443593be0d9ee1f587da
 #: ../source/give_me_the_internet.rst:123
 msgid ""
-"If the XO cannot find an available Internet network point after five minutes "
-"of searching, it defaults to Mesh Network 1, which enables your XO laptop to "
-"connect to other nearby XO laptops."
+"If the XO cannot find an available Internet network point after five minutes"
+" of searching, it defaults to Mesh Network 1, which enables your XO laptop "
+"to connect to other nearby XO laptops."
 msgstr ""
+"Si la XO no puede encontrar un punto de la red Internet después de cinco "
+"minutos de búsqueda, que por defecto es de malla de red 1, que permite a su "
+"laptop XO para conectarse a otras computadoras XO cercanas."
 
-# b22b168ffa3043e395c6d2508170a880
+# 670f54bf8ee2469ea5364cc96181caab
 #: ../source/give_me_the_internet.rst:124
 msgid ""
 "Please be patient; it can take your XO up to a minute to find newly visible "
 "networks."
-msgstr ""
+msgstr "Por favor, sea paciente; ."
 
-# 4d28920900c647d68384647fafa90585
+# e335bbb429cc4c84b6beb0bcc18f5306
 #: ../source/give_me_the_internet.rst:125
 msgid ""
 "Sometimes you'll be asked to enter the \"Wireless Key\" again. Enter it "
 "again and repeat until your connection is complete."
 msgstr ""
+"A veces se le pedirá que introduzca la \"Llave Inalámbrica\" ​​de nuevo. "
+"Entrar en ella de nuevo y repetir hasta que su conexión es completa."
 
-# 1755e4048a794d089b35fcafac3c8168
+# 18ad13acd0694dd1a75c3f6d4ac81c27
 #: ../source/give_me_the_internet.rst:127
 msgid ""
 "For more information about connecting, please see the Support FAQ online."
 msgstr ""
+"Para obtener más información sobre la conexión, consulte la Ayuda en línea "
+"FAQ."
