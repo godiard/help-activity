@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # 3ca1a0daf6de4cd0ad9bc4a27ea93b28
 #: ../source/what_is_an_activity.rst:3
 msgid "What is an Activity"
-msgstr ""
+msgstr "Ki sa ki se yon aktivite"
 
 # e415d16bafb14a50a15ad313e4db9870
 #: ../source/what_is_an_activity.rst:5
@@ -28,24 +28,30 @@ msgid ""
 "Activities are found on your “Home” view in the circle around your “person” "
 "icon."
 msgstr ""
+"Aktivite yo se bagay sa yo ou itilize yo fè pwojè nan Sugar sou XO ou."
 
 # 8bd6978ee43d4f99a88926f552e68635
 #: ../source/what_is_an_activity.rst:9
 msgid ""
-"These activities have been selected from all those installed on your laptop. "
-"They are called “Favorites”. You can change this list at any time by "
+"These activities have been selected from all those installed on your laptop."
+" They are called “Favorites”. You can change this list at any time by "
 "clicking on the “List” view (1) in the upper right corner of your screen."
 msgstr ""
+"Aktivite sa yo yo te chwazi nan tout moun sa yo enstale sou laptop ou."
 
 # b0de0eff48894b83bff4e557f52f2b47
 #: ../source/what_is_an_activity.rst:11
 msgid ""
 "To start an activity, you can click its icon. This will open the last "
 "project you were working on. You can also see all your recent projects by "
-"hovering your pointer over the icon and look for the name of which you saved "
-"your project. In order to open a new session, hover your pointer on the icon "
-"and click “start new”."
+"hovering your pointer over the icon and look for the name of which you saved"
+" your project. In order to open a new session, hover your pointer on the "
+"icon and click “start new”."
 msgstr ""
+"Pou yo kòmanse yon aktivite, ou ka klike sou ikòn li yo. Sa a pral louvri "
+"dènye pwojè a ou te ap travay sou. Ou ka wè tou tout pwojè ki sot pase ou pa"
+" elikopte konsèy ou sou icon nan epi gade pou non an nan ki ou sove pwojè ou"
+" a."
 
 # 6c5c43724c7748909a9ef8862776c914
 #: ../source/what_is_an_activity.rst:13
@@ -59,6 +65,10 @@ msgid ""
 "and Speak. There are other Activities that require some learning and "
 "exploration, such as Turtle Art, Etoys, and Scratch."
 msgstr ""
+"Journal la kenbe yon dosye sou tout sa ou fè sou XO a. Li te tou estoke "
+"dosye yo ou kreye ak aktivite ou. Gen kèk Aktivite pa bezwen enstriksyon "
+"oswa esplikasyon, tankou labirent ak Pale. Gen lòt aktivite ki mande pou kèk"
+" aprantisaj ak eksplorasyon, tankou Turtle Atizay, Etoys, ak reyur."
 
 # b514b97c07c34677840e09190de1103e
 #: ../source/what_is_an_activity.rst:15
@@ -70,12 +80,22 @@ msgid ""
 "Scratch, Etoys, TurtleArt. You can also make music with Tam Tam and use it "
 "in your animation, or story or Memorize game."
 msgstr ""
+"Gen Aktivite ki fè yo jwèt, tankou Memorize ak enplod. Gen kèk fè fonksyon "
+"debaz tankou dokiman ekri (Ekri), pran foto oswa videyo (Dosye), oswa "
+"Navigasyon entènèt la (Browse). Lòt Aktivite pèmèt ou kreye imaj konplèks, "
+"jwèt, Animations ak pwogram: grafouyen, Etoys, TurtleArt. Ou kapab tou fè "
+"mizik ak Tam Tam epi sèvi ak li nan animasyon ou a, oswa istwa oswa Memorize"
+" jwèt."
 
 # 9da3adfee05844db8d86378b98ec79e6
 #: ../source/what_is_an_activity.rst:17
 msgid ""
 "A set of Activities is pre-installed with the Sugar environment. More "
 "Activities can be found and added to your XO from the Sugar Activity "
-"Library, http://activities.sugarlabs.org. You can also add Activities from a "
-"USB drive (thumb drive)."
+"Library, http://activities.sugarlabs.org. You can also add Activities from a"
+" USB drive (thumb drive)."
 msgstr ""
+"Yon seri Aktivite se pre-enstale ak anviwònman an Sugar. Plis Aktivite ka "
+"jwenn ak ajoute nan XO ou soti nan bibliyotèk la pou Aktivite Sugar, http: "
+"// aktivite. sugarlabs. org. Ou kapab tou ajoute Aktivite ki sòti nan yon "
+"kondwi USB (kondwi gwo pous)."

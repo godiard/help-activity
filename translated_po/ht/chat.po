@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 82b2e6ed1d0a4c408180f8931d2f44e3
 #: ../source/chat.rst:3
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 # 30ff843f20354fc8961ec9e4d75571e4
 #: ../source/chat.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 8f17cd9308184036bb5f6ac9e1f70988
 #: ../source/chat.rst:8
@@ -34,16 +34,20 @@ msgid ""
 "something private that happened in your life. You need at least two active "
 "XOs to chat - your own and the one that your friend uses."
 msgstr ""
+"Se aktivite a Chat itilize fè echanj mesaj avèk zanmi ou oswa kamarad klas. "
+"Ou ka chat sou yon sijè w ap etidye oswa ou ka pataje yon bagay prive sa ki "
+"te rive nan lavi ou. Ou bezwen omwen de XO aktif nan chat - pwòp ou a ak yon"
+" sèl la ki zanmi ou a itilize."
 
 # 0349d869cbb74417877c4f884bc21270
 #: ../source/chat.rst:13
 msgid "Using Chat"
-msgstr ""
+msgstr "Lè l sèvi avèk Chat"
 
 # fb15209b67f24e848805a62e83ad9b24
 #: ../source/chat.rst:16
 msgid "Starting Chat"
-msgstr ""
+msgstr "Koumanse Chat"
 
 # 4d5591dd37c54b72a1c2e9fbae2d8bca
 #: ../source/chat.rst:18
@@ -52,6 +56,9 @@ msgid ""
 "activity, with one or many other \"Friends\" in your \"Neighborhood\", or "
 "those connected to your olpc mesh network."
 msgstr ""
+"Chat kreye konvèsasyon tèks ak lòt moun XO itilizatè. Chat se yon aktivite "
+"Pataje, ak youn oswa anpil lòt \"zanmi\" nan \"Katye\" ou, oswa moun ki "
+"konekte nan rezo may ou OLPC."
 
 # 0659b61a09084fd6b3495f56df81c115
 #: ../source/chat.rst:20
@@ -60,11 +67,14 @@ msgid ""
 "home view, click the star on the left side of the icon. Now click on the "
 "Chat icon to start."
 msgstr ""
+"Icon la Aktivite Chat se yon ti wonn lapawòl. Pou ajoute aktivite a Chat nan"
+" gade kay ou, klike sou zetwal la ki sou bò gòch nan icon a. Koulye a, klike"
+" sou icon nan Chat yo kòmanse."
 
 # 0506efbd65944673a3580c3b7885d081
 #: ../source/chat.rst:25
 msgid "Sharing Chat"
-msgstr ""
+msgstr "Pataje Chat"
 
 # 2815268c116a4caeae27b7114f1e70e2
 #: ../source/chat.rst:27
@@ -72,6 +82,8 @@ msgid ""
 "You can either share Chat publicly or keep it private and invite specific "
 "people to join."
 msgstr ""
+"Ou kapab swa pati Chat piblikman oswa kenbe li prive ak envite moun "
+"espesifik yo rantre nan."
 
 # 9aecbbfe29234ef28528e77e715a01f3
 #: ../source/chat.rst:29
@@ -79,15 +91,21 @@ msgid ""
 "In the Chat toolbar, there is a circle icon with a dot.  Click on this icon "
 "and select the neighborhood or public sharing."
 msgstr ""
+"Nan ba ikòn nan Chat, gen yon icon sèk ki gen yon dot. Klike sou icon sa a "
+"epi chwazi katye an oswa pataje piblik."
 
 # 27689ac34c874e418ee0d7a87adee6c4
 #: ../source/chat.rst:33
 msgid ""
 "When you have selected the Neighborhood View, find a friend to invite  and "
-"hold the pointer on their icon until the \"Invite to\" popup appears.  Now a "
-"Chat icon appears in the menu and the friend gets an invitation to Chat in "
+"hold the pointer on their icon until the \"Invite to\" popup appears.  Now a"
+" Chat icon appears in the menu and the friend gets an invitation to Chat in "
 "their frame. Your Chat icon also appears in their Neighborhood view."
 msgstr ""
+"Lè ou te chwazi View Katye, jwenn yon zanmi envite epi kenbe konsèy la sou "
+"icon yo jiskaske \"Envite nan\" popup parèt nan. Koulye a, yon icon Chat "
+"parèt nan meni an ak zanmi a vin yon envitasyon nan Chat nan ankadreman yo. "
+"Icon chat ou tou parèt nan gade Katye yo."
 
 # cd121c1071444c3c88ef6143f11e2281
 #: ../source/chat.rst:35
@@ -95,16 +113,18 @@ msgid ""
 "You can invite as many other XOs to your Chat as you like, creating a "
 "private group discussion.  Anyone else who joins can invite others."
 msgstr ""
+"Ou ka envite ke anpil lòt XOs an Chat ou tankou ou renmen, kreye yon gwoup "
+"diskisyon prive. Nenpòt lòt moun ki mete ka envite lòt moun."
 
 # 41fa5ee278464cbbb585d52146267336
 #: ../source/chat.rst:38
 msgid "Join a Chat"
-msgstr ""
+msgstr "Rantre nan yon Chat"
 
 # bd551709e28b45e4a128fff86f26549e
 #: ../source/chat.rst:40
 msgid "You can join a Sugar Chat that has already been started."
-msgstr ""
+msgstr "Ou ka rantre nan yon Chat Sugar ki te deja te kòmanse."
 
 # 510461495ead480396538a5ec8029f9b
 #: ../source/chat.rst:42
@@ -115,13 +135,20 @@ msgid ""
 "describes joining a chat between two or more XO computers from One Laptop "
 "Per Child."
 msgstr ""
+"De oubyen plis òdinatè XO soti nan Youn Laptop pou chak timoun ka pale youn "
+"ak lòt san yo pa dirèkteman yon koneksyon entènèt. Sa a se yon koneksyon "
+"dirèk. Ou kapab tou chat ak moun ki sou entènèt la ki itilize Sugar. Seksyon"
+" sa a dekri rantre nan yon chat ant de oswa plis ordinateurs XO soti nan "
+"Youn Laptop pou chak timoun."
 
 # 67746b53ac2f4510a74caa192e6967c7
 #: ../source/chat.rst:44
 msgid ""
-"First, look at the Neighborhood View to see if there is an existing Chat you "
-"want to join."
+"First, look at the Neighborhood View to see if there is an existing Chat you"
+" want to join."
 msgstr ""
+"Premyèman, gade nan View nan Katye yo wè si gen yon ki egziste deja Chat ou "
+"vle rantre nan."
 
 # 097745b1010b4afdb360cbc1111beecc
 #: ../source/chat.rst:46
@@ -129,6 +156,8 @@ msgid ""
 "**CHAT SAFELY**: Only chat with someone you know. If a someone invites you "
 "to chat, don't chat with them unless you know them."
 msgstr ""
+"** Chat SAN PWOBLÈM **: Se sèlman chat ak yon moun ou konnen. Si yon moun "
+"envite ou nan chat, pa chat avèk yo sof si ou konnen yo."
 
 # 10fc2ae9a420474e97c044c6ebcbad6b
 #: ../source/chat.rst:50
@@ -137,11 +166,14 @@ msgid ""
 "person is in a shared Chat. Several people may be around the Chat icon, "
 "showing a group Chat."
 msgstr ""
+"Si ou wè yon icon XO ak yon icon ti wonn ti kras lapawòl pwochen li, moun sa"
+" a se nan yon Chat Pataje. Plizyè moun ki ka dwe alantou icon la Chat, ki "
+"montre yon gwoup Chat."
 
 # 66dd8f2ffe2c4689a711f98ce4cbad30
 #: ../source/chat.rst:54
 msgid "Click the little speech icon, and select the Join option."
-msgstr ""
+msgstr "Klike sou ikòn nan diskou ti kras, epi seleksyone opsyon ki Join."
 
 # b82029fefa794687aebfb26dda584e4f
 #: ../source/chat.rst:56
@@ -149,11 +181,13 @@ msgid ""
 "Then the Chat Activity starts, connected to the shared Chat. You see the "
 "other people in the Chat, on the Frame."
 msgstr ""
+"Lè sa a, aktivite a Chat kòmanse, ki konekte nan Chat la pataje. Ou wè lòt "
+"moun an nan chat la, sou ankadreman an."
 
 # ddc54c4ca5244e5da16ca159e929666a
 #: ../source/chat.rst:59
 msgid "Chatting"
-msgstr ""
+msgstr "Chita pale enfòmèl"
 
 # f026672213944b228aa179e9772120ab
 #: ../source/chat.rst:61
@@ -162,6 +196,9 @@ msgid ""
 "and chat with the other person. After you type a message you can press the "
 "enter key to send it."
 msgstr ""
+"Yon fwa ou yo nan aktivite nan Chat, ou ka kòmanse sezisman a voye yon mesaj"
+" ak chat ak lòt moun nan. Apre ou tape yon mesaj ou ka peze antre nan la kle"
+" yo voye l '."
 
 # 28bc11f30d9040349f9fcf3827125f7f
 #: ../source/chat.rst:65
@@ -170,20 +207,27 @@ msgid ""
 "Always press enter at the end of the message. Once you press enter your "
 "message appears on your friend's computer."
 msgstr ""
+"Pou antre nan mesaj tape yo nan ti bwat la nan pati anba a nan aktivite a "
+"Chat. Toujou peze antre nan nan fen a nan mesaj la. Yon fwa ou peze antre "
+"nan mesaj ou a parèt sou òdinatè zanmi ou a."
 
 # 69c2be64d4f140ca8b74973f9dcf746b
 #: ../source/chat.rst:69
 msgid "Accept an invitation to chat"
-msgstr ""
+msgstr "Aksepte yon envitasyon nan chat"
 
 # 13401fefbd064c6d95768d1d8bc65b2c
 #: ../source/chat.rst:71
 msgid ""
-"You may be invited to chat. An invitation appears as a little speech icon in "
-"the upper-left of the screen in every view. (The invitation also appears on "
-"the Frame.) The colors of the icon match the colors of the friend who sent "
+"You may be invited to chat. An invitation appears as a little speech icon in"
+" the upper-left of the screen in every view. (The invitation also appears on"
+" the Frame.) The colors of the icon match the colors of the friend who sent "
 "the invitation."
 msgstr ""
+"Ou ka envite nan chat. Yon envitasyon parèt tankou yon icon diskou ti kras "
+"nan anwo-bò gòch la nan ekran an nan chak View. (Envitasyon an tou parèt sou"
+" ankadreman an. ) Koulè yo nan icon nan matche ak koulè yo nan zanmi ki voye"
+" envitasyon an."
 
 # 6ef52d13df4b4c9ba887d603faaf0ad6
 #: ../source/chat.rst:75
@@ -191,11 +235,13 @@ msgid ""
 "You accept the invitation by hovering over the icon and selecting Join. You "
 "decline the invitation by selecting Decline."
 msgstr ""
+"Ou aksepte envitasyon an pa elikopte sou icon nan epi chwazi Antre nan. Ou "
+"refize envitasyon an pa chwazi bès."
 
 # e70df0639409455fa9cb1c15a64875c3
 #: ../source/chat.rst:81
 msgid "Things to Do with Chat"
-msgstr ""
+msgstr "Bagay sa yo fè ak Chat"
 
 # 03f41361a989456d870c2ef8b76dbdba
 #: ../source/chat.rst:83
@@ -203,6 +249,8 @@ msgid ""
 "Chat is a great for sending messages back and forth with a friend, "
 "socializing, and working together on projects."
 msgstr ""
+"Chat se yon gwo pou voye mesaj retounen ak lide ak yon zanmi, sosyalize, e "
+"travay ansanm sou pwojè."
 
 # e10e5f5e1060431984daca7140678849
 #: ../source/chat.rst:85
@@ -210,16 +258,18 @@ msgid ""
 "Remember that being polite on a computer is just as important as being "
 "polite when you're speaking with someone."
 msgstr ""
+"Sonje ke yo te politès sou yon òdinatè se jis enpòtan menm jan yo te politès"
+" lè w ap pale ak yon moun."
 
 # ad1dbb8590484280926646f3094334b9
 #: ../source/chat.rst:87
 msgid "Be polite. Try not to interrupt."
-msgstr ""
+msgstr "Pou yo janti. Eseye pa entèwonp."
 
 # c9472158efb5493782003d0f6ba1e950
 #: ../source/chat.rst:88
 msgid "Read through what people are saying before you say something."
-msgstr ""
+msgstr "Li nan sa moun ap di ou anvan ou di yon bagay."
 
 # d5f187ee3a07438c8b8dee448c467466
 #: ../source/chat.rst:89
@@ -227,6 +277,8 @@ msgid ""
 "Don't type in ALL CAPITAL LETTERS. This style is considered rude as it is "
 "like shouting at someone."
 msgstr ""
+"pa tape nan TOUT lèt majiskil. Sa a se style konsidere kòm grosye kòm li se "
+"tankou t'ap rele byen fò nan yon moun."
 
 # f9329c8cda27403299be128f3f8a2622
 #: ../source/chat.rst:90
@@ -236,55 +288,66 @@ msgid ""
 "you can try going to www.google.com/translate and type in a phrase that you "
 "want to say in another language so you can be friendly online."
 msgstr ""
+"Si ou pa pale lang la menm jan ak yon lòt moun li ka difisil yo kominike "
+"avèk Chat. Pran pasyans. Si ou gen yon koneksyon entènèt, ou ka eseye ale "
+"nan www. Google. com / tradui ak kalite nan yon fraz ki ou vle di nan yon "
+"lòt lang se konsa ou ka dwe zanmitay sou entènèt."
 
 # facec2eb94f84f8cb06f1f8d3959c70d
 #: ../source/chat.rst:92
 msgid "**Fun**"
-msgstr ""
+msgstr "** Fun **"
 
 # 78c671700761484394c9539f36df7814
 #: ../source/chat.rst:94
 msgid ""
 "It can be fun to make words shorter when typing in a Chat Activity because "
-"it is faster, like texting (sending messages) on a mobile phone. For example "
-"instead of typing in \"how are you?\", you can type in \"how r u?\""
+"it is faster, like texting (sending messages) on a mobile phone. For example"
+" instead of typing in \"how are you?\", you can type in \"how r u?\""
 msgstr ""
+"Li kapab plezi yo fè mo ki pi kout lè ou tape nan yon aktivite Chat paske li"
+" se pi vit, tankou voye tèks mesaj (voye mesaj) sou yon telefòn mobil. Pou "
+"egzanp olye pou yo sezisman nan \"ki jan ou ye?\", Ou ka tape nan \"ki jan "
+"ru?\""
 
 # 151e5522dbee49479ddff1acd215449a
 #: ../source/chat.rst:96
 msgid "The following are some ways you might like to try using Chat:"
 msgstr ""
+"Sa ki anba la yo se kèk fason ou ta ka renmen eseye lè l sèvi avèk Chat:"
 
 # 510dabc099154779aadc5fdd3a517d28
 #: ../source/chat.rst:98
 msgid "Arrange a time to meet friends to play."
-msgstr ""
+msgstr "Fè aranjman pou yon tan al kontre zanmi yo jwe."
 
 # 5d25d540f0ee42c38c0cd844ec692bfb
 #: ../source/chat.rst:99
 msgid "Organize a community gathering."
-msgstr ""
+msgstr "Òganize yon rasanbleman kominote."
 
 # d8c3043ce6244087813ff3abde309ddf
 #: ../source/chat.rst:100
 msgid "Bring friends together to talk about doing a group project."
-msgstr ""
+msgstr "Pote zanmi ansanm yo pale sou fè yon pwojè gwoup."
 
 # 126798051f4d46e5af554528bc530e25
 #: ../source/chat.rst:101
 msgid "Brainstorm ideas (either \"fast and furious\" or by taking turns)."
-msgstr ""
+msgstr "Lide Brainstorm (swa \"vit ak furious\" oswa lè yo pran vire)."
 
 # b4b67cb3d955423dbcc7b26f185e866d
 #: ../source/chat.rst:102
 msgid "Ask your teacher questions about your homework."
-msgstr ""
+msgstr "Poze kesyon pwofesè ou sou devwa ou."
 
 # 5e59efddab50466f9ecc51058956dee2
 #: ../source/chat.rst:103
 msgid ""
 "Use Chat and write a story with friends online using the Write Activity."
 msgstr ""
+"Sèvi ak Chat ak ekri yon istwa ak zanmi sou entènèt lè l sèvi avèk ekri "
+"aktivite a."
 
 # 22798778c7634b7b8ca95c2b68d56898
 #: ../source/chat.rst:104
@@ -292,16 +355,20 @@ msgid ""
 "Use Chat to practice writing in a foreign language (see if you can find a "
 "native speaker to chat with)."
 msgstr ""
+"Sèvi ak Chat yo pratike ekri nan yon lang etranje (wè si ou ka jwenn yon "
+"oratè natif natal nan chat ak)."
 
 # 815864d5dae5460398ca3d17498214b7
 #: ../source/chat.rst:105
 msgid "Organize other Sugar or XO users to meet and learn from each other."
 msgstr ""
+"Òganize itilizatè lòt Sugar oswa XO al kontre ak aprann soti nan chak lòt."
 
 # c10d7784642e41cda4b1714c0d115b20
 #: ../source/chat.rst:106
 msgid "Use Chat to communicate with a grandparent or other family member."
 msgstr ""
+"Sèvi ak Chat yo kominike avèk yon granparan oswa lòt manm nan fanmi an."
 
 # d21534dac69149289e096dd438007ee1
 #: ../source/chat.rst:107
@@ -313,7 +380,7 @@ msgstr ""
 # 5404545412254a03b3d5b470cbeb5fa6
 #: ../source/chat.rst:108
 msgid "Take group discussion notes."
-msgstr ""
+msgstr "Pran nòt gwoup diskisyon."
 
 # 45215c5cc7fe4f8ba29580420fc0f8e5
 #: ../source/chat.rst:109
@@ -321,6 +388,8 @@ msgid ""
 "Play a word-association game such as typing the first word that comes to "
 "mind when your friend types red."
 msgstr ""
+"Jwe yon jwèt mo-asosyasyon tankou sezisman pawòl Bondye a premye ki vini nan"
+" lespri lè kalite zanmi ou wouj."
 
 # a8fdd8a1d27c472b9e4a2054319d0202
 #: ../source/chat.rst:110
@@ -329,104 +398,109 @@ msgid ""
 "character from a book you are reading, and chat with the role-playing "
 "friend)."
 msgstr ""
+"Jwe yon jwèt wòl-ap jwe (pou egzanp, gen yon zanmi pretann yo dwe yon "
+"karaktè soti nan yon liv w ap li, ak chat ak zanmi nan wòl-ap jwe)."
 
 # bb557be4279e43e6b0868ab8bbfbead6
 #: ../source/chat.rst:113
 msgid "Use emoticons in Chat"
-msgstr ""
+msgstr "Sèvi ak emoticon nan chat"
 
 # 21aae84b0df44fcfbcd368fc4137d0cf
 #: ../source/chat.rst:115
 msgid ""
-"There are ways to tell friends how you feel just by using letters - they can "
-"let someone know if you are happy, sad, or having fun. When you make letters "
-"look like a face, they are called emoticons."
+"There are ways to tell friends how you feel just by using letters - they can"
+" let someone know if you are happy, sad, or having fun. When you make "
+"letters look like a face, they are called emoticons."
 msgstr ""
+"Gen fason yo di zanmi kijan ou santi ou jis lè l sèvi avèk lèt ​​- yo ka "
+"kite yon moun konnen si ou yo kontan, tris, oswa pran plezi. Lè ou fè lèt "
+"gade tankou yon figi, yo rele yo emoticon."
 
 # 02cd8c6d091645f7806edaab0cadacab
 #: ../source/chat.rst:117
 msgid "Some are written so that you read them sideways."
-msgstr ""
+msgstr "Gen kèk yo ekri pou ke ou li yo sou kote."
 
 # c6a7be563439494c9e5f68f203af0b06
 #: ../source/chat.rst:119
 msgid "This is a happy face:"
-msgstr ""
+msgstr "Sa a se yon figi kè kontan:"
 
 # 4b8d6ade05894110a3f3e76d57e132c7
 #: ../source/chat.rst:121
 msgid ":)"
-msgstr ""
+msgstr ":)"
 
 # 9711adf5627c40fa8cb4298b3adaa052
 #: ../source/chat.rst:123
 msgid "This is a sad face:"
-msgstr ""
+msgstr "Sa a se yon figi tris:"
 
 # df8ee5486cb245eaa1780b7b99f72423
 #: ../source/chat.rst:125
 msgid ":("
-msgstr ""
+msgstr ":("
 
 # dad54ec945914b4bb977f0b7b74be7ec
 #: ../source/chat.rst:127
 msgid "This is a wink:"
-msgstr ""
+msgstr "Sa a se yon wink:"
 
 # 8b2c46e5aea44e2caa18b5a718404758
 #: ../source/chat.rst:129
 msgid ";)"
-msgstr ""
+msgstr ";)"
 
 # 141a34bba92b4ba1a0a69de82f2abcd2
 #: ../source/chat.rst:131
 msgid "See if you can find the keys on the keyboard to make the faces"
-msgstr ""
+msgstr "Gade wè si ou ka jwenn kle yo sou klavye a fè fas yo"
 
 # dcdcaf6438a54e3a8ed4b95aac7150c3
 #: ../source/chat.rst:133
 msgid "The two dots are the colon key : and the semicolon key ;"
-msgstr ""
+msgstr "De pwen yo se kle nan kolon: ak virgules a kle;"
 
 # 3feedd699b3d453fa4a5c6c7af91a838
 #: ../source/chat.rst:135
 msgid "The mouth are the parentheses keys ()"
-msgstr ""
+msgstr "Bouch la yo se kle yo parantèz ()"
 
 # 70f9abbd00e840c0b3d8168222d2a120
 #: ../source/chat.rst:137
 msgid "You can also make faces that go across:"
-msgstr ""
+msgstr "Ou kapab tou fè fas ki ale atravè:"
 
 # 342b3a93d0a74b5cb62f076e8da1ea3b
 #: ../source/chat.rst:139
 msgid "Happy"
-msgstr ""
+msgstr "Ala bon sa bon"
 
 # ffa778121a954847881ef400889d1caf
 #: ../source/chat.rst:141
 msgid "(^_^)"
-msgstr ""
+msgstr "(^_^)"
 
 # f0f08da4359940fb9e242db4d80f814b
 #: ../source/chat.rst:143
 msgid "Sad"
-msgstr ""
+msgstr "USA"
 
 # d1de09fec75d4eef87660bca70bf0e1a
 #: ../source/chat.rst:145
 msgid "(<_>)"
-msgstr ""
+msgstr "(<_>)"
 
 # 1be5d614483042ef9b16f51d4a521fbd
 #: ../source/chat.rst:147
 msgid "Winking (^_~)"
-msgstr ""
+msgstr "Winking (^ _ ~)"
 
 # f7e5a64102b349faa53a2dff9ac80b0d
 #: ../source/chat.rst:149
 msgid "What other emoticons can you create with text in the Chat Activity?"
-msgstr ""
+msgstr "Ki lòt émoticônes ou kapab kreye ak tèks nan Aktivite nan Chat?"
 
 # 1ddbe2be9b3549c8a0cb724b5f70123d
 #: ../source/chat.rst:151
@@ -435,19 +509,24 @@ msgid ""
 "combination of a symbol and a number looks like a sideways heart <3. \"I <3 "
 "my XO\" means, \"I love my XO.\""
 msgstr ""
+"Èske ou ka desine foto l sèvi avèk sèlman senbòl yo tèks sou klavye ou a? . "
+"\"Mwen <3 XO mwen an\" vle di, \"Mwen renmen m 'XO. \""
 
 # ba72c37cbdc14a3fa941ee75174a4b76
 #: ../source/chat.rst:154
 msgid "Make Friends"
-msgstr ""
+msgstr "Fè zanmi"
 
 # a2dc0d4be7714119a12275f79f6281fc
 #: ../source/chat.rst:156
 msgid ""
-"When you are in the Neighborhood View, if you move the pointer over someone, "
-"you can see their name, and click Make Friends. When you Make Friends, your "
-"new friend appears in your Group View list."
+"When you are in the Neighborhood View, if you move the pointer over someone,"
+" you can see their name, and click Make Friends. When you Make Friends, your"
+" new friend appears in your Group View list."
 msgstr ""
+"Lè ou nan View nan Katye, si ou deplase konsèy la sou yon moun, ou kapab wè "
+"non yo, epi klike sou fè zanmi. Lè ou fè zanmi, nouvo zanmi ou parèt nan lis"
+" View Group ou."
 
 # 6b401ef1bfc34ab88de6a20c04115a16
 #: ../source/chat.rst:158
@@ -455,11 +534,13 @@ msgid ""
 "The Group View list helps you keep a list of your friends online who you "
 "like chatting with."
 msgstr ""
+"Lis la Group View ede ou kenbe yon lis zanmi ou yo sou entènèt ki ou renmen "
+"diskite ak."
 
 # 862c40422e734bb5a49a9b5a8f35fba3
 #: ../source/chat.rst:161
 msgid "Read a past log of conversations"
-msgstr ""
+msgstr "Li yon boutèy demi lit sot pase a nan konvèsasyon"
 
 # 76ef5037375d4e48a72a1629c6e85185
 #: ../source/chat.rst:163
@@ -468,32 +549,41 @@ msgid ""
 "can choose to open the Chat Activity with the Write Activity instead of the "
 "Chat Activity window."
 msgstr ""
+"Si ou louvri aktivite a Journal yo louvri Chat la nan gade nan detay, ou ka "
+"chwazi yo louvri aktivite a Chat ak ekri aktivite a olye pou yo fenèt la "
+"Aktivite Chat."
 
 # a2bafd4eea7a4020be0e778bf1370c9b
 #: ../source/chat.rst:166
 msgid "Notes for parents and teachers"
-msgstr ""
+msgstr "Nòt pou paran ak pwofesè"
 
 # 0160ba35ab88421fa1f9aca24314c704
 #: ../source/chat.rst:168
 msgid ""
 "Chat presents a great opportunity engage children in reading and writing. "
-"The natural inclination for children to socialize and express themselves can "
-"be channeled in some of the exercises outlined above. (Some children who are "
-"by their nature shy and reserved, are more confident speaking up in a chat "
-"room.) Chat can be motivating and is an authentic use of language skills, "
-"however, preparation and supervision are recommended."
+"The natural inclination for children to socialize and express themselves can"
+" be channeled in some of the exercises outlined above. (Some children who "
+"are by their nature shy and reserved, are more confident speaking up in a "
+"chat room.) Chat can be motivating and is an authentic use of language "
+"skills, however, preparation and supervision are recommended."
 msgstr ""
+"Chat prezante yon gwo opòtinite angaje timoun yo nan lekti ak redaksyon. Ka "
+"enklinasyon natirèl la pou timoun yo sosyalize ak eksprime tèt yo dwe afèkte"
+" nan kèk nan egzèsis yo endike pi wo a. (Gen kèk timoun ki pa nati yo timid "
+"ak rezève, yo gen plis konfyans pale moute nan yon chanm chat. ) Chat ka "
+"motivasyon epi li se yon natif natal nan itilize ladrès pou lang, sepandan, "
+"preparasyon ak sipèvizyon yo rekòmande."
 
 # 117252213d6d4123a3b16a3c53aed990
 #: ../source/chat.rst:170
 msgid "Prepare your children and students:"
-msgstr ""
+msgstr "Prepare pitit ou yo ak elèv yo:"
 
 # 2373873a261a46908471ba5e83b6b601
 #: ../source/chat.rst:172
 msgid "Remind them never to chat with someone they don't know."
-msgstr ""
+msgstr "Fè yo sonje pa janm chat ak yon moun yo pa konnen."
 
 # 3c14060c7669483c9d8d8582f64c0629
 #: ../source/chat.rst:173
@@ -502,11 +592,14 @@ msgid ""
 "comfortable with in their oral communication (for example, it's OK to "
 "disagree, but not to be disagreeable)."
 msgstr ""
+"Fè yo sonje yo dwe koutwa epi pa janm itilize langaj yo pa ta dwe konfòtab "
+"ak nan kominikasyon oral yo (pou egzanp, li la OK yo dakò, men se pa yo dwe "
+"enkonvenyans)."
 
 # ab262b9925bd47d094bb24ed0576afaf
 #: ../source/chat.rst:175
 msgid "Prepare your chat session:"
-msgstr ""
+msgstr "Prepare sesyon chat ou:"
 
 # 1f8b6ecb9bf249b8b5159ce6bea327ea
 #: ../source/chat.rst:177
@@ -514,69 +607,81 @@ msgid ""
 "Some teachers prepare questions in advance. They can paste these questions "
 "into the Chat session from the Clipboard or Write Activity—this helps them "
 "stay on task and keeps the pace of the session lively."
-msgstr ""
+msgstr "Gen kèk pwofesè prepare kesyon an avanse."
 
 # 0e994c7097a848d5b504d1225b4d374a
 #: ../source/chat.rst:179
 msgid ""
-"Limit the number of students participating in the Chat session; more that 10–"
-"12 participants makes a session chaotic."
+"Limit the number of students participating in the Chat session; more that "
+"10–12 participants makes a session chaotic."
 msgstr ""
 
 # 1997886cceeb49e4a15f0bcacbe5cfe5
 #: ../source/chat.rst:180
 msgid "Ask your students to prepare by posing questions in advance."
-msgstr ""
+msgstr "Mande elèv ou yo prepare pa Pran pòz kesyon an avanse."
 
 # 67fe0f699c6845c2aef84a1dc1640038
 #: ../source/chat.rst:181
 msgid ""
-"As in any classroom discussion, keep the conversation focused on just one or "
-"two topics."
+"As in any classroom discussion, keep the conversation focused on just one or"
+" two topics."
 msgstr ""
+"Kòm nan nenpòt diskisyon yo, kenbe konvèsasyon an konsantre sou jis youn "
+"oubyen de sijè."
 
 # a1b3a2bff9304bed9f4c0d4317269e1b
 #: ../source/chat.rst:182
 msgid "IT IS SOMETIME USEFUL TO USE ALL-CAPS TO GET EVERYONE'S ATTENTION."
 msgstr ""
+"IT se nenpòt moman itil yo sèvi ak tout-bouchon jwenn atansyon TOUT MOUN."
 
 # 56bfabcebfde43bd9f3788eddc645981
 #: ../source/chat.rst:185
 msgid "Advanced features"
-msgstr ""
+msgstr "Karakteristik avanse"
 
 # fa0f61c2b24b4c2a8761a44a8aad8f5e
 #: ../source/chat.rst:187
 msgid ""
-"Computers not running Sugar can initiate chat connections to a Sugar user by "
-"running a Jabber (XMPP) client, either with both computers registered on the "
-"same Jabber server or by running a link local XMPP account such as Empathy "
-"with salut or Pidgin with Bonjour."
+"Computers not running Sugar can initiate chat connections to a Sugar user by"
+" running a Jabber (XMPP) client, either with both computers registered on "
+"the same Jabber server or by running a link local XMPP account such as "
+"Empathy with salut or Pidgin with Bonjour."
 msgstr ""
+"Odinatè pa kouri Sugar ka kòmanse koneksyon chat nan yon itilizatè Sugar pa "
+"kouri yon Jabber (XMPP) kliyan, swa ak tou de òdinatè anrejistre nan menm "
+"sèvè a Jabber oswa pa kouri yon lyen kont XMPP lokal tankou anpati ak salut "
+"oswa Pidgin ak Bonjour."
 
 # e502ba8c196f43308902dd86faf906cb
 #: ../source/chat.rst:189
 msgid "Here's an example of a buddy list on another non-Sugar computer."
 msgstr ""
+"Isit la nan yon egzanp nan yon lis zanmi sou yon lòt sik ki pa òdinatè."
 
 # 1eb3502fb1d84c81a936dfd7cfb2f75b
 #: ../source/chat.rst:193
 msgid ""
 "When you initiating the chat on a non-Sugar computer using a Jabber client, "
-"an invitation appears on the Sugar computer and the Sugar user can chat with "
-"you as usual except that the colors of the non-Sugar participant's response "
-"lines are gray as shown below."
+"an invitation appears on the Sugar computer and the Sugar user can chat with"
+" you as usual except that the colors of the non-Sugar participant's response"
+" lines are gray as shown below."
 msgstr ""
+"Lè ou kòmanse chat la sou yon òdinatè ki pa Sugar lè l sèvi avèk yon kliyan "
+"Jabber, yon envitasyon parèt sou òdinatè a Sugar ak itilizatè a Sugar ka "
+"chat avèk ou kòm dabitid eksepte ke koulè yo nan liy repons patisipan an ki "
+"pa Peye-Sugar a ki gen koulè gri jan yo montre anba a."
 
 # 4c49cf9d99c347888df00f5674d20e9a
 #: ../source/chat.rst:197
 msgid "Here's what the non-Sugar computer sees on their Jabber client."
-msgstr ""
+msgstr "Isit la nan sa Sugar ki pa òdinatè a wè sou kliyan Jabber yo."
 
 # 909d0963e38e4dfea8f022824a040baf
 #: ../source/chat.rst:201
 msgid "And here's the response as seen on the Sugar computer."
-msgstr ""
+msgstr "Ak isit la nan repons lan jan yo wè sou òdinatè a Sugar."
 
 # e63f86b4251b40ac8f0b974519508810
 #: ../source/chat.rst:205
@@ -585,16 +690,21 @@ msgid ""
 "you to chat, don't chat with them unless you know them. It's perfectly okay "
 "to refuse a chat request."
 msgstr ""
+"CHAT san danje: Sonje, se sèlman chat ak yon moun ou konnen. Si yon moun "
+"envite ou nan chat, pa chat avèk yo sof si ou konnen yo. Li nan parfe oke yo"
+" refize yon demann chat."
 
 # 7fd102eb4f7b43bcbcaf5cc343bd33cb
 #: ../source/chat.rst:208
 msgid "Note to parents and teachers"
-msgstr ""
+msgstr "Remake byen paran ak pwofesè"
 
 # 6f25e74881c14edf9d941aa7201e2bb7
 #: ../source/chat.rst:210
 msgid ""
-"You can use this feature to chat with Sugar-enabled computers from non-Sugar-"
-"enabled computers; hence you can chat with your child or class from a "
+"You can use this feature to chat with Sugar-enabled computers from non-"
+"Sugar-enabled computers; hence you can chat with your child or class from a "
 "conventional desktop or laptop computer."
 msgstr ""
+"Ou kapab sèvi ak karakteristik sa a chat ak òdinatè Sugar ki pèmèt soti nan "
+"ki pa Peye-Sugar ki pèmèt òdinatè; ."

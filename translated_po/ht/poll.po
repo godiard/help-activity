@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # c90126067c134b89a3a6ea5f9556bf70
 #: ../source/poll.rst:3
 msgid "Poll"
-msgstr ""
+msgstr "Biwo Vòt"
 
 # b597e8283f7f4170b44ff9533dd67532
 #: ../source/poll.rst:6
 msgid "Overview"
-msgstr ""
+msgstr "Apèsi sou lekòl la"
 
 # b52bbaa9626c48e28329c9b57ac4ab25
 #: ../source/poll.rst:7
@@ -37,6 +37,13 @@ msgid ""
 "can also ask the same question of different groups (i.e. boys and girls or "
 "children and adults) and see how each group answers."
 msgstr ""
+"Yon manm biwo vòt se yon zouti rechèch ki ede eksplike ki sa yon gwoup moun "
+"panse osijè de yon sijè. Premye ou prezante gwoup la ak yon kesyon ak yon "
+"seri repons ochwa. Lè sa a, chak moun nan gwoup la vin pou vote pou repons "
+"lan ki pi byen dekri santiman pèsonèl yo oswa opinyon. Apre kolekte vote "
+"soti nan tout gwoup la, ou gade pou yon modèl nan repons yo. Ou kapab tou "
+"mande kesyon an menm nan diferan gwoup (mwen. ak. ti gason ak ti fi oswa "
+"timoun ak granmoun) ak wè kòman chak gwoup repons."
 
 # fa9e33b4359941ae96ab84702280dd9a
 #: ../source/poll.rst:9
@@ -45,66 +52,79 @@ msgid ""
 "can also be used to understand the similarities and differences among "
 "individuals and groups of people."
 msgstr ""
+"Ou ka jwenn yon biwo vòt dwe itilize yo ede yon kominote pran yon desizyon "
+"ak pran aksyon. Li kapab tou itilize yo konprann resanblans ak diferans nan "
+"mitan moun ak gwoup moun nan pèp."
 
 # ac0397eb557e435e8f114bf29d33520e
 #: ../source/poll.rst:11
 msgid ""
 "Polls are a helpful tool for any research project.  Use this Poll tool and "
-"lesson plans with whatever subject you are studying.  It can also be used to "
-"make collaborative decisions in the classroom about academic activities and "
-"among friends about social issues."
+"lesson plans with whatever subject you are studying.  It can also be used to"
+" make collaborative decisions in the classroom about academic activities and"
+" among friends about social issues."
 msgstr ""
+"Biwo de vòt yo yo se yon zouti itil pou nenpòt pwojè rechèch. Sèvi ak zouti "
+"sa a Biwo Vòt ak leson plan ak tou sa sijè w ap etidye. Li kapab tou itilize"
+" pou pran desizyon pou kolaborasyon nan salklas la sou aktivite akademik ak "
+"nan mitan zanmi sou pwoblèm sosyal."
 
 # 31668f60b8ac4e3bacf8657f908b2f30
 #: ../source/poll.rst:13
 msgid "Skills:"
-msgstr ""
+msgstr "Ladrès:"
 
 # a8211d4e160246e3ae3099da1ae3bff8
 #: ../source/poll.rst:15
 msgid "Learn what a poll is and how it works."
-msgstr ""
+msgstr "Aprann ki sa yon biwo vòt se ak kijan li fonksyone."
 
 # 3a57db646d0f468bb26bd2385a4ef65a
 #: ../source/poll.rst:17
 msgid "Learn how to use polls to gather information and make decisions."
 msgstr ""
+"Aprann kouman yo sèvi ak biwo vòt nan ranmase enfòmasyon ak pran desizyon."
 
 # e11ef1f8540e4c64bec4e04aa839b97f
 #: ../source/poll.rst:19
 msgid "Practice choosing poll subjects."
-msgstr ""
+msgstr "Pratike chwazi sijè biwo vòt."
 
 # 40f50efa19f347bda7f52d4f5ee3e5df
 #: ../source/poll.rst:21
 msgid "Learn how to formulate good poll questions and answer choices."
-msgstr ""
+msgstr "Aprann Kòman pou pou fòmile bon kesyon biwo vòt epi reponn chwa."
 
 # 02b61bbcc8c3485394ca639cb1925c8a
 #: ../source/poll.rst:23
 msgid ""
 "Practice basic survey skills of data collection, analysis and presentation."
 msgstr ""
+"Pratike ladrès debaz sondaj nan koleksyon done, analiz ak prezantasyon."
 
 # 9129268a00484f7488bd020b27489f1a
 #: ../source/poll.rst:25
 msgid "Learn how to use a bar graph to represent votes and opinions."
 msgstr ""
+"Aprann kouman yo sèvi ak yon graf an ba ki reprezante vote ak opinyon."
 
 # d783ae459e094e4ebe29549be5803af0
 #: ../source/poll.rst:27
 msgid "Learn how to represent poll results using ratios and percentages."
 msgstr ""
+"Aprann Kòman pou pou reprezante rezilta biwo vòt lè l sèvi avèk rapò ak "
+"pousantaj."
 
 # 23233f4bd60e4db792d5e43bf7aadab9
 #: ../source/poll.rst:29
 msgid "Learn how to help peers understand an idea or an opinion."
 msgstr ""
+"Aprann Kòman pou pou ede kamarad klas konprann yon lide oswa yon opinyon."
 
 # d14fc6f1843d43e28f68ce01d1985fa0
 #: ../source/poll.rst:31
 msgid "Learn from classmates."
-msgstr ""
+msgstr "Aprann nan men kamarad klas."
 
 # 8916353a196a4ddcba57b7d1f7d506d0
 #: ../source/poll.rst:33
@@ -112,21 +132,24 @@ msgid ""
 "Learn how to present poll results and make collaborative decisions based on "
 "those results."
 msgstr ""
+"Aprann Kòman pou pou prezante rezilta biwo vòt ak pran desizyon ki baze sou "
+"rezilta kolaborasyon moun."
 
 # efa9f444e58a4dc2bb137b5d42b7498e
 #: ../source/poll.rst:35
 msgid "Practice using new functions and features of the XO Laptop."
 msgstr ""
+"Pratike lè l sèvi avèk fonksyon ak nouvo karakteristik nan Laptop nan XO."
 
 # 8f94d06235004d29ac0d339acff7efc8
 #: ../source/poll.rst:38
 msgid "Participate in a Poll"
-msgstr ""
+msgstr "Patisipe nan yon Biwo Vòt"
 
 # e3c8891bd97b4865b405f63bdd7e967d
 #: ../source/poll.rst:40
 msgid "Open the Poll activity from the Sugar Home view."
-msgstr ""
+msgstr "Louvri aktivite a Biwo Vòt soti nan View la Sugar Kay."
 
 # a383d8d8d22b4f8e86a91e29cac9bad9
 #: ../source/poll.rst:42
@@ -138,16 +161,24 @@ msgstr ""
 #: ../source/poll.rst:44
 msgid ""
 "A Poll question and answer choices will appear. Read them carefully, then "
-"click on your favorite answer. Click the “VOTE” button to submit your answer."
+"click on your favorite answer. Click the “VOTE” button to submit your "
+"answer."
 msgstr ""
+"Yon Biwo Vòt kesyon ak repons ochwa ap parèt. Li yo ak anpil atansyon, lè sa"
+" a klike sou repons pi renmen ou."
 
 # 4aa227fa6d5342f3b8d9b0d13d7da4b0
 #: ../source/poll.rst:46
 msgid ""
 "After you vote, current Poll results will appear. You will see the exact "
-"number of votes cast (so far) for each answer. You will also see a bar graph "
-"that shows which answer is currently the most popular among the whole group."
+"number of votes cast (so far) for each answer. You will also see a bar graph"
+" that shows which answer is currently the most popular among the whole "
+"group."
 msgstr ""
+"Apre ou fin vote, rezilta Biwo Vòt aktyèl ap parèt. Ou gen pou wè nimewo "
+"egzak la nan vote cast (byen lwen tèlman) pou chak repons. Ou pral gen tou "
+"wè yon graf an ba ki montre ki repons se kounye a ki pi popilè a nan mitan "
+"tout gwoup la."
 
 # 5a7b1f51d2bd493d856ea0528c2b308b
 #: ../source/poll.rst:48
@@ -156,13 +187,15 @@ msgid ""
 "votes so far? How many people chose the same answer as you? Which answer do "
 "you think will win? Why?"
 msgstr ""
+"Gade nan nimewo a nan vòt akote chak repons. Ki yon sèl gen vòt yo ki pi "
+"byen lwen tèlman?"
 
 # 4ac28db57cc04932bf7d46494b5b7b43
 #: ../source/poll.rst:50
 msgid ""
 "Look at the bar graph. Which answer has the longest bar? What does that "
 "mean? Which answer has the shortest bar? What does that mean?"
-msgstr ""
+msgstr "Gade nan graf la ba. Ki repons gen ba la pi long?"
 
 # 594577612ba2447ca62370cc5450dfa2
 #: ../source/poll.rst:52
@@ -170,13 +203,18 @@ msgid ""
 "Let each person in your group vote in this poll. How did the votes and bar "
 "graphs change?"
 msgstr ""
+"Se pou chak moun nan vòt gwoup ou a nan sa a biwo vòt. Ki jan vòt yo ak graf"
+" ba chanje?"
 
 # ddd76e64d2684c4bab9da3743a142d16
 #: ../source/poll.rst:54
 msgid ""
-"After everyone votes, discuss the final results. What did you learn from the "
-"poll? Were you surprised by the results? How could you use this information?"
+"After everyone votes, discuss the final results. What did you learn from the"
+" poll? Were you surprised by the results? How could you use this "
+"information?"
 msgstr ""
+"Apre tout moun vote, diskite sou rezilta final yo. Ki sa ou te aprann nan "
+"men biwo vòt la?"
 
 # fac640b3887d4ec4a137179b958e410e
 #: ../source/poll.rst:56
@@ -185,11 +223,13 @@ msgid ""
 "paper or in the “Write” program on the XO Laptop. What would you like to "
 "learn from each poll you thought of? What would you do with the results?"
 msgstr ""
+"Jenere yon lis ide pou biwo vòt. Ki sa ou ta renmen aprann ki soti nan chak "
+"biwo vòt ou te panse a?"
 
 # 76ec1e6a0af744c399224ff7317c2f7f
 #: ../source/poll.rst:59
 msgid "Build a Poll"
-msgstr ""
+msgstr "Bati yon Biwo Vòt"
 
 # 47f522c2d0da42d68cfcb319175d0919
 #: ../source/poll.rst:61
@@ -197,21 +237,21 @@ msgid ""
 "Make a poll of your own! The goal is to build a poll that is interesting to "
 "you, and learn to collect votes from people and reach conclusions or make "
 "decisions based on your poll."
-msgstr ""
+msgstr "Fè yon biwo vòt nan pwòp ou a! ."
 
 # 0202254b0c384fbd958fcaa74fa784fd
 #: ../source/poll.rst:63
 msgid ""
 "Example poll idea:  “What is your favorite activity on the XO?” You can use "
-"this poll in your classroom or your family, to find out what activity is the "
-"most favorite or popular."
+"this poll in your classroom or your family, to find out what activity is the"
+" most favorite or popular."
 msgstr ""
 
 # ed49136f10da4453a53b927ce65c9064
 #: ../source/poll.rst:66
 msgid ""
-"Open the Poll Builder activity and click on the “Build a Poll” button at the "
-"bottom of the screen."
+"Open the Poll Builder activity and click on the “Build a Poll” button at the"
+" bottom of the screen."
 msgstr ""
 
 # b2caf0712b9a45729be7bb9ae76947fe
@@ -220,13 +260,15 @@ msgid ""
 "Fill in your poll details on the blank form that appears. Type in your poll "
 "title, question and answers, and the number of votes you want to collect."
 msgstr ""
+"Ranpli nan detay ou biwo vòt sou fòm nan vid ki parèt. Tape nan biwo vòt ou "
+"tit, kesyon ak repons, ak nimewo a nan vòt ou vle kolekte."
 
 # a34ebca935aa4719b515c3002284e2d6
 #: ../source/poll.rst:70
 msgid ""
 "Think about your “Poll Title” and “Question.” The title is the name of your "
-"poll, and the question is what you want to know.    In our example poll, the "
-"title is “Favorite Food” and the question is “What is your favorite food?”"
+"poll, and the question is what you want to know.    In our example poll, the"
+" title is “Favorite Food” and the question is “What is your favorite food?”"
 msgstr ""
 
 # d33a0413ac14436d903028e4f3fcc9e3
@@ -238,15 +280,21 @@ msgid ""
 "your class? Just the 12-year-olds? All of the people in your family? All of "
 "the women in your town?"
 msgstr ""
+"Next kalite nan nimewo a nan vòt ou vle kolekte nan biwo vòt ou. Pou fè sa "
+"kòrèkteman, panse osijè de ki jan anpil moun ou vle biwo vòt. Èske li tout "
+"elèv yo nan klas ou a?"
 
 # 5948eb87880b406bb79206c60e3851b5
 #: ../source/poll.rst:74
 msgid ""
 "Now type in the “Answer choices,” you want people to choose from. You can "
 "offer 2, 3, 4 or 5 answer choices in this poll.  In our Favorite Food "
-"example, the answer choices could be: 1. Bread, 2. Rice, 3. Beans, 4. Candy, "
-"5. Bananas."
+"example, the answer choices could be: 1. Bread, 2. Rice, 3. Beans, 4. Candy,"
+" 5. Bananas."
 msgstr ""
+"Ou ka ofri 2, 3, 4 oswa 5 repons ochwa nan sa a biwo vòt. Nan nou an "
+"Favorite egzanp Manje, repons ochwa yo ta ka: 1. Pen, 2. Rice, 3. Pwa, 4. "
+"Sirèt, 5. Bannann."
 
 # a69418d6fb02431496cd14625b98be34
 #: ../source/poll.rst:76
@@ -276,14 +324,16 @@ msgstr ""
 # 2becdee85a9d4ede86569311fef14068
 #: ../source/poll.rst:85
 msgid "Collect Poll Data"
-msgstr ""
+msgstr "Kolekte Biwo Vòt Done"
 
 # e1bf6b819a774b70bb04bddde993a66e
 #: ../source/poll.rst:87
 msgid ""
-"Now that your poll is built, invite people to take your poll on the XO. Walk "
-"around with your laptop, and ask people to answer your research question."
+"Now that your poll is built, invite people to take your poll on the XO. Walk"
+" around with your laptop, and ask people to answer your research question."
 msgstr ""
+"Kounye a ke se biwo vòt ou bati a, envite moun yo pran biwo vòt ou sou XO a."
+" Mache nan ak laptop ou, epi mande moun yo reponn kesyon rechèch ou."
 
 # 61e2063f2d7a4d609121154493ff72f3
 #: ../source/poll.rst:89
@@ -294,13 +344,17 @@ msgid ""
 "list, read the poll by themselves and click on their answer choice by "
 "themselves."
 msgstr ""
+"Deside ki jan ou yo ale nan jwenn enfòmasyon ou bezwen an. Ou te kapab li "
+"kesyon ou ak repons ochwa yo nan chak moun, epi klike repons yo sou XO ou. "
+"Oswa, ou ka montre chak moun ki jan yo chwazi biwo vòt ou nan lis la, li "
+"biwo vòt la nan tèt yo, epi klike sou chwa repons yo nan tèt yo."
 
 # 80cd45dbf96e46c6bf5520a39f085b89
 #: ../source/poll.rst:91
 msgid ""
 "For best results, each person should vote only once. The Poll will close "
 "when you reach the number of your “sample size.”"
-msgstr ""
+msgstr "Pou pi bon rezilta, chak moun ta dwe vote sèlman yon fwa"
 
 # 6f050718030e453cb16ce3774fbcce4c
 #: ../source/poll.rst:93
@@ -308,7 +362,7 @@ msgid ""
 "Try to collect votes from the people you originally thought about when you "
 "chose the “number of votes to collect.” If it was girls, ask only girls.  "
 "Otherwise your results will not reflect the group you had in mind."
-msgstr ""
+msgstr "Sinon rezilta ou pa pwal reflete gwoup la ou te gen nan tèt ou."
 
 # 76f4b49d5cec4d2aa569e5ab869bec3a
 #: ../source/poll.rst:95
@@ -318,11 +372,15 @@ msgid ""
 "results of the same question asked to different groups, such as boys and "
 "girls or adults and children."
 msgstr ""
+"Sonje byen, ou kapab kreye biwo vòt la menm ankò, epi mande diferan kalite "
+"moun yo reponn chak fwa. Li pral trè enteresan yo konpare rezilta yo nan "
+"kesyon an menm mande yo diferan gwoup, tankou ti gason ak ti fi oswa "
+"granmoun ak timoun."
 
 # 8924d1f4e62c4ddf9e528fc37a9662d2
 #: ../source/poll.rst:98
 msgid "Use Data to make Observations and Decisions"
-msgstr ""
+msgstr "Sèvi ak Done fè obsèvasyon ak Desizyon"
 
 # 08bbeb25eff0437990a2607fe7165577
 #: ../source/poll.rst:100
@@ -330,6 +388,8 @@ msgid ""
 "After you have collected the poll data you needed from one or more groups, "
 "look at the results and think about what they mean."
 msgstr ""
+"Apre ou te ranmase done yo biwo vòt ou te bezwen soti nan youn oswa plis "
+"gwoup, gade nan rezilta yo, epi reflechi sou sa yo vle di."
 
 # c954490372424c3bb0eec40d49f3db2c
 #: ../source/poll.rst:102
@@ -337,6 +397,7 @@ msgid ""
 "Open the Poll activity on your XO and find your poll title on the list. "
 "Click the “See Results” button to see how people voted."
 msgstr ""
+"Louvri aktivite a Biwo Vòt sou XO ou epi jwenn tit biwo vòt ou sou lis la."
 
 # 1859eb2dc8d4482ba5c020273b78c313
 #: ../source/poll.rst:104
@@ -345,6 +406,8 @@ msgid ""
 "Which answer has the longest bar? What does that mean? Which answer has the "
 "shortest bar? What does that mean?"
 msgstr ""
+"Gade nan graf yo Bar ki reprezante vòt yo (rezilta) nan biwo vòt ou. Ki "
+"repons gen ba la pi long?"
 
 # fadb31c973db47b49ccad338b82d5857
 #: ../source/poll.rst:107
@@ -353,21 +416,29 @@ msgid ""
 "students, adults, children, etc.) Open each poll and see if there are any "
 "differences."
 msgstr ""
+"Si ou te eseye biwo vòt ou an ak diferan gwoup (filles, gason, pwofesè, "
+"elèv, granmoun, timoun, elatriye. ) Louvri chak biwo vòt ak wè si gen nenpòt"
+" ki diferans."
 
 # 14d5b2a9be0d4c7c8c1f8a240fef8f7d
 #: ../source/poll.rst:109
 msgid ""
 "Write down notes about what you see; put your findings on paper or record "
-"them with the “Write” activity on your XO. How does this kind of information "
-"help you draw conclusions about the people you surveyed? Does the data "
+"them with the “Write” activity on your XO. How does this kind of information"
+" help you draw conclusions about the people you surveyed? Does the data "
 "accurately represent an entire group?   Does it matter if you questioned 25 "
 "people or 100 people? Why?"
 msgstr ""
+"Ki jan sa a kalite enfòmasyon ede ou tire konklizyon sou moun yo ou fè "
+"sondaj?"
 
 # 7aafbacf6c7347c8838e8ced8f720aa7
 #: ../source/poll.rst:111
 msgid ""
-"Present you findings to your class, or to the people who took the poll. Tell "
-"them what you learned for the poll and discuss the results together. "
+"Present you findings to your class, or to the people who took the poll. Tell"
+" them what you learned for the poll and discuss the results together. "
 "Brainstorm about what could be done with this information."
 msgstr ""
+"Prezante ou jwenn nan klas ou, oswa nan moun yo ki te pran biwo vòt la. Di "
+"yo sa ou te aprann pou biwo vòt la epi diskite sou rezilta yo ansanm. "
+"Brainstorm sou kisa ki ka fè ak enfòmasyon sa a."

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,67 +19,81 @@ msgstr ""
 # 06a94f10fd71477cb4df1dac06468445
 #: ../source/read.rst:3
 msgid "Read"
-msgstr ""
+msgstr "Li"
 
 # ae664fe896bb4c88b7692e2a37eac251
 #: ../source/read.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 8b629242ec034344826b0dc8fe2fa76a
 #: ../source/read.rst:8
 msgid ""
-"The Read activity allows the laptop to act as a book reader. It has a simple "
-"interface, and will view many kinds of text and image-based book-like "
+"The Read activity allows the laptop to act as a book reader. It has a simple"
+" interface, and will view many kinds of text and image-based book-like "
 "materials. It will have particular strengths in handheld mode, with "
 "extremely low power consumption and simple navigation controls."
 msgstr ""
+"Aktivite a Li pèmèt konpitè pòtatif li a yo aji kòm yon lektè liv. Li te gen"
+" yon koòdone senp, epi yo pral wè divès kalite tèks ak liv-tankou materyèl "
+"imaj ki baze sou. Li pral gen fòs patikilye nan mòd pòtatif, ak pouvwa "
+"konsomasyon ba anpil ak kontwole navigasyon senp."
 
 # c20ac80baf674e269e9bcfd8ebfbee57
 #: ../source/read.rst:10
 msgid ""
 "Read can read PDF files, EPUB files, text files and single-page TIFF files."
 msgstr ""
+"Li kapab li dosye PDF yo, dosye èpeub, dosye tèks ak yon sèl-paj dosye TIFF."
 
 # a546183338554d06be98c3f91fa4fd35
 #: ../source/read.rst:13
 msgid "Using"
-msgstr ""
+msgstr "Lè l sèvi avèk"
 
 # d3b326c15e5f4cb093a27751e6c70079
 #: ../source/read.rst:15
 msgid ""
 "The Read activity is launched by opening the Journal and choosing a PDF "
-"document. PDFs downloaded from Browse can be opened in this way, as can PDFs "
-"on an external storage device. The user may also start Read from the Home "
+"document. PDFs downloaded from Browse can be opened in this way, as can PDFs"
+" on an external storage device. The user may also start Read from the Home "
 "page Favorites circle and select a file to read. The book opens in a "
 "portrait orientation."
 msgstr ""
+"Se aktivite a li te lanse pa louvri Journal la ak w ap chwazi yon dokiman "
+"PDF. Pdf telechaje soti nan Browse ka louvri nan fason sa a, kòm ka pdf sou "
+"yon aparèy depo ekstèn. Itilizatè a kapab tou kòmanse li nan sèk la Akey "
+"favori epi chwazi yon dosye li. Liv la ouvè nan yon oryantasyon pòtrè."
 
 # c4411e4530b94e0dbc8d3a4ccf59f545
 #: ../source/read.rst:21
 msgid "Navigation"
-msgstr ""
+msgstr "Navigasyon"
 
 # 034462b70679476ab3fda4cf31f2f97a
 #: ../source/read.rst:23
 msgid ""
 "When the screen is in the upright position, the keyboard is available for "
-"navigation as well as the directional pad and games keys. When the screen is "
-"in tablet mode, the keyboard is not available. Make sure the document canvas "
-"is selected (and not the tool-bar menu) by clicking either in the page area, "
-"or pressing the TAB key until focus moves out of the toolbar."
+"navigation as well as the directional pad and games keys. When the screen is"
+" in tablet mode, the keyboard is not available. Make sure the document "
+"canvas is selected (and not the tool-bar menu) by clicking either in the "
+"page area, or pressing the TAB key until focus moves out of the toolbar."
 msgstr ""
+"Lè ekran an se nan yon pozisyon nan mache dwat devan Bondye, klavye a ki "
+"disponib pou navigasyon kòm byen ke pad an direksyon ak jwèt kle. Lè ekran "
+"an se nan mòd grenn, klavye a se pa disponib. Asire w ke se twal la dokiman "
+"chwazi (epi yo pa meni an zouti-bar) pa klike swa nan zòn nan paj, oswa peze"
+" kle a TAB jiskaske konsantre mouvman soti nan ba ikòn nan."
 
 # d4fa6f59f44c4630af47e4a113e7e1f2
 #: ../source/read.rst:25
 msgid "**Keyboard Navigation:**"
-msgstr ""
+msgstr "** Navigasyon klavye: **"
 
 # 57c5d40fa83c4017af22e2af17131c90
 #: ../source/read.rst:27
 msgid "The arrow keys will scroll the page a few lines in any direction"
-msgstr ""
+msgstr "Kle yo flèch pral woulo liv paj la yon liy kèk nan nenpòt direksyon"
 
 # 2671a03c7523454491e90b7799df70ce
 #: ../source/read.rst:28
@@ -87,6 +101,8 @@ msgid ""
 "ALT + arrow keys, or screen direction pad, will scroll the page a small "
 "amount in any direction"
 msgstr ""
+"ALT + flèch kle, oswa ekran direksyon pad, yo pral woulo liv paj la yon ti "
+"kantite lajan nan nenpòt direksyon"
 
 # 376f50c5187544278c803b06daa2066f
 #: ../source/read.rst:29
@@ -94,29 +110,34 @@ msgid ""
 "FN + arrow keys up/down will move one page up or down (with a small overlap "
 "to keep context)"
 msgstr ""
+"FN + flèch kle moute / desann ap deplase yon paj monte oswa desann (ak yon "
+"ti sipèpoze kenbe kontèks)"
 
 # 008ec8c2f4f34ec4ba09e7f238952c1c
 #: ../source/read.rst:30
 msgid ""
 "FN + arrow keys right/left will jump to the start or end of the document"
 msgstr ""
+"FN + flèch kle dwa / gòch pral sote nan kòmansman an oswa nan fen dokiman an"
 
 # 5736956e44ab44dc9a6b5fea5cccf639
 #: ../source/read.rst:31
 msgid "The keys h, j, k, l also act as left, down, up, right"
-msgstr ""
+msgstr "Kle h, J, K, L a tou aji kòm kite, desann, moute, dwa"
 
 # 90c954dec41f4207ac3513178c7d56a7
 #: ../source/read.rst:33
 msgid "**Screen GamePad and Directional Button Navigation**"
-msgstr ""
+msgstr "** Gampad ekran ak diriger Button Navigasyon **"
 
 # 4b3c85da59094af9bf6c8a794a4d0c10
 #: ../source/read.rst:35
 msgid ""
-"The screen rotation key (the bottom key on the left side of the screen) will "
-"turn the screen image to accommodate tablet use."
+"The screen rotation key (the bottom key on the left side of the screen) will"
+" turn the screen image to accommodate tablet use."
 msgstr ""
+"Kle a wotasyon ekran (kle a anba sou bò gòch nan ekran an) ap vire imaj la "
+"ekran li akomode itilize grenn."
 
 # 0ddab4d326e6414c9b437006f1cef755
 #: ../source/read.rst:36
@@ -124,6 +145,7 @@ msgid ""
 "The directional pad on the left hand side of the screen will also scroll a "
 "few lines"
 msgstr ""
+"Pad an direksyon sou bò men gòch nan ekran an ap tou woulo liv yon liy kèk"
 
 # 0abe4fe0323a469396124ed2948414df
 #: ../source/read.rst:37
@@ -132,43 +154,50 @@ msgid ""
 "'cross' also act as page up and page down (with a small overlap to keep "
 "context)."
 msgstr ""
+"Sou bò nan men dwat nan ekran an 'sèk' bouton sa yo gampad ak 'kwa' tou aji "
+"kòm PAJ KANPE e PAJ desann (ak yon ti sipèpoze kenbe kontèks)."
 
 # f62c9e09b58b403eaef4eb057f630e0e
 #: ../source/read.rst:38
 msgid "The gamepad buttons 'square' and 'tick' act as a zoom in and zoom out"
 msgstr ""
+"'Kare' gampad Bouton sa yo ak 'tik' aji tankou yon rale nan ak rale soti"
 
 # 33f1738a68864e1abaf9fa9dde088863
 #: ../source/read.rst:40
 msgid "**Brightness Control**"
-msgstr ""
+msgstr "** Luminozite Kontwòl **"
 
 # 414b79da9a4e4348b2266858f24aadaa
 #: ../source/read.rst:42
 msgid "The brightness can be increased or decreased with the keys"
-msgstr ""
+msgstr "Ka klète an ap ogmante oswa diminye ak kle yo"
 
 # 68a0880efdfc414598679880cc4c95a7
 #: ../source/read.rst:43
 msgid ""
 "Clarity is improved in tablet mode (turning the screen and laying it flat) "
-"by using monochrome mode. Select CTRL + Brightness keys to turn it on or off."
+"by using monochrome mode. Select CTRL + Brightness keys to turn it on or "
+"off."
 msgstr ""
+"Clarity se amelyore nan mòd grenn (vire ekran an ak tap mete li plat) lè l "
+"sèvi avèk mòd kamayeu. Chwazi kle Ctrl + Luminozite yo vire l 'sou oswa "
+"koupe."
 
 # 1f5d37247c824063aa68b56c6041e4d0
 #: ../source/read.rst:44
 msgid "Monochrome outside is easier to view books (CTRL Brightness Down)"
-msgstr ""
+msgstr "Kamayeu deyò se pi fasil yo wè liv (CTRL Luminozite Down)"
 
 # 8d02720298e548398c72b80438b40234
 #: ../source/read.rst:50
 msgid "Be aware that large books may open and scroll slowly."
-msgstr ""
+msgstr "Dwe konnen ke liv gwo pouvwa louvri ak woulo liv tou dousman."
 
 # 36dcdcec9e164e27821eec845bd3041d
 #: ../source/read.rst:53
 msgid "Applying"
-msgstr ""
+msgstr "Aplike"
 
 # 54c4332a0e5342a4892c24db3cb99465
 #: ../source/read.rst:55
@@ -178,3 +207,7 @@ msgid ""
 "of the screen when you are using Journal. Books can be stored in the My "
 "Documents folder for easier cataloging."
 msgstr ""
+"Aktivite nan GetBooks bay yon fason yo elaji aksè nan anpil nan liv yo "
+"gratis ki disponib atravè lemond. Folder nan 'Dokiman mwen' parèt nan pati "
+"anba a nan ekran an lè w ap itilize Journal. Liv ka dwe estoke nan dosye a "
+"Dokiman mwen pi fasil pou cataloging."

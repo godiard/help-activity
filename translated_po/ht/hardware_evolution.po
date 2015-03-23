@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 5fd8599971184b06888b34740020ff83
 #: ../source/hardware_evolution.rst:3
 msgid "Hardware evolution"
-msgstr ""
+msgstr "Evolisyon Materyèl"
 
 # 281a61906f5947d89810479061c1d649
 #: ../source/hardware_evolution.rst:6
 msgid "Hardware Evolution 2008 - 2012"
-msgstr ""
+msgstr "Materyèl Evolisyon 2008 - 2012"
 
 # 7d4e195311924abc91a7263d6751cab8
 #: ../source/hardware_evolution.rst:8
@@ -33,26 +33,30 @@ msgid ""
 "the electronics inside have been changing. For details of the differences, "
 "refer to:"
 msgstr ""
+"Malgre ke gen XO a kontinye ap gade bèl anpil menm bagay la sou deyò a, "
+"elektwonik yo andedan yo te chanje. Pou detay sou diferans ki genyen, al "
+"gade nan:"
 
 # e41f268102ec40499ffafc74a5308d2e
 #: ../source/hardware_evolution.rst:10
 msgid "http://wiki.laptop.org/go/Hardware_specification for the XO 1.0"
 msgstr ""
+"http: // wiki. laptop. org / ale / Hardware_specification pou XO a 1. 0"
 
 # c769064569e140529448aaf5b1d77ed7
 #: ../source/hardware_evolution.rst:12
 msgid "http://wiki.laptop.org/go/Hardware_specification_1.5"
-msgstr ""
+msgstr "http: // wiki. laptop. org / ale / Hardware_specification_1. 5"
 
 # 1718442d80e9484a9a243dd5a88db23f
 #: ../source/hardware_evolution.rst:14
 msgid "http://wiki.laptop.org/go/XO-1.75"
-msgstr ""
+msgstr "http: // wiki. laptop. org / ale / XO-1. 75"
 
 # 2d8963fee24341e68c92ea18498474e5
 #: ../source/hardware_evolution.rst:16
 msgid "http://wiki.laptop.org/go/XO-4"
-msgstr ""
+msgstr "http: // wiki. laptop. org / ale / XO-4"
 
 # 3eff3ded4f004d9d9b59c4356b54117c
 #: ../source/hardware_evolution.rst:18
@@ -63,6 +67,11 @@ msgid ""
 "50%. With power management improvements, this permits the XO to last more "
 "than 3.5 hours."
 msgstr ""
+"Nan yon sèten mezi, chanjman sa yo yo te fè lè l sèvi avèk yo kenbe segondè "
+"pati volim, ak amelyore pèfòmans. Chanjman nan soti nan 1. 5 a 1. 75 ki "
+"enplike yon chanjman nan processeur a soti nan x86 nan bra, ak yon rediksyon"
+" nan pouvwa konsomasyon nan sou 50%. Avèk amelyorasyon jesyon pouvwa, sa a "
+"pèmèt XO a dire plis pase 3. 5 èdtan."
 
 # 0752e97ec0044789acae813e1ae7fd7d
 #: ../source/hardware_evolution.rst:20
@@ -70,6 +79,8 @@ msgid ""
 "XO-4 is available in two models, XO-4 and XO-4 Touch. XO-4 provides multi "
 "touch input on the display."
 msgstr ""
+"XO-4 se disponib nan de modèl, XO-4 ak XO-4 Touch. XO-4 bay milti D 'manyen "
+"nan ekspozisyon an."
 
 # a8c5bd2527084c3ea5cf0208a667d780
 #: ../source/hardware_evolution.rst:22
@@ -77,99 +88,101 @@ msgid ""
 "As you can see from the \"boot time\" comparison, lower power has not been "
 "at the expense of decreased performance."
 msgstr ""
+"Kòm ou ka wè ki soti nan \"bòt tan\" konparezon an, pi ba pouvwa pa te nan "
+"depans lan nan diminye pèfòmans."
 
 # 1995f230625142febdfe3f1eb56026f3
 #: ../source/hardware_evolution.rst:25
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 # baf3f0622dd442dba99903266c64f75a
 #: ../source/hardware_evolution.rst:25
 msgid "Hard Disk"
-msgstr ""
+msgstr "Difisil Disk"
 
 # a7d7df9d7d2c44a5a1e006efd2e91945
 #: ../source/hardware_evolution.rst:25
 msgid "Memory"
-msgstr ""
+msgstr "Memwa"
 
 # b18615e8d00c4d2fabcf676d51d3a0a6
 #: ../source/hardware_evolution.rst:25
 msgid "Boot Time"
-msgstr ""
+msgstr "Bòt Tan"
 
 # deadde5a43b64abf9e2468eb93eb6d9f
 #: ../source/hardware_evolution.rst:27
 msgid "XO 1.0"
-msgstr ""
+msgstr "XO 1. 0"
 
 # 546242f71653411abee62d4854ccda9f
 #: ../source/hardware_evolution.rst:27
 msgid "1 GB"
-msgstr ""
+msgstr "1 GB"
 
 # e426d77a7dd54c0b8702015d96ac4087
 #: ../source/hardware_evolution.rst:27
 msgid "256 MB"
-msgstr ""
+msgstr "256 MB"
 
 # ed667f1be98b416e87e93161ae72d1ca
 #: ../source/hardware_evolution.rst:27
 msgid "76 s"
-msgstr ""
+msgstr "76 a"
 
 # 75fbbfcbc33c4565985472fb12c16b4e
 #: ../source/hardware_evolution.rst:29
 msgid "XO 1.5"
-msgstr ""
+msgstr "XO 1. 5"
 
 # 52d0eefc22344480ae05057a1f127b8f
 # 93e1ce8b225a42619815bdb76c06b2db
 #: ../source/hardware_evolution.rst:29 ../source/hardware_evolution.rst:31
 msgid "4 GB"
-msgstr ""
+msgstr "4 GB"
 
 # af507e44f7b6496b945b4e7874b78413
 #: ../source/hardware_evolution.rst:29
 msgid "1000 MB"
-msgstr ""
+msgstr "1000 MB"
 
 # ea444eb1a4ca465fb3fc395d90d6beb1
 #: ../source/hardware_evolution.rst:29
 msgid "54 s"
-msgstr ""
+msgstr "54 a"
 
 # 942ed0d19aee42faa87a4a475c85f6d0
 #: ../source/hardware_evolution.rst:31
 msgid "XO-1.75"
-msgstr ""
+msgstr "XO-1. 75"
 
 # 093f924cb23341ca9a737906bb369e30
 #: ../source/hardware_evolution.rst:31
 msgid "512 MB"
-msgstr ""
+msgstr "512 MB"
 
 # 6ec39dfa587c42a1a6c9bf06ae5677bf
 #: ../source/hardware_evolution.rst:31
 msgid "47 s"
-msgstr ""
+msgstr "47 a"
 
 # c2869ffc2be34933b240269a67a6f725
 #: ../source/hardware_evolution.rst:33
 msgid "XO-4"
-msgstr ""
+msgstr "XO-4"
 
 # bbe20cef88854b148156eefd099fcb2f
 #: ../source/hardware_evolution.rst:33
 msgid "4 or 8 GB"
-msgstr ""
+msgstr "4 oswa 8 GB"
 
 # 566171dbc9fa48c6bb01cfb4beb33a2c
 #: ../source/hardware_evolution.rst:33
 msgid "1 or 2 GB"
-msgstr ""
+msgstr "1 oswa 2 GB"
 
 # f12d3d3fbd634053868417b94e5f3d01
 #: ../source/hardware_evolution.rst:33
 msgid "38 s"
-msgstr ""
+msgstr "38 a"

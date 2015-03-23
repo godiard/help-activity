@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 90a7e0e8547249568f76c786458e201a
 #: ../source/irc.rst:3
 msgid "IRC"
-msgstr ""
+msgstr "Ir"
 
 # f91d60e86e6e4ac9982822b09123bc2b
 #: ../source/irc.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # db687596851a47b7b139d9f82c2f6723
 #: ../source/irc.rst:8
@@ -32,33 +32,44 @@ msgid ""
 "|IRC_icon| The IRC activity allows you to chat with other Sugar/OLPC users "
 "and enthusiasts on the Internet via Internet Relay Chat (IRC)."
 msgstr ""
+"| IRC_icon | Aktivite a ir pèmèt ou chat ak lòt / itilizatè OLPC Sugar ak "
+"amater sou entènèt la sou Entènèt Relay Chat (ir)."
 
 # 7e8be8b604fd44a1880dd4bf23ae7bbb
 #: ../source/irc.rst:12
 msgid ""
-"The activity defaults to a \"channel\" (akin to a \"room\") called #sugar on "
-"the Freenode network, but you can join one of the many channels available by "
-"typing /join #channel, where #channel is the channel name. Like many Free/"
-"Open Source projects, Sugar developers frequent this channel, and are happy "
-"to help with any Sugar questions and suggestions you may have."
+"The activity defaults to a \"channel\" (akin to a \"room\") called #sugar on"
+" the Freenode network, but you can join one of the many channels available "
+"by typing /join #channel, where #channel is the channel name. Like many "
+"Free/Open Source projects, Sugar developers frequent this channel, and are "
+"happy to help with any Sugar questions and suggestions you may have."
 msgstr ""
+"Défaut yo aktivite nan yon \"channel\" (analogue nan yon \"sal\") rele "
+"#sugar sou rezo a frinod, men ou ka rantre nan youn nan kanal yo anpil ki "
+"disponib pa sezisman / rantre nan #channel, kote #channel se non an chanèl. "
+"Tankou anpil gratis pwojè Sous / Open, devlopè Sugar souvan sa a chanèl, epi"
+" yo kontan ede avèk nenpòt kesyon Sugar ak sijesyon ou ka genyen."
 
 # 295007d33c1f471794680302dc0ba950
 #: ../source/irc.rst:14
 msgid ""
-"See the Internet Relay Chat page on `this wiki <http://wiki.sugarlabs.org/go/"
-"Internet_Relay_Chat>`_ for a list of Sugar-related channels you can join."
+"See the Internet Relay Chat page on `this wiki "
+"<http://wiki.sugarlabs.org/go/Internet_Relay_Chat>`_ for a list of Sugar-"
+"related channels you can join."
 msgstr ""
+"Wè paj la Chat entènèt Relay sou `wiki sa a <http: // wiki. sugarlabs. org /"
+" ale / Internet_Relay_Chat> `_ pou yon lis chanèl ki gen rapò ak Sugar ou ka"
+" rantre nan."
 
 # 05e20d1917c14141a663c3584fbb323e
 #: ../source/irc.rst:19
 msgid "Using IRC"
-msgstr ""
+msgstr "Lè l sèvi avèk ir"
 
 # 822ab4e056664ee8b9f68fe3a43582ab
 #: ../source/irc.rst:22
 msgid "IRC Commands"
-msgstr ""
+msgstr "Ir Kòmand"
 
 # dd13bf65a2b045eebfd29ab99dcba90b
 #: ../source/irc.rst:24
@@ -66,21 +77,24 @@ msgid ""
 "The following commands can be typed into the input box, all preceded by a "
 "slash (/):"
 msgstr ""
+"Kòmandman sa yo ka tape nan ti bwat la opinyon yo, tout anvan pa yon koupe "
+"(/):"
 
 # 0960938068f44f2aa1b80f7aa3207b26
 #: ../source/irc.rst:26
 msgid "/join #channel - join a channel"
-msgstr ""
+msgstr "/ Rantre nan #channel - rantre nan yon kanal"
 
 # 401fea877e8b4a8fa0676e855f1b614b
 #: ../source/irc.rst:28
 msgid "/server irc.example.org - connect to a different network"
-msgstr ""
+msgstr "/ Sèvè ir. egzanp. org - konekte nan yon rezo diferan"
 
 # e6c542257a744bc69e130739d49be56f
 #: ../source/irc.rst:30
 msgid "/query user - open up a private chat window with another user"
 msgstr ""
+"/ Query itilizatè - louvri moute yon fenèt chat prive ak yon lòt itilizatè"
 
 # 5629de3fc833421eb0f3750b7e4370ec
 #: ../source/irc.rst:32
@@ -88,46 +102,51 @@ msgid ""
 "/msg user message - privately message another user without opening a new "
 "window"
 msgstr ""
+"/ Msg itilizatè mesaj - prive mesaj yon lòt itilizatè san yo pa louvri yon "
+"lòt fenèt"
 
 # 4004a3804e6c4ac18a8eeb2c4beca1cb
 #: ../source/irc.rst:34
 msgid "/nick new_name - change your nickname away from the default"
-msgstr ""
+msgstr "/ Nick new_name - chanje tinon ou lwen default la"
 
 # 92cfd3da41d44aef9250f947d7862528
 #: ../source/irc.rst:36
 msgid ""
 "Many other commands are available, and you can create and administer your "
-"own channels as well: see the `IRC FAQ <http://www.irchelp.org/irchelp/"
-"altircfaq.html>`_ for more information."
+"own channels as well: see the `IRC FAQ "
+"<http://www.irchelp.org/irchelp/altircfaq.html>`_ for more information."
 msgstr ""
+"Anpil lòt kòmandman ki disponib, epi ou ka kreye epi administre chanèl pwòp "
+"ou a kòm byen: wè `ir FAQ la <http: // www. irchelp. org / irchelp / "
+"altircfaq. html> `_ pou plis enfòmasyon."
 
 # 3b2c0b4639c34105b94a834ca3bcba00
 #: ../source/irc.rst:40
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 # 206a48732cb04af4801382abee0d2faf
 #: ../source/irc.rst:41
 msgid "`ASLO IRC <http://activities.sugarlabs.org/sugar/addon/4029>`_"
-msgstr ""
+msgstr "`Aslo ir <http: // aktivite. sugarlabs. org / sik / addon / 4029> `_"
 
 # 3eecf5307eb2477aa74e5b1e5e27649b
 #: ../source/irc.rst:45
 msgid "Development"
-msgstr ""
+msgstr "Devlopman"
 
 # db5ec377e79f4971acc58a02c6ff0679
 #: ../source/irc.rst:46
 msgid "`Git Repository <http://git.sugarlabs.org/projects/irc>`_"
-msgstr ""
+msgstr "`Ale referansyèl <http: // Ale. sugarlabs. org / pwojè / ir> `_"
 
 # 94b4e0ecd9cf4848bd30e55b8b1dfe19
 #: ../source/irc.rst:50
 msgid "References"
-msgstr ""
+msgstr "Referans"
 
 # 104cfb5bc3894900a709dd84dcc37238
 #: ../source/irc.rst:51
 msgid "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/IRC>`_"
-msgstr ""
+msgstr "`Wiki Page <http: // wiki. sugarlabs. org / ale / Aktivite / ir> `_"

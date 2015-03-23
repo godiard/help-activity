@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # b219a7e5c20a4dfe9b51edbcdc262653
 #: ../source/frame.rst:3
 msgid "The Frame"
-msgstr ""
+msgstr "Frame nan"
 
 # fa2210078f664f62b2e1c11a88a26906
 #: ../source/frame.rst:5
@@ -29,16 +29,19 @@ msgid ""
 "invitations and notifications, buddies, and global information that is used "
 "across all views."
 msgstr ""
+"Frame a se fwontyè a nwa alantou ekran an ki kenbe ikon yo View, ekstrè "
+"Aktivite, clipboard, koneksyon san fil, nivo batri, envitasyon fèk ap rantre"
+" ak notifikasyon, ami, ak enfòmasyon mondyal ki itilize atravè tout opinyon."
 
 # 4d839ac649f641b798374f9b55490631
 #: ../source/frame.rst:8
 msgid "Accessing the Frame"
-msgstr ""
+msgstr "Antre nan ankadreman an"
 
 # e004415fc7604c76953d937043a0fa8a
 #: ../source/frame.rst:10
 msgid "You can access the frame from any view in 2 ways:"
-msgstr ""
+msgstr "Ou ka jwenn aksè ankadreman an nan nenpòt View nan 2 fason:"
 
 # 97fe074aff174f88ac5a93856be78302
 #: ../source/frame.rst:12
@@ -47,6 +50,9 @@ msgid ""
 "square icon on the upper right hand corner of your keyboard, on other "
 "laptops you can use the F6 key."
 msgstr ""
+"Lè l sèvi avèk kle a Frame sou klavye a. Sou XO laptops kle a Frame se icon "
+"a kare nan kwen an men dwat anwo nan klavye ou, sou lòt laptops ou ka "
+"itilize kle a F6."
 
 # a450915114bf4003bbe8aa23812ce553
 #: ../source/frame.rst:13
@@ -55,24 +61,30 @@ msgid ""
 "several options you can configure in this area, please refer to the My "
 "Settings section for more details.)"
 msgstr ""
+"Pa deplase kurseur la nan bor yo oswa kwen nan ekran ou. (Gen plizyè opsyon "
+"ou ka configured nan zòn sa a, tanpri al gade seksyon nan Anviwònman mwen "
+"pou plis detay. )"
 
 # 3af5090174a24125b660ec42fb22fe3b
 #: ../source/frame.rst:15
 msgid ""
-"In the XO-4, with touch screen, is possible show the frame sliding a finger, "
-"from the top of the screen, a few centimeters. The same gesture will hide "
+"In the XO-4, with touch screen, is possible show the frame sliding a finger,"
+" from the top of the screen, a few centimeters. The same gesture will hide "
 "the frame too."
 msgstr ""
+"Nan XO a-4, ak manyen ekran, se posib montre ankadreman an glisman yon dwèt,"
+" ki soti nan tèt la nan ekran an, yon kèk santimèt. Jès la menm pral kache "
+"ankadreman an twò."
 
 # cb6c69b217eb4479b240689d7e1ec4db
 #: ../source/frame.rst:18
 msgid "Frame Elements"
-msgstr ""
+msgstr "Eleman Frame"
 
 # 985ded4545de4078afbd2c32f2bfe93a
 #: ../source/frame.rst:22
 msgid "The Frame view:"
-msgstr ""
+msgstr "View nan Frame:"
 
 # 294570db0c2144bb84f10a306de31c8d
 #: ../source/frame.rst:24
@@ -82,13 +94,17 @@ msgid ""
 "Use it to move between the four Sugar views: Neighborhood, Group, Home, and "
 "Activity."
 msgstr ""
+"Zoom meni: Meni an Zoom (ikon matche rakoursi yo klavye enpòtan nan "
+"direksyon tèt la klavye agòch) parèt sou kwen anwo-kite nan ankadreman an. "
+"Sèvi ak li pou avanse pou pi ant kat opinyon yo Sugar: Katye, Gwoup, Kay, ak"
+" aktivite."
 
 # ea84988cc7f342889df58a4f8f3220f1
 #: ../source/frame.rst:25
 msgid ""
 "Running Activity list: The sequence of currently started Activities appears "
-"on the top edge of the Frame in the order that they were started. The active "
-"Activity is highlighted. (The Journal always appears here first.) Here you "
+"on the top edge of the Frame in the order that they were started. The active"
+" Activity is highlighted. (The Journal always appears here first.) Here you "
 "can see open Activities, save, close or switch between them, and view their "
 "source code. Sometimes an unlabeled circle appears here which represents an "
 "additional full-screen session started by an Activity whose icon already "
@@ -97,13 +113,25 @@ msgid ""
 "show up on this portion of the Frame. They appear as icons in the color of "
 "the person who sent them. Hover and you can see who it is and join in."
 msgstr ""
+"Kouri lis aktivite: Sekans an nan Aktivite kounye a te kòmanse parèt sou "
+"kwen nan tèt nan ankadreman an nan lòd la yo ke yo te kòmanse. Se aktivite "
+"nan aktif make. (Journal la toujou parèt isit la premye. ) Isit la ou ka wè "
+"Aktivite louvri, sove, fèmen oswa chanje ant yo, epi wè kòd sous yo. Pafwa "
+"yon sèk unlabeled parèt isit la ki reprezante yon lòt sesyon plen ekran-te "
+"kòmanse pa yon aktivite ki gen icon deja parèt nan kwen an tèt nan "
+"ankadreman an oswa yon aktivite ki gen pwoblèm konplètman kòmanse. "
+"Envitasyon sesyon aktivite kolaboratif tou montre moute sou sa a pòsyon nan "
+"ankadreman an. Yo parèt kòm ikon nan koulè a ​​nan moun ki te voye yo. Hover"
+" epi ou ka wè ki moun li se ak rantre nan nan."
 
 # 24e4a8507c9c44a0a0c4edb3f4f61e74
 #: ../source/frame.rst:26
 msgid ""
-"Active buddy list: People you are currently collaborating with appear on the "
-"right edge of the Frame."
+"Active buddy list: People you are currently collaborating with appear on the"
+" right edge of the Frame."
 msgstr ""
+"Lis zanmi aktif: Moun w ap kounye a kolabore avèk parèt sou bò dwat nan "
+"ankadreman an."
 
 # 08875167bd1b4844adcccef0b3928b6c
 #: ../source/frame.rst:27
@@ -113,12 +141,20 @@ msgid ""
 "Activities. A hover menu also lets you remove them from the clipboard, open "
 "them in an Activity, or save (keep) them in your Journal."
 msgstr ""
+"Clipboard: kwen an kite nan ankadreman an sèvi kòm yon papye. Ou ka trennen "
+"objè tankou imaj, ak tèks pou ale ak pou soti nan clipboard a, epi soti nan "
+"ak Aktivite. Yon meni hover tou pèmèt ou retire yo nan clipboard a, louvri "
+"yo nan yon aktivite, oswa sove (kenbe) yo nan jounal ou."
 
 # a7023234bdcf48b692092f0b4f34b687
 #: ../source/frame.rst:28
 msgid ""
-"System status (from left to right): Switch for the two modes of the touchpad "
-"(XO-1 only), external storage devices (e.g. thumb and hard drives), network "
-"status, text-to-speech, speaker (volume), and battery appear on the lower "
+"System status (from left to right): Switch for the two modes of the touchpad"
+" (XO-1 only), external storage devices (e.g. thumb and hard drives), network"
+" status, text-to-speech, speaker (volume), and battery appear on the lower "
 "edge of the Frame."
 msgstr ""
+"Sitiyasyon System (de gòch a dwat): switch pou de mòd yo nan touchpad a "
+"(XO-1 sèlman), aparèy depo ekstèn (e. g. gwo pous ak kondui difisil), estati"
+" rezo a, tèks-a-lapawòl, oratè (volim), ak batri parèt sou kwen ki pi ba nan"
+" ankadreman an."

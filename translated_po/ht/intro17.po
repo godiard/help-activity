@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # b519cdd5d2d64a9e887ad5708b9e6710
 #: ../source/intro17.rst:3
 msgid "Introduction to XO Help 17"
-msgstr ""
+msgstr "Entwodiksyon nan XO Ede 17"
 
 # 1b21e9e9ae2d48cca375a8c2ab1867f3
 #: ../source/intro17.rst:5
 msgid "Welcome to a new look in XO Help 17."
-msgstr ""
+msgstr "Byenveni nan yon gade nouvo nan XO Ede 17."
 
 # 16e5c870c5c04dca8bd4afde9672bb2c
 #: ../source/intro17.rst:7
@@ -32,15 +32,21 @@ msgid ""
 "If you are starting with an XO laptop you might jump straight to the top of "
 "the \"Hardware section\" :doc:`/getting_started`."
 msgstr ""
+"Si w ap kòmanse ak yon laptop XO ou ta ka sote dwat nan tèt la nan \"seksyon"
+" an Materyèl\": doc: `/ getting_started`."
 
 # 56008048d25e4e3aba07baf714d82215
 #: ../source/intro17.rst:9
 msgid ""
-"When you press the \"next\" link at the top right of this page you will move "
-"on to the page, The Sugar User Interface. To a new user this is a somethat "
+"When you press the \"next\" link at the top right of this page you will move"
+" on to the page, The Sugar User Interface. To a new user this is a somethat "
 "theoretical page, but the **following** few pages covering navigation are "
 "more new user friendly and important for all new users."
 msgstr ""
+"Lè ou peze \"Next\" lyen ki sou bò dwat nan tèt nan paj sa aw ap deplase sou"
+" li nan paj la, Itilizatè Entèfas a Sugar. Nan yon itilizatè nouvo sa a se "
+"yon paj teyorik somethat, men ** yo ** paj sa yo kèk ki kouvri navigasyon yo"
+" gen plis nouvo itilizatè zanmitay ak enpòtan pou tout nouvo itilizatè."
 
 # 70e906b7b0af484191f0b603c7a57004
 #: ../source/intro17.rst:11
@@ -49,6 +55,9 @@ msgid ""
 "display, the pages in the index, plus (when you are online) pages linked to "
 "the internet."
 msgstr ""
+"Aktivite an w ap itilize, èd, gen pwòp li yo: doc: `/ paj help`. Ede ap "
+"montre, paj sa yo nan endèks la, plis (lè ou se sou entènèt) paj lye nan "
+"entènèt la."
 
 # ee3edbe3c4dd4a498add6979412dd421
 #: ../source/intro17.rst:13
@@ -56,19 +65,24 @@ msgid ""
 "In Help use the \"Back\" button |Back| to return to the previous page, and "
 "the \"Home\" button |Home| to return to :doc:`/index`"
 msgstr ""
+"Nan Èd sèvi ak bouton an \"Retounen\" | Retounen | pou li retounen nan paj "
+"anvan-an, ak \"Kay\" bouton | Kay la | pou li retounen nan: doc: `/ index`"
 
 # f803854bd4144cf5b0bcd5293ad11846
 #: ../source/intro17.rst:15
 msgid ""
 "Activities are listed in alphabetical order, starting with :doc:`/browse`."
 msgstr ""
+"Aktivite yo ki nan lis nan lòd alfabetik, kòmanse ak: doc: `/ browse`."
 
 # 4d8086f6bf764fa6bf410ce90ed6d5cd
 #: ../source/intro17.rst:17
 msgid ""
-"The section of the table of Contents, Network, starts with the page :doc:`/"
-"give_me_the_internet`"
+"The section of the table of Contents, Network, starts with the page "
+":doc:`/give_me_the_internet`"
 msgstr ""
+"Seksyon an nan tablo a of Contents, Rezo, kòmanse ak paj: doc la: `/ "
+"give_me_the_internet`"
 
 # faf4b01225f24e47a8fcc3280b4a456f
 #: ../source/intro17.rst:19
@@ -76,10 +90,14 @@ msgid ""
 "In Help pages, the green arrow |more| is used to signify moving to material "
 "at a deeper level."
 msgstr ""
+"Nan Ede paj, flèch la vèt | plis | se sèvi ak siyifi deplase ou nan materyèl"
+" nan yon nivo pi fon."
 
 # b4d5311bc4ac43ee85a310b5f67a4b90
 #: ../source/intro17.rst:23
 msgid ""
-"This is an experimental new page. You can improve it yourself by following :"
-"doc:`/how_to_help`."
+"This is an experimental new page. You can improve it yourself by following "
+":doc:`/how_to_help`."
 msgstr ""
+"Sa a se yon paj nouvo eksperimantal. Ou ka amelyore li tèt ou pa yo: doc: `/"
+" how_to_help`."

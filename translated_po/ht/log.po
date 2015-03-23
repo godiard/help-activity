@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # e79505ac34c24ceaa0b17e8a20823d54
 #: ../source/log.rst:3
 msgid "Log"
-msgstr ""
+msgstr "Log"
 
 # 318c80f45ead4e0a91defeea878bb2b7
 #: ../source/log.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 1f59d732e45f4ec58822ea944b7347fc
 #: ../source/log.rst:10
@@ -33,11 +33,14 @@ msgid ""
 "You can view the log files of Sugar and your Activities.  Log files contain "
 "errors, warnings and debugging information to help you fix problems."
 msgstr ""
+"Log Aktivite a pèmèt ou rézoudr pwoblèm ak òdinatè w lan. Ou kapab wè dosye "
+"yo louvri sesyon nan sik ak aktivite ou. Log dosye gen erè, avètisman ak "
+"debogaj enfòmasyon yo ede w ranje pwoblèm."
 
 # 617bad05401041399d086deced9d83b1
 #: ../source/log.rst:15
 msgid "Using Log"
-msgstr ""
+msgstr "Lè l sèvi avèk Log"
 
 # f7e362d5583b4e7090bf26a5f202d4eb
 #: ../source/log.rst:19
@@ -45,27 +48,40 @@ msgid ""
 "When you open Log, there are 2 panels.  On the left is a list of log files. "
 "On the right, the contents of the selected file is displayed."
 msgstr ""
+"Lè ou louvri Log, gen 2 panno. Sou bò gòch la se yon lis nan dosye boutèy "
+"demi lit. Sou bò dwat la, sa ki nan dosye a chwazi se parèt."
 
 # 1d96761f679d40bebb136e766ab1562a
 #: ../source/log.rst:22
 msgid ""
 "The list of log files is divided into sections, each representing a folder. "
-"Pressing the arrow icon a to the folder name will hide or show its contents. "
-"Items without arrows are log files.  Pressing an item that does not have an "
-"arrow will display the contents of that file in the right panel."
+"Pressing the arrow icon a to the folder name will hide or show its contents."
+" Items without arrows are log files.  Pressing an item that does not have an"
+" arrow will display the contents of that file in the right panel."
 msgstr ""
+"Se lis la nan dosye log divize an seksyon, chak reprezante yon katab. Peze "
+"flèch icon yon nan non an folder pral kache oswa montre sa li yo. Atik san "
+"yo pa flèch yo se dosye boutèy demi lit. Peze yon atik ki pa gen yon flèch "
+"ap montre sa ki nan ke dosye nan panèl la dwa."
 
 # 67d2e99f35e04f04801d7a330621ccee
 #: ../source/log.rst:27
 msgid ""
 "There are 3 main folders in the log file list.  The first is the ``.sugar`` "
 "or ``dotsugar`` folder.  This contains the log files of Sugar and your "
-"Activities. The sub-folders contain backups of older logs (log files in ``."
-"sugar`` are deleted on shutdown).  The second main folder ``/var/log``.  "
+"Activities. The sub-folders contain backups of older logs (log files in "
+"``.sugar`` are deleted on shutdown).  The second main folder ``/var/log``.  "
 "This contains system log files.  These are helpful for troubleshooting "
 "issues related to your computer hardware.  The last main folder is "
 "``Other``, and contains miscellaneous log files."
 msgstr ""
+"Genyen 3 dosye prensipal nan lis nan dosye boutèy demi lit. Premye a se `` "
+"yo. sugar`` oswa `` folder dotsugar``. Sa a gen dosye yo louvri sesyon nan "
+"sik ak aktivite ou. Sub-dosye yo gen sovgad nan ki pi gran mòso bwa (boutèy "
+"demi lit dosye nan ``. sugar`` yo efase sou are). Dezyèm katab nan prensipal"
+" `` / var / log``. Sa a gen dosye log sistèm. Sa yo se itil pou pwoblèm ki "
+"gen rapò ak depanaj kenkayri òdinatè w lan. Dènye katab la prensipal se `` "
+"Other``, epi li gen dosye log divès."
 
 # 3a1a481126ef4203845f1c8032aba317
 #: ../source/log.rst:35
@@ -75,82 +91,100 @@ msgid ""
 "errors, warnings and debugging information for the Sugar Shell.  The Sugar "
 "Shell covers the home and neighborhood views, journal, frame, web services "
 "and control panel.  Each activity has its own log file, named using its "
-"bundle ID. You can find an activity's bundle ID by opening view source while "
-"using the activity, clicking the ``activity`` folder and opening the "
+"bundle ID. You can find an activity's bundle ID by opening view source while"
+" using the activity, clicking the ``activity`` folder and opening the "
 "``activity.info`` file.  If you open an activity for a 2nd time, a separate "
 "log file will be created, with ``-2`` added to the end of the file name.  "
 "This pattern continues if you run the activity more than 2 times."
 msgstr ""
+"`` Yo. folder sugar`` se premye folder nan ou ta dwe gade nan lè depanaj "
+"Sugar ak Aktivite ou. `` Koki a. dosye log`` gen erè, avètisman ak debogaj "
+"enfòmasyon pou Sugar Shell nan. Sugar Shell a kouvri kay ak katye opinyon, "
+"jounal, ankadreman, sèvis entènèt ak kontwòl panèl la. Chak aktivite gen "
+"pwòp dosye log li yo, yo te rele lè l sèvi avèk ID pake li yo. Ou ka jwenn "
+"pake ID yon aktivite nan pa louvri sous vi pandan w ap itilize aktivite a, "
+"klike `` folder nan activity`` ak ouvèti `aktivite a`. info`` dosye. Si ou "
+"louvri yon aktivite pou yon tan 2nd, y ap fè yon dosye log separe dwe kreye,"
+" ak `` -2`` ajoute nan fen a nan non an dosye. Modèl sa a ap kontinye si ou "
+"kouri aktivite a pi plis pase 2 fwa."
 
 # dc67725d62634d89ae60afc1b21d24cd
 #: ../source/log.rst:47
 msgid "The Toolbars"
-msgstr ""
+msgstr "D yo"
 
 # ff7ea038e7f745e887bd2dd91bd50a3a
 #: ../source/log.rst:51
 msgid "Activity Toolbar"
-msgstr ""
+msgstr "Aktivite Toolbar"
 
 # 2c4ccab3d6f341088b66d3fc38882cf6
 #: ../source/log.rst:52
 msgid "Hide/Show the list of files"
-msgstr ""
+msgstr "Kache / Montre lis la nan dosye"
 
 # df0cfd30a5c24d78b875503f2ac2d6ea
 #: ../source/log.rst:53
 msgid "Copy the log file"
-msgstr ""
+msgstr "Kopi dosye a boutèy demi lit"
 
 # c0452315f69e46dab5458c240792420e
 #: ../source/log.rst:54
 msgid ""
-"Enable/Disable word wrap.  When word wrap is disabled, there is a horizontal "
-"scroll bar.  When word wrap is enabled, the lines of text too long to fit on "
-"the screen are broken up."
+"Enable/Disable word wrap.  When word wrap is disabled, there is a horizontal"
+" scroll bar.  When word wrap is enabled, the lines of text too long to fit "
+"on the screen are broken up."
 msgstr ""
+"Pèmèt / enfim vlope mo. Lè vlope mo ki andikape, gen yon woulo liv bar "
+"orizontal. Lè yo vlope mo pèmèt, liy ki nan tèks twò lontan nan anfòm sou "
+"ekran an yo kase moute."
 
 # 671a7f7bf4024c868a9597ad83e3cce3
 #: ../source/log.rst:57
 msgid "Find and highlight text in the log file"
-msgstr ""
+msgstr "Jwenn ak mete aksan sou tèks nan dosye a louvri sesyon"
 
 # 3d1d469294464648bac617070f50a8cb
 #: ../source/log.rst:58
 msgid "Previous matching text"
-msgstr ""
+msgstr "Previous tèks matche"
 
 # 65936cf2f8b0434f9978516400d0e37d
 #: ../source/log.rst:59
 msgid "Next matching text"
-msgstr ""
+msgstr "Next tèks matche"
 
 # 05b3d699d3854afebaab44e3992bec78
 #: ../source/log.rst:60
 msgid "Delete current log file"
-msgstr ""
+msgstr "Efase aktyèl dosye log"
 
 # 8ae5d564987a46159ad5cd84676c67d9
 #: ../source/log.rst:61
 msgid "Stop activity"
-msgstr ""
+msgstr "Aktivite Stop"
 
 # fd7bb6cb24c849189e9cf8f1e770dcf6
 #: ../source/log.rst:65
 msgid "Activity Name"
-msgstr ""
+msgstr "Non Aktivite"
 
 # 5171fd4bfd474b17b7a0b3d2e66fc763
 #: ../source/log.rst:66
 msgid "Activity Description"
-msgstr ""
+msgstr "Aktivite:"
 
 # 52ec836ec9a748fc8ae2ed50176ed4de
 #: ../source/log.rst:67
 msgid ""
-"Save log files to Journal.  This packages the log files in a format that you "
-"can send over the internet.  If you find a bug, you can email this package "
+"Save log files to Journal.  This packages the log files in a format that you"
+" can send over the internet.  If you find a bug, you can email this package "
 "to the activity's developers so they can fix this bug.  If you are filing a "
 "support ticket or bug report, you should attach this file, so the problem "
 "can be more easily diagnosed and fixed."
 msgstr ""
+"Save dosye boutèy demi lit Journal. Sa a pakè dosye yo louvri sesyon nan yon"
+" fòma ke ou ka voye sou entènèt la. Si ou jwenn yon ensèk, ou ka voye yon "
+"imèl ba pake sa a nan devlopè aktivite a nan pou yo ka ranje ensèk sa a. Si "
+"w ap ranpli yon tikè sipò oswa ensèk rapò, ou ta dwe tache sa a ranpli, se "
+"konsa ka pwoblèm lan dwe pi fasil dyagnostike ak fiks."

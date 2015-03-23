@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,32 +19,34 @@ msgstr ""
 # 05f682725c7b4eb58ad0f6f0e1aff1b4
 #: ../source/launching_activities.rst:3
 msgid "Launching Activities"
-msgstr ""
+msgstr "Lanse Aktivite"
 
 # 8ed6706bc1dc45baa46cc8818eb86b76
 #: ../source/launching_activities.rst:5
 msgid "You can launch an Activity in four different ways:"
-msgstr ""
+msgstr "Ou ka lanse yon Aktivite nan kat fason diferan:"
 
 # a4f95810efcd42b8b617eab82d10ac65
 #: ../source/launching_activities.rst:7
 msgid "Click the Activity icon in the Home View."
-msgstr ""
+msgstr "Klike sou ikòn nan Aktivite nan View a Kay."
 
 # fda24c2726b045afaea87ec01fa5b560
 #: ../source/launching_activities.rst:8
 msgid "Resume your previous work with an Activity from the Journal."
 msgstr ""
+"Kourikouloum-vite travay anvan ou a ak yon aktivite soti nan Journal la."
 
 # 2f83d793df5040b0b8a2babe56e731ca
 #: ../source/launching_activities.rst:9
 msgid "Join a shared Activity from the Neighborhood View."
-msgstr ""
+msgstr "Rantre nan yon aktivite pataje soti nan View nan Katye."
 
 # 43814e775d554497ab8756496fd886af
 #: ../source/launching_activities.rst:10
 msgid "Accept an invitation by clicking the invitation icon on the Frame."
 msgstr ""
+"Aksepte yon envitasyon pa klike icon nan envitasyon sou ankadreman an."
 
 # 0d325f3801184118b66a6dac14f434aa
 #: ../source/launching_activities.rst:12
@@ -52,59 +54,73 @@ msgid ""
 "When you launch an Activity, its icon flashes in the middle of the screen "
 "while it loads."
 msgstr ""
+"Lè ou lanse yon aktivite, icon kliyot li yo nan mitan an nan ekran an pandan"
+" y ap li charges."
 
 # fb4b03d849ad4e28a479a5f0b5532b6a
 #: ../source/launching_activities.rst:16
 msgid ""
 "Once the Activity is running, you will be placed into its Activity View."
-msgstr ""
+msgstr "Yon fwa aktivite a ap kouri, ou pral mete nan Wè aktivite li yo."
 
 # a98b1aedcef64017bb0e33247d3981fa
 #: ../source/launching_activities.rst:19
 msgid "Launching Activities from the Home view"
-msgstr ""
+msgstr "Lanse Aktivite soti nan gade nan Kay"
 
 # 97e332a4895a49f1ad232353365378a2
 #: ../source/launching_activities.rst:21
 msgid "To get to the Home View,"
-msgstr ""
+msgstr "Pou jwenn yo wè nan Kay,"
 
 # 715ef600b6c2484aad061f353e3bf210
 #: ../source/launching_activities.rst:23
 msgid "click the Home icon on the Frame |frame|"
-msgstr ""
+msgstr "klike sou ikòn la Kay sou ankadreman an | ankadreman |"
 
 # c52c8f9b054e4a39af792d3b47e97a94
 #: ../source/launching_activities.rst:27
 msgid ""
-"or press the F3 key. On the XO keyboard this key has a single dot |"
-"home_key|, and is one of the view keys |nav_buttons|."
+"or press the F3 key. On the XO keyboard this key has a single dot "
+"|home_key|, and is one of the view keys |nav_buttons|."
 msgstr ""
+"oswa peze kle a F3. Sou klavye a XO kle sa a te gen yon dot sèl | home_key "
+"|, epi se youn nan kle View | nav_buttons yo |."
 
 # 104399f7ff4b4397a9ceea2cb08df53b
 #: ../source/launching_activities.rst:33
 msgid ""
-"Then click on the icon of the activity you want to start. If you aren't sure "
-"you have the right activity, hover your cursor over the icon for a few "
+"Then click on the icon of the activity you want to start. If you aren't sure"
+" you have the right activity, hover your cursor over the icon for a few "
 "seconds and a label will appear with the activity name."
 msgstr ""
+"Lè sa a, klike sou icon nan nan aktivite a ou vle kòmanse. Si ou pa w ke ou "
+"gen aktivite nan dwa, hover kurseur ou sou icon nan pou yon kèk segond ak "
+"yon etikèt sou ap parèt ak non an aktivite."
 
 # cb4dcb17618446c0a19632051779a31c
 #: ../source/launching_activities.rst:35
 msgid ""
 "If you've run the Activity before, clicking the icon will resume with your "
 "last Journal entry. If you click the right menu button or hover the cursor "
-"over the icon for several seconds, a menu appears with other Journal entries "
-"you made with the activity, and an option to \"Start new\"."
+"over the icon for several seconds, a menu appears with other Journal entries"
+" you made with the activity, and an option to \"Start new\"."
 msgstr ""
+"Si ou te kouri aktivite a anvan, klike icon la pral rezime ak dènye Journal "
+"antre ou. Si ou klike sou bouton an meni dwa oswa hover kurseur a sou icon "
+"nan pou plizyè segond, yon meni parèt ak lòt antre Journal ou te fè ak "
+"aktivite a, ak yon opsyon yo \"Kòmanse nouvo\"."
 
 # 2ffa6577a6cc406e95042d8799b7db85
 #: ../source/launching_activities.rst:37
 msgid ""
-"If you don't see the Activity's icon, click the menu icons (2) (3) to change "
-"how the Home view displays activities. Or type part of the Activity's name "
+"If you don't see the Activity's icon, click the menu icons (2) (3) to change"
+" how the Home view displays activities. Or type part of the Activity's name "
 "in the search box (1)."
 msgstr ""
+"Si w pa wè icon Aktivite a, klike sou ikon yo meni (2) (3) chanje ki jan "
+"gade nan Kay montre aktivite. Oswa kalite yon pati nan non aktivite a nan "
+"bwat rechèch la (1)."
 
 # 46397db4d48a4495b757d8cebe10d7db
 #: ../source/launching_activities.rst:41
@@ -113,21 +129,25 @@ msgid ""
 "to add/remove it as a favorite. Favorite Activities appear in color in the "
 "favorites view"
 msgstr ""
+"Nan View lis mòd (3) ou ka klike sou zetwal la (4) akote non yon aktivite "
+"nan ajoute / retire li kòm yon pi renmen. Aktivite Favorite parèt nan koulè "
+"nan favorites yo wè"
 
 # 3efc628ca0fc4f02b200a499e992df46
 #: ../source/launching_activities.rst:45
 msgid "If the Activity fails to start, you will be returned to Home View."
-msgstr ""
+msgstr "Si aktivite a echwe yo kòmanse, ou pral dwe retounen nan Kay View."
 
 # 34a30b90becf4b83b4b321b15e1945bb
 #: ../source/launching_activities.rst:48
 msgid "Resuming from the Journal"
-msgstr ""
+msgstr "Reprenan nan Journal la"
 
 # 5c7856ec884b4cfaaccedd5a14f8d023
 #: ../source/launching_activities.rst:50
 msgid "Click the activity's icon or click Resume on its hover menu."
 msgstr ""
+"Klike sou ikòn aktivite a oswa klike sou menu Kourikouloum-vite hover li yo."
 
 # 32e455e8bc3e481188ae99b215cd4f07
 #: ../source/launching_activities.rst:54
@@ -136,6 +156,9 @@ msgid ""
 "hover menu. For example, you can resume an image you made in the Paint "
 "activity in Etoys or Browse."
 msgstr ""
+"Ou kapab tou lanse kèk antre jounal nan yon aktivite diferan lè l sèvi avèk "
+"meni an hover. Pou egzanp, ou ka reprann yon imaj ou te fè nan aktivite a "
+"nan penti Etoys oswa browse."
 
 # aecea68883da492eab8bb69ffbe9e71c
 #: ../source/launching_activities.rst:56
@@ -143,31 +166,33 @@ msgid ""
 "You can click the first drop-down menu in the Journal to only show certain "
 "kinds of entries or those made with a particular activity."
 msgstr ""
+"Ou kapab klike sou premye meni an gout-desann nan jounal la sèlman montre "
+"sèten kalite antre oswa moun te fè ak yon aktivite an patikilye."
 
 # a0f7c75337b8447f9d5edef01cb708f1
 #: ../source/launching_activities.rst:59
 msgid "Joining a shared Activity"
-msgstr ""
+msgstr "Rantre nan yon aktivite pataje"
 
 # d308c9a3c8ae4a43b128ca4312a7e65c
 #: ../source/launching_activities.rst:63
 msgid "Click the icon or click an option on the hover menu."
-msgstr ""
+msgstr "Klike sou ikòn a oswa klike yon opsyon sou meni an hover."
 
 # 9a691517799b478f9dad5251efe854f4
 #: ../source/launching_activities.rst:66
 msgid "Joining an Activity by accepting an invitation"
-msgstr ""
+msgstr "Rantre nan yon aktivite pa aksepte yon envitasyon"
 
 # 7880036cc98b4cf2a25676dc3ed8e085
 #: ../source/launching_activities.rst:70
 msgid "Click Join in the hover menu on the Frame."
-msgstr ""
+msgstr "Sur Join nan meni an hover sou ankadreman an."
 
 # bd9a959e91c94f0881a1033f78763baf
 #: ../source/launching_activities.rst:74
 msgid "For users"
-msgstr ""
+msgstr "Pou moun ki itilize"
 
 # d9002efc685f4beaaba76cf3906350c9
 #: ../source/launching_activities.rst:76
@@ -175,3 +200,5 @@ msgid ""
 "Try not to open more than three Activities at one time or your speed may be "
 "reduced."
 msgstr ""
+"Eseye pa louvri plis pase twa Aktivite an yon sèl fwa oswa li ka vitès ou ap"
+" redwi."

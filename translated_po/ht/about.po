@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 9d1576f82cc049729dee92d4fd3de368
 #: ../source/about.rst:3
 msgid "About this Manual"
-msgstr ""
+msgstr "Sou Manyèl sa a"
 
 # 0f78bc6d522647629abe547503f51b80
 #: ../source/about.rst:6
 msgid "Introduction"
-msgstr ""
+msgstr "Entwodiksyon"
 
 # 0eccc635ff7142de9da08813e2f2565f
 #: ../source/about.rst:8
@@ -34,11 +34,15 @@ msgid ""
 "development efforts. The OLPC project has been delivering XOs around the "
 "world, translated into multiple languages."
 msgstr ""
+"Laptop XO a se yon zouti edikatif ki fèt yo dwe mete nan men yo nan chak "
+"timoun. Lè l sèvi avèk lojisyèl sous gratis epi yo louvri ak efò devlopman "
+"lojisyèl mond-lajè. Pwojè a OLPC te fournir XO atravè mond lan, tradui nan "
+"plizyè lang."
 
 # 0f3523a2d0d6496a8519bc33e0096eb5
 #: ../source/about.rst:12
 msgid "In a classroom in Peru"
-msgstr ""
+msgstr "Nan yon sal klas nan Perou"
 
 # 51b7db501e644644810390a78e25e662
 #: ../source/about.rst:14
@@ -48,6 +52,10 @@ msgid ""
 "contributing to OLPC believe that these freedoms are critical to fulfilling "
 "OLPC's educational goals."
 msgstr ""
+"XO a kouri gratis epi yo louvri lojisyèl sous, sik, ki pèmèt nenpòt moun ki "
+"kouri, kopi, distribye, etid, chanjman ak amelyore lojisyèl an. Anpil moun "
+"kontribye nan OLPC kwè ke libète sa yo, se trè kritik nan ranpli objektif "
+"edikasyon OLPC a."
 
 # 6fcba913d01a4b88b3b52b8736795d75
 #: ../source/about.rst:16
@@ -57,6 +65,10 @@ msgid ""
 "reader mode. The XO is designed to take outdoors and it even survives the "
 "rough-and-tumble daily lives that children lead."
 msgstr ""
+"Lè ou louvri XO a, ou pral wè-wo rezolisyon an, fasil-a-li ekran ki travay "
+"menm nan limyè solèy la dirèk. Ou kapab tou baskile XO a nan yon mòd lektè "
+"liv. Se XO a ki fèt yo pran deyò epi li menm kontinye viv lavi yo ki graj-"
+"ak-seche chak jou ke timoun mennen."
 
 # 72b5abf881104856b76d20da888359bd
 #: ../source/about.rst:18
@@ -64,8 +76,10 @@ msgid ""
 "We hope you learn more about the XO laptop by reading these pages, so that "
 "you can learn more with the XO laptop."
 msgstr ""
+"Nou espere ou aprann plis sou konpitè pòtatif li a XO nan fè lekti paj sa "
+"yo, se konsa ke ou ka aprann plis ak konpitè pòtatif li a XO."
 
 # 38167a60e346467aa2d23036f0c01e16
 #: ../source/about.rst:23
 msgid "On a hike in Thailand"
-msgstr ""
+msgstr "Nan yon vwayaje nan Thailand"

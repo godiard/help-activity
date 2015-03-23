@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 315faee1e9ad4ca19db3f82bc89875d9
 #: ../source/help.rst:3
 msgid "Help"
-msgstr ""
+msgstr "Ede"
 
 # 6fc4e466678247ee82df8a7d3a5f0b0a
 #: ../source/help.rst:5
 msgid "Help displays documentation for Sugar and the XO laptop."
-msgstr ""
+msgstr "Ede montre dokiman pou Sik ak konpitè pòtatif li a XO."
 
 # 81f381a693484c5499ab7fcceeeeba3f
 #: ../source/help.rst:9
@@ -33,46 +33,50 @@ msgid ""
 "running. There is a simple range of tabs and buttons on the top row of the "
 "toolbar. Starting from the left, they are:"
 msgstr ""
+"Imaj la pi wo a se nan tèt la nan ekran an, lè Ede nan aktivite ap kouri. "
+"Gen yon seri senp nan onglè ak bouton sou ranje nan tèt nan ba ikòn nan. "
+"Kòmanse nan bò gòch la, yo yo se:"
 
 # a88ee472cf414a019c494c53f0d8ebf6
 #: ../source/help.rst:11
 msgid "Activity tab or toolbar button."
-msgstr ""
+msgstr "Tab aktivite oswa bouton ba ikòn."
 
 # 810d9d65f9b1471da75600b8b65c129a
 #: ../source/help.rst:13
 msgid "View toolbar button."
-msgstr ""
+msgstr "View toolbar bouton."
 
 # 1449bd5e410b41e0840d9633b866545b
 #: ../source/help.rst:15
 msgid "Home button, brings you back to the index, or contents page."
-msgstr ""
+msgstr "Bouton Kay, pote ou tounen nan endèks la, oswa sa paj."
 
 # 45ca74355a7440ffa0fb5598f5343f35
 #: ../source/help.rst:17
 msgid "Back button."
-msgstr ""
+msgstr "Retounen bouton."
 
 # c3caadee77be4221bd3ea9a8d01ffeaa
 #: ../source/help.rst:19
 msgid "Forward button."
-msgstr ""
+msgstr "Bouton Forward."
 
 # 51d54b2cdb124470b51a22ff5712946d
 #: ../source/help.rst:21
 msgid "Stop, or close the Activity, on the far right of the toolbar."
 msgstr ""
+"One Stop, oswa fèmen aktivite a, sou bò dwat la byen lwen nan ba ikòn nan."
 
 # 29094cac86fb454e91fa28f9439b56e3
 #: ../source/help.rst:24
 msgid "Tour of Help"
-msgstr ""
+msgstr "Tour nan Èd"
 
 # 9be69e6777894086a1cd37f36a658d47
 #: ../source/help.rst:25
 msgid "We see, working clockwise from top left:"
-msgstr ""
+msgstr "Nou wè, k ap travay soti nan goch gòch anwo:"
 
 # f26acf54ae9c49c6b0291e7bbbe2e386
 #: ../source/help.rst:29
@@ -81,20 +85,27 @@ msgid ""
 "\"pencil and book\" icon the Description button allows you to add a "
 "description to the :doc:`/journal` entry."
 msgstr ""
+"Tab pou Aktivite, isit la ou ka antre nan yon non pou paj la oswa pwojè. "
+"\"Kreyon ak liv\" icon bouton an nan Deskripsyon pèmèt ou ajoute yon "
+"deskripsyon nan: doc la: `/ antre journal`."
 
 # 5da4e67070a14ca498e3c98405f018e8
 #: ../source/help.rst:31
 msgid ""
 "The :doc:`/collaborating`, or sharing, icon is grayed out and not available."
 msgstr ""
+": Doc la: `/ collaborating`, oswa pataje, icon se grize deyò epi yo pa "
+"disponib."
 
 # 8dffc6cc81e040d386ad6652f72665c5
 #: ../source/help.rst:33
 msgid ""
 "In Help you do not really need to provide a name for the page you are "
-"researching, but it allows you to get back to it easily from the :doc:`/"
-"journal`."
+"researching, but it allows you to get back to it easily from the "
+":doc:`/journal`."
 msgstr ""
+"Nan ede w pa vrèman bezwen bay yon non pou paj la w ap fè rechèch sou, men "
+"li pèmèt ou jwenn tounen nan li fasil nan: doc la: `/ journal`."
 
 # 068cecc87be54f73a5e3b9cf0aff6af4
 #: ../source/help.rst:35
@@ -102,12 +113,16 @@ msgid ""
 "View toolbar button. The buttons are zoom in, zoom out, and enlarge page to "
 "*Full screen*."
 msgstr ""
+"View toolbar bouton. Bouton yo se rale nan, rale soti, ak elaji paj * Plein "
+"écran *."
 
 # c0b34e74382343c6b405c2bdd12e8a6b
 #: ../source/help.rst:37
 msgid ""
 "*Next* button, top right of every page, takes you to the next page of Help."
 msgstr ""
+"* Next * bouton, tèt dwat nan chak paj, pran ou nan pwochen paj la pou jwenn"
+" èd."
 
 # c04f804ae7844f82b3caafb28dbde1e3
 #: ../source/help.rst:39
@@ -115,11 +130,13 @@ msgid ""
 "Follow links in the index to jump to that page. Here the Activity FotoToon "
 "is being selected."
 msgstr ""
+"Swiv lyen nan endèks la Ale nan paj ki. Isit la FotoToon nan aktivite se ke "
+"yo te chwazi."
 
 # 9733b13488a14fbea7540d0edeeb88e2
 #: ../source/help.rst:41
 msgid "Forward and Back buttons help you navigate."
-msgstr ""
+msgstr "Forward ak Retounen bouton ede w navige."
 
 # 0b00a95f7b3946989e4fd738f31a7c71
 #: ../source/help.rst:43
@@ -127,6 +144,8 @@ msgid ""
 "Use this small red icon, only showing when you hover the cursor over it, at "
 "the end of a paragraph heading, to place the paragraph well on your screen."
 msgstr ""
+"Sèvi ak sa a ti icon wouj, sèlman montre lè ou hover kurseur a sou li, nan "
+"fen a nan yon tit paragraf, yo mete paragraf nan byen sou ekran ou."
 
 # 2b2b5e3fbec74db7950062bdc95d75aa
 #: ../source/help.rst:45
@@ -134,35 +153,44 @@ msgid ""
 "Here we see a link to the OLPC getting started page. Within Help you can "
 "follow links, which take you onto the internet, when you are online."
 msgstr ""
+"Isit la nou wè yon lyen nan OLPC la trape te kòmanse paj. Nan Ede ou kapab "
+"swiv lyen yo, ki pran ou sou entènèt la, lè ou se sou entènèt."
 
 # d2605e07c7454bd8bf74c7ba8c1de28d
 #: ../source/help.rst:47
 msgid "The Home button brings you back to the index, or contents page."
-msgstr ""
+msgstr "Bouton an Kay pote ou tounen nan endèks la, oswa sa paj."
 
 # e44e1a762226492ba1c30d416d859ea4
 #: ../source/help.rst:49
 msgid "Stop, or close the Activity."
-msgstr ""
+msgstr "One Stop, oswa fèmen aktivite a."
 
 # 1ef008030b9d426db0d41a1c4005841a
 #: ../source/help.rst:52
 msgid "Help read aloud"
-msgstr ""
+msgstr "Ede li awotvwa"
 
 # 216e445bd04442e3b783a5c85e9553c2
 #: ../source/help.rst:54
 msgid ""
-"In Help, and other text based Activities, you can have robot Alice (the "
-"page :doc:`/speak` introduces Alice) read the page aloud in the background, "
+"In Help, and other text based Activities, you can have robot Alice (the page"
+" :doc:`/speak` introduces Alice) read the page aloud in the background, "
 "while you explore the Activity. See :ref:`say_selected_text`"
 msgstr ""
+"Nan èd, ak lòt aktivite tèks ki baze, ou ka gen robo Alice (paj an: doc: `/ "
+"speak` entwodui Alice) li paj la byen fò nan background nan, pandan y ap ou "
+"eksplore aktivite a. Al gade nan: ref: `say_selected_text`"
 
 # cbcb682aa7be49449eadb9190e81f488
 #: ../source/help.rst:56
 msgid ""
 "|more| The underlying software used to display Help, and for the user to "
 "edit within Help, is Sphinx. To explore the possibilities of documentation "
-"made using this software, please follow the link to *Sphinx* in the footnote "
-"below."
+"made using this software, please follow the link to *Sphinx* in the footnote"
+" below."
 msgstr ""
+"| Plis | Lojisyèl an kache itilize yo montre èd, ak pou itilizatè a edite "
+"nan èd, se sfenks. Yo eksplore posiblite yo nan dokiman te fè lè l sèvi avèk"
+" lojisyèl sa a, tanpri swiv lyen ki nan * sfenks * nan nòt anba paj ki anba "
+"la a."

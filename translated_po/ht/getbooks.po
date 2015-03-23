@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,20 +19,23 @@ msgstr ""
 # 4c64ac65050f4cc59cc48a54ecc464d0
 #: ../source/getbooks.rst:3
 msgid "Get Books"
-msgstr ""
+msgstr "Jwenn Liv"
 
 # a284c4d339874010abcdcc131fb65a17
 #: ../source/getbooks.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 0d465a2871ae45d3b3d6078b638b7326
 #: ../source/getbooks.rst:8
 msgid ""
-"Get Books can be used to download your favorite books on Sugar. It helps you "
-"download from different places (Internet Archive, Feedbooks, etc) all from "
+"Get Books can be used to download your favorite books on Sugar. It helps you"
+" download from different places (Internet Archive, Feedbooks, etc) all from "
 "one place."
 msgstr ""
+"Jwenn Liv ka itilize yo download liv pi renmen ou sou Sugar. Li ede ou "
+"download soti nan diferan kote (entènèt Archive, Feedbooks, elatriye) tout "
+"soti nan yon sèl kote."
 
 # 8a181d3c5bd74828b32491e367aae6c0
 #: ../source/getbooks.rst:10
@@ -43,71 +46,76 @@ msgid ""
 "that shows you the download progress. Once your book is downloaded, you can "
 "open it in the Read activity."
 msgstr ""
+"Yon fwa ou te jwenn liv la ou vle li, ou ka chwazi fòma a nan kote ou ta "
+"renmen download li (PDF oswa èpeub). Klike sou \"Jwenn Liv\" yo kòmanse "
+"download a. Nan tèt la nan ekran an, yon bar pwogrè ap parèt ki montre ou "
+"pwogrè nan download. Yon fwa yo liv ou a telechaje, ou ka louvri l nan "
+"aktivite a Li."
 
 # 19becca6c45a4b7ca27a160c7bbefdaa
 #: ../source/getbooks.rst:15
 msgid "How to find books"
-msgstr ""
+msgstr "Ki jan yo jwenn liv"
 
 # 02e85bd2cbd54d29be4fae3b3a19d918
 #: ../source/getbooks.rst:16
 msgid "There are two ways in which you can find books:"
-msgstr ""
+msgstr "Gen de fason nan ki ou ka jwenn liv:"
 
 # baa99fc5202a4a75b4d58587dceba6f1
 #: ../source/getbooks.rst:18
 msgid "Using search"
-msgstr ""
+msgstr "Lè l sèvi avèk rechèch"
 
 # 2fac492120ef472486d427730152ae44
 #: ../source/getbooks.rst:20
 msgid "Enter the book title in the search bar"
-msgstr ""
+msgstr "Antre nan tit la liv nan ba rechèch la"
 
 # 8e45d8585d7144f1814ab16478237ba8
 #: ../source/getbooks.rst:21
 msgid "Select from where to search(Feedbooks or My books)"
-msgstr ""
+msgstr "Chwazi soti nan kote nan rechèch (Feedbooks oswa liv mwen)"
 
 # 8fcec18c03044ea99f4deb39a33e56bb
 #: ../source/getbooks.rst:22
 msgid "Press Enter"
-msgstr ""
+msgstr "Press Mete"
 
 # f71f235637b84499ac5664e41498339f
 #: ../source/getbooks.rst:24
 msgid "Using the catalogs"
-msgstr ""
+msgstr "Lè l sèvi avèk katalòg yo"
 
 # 2e4cb7affdc14d2b8095992484c70e6a
 #: ../source/getbooks.rst:26
 msgid "Under the catalogs, you can see different genres of books"
-msgstr ""
+msgstr "Anba katalòg yo, ou ka wè diferan estil nan liv"
 
 # f403271c0c2f41ed928da6be029a4b5b
 #: ../source/getbooks.rst:27
 msgid "Select the genre of your choice"
-msgstr ""
+msgstr "Chwazi genre nan nan chwa ou"
 
 # c7c777ed89a048db8d4a3f377103c558
 #: ../source/getbooks.rst:28
 msgid "You will get a list of books, with it's Title and Author"
-msgstr ""
+msgstr "Ou pral resevwa yon lis liv, ak li nan Tit ak Otè"
 
 # e1989bdf1e1a471da3dead28d222529c
 #: ../source/getbooks.rst:29
 msgid "Click on the book you want"
-msgstr ""
+msgstr "Klike sou liv la ou vle"
 
 # 87e7ccf9e5214fa3a9306d8404c5bd51
 #: ../source/getbooks.rst:30
 msgid "Select the format and click \"Get Book\""
-msgstr ""
+msgstr "Chwazi fòma a, epi klike \"Jwenn Liv\""
 
 # eb778f281c5241ebaf8ee128b6809076
 #: ../source/getbooks.rst:34
 msgid "How to change language"
-msgstr ""
+msgstr "Kouman chanje lang"
 
 # 91c5cb34c35049a0adcca959119d850e
 #: ../source/getbooks.rst:36
@@ -115,77 +123,88 @@ msgid ""
 "To change the language, click on the (settings) |set_ico| icon and from the "
 "list you can select:"
 msgstr ""
+"Pou chanje lang nan, klike sou (anviwònman) | set_ico | icon a ak nan lis la"
+" ou ka chwazi:"
 
 # 5207e61bc28543ee854bb404243a248a
 #: ../source/getbooks.rst:40
 msgid "Any language"
-msgstr ""
+msgstr "Nenpòt lang"
 
 # f662e56698ed40af8e3e65c905cf97e4
 #: ../source/getbooks.rst:41
 msgid "French"
-msgstr ""
+msgstr "Franse"
 
 # 987f72f705eb4ec2b3bc800bce5f9832
 #: ../source/getbooks.rst:42
 msgid "English"
-msgstr ""
+msgstr "Angle"
 
 # 1da7c0487a51423f9386cd90dfc792a2
 #: ../source/getbooks.rst:43
 msgid "German"
-msgstr ""
+msgstr "Alman"
 
 # 273de1eab2c64aafa6f8de9dde1b4fe3
 #: ../source/getbooks.rst:44
 msgid "Spanish; Castilian"
-msgstr ""
+msgstr "Panyòl;"
 
 # bbba886ea4694a68988ad0c6cb9593b9
 #: ../source/getbooks.rst:50
 msgid "How to show/hide catalogs"
-msgstr ""
+msgstr "Ki jan yo montre katalòg / kache"
 
 # 62f62de9f148497388d3d8e604ca2618
 #: ../source/getbooks.rst:52
 msgid ""
-"To show/hide the catalogs, all you need to do is just press the (catalogs) |"
-"cat_ico| button"
+"To show/hide the catalogs, all you need to do is just press the (catalogs) "
+"|cat_ico| button"
 msgstr ""
+"Pou montre / kache katalòg yo, tout sa ou bezwen fè se jis peze (katalòg yo)"
+" | cat_ico | bouton"
 
 # efaa15a9c9214d44a292338d26d96ba3
 #: ../source/getbooks.rst:58
 msgid "Gallery"
-msgstr ""
+msgstr "Galeri"
 
 # 767c7b95491d4e30bde2dd1b621c3288
 #: ../source/getbooks.rst:66
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 # f1a3ae18bc954fc3aef04f1490a2d8fa
 #: ../source/getbooks.rst:67
 msgid ""
-"`Activites Download page <http://activities.sugarlabs.org/en-US/sugar/"
-"addon/4304>`_"
+"`Activites Download page <http://activities.sugarlabs.org/en-"
+"US/sugar/addon/4304>`_"
 msgstr ""
+"`Activités Download paj <http: // aktivite. sugarlabs. org / en-US / sik / "
+"addon / 4304> `_"
 
 # aa39259019774721b5eb8bbedafbe1aa
 #: ../source/getbooks.rst:71
 msgid "More Info"
-msgstr ""
+msgstr "Plis Enfòmasyon"
 
 # 323e25117239401ebad292f231d416e3
 #: ../source/getbooks.rst:72
 msgid ""
-"If you never developed a Sugar Activity, `must read <http://www.flossmanuals."
-"net/make-your-own-sugar-activities/>`_."
+"If you never developed a Sugar Activity, `must read "
+"<http://www.flossmanuals.net/make-your-own-sugar-activities/>`_."
 msgstr ""
+"Si ou pa janm devlope yon sik pou Aktivite, `dwe li <http: // www. "
+"flossmanuals. net / fè-ou-pwòp-sik-aktivite /> `_."
 
 # 896601dc8c1c4e439218bdc54132c240
 #: ../source/getbooks.rst:74
 msgid ""
-"If you want help us fixing some bugs on activities, and learn a little about "
-"how activities work, you can see at this `list of pending tickets <http://"
-"dev.laptop.org/~gonzalo/bugs_index.html>`_"
+"If you want help us fixing some bugs on activities, and learn a little about"
+" how activities work, you can see at this `list of pending tickets "
+"<http://dev.laptop.org/~gonzalo/bugs_index.html>`_"
 msgstr ""
+"Si ou vle ede nou ranje kèk pinèz sou aktivite, epi yo aprann yon ti kras "
+"sou ki jan aktivite travay, ou ka wè nan sa a lis `nan annatant tikè <http: "
+"// dev. laptop. org / ~ Gonzalo / bugs_index. html> `_"

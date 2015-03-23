@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 0c8666bca3f14a948adce793eee29aba
 #: ../source/browse.rst:3
 msgid "Browse"
-msgstr ""
+msgstr "Browse"
 
 # b93461494332414f99d67d11e38cd691
 #: ../source/browse.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 0a064275d6f64e9bb72352ad6293471b
 #: ../source/browse.rst:10
@@ -36,6 +36,12 @@ msgid ""
 "internet connection. Please see the chapter on \"Neighborhood View and "
 "Connecting to the Internet\"."
 msgstr ""
+"Aktivite nan Browse se vle di ou yo eksplore yon sous pi laj de enfòmasyon "
+"ak kontni ki ka jwenn nan sa ki rele World Wide Web la (entènèt oswa sit "
+"entènèt pou kout). Malgre ke gen kèk bati-an enfòmasyon enkli nan aktivite "
+"sa a (Bibliyotèk OLPC), yo fè pi plis nan aktivite sa a ou bezwen yon "
+"koneksyon entènèt. Tanpri gade chapit sou \"Katye View ak Konekte sou "
+"entènèt la\"."
 
 # 8693fa0321894d6d915154b8cba53b20
 #: ../source/browse.rst:12
@@ -43,66 +49,68 @@ msgid ""
 "The first thing that you will see when you first click on the Browse icon "
 "from the Home View is what's called the Home page."
 msgstr ""
+"Premye bagay ki ou pral wè lè ou premye klike sou icon nan Browse soti nan "
+"View nan Kay se sa ki rele paj la Kay."
 
 # 41c74e3a8bd04acf95c53915c2c9361c
 #: ../source/browse.rst:17
 msgid "Using Browse"
-msgstr ""
+msgstr "Lè l sèvi avèk Browse"
 
 # 28ad5c9c987e4b979608ee11173e89f3
 #: ../source/browse.rst:19
 msgid "**Toolbar**"
-msgstr ""
+msgstr "** Toolbar **"
 
 # 3e6805e8bd9a49ff8dd09385f08c7197
 #: ../source/browse.rst:23
 msgid "Activity Tool"
-msgstr ""
+msgstr "Zouti pou Aktivite"
 
 # fb311b34713c407ebbe6af05a86a21de
 #: ../source/browse.rst:24
 msgid "Text/Edit Tool"
-msgstr ""
+msgstr "Tèks / Edit Zouti"
 
 # 22711637a09e4550aaa364ed4c59447f
 #: ../source/browse.rst:25
 msgid "View Tool"
-msgstr ""
+msgstr "View Zouti"
 
 # 234c6a5e0fc24021b5aa6a87a67715ad
 #: ../source/browse.rst:26
 msgid "Home"
-msgstr ""
+msgstr "Kay"
 
 # 52640828c911444695fd7e04a521accc
 #: ../source/browse.rst:27
 msgid "Address Bar (URL)"
-msgstr ""
+msgstr "Adrès Bar (URL)"
 
 # 860b3178a48b4c6e9044b1854e395424
 #: ../source/browse.rst:28
 msgid "Refresh/Reload"
-msgstr ""
+msgstr "Rafrechi / Reload"
 
 # 608c38fc11d548658b23c3d82b40f424
 #: ../source/browse.rst:29
 msgid "Navigation Arrows (Back & Forward)"
-msgstr ""
+msgstr "Navigasyon Flèch (Retounen & Forward)"
 
 # 01c42aab731b47c4a2160f54a08f0547
 #: ../source/browse.rst:30
 msgid "Bookmark"
-msgstr ""
+msgstr "Bookmark"
 
 # c35a668fda064f4c97bbee0b46cdfbc2
 #: ../source/browse.rst:31
 msgid "Stop"
-msgstr ""
+msgstr "One Stop"
 
 # 410986a76533487483a65e6fbdc4f84b
 #: ../source/browse.rst:32
 msgid "Window tab"
-msgstr ""
+msgstr "Tab Fenèt"
 
 # 36fd2d3245714282bb8dd9d746a308c4
 #: ../source/browse.rst:34
@@ -110,11 +118,13 @@ msgid ""
 "(Note: To see the name of the tool/button, you can put your mouse arrow on "
 "top of its picture)"
 msgstr ""
+"(Remak: Pou wè non an nan zouti / bouton an, ou ka mete flèch sourit ou sou "
+"tèt nan foto li yo)"
 
 # 3c941070d13849cca28f9f38930781af
 #: ../source/browse.rst:36
 msgid "**Activity**"
-msgstr ""
+msgstr "** Aktivite **"
 
 # f7c7c1bed2094984a065733dee896117
 #: ../source/browse.rst:40
@@ -123,6 +133,9 @@ msgid ""
 "entry. Change this to something distinctive especially when you have "
 "multiple window tabs opened that's related to one particular topic."
 msgstr ""
+"** Browse Journal Antre Non ** - Sa a pral sèvi kòm non an nan antre nan "
+"Journal. Chanjman sa a nan yon bagay diferan espesyalman lè ou te onglè "
+"fenèt miltip louvri ki nan ki gen rapò ak yon sijè patikilye."
 
 # 55e14711de9647a996f771ab86c1bb3e
 #: ../source/browse.rst:42
@@ -130,6 +143,8 @@ msgid ""
 "**Browse Description Bar** - This will serve as the **Browse** activity "
 "description in the Journal."
 msgstr ""
+"** Browse Deskripsyon Bar ** - Sa a pral sèvi kòm ** Browse ** deskripsyon "
+"ki aktivite nan jounal la."
 
 # 5dc9b6ce4dae4b80a362958b2d18fd77
 #: ../source/browse.rst:44
@@ -137,18 +152,23 @@ msgid ""
 "**Privacy Tool** - Use this to change the privacy setting of the current "
 "Browse activity. The default is set to Private."
 msgstr ""
+"** Zouti Privacy ** - Sèvi ak sa a chanje anviwònman an sou vi prive nan "
+"aktyèl aktivite nan Browse. Se default a mete nan Prive."
 
 # 1f406f17cd28436ab469d0db17c83232
 #: ../source/browse.rst:47
 msgid "**Text Finder and Edit Tool**"
-msgstr ""
+msgstr "** Tèks Chèche ak Edit Zouti **"
 
 # 573405c8e6564474b5ac3c926176e5dc
 #: ../source/browse.rst:51
 msgid ""
-"**Undo** - The Browse activity remembers the last change that you've made on "
-"the page. Use this button to step back to the last change that you made."
+"**Undo** - The Browse activity remembers the last change that you've made on"
+" the page. Use this button to step back to the last change that you made."
 msgstr ""
+"** Defèt ** - Aktivite nan Browse sonje chanjman ki sot pase a ke ou te fè "
+"nan paj la. Sèvi ak bouton sa-a nan etap tounen nan chanjman ki sot pase a "
+"ke ou te fè."
 
 # b268c724c52b4d6b89003f9427ce4532
 #: ../source/browse.rst:53
@@ -156,19 +176,29 @@ msgid ""
 "**Redo** - Use this button to go back to the current changes that you made "
 "after doing an \"Undo\"."
 msgstr ""
+"** Refè ** - Sèvi ak bouton sa a pou tounen nan chanjman sa yo aktyèl ke ou "
+"te fè apre yo fin fè yon \"Defèt\"."
 
 # 0a4a136c1c7a40e4b9d226dc81cfe155
 #: ../source/browse.rst:55
 msgid ""
 "**Copy** - This is used to copy a text or passage from the current page you "
 "are viewing. To do this, you need to first highlight (left-click while "
-"dragging your mouse arrow) the text. You know you've highlighted a text when "
-"its background color turned grey. Then, press this tool to copy it to the "
+"dragging your mouse arrow) the text. You know you've highlighted a text when"
+" its background color turned grey. Then, press this tool to copy it to the "
 "clipboard. A small image on the left hand side of the frame will appear. "
 "This \"holds\" the text you just copied. You can now \"paste\" this text or "
 "just simply click and drag it to other activities. The copied text will "
 "disappear once the XO is restarted or shutdown."
 msgstr ""
+"** Kopi ** - Sa a se itilize a kapab bay kopi yon tèks oswa pasaj soti nan "
+"paj la kounye a ou se gade. Pou fè sa, ou bezwen premye rekò (kite-klike sou"
+" pandan y ap trenen flèch sourit ou) tèks la. Ou konnen ou te make yon tèks "
+"lè koulè background li yo te tounen gri. Lè sa a, peze zouti sa a kapab bay "
+"kopi li nan clipboard a. Yon imaj ti sou bò men gòch nan ankadreman an ap "
+"parèt. Sa a \"kenbe\" tèks la ou jis kopye. Ou kapab kounye a \"paste\" tèks"
+" sa a oswa jis tou senpleman Sur Et trennen l 'bay lòt aktivite. Se tèks la "
+"kopye pral disparèt yon fwa XO a rekòmanse oswa are."
 
 # f756462b60a241fba9b6fff474ed3033
 #: ../source/browse.rst:57
@@ -178,15 +208,22 @@ msgid ""
 "page where pasting is allowed. It will remember this text until the XO is "
 "restarted or shutdown."
 msgstr ""
+"** Kole ** - Zouti sa a se pou tèks kole soti nan lòt aktivite nan paj la "
+"kounye a ke ou ap gade. Ou kapab sèlman kole tèks sou zòn nan paj la kote "
+"kole pèmèt. Li pral sonje tèks sa a jiskaske yo XO a rekòmanse oswa are."
 
 # ea8fe38fa73f48e889bcba6e141f5214
 #: ../source/browse.rst:59
 msgid ""
-"**Text Search Bar** -This tool is great to use when you need to quickly find "
-"a text on a current page you're viewing. Press the enter key to go down the "
-"page. The text that you are looking for would be highlighted in green. Press "
-"the little \"x\" symbol on the right of the bar to erase the text."
+"**Text Search Bar** -This tool is great to use when you need to quickly find"
+" a text on a current page you're viewing. Press the enter key to go down the"
+" page. The text that you are looking for would be highlighted in green. "
+"Press the little \"x\" symbol on the right of the bar to erase the text."
 msgstr ""
+"** Tèks Search Bar ** zouti -Sa a se gwo yo sèvi ak lè ou bezwen byen vit "
+"jwenn yon tèks sou yon paj aktyèl w ap gade. Peze kle a antre nan desann ale"
+" paj la. Tèks la ke ou ap chèche pou ta dwe make nan vèt. Peze ti kras \"X\""
+" senbòl la sou bò dwat la nan ba a ou efase tèks la."
 
 # 04d57dc271d14b8ab93b21de6907f7fc
 #: ../source/browse.rst:61
@@ -195,11 +232,14 @@ msgid ""
 "search down the page, these arrows are useful to search the page. Use the "
 "left arrow to go back up the page and the right arrow to go down the page."
 msgstr ""
+"** Tèks Search Navigasyon Flèch ** - Pandan ke ou ka peze kle Antre a nan "
+"rechèch desann paj la, flèch sa yo, se itil nan rechèch paj la. Sèvi ak "
+"flèch la kite yo ale tounen moute paj la ak flèch la dwa desann ale paj la."
 
 # b58807b0cf9049c8b18e4dd1c1e5719f
 #: ../source/browse.rst:63
 msgid "**View Tool**"
-msgstr ""
+msgstr "** View Zouti **"
 
 # fcbb16ac62de4d6c9599bc42d89b9be3
 #: ../source/browse.rst:67
@@ -207,6 +247,8 @@ msgid ""
 "**Zoom Out** - When you want to see more of the page, use this tool to make "
 "it smaller."
 msgstr ""
+"** Rale soti ** - Lè ou vle wè plis nan paj la, sèvi ak zouti sa a fè li pi "
+"piti."
 
 # 88d0c5bfea534da2ac5d4d452723b610
 #: ../source/browse.rst:69
@@ -214,6 +256,8 @@ msgid ""
 "**Zoom In** - When you want to see things better, use this tool to make the "
 "page bigger."
 msgstr ""
+"** Zoom In ** - Lè ou vle wè bagay pi byen, sèvi ak zouti sa a fè paj la pi "
+"gwo."
 
 # fcae11f237284b1fa89e4af0de557e65
 #: ../source/browse.rst:71
@@ -221,22 +265,29 @@ msgid ""
 "**Full Screen** - You can press this to see the entire page without the "
 "toolbar."
 msgstr ""
+"** Full Screen ** - Ou kapab Sur sa a yo wè paj la tout antye san yo pa ba "
+"ikòn nan."
 
 # c4272e16b131416b8f880fc6e476830c
 #: ../source/browse.rst:73
 msgid ""
 "**Tray Toggle button** - This tool only works when you have things on the "
 "tray (the space on the bottom of the Browse page) like pages that you have "
-"bookmarked (Please see bookmark description). Use this tool to make the tray "
-"visible or invisible. Browse remembers your bookmarked pages even when the "
+"bookmarked (Please see bookmark description). Use this tool to make the tray"
+" visible or invisible. Browse remembers your bookmarked pages even when the "
 "tray is not visible. Just simply make it visible again to see those "
 "bookmarks."
 msgstr ""
+"** Plato baskil bouton ** - Zouti sa a sèlman travay lè ou gen bagay sa yo "
+"sou plato a (espas ki la sou anba a nan paj la Browse) tankou paj ke ou te "
+"siye (Tanpri gade deskripsyon makè). Sèvi ak zouti sa a fè plato a vizib "
+"oswa envizib. Browse sonje paj siye ou menm lè plato a se pa vizib. Jis tou "
+"senpleman fè li vizib ankò nan wè sa yo Bookmarks."
 
 # ea46e0c498104031a502e0c94185fbf6
 #: ../source/browse.rst:75
 msgid "**Home Icon**"
-msgstr ""
+msgstr "** Icône Kay **"
 
 # b70084d78ea4496b8f346454fd53eb26
 #: ../source/browse.rst:77
@@ -244,45 +295,55 @@ msgid ""
 "Clicking this takes you back to the Home Page. Useful when you're lost and "
 "need a starting point."
 msgstr ""
+"Klike sa a pran ou tounen nan Page a Kay. Itil lè w ap pèdi epi yo bezwen "
+"yon pwen depa."
 
 # eb073216f887478982ff003bfdcab126
 #: ../source/browse.rst:79
 msgid "**Address Bar**"
-msgstr ""
+msgstr "** Adrès Bar **"
 
 # bedd82abc895482eb8170ff494d9f423
 #: ../source/browse.rst:81
 msgid ""
-"Each page on the internet has its own address. The address bar shows you the "
-"current web address of the page you are viewing. If you know the web address "
-"of a page, you can type it on this bar and press the enter key to navigate "
-"to that page."
+"Each page on the internet has its own address. The address bar shows you the"
+" current web address of the page you are viewing. If you know the web "
+"address of a page, you can type it on this bar and press the enter key to "
+"navigate to that page."
 msgstr ""
+"Chak paj sou entènèt la gen adrès pwòp li yo. Ba a montre ou adrès entènèt "
+"adrès la kounye a nan paj la ou se gade. Si ou konnen adrès wèb la nan yon "
+"paj, ou ka tape l 'sou ba sa a epi peze kle a antre nan navige nan paj ki."
 
 # 43f1d8d339d14fcda45395b32426a975
 #: ../source/browse.rst:83
 msgid "**Bookmark**"
-msgstr ""
+msgstr "** Bookmark **"
 
 # 8ad8593881df4afb9c2111d99c57cd2d
 #: ../source/browse.rst:85
 msgid ""
-"Sometimes it is useful to remember the pages that you visited. Clicking this "
-"icon will save the web address of the current page you are viewing. A small "
-"thumbnail image of this page will appear on the bottom(tray). Bookmarks are "
-"saved only on the current Browse activity. They will not show up when you "
+"Sometimes it is useful to remember the pages that you visited. Clicking this"
+" icon will save the web address of the current page you are viewing. A small"
+" thumbnail image of this page will appear on the bottom(tray). Bookmarks are"
+" saved only on the current Browse activity. They will not show up when you "
 "open a new Browse activity."
 msgstr ""
+"Pafwa li se itil nan sonje paj sa yo ke ou te vizite. Klike icon sa a pral "
+"delivre adrès wèb la nan paj la kounye a ou se gade. Yon imaj ti thumbnail "
+"nan paj sa a ap parèt sou anba a (plato). Bookmarks yo te sove sèlman sou "
+"aktyèl aktivite nan Browse. Yo pa ap montre leve lè ou louvri yon nouvo "
+"aktivite Browse."
 
 # 42a017aa9b994d7f864206f3d124cf62
 #: ../source/browse.rst:87
 msgid "**Stop Activity Tool** Closes the current Browse activity."
-msgstr ""
+msgstr "** Stop Zouti aktivite ** Fèmen aktyèl aktivite nan Browse."
 
 # 309b74b27f654d9d987cdb045ff2ae2a
 #: ../source/browse.rst:90
 msgid "**OLPC Library**"
-msgstr ""
+msgstr "** OLPC Bibliyotèk **"
 
 # 3ed2ef3d61d04f0ca8b8b0fad5b1af10
 #: ../source/browse.rst:92
@@ -291,24 +352,35 @@ msgid ""
 "access even without a connection to the internet. Click on any of the texts "
 "to see what you can find. Have fun exploring!"
 msgstr ""
+"Gen aktivite nan Browse bati nan liv, enfòmasyon ak paj ki ou kapab jwenn "
+"aksè menm san yo pa yon koneksyon sou entènèt la. Klike sou nenpòt nan tèks "
+"yo yo wè sa ki ou ka jwenn. Pran plezi eksplore!"
 
 # 85ba0200a648495c872c21549254df6c
 #: ../source/browse.rst:94
 msgid "Copying Images From The Web"
-msgstr ""
+msgstr "Kopye Imaj soti nan entènèt la"
 
 # 6a1e747295cc4dbfb3b6b494e1969af9
 #: ../source/browse.rst:100
 msgid ""
 "Every time you create something whether it's a poem, a book or a nice "
 "picture, you own those works. The internet is filled with information and "
-"works that result from hard work and creativity of other people. Some owners "
-"of those work like to share them freely, but others don't or require that "
+"works that result from hard work and creativity of other people. Some owners"
+" of those work like to share them freely, but others don't or require that "
 "you give them the credit. Sometimes this information can be found on the "
 "page you are viewing. When in doubt make sure to make a note in your "
 "documentation on where you found the information. A great page for further "
 "reading: http://www.copyrightkids.org/"
 msgstr ""
+"Chak fwa ou kreye yon bagay si li nan yon powèm, yon liv oswa yon foto bèl, "
+"ou posede moun travay. Entènèt la se plen ak enfòmasyon ak travay ke rezilta"
+" soti nan travay di ak kreyativite nan lòt moun. Gen kèk mèt nan sa yo "
+"travay renmen pataje yo ak tout kè, men lòt moun pa fè sa oswa mande pou ke "
+"ou ba yo kredi a. Pafwa ka enfòmasyon sa a ka jwenn sou paj la ou se gade. "
+"Lè w gen dout asire w ke w fè yon nòt nan dokiman ou sou kote ou te jwenn "
+"enfòmasyon ki. Yon gwo paj pou plis lekti: http: // www. copyrightkids. org "
+"/"
 
 # 3c4be647b97e4617aaa0832e8be95e5f
 #: ../source/browse.rst:102
@@ -319,25 +391,34 @@ msgid ""
 "on the source or web address of the picture along with the file name of the "
 "picture. There are two ways to copy an image:"
 msgstr ""
+"A kapab bay kopi yon imaj, pwen flèch sourit ou a sou foto a ak dwa-klike "
+"sou li (peze bouton an sou anba a nan pad tras ou ki gen yon sèk sou li). "
+"Yon bwat ki sanble ak foto a montre pi wo a ap parèt ak enfòmasyon sou sous "
+"oswa entènèt adrès la nan foto a ansanm ak non an dosye nan foto a. Gen de "
+"fason a kapab bay kopi yon imaj:"
 
 # becf2411d43c4f9f882fb10fbb4ffd7e
 #: ../source/browse.rst:104
 msgid "**Keep Image** - this will put a copy of the image to the Journal."
-msgstr ""
+msgstr "** Kenbe Imaj ** - sa a pral mete yon kopi imaj la nan jounal la."
 
 # fe02438514174c418f26061e7caf4c8b
 #: ../source/browse.rst:106
 msgid ""
-"**Copy Image** - this will place a copy of the image to the clipboard, which "
-"you can then drag and drop to another activity. This copy is temporary and "
+"**Copy Image** - this will place a copy of the image to the clipboard, which"
+" you can then drag and drop to another activity. This copy is temporary and "
 "will disappear from the clipboard when you shutdown the XO. So if you need "
 "to save the image, it is best to do a \"Keep Image\" instead."
 msgstr ""
+"** Kopi Imaj ** - sa a pral mete yon kopi nan imaj la nan papye a, ki ou ka "
+"Lè sa a, trennen ak gout nan yon lòt aktivite. Sa a kopi se pou yon ti tan "
+"epi yo pral disparèt nan clipboard a lè ou are XO a. Se konsa, si ou bezwen "
+"pou konsève pou imaj la, li se pi bon fè yon \"Imaj Kenbe\" olye pou."
 
 # 554dfaa17ae24f2c951a8a8f3fbccc6d
 #: ../source/browse.rst:109
 msgid "Learning with Browse"
-msgstr ""
+msgstr "Aprann ak Browse"
 
 # 8def12c2dafd4565b2caa4e9e1c5cca1
 #: ../source/browse.rst:111
@@ -347,81 +428,108 @@ msgid ""
 "community and experience. There are so many things on the web that you can "
 "use and incorporate in your classroom, but one of the many great ways to "
 "start is to help students make sense of where they are in relation to this "
-"global context. How far are they from the earthquake's epicenter that rocked "
-"Japan? Where is their country's capital? How big is their country compared "
+"global context. How far are they from the earthquake's epicenter that rocked"
+" Japan? Where is their country's capital? How big is their country compared "
 "to others? Where are the historical places in their country and the world "
 "that shaped human history and culture? One of the many great tools on the "
-"web that can be readily and freely accessed is Google maps (type this on the "
-"address bar): http://maps.google.com/"
+"web that can be readily and freely accessed is Google maps (type this on the"
+" address bar): http://maps.google.com/"
 msgstr ""
+"Browse bay aksè a entènèt la ki se yon enfòmasyon ak kominikasyon pwisan "
+"zouti ak pèmèt elèv yo patisipe nan kominote mondyal la ak eksperyans. Gen "
+"anpil bagay sa yo sou entènèt la ke ou ka itilize ak enkòpore nan sal klas "
+"ou, men youn nan fason yo anpil gwo yo kòmanse se ede elèv yo fè sans nan "
+"kote yo ye an relasyon ak yon kontèks mondyal sa a. Ki jan lwen yo ye soti "
+"nan episant tranbleman tè a nan ki lanse Japon? . Google. com /"
 
 # cbb35b27ddd244f8a5bebc2abf7ce08b
 #: ../source/browse.rst:115
 msgid ""
-"If you live in an area that is adequately mapped by Google Maps, you can ask "
-"students to use the \"Get directions\" tool on the page to see how they can "
-"go from one place to another. The directions tool can also teach students a "
-"sense of distance by showing how far two places are from each other. "
+"If you live in an area that is adequately mapped by Google Maps, you can ask"
+" students to use the \"Get directions\" tool on the page to see how they can"
+" go from one place to another. The directions tool can also teach students a"
+" sense of distance by showing how far two places are from each other. "
 "Example, how far do they travel every day for school (Given that sense of "
 "distance, how far and how long will it take to get to the nearest city or "
 "town)?"
 msgstr ""
+"Si w ap viv nan yon zòn ki se byen trase pa Google Maps, ou kapab mande elèv"
+" yo itilize \"Jwenn direksyon\" zouti a nan paj la yo wè ki jan yo ka ale "
+"soti nan yon kote nan yon lòt. Zouti a direksyon ka anseye tou elèv yon sans"
+" de distans pa montre ki jan lwen de kote yo soti nan chak lòt. Egzanp, ki "
+"jan lwen yo vwayaje chak jou pou lekòl (Etandone ke sans de distans, ki jan "
+"lwen epi depi konbyen tan li pral pran pou li ale nan lavil ki pi pre a oswa"
+" vilaj)?"
 
 # 193c8196f04845a68d641ae5b26904a9
 #: ../source/browse.rst:118
 msgid "Extending Browse"
-msgstr ""
+msgstr "Pwolonje Browse"
 
 # f07f5453ce004d0c879821d1fb51cbe6
 #: ../source/browse.rst:120
 msgid ""
-"There's a built in Google search bar on the home page of Browse that you can "
-"direct students to aid in their research. Help them narrow or expand their "
+"There's a built in Google search bar on the home page of Browse that you can"
+" direct students to aid in their research. Help them narrow or expand their "
 "search texts to come up with better search results."
 msgstr ""
+"Gen nan yon bati nan Google ba rechèch nan paj an kay nan Browse ke ou ka "
+"dirije elèv èd nan rechèch yo. Ede yo etwat oubyen etann tèks rechèch yo "
+"vini ak pi bon rezilta rechèch."
 
 # 608728e11dbc4aa38f7119ae91b23a26
 #: ../source/browse.rst:122
 msgid ""
 "To allow students to be active participants in the global community, "
 "communication tools can be freely and readily accessed via Browse: from "
-"creating free e-mail accounts to tools that allow people to create their own "
-"internet sites and pages."
+"creating free e-mail accounts to tools that allow people to create their own"
+" internet sites and pages."
 msgstr ""
+"Pou pèmèt elèv yo yo dwe patisipan aktif nan kominote mondyal la, zouti "
+"kominikasyon kapab libreman, e yo fasilman rantre atravè Browse: soti nan "
+"kreye kont e-mail gratis yo zouti ki pèmèt moun yo kreye sit pwòp entènèt yo"
+" ak paj."
 
 # b2bec2efadfa4f28988292e6d4788a75
 #: ../source/browse.rst:124
 msgid ""
 "But like with any type of exploration, you have to start with caution. Not "
-"all information on the internet is good. Start with educating kids to safely "
-"use and explore the internet. You can check out sites like: http://www."
-"wiredkids.org/kids/index.html for more information."
+"all information on the internet is good. Start with educating kids to safely"
+" use and explore the internet. You can check out sites like: "
+"http://www.wiredkids.org/kids/index.html for more information."
 msgstr ""
+"Men, tankou ak nenpòt ki kalite eksplorasyon, ou gen yo kòmanse avèk "
+"prekosyon. Se pa tout enfòmasyon sou entènèt la se yon bon bagay. Kòmanse ak"
+" edike timoun yo sèvi ak san danje ak eksplore entènèt la. Ou ka tcheke deyò"
+" sit tankou: http: // www. wiredkids. org / kids / endèks. html pou plis "
+"enfòmasyon."
 
 # 8f068f3fa0ee4e0da16cf2ed1f7ada0e
 #: ../source/browse.rst:127
 msgid "Where to report problems"
-msgstr ""
+msgstr "Ki kote yo repòte pwoblèm"
 
 # fb111511ae6d4ef78ea91f4186301d9b
 #: ../source/browse.rst:129
 msgid "In http://bugs.sugarlabs.org, component Browse."
-msgstr ""
+msgstr "Nan http: // pinèz. sugarlabs. org, eleman Browse."
 
 # 0f30d7756e5644ceb08de913b79fbc7d
 #: ../source/browse.rst:132
 msgid "Credits"
-msgstr ""
+msgstr "Kredi"
 
 # 56065a74995641298e25b8aec216d060
 #: ../source/browse.rst:134
 msgid ""
 "Browse was developed and maintained by: Lucian, Sascha Silbe, erikos, manuq"
-msgstr ""
+msgstr "Browse te devlope ak mentni pa: Lucian, Sascha Silbe, erikos, manuq"
 
 # 1b8c05c99f334a8a8af13542dd8d8590
 #: ../source/browse.rst:136
 msgid ""
-"Browse can be downloaded from the `Sugar Labs Activities repository <http://"
-"activities.sugarlabs.org/>`_."
+"Browse can be downloaded from the `Sugar Labs Activities repository "
+"<http://activities.sugarlabs.org/>`_."
 msgstr ""
+"Ka browse telechaje soti nan `Sugar Labs Aktivite depo a <http: // aktivite."
+" sugarlabs. org /> `_."

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # 5603d01d6214455fbaeb6ce5d224045f
 #: ../source/getting_connected.rst:3
 msgid "Getting Connected"
-msgstr ""
+msgstr "Pou Konekte"
 
 # 979b10e8e2354a13bf60788329d653c2
 #: ../source/getting_connected.rst:5
@@ -27,25 +27,31 @@ msgid ""
 "A primary goal of the Sugar learning platform is enabling students to learn "
 "and work together."
 msgstr ""
+"Yon objektif prensipal nan platfòm aprantisaj la Sugar se pèmèt elèv yo "
+"aprann ak travay ansanm."
 
 # b116eddccd9b4ab7994bb7fc0bfe6ff0
 #: ../source/getting_connected.rst:7
 msgid ""
-"In a wireless environment, an access point (AP) is a device that allows your "
-"computer to connect to an existing set of communicating devices. The access "
-"point usually has a direct connection to the internet, and can relay data "
+"In a wireless environment, an access point (AP) is a device that allows your"
+" computer to connect to an existing set of communicating devices. The access"
+" point usually has a direct connection to the internet, and can relay data "
 "between the wireless devices and the devices it can access."
 msgstr ""
+"Nan yon anviwònman san fil, yon pwen aksè (AP) se yon aparèy ki pèmèt "
+"òdinatè w lan pou konekte avèk yon seri ki deja egziste nan kominike aparèy."
+" Pwen an aksè anjeneral gen yon koneksyon dirèk ak entènèt la, e yo ka relè "
+"done ant aparèy yo san fil ak aparèy yo li kapab jwenn aksè nan."
 
 # cea5552e06884862852db621b6532582
 #: ../source/getting_connected.rst:10
 msgid "Multiple ways to connect to others"
-msgstr ""
+msgstr "Plizyè fason pou konekte avèk lòt moun"
 
 # 0d5e4daec5bd4e2ab66855de5255acd5
 #: ../source/getting_connected.rst:12
 msgid "wireless access point (WiFi hotspot);"
-msgstr ""
+msgstr "san fil pwen aksè (WiFi hotspot);"
 
 # 70ce8b1576e64327a7596175e8563d17
 #: ../source/getting_connected.rst:13
@@ -67,7 +73,7 @@ msgstr ""
 # af8fedcb3cad433f88b489d304a80dbe
 #: ../source/getting_connected.rst:18
 msgid "Connecting through an access point"
-msgstr ""
+msgstr "Koneksyon nan yon pwen aksè"
 
 # c3ba7007f9064216a1fbdd275ed58cf5
 #: ../source/getting_connected.rst:20
@@ -75,16 +81,18 @@ msgid ""
 "You can connect from the Neighborhood View. You can see information about "
 "the connection on the Frame."
 msgstr ""
+"Ou ka konekte soti nan View nan Katye. Ou ka wè enfòmasyon sou koneksyon an "
+"sou ankadreman an."
 
 # e20e61c3090846fbae1d3fef71126423
 #: ../source/getting_connected.rst:22
 msgid "**Step 1: Go to the Neighborhood View**"
-msgstr ""
+msgstr "** Etap 1: Ale nan Katye View la **"
 
 # 3bc5780d727e4e81a63b3d474062c5bd
 #: ../source/getting_connected.rst:26
 msgid "Go to the Neighborhood View to connect to an access point."
-msgstr ""
+msgstr "Ale nan View nan Katye pou konekte avèk yon pwen aksè."
 
 # dc396b48537c46099dbc8e8a84e9285c
 #: ../source/getting_connected.rst:28
@@ -92,29 +100,37 @@ msgid ""
 "Tip: To access the Neighborhood View, click on the Neighborhood Icon on the "
 "Frame or by pressing the F1 key."
 msgstr ""
+"Ide: Pou jwenn aksè a View Katye, klike sou icon nan Katye sou ankadreman an"
+" oswa pa peze kle a F1."
 
 # 17fbe1947a8e42dcb4a15e911cebd8ce
 #: ../source/getting_connected.rst:30
 msgid "**Step 2: Choose an access point**"
-msgstr ""
+msgstr "** Etap 2: Chwazi yon pwen aksè **"
 
 # 60cbad098bb44149a343d28bf03147de
 #: ../source/getting_connected.rst:34
 msgid ""
 "Networks (access points) are represented by circles on the Neighborhood "
 "View. Hover over a circle to see more information about an access point. An "
-"access point is identified by the name (ESSID) it broadcasts. An OLPC laptop "
-"mesh-point—represented by a series of concentric circles—is identified by "
-"its channel number (1, 6, or 11). You can also search for an access point by "
-"name in the search bar at the top of the page."
+"access point is identified by the name (ESSID) it broadcasts. An OLPC laptop"
+" mesh-point—represented by a series of concentric circles—is identified by "
+"its channel number (1, 6, or 11). You can also search for an access point by"
+" name in the search bar at the top of the page."
 msgstr ""
+"Rezo (pwen aksè) yo reprezante pa ti sèk sou Katye View. Vol sou yon sèk sou"
+" yo wè plis enfòmasyon sou yon pwen aksè. Yon pwen aksè idantifye se pa non "
+"an (ESSID) li emisyon. Ou kapab tou rechèch pou yon pwen aksè pa non nan ba "
+"rechèch la nan tèt la nan paj la."
 
 # c63cdaeea36f468291df32c81b8b864d
 #: ../source/getting_connected.rst:36
 msgid ""
-"Note: If an access point is not broadcasting its name, the Neighborhood View "
-"may show that AP with some other name."
+"Note: If an access point is not broadcasting its name, the Neighborhood View"
+" may show that AP with some other name."
 msgstr ""
+"Remak: Si yon pwen aksè se pa sa difize non li, Katye View la pouvwa montre "
+"ke AP ak kèk lòt non."
 
 # 251e3c131d374a709eb12528e2d4d53d
 #: ../source/getting_connected.rst:38
@@ -125,11 +141,15 @@ msgid ""
 "star icon identifies access points that have been previously used "
 "(favorites)."
 msgstr ""
+"Se fòs siyal endike nan nivo a ranpli nan sèk la. Se koulè a ​​nan sèk la ki"
+" baze sou non an nan pwen an aksè. Yon icon fèmen idantifye rezo ke yo "
+"garanti epi mande pou yon kle (paskod) yo sèvi ak. Yon icon zetwal idantifye"
+" pwen aksè ki te te sèvi deja (favorites)."
 
 # 607370d5009f4a05894d064654d50155
 #: ../source/getting_connected.rst:40
 msgid "**Step 3: Activate a connection**"
-msgstr ""
+msgstr "** Etap 3: Aktive yon koneksyon **"
 
 # 0744e3285f444de596c8f7ae00667d14
 #: ../source/getting_connected.rst:42
@@ -138,6 +158,9 @@ msgid ""
 "corresponds to your chosen access point (or click on the Connect option in "
 "the hover menu)."
 msgstr ""
+"Yo sa aktive yon koneksyon rezo, klike sou yon fwa andedan sèk la ki "
+"koresponn ak pwen aksè chwazi ou (oswa klike sou opsyon nan Connect nan meni"
+" an hover)."
 
 # 1fb71529c1b645b799e5ac8626d48afb
 #: ../source/getting_connected.rst:44
@@ -148,6 +171,11 @@ msgid ""
 "failed, the circle will stop blinking. Sometimes it is necessary to try "
 "several times before the connection is established."
 msgstr ""
+"Pandan ke se koneksyon la ke yo te etabli, anndan an nan sèk la pral bat je "
+"l. Yon fwa yo koneksyon a te etabli, yo pral yon icon pou ke koneksyon ka "
+"montre sou kwen an anba nan Frame. Si pou kèk rezon koneksyon la echwe, sèk "
+"la yo ap sispann kliyote. Pafwa li nesesè eseye plizyè fwa anvan se "
+"koneksyon a te etabli."
 
 # b16312d2f7e44908a315b62d8481712e
 #: ../source/getting_connected.rst:46
@@ -157,16 +185,20 @@ msgid ""
 "types of keys. Before entering the key, be sure to select the correct type "
 "from the pull-down menu that is presented."
 msgstr ""
+"Si se pwen an aksè garanti ak mande pou yon kle, yon dyalòg envit ou pou "
+"enfòmasyon yo mande. Pwen aksè diferan ki ka mande pou diferan kalite kle. "
+"Anvan ou antre kle a, asire w ke ou chwazi kalite ki kòrèk la nan meni an "
+"rale-desann ki ap prezante."
 
 # 059a4d9dfff84e6f8a2da9efdde78717
 #: ../source/getting_connected.rst:48
 msgid "**Step 4: Checking the connection**"
-msgstr ""
+msgstr "** Etap 4: Lè nap Peye koneksyon la **"
 
 # 9203af8084214616b7e219d2439d23fc
 #: ../source/getting_connected.rst:52
 msgid "The connection status is detailed in a hover menu."
-msgstr ""
+msgstr "A sitiyasyon an koneksyon detaye nan yon meni hover."
 
 # 572b2646c9a04fbcaae969ce5ae0ceb8
 #: ../source/getting_connected.rst:56
@@ -175,6 +207,9 @@ msgid ""
 "By hovering over the circle icon, you will find details about your "
 "connection status in a hover menu. OLPC deployments"
 msgstr ""
+"Ou ka tcheke estati a nan koneksyon ou a soti nan ankadreman an (ki soti nan"
+" nenpòt View). Pa elikopte sou icon nan sèk, ou pral jwenn plis detay sou "
+"estati koneksyon ou a nan yon meni hover. Deplwaman OLPC"
 
 # 8ae74bdd8ab643109e996f4a0161e41d
 #: ../source/getting_connected.rst:58
@@ -184,11 +219,14 @@ msgid ""
 "their school network connectivity more efficient. The School Server also "
 "provides web and chat services."
 msgstr ""
+"OLPC te fèt yon rezo may ki pèmèt laptops XO yo kominike san yo pa nan "
+"prezans nan entènèt la ak yon sèvè Lekòl kòm yon mwayen fè koneksyon rezo "
+"lekòl yo pi efikas. Sèvè a la tou bay entènèt ak chat sèvis."
 
 # 8b1da3b0f3544e61ad0d8a2cc9d49bbd
 #: ../source/getting_connected.rst:61
 msgid "Note to parents and teachers"
-msgstr ""
+msgstr "Remake byen paran ak pwofesè"
 
 # bf20e7c7294c4c8eae64d62e4f4e9c8c
 #: ../source/getting_connected.rst:63
@@ -199,6 +237,11 @@ msgid ""
 "Computers can be connected through a School Server, a simple mesh if they "
 "are OLPC XOs, or an access point."
 msgstr ""
+"Kolaborasyon ant elèv k ap aprann se youn nan karakteristik yo ki pi enpòtan"
+" nan Sugar. Pou pèmèt kolaborasyon nan yon sal klas oswa lakay anviwònman, "
+"li se nesesè yo etabli kalite la menm nan koneksyon pou chak òdinatè. "
+"Odinatè kapab konekte nan yon sèvè lekòl la, yon may senp si yo XO OLPC, "
+"oswa yon pwen aksè."
 
 # 20a95e4ab41d4d8db9b0be9491124965
 #: ../source/getting_connected.rst:65
@@ -208,16 +251,20 @@ msgid ""
 "Control Panel discussion in the Personalizing Sugar chapter for details "
 "regarding the configuration of Jabber."
 msgstr ""
+"Lè w ap itilize yon pwen aksè pou koneksyon an, òdinatè yo dwe tout sèvi ak "
+"menm sèvè a Jabber yo nan lòd yo kolabore. Tanpri gade nan diskisyon an "
+"Kontwòl Panel Sugar nan chapit la pèsonalizé Sugar pou plis detay konsènan "
+"configuration la, te nan Jabber."
 
 # 587088c344ba446390c5ce77320fa191
 #: ../source/getting_connected.rst:68
 msgid "Additional hints"
-msgstr ""
+msgstr "Sijesyon Lòt"
 
 # d1cb67cf3fb34bd38af41fbe3608eda8
 #: ../source/getting_connected.rst:72
 msgid "You make your connection from the Neighborhood View."
-msgstr ""
+msgstr "Ou fè koneksyon ou a soti nan Katye View."
 
 # 81847c0e9748433f91756e9b5d986411
 #: ../source/getting_connected.rst:76
@@ -227,21 +274,26 @@ msgid ""
 "disconnect, select “Disconnect” from the hover menu that appears in either "
 "of the network status menus (See Step 4 above)."
 msgstr ""
+"Yo montre estati koneksyon ou aktyèl sou ankadreman an. Epitou, meni an "
+"hover pral endike \"konekte\"."
 
 # d90678a6339745b88b9d47f0a286d0d6
 #: ../source/getting_connected.rst:80
 msgid ""
 "Access points are represented by circles. The fill level indicates signal "
 "strength."
-msgstr ""
+msgstr "Pwen aksè yo reprezante nan ti sèk. Nivo a ranpli endike fòs siyal."
 
 # b3479fdd971d4641b4bd533f46f5217e
 #: ../source/getting_connected.rst:84
 msgid ""
-"Access points that require keys have a lock icon. The color of the circle is "
-"calculated from the ESSID of the access point. The name of the access point "
-"is displayed when you hover over it."
+"Access points that require keys have a lock icon. The color of the circle is"
+" calculated from the ESSID of the access point. The name of the access point"
+" is displayed when you hover over it."
 msgstr ""
+"Pwen aksè ki mande pou kle gen yon icon seri. Se koulè a ​​nan sèk la "
+"kalkile soti nan ESSID a pwen an aksè. Non an nan pwen an aksè se parèt lè "
+"ou hover sou li."
 
 # 9c44d2b91eb845828682d6166b5cae49
 #: ../source/getting_connected.rst:88
@@ -249,6 +301,8 @@ msgid ""
 "You connect by “clicking” in the center of the circle. The center of the "
 "circle will blink while the laptop is trying to connect."
 msgstr ""
+"Sant la nan sèk la pral bat je l pandan y ap konpitè pòtatif li a ap eseye "
+"konekte."
 
 # 9d81818657b144a5882b9636c4a2be30
 #: ../source/getting_connected.rst:92
@@ -260,8 +314,10 @@ msgid ""
 "network, enabling you to collaborate with others in the mesh, but not "
 "necessarily to access the Internet."
 msgstr ""
+"Si w ap itilize yon òdinatè OLPC XO, may pwen yo reprezante pa yon seri de "
+"sèk konsantrik. Koulè a ​​nan yon pwen may se menm bagay la kòm koulè XO ou."
 
 # 07482ed3d2c04f5db01645136e21c2d2
 #: ../source/getting_connected.rst:96
 msgid "You are prompted if the access point requires a key."
-msgstr ""
+msgstr "Ou ap pouse si pwen an aksè mande pou yon kle."

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # fb61a90fcbe3425db5257c00b736375b
 #: ../source/restructuredtext.rst:3
 msgid "Writing in reStructuredText"
-msgstr ""
+msgstr "Ekri nan reStructuredText"
 
 # 487cba3e802d437b8dadf5fd55ea3244
 #: ../source/restructuredtext.rst:5
@@ -28,21 +28,25 @@ msgid ""
 "using in :doc:`/how_to_help`. The rst format is easy to create and we are "
 "using a part of it only."
 msgstr ""
+"Paj sa a se yon Jadendanfan kout ak tronpe fèy pou lang lan baliz nou ap lè "
+"l sèvi avèk nan: doc: `/ how_to_help`. Fòma a RST se fasil yo kreye epi nou "
+"ap lè l sèvi avèk yon pati nan li sèlman."
 
 # 19f05a715cf84a5294f273814f968278
 #: ../source/restructuredtext.rst:10
 msgid "Titles"
-msgstr ""
+msgstr "Tit"
 
 # 1867bb509413499d9ce9d1020da2162a
 #: ../source/restructuredtext.rst:29
 msgid "Links"
-msgstr ""
+msgstr "Lyen"
 
 # bf2af485bb724a0e82c6c97547e4e13e
 #: ../source/restructuredtext.rst:31
 msgid "Links like http://activities.sugarlabs.org are automatically created."
 msgstr ""
+"Lyen tankou http: // aktivite. sugarlabs. org yo se otomatikman kreye."
 
 # 6beedbd7146c4e5c917250080831ebf6
 #: ../source/restructuredtext.rst:33
@@ -50,21 +54,23 @@ msgid ""
 "To create links where the text displayed in the page is different to the "
 "link you should do:"
 msgstr ""
+"Pou kreye lyen ki tèks la parèt nan paj an se diferan nan lyen ki ou ta dwe "
+"fè:"
 
 # 4548869d51de464481d363b6969ed0b5
 #: ../source/restructuredtext.rst:35
 msgid "You will find `ASLO <http://activities.sugarlabs.org>`_ here."
-msgstr ""
+msgstr "Ou pral jwenn `aslo <http: // aktivite. sugarlabs. org> `_ isit la."
 
 # d2b14651d9c34d5f9035101e8e117e1d
 #: ../source/restructuredtext.rst:37
 msgid "Program writing software like Python_."
-msgstr ""
+msgstr "Pwogram lojisyèl ekri tankou Python_."
 
 # 944334f8266f4aacba0f7cd3c944feb4
 #: ../source/restructuredtext.rst:54
 msgid "Links within Help"
-msgstr ""
+msgstr "Lyen nan Èd"
 
 # 90eb711028694191b38272a561a6e920
 #: ../source/restructuredtext.rst:56
@@ -72,6 +78,7 @@ msgid ""
 "This link, :ref:`my-reference-label` links to the top paragraph of this "
 "document."
 msgstr ""
+"Lyen sa a,: ref: `lyen-referans my-label` paragraf nan tèt nan dokiman sa a."
 
 # 1df3a028458648f38c4d6908c735618f
 #: ../source/restructuredtext.rst:58
@@ -79,88 +86,92 @@ msgid ""
 "To see how this works, ``.. _my-reference-label:`` appears on line 7 of "
 "restructuredtext.rst."
 msgstr ""
+"Pou wè ki jan sa a ap travay, ``. . _my-referans-mete etikèt sou: `` parèt "
+"sou liy 7 nan restructuredtext. RST."
 
 # b0e99d9915d04d96b820a4eb5373acd3
 #: ../source/restructuredtext.rst:60
 msgid ""
-"Secondly, this page contains more about terms and words used in sugar. :doc:"
-"`/glossary`"
+"Secondly, this page contains more about terms and words used in sugar. "
+":doc:`/glossary`"
 msgstr ""
+"Dezyèmman, paj sa a ki gen plis enfòmasyon sou tèm ak mo yo itilize nan sik."
+" : Doc: `/ glossary`"
 
 # 95910e1f6d6846d289c48fdd8c459d02
 #: ../source/restructuredtext.rst:72
 msgid "Lists"
-msgstr ""
+msgstr "Lis"
 
 # d5eadb4afe3345bdaf92d2823f0892a1
 #: ../source/restructuredtext.rst:74
 msgid "Lists are simple"
-msgstr ""
+msgstr "Lis yo se senp"
 
 # 0be07fd899e94316acded4862a0fc055
 #: ../source/restructuredtext.rst:76
 msgid "First item"
-msgstr ""
+msgstr "Premye atik"
 
 # 0183a476842c4c20ae1fb3dd73341b85
 #: ../source/restructuredtext.rst:77
 msgid "Second item"
-msgstr ""
+msgstr "Dezyèm atik"
 
 # d747914983f14b1088853acb93707fac
 #: ../source/restructuredtext.rst:78
 msgid "Last item"
-msgstr ""
+msgstr "Denye atik"
 
 # 17a25b354f834ed9858d055fac95ea5e
 #: ../source/restructuredtext.rst:80
 msgid "or numbered:"
-msgstr ""
+msgstr "oswa resansman:"
 
 # 0561ecc43b4c42fd9af75a7c0a04d522
 #: ../source/restructuredtext.rst:82
 msgid "One item"
-msgstr ""
+msgstr "Youn atik"
 
 # 369e3ae7167641f79d4fc2d80907a7b2
 #: ../source/restructuredtext.rst:83
 msgid "Another item"
-msgstr ""
+msgstr "Yon lòt atik"
 
 # 79f7727502c84ed7867ba8b857c177ea
 #: ../source/restructuredtext.rst:84
 msgid "The last one"
-msgstr ""
+msgstr "Youn nan dènye"
 
 # 57f11fcbcfd84f74a141507e89ba95db
 #: ../source/restructuredtext.rst:101
 msgid "Simple table"
-msgstr ""
+msgstr "Tab Senp"
 
 # 8979ab2fe3b341da914f4dfe75b5cf7c
 #: ../source/restructuredtext.rst:104
 msgid "Inputs"
-msgstr ""
+msgstr "Entran"
 
 # 5953e8f6ce1242e2aedde98298ea063d
 #: ../source/restructuredtext.rst:104
 msgid "Output"
-msgstr ""
+msgstr "Sòti"
 
 # 995cce8d58db4bfc97e9837b59731fdf
 #: ../source/restructuredtext.rst:106
 msgid "A"
-msgstr ""
+msgstr "Yon"
 
 # 194b130053cf408c97ed5c37422dfc95
 #: ../source/restructuredtext.rst:106
 msgid "B"
-msgstr ""
+msgstr "B"
 
 # 4e91454f5a904340a2be0d9273e8004e
 #: ../source/restructuredtext.rst:106
 msgid "A or B"
-msgstr ""
+msgstr "A oswa B"
 
 # 1aca590678624cfd8797a38155554a11
 # 5e684c84ee70424893e7690348441d99
@@ -170,7 +181,7 @@ msgstr ""
 #: ../source/restructuredtext.rst:108 ../source/restructuredtext.rst:109
 #: ../source/restructuredtext.rst:110
 msgid "False"
-msgstr ""
+msgstr "Fo"
 
 # 4db0854e91534916843a9135833162f4
 # 6e35512eb66548008910556371e76d56
@@ -182,50 +193,52 @@ msgstr ""
 #: ../source/restructuredtext.rst:109 ../source/restructuredtext.rst:110
 #: ../source/restructuredtext.rst:111
 msgid "True"
-msgstr ""
+msgstr "Vrè"
 
 # ecb6477c4ee54cab9dadb241a19de6bf
 #: ../source/restructuredtext.rst:128
 msgid "Images"
-msgstr ""
+msgstr "Imaj"
 
 # 616190276d464d07b53dfec530d53072
 #: ../source/restructuredtext.rst:130
 msgid "An image can be included like this:"
-msgstr ""
+msgstr "Ka Yon imaj dwe enkli tankou sa a:"
 
 # fed6987abd3a4a739651a61de48e0f59
 #: ../source/restructuredtext.rst:139
 msgid "Icons and small images"
-msgstr ""
+msgstr "Icônes ak imaj ti"
 
 # 417a119b1c5f40ba81a3b732040353b1
 #: ../source/restructuredtext.rst:141
 msgid "|Neighborhood_key| This is the sharing option."
-msgstr ""
+msgstr "| Neighborhood_key | Sa a se opsyon nan pataje."
 
 # f8607912d4d6480aafc5142d753ed0de
 #: ../source/restructuredtext.rst:145
 msgid "|Home_key_f3_small| This is the Private option."
-msgstr ""
+msgstr "| Home_key_f3_small | Sa a se opsyon a Prive."
 
 # 47984db562fd4c2585749ece6f6f23e9
 #: ../source/restructuredtext.rst:160
 msgid "Adding a note"
-msgstr ""
+msgstr "Ajoute yon nòt"
 
 # 739588c8f5a34f52b9939ae0fab16f97
 #: ../source/restructuredtext.rst:164
 msgid ""
 "When you are required to place the first readable character at point 3 or 4 "
-"in the line, it is recommended to check if you are required to insert spaces "
-"or Tab."
+"in the line, it is recommended to check if you are required to insert spaces"
+" or Tab."
 msgstr ""
+"Lè w ap oblije mete premye pèsonaj la lizib nan pwen 3 oswa 4 nan liy lan, "
+"li rekòmande yo tcheke si ou oblije Insert espas oswa tab."
 
 # 9628f9fc4c6c4f2ebb53195e03eb4693
 #: ../source/restructuredtext.rst:166
 msgid "And also"
-msgstr ""
+msgstr "Epi tou"
 
 # 8903c7a69c38499cada58225088fdba1
 #: ../source/restructuredtext.rst:170
@@ -233,10 +246,14 @@ msgid ""
 "Notice that first readable character of this note is under the \"s\", three "
 "spaces preceed it."
 msgstr ""
+"Remake premye karaktè lizib nan nòt sa a se anba \"nan la\", twa espas "
+"preceed li."
 
 # 25818f39acda4d2183918f726d7c0a2c
 #: ../source/restructuredtext.rst:185
 msgid ""
-"|more| There are links to :ref:`Further reading` at the foot of the page :"
-"doc:`/how_to_help`"
+"|more| There are links to :ref:`Further reading` at the foot of the page "
+":doc:`/how_to_help`"
 msgstr ""
+"| Plis | Gen lyen ki mennen nan: ref: `Pli lwen reading` nan pye a nan paj "
+"la: doc:` / how_to_help`"

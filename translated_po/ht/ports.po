@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,27 +19,32 @@ msgstr ""
 # 965c25c984b14f8ca3ef870d42ce7af6
 #: ../source/ports.rst:3
 msgid "Physical Features"
-msgstr ""
+msgstr "Karakteristik fizik"
 
 # 8b8b7de501904683b53c09fed87fc2c4
 #: ../source/ports.rst:6
 msgid "Features and Ports"
-msgstr ""
+msgstr "Features ak pò"
 
 # ca141e1967b94e8a9b2cf76d95cb72fe
 #: ../source/ports.rst:8
 msgid ""
 "The XO laptop has many built-in features. These include a camera, "
 "microphone, speakers and wireless antenna. In addition, the laptop allows "
-"for the attachment of other external devices. This is often done by plugging "
-"the devices into connectors (some are more commonly referred to as ports, "
+"for the attachment of other external devices. This is often done by plugging"
+" the devices into connectors (some are more commonly referred to as ports, "
 "jacks or slots)."
 msgstr ""
+"Laptop XO a gen anpil karakteristik bati-an. Men sa yo enkli yon kamera, "
+"mikwofòn, moun kap pale epi san fil antèn. Anplis de sa, konpitè pòtatif li "
+"a pèmèt pou atachman a nan lòt aparèy ekstèn. Sa a se souvan fè pa rakorde "
+"aparèy yo nan konektè (gen kèk ki plis souvan refere li kòm pò yo, jak oswa "
+"fant)."
 
 # 36cc665bb0f4434a9d33fd6362855c5c
 #: ../source/ports.rst:11
 msgid "Backlit screen"
-msgstr ""
+msgstr "Retroeklere ekran"
 
 # 54851b1fbb3041c4927a7de9470f69fd
 #: ../source/ports.rst:13
@@ -48,11 +53,14 @@ msgid ""
 "and in an ultra-low-power, ultra-high-resolution, black-and-white mode that "
 "is readable in direct sunlight."
 msgstr ""
+"Fonksyon yo ekspozisyon nan yon mòd plen koulè menm jan ak lòt montre laptop"
+" ak nan yon ultra-ba-pouvwa a, ultra-wo-rezolisyon, nwa-e-blan mòd se sa ki "
+"lizib nan limyè solèy la dirèk."
 
 # c836545bb233483d94db067a8d8dadd9
 #: ../source/ports.rst:19
 msgid "1, 2 - Built-in microphone"
-msgstr ""
+msgstr "1, 2 - Bati-an mikwofòn"
 
 # 2759db4aa9f94c1fb4fcaefc19db0e4b
 #: ../source/ports.rst:21
@@ -61,11 +69,14 @@ msgid ""
 "supports both AC and DC sources.) As a privacy measure, an LED above the "
 "microphone (1) lights up whenever the microphone is in use."
 msgstr ""
+"Gen tou de yon mikwofòn bati-an (ak yon jack mikwofòn ekstèn, ki sipòte tou "
+"de sous AC ak DC. ) Kòm yon mezi sou vi prive, yon ki ap dirije pi wo a "
+"mikwofòn la (1) limyè moute chak fwa mikwofòn la se nan itilize."
 
 # 85f89697f35844348cb3605a16c20d9c
 #: ../source/ports.rst:24
 msgid "3, 8 - Built-in speakers"
-msgstr ""
+msgstr "3, 8 - Bati-an ki pale natif"
 
 # 6c823f8c36534a1b8c07ce524eba22c0
 #: ../source/ports.rst:26
@@ -74,11 +85,13 @@ msgid ""
 "videos, and anything you have recorded yourself. There’s also a jack for "
 "external headphones or speakers."
 msgstr ""
+"Natif stereo Entèn ak yon anplifikatè bay yon fason yo jwe mizik, videyo, ak"
+" nenpòt bagay ou te anrejistre tèt ou."
 
 # a4e55c852c6e4bf0913036b1061a2529
 #: ../source/ports.rst:29
 msgid "4 - Game pad"
-msgstr ""
+msgstr "4 - Jwèt pad"
 
 # 50215549fe6543cda250e93cfe52381f
 #: ../source/ports.rst:31
@@ -87,11 +100,14 @@ msgid ""
 "Since they still function when the screen is folded down into e-book mode, "
 "the XO creates a self-contained game playing pad including a controller."
 msgstr ""
+"De kouche nan kle kurseur-kontwòl kat-direksyon kapab contrôleur jwèt. Depi "
+"yo toujou fonksyone lè se ekran an pliye desann nan mòd e-liv, XO a kreye "
+"yon pad jwèt ap jwe endepandan ki gen ladan yon kontwolè."
 
 # 579526ec58644d418f6e96606ce960a1
 #: ../source/ports.rst:34
 msgid "5 - Screen rotate button"
-msgstr ""
+msgstr "5 - Screen bouton Thorne"
 
 # 015de343e652447d83fc54b180b89bf7
 #: ../source/ports.rst:36
@@ -103,20 +119,23 @@ msgstr ""
 # 0b49e7853a664be78e58a3214b724346
 #: ../source/ports.rst:39
 msgid "6, 7 - Built-in camera"
-msgstr ""
+msgstr "6, 7 - Bati-an kamera"
 
 # 3b7c0a6f2e7d4100b17999ea059f5da8
 #: ../source/ports.rst:41
 msgid ""
 "The XO laptop has a built-in color camera, enabling still photography and "
-"video recording. As a privacy measure, an LED above the camera (6) lights up "
-"whenever the camera is on."
+"video recording. As a privacy measure, an LED above the camera (6) lights up"
+" whenever the camera is on."
 msgstr ""
+"Laptop XO a te gen yon bati-an kamera koulè, pèmèt fotografi toujou ak "
+"anrejistreman videyo. Kòm yon mezi sou vi prive, yon ki ap dirije pi wo a "
+"kamera a (6) limyè moute chak fwa kamera a se sou."
 
 # 70ef5c3b4a944efdb1d9e628cc92e986
 #: ../source/ports.rst:44
 msgid "9 - Game buttons"
-msgstr ""
+msgstr "9 - Jwèt bouton"
 
 # 5aef57cdb5074d47aea6f074a1c71b84
 #: ../source/ports.rst:46
@@ -127,43 +146,52 @@ msgid ""
 "Activities. For example, the circle button can be used as the shutter for "
 "the camera in the Record Activity."
 msgstr ""
+"Bouton sa yo jwèt ka itilize lè se ekran an pliye desann nan mòd e-liv, "
+"kreye yon endepandan jwèt jwè. Bouton sa yo yo souvan itilize pa Aktivite. "
+"Pou egzanp, ka bouton an sèk ka itilize kòm vole a pou kamera a nan aktivite"
+" nan Dosye."
 
 # c34a2365adcd4149a13823e077e8bffb
 #: ../source/ports.rst:49
 msgid "10 - Power button, indicator"
-msgstr ""
+msgstr "10 - Pouvwa bouton, endikatè"
 
 # c75f543c4412452db4ff7b203a30b0a9
 #: ../source/ports.rst:51
 msgid ""
 "From left to right: the battery-level indicator; the power indicator; and "
 "the power button."
-msgstr ""
+msgstr "De gòch a dwat: batri-nivo endikatè a; ."
 
 # 2052cd8da8eb4fe1bb9d118452d7ad58
 #: ../source/ports.rst:53
 msgid ""
-"Along with offering unique connectivity options, the XO laptop can work with "
-"a wide range of external devices."
+"Along with offering unique connectivity options, the XO laptop can work with"
+" a wide range of external devices."
 msgstr ""
+"Ansanm ak ofri opsyon koneksyon inik, konpitè pòtatif li a XO ka travay avèk"
+" nan yon pakèt domèn aparèy ekstèn."
 
 # f5aea00cfb22474abc17fb7cc657f38c
 #: ../source/ports.rst:58
 msgid "11 - Antennae ears"
-msgstr ""
+msgstr "11 - antèn zòrèy"
 
 # a60a179b7160474cad072ce2c3d88731
 #: ../source/ports.rst:60
 msgid ""
-"When the wireless antennae \"ears\" are rotated up, they provide the XO with "
-"a connection range vastly superior to those of conventional laptops. When "
+"When the wireless antennae \"ears\" are rotated up, they provide the XO with"
+" a connection range vastly superior to those of conventional laptops. When "
 "down, they keep dirt out of the connectors and act as a latch."
 msgstr ""
+"Lè antèn la san fil \"zòrèy\" yo vire toutotou yo, yo bay XO a ak yon seri "
+"koneksyon larjeman siperyè sa yo ki nan laptops konvansyonèl. Lè l 'atè, yo "
+"kenbe pousyè tè soti nan konèkteur yo ak aji tankou yon obtenir."
 
 # 9ae048a21ad943cebce981e7898cd979
 #: ../source/ports.rst:63
 msgid "12, 13 - External headphones and microphone jacks"
-msgstr ""
+msgstr "12, 13 - kas ekoutè Ekstèn ak oslè mikwofòn"
 
 # 572294e4f33e4a3f9630ec943d85787a
 #: ../source/ports.rst:65
@@ -171,24 +199,29 @@ msgid ""
 "Along with built-in speakers and microphone, the XO laptop features jacks "
 "for external headphones and an external microphone."
 msgstr ""
+"Ansanm ak bati-an moun kap pale epi mikwofòn, konpitè pòtatif li a "
+"karakteristik XO oslè pou kas ekoutè ekstèn ak yon mikwofòn ekstèn."
 
 # 6b0436da85b64dd2864502c39d4ac448
 #: ../source/ports.rst:68
 msgid "14 - USB/memory ports"
-msgstr ""
+msgstr "14 - USB / pò memwa"
 
 # 1efd34afd34b4b2ebd2c7846a902989c
 #: ../source/ports.rst:70
 msgid ""
-"The XO laptop features three external USB ports to support a variety of plug-"
-"in peripherals (one seen in the photo above, and two others under the other "
-"\"ear\"). Right side ports + battery"
+"The XO laptop features three external USB ports to support a variety of "
+"plug-in peripherals (one seen in the photo above, and two others under the "
+"other \"ear\"). Right side ports + battery"
 msgstr ""
+"Laptop XO a karakteristik twa pò ekstèn USB sipòte yon varyete de plug-in "
+"periferik (yon sèl wè nan foto a pi wo a, ak de lòt moun anba lòt \"zòrèy\" "
+"la). Pò bò dwat + batri"
 
 # f90012cbadb043c29a5479510cc59a77
 #: ../source/ports.rst:73
 msgid "15 - Power jack"
-msgstr ""
+msgstr "15 - Pouvwa Jack"
 
 # d4f0fd0b26664871b54130b3d426f12a
 #: ../source/ports.rst:75
@@ -197,11 +230,13 @@ msgid ""
 "AC outlet for charging. The power jack also accepts DC power from a solar "
 "panel for charging the XO laptop’s battery."
 msgstr ""
+"XO a vini ak yon kòd pouvwa ki ka konekte nan nenpòt ki 110-a-240-volt AC "
+"priz pou pote plent-."
 
 # 4dafdea0c6c14403bb903d36f76f8094
 #: ../source/ports.rst:78
 msgid "SD memory card slot"
-msgstr ""
+msgstr "Plas kat memwa SD"
 
 # ba893000464f4ad39156254bb0690a7f
 #: ../source/ports.rst:80
@@ -210,11 +245,13 @@ msgid ""
 "photos, video, and other content. Rotate the display so that the left-hand "
 "edge is over the keyboard—the slot is then accessible from below."
 msgstr ""
+"Gen yon plas anba ekspozisyon an ki asepte SD kat memwa pou foto, videyo, ak"
+" lòt kontni."
 
 # 67855ec12f764015b01e0c7a9aa3cfa4
 #: ../source/ports.rst:83
 msgid "Rechargeable battery"
-msgstr ""
+msgstr "Batri rcharjabl"
 
 # 47dc5c475efb4dafb89559aac57f6ca7
 #: ../source/ports.rst:85
@@ -223,3 +260,6 @@ msgid ""
 "poor or non-existent power infrastructure), the XO laptop is designed to be "
 "extremely power efficient."
 msgstr ""
+"Depi gen anpil timoun ki, petèt menm ou, viv \"nan griy la\" (nan kote ki "
+"gen pòv oswa ki pa-inexistant enfrastrikti pouvwa), se konpitè pòtatif li a "
+"XO fèt yo dwe trè pouvwa efikas."

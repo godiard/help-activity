@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,53 +19,66 @@ msgstr ""
 # 76823ea40ae542dd86f25bcff8f9e8db
 #: ../source/turtleart.rst:3
 msgid "Turtle Art"
-msgstr ""
+msgstr "Turtle Art"
 
 # 823b04c903d143fe90a8863fe54878ba
 #: ../source/turtleart.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 72e9b6c106f24f8ea95d3df67bde707d
 #: ../source/turtleart.rst:10
 msgid ""
-"Turtle Art, also known as Turtle Blocks, is an activity with a Logo-inspired "
-"graphical \"turtle\" that draws colorful art based on snap-together visual "
+"Turtle Art, also known as Turtle Blocks, is an activity with a Logo-inspired"
+" graphical \"turtle\" that draws colorful art based on snap-together visual "
 "programming elements. Its \"low floor\" provides an easy entry point for "
 "beginners. It also has \"high ceiling\" programming, graphics, mathematics, "
 "and Computer Science features which will challenge the more adventurous "
 "student."
 msgstr ""
+"Turtle Art, konnen tou kòm Turtle blòk, se yon aktivite ak yon Logo-enspire "
+"grafik \"tòti\" ki trase atizay kolore ki baze sou ki enfichable-ansanm "
+"eleman pwogram vizyèl. Li yo \"etaj faible\" bay yon pwen antre fasil pou "
+"débutan. Li tou te gen \"segondè plafon\" pwogram, grafik, matematik ak "
+"Syans enfòmatik karakteristik ki pral defi elèv la plis avantur."
 
 # dcf6696f12bc4bfe83e92d1bbfbd3a51
 #: ../source/turtleart.rst:13
 msgid "Where to get Turtle Art"
-msgstr ""
+msgstr "Ki kote yo ka resevwa Turtle Art"
 
 # 8145a701914d4bb8bb002da7c1b2da77
 #: ../source/turtleart.rst:15
 msgid ""
 "Is included in the OLPC image, and can be downloaded from the `Sugarlabs "
-"Activities repository <http://activities.sugarlabs.org/en-US/sugar/"
-"addon/4027>`_"
+"Activities repository <http://activities.sugarlabs.org/en-"
+"US/sugar/addon/4027>`_"
 msgstr ""
+"Se enkli nan imaj la OLPC, epi yo ka telechaje soti nan `Sugarlabs Aktivite "
+"depo a <http: // aktivite. sugarlabs. org / en-US / sik / addon / 4027> `_"
 
 # feb998f2aabf4493974a4e82a2ec630d
 #: ../source/turtleart.rst:19
 msgid ""
 "There are two inter-compatible programs: Turtle Art and Turtle Blocks. "
 "Turtle Art, which closely parallels the Java version of Turtle Art "
-"maintained by Brian Silverman, offers a small subset of the functionality of "
-"Turtle Blocks. Turtle Blocks is the version included in the Sugar "
+"maintained by Brian Silverman, offers a small subset of the functionality of"
+" Turtle Blocks. Turtle Blocks is the version included in the Sugar "
 "distribution. Sugar users probably want to use Turtle Blocks rather than "
 "Turtle Art. (Also see Turtle Confusion, a collection of programming "
 "challenges designed by Barry Newell.)"
 msgstr ""
+"Gen de pwogram entè-konpatib: Turtle Art, ak Turtle blòk. Turtle Art, ki "
+"byen paralèl vèsyon an Java nan Turtle Art konsève pa Brian Silverman, ofri "
+"yon ti gwoup ki sot nan fonksyonalite a nan Turtle blòk. Turtle blòk se "
+"vèsyon an enkli nan distribisyon an Sugar. Itilizatè Sugar pwobableman vle "
+"sèvi ak Turtle blòk olye ke Turtle Art. (Epitou gade Turtle Konfizyon, yon "
+"koleksyon nan defi pwogram ki fèt nan Barry Newell. )"
 
 # fefcf77a1d3a4b90a6e1511f6b5575ee
 #: ../source/turtleart.rst:22
 msgid "Using Turtle Art"
-msgstr ""
+msgstr "Lè l sèvi avèk Turtle Art"
 
 # 0d9158cd999f4215ad99b5afa6b0deca
 #: ../source/turtleart.rst:26
@@ -74,26 +87,33 @@ msgid ""
 "multiple blocks to create drawings; as the turtle moves under your control, "
 "colorful lines are drawn."
 msgstr ""
+"Kòmanse pa klike sou (oswa trenen) blòk soti nan palèt a Turtle. Sèvi ak "
+"blòk miltip yo kreye desen; ."
 
 # 2628e3566f764209a6f9594893c0ac4d
 #: ../source/turtleart.rst:28
 msgid ""
 "You add blocks to your program by clicking on or dragging them from the "
 "palette to the main area. You can delete a block by dragging it back onto "
-"the palette. Click anywhere on a \"stack\" of blocks to start executing that "
-"stack or by clicking in the Rabbit (fast) , Turtle (slow) or Bug (debug) "
+"the palette. Click anywhere on a \"stack\" of blocks to start executing that"
+" stack or by clicking in the Rabbit (fast) , Turtle (slow) or Bug (debug) "
 "buttons |rabit-turtle| on the Project Toolbar."
 msgstr ""
+"Ou ajoute blòk nan pwogram ou pa klike sou oswa antrenman yo soti nan palèt "
+"a nan zòn nan prensipal. Ou ka efase yon blòk pa trenen l 'tounen sou palèt "
+"a. Klike sou nenpòt kote sou yon \"chemine\" nan blòk yo kòmanse egzekite ki"
+" chemine oswa pa klike nan lapen nan (vit), Turtle (ralanti) oswa Bug bouton"
+" (debug) | rabit-tòti | sou ba zouti a Pwojè."
 
 # ee4b853f024a4eef940a9a1b18ee7d01
 #: ../source/turtleart.rst:33
 msgid "Toolbars"
-msgstr ""
+msgstr "Toolbars"
 
 # e091e828697d4da0aa03381a9f3bde0d
 #: ../source/turtleart.rst:36
 msgid "Main Toolbar"
-msgstr ""
+msgstr "Main Toolbar"
 
 # 0eec972228d74fcf8f6baf847de380e9
 # 277fef546f78427aa3cdf4428e7cca9e
@@ -102,17 +122,17 @@ msgstr ""
 #: ../source/turtleart.rst:40 ../source/turtleart.rst:68
 #: ../source/turtleart.rst:95 ../source/turtleart.rst:105
 msgid "From left to right:"
-msgstr ""
+msgstr "De gòch a dwat:"
 
 # 7f817f7b691e42958dadeeceb2448323
 #: ../source/turtleart.rst:42
 msgid "Activity toolbar (includes sharing; saving/loading options);"
-msgstr ""
+msgstr "Toolbar (aktivite an gen ladan pataje; opsyon ekonomize / loading);"
 
 # d2c66c5ffe1841908bcd97f5a1111e2f
 #: ../source/turtleart.rst:43
 msgid "Edit toolbar (including copy and paste);"
-msgstr ""
+msgstr "Toolbar Edit (ki gen ladan kopi ak keratin);"
 
 # 9b66b464fafe40498da16fb6073cd5eb
 #: ../source/turtleart.rst:44
@@ -120,51 +140,53 @@ msgid ""
 "View toolbar (including full-screen, coordinate overlays; turtle status, "
 "etc.);"
 msgstr ""
+"View toolbar (ki gen ladan plen ekran, kowòdone superpositions; estati tòti,"
+" elatriye. );"
 
 # 7764b206fcc6412ea976c38f4942765e
 #: ../source/turtleart.rst:45
 msgid "Palette toolbar (including all programming blocks);"
-msgstr ""
+msgstr "Toolbar palèt (ki gen ladan tout blòk pwogramasyon);"
 
 # 87cbeeecf1da48dc91f8977bcfe7c742
 #: ../source/turtleart.rst:46
 msgid "erase canvas;"
-msgstr ""
+msgstr "efase twal;"
 
 # f38688c731234e6a8e6bfbb2d11c7aea
 #: ../source/turtleart.rst:47
 msgid "run project fast (rabbit);"
-msgstr ""
+msgstr "pwojè kouri vit (lapen);"
 
 # 96b256e122444920814bdb8591702d31
 #: ../source/turtleart.rst:48
 msgid "run project slow (snail);"
-msgstr ""
+msgstr "pwojè kouri ralanti (kalmason);"
 
 # 867e857e0afa44da97b326314f8327fd
 #: ../source/turtleart.rst:49
 msgid "stop project;"
-msgstr ""
+msgstr "sispann pwojè;"
 
 # c7fbaa1e7329424385981519113af2b5
 #: ../source/turtleart.rst:50
 msgid "save a snapshot (save a copy of the current state of the project);"
-msgstr ""
+msgstr "sove yon snapshot (sove yon kopi aktyèl eta de pwojè a);"
 
 # 75c6ea9fd67b45c8ade5dcdaff6d515f
 #: ../source/turtleart.rst:51
 msgid "load examples;"
-msgstr ""
+msgstr "egzanp chaj;"
 
 # 8c47b5c36c8440e9a65c75b54f285a7f
 #: ../source/turtleart.rst:52
 msgid "display help palette;"
-msgstr ""
+msgstr "ekspozisyon èd palèt;"
 
 # 028ac4de59d048a4b2d69afeff1285dd
 #: ../source/turtleart.rst:53
 msgid "stop activity"
-msgstr ""
+msgstr "aktivite sispann"
 
 # 89cd4b50fc234bdfa8e5695c8979e581
 #: ../source/turtleart.rst:55
@@ -173,15 +195,21 @@ msgid ""
 "erase; e.g., Alt+e will erase the screen. Esc will return from full-screen "
 "mode."
 msgstr ""
+"Klavye koupe kout pou pi wo a: Alt + palèt a; . g. , Alt + e pral efase "
+"ekran an. Kompitè ap retounen soti nan plen ekran mòd."
 
 # 1e9b01ee1a384372917ec6a584593bca
 #: ../source/turtleart.rst:57
 msgid ""
-"**Notes:** The run buttons are tied to the Start Block. If no Start Block is "
-"used, then all blocks are run when either run button is clicked. The \"rabbit"
-"\" button runs the blocks at maximum speed. The \"snail\" button pauses and "
-"displays the turtle and block values between each step."
+"**Notes:** The run buttons are tied to the Start Block. If no Start Block is"
+" used, then all blocks are run when either run button is clicked. The "
+"\"rabbit\" button runs the blocks at maximum speed. The \"snail\" button "
+"pauses and displays the turtle and block values between each step."
 msgstr ""
+"** Nòt: ** Bouton sa yo kouri yo se mare nan blòk an Start. Si yo itilize pa"
+" gen okenn blòk Start, Lè sa a, tout blòk yo kouri lè se swa bouton kouri "
+"klike. Bouton an \"lapen\" kouri blòk yo nan vitès maksimòm. \"Kalmason\" "
+"poz yo bouton epi montre tòti ak blòk valè yo ant chak etap."
 
 # 2df73cfd0ef045d69b12a1478068f560
 #: ../source/turtleart.rst:59
@@ -189,74 +217,78 @@ msgid ""
 "On older versions of Sugar (e.g., 0.84), the main toolbar will look like "
 "this:"
 msgstr ""
+"Nan vèsyon ki pi ansyen nan Sugar (e. g. , 0. 84), ba ikòn nan prensipal "
+"pral gade tankou sa a:"
 
 # ec41073b3ec64b6a81d42bd6867f5210
 #: ../source/turtleart.rst:64
 msgid "Project Toolbar"
-msgstr ""
+msgstr "Pwojè Toolbar"
 
 # f6ad5360d428453b93a8727b356a76c4
 #: ../source/turtleart.rst:70
 msgid "Project title;"
-msgstr ""
+msgstr "Tit Pwojè;"
 
 # 060887bcbebb4fb187bcd04808e64ddf
 #: ../source/turtleart.rst:71
 msgid "Write to Journal (on newer versions of Sugar)"
-msgstr ""
+msgstr "Ekri Journal (sou plus vèsyon an Sugar)"
 
 # cf1506f76b654fddb607033811ef196d
 #: ../source/turtleart.rst:72
 msgid "Keep button (not shown; only appears on older Sugar systems)"
-msgstr ""
+msgstr "Kenbe bouton (pa montre; sèlman parèt sou ki pi gran sistèm Sugar)"
 
 # 37fb343c593e43b496492d3b29412310
 #: ../source/turtleart.rst:73
 msgid "Share button;"
-msgstr ""
+msgstr "Bouton Share;"
 
 # 2330c18591b74ae89272bd56fd8671c0
 #: ../source/turtleart.rst:74
 msgid ""
-"Share blocks; shown in disable state. Used to share stacks of blocks between "
-"collaborators."
-msgstr ""
+"Share blocks; shown in disable state. Used to share stacks of blocks between"
+" collaborators."
+msgstr "Share blòk; . Itilize yo pataje pil nan blòk ant kolaboratè."
 
 # 328c7e410a1f43c9886da1a1086b9b99
 #: ../source/turtleart.rst:75
 msgid "Save as image;"
-msgstr ""
+msgstr "Save kòm imaj;"
 
 # cdc479ce6be74ddd840f4f4ac788a7a8
 #: ../source/turtleart.rst:76
 msgid "Save as Logo;"
-msgstr ""
+msgstr "Save kòm Logo;"
 
 # 3830ec95e2504e2aba0a7be492739e1c
 #: ../source/turtleart.rst:77
 msgid "Load a previously saved project from the Sugar Journal;"
-msgstr ""
+msgstr "Chaj yon pwojè deja sove soti nan Sugar Journal a;"
 
 # f91968a319514c149268302f7ef1e0d1
 #: ../source/turtleart.rst:78
 msgid "Load Python code into a programmable block"
-msgstr ""
+msgstr "Chaj Piton Kòd nan yon blòk pwogramasyon"
 
 # b9eec84786794ac99769ab20053cfd69
 #: ../source/turtleart.rst:84
 msgid "**Notes:**"
-msgstr ""
+msgstr "** Nòt: **"
 
 # e0a90e38a3594a6e9096632a4953e949
 #: ../source/turtleart.rst:81
 msgid ""
 "On older Sugar systems, these controls appear on the Import/Export toolbar."
 msgstr ""
+"Nan ki pi gran sistèm Sugar, kontwòl sa yo parèt sou Import / ba zouti a "
+"Export."
 
 # 8ad315a7a1454668a2a316d1847d425d
 #: ../source/turtleart.rst:83
 msgid "On smaller screens, the load/save buttons are shown on a palette."
-msgstr ""
+msgstr "Nan pi piti ekran, chaj la / sove yo montre bouton sou yon palèt."
 
 # 6895ad149bba4e7bad557b606b4a62ab
 #: ../source/turtleart.rst:84
@@ -266,88 +298,99 @@ msgid ""
 "blocks and click. The blocks will be shared and the cursor will change back "
 "to the arrow shape."
 msgstr ""
+"Yo pataje yon pil, klike sou bouton an pataje. Kurseur a ap chanje nan fòm "
+"men Ta-men-kurseur a. png. Mete kurseur a sou nenpòt ki blòk oswa chemine "
+"nan blòk, epi klike. Blòk yo pral pataje ak kurseur a pral chanje tounen nan"
+" fòm nan flèch."
 
 # 9fd7f1038d6947eebeffb585f1617a46
 #: ../source/turtleart.rst:89
 msgid "Edit Toolbar"
-msgstr ""
+msgstr "Edit Toolbar"
 
 # fede8350d5014e09a1bb68fae2700456
 #: ../source/turtleart.rst:93
 msgid ""
 "The Edit toolbar is used to copy stacks of blocks to the clipboard and to "
 "paste stacks from the clipboard. To copy a stack, click on the copy button "
-"or type Ctrl-c. The cursor will change to the hand shape Ta-hand-cursor.png. "
-"Place the cursor on any block or stack of blocks and click. The blocks will "
-"be copied to the Sugar clipboard and the cursor will change back to the "
+"or type Ctrl-c. The cursor will change to the hand shape Ta-hand-cursor.png."
+" Place the cursor on any block or stack of blocks and click. The blocks will"
+" be copied to the Sugar clipboard and the cursor will change back to the "
 "arrow shape. To paste from the clipboard, type Ctrl-v or click the paste "
 "button."
 msgstr ""
+"Se ba ikòn nan Edit itilize a kapab bay kopi pil nan blòk nan papye a ak "
+"kole pil soti nan papye a. A kapab bay kopi yon pil, klike sou bouton an "
+"kopi oswa tape Ctrl-c. Kurseur a ap chanje nan fòm men Ta-men-kurseur a. "
+"png. Mete kurseur a sou nenpòt ki blòk oswa chemine nan blòk, epi klike. "
+"Blòk yo pral kopye nan clipboard a Sugar ak kurseur a pral chanje tounen nan"
+" fòm nan flèch. Kole soti nan papye a, tape Ctrl-v oswa klike sou bouton an "
+"paste."
 
 # ee5a638487c446a58225826bd8087a9e
 #: ../source/turtleart.rst:97
 msgid "Copy"
-msgstr ""
+msgstr "Kopi"
 
 # 0a35f5fb35b94579a1b2a322da7f91b7
 #: ../source/turtleart.rst:98
 msgid "Paste"
-msgstr ""
+msgstr "Kole"
 
 # eb27653efa9647fdb1c83c651f2b1bd3
 #: ../source/turtleart.rst:101
 msgid "View Toolbar"
-msgstr ""
+msgstr "View Toolbar"
 
 # 8bf81427bfb24847913d91f2736fafb8
 #: ../source/turtleart.rst:107
 msgid "Full-screen button;"
-msgstr ""
+msgstr "Bouton Plen ekran;"
 
 # be9ad8d4c7c146d68a4b87269da57d96
 #: ../source/turtleart.rst:108
 msgid "Cartesian-coordinate grid;"
-msgstr ""
+msgstr "Katezyen-kowòdone griy;"
 
 # 09c6d0a32d0447d3a38ba82333a6dbfe
 #: ../source/turtleart.rst:109
 msgid "polar-coordinate grid;"
-msgstr ""
+msgstr "polè-kowòdone griy;"
 
 # 4f2af1cf60e54e3a915ff3d3f4e0725c
 #: ../source/turtleart.rst:110
 msgid "not shown: centimeter-coordinate grid (XO-only);"
-msgstr ""
+msgstr "pa montre: santimèt-kowòdone kadriyaj (XO-sèlman);"
 
 # b6afe6ef2920468d9f9b740c0576ab97
 #: ../source/turtleart.rst:111
 msgid "display of x,y coordinates, heading of turtle;"
-msgstr ""
+msgstr "ekspozisyon nan x, y kowòdone, tit nan tòti;"
 
 # 29afd55903c64cdb861891c8daced00c
 #: ../source/turtleart.rst:112
 msgid "Rescale-coordinates button;"
-msgstr ""
+msgstr "Rescale-kowòdone bouton;"
 
 # 6acf5cb1d4ee426bbd1f67e4b2210976
 #: ../source/turtleart.rst:113
 msgid "Grow block size;"
-msgstr ""
+msgstr "Grandi gwosè blòk;"
 
 # 565f7a90af8f41dd876ca97d4732d981
 #: ../source/turtleart.rst:114
 msgid "Shrink block size"
-msgstr ""
+msgstr "Ratresi gwosè blòk"
 
 # c608569fdc244573ad73c31487ede321
 #: ../source/turtleart.rst:115
 msgid "Disable/enable hover help"
-msgstr ""
+msgstr "Enfim / pèmèt hover èd"
 
 # 7c2022fca7ae4b13baa223824b3e821c
 #: ../source/turtleart.rst:118
 msgid "Palettes Toolbar"
-msgstr ""
+msgstr "Palèt Toolbar"
 
 # 2e8324a017e141cdbbc0e3787da2568e
 #: ../source/turtleart.rst:120
@@ -356,6 +399,9 @@ msgid ""
 "toolbar. (On older Sugar systems, select the Projects toolbar. When running "
 "Turtle Art from GNOME, the palettes are visible by default.)"
 msgstr ""
+"Meni yo palèt yo devwale pa klike sou icon nan blòk sou ba zouti a "
+"prensipal. (Nan ki pi gran sistèm Sugar, chwazi ba ikòn nan Pwojè. Lè kouri "
+"soti nan Turtle Art GNOME, palèt yo yo vizib pa default. )"
 
 # 08b723ee821640c09c8ccb34927bffe7
 #: ../source/turtleart.rst:124
@@ -366,21 +412,26 @@ msgid ""
 "Customization functions; and Presentation blocks. An eleventh palette is "
 "used for restoring blocks from the trash."
 msgstr ""
+"Gen dis palèt nan eleman pwogram ki disponib pou konstriksyon pwogram: "
+"mouvman Turtle; . Yon palèt onzyèm itilize pou restore blòk soti nan fatra "
+"a."
 
 # 5e6e88f1c08f4eafb317727d05e043f8
 #: ../source/turtleart.rst:126
 msgid ""
 "**Note:** Additional palettes may be loaded by plugin extensions to Turtle "
 "Blocks."
-msgstr ""
+msgstr "** Remak: ** palèt Lòt ka chaje pa ekstansyon Plugin Turtle blòk."
 
 # 1f8cae2a5c29435baa329a998d02da66
 #: ../source/turtleart.rst:128
 msgid ""
-"Blocks are dragged from the palette onto the canvas surface. To dispose of a "
-"block, drag it back onto the palette. (It will be placed onto the trash "
+"Blocks are dragged from the palette onto the canvas surface. To dispose of a"
+" block, drag it back onto the palette. (It will be placed onto the trash "
 "palette.)"
 msgstr ""
+"Blòk yo trennen soti nan palèt a sou sifas la twal. Jete tout fatra ki yon "
+"blòk, trennen l 'tounen sou palèt a. (Li pral mete sou palèt an fatra. )"
 
 # 13af8c9e042c4e06af3ea05410786477
 #: ../source/turtleart.rst:131
@@ -389,58 +440,63 @@ msgid ""
 "while the program is executing, is used to reveal the program blocks. "
 "Individual palettes can be hidden by clicking on their highlighted tab."
 msgstr ""
+"Showblocks | | bouton an, ki ranplase bouton an Stop sou ba zouti a "
+"prensipal pandan y ap pwogram nan ap egzekite, se sèvi ak blòk yo revele "
+"pwogram. Palèt Endividyèl kapab kache pa klike sou tab make yo."
 
 # 0db68cb3bdc24282ac4dc1abe976f519
 #: ../source/turtleart.rst:136
 msgid "Turtle Palette"
-msgstr ""
+msgstr "Turtle Palèt"
 
 # 5a369fa9f42b42c8a36f6a88908830d0
 #: ../source/turtleart.rst:140
 msgid "These blocks are used to control the movements of the turtle."
-msgstr ""
+msgstr "Sa yo blòk yo yo te itilize kontwole mouvman yo ki nan tòti a."
 
 # 44fdc7a3f2cb469b90d36ba12a7108e8
 #: ../source/turtleart.rst:142
 msgid "forward: move turtle forward"
-msgstr ""
+msgstr "pou pi devan: deplase tòti pou pi devan"
 
 # 0058d786aa97459ca0b88a414921c5d0
 #: ../source/turtleart.rst:143
 msgid "back: move turtle backward"
-msgstr ""
+msgstr "tounen: deplase tòti bak"
 
 # 3acd55a6bbbf487a9dd464fdf4d332f1
 #: ../source/turtleart.rst:144
 msgid ""
-"clean: clear the screen and position the turtle in the center of the screen, "
-"pen down, color red, heading 0"
+"clean: clear the screen and position the turtle in the center of the screen,"
+" pen down, color red, heading 0"
 msgstr ""
+"pwòp: klè ekran an ak pozisyon tòti a nan sant la nan ekran an, plim desann,"
+" koulè wouj, tit 0"
 
 # dde4fdae92944038b1243f28b7d7c030
 #: ../source/turtleart.rst:145
 msgid "left: rotate turtle counterclockwise"
-msgstr ""
+msgstr "gòch: Thorne envers tòti"
 
 # 0acd601661fa4d9fbd7210fe7e107421
 #: ../source/turtleart.rst:146
 msgid "right: rotate turtle clockwise"
-msgstr ""
+msgstr "dwat: Thorne goch tòti"
 
 # 10ceb9afecd74d8a92c3ddbb893c1ec4
 #: ../source/turtleart.rst:147
 msgid "arc: move turtle along an arc"
-msgstr ""
+msgstr "arc: deplase tòti ansanm yon ak"
 
 # 2219c0eb7a9348a0a9bdefa89fe3146a
 #: ../source/turtleart.rst:148
 msgid "set xy: set turtle x,y position (0,0) is the center of the screen"
-msgstr ""
+msgstr "mete xy: mete tòti x, y pozisyon (0,0) se sant la nan ekran an"
 
 # c0de1e296ee442afbfad8f6a098dfd2d
 #: ../source/turtleart.rst:149
 msgid "seth: set turtle heading"
-msgstr ""
+msgstr "Sèt: seri tòti tit"
 
 # bd3f5c763f2d457fa95bdf1705f65995
 #: ../source/turtleart.rst:150
@@ -448,6 +504,8 @@ msgid ""
 "xcor: holds current x-coordinate value of the turtle (can be used in place "
 "of a number block)"
 msgstr ""
+"xcor: kenbe aktyèl valè x-kowòdone nan tòti a (ka itilize nan plas yon blòk "
+"nimewo)"
 
 # d15f4b01ac1f4b828148302b7dd19c98
 #: ../source/turtleart.rst:151
@@ -455,6 +513,8 @@ msgid ""
 "ycor: holds current y-coordinate value of the turtle (can be used in place "
 "of a number block)"
 msgstr ""
+"ycor: kenbe aktyèl valè y-kowòdone nan tòti a (ka itilize nan plas yon blòk "
+"nimewo)"
 
 # 1f9f5406d2414a9e9af543595bbeb70d
 #: ../source/turtleart.rst:152
@@ -462,38 +522,41 @@ msgid ""
 "heading: holds current heading value of the turtle (can be used in place of "
 "a number block)"
 msgstr ""
+"tit: kenbe aktyèl tit valè de tòti la (ka itilize nan plas yon blòk nimewo)"
 
 # 6d1b8921472f4e90a01dcfc0b0474dfd
 #: ../source/turtleart.rst:155
 msgid "Pen Palette"
-msgstr ""
+msgstr "Pen Palèt"
 
 # a68b5354828d4697b459ebae5c9193d2
 #: ../source/turtleart.rst:159
 msgid "These blocks are used to control the attributes of the turtle's pen."
-msgstr ""
+msgstr "Sa yo blòk yo yo te itilize kontwole atribi ki pou plim tòti a."
 
 # 3eb2d2dd1aa54e26b64198a467d06228
 #: ../source/turtleart.rst:161
 msgid "pen up: turtle will not draw when moved"
-msgstr ""
+msgstr "plim moute: tòti pa pral trase lè deplase"
 
 # 3ab39341e4194c68bb5b7d8356236f95
 #: ../source/turtleart.rst:162
 msgid "pen down: turtle will draw when moved"
-msgstr ""
+msgstr "plim desann: tòti pral trase lè deplase"
 
 # 4a51066a1a5849e98821e34df104116d
 #: ../source/turtleart.rst:163
 msgid "set pen size: sets the width of the line drawn by the turtle"
-msgstr ""
+msgstr "seri plim gwosè: kouche lajè a nan liy lan desine pa tòti a"
 
 # 5f654f2c3ae64651992d1b89713c112b
 #: ../source/turtleart.rst:164
 msgid ""
-"fill screen: fill the screen with a color/shade and reposition the turtle in "
-"the center of the screen"
+"fill screen: fill the screen with a color/shade and reposition the turtle in"
+" the center of the screen"
 msgstr ""
+"ranpli ekran: ranpli ekran an ak yon koulè / lonbraj ak replace tòti a nan "
+"sant la nan ekran an"
 
 # cdcec0b5b5c149ba9e766930e414a56e
 #: ../source/turtleart.rst:165
@@ -501,32 +564,36 @@ msgid ""
 "pen size: width of the line drawn by the turtle (can be used in place of a "
 "number block)"
 msgstr ""
+"plim gwosè: lajè nan jwèt la desine pa tòti a (ka itilize nan plas yon blòk "
+"nimewo)"
 
 # 62596ec0ec50474c90df0ee5e1882a76
 #: ../source/turtleart.rst:166
 msgid "set color: sets the pen color"
-msgstr ""
+msgstr "seri koulè: kouche koulè a ​​plim"
 
 # f5b917ba7f264188807e6d38c1c04a32
 #: ../source/turtleart.rst:167
 msgid "set shade: sets the pen shade"
-msgstr ""
+msgstr "seri lonbraj: kouche lonbraj la plim"
 
 # 9967879556224f639d2098501c4932d5
 #: ../source/turtleart.rst:168
 msgid ""
 "set gray: sets the gray-level of the pen (Only available in Turtle Blocks)"
 msgstr ""
+"mete gri: kouche-nivo nan gri nan plim la (Se sèlman disponib nan Turtle "
+"blòk)"
 
 # 3c3c1186072a462eb9216476ad1aaebc
 #: ../source/turtleart.rst:169
 msgid "color: current pen color (can be used in place of a number block)"
-msgstr ""
+msgstr "koulè: aktyèl koulè plim (ka itilize nan plas yon blòk nimewo)"
 
 # 36e9805b196c48a4ad119384d266fa24
 #: ../source/turtleart.rst:170
 msgid "shade: current pen shade (can be used in place of a number block)"
-msgstr ""
+msgstr "lonbraj: aktyèl lonbraj plim (ka itilize nan plas yon blòk nimewo)"
 
 # 2a60dea498204b628574b75be00ecac4
 #: ../source/turtleart.rst:171
@@ -534,21 +601,23 @@ msgid ""
 "gray: current pen gray level (can be used in place of a number block) (Only "
 "available in Turtle Blocks)"
 msgstr ""
+"gri: aktyèl plim nivo gri (ka itilize nan plas yon blòk nimewo) (Se sèlman "
+"disponib nan Turtle blòk)"
 
 # ab7cc318b0c94c4681b50b310c2c0ae6
 #: ../source/turtleart.rst:172
 msgid "start fill: starts a filled polygon (straight sides, not arcs)"
-msgstr ""
+msgstr "kòmanse ranpli: kòmanse yon poligòn ki te ranpli (bò dwat, pa ark)"
 
 # d821211c2c9e47a89ac0768ee7773408
 #: ../source/turtleart.rst:173
 msgid "end fill: ends a fill polygon (straight sides, not arcs)"
-msgstr ""
+msgstr "fen ranpli: fini yon poligòn ranpli (bò dwat, pa ark)"
 
 # 7d530e2fdc604c5696e5c6e43cfecd7b
 #: ../source/turtleart.rst:176
 msgid "Color Palette"
-msgstr ""
+msgstr "Koulè palèt"
 
 # 3cd24b2adb284ea783078a8b87f6c6f1
 #: ../source/turtleart.rst:180
@@ -556,54 +625,55 @@ msgid ""
 "These blocks can be used with the set-pen-color block in place of a number "
 "block."
 msgstr ""
+"Sa yo blòk ka itilize ak blòk la mete-plim-koulè nan plas yon blòk nimewo."
 
 # 3d28781e787e432ea308ec35bf5c7462
 #: ../source/turtleart.rst:183
 msgid "Numbers Palette"
-msgstr ""
+msgstr "Numbers Palèt"
 
 # 5539ea673fe64174a28adf10b9423eb3
 #: ../source/turtleart.rst:187
 msgid "These blocks are arithmetic and boolean operators."
-msgstr ""
+msgstr "Blòk Sa yo se aritmetik ak Boolean operatè."
 
 # ff697f85132f4e6eae65a9b876b75441
 #: ../source/turtleart.rst:189
 msgid ""
 "addition: adds two numeric inputs (also can be used to concatenate strings)"
-msgstr ""
+msgstr "de sa: ajoute de nimerik entrain (tou ka itilize yo anchene strings)"
 
 # 10be81a829c14921819a4d9ce3b48312
 #: ../source/turtleart.rst:190
 msgid "subtraction: subtracts the bottom numeric input from the top input"
-msgstr ""
+msgstr "soustraksyon: soustrè anba nimerik D 'a soti nan opinyon nan tèt"
 
 # 3c7a80655a474c33ab91ec75b6f4ca40
 #: ../source/turtleart.rst:191
 msgid "multiplication: multiplies two numeric inputs"
-msgstr ""
+msgstr "miltiplikasyon: miltipliye de nimerik entrain"
 
 # a8f5c419143446e682e169bd29b6d20b
 #: ../source/turtleart.rst:192
 msgid "division: divided top input (numerator) by bottom input (denominator)"
-msgstr ""
+msgstr "divizyon: divize tèt D '(nimeratè) pa opinyon anba (denominatè)"
 
 # e8a2aa3a99df45d1afd2d5c35db9ed10
 #: ../source/turtleart.rst:193
 msgid "identity: identity function (used for spacing blocks)"
-msgstr ""
+msgstr "fonksyon idantite (itilize pou blòk espas): idantite"
 
 # d444712b4c314c679b301a428134558a
 #: ../source/turtleart.rst:194
 msgid ""
 "modulo (remainder): calculates remainder when dividing top input by the "
 "bottom input"
-msgstr ""
+msgstr "modulo (rès): kalkile rès lè divize tèt D 'pa D' a anba"
 
 # 4be402e853004044889938d497de7d3e
 #: ../source/turtleart.rst:195
 msgid "square root (Only available with Turtle Blocks)"
-msgstr ""
+msgstr "rasin kare (Se sèlman disponib ak Turtle blòk)"
 
 # 33a3d716b0ac423ab68129cafff4b30a
 #: ../source/turtleart.rst:196
@@ -611,61 +681,63 @@ msgid ""
 "random number: generates a random integer between the minimum and maximum "
 "values"
 msgstr ""
+"nimewo o aza: jenere yon nonb antye relatif o aza ant minimòm nan ak valè "
+"maksimòm"
 
 # 9c8153aa1edb41159cd4f5eb744c9a92
 #: ../source/turtleart.rst:197
 msgid "number block: a numeric input"
-msgstr ""
+msgstr "blòk Nimewo: A nimerik opinyon"
 
 # 5c9c3ca137954b4f9008ae00fc365b52
 #: ../source/turtleart.rst:198
 msgid "greater than: boolean greater than operator (used with flow blocks)"
-msgstr ""
+msgstr "pi gran pase: Boolean pi gran pase operatè (itilize ak koule blòk)"
 
 # 63b716af6dd54ab0b51c2bc29d40caf7
 #: ../source/turtleart.rst:199
 msgid "less than: boolean less than operator (used with flow blocks)"
-msgstr ""
+msgstr "mwens pase: Boolean mwens pase operatè (itilize ak koule blòk)"
 
 # 2e945d826d284bf39e033bdfa05e1ac3
 #: ../source/turtleart.rst:200
 msgid "equal to: boolean equal to operator (used with flow blocks)"
-msgstr ""
+msgstr "egal a: Boolean egal a operatè (itilize ak koule blòk)"
 
 # 390afc203fbf4ac4b61f1d9a9ebd1d8c
 #: ../source/turtleart.rst:201
 msgid "not: boolean not (Only available with Turtle Blocks)"
-msgstr ""
+msgstr "pa: Boolean pa (Se sèlman disponib ak Turtle blòk)"
 
 # fea7d4f656264e948373c3e244e5cd73
 #: ../source/turtleart.rst:202
 msgid "and: boolean and (Only available with Turtle Blocks)"
-msgstr ""
+msgstr "epi: Boolean ak (Se sèlman disponib ak Turtle blòk)"
 
 # 873707bda3a341f38e331215ab56c447
 #: ../source/turtleart.rst:203
 msgid "or: boolean or (Only available with Turtle Blocks)"
-msgstr ""
+msgstr "oswa: Boolean oswa (Se sèlman disponib ak Turtle blòk)"
 
 # a7d96eb1d7484933b1cff3d08a7cc784
 #: ../source/turtleart.rst:206
 msgid "Flow Palette"
-msgstr ""
+msgstr "Flow Palèt"
 
 # bcb610f7f36243f7ab5398e8b8c848aa
 #: ../source/turtleart.rst:210
 msgid "These blocks control program flow."
-msgstr ""
+msgstr "Sa yo blòk kontwole koule pwogram."
 
 # 3daa133bb84b4660b615912f0e320be5
 #: ../source/turtleart.rst:212
 msgid "wait: pause program execution (unit is seconds)"
-msgstr ""
+msgstr "tann: pran yon poz ekzekisyon pwogram (inite se segonn)"
 
 # edce057ffddd4370b1c12c7414dfa1d4
 #: ../source/turtleart.rst:213
 msgid "forever: continuously repeat execute stack under the right flow"
-msgstr ""
+msgstr "pou tout tan: kontinyèlman repete egzekite chemine anba koule a dwat"
 
 # 54c9454c675d435d898cebf12e7594dd
 #: ../source/turtleart.rst:214
@@ -673,6 +745,8 @@ msgid ""
 "repeat: repeat the execution of stack under the right flow a specified "
 "number of times"
 msgstr ""
+"repete: repete ekzekisyon an nan chemine anba dwat a koule yon nimewo ki "
+"espesifye nan fwa"
 
 # a4754632648b49d3a765f8438fadab55
 #: ../source/turtleart.rst:215
@@ -680,6 +754,8 @@ msgid ""
 "if/then: conditional execution of the stack under the right flow (uses "
 "boolean operators found on the Number palette)"
 msgstr ""
+"si / lè: kondisyonèl ekzekisyon nan chemine a anba koule a dwa (sèvi ak "
+"operatè Boolean jwenn sou palèt a Nimewo)"
 
 # 590a5a331a17442aabb8e48d6124e134
 #: ../source/turtleart.rst:216
@@ -687,16 +763,18 @@ msgid ""
 "if/then/else: conditional execution of the stack under the center and right "
 "flows (uses boolean operators found on the Number palette)"
 msgstr ""
+"si / lè / lòt bagay: kondisyonèl ekzekisyon nan chemine a anba sant la ak ap"
+" koule dwa (sèvi ak operatè Boolean jwenn sou palèt a Nimewo)"
 
 # 04bfd74bb9004123a3b6d0e852066c18
 #: ../source/turtleart.rst:217
 msgid "vertical spacer"
-msgstr ""
+msgstr "spacer vètikal"
 
 # 58e822f783a04a2d8ef6ee2bb025c393
 #: ../source/turtleart.rst:218
 msgid "stop stack: interrupt execution"
-msgstr ""
+msgstr "sispann chemine: entèwonp ekzekisyon"
 
 # 98dc43cd601543f4ac074b3b67fa4fd5
 #: ../source/turtleart.rst:219
@@ -705,6 +783,9 @@ msgid ""
 "boolean operators found on the Number palette) (Only available with Turtle "
 "Blocks)"
 msgstr ""
+"pandan y ap: egzekite chemine anba dwat koule pandan y ap kondisyon an se "
+"laverite (sèvi ak operatè Boolean jwenn sou palèt a Nimewo) (Se sèlman "
+"disponib ak Turtle blòk)"
 
 # 1c7cef55eeea4bc2a41c4457feb6c9e3
 #: ../source/turtleart.rst:220
@@ -713,6 +794,9 @@ msgid ""
 "boolean operators found on the Number palette) (Only available with Turtle "
 "Blocks)"
 msgstr ""
+"jouk: egzekite chemine anba dwat koule jiskaske kondisyon an se laverite "
+"(sèvi ak operatè Boolean jwenn sou palèt a Nimewo) (Se sèlman disponib ak "
+"Turtle blòk)"
 
 # 5b66d90efadf44cc80205b941b8bede6
 #: ../source/turtleart.rst:222
@@ -721,21 +805,24 @@ msgid ""
 "encounter an error, try putting the nested block in a separate stack, "
 "accessed with an action block."
 msgstr ""
+"** Remak: ** anbwatman pandan y ap ak / oswa jiskaske blòk se pa toujou "
+"serye. Si ou rankontre yon erè, eseye mete blòk la enbrike nan yon chemine "
+"ki apa a, jwenn aksè ak yon blòk aksyon."
 
 # a3af757827184ac883dec3df648c1b08
 #: ../source/turtleart.rst:225
 msgid "Blocks Palette"
-msgstr ""
+msgstr "Blòk Palèt"
 
 # 1685b33616454b169c843c153442bbec
 #: ../source/turtleart.rst:229
 msgid "These blocks are for defining variables and subroutines."
-msgstr ""
+msgstr "Blòk sa yo se pou defini varyab ak subroutines."
 
 # 7c353158facd423a9b68d377271ba453
 #: ../source/turtleart.rst:231
 msgid "start: connects action to toolbar 'Run' button"
-msgstr ""
+msgstr "kòmanse: konekte aksyon nan ba ikòn bouton 'kouri'"
 
 # 7beb150912194f16ace614be40bf3e52
 #: ../source/turtleart.rst:232
@@ -743,6 +830,8 @@ msgid ""
 "store in box 1: store a number, string, or media object in box 1 (Only "
 "available with Turtle Blocks)"
 msgstr ""
+"magazen nan ti bwat 1: magazen yon nimewo, fisèl, oswa medya objè nan ti "
+"bwat 1 (sèlman ki disponib ak Turtle blòk)"
 
 # 9d0225b2d19044d1b8c1c575b25f44e6
 #: ../source/turtleart.rst:233
@@ -750,87 +839,106 @@ msgid ""
 "store in box 2: store a number, string, or media object in box 2 (Only "
 "available with Turtle Blocks)"
 msgstr ""
+"magazen nan ti bwat 2: magazen yon nimewo, fisèl, oswa medya objè nan ti "
+"bwat 2 (Se sèlman disponib ak Turtle blòk)"
 
 # 0df31d3a4a1c4a5686fda12d5661d160
 #: ../source/turtleart.rst:234
 msgid "text: string input"
-msgstr ""
+msgstr "tèks: fisèl D '"
 
 # 2a9f493d740f4cc19238dc4db22f7c3d
 #: ../source/turtleart.rst:235
 msgid ""
-"box 1: current value of box 1 (can be used in place of a number block) (Only "
-"available with Turtle Blocks)"
+"box 1: current value of box 1 (can be used in place of a number block) (Only"
+" available with Turtle Blocks)"
 msgstr ""
+"bwat 1: valè aktyèl la nan bwat 1 (ka itilize nan plas yon blòk nimewo) (Se "
+"sèlman disponib ak Turtle blòk)"
 
 # 153a41016eb84d5e88c13db7c308684c
 #: ../source/turtleart.rst:236
 msgid ""
-"box 2: current value of box 2 (can be used in place of a number block) (Only "
-"available with Turtle Blocks)"
+"box 2: current value of box 2 (can be used in place of a number block) (Only"
+" available with Turtle Blocks)"
 msgstr ""
+"bwat 2: valè aktyèl la nan bwat 2 (ka itilize nan plas yon blòk nimewo) (Se "
+"sèlman disponib ak Turtle blòk)"
 
 # d5613dc8150448a89ba66c722700a6eb
 #: ../source/turtleart.rst:237
 msgid ""
 "box: current value of named box (can be used in place of a number block)"
 msgstr ""
+"bwat: valè aktyèl la nan yo te rele bwat (yo ka itilize nan plas yon blòk "
+"nimewo)"
 
 # a9c9abcde5bf465fb53c4ac114db2083
 #: ../source/turtleart.rst:238
 msgid "store in: store a number, string, or media object in a named box"
 msgstr ""
+"magazen an: magazen yon nimewo, fisèl, oswa medya objè nan yon bwat ki te "
+"rele"
 
 # de41997f0e1848feb17c193eb6d540f1
 #: ../source/turtleart.rst:239
 msgid "action: top of named action stack"
-msgstr ""
+msgstr "aksyon: yo te rele tèt aksyon chemine"
 
 # 7cc32f853b0c422ba0cc8809760a9e8d
 #: ../source/turtleart.rst:240
 msgid "action 1: top of action 1 stack (Only available with Turtle Blocks)"
 msgstr ""
+"aksyon 1: tèt nan aksyon 1 chemine (Se sèlman disponib ak Turtle blòk)"
 
 # 3164c6ec5d1b4f26bbd03c372f9c59cc
 #: ../source/turtleart.rst:241
 msgid "action 2: top of action 2 stack (Only available with Turtle Blocks)"
 msgstr ""
+"aksyon 2: tèt nan aksyon 2 chemine (Se sèlman disponib ak Turtle blòk)"
 
 # a3977dd5e22949fc8e99a47207288804
 #: ../source/turtleart.rst:242
 msgid "action: execute named action stack"
-msgstr ""
+msgstr "aksyon: egzekite yo te rele aksyon chemine"
 
 # 7e3bb6e8b112483bb1f9ceea4df9c828
 #: ../source/turtleart.rst:243
 msgid "action 2: execute action 2 stack (Only available with Turtle Blocks)"
 msgstr ""
+"aksyon 2: egzekite aksyon 2 chemine (Se sèlman disponib ak Turtle blòk)"
 
 # 2548fa7996a44dc6a07518967b995fb9
 #: ../source/turtleart.rst:244
 msgid "action 1: execute action 1 stack (Only available with Turtle Blocks)"
 msgstr ""
+"aksyon 1: egzekite aksyon 1 chemine (Se sèlman disponib ak Turtle blòk)"
 
 # 7cbf9caed3524e0db681008c23181065
 #: ../source/turtleart.rst:246
 msgid ""
-"**Note:** When a named action or named box block are used, new blocks appear "
-"on the palette that correspond to these names; e.g., if a top of action "
+"**Note:** When a named action or named box block are used, new blocks appear"
+" on the palette that correspond to these names; e.g., if a top of action "
 "stack is rename, \"to square\", an action block, \"to square\" is added to "
 "the palette."
 msgstr ""
+"** Remak: ** Lè yo te itilize yon aksyon yo te rele oswa rele bwat blòk, "
+"blòk nouvo parèt sou palèt an ki koresponn ak sa yo non; . g. , Si yon tèt "
+"nan aksyon pil se chanje non, \"nan kare kare\", yon blòk aksyon, \"nan kare"
+" kare\" se ajoute nan palèt a."
 
 # 6cb2575d8d804355b29f656a125852b8
 #: ../source/turtleart.rst:249
 msgid "Sensors Palette"
-msgstr ""
+msgstr "Detektè Palèt"
 
 # 6a379d682c0a408dbd614bbf0408a99e
 #: ../source/turtleart.rst:253
 msgid ""
-"query keyboard: check for keyboard input (results are stored in the keyboard "
-"block)"
+"query keyboard: check for keyboard input (results are stored in the keyboard"
+" block)"
 msgstr ""
+"query klavye: tcheke pou D 'klavye (rezilta yo estoke nan blòk la klavye)"
 
 # 94e97ccc55b24430bf0f7bfea437c617
 #: ../source/turtleart.rst:254
@@ -838,6 +946,7 @@ msgid ""
 "keyboard: current value of keyboard input (can be used in place of a number "
 "block)"
 msgstr ""
+"klavye: valè aktyèl la nan D 'klavye (ka itilize nan plas yon blòk nimewo)"
 
 # aa2d84e7cc094ce7ad95ee624a620f2a
 #: ../source/turtleart.rst:255
@@ -845,61 +954,63 @@ msgid ""
 "read pixel: push the RGB value of the pixel under the turtle onto the FILO "
 "(blue is first, red is last)"
 msgstr ""
+"li pixel: pouse valè a rgb nan pixel a anba tòti la sou Filo a (ble se "
+"premye, wouj se dènye)"
 
 # 2212307c20a94594a1278ac4130c7cb9
 #: ../source/turtleart.rst:256
 msgid "turtle sees: the \"palette color\" of the pixel under the turtle"
-msgstr ""
+msgstr "tòti wè: \"koulè a ​​palèt\" nan pixel a anba tòti a"
 
 # 1593a325510b4aa2b967e059387f8182
 #: ../source/turtleart.rst:257
 msgid "time: number of seconds since program began"
-msgstr ""
+msgstr "tan: kantite segonn depi pwogram te kòmanse"
 
 # 0dd2746a64b64463ab4780c68decfbb0
 #: ../source/turtleart.rst:258
 msgid "sound: raw data from microphone ranging -32000 to 32000"
-msgstr ""
+msgstr "son: done anvan tout koreksyon soti nan mikwofòn sòti -32000 32000"
 
 # d7664dc8468e4f47973248a325e3823c
 #: ../source/turtleart.rst:259
 msgid "volume (loudness): ranging 0 to 32000"
-msgstr ""
+msgstr "volim (volim): sòti 0 a 32000"
 
 # c6c4891ce6af46c5a07c48c7c966ff41
 #: ../source/turtleart.rst:260
 msgid "pitch: the resolution is +-8Hz"
-msgstr ""
+msgstr "anplasman: rezolisyon an se + -8Hz"
 
 # aba5e7e9f9ab4e55b7535e87b80205f2
 #: ../source/turtleart.rst:261
 msgid "brightness: average luminance seen through camera"
-msgstr ""
+msgstr "klète: mwayèn luminans wè nan kamera"
 
 # b3483a0347a544d5beadab4766411265
 #: ../source/turtleart.rst:262
 msgid "camera: grab image from camera"
-msgstr ""
+msgstr "kamera: gen tan pwan imaj ki soti nan kamera"
 
 # 7091724198de452ebe15293f73e0b7d4
 #: ../source/turtleart.rst:263
 msgid "button down: current state of the mouse button (1 == down; 0 == ip)"
-msgstr ""
+msgstr "bouton desann: aktyèl eta de bouton an sourit (1 == desann; 0 IP ==)"
 
 # 0ce6d24a530d4e26b4d9a59cbd70becb
 #: ../source/turtleart.rst:264
 msgid "mouse x: x position of mouse"
-msgstr ""
+msgstr "sourit x: x pozisyon nan sourit"
 
 # 51f77a10fa2b4f56a7bf024a2a5b58b6
 #: ../source/turtleart.rst:265
 msgid "mouse y: y position of mouse"
-msgstr ""
+msgstr "sourit y: y pozisyon nan sourit"
 
 # dec7aef9c5b34bb187d279b9578cef2b
 #: ../source/turtleart.rst:267
 msgid "The OLPC XO can measure external inputs with its microphone jack:"
-msgstr ""
+msgstr "OLPC XO a ka mezire entrain ekstèn ak jack mikwofòn li yo:"
 
 # 4c56f30c8a154550be555d906ec87f7e
 #: ../source/turtleart.rst:269
@@ -907,18 +1018,22 @@ msgid ""
 "resistance: measurement range is 750 to 14k ohms, (OLPC XO1) and 2k ohms to "
 "open circuit (OLPC XO1.5)"
 msgstr ""
+"rezistans: seri mezi se 750 14k om, (OLPC XO1) ak 2K om yo louvri chan de "
+"kous (OLPC XO1. 5)"
 
 # ca1551fce34f488bb6474d37b2b8ddbe
 #: ../source/turtleart.rst:270
 msgid ""
-"voltage: measurement range is DC 0.4V to 1.85V. (OLPC XO1) and 0.17V to 3.0V "
-"(OLPC XO1.5)"
+"voltage: measurement range is DC 0.4V to 1.85V. (OLPC XO1) and 0.17V to 3.0V"
+" (OLPC XO1.5)"
 msgstr ""
+"vòltaj: seri mezi se DC 0. 4V nan 1. 85V. (OLPC XO1) ak 0. 17V nan 3. 0V "
+"(OLPC XO1. 5)"
 
 # 90eba565a3114b82b1a30b966097ea55
 #: ../source/turtleart.rst:272
 msgid "The OLPC XO 1.75 also includes an accelerometer."
-msgstr ""
+msgstr "OLPC XO 1 nan. 75 gen ladan tou yon akseleromètr."
 
 # d21e21abe0e94c088a7302d5cbbd8bf4
 #: ../source/turtleart.rst:274
@@ -927,19 +1042,25 @@ msgid ""
 "are pushed to the stack and can be retrieved by using 3 'pop' blocks (one "
 "for X (horizontal), one for Y (vertical), and one for Z (forward/backward))"
 msgstr ""
+"akselere (pa montre): mezire akselerasyon an nan òdinatè a. Rezilta yo pouse"
+" chemine a epi yo ka Retrieved lè l sèvi avèk 3 'pòp' blòk (youn pou X "
+"(orizontal), yonn pou Y (vètikal), ak yonn pou Z (pou pi devan / bak))"
 
 # 30d2f47422694562a9466710ffa64903
 #: ../source/turtleart.rst:276
 msgid ""
-"See `Using Turtle Art Sensors <http://wiki.sugarlabs.org/go/Activities/"
-"Turtle_Art/Using_Turtle_Art_Sensors>`_ for more details about the sensor "
-"blocks."
+"See `Using Turtle Art Sensors "
+"<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Using_Turtle_Art_Sensors>`_"
+" for more details about the sensor blocks."
 msgstr ""
+"Wè `Sèvi Turtle Art Detektè <http: // wiki. sugarlabs. org / ale / Aktivite "
+"/ Turtle_Art / Using_Turtle_Art_Sensors> `_ pou plis detay sou blòk yo "
+"Capteur."
 
 # f1a57cd679d34f3dbf61b32913c65575
 #: ../source/turtleart.rst:279
 msgid "Media Palette"
-msgstr ""
+msgstr "Media Palèt"
 
 # 44b74f426d494cf0b5a0281bb79936bf
 #: ../source/turtleart.rst:283
@@ -947,6 +1068,8 @@ msgid ""
 "These are a collection of blocks used for displaying media objects, such as "
 "images from the Journal."
 msgstr ""
+"Sa yo se yon koleksyon nan blòk itilize pou montre medya objè, tankou imaj "
+"ki soti nan Journal la."
 
 # f9584adca329454485c7bf4483581de6
 #: ../source/turtleart.rst:285
@@ -954,21 +1077,23 @@ msgid ""
 "journal: Sugar Journal media object (used with show block) (also available "
 "in Turtle Art)"
 msgstr ""
+"jounal: Sugar Journal medya objè (itilize ak montre blòk) (disponib tou nan "
+"Turtle Art)"
 
 # 2cb0e2763169485c86b748928e47c215
 #: ../source/turtleart.rst:286
 msgid "audio: Sugar Journal media object (used with show block)"
-msgstr ""
+msgstr "odyo: Sugar Journal medya objè (itilize ak montre blòk)"
 
 # 5642a0015f2142c4a7dcdb52bae21903
 #: ../source/turtleart.rst:287
 msgid "video: Sugar Journal media object (used with show block)"
-msgstr ""
+msgstr "videyo: Sugar Journal medya objè (itilize ak montre blòk)"
 
 # b19b931d23d64355a2a986acfcf83e6b
 #: ../source/turtleart.rst:288
 msgid "description: Sugar Journal description field (used with show block)"
-msgstr ""
+msgstr "Deskripsyon: Sugar Journal jaden deskripsyon (itilize ak montre blòk)"
 
 # a837947e2e96449e991e66dbe94c338a
 #: ../source/turtleart.rst:289
@@ -976,16 +1101,18 @@ msgid ""
 "text: text string (used with show block; also used with box and action "
 "blocks)"
 msgstr ""
+"tèks: fisèl tèks (itilize ak montre blòk; tou itilize ak bwat ak aksyon "
+"blòk)"
 
 # 112bcf57492b481e944241c7fc8cb98f
 #: ../source/turtleart.rst:290
 msgid "show: draw text or display media object from the Journal"
-msgstr ""
+msgstr "montre: trase tèks oswa ekspozisyon medya objè nan Journal la"
 
 # 210484f946524190bd2876e4e4e57e3c
 #: ../source/turtleart.rst:291
 msgid "set scale: sets the scale of images displayed with show block"
-msgstr ""
+msgstr "seri echèl: kouche echèl la nan imaj parèt ak montre blòk"
 
 # eb58dfc1b11d4dcb9cdee0d4db06d76c
 #: ../source/turtleart.rst:292
@@ -993,6 +1120,8 @@ msgid ""
 "save picture: save the canvas to the Sugar Journal as a .png image (note: "
 "saves the canvas as displayed)"
 msgstr ""
+"sove foto: sove twal la Sugar Journal a kòm yon. png imaj (nòt: sove twal la"
+" kòm parèt)"
 
 # 055ab77f593449048b005a4a9d2b3638
 #: ../source/turtleart.rst:293
@@ -1000,47 +1129,51 @@ msgid ""
 "save SVG: save turtle graphics to the Sugar Journal as a .svg image (note: "
 "only saves the changes to the canvas in the current execution run)"
 msgstr ""
+"sove SVG: sove tòti grafik Sugar Journal a kòm yon. imaj SVG (sonje: sèlman "
+"ekonomis chanjman yo nan twal la nan ekzekisyon aktyèl kouri nan)"
 
 # 66f15417d20c46e4bfba43a96eee1ba4
 #: ../source/turtleart.rst:294
 msgid "scale: sets scale for show block (100% is full-screen)"
-msgstr ""
+msgstr "echèl: kouche echèl pou montre blòk (100% se plen ekran-)"
 
 # c3e6945832104026a8f5a340133ea3da
 #: ../source/turtleart.rst:295
 msgid "wait for media: used to pause program while audio or video file plays"
 msgstr ""
+"rete tann pou medya: itilize yo pran yon poz pwogram pandan y ap odyo oswa "
+"videyo jwe dosye"
 
 # 916902b33a5541fd8ae00273344ad43a
 #: ../source/turtleart.rst:296
 msgid "media stop: stop current sound or video"
-msgstr ""
+msgstr "medya sispann: sispann son aktyèl oswa videyo"
 
 # 63d9ee5d84e04e22afb4981a52d59b17
 #: ../source/turtleart.rst:297
 msgid "media pause: pause current sound or video"
-msgstr ""
+msgstr "medya pran yon poz: pran yon poz son aktyèl oswa videyo"
 
 # 58888768e1e6407a80f6b9570be4fef5
 #: ../source/turtleart.rst:298
 msgid "media resume: resume playing paused media"
-msgstr ""
+msgstr "medya rezime: rezime jwe medya Sarepta"
 
 # 2382979b3dbb49468146f88c1ce64c09
 #: ../source/turtleart.rst:299
 msgid "speak: sends text to the voice synthesizer"
-msgstr ""
+msgstr "pale: voye tèks nan synthesizer la vwa"
 
 # f37e03d985d64e4e9514614597f9aa62
 #: ../source/turtleart.rst:300
 msgid ""
 "sine wave: plays a sine wave of a given frequency, amplitude, and duration"
-msgstr ""
+msgstr "sinis onn: jwe yon vag sinis nan yon frekans, anplitid, ak dire bay"
 
 # 9a598e72b7114840b6fc204753eb9af1
 #: ../source/turtleart.rst:303
 msgid "Extras Palette"
-msgstr ""
+msgstr "Extras Palèt"
 
 # 704b91d1b8eb4f45ba1bb405551b6754
 #: ../source/turtleart.rst:307
@@ -1048,36 +1181,42 @@ msgid ""
 "These are a collection of extra blocks for accessing advanced features only "
 "available in Turtle Blocks."
 msgstr ""
+"Sa yo se yon koleksyon nan blòk anplis pou aksè karakteristik avanse sèlman "
+"ki disponib nan Turtle blòk."
 
 # f250eb789b30442cb4d2ff317ac73590
 #: ../source/turtleart.rst:309
 msgid "push: push value onto FILO (first-in last-out) heap"
-msgstr ""
+msgstr "pouse: valè pouse sou Filo (premye-nan dènye-soti) pil wòch"
 
 # ad740e554f354186abaab27d3cb0e88d
 #: ../source/turtleart.rst:310
 msgid "show heap: show FILO in status block"
-msgstr ""
+msgstr "montre pil wòch: montre Filo nan blòk estati"
 
 # bdb8537459c647b9bff1e088234a2315
 #: ../source/turtleart.rst:311
 msgid "empty heap: empty the FILO"
-msgstr ""
+msgstr "pil wòch vid: vide Filo a"
 
 # f38b0bfcfa9047208584f4318a9619b9
 #: ../source/turtleart.rst:312
-msgid "pop: pop value off of the FILO (can be used in place of a number block)"
+msgid ""
+"pop: pop value off of the FILO (can be used in place of a number block)"
 msgstr ""
+"valè pòp koupe nan Filo a (yo ka itilize nan plas yon blòk nimewo): pòp"
 
 # fcccad3f34e94d51b904d7c282c49a52
 #: ../source/turtleart.rst:313
 msgid "print: print value in status block (also available in Turtle Art)"
 msgstr ""
+"ekri ak lèt ​​detache: valè ekri ak lèt ​​detache nan blòk estati (disponib "
+"tou nan Turtle Art)"
 
 # 8800e3fd7343464a84200a6635a1fe5f
 #: ../source/turtleart.rst:314
 msgid "comment: program comment (displayed in \"walk\" mode)"
-msgstr ""
+msgstr "kòmantè: kòmantè pwogram (parèt nan \"mache\" mòd)"
 
 # ecc325279c514ee7996cd941bc7fc652
 #: ../source/turtleart.rst:315
@@ -1085,16 +1224,18 @@ msgid ""
 "chr: Python chr primitive: converts ASCII to character (useful for "
 "converting keyboard input to text)"
 msgstr ""
+"chr: Piton chr primitif: konvèti ASCII nan karaktè (itil pou konvèti opinyon"
+" klavye nan tèks)"
 
 # 0a91e88107df4bc5b534034161ec2ee5
 #: ../source/turtleart.rst:316
 msgid "int: Python int primitive: converts input to integers"
-msgstr ""
+msgstr "int: Piton Int primitif: konvèti opinyon nonm antye"
 
 # a2dfa94b549e4f2e94e0097c419d888a
 #: ../source/turtleart.rst:317
 msgid "Python: a programmable block (can be used in place of a number block)"
-msgstr ""
+msgstr "Piton: yon blòk pwogramasyon (ka itilize nan plas yon blòk nimewo)"
 
 # 6e40a53c36c64919a49b7d5d0bcd193e
 #: ../source/turtleart.rst:319
@@ -1102,6 +1243,8 @@ msgid ""
 "add your own math equation in the block, e.g., sin(x); This block is "
 "expandable to support up to three variables, e.g. f(x,y,z)"
 msgstr ""
+"ajoute ekwasyon pwòp matematik ou a nan blòk, e. g. , Peche (x); . g. f (x, "
+"y, z)"
 
 # 5f0151c461d64343b4ac7c8f3ff93933
 #: ../source/turtleart.rst:321
@@ -1110,21 +1253,24 @@ msgid ""
 "purpose programmable block). This block accepts a single variable x, as an "
 "input or up to 3 variables as an array x[0], x[1] and x[2]"
 msgstr ""
+"Import Piton: enpòte Kòd Piton soti nan Sugar Journal la (yon plis jeneral-"
+"bi blòk pwogramasyon). Blòk Sa a aksepte yon sèl x varyab, kòm yon opinyon "
+"oswa jiska 3 varyab kòm yon etalaj x [0], x [1] ak x [2]"
 
 # 2046956218134adaa6ae5561f88f363c
 #: ../source/turtleart.rst:322
 msgid "Cartesian: display Cartesian coordinate grid overlay"
-msgstr ""
+msgstr "Katezyen: ekspozisyon katezyen kowòdone kadriyaj kouvri"
 
 # 00a625bb44404868b4230703ce2301c2
 #: ../source/turtleart.rst:323
 msgid "polar: display polar coordinate grid overlay"
-msgstr ""
+msgstr "polè: ekspozisyon polè kowòdone kadriyaj kouvri"
 
 # fadc1bff48284a10a1698008d434a790
 #: ../source/turtleart.rst:324
 msgid "turtle: specify which turtle is active"
-msgstr ""
+msgstr "tòti: presize ki tòti se aktif"
 
 # 7d40dd9458c34202b1de512f20d074e3
 #: ../source/turtleart.rst:325
@@ -1132,16 +1278,18 @@ msgid ""
 "turtle shell: import a image from the Journal to use as the turtle's "
 "'shell', i.e., replace the turtle with a sprite."
 msgstr ""
+"tòti koki: enpòte yon imaj soti nan Journal la yo itilize kòm 'koki' tòti a,"
+" mwen. ak. , Ranplase tòti a ak yon luten."
 
 # 8e25251ceb984f648293d4db26f2bb1c
 #: ../source/turtleart.rst:326
 msgid "sandwich clamp: \"clamp\" a stack of blocks to hide"
-msgstr ""
+msgstr "sandwich kranpon: \"kranpon\" yon pil nan blòk yo kache"
 
 # ae3ba9ec9a16451fac95609a2c6abf66
 #: ../source/turtleart.rst:329
 msgid "Portfolio Palette"
-msgstr ""
+msgstr "Portfolio Palèt"
 
 # 12fb4e8b7b4240a2a6fa5aef68af26af
 #: ../source/turtleart.rst:333
@@ -1149,6 +1297,8 @@ msgid ""
 "These blocks are used to make multimedia presentations only available in "
 "Turtle Blocks."
 msgstr ""
+"Sa yo blòk yo yo te itilize fè prezantasyon miltimedya sèlman ki disponib "
+"nan Turtle blòk."
 
 # f052156324b545e2bd0c1a7cb8cdd346
 #: ../source/turtleart.rst:335
@@ -1156,6 +1306,8 @@ msgid ""
 "hide blocks: hides all blocks and palettes (useful for decluttering the "
 "screen during presentations) (also available in Turtle Art)"
 msgstr ""
+"kache blòk: kache tout blòk ak palèt (itil pou decluttering ekran an pandan "
+"prezantasyon) (disponib tou nan Turtle Art)"
 
 # 80fde354068b44f49eb87398b5e943dc
 #: ../source/turtleart.rst:336
@@ -1163,18 +1315,20 @@ msgid ""
 "show blocks: shows blocks and palettes (useful for resuming programming "
 "after a presentation)"
 msgstr ""
+"blòk montre: montre blòk ak palèt (itil pou reprenan pwogram apre yon "
+"prezantasyon)"
 
 # b11fd0a2dc434590aae395dcf7fb391b
 #: ../source/turtleart.rst:337
 msgid "full screen: goes into full-screen mode (hides Sugar toolbars)"
-msgstr ""
+msgstr "plen ekran: ale nan mòd plen ekran-(kache Sugar bar)"
 
 # 56e4f245cf43463da7b141f722980dc4
 #: ../source/turtleart.rst:338
 msgid ""
 "list slide: used for bulleted lists; This block is expandable, allowing you "
 "to add as many bullets as you need"
-msgstr ""
+msgstr "lis glise: itilize pou lis pus;"
 
 # 39da187b4fdb4edc8ffd294bb57ce6ab
 #: ../source/turtleart.rst:339
@@ -1184,7 +1338,7 @@ msgstr ""
 # b3c8358023954c2692193ad070fae1cb
 #: ../source/turtleart.rst:341
 msgid "Only available in Turtle Blocks:"
-msgstr ""
+msgstr "Se sèlman disponib nan Turtle blòk:"
 
 # 46e428f8b0654f3e8f7e423059e29469
 #: ../source/turtleart.rst:343
@@ -1192,6 +1346,8 @@ msgid ""
 "left: holds current x-coordinate value of the left edge of the screen (can "
 "be used in place of a number block)"
 msgstr ""
+"gòch: kenbe aktyèl valè x-kowòdone nan kwen an kite nan ekran an (ka itilize"
+" nan plas yon blòk nimewo)"
 
 # d1d27453ef8f4b5a8dfe801475e10856
 #: ../source/turtleart.rst:344
@@ -1199,13 +1355,17 @@ msgid ""
 "top: holds current y-coordinate value of the top edge of the screen (can be "
 "used in place of a number block)"
 msgstr ""
+"tèt: kenbe aktyèl valè y-kowòdone nan kwen an tèt nan ekran an (ka itilize "
+"nan plas yon blòk nimewo)"
 
 # 510a06382f4145d5aaef6a23ef12ef00
 #: ../source/turtleart.rst:345
 msgid ""
-"right: holds current x-coordinate value of the right edge of the screen (can "
-"be used in place of a number block)"
+"right: holds current x-coordinate value of the right edge of the screen (can"
+" be used in place of a number block)"
 msgstr ""
+"dwa: kenbe aktyèl valè x-kowòdone nan kwen an dwa nan ekran an (ka itilize "
+"nan plas yon blòk nimewo)"
 
 # 759eb3bb9b834604ba9c1a6b54231099
 #: ../source/turtleart.rst:346
@@ -1213,16 +1373,18 @@ msgid ""
 "bottom: holds current y-coordinate value of the bottom edge of the screen "
 "(can be used in place of a number block)"
 msgstr ""
+"anba: kenbe aktyèl valè y-kowòdone nan kwen anba a nan ekran an (ka itilize "
+"nan plas yon blòk nimewo)"
 
 # 0efb5b15d74641aa870bf30c49f9fbef
 #: ../source/turtleart.rst:347
 msgid "width: screen width (can be used in place of a number block)"
-msgstr ""
+msgstr "lajè: lajè ekran (ka itilize nan plas yon blòk nimewo)"
 
 # 6984a3ccfddb4a6fa6bbbae0bced31c1
 #: ../source/turtleart.rst:348
 msgid "height: screen height (can be used in place of a number block)"
-msgstr ""
+msgstr "wotè: wotè ekran (ka itilize nan plas yon blòk nimewo)"
 
 # dd25a7e7c9264f19b91add8e9760c39c
 #: ../source/turtleart.rst:350
@@ -1230,11 +1392,13 @@ msgid ""
 "**Note:** The slide blocks expand into stacks that can be edited for "
 "customized presentations."
 msgstr ""
+"** Remak: ** Blòk yo glise elaji nan pil ki ka revize pou prezantasyon "
+"Customized."
 
 # 687add31d7604ce6aab5a2610cfd5e50
 #: ../source/turtleart.rst:353
 msgid "Trash Palette"
-msgstr ""
+msgstr "Palèt fatra"
 
 # 254b00de001043d692eb1766ffa176dc
 #: ../source/turtleart.rst:357
@@ -1243,11 +1407,14 @@ msgid ""
 "blocks out of the trash to restore them. The trash palette is emptied when "
 "you quit Turtle Art."
 msgstr ""
+"Palèt Sa a kenbe nenpòt blòk ki te mete nan fatra a. Ou ka trennen blòk soti"
+" nan fatra a retabli yo. Se palèt a fatra vide rès dlo lè ou kite Turtle "
+"Art."
 
 # d9d5ce6d15e44436a53aa9b468dbb071
 #: ../source/turtleart.rst:360
 msgid "Vertical palettes"
-msgstr ""
+msgstr "Palèt Vètikal"
 
 # e71f48d2310d4bab920bd7093544d017
 #: ../source/turtleart.rst:364
@@ -1255,51 +1422,71 @@ msgid ""
 "An example of a vertical palette. Vertical palettes are used by default on "
 "the OLPC XO laptops running older versions of Sugar."
 msgstr ""
+"Yon egzanp sou yon palèt vètikal. Palèt Vètikal yo te itilize pa default sou"
+" laptops yo XO OLPC kouri vèsyon ki pi ansyen nan Sugar."
 
 # 2560e521550c49ffb4cd6b114496382a
 #: ../source/turtleart.rst:368
 msgid "Learning with Turtle Art"
-msgstr ""
+msgstr "Aprann ak Turtle Art"
 
 # 856edf7ac5d1449ca7500257c375d512
 #: ../source/turtleart.rst:370
 msgid ""
-"Tony Forster and Mokurai have created a number of Activities/Turtle Art/"
-"Tutorials Turtle Art Tutorials on a wide range of math, programming, art, "
-"and Computer Science topics. There is also a substantial literature of "
-"educational materials using the Logo programming language, from which Turtle "
-"Art and Turtle Blocks derive. The Exploring with Logo series from MIT Press "
-"is particularly recommended for showing how far beyond simple graphics Logo "
-"can go. Mokurai recommends starting with his first three, specifically "
-"designed for helping beginners of all ages, starting with the preliterate in "
-"preschool."
+"Tony Forster and Mokurai have created a number of Activities/Turtle "
+"Art/Tutorials Turtle Art Tutorials on a wide range of math, programming, "
+"art, and Computer Science topics. There is also a substantial literature of "
+"educational materials using the Logo programming language, from which Turtle"
+" Art and Turtle Blocks derive. The Exploring with Logo series from MIT Press"
+" is particularly recommended for showing how far beyond simple graphics Logo"
+" can go. Mokurai recommends starting with his first three, specifically "
+"designed for helping beginners of all ages, starting with the preliterate in"
+" preschool."
 msgstr ""
+"Tony Forster ak Mokurai te kreye yon nimewo nan Aktivite / Turtle Art / "
+"Leson patikilye Turtle Art Leson patikilye sou nan yon pakèt domèn "
+"matematik, pwogram, atizay, ak sijè Syans enfòmatik. Genyen tou yon literati"
+" sibstansyèl nan materyèl edikasyonèl lè l sèvi avèk lang nan pwogram Logo, "
+"ki soti nan ki Turtle Art, ak Turtle Blòk dériver. Se patikilyèman rekòmande"
+" nan Eksplore ak seri Logo soti nan MIT Press pou ki montre ki jan byen lwen"
+" dèyè grafik senp Logo ka ale. Mokurai rekòmande pou kòmanse ak premye twa l"
+" 'yo, ki fèt espesyalman pou ede débutan ki gen tout laj, kòmanse avèk "
+"preliterate la nan lekòl matènèl."
 
 # eb8d48685af2453a92bf5414cc9612de
 #: ../source/turtleart.rst:372
 msgid ""
-"`You be the Turtle <http://wiki.sugarlabs.org/go/Activities/Turtle_Art/"
-"Tutorials/You_be_the_Turtle>`_ without the computer."
+"`You be the Turtle "
+"<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/You_be_the_Turtle>`_"
+" without the computer."
 msgstr ""
+"`Ou dwe Turtle an <http: // wiki. sugarlabs. org / ale / Aktivite / "
+"Turtle_Art / Leson patikilye / You_be_the_Turtle> `_ san yo pa òdinatè a."
 
 # 852f5dee2f7841a39bb97a541cf13c0a
 #: ../source/turtleart.rst:373
 msgid ""
-"`Mathematics and art <http://wiki.sugarlabs.org/go/Activities/Turtle_Art/"
-"Tutorials/Mathematics_and_art>`_, an introduction to TA."
+"`Mathematics and art "
+"<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Mathematics_and_art>`_,"
+" an introduction to TA."
 msgstr ""
+"`Matematik ak atizay <http: // wiki. sugarlabs. org / ale / Aktivite / "
+"Turtle_Art / Leson patikilye / Mathematics_and_art> `_, yon entwodiksyon sou"
+" TA."
 
 # 6576f3e7e9494f368fd266b1523cafe6
 #: ../source/turtleart.rst:374
 msgid ""
-"`Counting <http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/"
-"Counting>`_"
+"`Counting "
+"<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Counting>`_"
 msgstr ""
+"`Konte <http: // wiki. sugarlabs. org / ale / Aktivite / Turtle_Art / Leson "
+"patikilye / Konte> `_"
 
 # 287ae08f1e8d47bbb0aef7b4e8de17bc
 #: ../source/turtleart.rst:377
 msgid "Extending Turtle Art"
-msgstr ""
+msgstr "Pwolonje Turtle Art"
 
 # febb70598a1d49f68b1df9da0a2f8157
 #: ../source/turtleart.rst:379
@@ -1312,24 +1499,34 @@ msgid ""
 "graphing program, but there is no inherent limit on what capabilities of "
 "Python one can add to TA."
 msgstr ""
+"Gen vèsyon nan Turtle Art nan plizyè lang programmation ak anviwònman, ki "
+"gen ladan Logo, Piton, smaltolk, ak lòt moun. Turtle Atizay ka ekspòtasyon "
+"pwogram nan Logo, jan yo eksplike pi ba a. Gen blòk pwogramasyon nan Turtle "
+"Art ki fè li posib genyen ladan yo nenpòt pwogram Piton nan mond lan Turtle "
+"Art. Ka a ki pi senp se yon apèl fonksyon sèl itilize nan yon pwogram "
+"syantifik, men pa gen okenn limit sou sa ki nannan kapasite nan Piton youn "
+"kapab ajoute TA."
 
 # 63bae5692ff5412e8ab394ffcf113166
 #: ../source/turtleart.rst:382
 msgid "Exporting to Berkeley Logo"
-msgstr ""
+msgstr "Ekspòtatè Berkeley Logo"
 
 # 0311a8322df741ca90aa09245ef9aebe
 #: ../source/turtleart.rst:384
 msgid ""
-"Turtle Art can export its projects to `Berkeley Logo <http://www.cs.berkeley."
-"edu/~bh/>`_ (using either **View Source** or the **Save as Logo** button on "
-"the **Project Toolbar**)"
+"Turtle Art can export its projects to `Berkeley Logo "
+"<http://www.cs.berkeley.edu/~bh/>`_ (using either **View Source** or the "
+"**Save as Logo** button on the **Project Toolbar**)"
 msgstr ""
+"Turtle Atizay ka ekspòtasyon pwojè li yo nan `Berkeley Logo <http: // www. "
+"CS. BERKELEY. edu / ~ bh /> `_ (lè l sèvi avèk swa ** View Sous ** oswa ** "
+"Save an kòm Logo ** bouton sou ** Pwojè Toolbar la **)"
 
 # 2d043a7f516e4c208aef5950460d3d43
 #: ../source/turtleart.rst:387
 msgid "Python Blocks in Turtle Art"
-msgstr ""
+msgstr "Piton Blòk nan Turtle Art"
 
 # af5caa3123914062ae6e23ec67dfb273
 #: ../source/turtleart.rst:389
@@ -1337,25 +1534,31 @@ msgid ""
 "There are two ways to create Python blocks: by loading sample code provided "
 "with Turtle Art or by loading Python code the your Journal."
 msgstr ""
+"Gen de fason yo kreye Piton blòk: pa loading echantiyon Kòd bay ak Turtle "
+"Art oswa pa chaje Piton Kòd Journal la ou."
 
 # 942d37da4413418a9d361677ee98152d
 #: ../source/turtleart.rst:391
 msgid "**Loading sample code**"
-msgstr ""
+msgstr "** Loading echantiyon Kòd **"
 
 # 3553b31c192046dfa9ac3499e85725f7
 #: ../source/turtleart.rst:393
 msgid ""
 "A number of individual sample programs are provided. Clicking on the Load "
-"Python Block button on the Load/Save Toolbar |loadpython| will invoke a file-"
-"selector dialog. Select the sample that you want and it will be both copied "
-"to the Journal and loaded into a Python block."
+"Python Block button on the Load/Save Toolbar |loadpython| will invoke a "
+"file-selector dialog. Select the sample that you want and it will be both "
+"copied to the Journal and loaded into a Python block."
 msgstr ""
+"Yon kantite pwogram echantiyon endividyèl bay. Klike sou bouton an chaj "
+"Piton blòk sou chaj / Save Toolbar | loadpython la | ap envoke yon dyalòg "
+"dosye-seleksyon. Chwazi echantiyon an ke ou vle epi li pral tou de kopye nan"
+" Journal la ak chaje nan yon blòk Piton."
 
 # ab4010fe206441e79fed001ce4680dc1
 #: ../source/turtleart.rst:399
 msgid "**Loading code from the Journal**"
-msgstr ""
+msgstr "** Kòd Loading soti nan Journal la **"
 
 # 56ad9e7c74fb43ffa4dea0e0b88dab72
 #: ../source/turtleart.rst:401
@@ -1363,6 +1566,8 @@ msgid ""
 "Clicking on a Python block |pythoncodeblock| that has been dragged onto the "
 "canvas from the Extras palette will invoke an object-selector dialog."
 msgstr ""
+"Klike sou yon blòk Piton | pythoncodeblock | ki te trennen sou twal la soti "
+"nan palèt a Extras pral envoke yon dyalòg objè-seleksyon."
 
 # 4485595c9ab245ff81c56211e215d0f9
 #: ../source/turtleart.rst:407
@@ -1370,14 +1575,18 @@ msgid ""
 "Select the Python code that that you want and that code will be loaded into "
 "the selected block."
 msgstr ""
+"Chwazi kòd la Piton ki ke ou vle epi yo pral ke kòd dwe chaje nan blòk la "
+"chwazi."
 
 # 9d5d3cc0adae48f69f955a8ebfdecadb
 #: ../source/turtleart.rst:409
 msgid ""
 "You can't run a Python block by clicking on it, as that opens the object "
-"selector; instead attach the block to another one and click elsewhere on the "
-"stack you have created."
+"selector; instead attach the block to another one and click elsewhere on the"
+" stack you have created."
 msgstr ""
+"Ou pa ka kouri yon blòk Piton pa klike sou li, kòm ki ouvè seleksyon nan "
+"objè; ."
 
 # 130eefd36e874922b7a833fa6ce37d66
 #: ../source/turtleart.rst:411
@@ -1385,11 +1594,13 @@ msgid ""
 "Which ever way you create them, multiple Python blocks can have different "
 "code loaded in them."
 msgstr ""
+"Ki tout tan tout tan fason ou kreye yo, plizyè blòk Piton ka gen diferan Kòd"
+" chaje nan yo."
 
 # e867902273a145c8989579a87a192419
 #: ../source/turtleart.rst:414
 msgid "Modifying Turtle Art"
-msgstr ""
+msgstr "Modifye Turtle Art"
 
 # a94e3f3856a74217b1efbdd94cf7517a
 #: ../source/turtleart.rst:416
@@ -1398,6 +1609,9 @@ msgid ""
 "it. You are also encourage to modify it to suit your needs or just for a "
 "further opportunity to learn."
 msgstr ""
+"Turtle Art se anba lisans lan MIT. Ou yo gratis yo sèvi ak li ak aprann ak "
+"li. Ou ap tou ankouraje li modifye li nan kostim bezwen ou oswa jis pou yon "
+"opòtinite yo aprann plis."
 
 # 95010c963f5842859bfd444d3375822c
 #: ../source/turtleart.rst:418
@@ -1407,6 +1621,9 @@ msgid ""
 "modules: taconstants.py and talogo.py. The former defines the blocks and "
 "palettes; the latter defines what code is executed by a block."
 msgstr ""
+"Anpil nan motivasyon nan dèyè rfaktorizasyon la Version 83 nan Kòd la te fè "
+"li pi fasil pou ou pou w fè chanjman. Pifò chanjman ka rete sèlman nan de "
+"modil: taconstants. d ak talogo. d. Ansyen an defini blòk yo ak palèt; ."
 
 # 806c5c5179594cb1b8c449bf66e79804
 #: ../source/turtleart.rst:420
@@ -1418,6 +1635,11 @@ msgid ""
 "that your changes will remain intact even after you upgrade to a newer "
 "version.)"
 msgstr ""
+"** Remak: ** Kòm nan vèsyon 106, gen tou sipòte pou grefon. Si ou ka sèvi ak"
+" mekanis nan Plugin ajoute sipò pou aparèy adisyonèl, e. g. , Arduino, oswa "
+"pou fè modifikasyon tankou yo dekri anba a san yo pa fè chanjman nan baz la "
+"Kòd estanda. (Avantaj nan lèt la se ke chanjman ou a ap rete entak menm apre"
+" ou ajou ak yon vèsyon plus. )"
 
 # 9f68c198153745ab9808f9a5c4ca42b2
 #: ../source/turtleart.rst:422
@@ -1428,11 +1650,16 @@ msgid ""
 "code to that file or to turtle_block_plugin.py, which contains additional "
 "blocks. (Even better, write your own plugin!!)"
 msgstr ""
+"Tabasics yo. dosye d gen konstan yo ki pa-nan gwo-detèmine konpòtman an nan "
+"Turtle Art. Miyò, palèt yo blòk yo defini pi ba a. Si ou vle ajoute yon blòk"
+" nouvo nan Turtle Art, ou ta ka tou senpleman ajoute yon blòk nan kòd ak sa "
+"yo ki dosye oswa turtle_block_plugin. d, ki gen blòk lòt. (Menm pi bon, ekri"
+" pwòp plugin ou !!)"
 
 # 96e6aabd2eaa42c182699cf9a0be568f
 #: ../source/turtleart.rst:424
 msgid "Adding a new palette is simply a matter of:"
-msgstr ""
+msgstr "Ajoute yon nouvo palèt se tou senpleman yon kesyon de:"
 
 # 957943867c264b938d88a74aa90dd24b
 #: ../source/turtleart.rst:432
@@ -1440,6 +1667,8 @@ msgid ""
 "For example, if we want to add a new turtle command, 'uturn', we'd use the "
 "add_block method in the Palette class."
 msgstr ""
+"Pou egzanp, si nou vle ajoute yon nouvo tòti lòd, 'uturn', nou ta sèvi ak "
+"metòd la add_block nan klas la Palèt."
 
 # 9d29df37660149f2a9e0e08b9fea2d56
 #: ../source/turtleart.rst:442
@@ -1449,6 +1678,7 @@ msgid ""
 "the function to call—in this case, the canvas.seth function to set the "
 "heading."
 msgstr ""
+"Next, ou bezwen defini ki sa blòk ou pral fè. Sèt fonksyone yo mete tit la."
 
 # 7e2b3a5cecdb4c61973a72a7eb02a47f
 #: ../source/turtleart.rst:449
@@ -1456,6 +1686,8 @@ msgid ""
 "That's it. When you next run Turtle Art, you will have a 'uturn' block on "
 "the 'mypalette' palette."
 msgstr ""
+"Sa a li. Lè ou pwochen kouri Turtle Atizay, ou pral gen yon blòk 'uturn' sou"
+" 'mypalette' palèt a."
 
 # 3be2b2f988a74e0998b92491ab8d3ba2
 #: ../source/turtleart.rst:451
@@ -1467,23 +1699,30 @@ msgid ""
 "size (55x55) as the others. (This is the default icon size for Sugar "
 "toolbars.)"
 msgstr ""
+"Ou pral gen yo kreye ikon pou bouton sa yo palèt-seleksyon. Sa yo yo kenbe "
+"nan repèrtwar nan ikon. Ou bezwen de ikon: mypaletteoff. SVG ak mypaletteon."
+" SVG, kote 'mypalette' se fisèl la menm jan ou antre nan yo itilize nan "
+"enstansyasyon klas la Palèt. Remake byen ke ikon yo ta dwe gwosè nan menm "
+"(55x55) kòm lòt moun yo. (Sa a se gwosè a icon default pou Sugar bar. )"
 
 # 312d893d4b224f24a22848d20c90153a
 #: ../source/turtleart.rst:454
 msgid "Where to report problems"
-msgstr ""
+msgstr "Ki kote yo repòte pwoblèm"
 
 # c0dfd6bad7f64a259e1bdc253bc5853a
 #: ../source/turtleart.rst:456
 msgid ""
-"Please file bug reports `here <https://bugs.sugarlabs.org/newticket?"
-"component=Turtleart>`_."
+"Please file bug reports `here "
+"<https://bugs.sugarlabs.org/newticket?component=Turtleart>`_."
 msgstr ""
+"Tanpri ranpli rapò ensèk `isit la <https: // pinèz. sugarlabs. org / "
+"newticket? eleman = Turtleart> `_."
 
 # 5e22edb23a85415a9f20331fecf2c4fe
 #: ../source/turtleart.rst:459
 msgid "Credits"
-msgstr ""
+msgstr "Kredi"
 
 # 792c57825fe54ab3bd1a2fecefadd15b
 #: ../source/turtleart.rst:461
@@ -1495,17 +1734,19 @@ msgstr ""
 # 62cff2a827314803a6bdd0ae9de3fe69
 #: ../source/turtleart.rst:463
 msgid ""
-"Alan Jhonn Aguiar Schwyn and the Butia Team have provided great feedback and "
-"many patches."
+"Alan Jhonn Aguiar Schwyn and the Butia Team have provided great feedback and"
+" many patches."
 msgstr ""
+"Alan Jhonn Aguiar Schwyn ak Ekip la Butia te bay gwo fidbak ak anpil plak."
 
 # 76776f25f7374004a87e9e614d2c3a6e
 #: ../source/turtleart.rst:465
 msgid ""
-"Especially helpful feedback from Tony Forster, Guzmán Trinidad, and Bill Kerr"
+"Especially helpful feedback from Tony Forster, Guzmán Trinidad, and Bill "
+"Kerr"
 msgstr ""
 
 # fac59c6e17334031b7974181f1e4957b
 #: ../source/turtleart.rst:467
 msgid "Brian Silverman is the first author of Turtle Art"
-msgstr ""
+msgstr "Brian Silverman se otè a premye a Turtle Art"

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,22 +19,26 @@ msgstr ""
 # b3f7da00bb1f4001851f8f70ceb4b0b1
 #: ../source/how_to_volunteer.rst:3
 msgid "How to volunteer"
-msgstr ""
+msgstr "Ki jan yo sèvi kòm volontè"
 
 # e92683dac13246998ad5b50def9d9dbb
 #: ../source/how_to_volunteer.rst:6
 msgid "Volunteers Change the World"
-msgstr ""
+msgstr "Volontè chanje mond lan"
 
 # 6a2e309516fa4d4281e098f3a87580d1
 #: ../source/how_to_volunteer.rst:8
 msgid ""
-"Join us in our global mission to improve education for the world's children! "
-"Volunteer contribution is central to the educational spirit of OLPC. The "
+"Join us in our global mission to improve education for the world's children!"
+" Volunteer contribution is central to the educational spirit of OLPC. The "
 "ways to volunteer are as varied as your interests. The sections that follow "
 "provide information to learn how to become a volunteer, based on your "
 "interests and background."
 msgstr ""
+"Join nou nan misyon mondyal nou an amelyore edikasyon pou timoun nan mond "
+"lan! . Fason yo volontè yo jan varye kòm enterè ou. Seksyon yo ki swiv bay "
+"enfòmasyon pou aprann kijan pou vin yon volontè, ki baze sou enterè ou ak "
+"background."
 
 # 591053d123a64eaf98595b984595ae8b
 #: ../source/how_to_volunteer.rst:10
@@ -42,55 +46,71 @@ msgid ""
 "If learning matters to you, you will be welcome. To directly get involved, "
 "visit the web site http://olpcMAP.net or email volunteer@laptop.org."
 msgstr ""
+"Si zafè ou aprann, ou yo pral akeyi. Dirèkteman patisipe, vizite http sit "
+"entènèt la: // olpcMAP. net oswa voye yon imèl volontè @ laptop. org."
 
 # 4c5cc9b7efa84b77bf6d4bd3e97aab1c
 #: ../source/how_to_volunteer.rst:12
 msgid ""
-"Finally, know that there are LOTS of fun, cool people out in the world who'd "
-"like to work and play together with you as contributors, to help spread our "
-"mission and to improve children's lives."
+"Finally, know that there are LOTS of fun, cool people out in the world who'd"
+" like to work and play together with you as contributors, to help spread our"
+" mission and to improve children's lives."
 msgstr ""
+"Finalman, konnen ke gen anpil plezi, moun fre soti nan mond lan ki ta renmen"
+" travay ak jwe ansanm avèk ou kòm kontribye, ede gaye misyon nou ak amelyore"
+" lavi timoun yo."
 
 # 69b21c909d324cc48a87372abae685e8
 #: ../source/how_to_volunteer.rst:15
 msgid "Kids, siblings, and parents"
-msgstr ""
+msgstr "Kids, frè ak sè, ak paran"
 
 # c701043174ef4237a2ef8d895a04b21b
 #: ../source/how_to_volunteer.rst:17
 msgid ""
-"The XO is meant for the entire family to use, so learning as much as you can "
-"to help each other learn is one way to volunteer with (and for) other OLPC "
+"The XO is meant for the entire family to use, so learning as much as you can"
+" to help each other learn is one way to volunteer with (and for) other OLPC "
 "learners worldwide."
 msgstr ""
+"Se XO a vle di pou tout fanmi an yo sèvi ak, se konsa aprann kòm anpil jan "
+"ou kapab ede chak lòt aprann se yon fason yo sèvi kòm volontè ak (ak pou) "
+"lòt elèv k ap aprann OLPC atravè lemond."
 
 # b9528fcf752747b9b14b32d86ff2b213
 #: ../source/how_to_volunteer.rst:19
 msgid ""
-"You can contribute to the wiki, a web site that you can edit, at http://wiki."
-"laptop.org to share your knowledge and XO laptop experience."
+"You can contribute to the wiki, a web site that you can edit, at "
+"http://wiki.laptop.org to share your knowledge and XO laptop experience."
 msgstr ""
+"Ou ka kontribye nan wiki a, yon sit entènèt ki ou ka edit, nan http: // "
+"wiki. laptop. org nan pataje eksperyans konesans ak XO laptop ou."
 
 # d31f704b34094e1cb9be80db1175189b
 #: ../source/how_to_volunteer.rst:21
 msgid ""
 "You can tell others about your projects and recruit others to join your "
-"efforts. To understand how easy it is to edit the wiki, go to http://wiki."
-"laptop.org/go/Wiki_getting_started."
+"efforts. To understand how easy it is to edit the wiki, go to "
+"http://wiki.laptop.org/go/Wiki_getting_started."
 msgstr ""
+"Ou ka di lòt moun sou pwojè ou ak rekrite lòt moun yo rantre nan efò ou. Pou"
+" konprann ki jan li fasil se edite wiki a, ale nan http: // wiki. laptop. "
+"org / ale / Wiki_getting_started."
 
 # 333c5aa8ba5644ebbe73ab05d5b31256
 #: ../source/how_to_volunteer.rst:23
 msgid ""
 "You might want to get involved in a regional group with other XO owners in "
-"your area. You can find many such vibrant communities at http://wiki.laptop."
-"org/go/Regional_community_groups."
+"your area. You can find many such vibrant communities at "
+"http://wiki.laptop.org/go/Regional_community_groups."
 msgstr ""
+"Ou ta ka vle patisipe nan yon gwoup rejyonal ak mèt pwopriyete lòt XO nan "
+"zòn ou an. Ou ka jwenn anpil kominote sa yo vanyan nan http: // wiki. "
+"laptop. org / ale / Regional_community_groups."
 
 # 8b420da6852048719d54e6a5527631bb
 #: ../source/how_to_volunteer.rst:26
 msgid "Teachers, students, and educators"
-msgstr ""
+msgstr "Pwofesè, elèv, ak edikatè"
 
 # a9cf6c516b924dba843d3ab5d2267c9b
 #: ../source/how_to_volunteer.rst:28
@@ -99,9 +119,15 @@ msgid ""
 "contributions are highly valued. You can contribute by testing, developing "
 "content, mentoring, or running group activities. You can start a University "
 "chapter of OLPC users -- both formal Community Service Learning and great "
-"informal clubs exist. Details may be found at wiki.laptop.org/go/"
-"University_program."
+"informal clubs exist. Details may be found at "
+"wiki.laptop.org/go/University_program."
 msgstr ""
+"Pwojè a OLPC se yon pwojè edikasyon pi wo a tout lòt bagay, se konsa "
+"kontribisyon ou yo bay plis enpòtans. Ou kapab kontribye pa tès, devlope "
+"kontni, mentoring, oswa kouri aktivite an gwoup. Ou ka kòmanse yon chapit "
+"University of itilizatè OLPC - tou de aprantisaj sèvis fòmèl Kominote ak gwo"
+" klib enfòmèl egziste. Detay yo ka jwenn nan wiki. laptop. org / ale / "
+"University_program."
 
 # e69dda04cae44ee5a1bd483ef3fa86b9
 #: ../source/how_to_volunteer.rst:30
@@ -110,66 +136,89 @@ msgid ""
 "region, or look up pre-existing groups within the list of regional groups "
 "here: http://wiki.laptop.org/go/Groups."
 msgstr ""
+"Ou ka eseye rankontre ak lòt pwofesè yo ak elèv yo nan rejyon jeyografik ou "
+"a, oswa gade moute pre-egziste ki gwoup nan lis la nan gwoup rejyonal la a: "
+"http: // wiki. laptop. org / ale / Gwoup."
 
 # 84bf8021694e4af8a00c77ca5ffeec43
 #: ../source/how_to_volunteer.rst:33
 msgid "Support Gang"
-msgstr ""
+msgstr "Gang Sipò"
 
 # 701ee59c2e5b482fadd608487d6f6149
 #: ../source/how_to_volunteer.rst:35
 msgid ""
 "If you enjoy personally helping others, and the challenge of solving "
-"problems with learners worldwide, you would be a perfect fit for the Support "
-"Gang. We work together answering all kinds of questions about the XO, "
+"problems with learners worldwide, you would be a perfect fit for the Support"
+" Gang. We work together answering all kinds of questions about the XO, "
 "peripherals, software, volunteering, deployment, organizational development "
 "and anything else OLPC users ask about."
 msgstr ""
+"Si ou jwi pèsonèlman ede lòt moun, ak defi a nan rezoud pwoblèm ak elèv k ap"
+" aprann atravè lemond, ou ta dwe yon anfòm pafè pou gang nan Sipò. Nou "
+"travay ansanm reponn tout kalite kesyon sou XO a, periferik, lojisyèl, "
+"Volontè, deplwaman, devlopman òganizasyonèl ak nenpòt lòt bagay itilizatè "
+"OLPC mande enfòmasyon sou."
 
 # 70eb147927ef4a50ba19b03eaca996aa
 #: ../source/how_to_volunteer.rst:37
 msgid ""
-"Community Support Volunteers are an extremely friendly and supportive group, "
-"who came together from all around the world, and work together closely "
+"Community Support Volunteers are an extremely friendly and supportive group,"
+" who came together from all around the world, and work together closely "
 "online. We also meet weekly with invited guest speakers by phone, and in "
 "person whenever possible."
 msgstr ""
+"Kominote Volontè Sipò se yon gwoup trè zanmitay ak sipò, ki moun ki te vin "
+"ansanm ki sòti nan tout atravè mond lan, e travay ansanm byen sou entènèt. "
+"Nou menm tou nou rankontre chak semèn ak envite oratè envite pa telefòn, ak "
+"nan moun nenpòt lè li posib."
 
 # ad2d55c5fdde4152a5897e47debe6b90
 #: ../source/how_to_volunteer.rst:39
 msgid ""
-"When you volunteer, fellow volunteers and OLPC will help you get started and "
-"assist you in finding answers to difficult or unusual technical questions. "
-"Bilingual volunteers are most especially welcome. Please join us at http://"
-"wiki.laptop.org/go/Support_Gang."
+"When you volunteer, fellow volunteers and OLPC will help you get started and"
+" assist you in finding answers to difficult or unusual technical questions. "
+"Bilingual volunteers are most especially welcome. Please join us at "
+"http://wiki.laptop.org/go/Support_Gang."
 msgstr ""
+"Lè ou sèvi kòm volontè, volontè parèy ak OLPC pral ede w jwenn te kòmanse ak"
+" ede w nan jwenn repons a kesyon teknik difisil oswa etranj. Volontè Bileng "
+"yo ki pi espesyalman akeyi. Souple jwenn nou nan http: // wiki. laptop. org "
+"/ ale / Support_Gang."
 
 # 8443e30151dc455582cffa50b60ead71
 #: ../source/how_to_volunteer.rst:42
 msgid "Documentation"
-msgstr ""
+msgstr "Dokimantasyon"
 
 # 46dc5e8d8341496ab2aadafc160321fb
 #: ../source/how_to_volunteer.rst:44
 msgid ""
 "If you would like to help others learn about the XO then you can help with "
 "the documentation. We have a dedicated team and we eagerly welcome new "
-"contributors! You don't need to be a expert on the technology to participate "
-"- you may wish to just spell check or check images. You may also be inspired "
-"to write a chapter or improve existing chapters. You can learn more on how "
-"to contribute by joining the OLPC Library mailing list http://lists.laptop."
-"org/listinfo/library"
+"contributors! You don't need to be a expert on the technology to participate"
+" - you may wish to just spell check or check images. You may also be "
+"inspired to write a chapter or improve existing chapters. You can learn more"
+" on how to contribute by joining the OLPC Library mailing list "
+"http://lists.laptop.org/listinfo/library"
 msgstr ""
+"Si ou ta renmen ede lòt moun aprann sou XO a lè sa a ou ka ede ak dokiman "
+"an. Nou gen yon ekip dedye ak nou prese akeyi nouvo kontribye! . Ou kapab "
+"tou gen pou enspire yo ekri yon chapit oswa amelyore ki deja egziste chapit."
+" Ou ka aprann plis sou kòman yo kontribye nan vini patisipe nan OLPC "
+"Bibliyotèk poste http a lis: // lis. laptop. org / listenfo / bibliyotèk"
 
 # b867c64a1f9a48f69269c1c020f4417d
 #: ../source/how_to_volunteer.rst:46
 msgid "Existing XO and Sugar manuals are written and hosted at FLOSS Manuals."
 msgstr ""
+"Ki deja egziste XO ak Sugar manyèl yo ekri ak anime nan Manuals itilize fil "
+"dantè."
 
 # 53dbc9644c6a4008a21190f18fbf5053
 #: ../source/how_to_volunteer.rst:49
 msgid "Translators"
-msgstr ""
+msgstr "Tradiktè"
 
 # b2ac5704f16a41c69c370501b4997143
 #: ../source/how_to_volunteer.rst:51
@@ -180,11 +229,16 @@ msgid ""
 "and write more than one language, you can help translate the wiki or the "
 "software. If you can help, please see http://wiki.laptop.org/go/Translation."
 msgstr ""
+"OLPC se yon pwogram mond-lajè ki ap eseye rive jwenn moun nan anpil peyi, ki"
+" pale plizyè lang diferan. Ou ka jwenn yon lide sou pwogram nan epi gade pou"
+" lang ou sou sèvè a tradiksyon Sugar Labs. Si ou pale ak ekri plis pase yon "
+"lang, ou ka ede tradui wiki a oswa lojisyèl an. Si ou ka ede, tanpri al gade"
+" http: // wiki. laptop. org / ale / Tradiksyon."
 
 # 59ea0bac7d604cdfa0b587e42061320b
 #: ../source/how_to_volunteer.rst:54
 msgid "Content creators, writers, artists, photographers, videographers"
-msgstr ""
+msgstr "Content créateur, ekriven, atis, fotogwaf, videyografè"
 
 # 80aeb1cfe17a4ddf86bdb4a535f7a406
 #: ../source/how_to_volunteer.rst:56
@@ -193,6 +247,9 @@ msgid ""
 "understand it better. Writing about the XO can also be one of the greatest "
 "contributions to helping others."
 msgstr ""
+"Tout moun se yon kreyatè: pa kreye ak pataje yon bagay, ou inevitableman "
+"konprann li pi byen. Ekri sou XO a kapab tou gen pou youn nan pi gwo "
+"kontribisyon yo nan ede lòt moun."
 
 # 7686ffb50d8245519527ef5388652c38
 #: ../source/how_to_volunteer.rst:58
@@ -201,6 +258,9 @@ msgid ""
 "Wiki - whether by writing, designing, editing, storytelling or simply "
 "organizing - anywhere within http://wiki.laptop.org."
 msgstr ""
+"Tanpri konsidere ofri kominikasyon ou a oswa medya talan sou OLPC Wiki a - "
+"si wi ou non pa ekri, desine, koreksyon, rakonte istwa oswa tou senpleman "
+"òganize - nenpòt kote nan http: // wiki. laptop. org."
 
 # c3a63c6d5fbb4876a659942882b361be
 #: ../source/how_to_volunteer.rst:60
@@ -208,130 +268,167 @@ msgid ""
 "If you want to create art for the XO, you can join other artists at the Art "
 "Community page at http://wiki.laptop.org/go/Community:Art."
 msgstr ""
+"Si ou vle kreye atizay pou XO a, ou ka rantre nan lòt atis nan paj la Atizay"
+" Kominote nan http: // wiki. laptop. org / ale / Kominote: Art."
 
 # 3d69ee61477346daa606a407d6341330
 #: ../source/how_to_volunteer.rst:62
 msgid ""
-"You can upload photos to a great, growing worldwide archive at http://www."
-"flickr.com/groups/olpc. One group of photos even shows those specially taken "
-"by XO laptops themselves, using the Record Activity. Hardware designers and "
-"testers"
+"You can upload photos to a great, growing worldwide archive at "
+"http://www.flickr.com/groups/olpc. One group of photos even shows those "
+"specially taken by XO laptops themselves, using the Record Activity. "
+"Hardware designers and testers"
 msgstr ""
+"Ou ka Upload foto nan yon gwo, k ap grandi atravè lemond achiv nan http: // "
+"www. flickr. com / gwoup / OLPC. Yon gwoup nan foto menm montre moun "
+"espesyalman pran pa XO laptops tèt yo, lè l sèvi avèk aktivite nan Dosye. "
+"Konsèpteur Materyèl ak Tester"
 
 # 9b0c53dc7bd34aeeadda4d8d52ac3e8b
 #: ../source/how_to_volunteer.rst:64
 msgid ""
-"There are lots of volunteer hardware opportunities, from brainstorming about "
-"alternative power to developing peripherals to repairing XOs. You may want "
+"There are lots of volunteer hardware opportunities, from brainstorming about"
+" alternative power to developing peripherals to repairing XOs. You may want "
 "to develop peripherals for the XO that use its USB ports or other inputs, "
 "for health applications or beyond: http://wiki.laptop.org/go/Health."
 msgstr ""
+"Gen anpil bagay nan opòtinite kenkayri volontè, ki soti nan brase lide sou "
+"pouvwa altènativ a devlope periferik repare XO. Ou ka vle devlope periferik "
+"pou XO a ki itilize pò USB li yo oswa lòt entrain, pou aplikasyon pou sante "
+"oswa pi lwen pase: http: // wiki. laptop. org / ale / Sante."
 
 # 3627387d6c9a47cc939ae346ffe033f1
 #: ../source/how_to_volunteer.rst:66
 msgid ""
 "You can get involved with community repair centers or start your own, with "
-"volunteers or as a business: http://wiki.laptop.org/go/"
-"Repair_center_locations."
+"volunteers or as a business: "
+"http://wiki.laptop.org/go/Repair_center_locations."
 msgstr ""
+"Ou ka jwenn ki patisipe nan sant reparasyon kominote oswa kòmanse pwòp ou a,"
+" ak volontè oswa kòm yon biznis: http: // wiki. laptop. org / ale / "
+"Repair_center_locations."
 
 # ba29c401e12b4a2aaa7694709cc76ad0
 #: ../source/how_to_volunteer.rst:68
 msgid ""
-"You may want to work on power generation: http://lists.laptop.org/listinfo/"
-"power. Or firmware coding: http://wiki.laptop.org/go/OFW. To find out more "
-"about all of these types of hardware projects search for those keywords at: "
+"You may want to work on power generation: "
+"http://lists.laptop.org/listinfo/power. Or firmware coding: "
+"http://wiki.laptop.org/go/OFW. To find out more about all of these types of "
+"hardware projects search for those keywords at: "
 "http://wiki.laptop.org/go/Category:Hardware."
 msgstr ""
+"Ou ka vle travay sou pouvwa jenerasyon: http: // lis. laptop. org / listenfo"
+" / pouvwa. Oswa firmwèr kodaj: http: // wiki. laptop. com / ale / OFW. Pou "
+"chèche konnen plis sou tout nan sa yo kalite pwojè kenkayri rechèch pou mo "
+"kle sa yo ki nan: http: // wiki. laptop. org / ale / Kategori: Materyèl."
 
 # 88c7c34dcf6549c98c2a116b9668b612
 #: ../source/how_to_volunteer.rst:71
 msgid "Software"
-msgstr ""
+msgstr "Software"
 
 # f0f64a43d6274b028ad6d6df3df9d999
 #: ../source/how_to_volunteer.rst:73
 msgid ""
-"Software Developers especially should connect with Sugar Labs: http://join."
-"sugarlabs.org"
+"Software Developers especially should connect with Sugar Labs: "
+"http://join.sugarlabs.org"
 msgstr ""
+"Software Devlopè espesyalman ta dwe konekte ak Sugar Labs: http: // rantre "
+"nan. sugarlabs. org"
 
 # d90ffdd1133b4d1ba8562b56aa1995d2
 #: ../source/how_to_volunteer.rst:75
 msgid ""
 "The XO's software is designed to be malleable because we want the help of "
-"all the people in the world who are capable of writing free software to help "
-"other people learn. To get involved, you can:"
+"all the people in the world who are capable of writing free software to help"
+" other people learn. To get involved, you can:"
 msgstr ""
+"Se lojisyèl XO a fèt yo dwe pèrmeabl paske nou vle èd nan tout moun ki nan "
+"mond lan ki gen kapasite pou ekri lojisyèl gratis yo ede lòt moun aprann. "
+"Pou jwenn patisipe, ou kapab:"
 
 # 522e2d8c51ae4d208fd164a521d5ff00
 #: ../source/how_to_volunteer.rst:77
 msgid "Write activities http://wiki.sugarlabs.org/go/Activity_Team."
-msgstr ""
+msgstr "Ekri aktivite http: // wiki. sugarlabs. org / ale / Activity_Team."
 
 # dad99e8846554031a59c927e20f6436d
 #: ../source/how_to_volunteer.rst:78
 msgid ""
-"Fix, report, or triage bugs http://bugs.sugarlabs.org and http://dev.laptop."
-"org."
+"Fix, report, or triage bugs http://bugs.sugarlabs.org and "
+"http://dev.laptop.org."
 msgstr ""
+"Ranje, pinèz rapò, oswa triyaj http: // pinèz. sugarlabs. org ak http: // "
+"dev. laptop. org."
 
 # 0dd7e21258c34ea383fac1751b0ea48c
 #: ../source/how_to_volunteer.rst:79
 msgid "Help test http://wiki.laptop.org/go/Friends_in_testing."
-msgstr ""
+msgstr "Ede http tès: // wiki. laptop. org / ale / Friends_in_testing."
 
 # 414ef9cdd24e4065b06001722a453248
 #: ../source/how_to_volunteer.rst:80
 msgid "Hack Sugar and our OS http://wiki.laptop.org/go/Developers_manual."
 msgstr ""
+"Hack Sik ak http OS nou an: // wiki. laptop. org / ale / Developers_manual."
 
 # 010b6cfb550d4caa9380fcf6a743516a
 #: ../source/how_to_volunteer.rst:82
 msgid "In short: \"patches are welcome\"."
-msgstr ""
+msgstr "Nan ti bout tan: \"plak yo se akeyi\"."
 
 # 8282faec870d4b96be73da56fd3e9975
 #: ../source/how_to_volunteer.rst:85
 msgid "Local opportunities"
-msgstr ""
+msgstr "Opòtinite lokal"
 
 # 4ecd2ea9fbfb4164a047407d737458fa
 #: ../source/how_to_volunteer.rst:87
 msgid ""
 "Help create changes in the community you live in - as well as ones you'd "
-"like to visit. Start or join a grassroots group: http://wiki.laptop.org/go/"
-"Groups."
+"like to visit. Start or join a grassroots group: "
+"http://wiki.laptop.org/go/Groups."
 msgstr ""
+"Ede kreye chanjman ki fèt nan kominote a ou ap viv nan - kòm byen ke yo menm"
+" ou ta renmen vizite. Kòmanse oswa rantre nan yon gwoup de baz: http: // "
+"wiki. laptop. org / ale / Gwoup."
 
 # 0806ba66e41541c99e55603da2e8182d
 #: ../source/how_to_volunteer.rst:89
 msgid ""
-"Create a Community Repair Center: http://wiki.laptop.org/go/"
-"Repair_center_locations."
+"Create a Community Repair Center: "
+"http://wiki.laptop.org/go/Repair_center_locations."
 msgstr ""
+"Kreye yon Kominote Reparasyon Sant: http: // wiki. laptop. org / ale / "
+"Repair_center_locations."
 
 # 8c08db5410ea4dec8f2dcf009b3be6f3
 #: ../source/how_to_volunteer.rst:90
 msgid "Help out at a nearby Pilot deployment: http://planet.laptop.org."
 msgstr ""
+"Ede soti nan yon ki tou pre deplwaman Pilot: http: // planèt. laptop. org."
 
 # d4d9c6e4b7994861af269e6c827e143a
 #: ../source/how_to_volunteer.rst:91
 msgid "Run, host, or attend an Event or Jam: http://olpcMAP.net."
 msgstr ""
+"Kouri, lame, oswa ale nan yon evènman oswa JAS: http: // olpcMAP. net."
 
 # 0c22cbd4f32f44bbbd521a90af5dc25d
 #: ../source/how_to_volunteer.rst:94
 msgid "Deployment"
-msgstr ""
+msgstr "Deplwaman"
 
 # 2ff4fdc09d3449a58b5d5fda70a47333
 #: ../source/how_to_volunteer.rst:96
 msgid ""
 "Volunteering at an OLPC deployment or school of any size is sometimes "
-"possible, in exceptional cases: http://wiki.laptop.org/go/ClassActs/Resources"
+"possible, in exceptional cases: "
+"http://wiki.laptop.org/go/ClassActs/Resources"
 msgstr ""
+"Ofri sèvis kòm volontè nan yon deplwaman OLPC oswa lekòl nan nenpòt ki gwosè"
+" se pafwa posib, nan ka eksepsyonèl: http: // wiki. laptop. org / ale / "
+"ClassActs / Resous"
 
 # 4f62447be5e44b1599398ec866711ba7
 #: ../source/how_to_volunteer.rst:98
@@ -339,19 +436,24 @@ msgid ""
 "Volunteers working on their own much smaller deployments, work together "
 "leveraging their mutual insights: http://wiki.laptop.org/go/ALEARN_Network"
 msgstr ""
+"Volontè ap travay sou pwòp pi piti anpil deplwaman yo, travay ansanm pou "
+"jwenn Sur mityèl yo: http: // wiki. laptop. org / ale / ALEARN_Network"
 
 # 6774f2e255804247accafb9705c268a1
 #: ../source/how_to_volunteer.rst:100
 msgid ""
-"A great way to get started is to explore others' work at http://planet."
-"laptop.org and then email your specific interests and qualifications to: "
-"mailto:volunteer@laptop.org"
+"A great way to get started is to explore others' work at "
+"http://planet.laptop.org and then email your specific interests and "
+"qualifications to: mailto:volunteer@laptop.org"
 msgstr ""
+"Yon bon fason jwenn te kòmanse se yo eksplore travay lòt moun nan http: // "
+"planèt. laptop. org ak Lè sa a voye yon imèl ba enterè espesifik ou ak "
+"kalifikasyon nan: mailto: volontè @ laptop. org"
 
 # c0034279725448e888e59a322c37a0f9
 #: ../source/how_to_volunteer.rst:103
 msgid "Annual Community Summits"
-msgstr ""
+msgstr "Anyèl Somè Kominote"
 
 # d40025733c784a7da953f7d371b9f408
 #: ../source/how_to_volunteer.rst:105
@@ -359,6 +461,8 @@ msgid ""
 "Nothing beats meeting in person, and the OLPC community's biggest annual "
 "summit occurs in October in San Francisco, thanks to: http://olpcSF.org."
 msgstr ""
+"Pa gen anyen bat reyinyon nan moun, ak pi gwo somè anyèl kominote a OLPC a "
+"rive nan mwa Oktòb nan San Francisco, gras a: http: // olpcSF. org."
 
 # 3559379d4e92468195ca036b6c45db3a
 #: ../source/how_to_volunteer.rst:107
@@ -366,11 +470,13 @@ msgid ""
 "Similarly a more technical spring summit generally takes plan around May in "
 "Montevideo, Uruguay: http://ceibalJAM.org."
 msgstr ""
+"Menm jan an tou yon somè sezon prentan plis teknik jeneralman pran plan "
+"alantou Me nan Montevideo, Irigwe: http: // ceibalJAM. org."
 
 # c9de0fe6593e49069e7c68304ec32ed7
 #: ../source/how_to_volunteer.rst:110
 msgid "Conclusions"
-msgstr ""
+msgstr "Konklizyon"
 
 # f2b1cbd3a0e84ce8a4c7651f9bc95235
 #: ../source/how_to_volunteer.rst:112
@@ -379,3 +485,6 @@ msgid ""
 "of all shapes, sizes, and kinds. Would you enjoy making presents for "
 "millions of children every day? Can you help?"
 msgstr ""
+"Nou pa te plèzantri lè nou di ou ke nou aksepte kontribisyon volontè nan "
+"tout fòm, gwosè, ak kalite. Èske ou ta renmen fè kado pou dè milyon de "
+"timoun chak jou?"

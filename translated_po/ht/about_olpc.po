@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,22 +19,27 @@ msgstr ""
 # e1123179d2c149cf9d956c141a57545e
 #: ../source/about_olpc.rst:3
 msgid "About OLPC"
-msgstr ""
+msgstr "Sou OLPC"
 
 # 995d5a505b6b4789a76725a527f8960b
 #: ../source/about_olpc.rst:6
 msgid "About One Laptop per Child"
-msgstr ""
+msgstr "Apeprè yon Laptop pou chak timoun"
 
 # 3c8617ed68f140af8b21ad46bcf461a8
 #: ../source/about_olpc.rst:8
 msgid ""
 "One Laptop per Child (OLPC) is a project started by Nicholas Negroponte at "
-"the Massachusetts Institute of Technology (MIT) with a core of MIT Media Lab "
-"personnel. The organization has grown to include passionate people creating "
-"software and hardware and sustainable community involvement to fulfill the "
+"the Massachusetts Institute of Technology (MIT) with a core of MIT Media Lab"
+" personnel. The organization has grown to include passionate people creating"
+" software and hardware and sustainable community involvement to fulfill the "
 "educational mission of OLPC."
 msgstr ""
+"Youn Laptop pou chak timoun (OLPC) se yon pwojè te kòmanse pa Nicholas "
+"Negroponte nan Enstiti nan Massachusetts nan Teknoloji (MIT) ak yon nwayo "
+"nan pèsonèl MIT Media Lab. Te òganizasyon an grandi genyen ladan yo moun ki "
+"pasyone kreye lojisyèl ak kenkayri ak patisipasyon kominote dirab li kapab "
+"akonpli misyon edikasyonèl OLPC."
 
 # ebf60d74c4e54496aeed9bb15435eb36
 #: ../source/about_olpc.rst:10
@@ -44,10 +49,16 @@ msgid ""
 "a rugged, low-cost, low-power, connected laptop with content and software "
 "designed for collaborative, joyful, and self-empowered learning."
 msgstr ""
+"Misyon an pou OLPC se senp ankò konvenkan: Pou kreye opòtinite edikasyonèl "
+"pou timoun pi pòv nan mond lan pa bay chak timoun ak yon rezistan, pri ki "
+"ba-, ki ba-pouvwa a, ki konekte laptop ak kontni ak lojisyèl ki fèt pou "
+"kolaborasyon, kè kontan, ak pwòp tèt-pouvwa ."
 
 # b0e2ed479fb1400199a2eb4e4c313680
 #: ../source/about_olpc.rst:12
 msgid ""
-"You can learn more about OLPC at http://laptop.org and http://wiki.laptop."
-"org -- everyone is welcome to participate."
+"You can learn more about OLPC at http://laptop.org and "
+"http://wiki.laptop.org -- everyone is welcome to participate."
 msgstr ""
+"Ou ka aprann plis sou OLPC nan http: // laptop. org ak http: // wiki. "
+"laptop. org - tout moun se welcome yo patisipe."

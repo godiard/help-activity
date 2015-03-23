@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,50 +19,53 @@ msgstr ""
 # 7f9cfa0232c54b71a00e3e8a33f28d82
 #: ../source/speak.rst:3
 msgid "Speak"
-msgstr ""
+msgstr "Pale"
 
 # 73dcac2220c34a66a59c76c5b4313b8f
 #: ../source/speak.rst:7
 msgid "**The toolbar buttons explained**"
-msgstr ""
+msgstr "** Bouton sa yo ba ikòn eksplike **"
 
 # a2dcbad5975c46318ea49039e455a7a4
 #: ../source/speak.rst:9
 msgid ""
-"Activity tab. In the first field name the session. The book and pencil icon, "
-"the Description button allows you to add a description to the :doc:`/"
-"journal` entry. Thirdly select Private, or My Neighbourhood mode."
+"Activity tab. In the first field name the session. The book and pencil icon,"
+" the Description button allows you to add a description to the "
+":doc:`/journal` entry. Thirdly select Private, or My Neighbourhood mode."
 msgstr ""
+"Tab aktivite. Nan jaden an premye non sesyon an. Liv ak kreyon icon la, "
+"bouton an Deskripsyon pèmèt ou ajoute yon deskripsyon nan: doc la: `/ antre "
+"journal`. Anfen chwazi prive, oswa mòd Katye mwen."
 
 # d6e7b0f6db0547efae6acdc51431ba40
 #: ../source/speak.rst:10
 msgid "Type something to hear robot Alice read it aloud."
-msgstr ""
+msgstr "Tape yon bagay yo tande robo Alice li li l 'byen fò."
 
 # a985737d0d3e4e31addf17dbb51b4207
 #: ../source/speak.rst:11
 msgid "Ask robot Alice any question."
-msgstr ""
+msgstr "Mande robo Alice nenpòt kesyon."
 
 # f5fcbe14beed4ffcb16e64dba07b323f
 #: ../source/speak.rst:12
 msgid "Voice chat."
-msgstr ""
+msgstr "Vwa chat."
 
 # 7d5dba64c54242a68ad20ffab976104b
 #: ../source/speak.rst:13
 msgid "Set language."
-msgstr ""
+msgstr "Lang Set."
 
 # 6079adfad65a4d23b810cd367ce4dc90
 #: ../source/speak.rst:14
 msgid "Set pitch of voice and rate of delivery."
-msgstr ""
+msgstr "Mete goudwon ​​nan vwa ak pousantaj nan livrezon."
 
 # 718b37b0db084f3a8aa342a8247b6d3f
 #: ../source/speak.rst:15
 msgid "Alter shape of eyes and mouth"
-msgstr ""
+msgstr "Chanje fòm nan je ak bouch ou"
 
 # d6a67022bef6440aafd0455dc4137916
 #: ../source/speak.rst:16
@@ -70,44 +73,54 @@ msgid ""
 "Click the arrow button, and use the up/down arrow keys to scroll back "
 "through a history of things you have typed."
 msgstr ""
+"Klike sou bouton an flèch, ak sèvi ak kle yo moute / desann flèch nan woulo "
+"liv tounen nan yon istwa de bagay sa yo ou te tape."
 
 # 0f8cf864b079469bb0cdc40436731db7
 #: ../source/speak.rst:17
 msgid "Stop, or close the Activity"
-msgstr ""
+msgstr "One Stop, oswa fèmen aktivite a"
 
 # 37782be36da24f568ea934536ad8cc3e
 #: ../source/speak.rst:20
 msgid "Using"
-msgstr ""
+msgstr "Lè l sèvi avèk"
 
 # 9aaf814f8e684ee19393766c099b6507
 #: ../source/speak.rst:22
 msgid ""
 "Speak is a talking face for the XO laptop. Anything you type will be spoken "
-"aloud using the XO's speech synthesizer, espeak. Use the toolbars at the top "
-"to change the voice's accent, rate and pitch or the shape of the eyes and "
+"aloud using the XO's speech synthesizer, espeak. Use the toolbars at the top"
+" to change the voice's accent, rate and pitch or the shape of the eyes and "
 "mouth."
 msgstr ""
+"Pale se yon figi pale pou konpitè pòtatif li a XO. Pral Nenpòt bagay ou tape"
+" dwe pale byen fò lè l sèvi avèk diskou synthesizer XO a, eSpeak. Sèvi ak "
+"bar yo nan tèt la yo chanje aksan, pousantaj vwa a ak goudwon ​​oswa fòm nan"
+" je yo ak bouch."
 
 # 2a671d2be98048c7bd4aaf80be7b8980
 #: ../source/speak.rst:24
 msgid "You can ask Alice a question too."
-msgstr ""
+msgstr "Ou ka mande Alice yon kesyon twò."
 
 # a357aeb8af484ee68ed8528492a25340
 #: ../source/speak.rst:26
 msgid ""
-"This is a great way to experiment with the speech synthesizer, learn to type "
-"or just have fun making a funny face for your XO."
+"This is a great way to experiment with the speech synthesizer, learn to type"
+" or just have fun making a funny face for your XO."
 msgstr ""
+"Sa a se yon bon fason fè eksperyans ak synthesizer la lapawòl, aprann tape "
+"oswa jis gen plezi fè yon figi komik pou XO ou."
 
 # 3e862dcb9003483e925f7d0ea1b89edd
 #: ../source/speak.rst:28
 msgid ""
-"After you've adjusted the settings it looks nicer in full-screen mode (Press "
-"Alt-Enter to switch)."
+"After you've adjusted the settings it looks nicer in full-screen mode (Press"
+" Alt-Enter to switch)."
 msgstr ""
+"Apre ou te ajiste anviwònman yo li sanble joli nan mòd plen ekran-(Press "
+"Alt-Antre chanje)."
 
 # 1a17840341dc46528fc852ed0f62df8b
 #: ../source/speak.rst:30
@@ -115,46 +128,51 @@ msgid ""
 "Use the Journal to resume your Speak activity including all voice, face and "
 "history settings."
 msgstr ""
+"Sèvi ak jounal la kourikouloum-vite aktivite Pale ou ki gen ladan tout vwa, "
+"figi ak istwa anviwònman."
 
 # 8349aa2fef8d4a9096bddb077aeafb47
 #: ../source/speak.rst:33
 msgid "Page suggested improvements"
-msgstr ""
+msgstr "Page sijere amelyorasyon"
 
 # e338bb9f89f641c68af96c4018978a97
 #: ../source/speak.rst:34
 msgid "... add the ideas."
-msgstr ""
+msgstr ". . . ajoute lide yo."
 
 # 8a85318cbba74fe096275ae7ffe53f47
 #: ../source/speak.rst:36
 msgid "Expand voice chat."
-msgstr ""
+msgstr "Elaji chat vwa."
 
 # bb46d4339b7b421983b7ab6a368444a4
 #: ../source/speak.rst:38
 msgid "Where Speak is good"
-msgstr ""
+msgstr "Ki kote Pale se yon bon bagay"
 
 # 0b11e4a2e71f47a7a1e3d0c17ff76468
 #: ../source/speak.rst:40
 msgid "Early reading - early writing - with FotoToon"
-msgstr ""
+msgstr "Bonè lekti - ekri byen bonè - ak FotoToon"
 
 # 6305f59899f84c708759c4253076c50b
 #: ../source/speak.rst:42
 msgid "Reading aloud Help pages"
-msgstr ""
+msgstr "Li awotvwa Ede Paj"
 
 # c3ee7c4c6dd649e6aa75f10e99ca450d
 #: ../source/speak.rst:44
 msgid "Learn a language"
-msgstr ""
+msgstr "Aprann yon lang"
 
 # 0ee19e11fc8c4b82a1144272a633c13d
 #: ../source/speak.rst:48
 msgid ""
-"This is an experimental new page. You can improve it yourself by following :"
-"doc:`/how_to_help`, and perhaps borrowing content from http://wiki.laptop."
-"org/go/Speak"
+"This is an experimental new page. You can improve it yourself by following "
+":doc:`/how_to_help`, and perhaps borrowing content from "
+"http://wiki.laptop.org/go/Speak"
 msgstr ""
+"Sa a se yon paj nouvo eksperimantal. Ou ka amelyore li tèt ou pa yo: doc: `/"
+" how_to_help`, e petèt prete kontni ki soti nan http: // wiki. laptop. org /"
+" ale / Pale"

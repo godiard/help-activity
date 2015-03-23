@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,30 +19,38 @@ msgstr ""
 # 76ec0b1947834538b7dc280be3979551
 #: ../source/gnome.rst:3
 msgid "GNOME"
-msgstr ""
+msgstr "GNOME"
 
 # 1a5c3cdb22c545bba391259f17f35509
 #: ../source/gnome.rst:5
 msgid ""
-"In late 2009 OLPC added a more conventional desktop environment called GNOME "
-"to its operating system. This is intended for older children and advanced "
+"In late 2009 OLPC added a more conventional desktop environment called GNOME"
+" to its operating system. This is intended for older children and advanced "
 "users."
 msgstr ""
+"Nan fen mwa 2009 OLPC ajoute yon anviwònman Desktop plis konvansyonèl rele "
+"GNOME nan sistèm fonksyònman li yo. Sa a se gen entansyon pou timoun ki pi "
+"gran yo ak divinò avanse."
 
 # c405cd39c9b948519238dead3f1bc26a
 #: ../source/gnome.rst:10
 msgid ""
-"Users can switch from Sugar to GNOME through the Switch Desktop option under "
-"My Settings."
+"Users can switch from Sugar to GNOME through the Switch Desktop option under"
+" My Settings."
 msgstr ""
+"Itilizatè yo ka chanje soti nan Sugar GNOME nan opsyon nan switch Desktop "
+"anba Anviwònman mwen."
 
 # 1015dc8593a6499cb030fb88c3fa2df5
 #: ../source/gnome.rst:14
 msgid ""
-"After selecting the Switch Desktop option another confirmation dialogue with "
-"additional information appears. The switch to GNOME can be initiated by "
+"After selecting the Switch Desktop option another confirmation dialogue with"
+" additional information appears. The switch to GNOME can be initiated by "
 "clicking the Restart now button."
 msgstr ""
+"Apre chwazi opsyon a switch Desktop yon lòt dyalòg konfimasyon ak plis "
+"enfòmasyon parèt. Ka switch la GNOME dwe inisye pa klike rekòmanse kounye a "
+"bouton an."
 
 # 4381571d93b94a20b70536ccd560299f
 #: ../source/gnome.rst:18
@@ -51,13 +59,21 @@ msgid ""
 "on the GNOME desktop or the Application - System Tools menu and confirming "
 "the corresponding message box."
 msgstr ""
+"Oblije chanje tounen nan sik nan GNOME ka fè via switch la Sugar icon sou "
+"Desktop a GNOME oswa Aplikasyon pou - Sistèm Zouti meni epi konfime ti bwat "
+"la mesaj ki koresponn."
 
 # a335a9439aeb4256bb00a7bd166ffb3d
 #: ../source/gnome.rst:22
 msgid ""
-"Further information about GNOME is available on the `GNOME Web site <http://"
-"gnome.org>`_ and its extensive `Help section <https://help.gnome.org/users/"
-"gnome-help/stable/>`_. Additional information about how to transfer files "
-"from Sugar's Journal to GNOME's Documents folder can be found in the Journal "
-"section."
+"Further information about GNOME is available on the `GNOME Web site "
+"<http://gnome.org>`_ and its extensive `Help section "
+"<https://help.gnome.org/users/gnome-help/stable/>`_. Additional information "
+"about how to transfer files from Sugar's Journal to GNOME's Documents folder"
+" can be found in the Journal section."
 msgstr ""
+"Plis enfòmasyon sou GNOME ki disponib sou sit Web la `GNOME <http: // luten."
+" org> `_ ak anpil seksyon èd` <https li yo: // èd. luten. org / itilizatè / "
+"luten-èd / estab /> `_. Ka plis enfòmasyon sou jan yo ka transfere dosye "
+"soti nan Journal Sugar nan Dokiman folder GNOME a ka jwenn nan seksyon an "
+"Journal."

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # 00a46b2f9fc54475abbcc3f6fc77d25c
 #: ../source/troubleshooting_connectivity.rst:3
 msgid "Troubleshooting Connectivity"
-msgstr ""
+msgstr "Depanaj Koneksyon"
 
 # 2546188e25104e82b5a51cc71ea60f00
 #: ../source/troubleshooting_connectivity.rst:5
@@ -29,6 +29,9 @@ msgid ""
 "this page to troubleshoot the wireless connectivity yourself. Understanding "
 "wireless router configuration"
 msgstr ""
+"Ou ka gade nan http: // wiki. laptop. org / ale / Support_FAQ pou anpil "
+"konsèy depanaj teknik, men ou ta dwe li nan tout enfòmasyon ki sou paj sa a "
+"yo rézoudr koneksyon a san fil tèt ou. Konprann konfigirasyon routeur fil"
 
 # 2992d6792a7c49c3aa043d018a1c3076
 #: ../source/troubleshooting_connectivity.rst:7
@@ -36,6 +39,8 @@ msgid ""
 "Connect your router to any computer, and then use a web browser to view the "
 "router's configuration page and change the router's settings."
 msgstr ""
+"Konekte routeur ou a nenpòt òdinatè, ak Lè sa a, sèvi ak yon navigatè "
+"entènèt yo wè paj konfigirasyon routeur la ak chanje anviwònman routeur la."
 
 # ffdd1ba17e0e4fa9be07a68524755aaa
 #: ../source/troubleshooting_connectivity.rst:9
@@ -46,38 +51,43 @@ msgid ""
 "internet connection (for example, the local library) and searching the "
 "Internet for router default logins. Router"
 msgstr ""
+"Isit la yo se administratif adrès, usernames, ak modpas kèk komen manifakti "
+"routeur la itilize pou konfigirasyon enfòmasyon routeur. Pou jwenn yon lis "
+"pi konplè, ou ka eseye vizite yon lòt òdinatè ki gen yon koneksyon entènèt "
+"(pou egzanp, bibliyotèk lokal la) ak chache entènèt la pou routeur koneksyon"
+" default. Routeur"
 
 # 6169796efd144839b1d14ce67e0e1b99
 #: ../source/troubleshooting_connectivity.rst:12
 msgid "Manufacturer"
-msgstr ""
+msgstr "Fabricant"
 
 # 277365609e8a43908c2aca8de64b84ba
 #: ../source/troubleshooting_connectivity.rst:12
 msgid "Address"
-msgstr ""
+msgstr "Adrès"
 
 # 6074dfdbf6a44516aadab5a480cf9a6a
 #: ../source/troubleshooting_connectivity.rst:12
 msgid "Username"
-msgstr ""
+msgstr "Non itilizatè"
 
 # 461f3ae27117461eba57f5bf65d1550a
 #: ../source/troubleshooting_connectivity.rst:12
 msgid "Password"
-msgstr ""
+msgstr "Modpas"
 
 # 0b48d8c087e449aa95de1ad6c1d9b6dd
 #: ../source/troubleshooting_connectivity.rst:14
 msgid "3 Com"
-msgstr ""
+msgstr "3 Avèk"
 
 # 9b1479ebeeac4bac863e09928da924d5
 # f99d1a667c8f4f19a1309866c99f8997
 #: ../source/troubleshooting_connectivity.rst:14
 #: ../source/troubleshooting_connectivity.rst:18
 msgid "http://192.168.1.1"
-msgstr ""
+msgstr "http: // 192. 168. 1. 1"
 
 # f71c47da8a964beb8c3ec6771e481424
 # 02f3b0d7b6804f08b5e039c2aa4bd2f7
@@ -93,88 +103,102 @@ msgstr ""
 #: ../source/troubleshooting_connectivity.rst:20
 #: ../source/troubleshooting_connectivity.rst:22
 msgid "admin"
-msgstr ""
+msgstr "admin"
 
 # aea1f553369f4bb186de33ea1fad5ed7
 #: ../source/troubleshooting_connectivity.rst:16
 msgid "D-Link"
-msgstr ""
+msgstr "D-Link"
 
 # 9edc38cd6ae149bda079307ba09baec5
 # c2be4ad079864b49876ec72481ab4434
 #: ../source/troubleshooting_connectivity.rst:16
 #: ../source/troubleshooting_connectivity.rst:22
 msgid "http://192.168.0.1"
-msgstr ""
+msgstr "http: // 192. 168. 0. 1"
 
 # 507391821095425a8ba4ec6d0d779648
 #: ../source/troubleshooting_connectivity.rst:18
 msgid "Linksys"
-msgstr ""
+msgstr "Linksys"
 
 # c1d5216298c14eedaef0ee54922df6cb
 #: ../source/troubleshooting_connectivity.rst:20
 msgid "Broadband"
-msgstr ""
+msgstr "Bande"
 
 # 9dfe0f72a7cc4b76af660ed8ee965f73
 #: ../source/troubleshooting_connectivity.rst:20
 msgid "http://192.168.2.1"
-msgstr ""
+msgstr "http: // 192. 168. 2. 1"
 
 # 01822b6d048d44c9a1c91160717466cd
 #: ../source/troubleshooting_connectivity.rst:22
 msgid "Netgear"
-msgstr ""
+msgstr "Linksys"
 
 # 44bbc5017acb4dc389fbffdc59c2fa67
 #: ../source/troubleshooting_connectivity.rst:22
 msgid "password"
-msgstr ""
+msgstr "modpas"
 
 # d0825bc7a07a4a658d686e49319c5fd2
 #: ../source/troubleshooting_connectivity.rst:24
 msgid "Gateway2Wire"
-msgstr ""
+msgstr "Gateway2Wire"
 
 # e4e3ef08f80c46159a6a0df1612bb2ae
 #: ../source/troubleshooting_connectivity.rst:24
 msgid "http://192.168.1.254"
-msgstr ""
+msgstr "http: // 192. 168. 1. 254"
 
 # 297716b677b44d0ba061a88e3d009a01
 #: ../source/troubleshooting_connectivity.rst:27
 msgid ""
-"If you are unable to connect a computer to your router to do this, call your "
-"Internet Service Provider and ask them for assistance. They should be able "
-"to access your router remotely, get the needed information for you, and even "
-"make any needed changes."
+"If you are unable to connect a computer to your router to do this, call your"
+" Internet Service Provider and ask them for assistance. They should be able "
+"to access your router remotely, get the needed information for you, and even"
+" make any needed changes."
 msgstr ""
+"Si ou se kapab konekte yon òdinatè nan routeur ou a fè sa a, rele Founisè "
+"Sèvis Entènèt ou epi mande yo pou asistans. Yo ta dwe kapab jwenn aksè nan "
+"routeur ou adistans, jwenn enfòmasyon ki nesesè pou ou, e menm fè nenpòt ki "
+"chanjman ki nesesè."
 
 # 7d58e37c097d46f98c9d51f79ed00c78
 #: ../source/troubleshooting_connectivity.rst:29
 msgid ""
 "Your wireless router settings may contain Wired Equivalent Privacy (WEP) or "
-"Wi-Fi Protected Access (WPA) for security protection. Find out which type of "
-"security it uses and the passphrase either by asking your ISP or by using "
+"Wi-Fi Protected Access (WPA) for security protection. Find out which type of"
+" security it uses and the passphrase either by asking your ISP or by using "
 "the router's configuration pages."
 msgstr ""
+"Anviwònman routeur fil ou a ka gen ladan Branche Ekivalan Privacy (WEP) oswa"
+" Wi-Fi Pwoteje Aksè (WPA) pou pwoteksyon sekirite. Chache konnen ki di ki "
+"kalite sekirite li itilize ak pasfraz a swa pa mande ISP ou a oswa lè l sèvi"
+" avèk paj sa konfigirasyon routeur la."
 
 # 5a4877d4371d4c3db9eb3c90e8a992a8
 #: ../source/troubleshooting_connectivity.rst:31
 msgid ""
 "Based on the type of security system being used (WPA or WEP), the Wireless "
-"Key type varies. For WPA, you use a Passphrase key (for example, \"password"
-"\", \"tHisisAp4ssword\"). For WEP, use either a Hex key (for example, "
-"\"4f4c504321\", usually all keys that consist of only of 0-9 and a-f) or its "
-"corresponding ASCII key (\"OLPC!\"). 40-bit Hex keys are 10 letters/numbers "
-"long, corresponding to 5 letter/number ASCII keys."
+"Key type varies. For WPA, you use a Passphrase key (for example, "
+"\"password\", \"tHisisAp4ssword\"). For WEP, use either a Hex key (for "
+"example, \"4f4c504321\", usually all keys that consist of only of 0-9 and "
+"a-f) or its corresponding ASCII key (\"OLPC!\"). 40-bit Hex keys are 10 "
+"letters/numbers long, corresponding to 5 letter/number ASCII keys."
 msgstr ""
+"Baze sou ki kalite sistèm sekirite ki te itilize (WPA oswa WEP), kalite a "
+"Wireless kle varye. Pou WPA, ou sèvi ak yon kle pasfraz (pou egzanp, "
+"\"modpas\", \"tHisisAp4ssword\"). Pou WEP, itilize swa yon kle Egzagòn (pou "
+"egzanp, \"4f4c504321\", anjeneral tout kle ki konpoze de sèlman nan 0-9 ak "
+"de) oswa kle li yo ASCII korespondan (\"OLPC!\"). Kle Egzagòn 40-ti jan yo "
+"se 10 lèt / nimewo long, ki koresponn a 5 lèt / nimewo kle ASCII."
 
 # d33040fb06914baca740e79ba92065bc
 #: ../source/troubleshooting_connectivity.rst:34
 msgid "Common connectivity problems and solutions"
-msgstr ""
+msgstr "Pwoblèm koneksyon Komen ak solisyon"
 
 # 26e016e480ab49c7a8124eeee89df095
 #: ../source/troubleshooting_connectivity.rst:35
@@ -183,20 +207,30 @@ msgid ""
 "most commonly reported symptom. The symptom is usually a flashing circle "
 "icon where the access point circle icon never appears in the Frame or the "
 "circle's menu never contains \"Connected.\" This flashing animation "
-"indicates the XO is trying to connect, but the lack of connection indicators "
-"tells you that it fails to connect. If this happens, try the troubleshooting "
-"suggestions just below. Is the wifi hotspot dot visible in the Neighborhood "
-"View?"
+"indicates the XO is trying to connect, but the lack of connection indicators"
+" tells you that it fails to connect. If this happens, try the "
+"troubleshooting suggestions just below. Is the wifi hotspot dot visible in "
+"the Neighborhood View?"
 msgstr ""
+"Enkapasite yo konekte ak yon pwen aksè nan Katye View la se sentòm ki pi "
+"souvan rapòte. Sentòm ki se nòmalman yon icon sèk ekla kote aksè pwen icon a"
+" sèk pa janm parèt nan ankadreman an oswa meni sèk la a pa janm gen "
+"\"Konekte. \"Animasyon flache Sa a endike XO a ap eseye konekte, men mank "
+"nan endikatè koneksyon di ou ke li echwe konekte. Si sa rive, eseye sijesyon"
+" yo depanaj jis anba a. Èske wifi otspo dot la vizib nan Katye View la?"
 
 # f3d458c2ba6b4b06a1288976e487ee82
 #: ../source/troubleshooting_connectivity.rst:37
 msgid ""
 "Go to the Neighborhood View and type the name of your SSID in the Seach box "
 "to highlight your access point. Each circle network icon represents a "
-"Service Set Identifier (SSID). On one of the icons in the Neighborhood View, "
-"you should see your Wi-Fi hotspot's network name."
+"Service Set Identifier (SSID). On one of the icons in the Neighborhood View,"
+" you should see your Wi-Fi hotspot's network name."
 msgstr ""
+"Ale nan View nan Katye ak kalite non an nan ssid ou nan ti bwat la Seach nan"
+" mete aksan sou pwen aksè ou. Chak icon rezo sèk reprezante yon Lapòs Set "
+"Idantifikatè (ssid). Sou youn nan ikon yo nan gade nan Katye, ou ta dwe wè "
+"non otspo Wi-Fi ou a rezo."
 
 # 508d48a537fa476ca125d4334fb9ebed
 #: ../source/troubleshooting_connectivity.rst:43
@@ -204,11 +238,13 @@ msgid ""
 "If you cannot see the network name there may be a few reasons for this, so "
 "continue troubleshooting."
 msgstr ""
+"Si ou pa ka wè non an rezo ka gen yon rezon ki fè kèk pou sa a, se konsa "
+"kontinye depanaj."
 
 # ec7f925697f94af8bf62f1617b5e2ea2
 #: ../source/troubleshooting_connectivity.rst:46
 msgid "Is the name of the network a hidden SSID?"
-msgstr ""
+msgstr "Se non an nan rezo a yon ssid kache?"
 
 # 7123fb71a2e947a2b26ee5245fdaf471
 #: ../source/troubleshooting_connectivity.rst:48
@@ -217,6 +253,9 @@ msgid ""
 "it is not possible for the XO to connect to your wireless network through "
 "the Sugar User Interface."
 msgstr ""
+"Si ssid ou / Rezo Non se mete yo dwe kache nan configuration la, te routeur,"
+" li pa posib pou XO a pou konekte avèk rezo san fil ou nan koòdone itilizatè"
+" la Sugar."
 
 # f0326e67c4e44b2db7bc6bc013fa951b
 #: ../source/troubleshooting_connectivity.rst:50
@@ -224,6 +263,8 @@ msgid ""
 "You may connect manually by typing commands in the Terminal Activity. To do "
 "so, launch the Terminal Activity and type these commands:"
 msgstr ""
+"Ou ka konekte manyèlman pa sezisman kòmandman nan Aktivite nan Tèminal. Pou "
+"fè sa, lanse aktivite nan Tèminal ak kalite kòmandman sa yo:"
 
 # 4e6d35cf70bd4eaaa6a42319a02ee09a
 #: ../source/troubleshooting_connectivity.rst:58
@@ -233,11 +274,15 @@ msgid ""
 "your access point for the string myhiddennetwork in the above example). "
 "Finally, dhclient asks for an IP address from the access point."
 msgstr ""
+"Kòm yon eksplikasyon, su yo lòd, ki kreye yon pwosesis rasin. Lòd la "
+"iwconfig konekte nan rezo kache ou a (nan kou, ranplase non an nan pwen aksè"
+" ou pou myhiddennetwork la fisèl nan egzanp lan pi wo a). Finalman, dhclient"
+" mande pou yon adrès IP soti nan pwen an aksè."
 
 # b3dde4a381484139b9f417d100eae89c
 #: ../source/troubleshooting_connectivity.rst:61
 msgid "Is your Wi-Fi router filtering connections based on a MAC Address?"
-msgstr ""
+msgstr "Èske Wi-Fi koneksyon routeur filtraj ou ki baze sou yon MAC adrès?"
 
 # a8b6d4de48054c64a2b4f8d57a878e74
 #: ../source/troubleshooting_connectivity.rst:63
@@ -248,6 +293,11 @@ msgid ""
 "not a secure method of protecting a network, some routers use it, and it "
 "could prevent your XO from using that access point."
 msgstr ""
+"Ou ka anpeche lòt òdinatè soti nan lè l sèvi avèk routeur fil ou pa "
+"konfigirasyon li yo filtre pa MAC Adrès. Yon adrès MAC se yon adrès inik "
+"entegre nan rezo adaptè òdinatè w lan an. Pandan ke MAC adrès filtraj se pa "
+"yon metòd sekirite pou pwoteje yon rezo, kèk routeurs sèvi ak li, ak li te "
+"kapab anpeche ou soti nan lè l sèvi avèk XO ki pwen aksè."
 
 # bbba6aef615648878e1c939430e4cd4c
 #: ../source/troubleshooting_connectivity.rst:65
@@ -255,11 +305,13 @@ msgid ""
 "To fix a filtering problem, you can find the MAC Address and add it to the "
 "list of allowed computers that can connect with the wireless router."
 msgstr ""
+"Pou repare yon pwoblèm filtraj, ou ka jwenn adrès la MAC epi ajoute li sou "
+"lis la nan pèmèt òdinatè ki kapab konekte ak routeur la san fil."
 
 # 38e44a4f238a45fb931fbe59f8ba6a94
 #: ../source/troubleshooting_connectivity.rst:67
 msgid "To do so, launch the Terminal Activity and type these commands:"
-msgstr ""
+msgstr "Pou fè sa, lanse aktivite nan Tèminal ak kalite kòmandman sa yo:"
 
 # 1230feb4156a4deaa3e8b2a57eb84b07
 #: ../source/troubleshooting_connectivity.rst:73
@@ -267,6 +319,8 @@ msgid ""
 "The MAC address is in the first line next to the HWAddr tag: and is in the "
 "form of \"00:17:C4:XX:XX:XX\""
 msgstr ""
+"Adrès postal la MAC se nan liy nan premye akote tag nan HWAddr: epi li se "
+"nan fòm lan nan \"00: 17: C4: XX: XX: XX\""
 
 # 2121b95446e743fa8d514b1c5e92502c
 #: ../source/troubleshooting_connectivity.rst:75
@@ -274,26 +328,34 @@ msgid ""
 "In the WiFi router configuration for filtering, add the MAC Address you "
 "found with the ifconfig command."
 msgstr ""
+"Nan configuration la, te fil routeur pou filtraj, ajoute MAC la adrese nou "
+"jwenn ak yo lòd, ki ifconfig."
 
 # c794a64b9033495a965284fef93c4957
 #: ../source/troubleshooting_connectivity.rst:78
 msgid "Is your WiFi router configured to support 802.11b or 802.11g or both?"
 msgstr ""
+"Èske routeur fil ou configuré sipòte 802. 11b oswa 802. 11g oswa toude?"
 
 # ce03120de1f94abdb8db7b8d8bfd5704
 #: ../source/troubleshooting_connectivity.rst:80
 msgid ""
 "Read the documentation for your wireless router to determine how to "
-"configure it for 802.11g support, or to determine if it is using the 802.11g "
-"protocol. In this example, the Mode drop-down list is where you would look "
+"configure it for 802.11g support, or to determine if it is using the 802.11g"
+" protocol. In this example, the Mode drop-down list is where you would look "
 "for protocol settings. It may not work to have both g and b modes as shown, "
 "so try different configurations to see if another configuration works."
 msgstr ""
+"Li dokiman an pou routeur fil ou a detèmine ki jan yo configured li pou 802."
+" Sipò 11g, oswa yo detèmine si li se lè l sèvi avèk 802 la. Pwotokòl 11g. "
+"Nan egzanp sa a, Mode lis la gout-desann a se kote ou ta gade pou anviwònman"
+" pwotokòl. Li pa kapab travay gen tou de g ak b mòd menm jan yo montre, se "
+"konsa eseye konfigirasyon diferan yo wè si yon lòt travay konfigirasyon."
 
 # ec30ab420e404c04b7a5d479458d79e0
 #: ../source/troubleshooting_connectivity.rst:85
 msgid "Are the access point settings not in channels 1, 6, or 11?"
-msgstr ""
+msgstr "Èske anviwònman yo pwen aksè pa nan chanèl 1, 6, oswa 11?"
 
 # 9db03d76c3334f84b55a00d8d8db60b0
 #: ../source/troubleshooting_connectivity.rst:87
@@ -303,21 +365,28 @@ msgid ""
 "three channels, the three non-interfering channels available to 802.11g "
 "wireless protocol."
 msgstr ""
+"Se pwen aksè ou ap travay sou yon lòt kanal ki pa nan 1, 6, oswa 11? . 11g "
+"san fil pwotokòl."
 
 # c0027facd41342b1bbcb0d9e8a3cded1
 #: ../source/troubleshooting_connectivity.rst:89
 msgid ""
-"Try changing your access point to one of the three channels and check if you "
-"can associate your XO to it. Refer to your access point's documentation for "
-"information on changing the frequency channel that your access point "
+"Try changing your access point to one of the three channels and check if you"
+" can associate your XO to it. Refer to your access point's documentation for"
+" information on changing the frequency channel that your access point "
 "broadcasts on. This image shows an example of the settings for a wireless "
 "router. The Channel field is where you change the frequency setting."
 msgstr ""
+"Eseye chanje pwen aksè ou a youn nan twa chanèl yo epi tcheke si ou ka "
+"asosye XO ou a li. Gade nan dokiman pwen aksè ou a pou enfòmasyon sou chanje"
+" kanal la frekans ki pwen aksè ou emisyon sou. Imaj sa a montre yon egzanp "
+"nan anviwònman yo pou yon routeur fil. Jaden an Chèn se kote ou chanje "
+"anviwònman an frekans."
 
 # 3fb989ea20ac4663983467e768ed3867
 #: ../source/troubleshooting_connectivity.rst:94
 msgid "Why can't the XO Browse when connected?"
-msgstr ""
+msgstr "Poukisa nou pa ka XO Browse nan lè ki konekte?"
 
 # 39a251b989de407ba022c14dfd6a5855
 #: ../source/troubleshooting_connectivity.rst:96
@@ -325,16 +394,23 @@ msgid ""
 "Symptom: Your XO shows that your Internet connection is working, but you "
 "cannot browse or search any pages."
 msgstr ""
+"Senptòm: XO ou montre ke koneksyon entènèt ou ap travay, men ou pa ka browse"
+" oswa rechèch nenpòt paj."
 
 # 2fc67e494ac040c7bbad88c1852abdfb
 #: ../source/troubleshooting_connectivity.rst:98
 msgid ""
-"Most likely, the XO has failed to receive DNS information from your internet "
-"access point. If this is the case, you would be able to access the Internet "
-"for sites named directly with IP addresses but not their common names. In "
-"other words, http://209.85.133.18 would work but http://www.google.com would "
-"not."
+"Most likely, the XO has failed to receive DNS information from your internet"
+" access point. If this is the case, you would be able to access the Internet"
+" for sites named directly with IP addresses but not their common names. In "
+"other words, http://209.85.133.18 would work but http://www.google.com would"
+" not."
 msgstr ""
+"Gen plis chans, li te XO a echwe pou pou resevwa enfòmasyon dns soti nan "
+"pwen aksè entènèt ou. Si sa a se ka a, ou ta dwe kapab jwenn aksè nan "
+"entènèt la pou sit yo te rele dirèkteman ak adrès IP, men se pa non komen "
+"yo. Nan lòt mo, http: // 209. 85. 133. 18 ta travay men http: // www. "
+"Google. com pa t 'vle."
 
 # fb08b283235e4fe08a57de59e29565a6
 #: ../source/troubleshooting_connectivity.rst:100
@@ -342,11 +418,13 @@ msgid ""
 "Verify what the XO has received (from the Internet access point) for DNS "
 "information by using the Browse Activity and looking at this URL:"
 msgstr ""
+"Verify sa XO a te resevwa (ki soti nan pwen an aksè nan Entènèt) pou "
+"enfòmasyon dns lè l sèvi avèk Browse aktivite a ak gade nan URL sa a:"
 
 # 5ab2d79e6a434ea6bae911b3019d3c6f
 #: ../source/troubleshooting_connectivity.rst:102
 msgid "file://localhost/etc/resolv.conf"
-msgstr ""
+msgstr "dosye: // localhost / eksetera / resolv. konf"
 
 # d544a3f9e2da4e609d663b4fd16c7943
 #: ../source/troubleshooting_connectivity.rst:104
@@ -356,51 +434,78 @@ msgid ""
 "IP address assigned is wrong, this would account for the behavior you're "
 "seeing."
 msgstr ""
+"Paj sa a ta dwe montre adrès la IP nan sèvè a dns plase nan pwen an aksè nan"
+" Entènèt. Si pa gen yon adrès IP nan paj sa a, oswa si adrès la IP asiyen ki"
+" mal, sa a ta kont pou konpòtman an w ap wè."
 
 # ec90694d67d146d2b1738ee3ec777c35
 #: ../source/troubleshooting_connectivity.rst:106
 msgid ""
-"If there is no IP address, or the address is wrong, you'll need to determine "
-"why the Internet access point is failing to supply one, but this is likely "
+"If there is no IP address, or the address is wrong, you'll need to determine"
+" why the Internet access point is failing to supply one, but this is likely "
 "to be misconfiguration of the access point."
 msgstr ""
+"Si pa gen okenn adrès IP, oswa adrès la se sa ki mal, ou pral bezwen "
+"detèmine poukisa pwen an aksè nan Entènèt se li pap resevwa yo bay yon sèl, "
+"men sa a se chans yo dwe movèz pwen an aksè."
 
 # 320f56c3e7a24613b74207e873b2f08b
 #: ../source/troubleshooting_connectivity.rst:109
 msgid "Connecting to the Internet without wireless access"
-msgstr ""
+msgstr "Konekte sou entènèt la san yo pa aksè san fil"
 
 # 2c9b07fb80b74128af1a04489832d0b2
 #: ../source/troubleshooting_connectivity.rst:111
 msgid ""
 "If you cannot successfully or consistently connect to the Internet using Wi-"
-"Fi, you can use a USB-to-Ethernet connector to hook up to a wired connection "
-"rather than wireless. Examples of products that have worked for other users "
-"include the Linksys USB100M and the Zoltan Tech USB2.0 Fast Ethernet "
+"Fi, you can use a USB-to-Ethernet connector to hook up to a wired connection"
+" rather than wireless. Examples of products that have worked for other users"
+" include the Linksys USB100M and the Zoltan Tech USB2.0 Fast Ethernet "
 "adapter, which cost about USD $10-$25."
 msgstr ""
+"Si ou pa kapab avèk siksè oswa toujou konekte sou entènèt la lè l sèvi avèk "
+"Wi-Fi, ou ka itilize yon Connector USB-a-Ethernet akwoche yon koneksyon "
+"branche olye ke san fil. Men kèk egzanp sou pwodwi sa yo ki te te travay pou"
+" itilizatè lòt gen ladan USB100M la Linksys ak USB2 nan Zoltán Tech. 0 Vit "
+"Ethernet adaptè, ki koute sou USD $ 10- $ 25."
 
 # b14c0535bd11403bb8f33474c2cac856
 #: ../source/troubleshooting_connectivity.rst:113
 msgid ""
 "If you want to connect to your XO wirelessly with a dial-up connection, you "
-"can do it with an older version of Apple's Airport Extreme (A1034). Apple no "
-"longer sells them, but they are available on the Internet for between $18 "
+"can do it with an older version of Apple's Airport Extreme (A1034). Apple no"
+" longer sells them, but they are available on the Internet for between $18 "
 "and $36. Be sure the one you get has a port for the phone line, and "
 "preferably, with a phone cord included. Directions for connecting with it "
-"are on the Wiki at http://wiki.laptop.org/go/"
-"Wifi_Connectivity#Apple_Airport. Connecting while traveling"
+"are on the Wiki at "
+"http://wiki.laptop.org/go/Wifi_Connectivity#Apple_Airport. Connecting while "
+"traveling"
 msgstr ""
+"Si ou vle pou konekte avèk XO ou wirelessly ak yon koneksyon dial pou leve, "
+"ou ka fè l 'ak yon ansyen vèsyon Ayewopò ekstrèm Apple la (A1034). Apple pa "
+"gen okenn ankò vann yo, men yo ki disponib sou entènèt la pou ant $ 18 ak $ "
+"36. Asire w ke yon sèl la ou jwenn gen yon pò pou liy telefòn nan, ak de "
+"preferans, ak yon kòd telefòn enkli. Esplikasyon pou konekte ak li yo sou "
+"Wiki a nan http: // wiki. laptop. org / ale / Wifi_Connectivity # "
+"Apple_Airport. Koneksyon pandan y ap vwayaje"
 
 # 7cc724c5693c44748a172016053418eb
 #: ../source/troubleshooting_connectivity.rst:115
 msgid ""
 "Your XO makes a wonderful traveling companion. You can connect to a wide "
-"variety of public WiFi sites often found in community centers and libraries, "
-"even in restaurants and hotels. All you will need to do is to obtain a "
-"correct password and log on according to the instructions above. Many places "
-"will not require a password to connect and the process will be even easier. "
-"Remember, however, that passwords provide an extra layer of internet "
+"variety of public WiFi sites often found in community centers and libraries,"
+" even in restaurants and hotels. All you will need to do is to obtain a "
+"correct password and log on according to the instructions above. Many places"
+" will not require a password to connect and the process will be even easier."
+" Remember, however, that passwords provide an extra layer of internet "
 "security. Without them, you run a slightly higher risk of experiencing some "
 "type of Internet fraud."
 msgstr ""
+"XO ou fè yon konpayon vwayaje bèl bagay. Ou ka konekte nan yon gran varyete "
+"nan sit fil piblik souvan jwenn nan sant kominotè ak bibliyotèk, menm nan "
+"restoran ak otèl. Tout sa ou ap bezwen fè se jwenn yon modpas kòrèk epi yo "
+"ale sou selon enstriksyon ki anwo. Anpil kote pa yo pral mande pou yon "
+"modpas yo konekte ak pwosesis la pral menm vin pi fasil. Sonje, sepandan, ke"
+" modpas bay yon kouch siplemantè nan sekirite entènèt. San yo pa yo, ou "
+"kouri nan yon ti kras pi wo risk pou yo fè eksperyans kèk kalite fwod sou "
+"Entènèt."

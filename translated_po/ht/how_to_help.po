@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 4863b87ceafe43779c0a8d06797c7368
 #: ../source/how_to_help.rst:3
 msgid "How to edit Help and contribute"
-msgstr ""
+msgstr "Ki jan yo edit Ede ak kontribye"
 
 # e6a88cd451334970b284614bd864a02f
 #: ../source/how_to_help.rst:7
 msgid "Page version for review."
-msgstr ""
+msgstr "Page vèsyon pou revizyon."
 
 # 7b9f70647f98429ca37b7fcd79d76d05
 #: ../source/how_to_help.rst:9
@@ -32,20 +32,25 @@ msgid ""
 "Corrections, omissions, and feedback most welcome, iain at browndouglas dot "
 "plus dot com. 28 November 2013."
 msgstr ""
+"Koreksyon, omisyon, ak remak ki pi akeyi yo, Iain nan browndouglas dot plis "
+"dot com. 28 Novanm 2013."
 
 # 649acac3b0a14969a48ba7a638e70c2f
 #: ../source/how_to_help.rst:12
 msgid "Help displays documentation for Sugar and the XO laptop."
-msgstr ""
+msgstr "Ede montre dokiman pou Sik ak konpitè pòtatif li a XO."
 
 # c65586723b4e49cb9c16c640deea283e
 #: ../source/how_to_help.rst:14
 msgid ""
-"This version of Help contains all the source files and images, and now a :"
-"ref:`View source` button. These files can be edited within Help, and "
+"This version of Help contains all the source files and images, and now a "
+":ref:`View source` button. These files can be edited within Help, and "
 "displayed. Help is now capable of producing new pages for Help, or making "
 "completely fresh documentation."
 msgstr ""
+"Sa a vèsyon nan Ede gen tout dosye yo sous ak imaj, e kounye a, yon: ref: "
+"`View source` bouton. Dosye sa yo ka edited nan èd, ak parèt. Ede se kounye "
+"a kapab pwodwi paj nouvo pou èd, oswa fè dokiman konplètman fre."
 
 # cf895180a90d49379ee13a26e06f0c04
 #: ../source/how_to_help.rst:16
@@ -54,50 +59,61 @@ msgid ""
 "users share their work, could be used to improve Help. To contribute you "
 "only need to:"
 msgstr ""
+"Paj sa a gen pou objaktif pou montre ki jan yo ekri dokiman atire, ki, si "
+"itilizatè pataje travay yo, yo ka itilize amelyore Ede. Pou kontribye ou "
+"sèlman bezwen:"
 
 # f3ba9a9b60c54ede82b14f4fec5f1edf
 # 426cf437de904d8384698a9dfdb5acf2
 #: ../source/how_to_help.rst:18 ../source/how_to_help.rst:23
 msgid "Create a development environment"
-msgstr ""
+msgstr "Kreye yon anviwònman devlopman"
 
 # 31f6b5748ff24e0097fa4f7167411895
 # 24ffcc2bd19d4c0889d63c76a416438d
 #: ../source/how_to_help.rst:19 ../source/how_to_help.rst:135
 msgid "Make changes"
-msgstr ""
+msgstr "Fè chanjman"
 
 # 5e8ed79f33374c299dcf63ec735881ea
 #: ../source/how_to_help.rst:20
 msgid "Contribute the changes"
-msgstr ""
+msgstr "Kontribye chanjman yo"
 
 # b70d62e9283148b38f32a0202dad0457
 #: ../source/how_to_help.rst:25
 msgid "XO Help.xo 17 already includes the source files ready to use."
-msgstr ""
+msgstr "XO Ede. xo 17 deja gen ladan sous la depoze pare yo itilize."
 
 # e94f0238520a4932a217c6cfc5fda312
 #: ../source/how_to_help.rst:27
 msgid ""
 "Alternatively, you can use git to get Help Activity with the most recent "
-"sources included. If you have the Activity Help already installed, uninstall "
-"it first. Generally an Activity is uninstalled from the F3, Home View, List, "
-"by selecting the Activity, and press Erase. Where Erase is not available, "
-"you need to delete ``Help.activity`` from the folder ``~/Activities``."
+"sources included. If you have the Activity Help already installed, uninstall"
+" it first. Generally an Activity is uninstalled from the F3, Home View, "
+"List, by selecting the Activity, and press Erase. Where Erase is not "
+"available, you need to delete ``Help.activity`` from the folder "
+"``~/Activities``."
 msgstr ""
+"Altènativman, ou ka sèvi ak git jwenn Ede aktivite ak sous yo ki pi resan "
+"enkli. Si ou gen èd nan aktivite deja enstale, unenstal li premye. Anjeneral"
+" se yon aktivite dezenstalasyon soti nan F3 a, Kay View, Lis, pa chwazi "
+"aktivite a, ak laprès Erase. Ki kote Erase a pa disponib, ou bezwen efase ``"
+" Ede. activity`` soti nan folder nan `` ~ / Activities``."
 
 # 8d529036f88d4a52b420f55d2feb2834
 #: ../source/how_to_help.rst:29
 msgid ""
-"The following guide assumes you ``git clone`` from your home directory. This "
-"command will collect all the required resources."
+"The following guide assumes you ``git clone`` from your home directory. This"
+" command will collect all the required resources."
 msgstr ""
+"Gid sa a pansé ké ou `` clone`` git nan anyè lakay ou. Kòmandman sa a pral "
+"kolekte tout resous ki nesesè yo."
 
 # 6df5aef7ac5943ca979683bbcb9eb262
 #: ../source/how_to_help.rst:35
 msgid "You can install it in your Sugar development environment doing: ::"
-msgstr ""
+msgstr "Ou ka enstale li nan anviwònman devlopman Sugar ou fè: ::"
 
 # d11bba1a98864d25945d77615c2e4181
 #: ../source/how_to_help.rst:40
@@ -105,11 +121,14 @@ msgid ""
 "You need have a complete sugar environment to run \"setup.py dev\" if you "
 "have a error in your system, try run it in the Terminal Activity."
 msgstr ""
+"Ou bezwen gen yon anviwònman sik konplè nan kouri \"konfigirasyon. d dev "
+"\"si ou gen yon erè nan sistèm ou a, eseye kouri li nan aktivite nan "
+"Tèminal."
 
 # 23236e64369f4537b68ac972c3d51b55
 #: ../source/how_to_help.rst:42
 msgid "and, when you are ready, to populate your Help pages ::"
-msgstr ""
+msgstr "epi, lè ou pare, peple Ede paj ou ::"
 
 # 5d8cee3e494d43d48c914b28d3dbee53
 #: ../source/how_to_help.rst:46
@@ -117,11 +136,13 @@ msgid ""
 "You can modify any .rst file in ~/help-activity/source/ directory or the "
 "images in the ~/help-activity/source/images/ directory."
 msgstr ""
+"Ou ka modifye nenpòt. dosye RST nan ~ / èd-aktivite / sous / anyè oswa imaj "
+"yo nan ~ / èd-aktivite / sous / images / anyè a."
 
 # 1406b8ba03024ca0942f2091938b41a9
 #: ../source/how_to_help.rst:48
 msgid "To create the new HTML files you only need do: ::"
-msgstr ""
+msgstr "Pou kreye dosye yo HTML nouvo ou sèlman bezwen fè: ::"
 
 # 30df8de3aae843f69e7932f73aedf9bc
 #: ../source/how_to_help.rst:53
@@ -129,17 +150,21 @@ msgid ""
 "If you see an error indicating that HTML cannot be built, the most likely "
 "cause is that ``python-sphinx`` is missing."
 msgstr ""
+"Si ou wè yon erè ki endike ke HTML pa ka bati, kòz la gen plis chans se ke "
+"`` piton-sphinx`` ki manke."
 
 # e9891c39b8824e88bee93153faafa3af
 #: ../source/how_to_help.rst:55
 msgid ""
 "To fix this, in Terminal Activity (or any terminal emulator) as root, ::"
 msgstr ""
+"Pou repare sa a, nan aktivite Tèminal (oswa nenpòt Emulation tèminal) kòm "
+"rasin, ::"
 
 # d5b1b011b9db493784741e0ebe8bf35c
 #: ../source/how_to_help.rst:59
 msgid "or in Debian or Ubuntu derivatives, ::"
-msgstr ""
+msgstr "oswa nan dbyan oswa Ubuntu dérivés, ::"
 
 # 3516a373c15a49c59ece4733d213470d
 #: ../source/how_to_help.rst:63
@@ -148,6 +173,8 @@ msgid ""
 "``make html``, you just click with the secondary mouse button, and select "
 "reload."
 msgstr ""
+"Nan ** Sugar ** ou pa bezwen rekòmanse Ede wè chanjman yo apre kouri `` fè "
+"html``, ou jis klike ak bouton an sourit segondè, epi chwazi Reload."
 
 # 93bc6304010f4758b2393f39a20c0c31
 #: ../source/how_to_help.rst:65
@@ -155,14 +182,19 @@ msgid ""
 "In any other, non-Sugar, Linux environment the command ``git clone "
 "git@github.com:godiard/help-activity.git`` works to download the sources, "
 "``./setup.py dev`` should be omitted, and the output of ``make html`` is in "
-"``~/help-activity/html``, and is displayed by opening ``~/help-activity/html/"
-"index.html`` in a browser."
+"``~/help-activity/html``, and is displayed by opening ``~/help-"
+"activity/html/index.html`` in a browser."
 msgstr ""
+"Nan nenpòt ki lòt, ki pa Peye-Sugar, Linux anviwònman yo lòd, ki `` git git "
+"script @ GitHub. com: godiard / èd-aktivite. git`` travay nan download sous "
+"yo, ``. / Konfigirasyon. d dev`` ta dwe omisyon, ak pwodiksyon an nan `` fè "
+"html`` se nan `` ~ / èd-aktivite / html``, epi li se parèt pa ouvèti `` ~ / "
+"èd-aktivite / html / endèks. html`` nan yon navigatè."
 
 # 6c942e6b022c490a9c68ba490e6444e1
 #: ../source/how_to_help.rst:68
 msgid "What if I break Help?"
-msgstr ""
+msgstr "E si mwen kraze Ede?"
 
 # c594ac44deaf48c881843a27d17b865e
 #: ../source/how_to_help.rst:70
@@ -171,14 +203,20 @@ msgid ""
 "and get lost or make a mistake, and Help will not display correctly, you "
 "should not worry."
 msgstr ""
+"Nan Sugar ou pa ka kraze Ede. Si ou kòmanse swiv enstriksyon sa yo epi pou "
+"yo jwenn pèdi oswa fè yon erè, epi ede pa pral montre kòrèkteman, ou pa ta "
+"dwe enkyete."
 
 # 8b3ecb449c0e49dbbc7e5b0823c6c86c
 #: ../source/how_to_help.rst:72
 msgid ""
-"First back up any files.rst you have already made, then visit `ASLO <http://"
-"activities.sugarlabs.org>`_ with Browse. Search for Help, and download and "
-"install a new copy of XO Help."
+"First back up any files.rst you have already made, then visit `ASLO "
+"<http://activities.sugarlabs.org>`_ with Browse. Search for Help, and "
+"download and install a new copy of XO Help."
 msgstr ""
+"Premye do moute nenpòt ki dosye. RST ou te deja fè a, Lè sa a, vizite `aslo "
+"<http: // aktivite. sugarlabs. org> `_ ak Browse. Search pou èd, ak download"
+" yo ak enstale yon kopi nouvo nan XO Ede."
 
 # 76021c22726444578544887dbc032c09
 #: ../source/how_to_help.rst:74
@@ -186,47 +224,51 @@ msgid ""
 "Alternatively, experienced users might make a backup .xo before starting to "
 "work by doing: ::"
 msgstr ""
+"Altènativman, ki gen eksperyans itilizatè ta ka fè yon backup. xo anvan yo "
+"kòmanse nan travay pa fè: ::"
 
 # 3a02c0e44e8b406b93a18673b70d1b56
 #: ../source/how_to_help.rst:78
 msgid "This will create a directory dist and inside, an .xo file."
-msgstr ""
+msgstr "Sa a pral kreye yon dist anyè ak andedan, yon. xo dosye."
 
 # 105d3f5f13ac4cb3945d3674fbc70fee
 #: ../source/how_to_help.rst:81
 msgid "Tutorial 0 - Browse filesystem"
-msgstr ""
+msgstr "Tutorial 0 - Browse filèsistèm"
 
 # 9e2226a8ec1e421ebe471b56c422a23d
 #: ../source/how_to_help.rst:83
 msgid "In Browse and some other browsers if you type ::"
-msgstr ""
+msgstr "Nan Browse ak kèk lòt navigatè si ou tape ::"
 
 # 1b2c05f73d8843b7bfd11f70e96f9b18
 #: ../source/how_to_help.rst:87
 msgid "in the address bar, you will be browsing the root of your file system."
-msgstr ""
+msgstr "nan ba a adrès, ou pral Navigasyon rasin lan nan sistèm dosye ou."
 
 # b9cfcea11cba4d0993dfef88e3f9a309
 #: ../source/how_to_help.rst:89
 msgid "Now move progressively through ::"
-msgstr ""
+msgstr "Koulye a, deplase progresivman a ::"
 
 # 5cd381caf4b94bd28c0267d58507ba46
 #: ../source/how_to_help.rst:99
 msgid ""
 "You are now able to open and inspect any of the *source_files.rst* safely."
 msgstr ""
+"Ou se kounye a kapab louvri ak enspekte nenpòt nan source_files yo *. RST * "
+"san danje."
 
 # 6beea081ef3b40688b026bac81bddc11
 #: ../source/how_to_help.rst:101
 msgid "We can back off again and reach ::"
-msgstr ""
+msgstr "Nou ka tounen nan ankò, epi rive nan ::"
 
 # 357b998afff64f8681a3879d47ab1549
 #: ../source/how_to_help.rst:105
 msgid "and then select and display any of the output HTML files."
-msgstr ""
+msgstr "ak Lè sa a chwazi epi montre nenpòt nan dosye yo HTML pwodiksyon."
 
 # a91d213754af425aa91a18d1f7904089
 #: ../source/how_to_help.rst:107
@@ -234,30 +276,35 @@ msgid ""
 "In this page we use the convention of calling ``/home/your-username/help-"
 "activity/source`` by the shorter, ``~/help-activity/source``."
 msgstr ""
+"Nan paj sa a nou itilize konvansyon an pou rezidan yo rele `` / Home /-non "
+"itilizatè ou an / èd-aktivite / source`` pa pi kout, `` ~ / èd-aktivite / "
+"source`` la."
 
 # cb6a6d3a2acc4ab880b1f473abe40381
 #: ../source/how_to_help.rst:112
 msgid "Orientation"
-msgstr ""
+msgstr "Oryantasyon"
 
 # f0454593a0c14e4fa6cf3a75cc54ae75
 #: ../source/how_to_help.rst:114
 msgid "**Source**"
-msgstr ""
+msgstr "** Sous **"
 
 # ddf4c57c309e46e68ce5e82de6f65f27
 #: ../source/how_to_help.rst:116
 msgid ""
 "The two source folders we look at are filled initially by the download of "
 "Help."
-msgstr ""
+msgstr "De dosye yo sous nou gade nan ki plen okòmansman pa download nan Èd."
 
 # 3d2864c1c25f477fa8c2ac6de12a73ac
 #: ../source/how_to_help.rst:118
 msgid ""
-"The directory ``~/help-activity/source/`` contains the text files we will be "
-"altering in this guide."
+"The directory ``~/help-activity/source/`` contains the text files we will be"
+" altering in this guide."
 msgstr ""
+"Anyè a `` ~ / èd-aktivite / sous / `` gen dosye yo tèks nou pral chanje nan "
+"gid sa a."
 
 # 11e485996a8a4d509a03c7d8fe4fac82
 #: ../source/how_to_help.rst:120
@@ -267,41 +314,55 @@ msgid ""
 "and if they are linked into documents, they will display in the *output* of "
 "the command ``make html``."
 msgstr ""
+"Anyè a `` ~ / èd-aktivite / images / `` gen tout imaj yo ke yo te itilize "
+"nan paj sa yo divès kalite nan Èd. Ou kapab ajoute dosye imaj nan sa a "
+"folder, e si yo te yo lye nan dokiman yo, yo pral montre nan pwodiksyon * * "
+"nan yo lòd, ki `` fè html``."
 
 # 798a25a7060849f5b759d1df78e102d9
 #: ../source/how_to_help.rst:122
 msgid ""
-"In Sugar you have the ability to inspect the source files safely, using the :"
-"ref:`View source` button on the Help icon in the Frame."
+"In Sugar you have the ability to inspect the source files safely, using the "
+":ref:`View source` button on the Help icon in the Frame."
 msgstr ""
+"Nan Sugar ou gen kapasite nan yo enspekte dosye yo sous san danje, lè l sèvi"
+" avèk: ref la: `View source` bouton sou èd icon a nan ankadreman an."
 
 # 8394512632dc4738aa90a0fdea9f2cab
 #: ../source/how_to_help.rst:124
 msgid ""
-"The key page in navigating Help is the Index or contents page. In the ``~/"
-"help-activity/source/`` folder, `index.rst` is the text document which "
+"The key page in navigating Help is the Index or contents page. In the "
+"``~/help-activity/source/`` folder, `index.rst` is the text document which "
 "automatically provides links to all other pages in the source folder."
 msgstr ""
+"Paj la kle nan navige Gen èd ki Index oswa sa paj la. Nan `` ~ / èd-aktivite"
+" / sous la / `` katab, `endèks. rst` se dokiman la tèks ki otomatikman bay "
+"lyen ki mennen nan tout lòt paj nan dosye a sous."
 
 # 020f7cfd70f8406d9da044b140273743
 #: ../source/how_to_help.rst:126
 msgid "**Output**"
-msgstr ""
+msgstr "** Sòti **"
 
 # 496bfbf430b74bbda1646913e6f92dfc
 #: ../source/how_to_help.rst:128
 msgid ""
-"The pages displayed in Help are the output of the command ``make html``. The "
-"files are in the folder ``~/help-activity/html/``."
+"The pages displayed in Help are the output of the command ``make html``. The"
+" files are in the folder ``~/help-activity/html/``."
 msgstr ""
+"Paj sa parèt nan Ede yo pwodiksyon an nan yo lòd, ki `` fè html``. Dosye yo "
+"se nan dosye a `` ~ / èd-aktivite / html / ``."
 
 # 81b0a06cf8d14aecaa94f112040a88da
 #: ../source/how_to_help.rst:130
 msgid ""
-"Also part of the output of the command ``make html`` are the files in ``~/"
-"help-activity/doctrees/``. The role of the ``all_files.doctree`` is to "
+"Also part of the output of the command ``make html`` are the files in "
+"``~/help-activity/doctrees/``. The role of the ``all_files.doctree`` is to "
 "interlink all the HTML pages within the rules of the underlying software."
 msgstr ""
+"Epitou yon pati nan pwodiksyon an nan yo lòd, ki `` fè html`` yo dosye yo "
+"nan `` ~ / èd-aktivite / doctrees / ``. Wòl nan `` all_files yo. doctree`` "
+"se Interlink tout paj yo HTML ki nan règleman yo nan lojisyèl an kache."
 
 # 605c4e961e2d439eb68d3c6d7781a259
 #: ../source/how_to_help.rst:132
@@ -311,6 +372,10 @@ msgid ""
 "``_sources``, ``_static``, and ``_images``). These are also *output files*, "
 "they could be regarded as hidden folders, and should not be edited."
 msgstr ""
+"Tou depan de konfigirasyon an nan enstalasyon ou ka gen yon nimewo nan lòt "
+"dosye prezan nan `` ~ / èd-aktivite / html / `` folder (pou egzanp `` "
+"_sources`` a, `` _static``, ak `` _images . Sa yo se tou * dosye pwodiksyon "
+"*, yo te kapab dwe konsidere kòm dosye kache, epi yo pa ta dwe edited."
 
 # 6f03b50f59c4408e9135c62b7b859d88
 #: ../source/how_to_help.rst:137
@@ -319,34 +384,45 @@ msgid ""
 "pictures or screen-shots. Screen-shots are made in Sugar from the keyboard, "
 "by pressing the \"Alt\" key and 1."
 msgstr ""
+"Ou ka jis ekri yon paj nan tèks ki senp, petèt ak kèk foto eksplikasyon oswa"
+" ekran-vaksen. Screen-vaksen yo te fè nan Sugar soti nan klavye a, pa peze "
+"\"Alt\" kle a ak 1."
 
 # d749b93fb401449db100d46aec3e5728
 #: ../source/how_to_help.rst:139
 msgid ""
-"The page :doc:`/restructuredtext` gives some guidance on the features of the "
-"markup language we use. Do not be concerned with complex features, plain, "
+"The page :doc:`/restructuredtext` gives some guidance on the features of the"
+" markup language we use. Do not be concerned with complex features, plain, "
 "simply written text will be of most use to new learners."
 msgstr ""
+"Paj: doc la: `/ restructuredtext` bay kèk konsèy sou karakteristik yo ki nan"
+" lang nan baliz nou itilize. pa dwe konsène ak karakteristik konplèks, "
+"plenn, tèks tou senpleman ekri yo pral nan pi itilize nan nouvo elèv k ap "
+"aprann."
 
 # 0314f265c4454d20b347a6758727aa91
 #: ../source/how_to_help.rst:141
 msgid ""
 "You will have your own ideas about what you would like to change and "
-"contribute. When you explain anything, which you have struggled to learn, it "
-"is likely to be of use to others. Seeing your work published gives quite a "
+"contribute. When you explain anything, which you have struggled to learn, it"
+" is likely to be of use to others. Seeing your work published gives quite a "
 "buzz!"
 msgstr ""
+"Ou pral gen pwòp ide ou sou sa ou ta renmen chanje ak kontribye. Lè ou "
+"eksplike anyen, ki ou te plede pou aprann, pou li se chans yo dwe nan sèvi "
+"ak bay lòt moun. Wè travay ou pibliye bay byen yon Buzz!"
 
 # f19449bd19634ce39344fdd9ec12ea29
 #: ../source/how_to_help.rst:143
 msgid ""
-"Here are a few exercises, which demonstrate making changes, and making pages."
-msgstr ""
+"Here are a few exercises, which demonstrate making changes, and making "
+"pages."
+msgstr "Isit la se yon egzèsis kèk, ki demontre fè chanjman, ak fè paj."
 
 # 7cb509861f994e049f19260dcd4a0f1a
 #: ../source/how_to_help.rst:146
 msgid "Tutorial 1 - Make a page"
-msgstr ""
+msgstr "Tutorial 1 - Fè yon paj"
 
 # 697b244606674bd6827a6d13f989f898
 #: ../source/how_to_help.rst:148
@@ -354,12 +430,14 @@ msgid ""
 "We are going to make a fresh page in reStructuredText. It will not at first "
 "be connected to the index, or contents page, of Help."
 msgstr ""
+"Nou pral fè yon paj fre nan reStructuredText. Li pa pral nan premye dwe "
+"konekte nan endèks la, oswa sa paj, nan Èd."
 
 # d1fd79ce9a3c45d19e8dbfa2a0f60f54
 # 492a9f239e3a478796c537986616ef88
 #: ../source/how_to_help.rst:150 ../source/how_to_help.rst:255
 msgid "Open a new file in any text editor."
-msgstr ""
+msgstr "Louvri yon dosye nouvo nan nenpòt editè tèks."
 
 # cc690c18b27a428ca63c990ad6961b49
 #: ../source/how_to_help.rst:152
@@ -369,6 +447,10 @@ msgid ""
 "line of \"=\" \"equal\" signs above and below the title like this. Leave a "
 "line of white space, then type some text. This is an example:"
 msgstr ""
+"Sove dosye a ak non an `` my_first. rst`` nan `` ~ / èd-aktivite / source``."
+" Tape kèk tèks sou paj la. Yo nan lòd yo bay paj la yon tit nou mete yon liy"
+" nan \"=\" \"egal\" siy pi wo a ak anba a tit la tankou sa a. Kite yon liy "
+"nan espas blan, Lè sa a, tape kèk tèks. Sa a se yon egzanp:"
 
 # 12e0dd3a16d8404bbbca1ab1a5ddd55d
 #: ../source/how_to_help.rst:162
@@ -376,6 +458,8 @@ msgid ""
 "Now we want to convert our little page of text into an attractive page of "
 "Help. Open Terminal Activity (or any terminal emulator) and type,"
 msgstr ""
+"Koulye a, nou vle konvèti ti kras paj nou an nan tèks nan yon paj atire nan "
+"Èd. Open aktivite Tèminal (oswa nenpòt Emulation tèminal) ak kalite,"
 
 # 6684014ba31e4b14a83831fc1d4779ce
 #: ../source/how_to_help.rst:169
@@ -384,6 +468,9 @@ msgid ""
 "Read the error trace, expect to see an error line like the one below, but "
 "the final two lines here report a success."
 msgstr ""
+"Li pral fè sou dis liy nan pwodiksyon, pral gen mansyone nan erè. Li tras la"
+" erè, espere wè yon liy erè tankou yonn ki anba la a, men de liy yo final "
+"isit la rapòte yon siksè."
 
 # b0657fd955824329ae7e30e96fd3ecf0
 #: ../source/how_to_help.rst:178
@@ -391,19 +478,24 @@ msgid ""
 "The warning, \"WARNING: document isn't included in any toctree\" is telling "
 "us the document is not linked into the Help index yet."
 msgstr ""
+"Avètisman an, \"AVÈTISMAN: dokiman pa enkli nan nenpòt ki toctree\" ap di "
+"nou dokiman an se pa sa lye nan endèks la Ede ankò."
 
 # e272ab95e0784f368ed2f17fc93aa0b7
 #: ../source/how_to_help.rst:180
 msgid ""
-"Tutorial 2 will fix this. It does exist and you could see what it looks like "
-"if you can find it as described above with a browser in ``~/help-activity/"
-"html``."
+"Tutorial 2 will fix this. It does exist and you could see what it looks like"
+" if you can find it as described above with a browser in ``~/help-"
+"activity/html``."
 msgstr ""
+"Tutorial 2 pral ranje sa a. Li egziste ak ou te kapab wè sa li sanble si ou "
+"ka jwenn li jan sa dekri pi wo a ak yon navigatè nan `` ~ / èd-aktivite / "
+"html``."
 
 # 5dbfadf8015747cf917be32c489438c3
 #: ../source/how_to_help.rst:183
 msgid "Tutorial 2 - Link page to index"
-msgstr ""
+msgstr "Tutorial 2 - paj Link to endèks"
 
 # b2348294960647349a532a467fa5c3e8
 #: ../source/how_to_help.rst:185
@@ -411,6 +503,8 @@ msgid ""
 "Backup your index file. Open Terminal Activity (or any terminal emulator) "
 "and type,"
 msgstr ""
+"Backup dosye endèks ou. Open aktivite Tèminal (oswa nenpòt Emulation "
+"tèminal) ak kalite,"
 
 # b32c8e695d434ed7abaa9fc8ae872a3f
 #: ../source/how_to_help.rst:193
@@ -418,6 +512,8 @@ msgid ""
 "Above, we have changed directory into help-activity, changed directory into "
 "source, and copied ``index.rst`` to a new file named ``index.rst.ori``"
 msgstr ""
+"Pi wo pase, nou te chanje anyè nan èd-aktivite, chanje anyè nan sous, ak "
+"kopye `` endèks. rst`` nan yon dosye nouvo rele `` endèks. RST. ori``"
 
 # 7d01a9c7474e4f97a8f8f624b34ee306
 #: ../source/how_to_help.rst:195
@@ -425,6 +521,8 @@ msgid ""
 "Before proceeding make sure you are familiar with how to restore your index "
 "from the backup, in case you damage your Help index."
 msgstr ""
+"Anvan pwosedi asire w ke ou yo abitye avèk ki jan retabli endèks ou a soti "
+"nan backup la, nan ka ou fè dega nan endèks èd ou."
 
 # 7f9577e2a8454d08a13b26b928db51e3
 #: ../source/how_to_help.rst:197
@@ -433,29 +531,38 @@ msgid ""
 "line spacing (lines of white space especially) and indents. They are very "
 "important to maintain."
 msgstr ""
+"Open `` ~ / èd-aktivite / sous / endèks. rst`` ak yon editè tèks. Avi espas "
+"la liy (liy nan espas blan sitou) ak tire. Yo se trè enpòtan yo kenbe."
 
 # 2d558af27b374ecbb7ae56d8cac7cbf4
 #: ../source/how_to_help.rst:199
 msgid ""
-"Scroll down ``index.rst`` right to the bottom of the page. Put the cursor at "
-"the front of the last line. Using the arrow keys you will see that the "
+"Scroll down ``index.rst`` right to the bottom of the page. Put the cursor at"
+" the front of the last line. Using the arrow keys you will see that the "
 "indent is 4 \"spaces\", it is not \"Tab\"."
 msgstr ""
+"Scroll down `` endèks. rst`` dwa anba a nan paj la. Mete kurseur la an de "
+"sou devan liy ki sot pase. Lè l sèvi avèk kle yo flèch ou pral wè ke indent "
+"a se 4 \"espas\", li se pa \"Tab\"."
 
 # 4d87ad956dc14aec85f0177dea422f48
 #: ../source/how_to_help.rst:201
 msgid ""
-"Put the cursor at the end of the last line. Press *Enter*, press space bar 4 "
-"times, and enter the file name you used above ``my_page.rst``. Use \"Enter\" "
-"and the space bar so that you exactly copy the indentation, and line spacing "
-"as used in the other entries."
+"Put the cursor at the end of the last line. Press *Enter*, press space bar 4"
+" times, and enter the file name you used above ``my_page.rst``. Use "
+"\"Enter\" and the space bar so that you exactly copy the indentation, and "
+"line spacing as used in the other entries."
 msgstr ""
+"Mete kurseur la nan fen liy ki sot pase. Press * Antre *, peze espas bar 4 "
+"fwa, ak antre nan non an dosye ou te itilize pi wo a `` my_page. rst``. Sèvi"
+" ak \"Antre nan\" ak bar nan espas pou ke ou egzakteman kopi dekoupaj an, ak"
+" espas liy kòm yo itilize nan lòt antre yo."
 
 # 211e1c3215104358b98d3bb953edb7cc
 # ae10688a711e41b79621f76fea4a434e
 #: ../source/how_to_help.rst:203 ../source/how_to_help.rst:253
 msgid "Double check your changes to ``index.rst`` and save your changes."
-msgstr ""
+msgstr "Double tcheke chanjman ou a `` endèks. rst`` epi sove chanjman ou."
 
 # 3f9e850fbefb4dbcbd7decd456f9e431
 #: ../source/how_to_help.rst:205
@@ -463,21 +570,29 @@ msgid ""
 "Now we want to convert our index into HTML. Open Terminal Activity (or any "
 "terminal emulator) and type,"
 msgstr ""
+"Koulye a, nou vle konvèti endèks nou an, nan HTML. Open aktivite Tèminal "
+"(oswa nenpòt Emulation tèminal) ak kalite,"
 
 # 4b82b5ae11464f87b657e22bc563c24a
 #: ../source/how_to_help.rst:212
 msgid ""
 "The newly changed index page will now display in Help, or in your browser, "
 "once you reload the page. In Sugar you click with the secondary button, and "
-"select reload, or in a browser pointing to ``~/help-activity/html/index."
-"html`` press the reload button. In the index, or contents page, the link to "
-"your new page can be clicked to open your page \"my_page.html\""
+"select reload, or in a browser pointing to ``~/help-"
+"activity/html/index.html`` press the reload button. In the index, or "
+"contents page, the link to your new page can be clicked to open your page "
+"\"my_page.html\""
 msgstr ""
+"Paj la endèks ki fèk chanje pral kounye a montre nan èd, oswa nan navigatè "
+"ou a, yon fwa ou Reload paj la. Nan Sugar ou klike ak bouton an segondè, epi"
+" chwazi Reload, oswa nan yon navigatè montre nan `` ~ / èd-aktivite / html /"
+" endèks. html`` peze bouton an Reload. Nan endèks la, oswa sa paj, ka lyen "
+"ki nan nouvo paj ou dwe klike yo louvri paj ou \"my_page. html \""
 
 # 27f539b189004080901981d3aef2e1d3
 #: ../source/how_to_help.rst:215
 msgid "Tutorial 3 - Adding an image"
-msgstr ""
+msgstr "Tutorial 3 - Ajoute yon imaj"
 
 # 4d4f47c4137c4ad2aaceb022fb932587
 #: ../source/how_to_help.rst:217
@@ -485,6 +600,8 @@ msgid ""
 "Open your existing page in any text editor, or create and \"Title\" a new "
 "page, and add it to the bottom of the index."
 msgstr ""
+"Louvri paj ki egziste deja ou nan nenpòt editè tèks, oswa kreye ak \"Tit\" "
+"yon paj nouvo, epi ajoute li sou anba a nan endèks la."
 
 # 3a4ad2104ae24ba6bf0f189cd2e97972
 #: ../source/how_to_help.rst:219
@@ -492,21 +609,31 @@ msgid ""
 "An image which is already in ``~/help-activity/images/`` can be included by "
 "typing this on to your page."
 msgstr ""
+"Yon imaj ki se deja nan `` ~ / èd-aktivite / images / `` ka enkli pa "
+"sezisman sa a sou paj ou."
 
 # b3ec65833209498dbc1dc0487a9ea5c9
 #: ../source/how_to_help.rst:225
 msgid ""
-"The \"reference line\" above needs a line of white space, above and below it."
+"The \"reference line\" above needs a line of white space, above and below "
+"it."
 msgstr ""
+"\"Liy nan referans\" pi wo a bezwen yon liy nan espas blan, pi wo a ak anba "
+"a li."
 
 # e9461d7bfc104de482432a2b25e2c650
 #: ../source/how_to_help.rst:227
 msgid ""
-"You can add an image file in .jpg or .png format to ``~/help-activity/images/"
-"``. It is best if the image does not exceed 800 pixels in width. It can be "
-"difficult to read around tall images. For this reason screen-shots 600 "
-"pixels in width may be a good compromise if the content is simple."
+"You can add an image file in .jpg or .png format to ``~/help-"
+"activity/images/``. It is best if the image does not exceed 800 pixels in "
+"width. It can be difficult to read around tall images. For this reason "
+"screen-shots 600 pixels in width may be a good compromise if the content is "
+"simple."
 msgstr ""
+"Ou kapab ajoute yon dosye imaj nan. jpg oswa. fòma png `` ~ / èd-aktivite / "
+"images / ``. Li pi bon si imaj la pa gen dwa depase 800 piksèl nan lajè. Li "
+"ka difisil li imaj alantou wotè. Pou rezon sa a ekran-vaksen 600 piksèl nan "
+"lajè pouvwa gen yon konpwomi bon si kontni an se senp."
 
 # 89fd45dd3f004963b9ec3d9d92867431
 #: ../source/how_to_help.rst:229
@@ -514,6 +641,8 @@ msgid ""
 "If you add an image file ``my_image.png``, made in, say, Paint to ``~/help-"
 "activity/images/``, then you link it into your page with:"
 msgstr ""
+"Si ou ajoute yon dosye imaj `` my_image. png``, te fè nan, di, Penti `` ~ / "
+"èd-aktivite / images / ``, lè sa a ou konekte li nan paj ou ak:"
 
 # d0c5b3d1663e4f08a313885c4a0a9e4e
 #: ../source/how_to_help.rst:235
@@ -521,6 +650,8 @@ msgid ""
 "Now we want to convert our page with an image into HTML. Open Terminal "
 "Activity (or any terminal emulator) and type,"
 msgstr ""
+"Koulye a, nou vle konvèti paj nou an ak yon imaj nan HTML. Open aktivite "
+"Tèminal (oswa nenpòt Emulation tèminal) ak kalite,"
 
 # 869858eecd6c44408998c0470b147ae7
 #: ../source/how_to_help.rst:242
@@ -528,50 +659,62 @@ msgid ""
 "The newly changed page will now display in Help, or in your browser, once "
 "you reload the page."
 msgstr ""
+"Paj la ki fèk chanje pral kounye a montre nan èd, oswa nan navigatè ou a, "
+"yon fwa ou Reload paj la."
 
 # 39e2da9d3a1e442cbce1466d57f61ddf
 #: ../source/how_to_help.rst:245
 msgid "Tutorial 4 - Write or improve a Help page"
-msgstr ""
+msgstr "Tutorial 4 - Ekri oswa amelyore yon paj Èd"
 
 # 04a019ce5a1641afa653c34e164bdba6
 #: ../source/how_to_help.rst:247
 msgid ""
 "Decide whether you want to make a page from a fresh start, you could just "
 "start writing on a subject you know about. Alternatively experiment with "
-"improving an existing page. You could work from the text of an existing page "
-"(it might be this page) or a more simple page."
+"improving an existing page. You could work from the text of an existing page"
+" (it might be this page) or a more simple page."
 msgstr ""
+"Deside si ou vle fè yon paj soti nan yon kòmanse fre, ou ta ka jis kòmanse "
+"ekri sou yon sijè ou konnen sou. Altènativman eksperyans ak amelyore yon paj"
+" ki deja egziste. Ou te kapab travay nan tèks la nan yon paj ki deja egziste"
+" (li ta kapab paj sa a) oswa yon paj plis senp."
 
 # 46769765b5414f9385ef7094960f42e6
 #: ../source/how_to_help.rst:249
 msgid "Open ``~/help-activity/source/index.rst``."
-msgstr ""
+msgstr "Open `` ~ / èd-aktivite / sous / endèks. rst``."
 
 # 79f36b2a93134903a7dd77a50ad3f8e7
 #: ../source/how_to_help.rst:251
 msgid ""
-"Put the cursor at the end of the last line. Press *Enter*, press space bar 4 "
-"times, and enter a new file name, perhaps, ``my_second.rst``. Use \"Enter\" "
-"and the space bar so that you exactly copy the indentation, and line spacing "
-"as used in the other entries."
+"Put the cursor at the end of the last line. Press *Enter*, press space bar 4"
+" times, and enter a new file name, perhaps, ``my_second.rst``. Use \"Enter\""
+" and the space bar so that you exactly copy the indentation, and line "
+"spacing as used in the other entries."
 msgstr ""
+"Mete kurseur la nan fen liy ki sot pase. Press * Antre *, peze espas bar 4 "
+"fwa, ak antre nan yon nouvo non dosye, petèt, `` my_second. rst``. Sèvi ak "
+"\"Antre nan\" ak bar nan espas pou ke ou egzakteman kopi dekoupaj an, ak "
+"espas liy kòm yo itilize nan lòt antre yo."
 
 # 22bd00c8aaba4ad5bec2210d8494aeb5
 #: ../source/how_to_help.rst:257
 msgid ""
 "Save the page as the new file name chosen above, perhaps, ``my_second.rst``."
 msgstr ""
+"Save paj an kòm non an dosye nouvo chwazi pi wo a, petèt, `` my_second. "
+"rst``."
 
 # b7af14eaf64549edbad143bcd8a4f48c
 #: ../source/how_to_help.rst:259
 msgid "Type in a title like this:"
-msgstr ""
+msgstr "Tape nan yon tit tankou sa a:"
 
 # 2fd9edb4df534cbdae0469f86de1bf05
 #: ../source/how_to_help.rst:267
 msgid "Enter your text, and save your changes."
-msgstr ""
+msgstr "Antre nan tèks ou a, epi sove chanjman ou."
 
 # 43a88d6727604d99ac9474c394ca610b
 #: ../source/how_to_help.rst:270
@@ -579,6 +722,8 @@ msgid ""
 "Now we want to convert our page into HTML. Open Terminal Activity (or any "
 "terminal emulator) and type,"
 msgstr ""
+"Koulye a, nou vle konvèti paj nou an, nan HTML. Open aktivite Tèminal (oswa "
+"nenpòt Emulation tèminal) ak kalite,"
 
 # 35ec47ddd7894aa791d6c3a55d4a0913
 #: ../source/how_to_help.rst:277
@@ -586,16 +731,18 @@ msgid ""
 "The newly generated page will now display in Help, or in your browser, once "
 "you reload the page."
 msgstr ""
+"Paj la ki fèk pwodwi pral kounye a montre nan èd, oswa nan navigatè ou a, "
+"yon fwa ou Reload paj la."
 
 # 0f2011a9952b4eb2979c59665f2ae176
 #: ../source/how_to_help.rst:279
 msgid "You can now go back to your page, and improve it."
-msgstr ""
+msgstr "Ou kapab kounye a ale tounen nan paj ou a, ak amelyore li."
 
 # 2f3e170598cb4acd95a99ab0c95b2418
 #: ../source/how_to_help.rst:281
 msgid "Again, write the changes to HTML version, with:"
-msgstr ""
+msgstr "Yon fwa ankò, ekri chanjman yo nan HTML vèsyon, ak:"
 
 # 122323019818432eb927ca10a66b3ecf
 #: ../source/how_to_help.rst:288
@@ -603,32 +750,40 @@ msgid ""
 "You have now written your first improved page for the Activity Help. We "
 "would love it if you could share it with the Sugar community!"
 msgstr ""
+"Ou gen kounye a ekri amelyore premye paj ou pou Èd nan aktivite. Nou ta "
+"renmen li si ou ta ka pataje li avèk kominote a Sugar!"
 
 # 0e9bf7ce4f4a49e8a0cc1f68e98359cb
 #: ../source/how_to_help.rst:293
 msgid "Contribute"
-msgstr ""
+msgstr "Kontribye"
 
 # a6949825cc7d4d46b1bd01ee40eba1a2
 #: ../source/how_to_help.rst:295
 msgid ""
-"Once you are familiar with editing, adding a page, and making or improving a "
-"Help page, you could make a page with the intention of having it published "
+"Once you are familiar with editing, adding a page, and making or improving a"
+" Help page, you could make a page with the intention of having it published "
 "in the next version of Help."
 msgstr ""
+"Yon fwa ou yo abitye avèk koreksyon, pandan l ajoute yon paj, ak fè oswa "
+"amelyore yon paj èd, ou te kapab fè yon paj ak entansyon an nan gen li ki te"
+" pibliye nan vèsyon an pwochen nan Èd."
 
 # f3142facbd6d495683d8f6284e2ad347
 #: ../source/how_to_help.rst:297
 msgid "You might write a tutorial on a subject you know about."
-msgstr ""
+msgstr "Ou ta ka ekri yon leson patikilye sou yon sijè ou konnen sou."
 
 # f339da86fdc04ed6ac991ed733bf92a5
 #: ../source/how_to_help.rst:299
 msgid ""
-"In the next version of Activity Help, better \"New to Sugar\" pages might be "
-"included at the beginning of Help, as a quick introduction for new Sugar "
+"In the next version of Activity Help, better \"New to Sugar\" pages might be"
+" included at the beginning of Help, as a quick introduction for new Sugar "
 "learners. Contributions to be considered would be welcome."
 msgstr ""
+"Nan vèsyon an pwochen nan Èd pou Aktivite, pi bon \"Nouvo nan Sugar\" paj ta"
+" ka enkli nan kòmansman an nan èd, kòm yon entwodiksyon rapid pou nouvo elèv"
+" k ap aprann Sugar. Kontribisyon yo dwe konsidere kòm ta dwe akeyi."
 
 # 322b0b1f1e7248dd887e97c8fe5bb90e
 #: ../source/how_to_help.rst:301
@@ -636,29 +791,40 @@ msgid ""
 "Some Activities have no easy to find instructions. If you can write even a "
 "very short introduction, it could be very useful for other Sugar learners."
 msgstr ""
+"Gen kèk Aktivite pa gen okenn fasil jwenn enstriksyon. Si ou ka ekri menm "
+"yon entwodiksyon trè kout, li te kapab fè trè itil pou lòt Sugar elèv k ap "
+"aprann."
 
 # 51d3d57b35c54360914df724ef774078
 #: ../source/how_to_help.rst:303
 msgid ""
-"The Sugarlabs wiki page http://wiki.sugarlabs.org/go/Activities/Help/"
-"Contribute might have some ideas on pages, which have been requested, or "
-"which others are working on and might appreciate collaboration."
+"The Sugarlabs wiki page "
+"http://wiki.sugarlabs.org/go/Activities/Help/Contribute might have some "
+"ideas on pages, which have been requested, or which others are working on "
+"and might appreciate collaboration."
 msgstr ""
+"Http la Sugarlabs paj wiki: // wiki. sugarlabs. org / ale / Aktivite / Èd / "
+"Kontribye ka gen kèk ide nan paj, ki te mande, oswa ki lòt moun yo ap travay"
+" sou yo ak sou ta ka apresye kolaborasyon."
 
 # a7b734f56fc14121be8c675137d7be87
 #: ../source/how_to_help.rst:306
 msgid "What to do with your finished work"
-msgstr ""
+msgstr "Ki sa ki fè ak travay ou fini"
 
 # acfa1b86ec76434fa4103a39058527a0
 #: ../source/how_to_help.rst:308
 msgid ""
 "First of all you might briefly contact gonzalo at laptop dot org by e-mail "
-"to tell him what you would like to contribute. If you write a new page , you "
-"can send him the page (as my_page.rst) as an attachment to an e-mail "
-"explaining briefly what is attached. If new images are linked into the page, "
-"send them too."
+"to tell him what you would like to contribute. If you write a new page , you"
+" can send him the page (as my_page.rst) as an attachment to an e-mail "
+"explaining briefly what is attached. If new images are linked into the page,"
+" send them too."
 msgstr ""
+"Premye a tout ou ta ka yon ti tan kontakte Gonzalo a laptop dot org pa "
+"e-mail di l 'sa ou ta renmen kontribye. Si ou ekri yon paj nouvo, ou ka voye"
+" l 'paj la (kòm my_page. RST) kòm yon atachman nan yon e-mail eksplike yon "
+"ti tan ki sa ki tache. Si imaj nouvo yo lye nan paj la, voye yo tou."
 
 # 6cfee419a43243b4b788377fc33a7f7a
 #: ../source/how_to_help.rst:310
@@ -666,19 +832,24 @@ msgid ""
 "If you have improved a page, the preferred method is to submit it as a "
 "\"patch\"."
 msgstr ""
+"Si ou yo te amelyore yon paj, metòd la pi pito a se yo soumèt li kòm yon "
+"\"plak\"."
 
 # e7df4ea78a154e94bc10946e47bac7e2
 #: ../source/how_to_help.rst:313
 msgid "Tutorial 5 - generate a patch"
-msgstr ""
+msgstr "Tutorial 5 - jenere yon patch"
 
 # c03a7442477048b3b0a059ea9768bed4
 #: ../source/how_to_help.rst:315
 msgid ""
-"Let's say you decide to work on the Help page, \"Switching Activities\". You "
-"might back up that page before you start. Open Terminal Activity (or any "
+"Let's say you decide to work on the Help page, \"Switching Activities\". You"
+" might back up that page before you start. Open Terminal Activity (or any "
 "terminal emulator) and type,"
 msgstr ""
+"Se pou nou di ou deside travay sou paj la Ede, \"Oblije chanje Aktivite\". "
+"Ou ta ka tounen moute paj ki anvan ou kòmanse. Open aktivite Tèminal (oswa "
+"nenpòt Emulation tèminal) ak kalite,"
 
 # 7cce7902fd404ec6ab372704dc4dea36
 #: ../source/how_to_help.rst:323
@@ -687,55 +858,70 @@ msgid ""
 "source, and copied ``switching_activities.rst`` to a new file named "
 "``switching_activities.rst.ori``"
 msgstr ""
+"Pi wo pase, nou te chanje anyè nan èd-aktivite, chanje anyè nan sous, ak "
+"kopye `` switching_activities. rst`` nan yon dosye nouvo rele `` "
+"switching_activities. RST. ori``"
 
 # f00f7cdb6a0d4f4db026a0382381af5a
 #: ../source/how_to_help.rst:325
 msgid ""
 "Make your changes to ``switching_activities.rst``. Save your changes "
 "regularly, and check by running the ``make html`` command that the page "
-"displays nicely. Once you are happy with your work, you can generate a patch "
-"like this:"
+"displays nicely. Once you are happy with your work, you can generate a patch"
+" like this:"
 msgstr ""
+"Fè chanjman ou a `` switching_activities. rst``. Sove chanjman ou "
+"regilyèman, epi tcheke pa kouri `` fè nan lòd html`` ki montre yo paj "
+"joliman. Yon fwa ou yo kontan ak travay ou, ou ka jenere yon patch tankou sa"
+" a:"
 
 # cf63f268a2164323a5c3e06cb3c948dd
 #: ../source/how_to_help.rst:333
 msgid "The patch can now be sent as an e-mail attachment."
-msgstr ""
+msgstr "Ka plak an kounye a ap voye kòm yon atachman e-mail."
 
 # 924455dec7094c8d84571e67234d6f36
 #: ../source/how_to_help.rst:335
 msgid ""
 "For more information, in Terminal Activity (or any terminal emulator) type,"
 msgstr ""
+"Pou plis enfòmasyon, nan Aktivite Tèminal (oswa nenpòt Emulation tèminal) "
+"tape,"
 
 # 0139019f67784c35bc9bbc7d0bbd2cd7
 #: ../source/how_to_help.rst:341
 msgid "and"
-msgstr ""
+msgstr "ak"
 
 # 258148f7484646e9b98f72eb40c3b0af
 #: ../source/how_to_help.rst:350
 msgid "Further reading"
-msgstr ""
+msgstr "Pli lwen lekti"
 
 # 0eb66cb314bb45beb9c409ed61116743
 #: ../source/how_to_help.rst:352
 msgid "|more| For more complete help on reStructuredText:"
-msgstr ""
+msgstr "| Plis | Pou pi konplè èd sou reStructuredText:"
 
 # 50107d75cea044a9bc376f9c37696488
 #: ../source/how_to_help.rst:356
 msgid ""
-"Quick reStructuredText, http://docutils.sourceforge.net/docs/user/rst/"
-"quickref.html, is a cheat-sheet for reStructuredText."
+"Quick reStructuredText, "
+"http://docutils.sourceforge.net/docs/user/rst/quickref.html, is a cheat-"
+"sheet for reStructuredText."
 msgstr ""
+"Quick reStructuredText, http: // docutils. SourceForge. net / Doc / "
+"itilizatè / RST / quickref. html, se yon tronpe-fèy pou reStructuredText."
 
 # 93d7f9ded30c42e89cd859b13506dca7
 #: ../source/how_to_help.rst:358
 msgid ""
-"\"reStructuredText Directives\" http://docutils.sourceforge.net/docs/ref/rst/"
-"directives.html by David Goodger, March 2013."
+"\"reStructuredText Directives\" "
+"http://docutils.sourceforge.net/docs/ref/rst/directives.html by David "
+"Goodger, March 2013."
 msgstr ""
+"Http \"reStructuredText Enstriksyon\": // docutils. SourceForge. net / Doc /"
+" ref / RST / direktiv. html pa David Goodger, mas 2013."
 
 # 7f62fe65edf94f228d676f59be609f9f
 #: ../source/how_to_help.rst:360
@@ -743,13 +929,15 @@ msgid ""
 "Sphinx reStructuredText Primer, http://sphinx-doc.org/rest.html, a brief "
 "introduction to reStructuredText concepts and syntax."
 msgstr ""
+"Sfenks reStructuredText Manyèl, http: // sfenks-doc. org / rès. html, yon "
+"entwodiksyon kout reStructuredText konsèp ak sentaks."
 
 # 74ac1ae60d4547c0bbeb929e0974eb14
 #: ../source/how_to_help.rst:362
 msgid "Sphinx home page, http://sphinx-doc.org/index.html."
-msgstr ""
+msgstr "Paj lakay sfenks, http: // sfenks-doc. org / endèks. html."
 
 # cba6621bbea849f2acd645316f1bdc96
 #: ../source/how_to_help.rst:364
 msgid "Another tutorial, http://matplotlib.org/sampledoc/."
-msgstr ""
+msgstr "Yon lòt leson patikilye, http: // matplotlib. org / sampledoc /."

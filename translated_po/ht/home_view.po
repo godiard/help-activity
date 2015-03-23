@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,24 +19,30 @@ msgstr ""
 # 5d067e5322304e24982c0e315bb1804e
 #: ../source/home_view.rst:3
 msgid "Home View"
-msgstr ""
+msgstr "Kay View"
 
 # 888bc46f1ceb4e2e9057e05089f4694a
 #: ../source/home_view.rst:5
 msgid "Use the Home View to begin new Activities."
-msgstr ""
+msgstr "Sèvi ak View la Kay yo kòmanse Aktivite nouvo."
 
 # b8acc46e452a4e81b678f37127485665
 #: ../source/home_view.rst:7
 msgid ""
 "Note: When you have clicked on an Activity's icon, please wait for that "
 "Activity to start. If you get impatient and happen to click again on the "
-"Activity's icon, you may end up with that Activity being started twice. When "
-"you click on an Activity's icon, you will see a start-up view while that "
+"Activity's icon, you may end up with that Activity being started twice. When"
+" you click on an Activity's icon, you will see a start-up view while that "
 "Activity initializes. Once the Activity is running, you will be placed into "
 "its Activity View. If the Activity fails to start, you will instead be "
 "returned to Home View."
 msgstr ""
+"Remak: Lè w klike sou icon yon aktivite a, tanpri, tann pou sa aktivite yo "
+"kòmanse. Si w ap resevwa enpasyan ak rive klike ankò sou icon Aktivite a, ou"
+" ka fini ak ke yo te ki te kòmanse aktivite de fwa. Lè ou klike sou icon yon"
+" aktivite a, ou pral wè yon View kòmanse-up pandan y ap ki aktivite "
+"inisyalizasyon. Yon fwa aktivite a ap kouri, ou pral mete nan Wè aktivite li"
+" yo. Si aktivite a echwe yo kòmanse, ou pral olye dwe retounen nan Kay View."
 
 # bc28dc4ed42944f9905e6a1004a4a946
 #: ../source/home_view.rst:11
@@ -44,6 +50,8 @@ msgid ""
 "To get to the Home View, click the Home icon on the Frame or press the F3 "
 "key."
 msgstr ""
+"Pou jwenn yo wè a Kay, klike sou ikòn la Kay sou ankadreman an oswa peze kle"
+" a F3."
 
 # 14836f24cb134b05a424915d69ee6f52
 #: ../source/home_view.rst:13
@@ -51,46 +59,52 @@ msgid ""
 "The Home View has several modes. Each mode has a different arrangement of "
 "Activities:"
 msgstr ""
+"View nan Kay gen mòd plizyè. Chak mòd gen yon aranjman diferan nan Aktivite:"
 
 # 179dd3af0cff4f659c67ae550a8afb2d
 #: ../source/home_view.rst:15
 msgid "Your favorite Activities in a ring (Ring mode)"
-msgstr ""
+msgstr "Aktivite pi renmen ou nan yon bag (mòd Ring)"
 
 # 9d2a1e4922784a6eba357edeb70a9ae5
 #: ../source/home_view.rst:16
 msgid "Your installed Activities in a list (List view)"
-msgstr ""
+msgstr "Aktivite ou enstale nan yon lis (lis View)"
 
 # 5e420939e1fd4336905c81500663e739
 #: ../source/home_view.rst:17
 msgid "Your favorite Activities arranged freeform (Freeform mode)"
-msgstr ""
+msgstr "Aktivite pi renmen ou ranje freeform (mòd Freeform)"
 
 # 8a1239c16f7342f68872a76f95b4d049
 #: ../source/home_view.rst:20
 msgid "Favorites View"
-msgstr ""
+msgstr "Favoris View"
 
 # cb8a67861e1d46fea381df8b31cd6a7c
 #: ../source/home_view.rst:24
 msgid ""
-"Search box: Use the search box to find Activities. Note: If in List view you "
-"see fewer Activities than expected, you may need to click on the small X at "
-"the right end of the search box to undo an unintended search request."
+"Search box: Use the search box to find Activities. Note: If in List view you"
+" see fewer Activities than expected, you may need to click on the small X at"
+" the right end of the search box to undo an unintended search request."
 msgstr ""
+"Bwat Search: Sèvi ak bwat rechèch la jwenn Aktivite. Remak: Si nan Lis View "
+"ou wè mwens Aktivite pase espere, ou ka bezwen klike sou ti X la nan fen a "
+"dwa a bwat rechèch la defèt yon demann rechèch entansyonel."
 
 # 234e2ba388ae42f198e64c4b455eb1c2
 #: ../source/home_view.rst:25
 msgid ""
-"Favorites modes: Click an icon to switch to a different view. Hover over the "
-"Favorites icon to see a menu that lets you pick Ring mode or Freeform mode."
+"Favorites modes: Click an icon to switch to a different view. Hover over the"
+" Favorites icon to see a menu that lets you pick Ring mode or Freeform mode."
 msgstr ""
+"Favoris mòd: Klike sou yon icon pou chanje an yon View diferan. Vol sou icon"
+" nan Favorites yo wè yon meni ki pèmèt ou chwazi mòd Ring oswa mòd Freeform."
 
 # 5a1ec8f7b33c494994ecf46a8c17c876
 #: ../source/home_view.rst:26
 msgid "List view: Click the icon to switch over to the List view."
-msgstr ""
+msgstr "Lis vi: Klike sou ikòn nan chanje sou nan gade nan Lis."
 
 # 862aee70ff594f72b75d1f740423605f
 #: ../source/home_view.rst:27
@@ -101,6 +115,10 @@ msgid ""
 "information.) Only Activities that have been “starred” as favorites in the "
 "List View appear in this view."
 msgstr ""
+"Icon Aktivite: Klike yon icon Aktivite yo lanse ki aktivite. Se icon li yo "
+"ki gen koulè pal si gen aktivite a te itilize anvan ak klike sou li pral "
+"rezime sesyon dènye li yo. (Tanpri gade nan seksyon Menu aktivite pi ba a "
+"pou plis enfòmasyon."
 
 # 6d86c2fda3ee4befaa97aaef52329b83
 #: ../source/home_view.rst:28
@@ -108,26 +126,33 @@ msgid ""
 "Active Activity icon: The icon of the currently active Activity appears "
 "under the XO icon."
 msgstr ""
+"Aktif icon Aktivite: icon a nan aktivite a kounye a aktif parèt anba icon la"
+" XO."
 
 # fe8ec0c6a4524bd3a36aca00d2c9b9dc
 #: ../source/home_view.rst:29
 msgid ""
-"XO icon: Hover the pointer over the \"XO\" in the center of the Home View to "
-"bring up a menu and to access the Sugar Control Panel (Please see the "
+"XO icon: Hover the pointer over the \"XO\" in the center of the Home View to"
+" bring up a menu and to access the Sugar Control Panel (Please see the "
 "chapter on Customizing Sugar)."
 msgstr ""
+"XO icon: Hover konsèy la sou \"XO a\" nan sant la nan View a Kay yo pote "
+"moute yon meni ak jwenn aksè nan panèl la kontwòl Sugar (Tanpri gade chapit "
+"la sou Pèrsonalizasyon Sugar)."
 
 # 1c785d56de154388b69e8e838f3a44c8
 #: ../source/home_view.rst:33
 msgid ""
-"When a search is started the Activities which don't correspond to the result "
-"are greyed out."
+"When a search is started the Activities which don't correspond to the result"
+" are greyed out."
 msgstr ""
+"Lè yo bay yon rechèch te kòmanse Aktivite yo ki pa koresponn ak rezilta a yo"
+" grize soti."
 
 # d300e448670d4d72a00f50c0c714556b
 #: ../source/home_view.rst:36
 msgid "List View"
-msgstr ""
+msgstr "Lis View"
 
 # c31f6899f50b4995b0f005cffbcda1f2
 #: ../source/home_view.rst:40
@@ -135,6 +160,8 @@ msgid ""
 "Use the List view to manage all of your Activities and to choose which "
 "Activity icons will appear on the Favorites view."
 msgstr ""
+"Sèvi ak gade nan lis nan jere tout aktivite ou ak yo chwazi ki aktivite ikon"
+" ap parèt sou favori yo wè."
 
 # c35210b648dd4d78a2e3aabdff3104d1
 #: ../source/home_view.rst:42
@@ -143,13 +170,18 @@ msgid ""
 "which appear in the Ring mode or Freeform mode. Click a star to color or "
 "clear it."
 msgstr ""
+"Aktivite pi renmen icon: Yon etwal, ki se ki gen koulè pal pou Aktivite pi "
+"renmen, ki parèt nan mòd nan Ring oswa mòd Freeform. Klike sou yon etwal "
+"koulè oswa klè li."
 
 # e4fa8a0dc89c4a80bd9b2deaa7cf1a62
 #: ../source/home_view.rst:43
 msgid ""
-"Activity icon: Click the icon to launch the Activity or hover over it to see "
-"the corresponding menu."
+"Activity icon: Click the icon to launch the Activity or hover over it to see"
+" the corresponding menu."
 msgstr ""
+"Icon Aktivite: Klike sou ikòn a lanse aktivite a oswa hover sou li yo wè "
+"meni an ki koresponn."
 
 # 270eaac1e84b457b97138889e6045c24
 #: ../source/home_view.rst:44
@@ -157,19 +189,24 @@ msgid ""
 "Hover menu: In this menu you can also launch, favorite and un-favorite "
 "Activities and erase them."
 msgstr ""
+"Hover meni: Nan meni sa a ou ka lanse tou, Aktivite pi renmen ak un-pi "
+"renmen ak efase yo."
 
 # b43508788a47439fb6cabb282706df23
 #: ../source/home_view.rst:45
 msgid ""
 "Version number: Here you can see which version of the Activity is currently "
-"installed. For more information about updating your Activities to the latest "
-"version please refer to the How to Install and Update Activities section."
+"installed. For more information about updating your Activities to the latest"
+" version please refer to the How to Install and Update Activities section."
 msgstr ""
+"Nimewo Version: Isit la ou ka wè ki vèsyon an aktivite a se kounye a "
+"enstale. Pou plis enfòmasyon sou à Aktivite ou a vèsyon an dènye tanpri al "
+"gade seksyon an Ki jan yo Enstale ak ajou Aktivite."
 
 # a9700786c53e440889dd08367d67ca6a
 #: ../source/home_view.rst:48
 msgid "Favorites View in Freeform Mode"
-msgstr ""
+msgstr "Favoris View nan Mode Freeform"
 
 # b81c7f09dcf8447a9f1cef522333fbdb
 #: ../source/home_view.rst:52
@@ -178,28 +215,36 @@ msgid ""
 "icons are arranged arbitrarily instead of in a circle. You can drag the "
 "icons in this View to visually group them in a way that makes sense to you."
 msgstr ""
+"Mòd nan Freeform nan View a Kay travay menm bagay la kòm mòd la Ring, men "
+"ikon yo yo ranje abitrèman olye pou yo nan yon sèk. Ou ka trennen ikon yo "
+"nan View sa a vizyèlman gwoup yo nan yon fason ki fè sans nan ou."
 
 # e3b1bb299cfd4d42aeee779fa24b16e9
 #: ../source/home_view.rst:55
 msgid "Activity Menu"
-msgstr ""
+msgstr "Menu aktivite"
 
 # c71d4715915b4561b689fea11ab7fdcd
 #: ../source/home_view.rst:59
 msgid ""
-"When hovering over an Activity icon a corresponding menu appears. From there "
-"you can directly resume the last few Activity sessions or choose to start a "
-"new one."
+"When hovering over an Activity icon a corresponding menu appears. From there"
+" you can directly resume the last few Activity sessions or choose to start a"
+" new one."
 msgstr ""
+"Lè plan sou yon icon Aktivite yon meni ki koresponn parèt. Soti nan gen ou "
+"ka dirèkteman rezime dènye sesyon yo aktivite kèk oswa chwazi yo kòmanse yon"
+" nouvo."
 
 # 3560e6e64d1c4ae184579a4e4dfc57b4
 #: ../source/home_view.rst:62
 msgid "XO Menu"
-msgstr ""
+msgstr "XO Menu"
 
 # 8aed927c461f4238a7e3e4ee372bb733
 #: ../source/home_view.rst:66
 msgid ""
-"Use the hover menu that appears over the XO icon to access the Sugar Control "
-"Panel and to shutdown or restart the computer."
+"Use the hover menu that appears over the XO icon to access the Sugar Control"
+" Panel and to shutdown or restart the computer."
 msgstr ""
+"Sèvi ak meni an ki parèt sou hover icon la XO jwenn aksè nan panèl la "
+"kontwòl Sik ak are oswa rekòmanse òdinatè a."

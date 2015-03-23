@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 43d6aeece2a74c75b9cb2292f4cbc9fd
 #: ../source/neighborhood_view.rst:3
 msgid "Neighborhood View"
-msgstr ""
+msgstr "Katye View"
 
 # e1c199e074a5476e8760c83b917d9828
 #: ../source/neighborhood_view.rst:6
 msgid "Neighborhood View: Connecting to the Internet"
-msgstr ""
+msgstr "Katye View: Konekte sou entènèt la"
 
 # a4bd6aaf14924c0bbcacc0546daeff8f
 #: ../source/neighborhood_view.rst:8
@@ -32,6 +32,8 @@ msgid ""
 "You can use the Neighborhood View to connect to the Internet and to "
 "collaborate with others."
 msgstr ""
+"Ou kapab sèvi ak View Katye pou konekte avèk entènèt la ak yo kolabore ak "
+"lòt moun."
 
 # 2031836128c54a14b91c6833e47cb887
 #: ../source/neighborhood_view.rst:12
@@ -40,11 +42,14 @@ msgid ""
 "can also use the Neighborhood button for this purpose if your keyboard has "
 "one, or press the F1 key."
 msgstr ""
+"Pou wè View la Katye, klike sou ikòn Katye sou ankadreman an. Ou kapab tou "
+"itilize bouton an Neighborhood pou objektif sa a si klavye ou gen youn, oswa"
+" peze kle a F1."
 
 # e2db518a333840e5a3ac2e883d5d1cc0
 #: ../source/neighborhood_view.rst:15
 msgid "Neighborhood Elements"
-msgstr ""
+msgstr "Eleman Katye"
 
 # 9b5b84590ec948f5a92754803d295324
 #: ../source/neighborhood_view.rst:19
@@ -52,6 +57,8 @@ msgid ""
 "Search menu: You can find find people, Activities, or access points (what "
 "connects you to the Internet) using the search menu."
 msgstr ""
+"Search meni: Ou ka jwenn jwenn moun, Aktivite, oswa pwen aksè (sa ki konekte"
+" ou nan entènèt la) lè l sèvi avèk meni an rechèch."
 
 # 15de2fc72609484f9e572ee8a8d785f9
 #: ../source/neighborhood_view.rst:21
@@ -59,6 +66,8 @@ msgid ""
 "Ad-Hoc network icon: An ad-hoc network lets you connect to other computers "
 "on a network."
 msgstr ""
+"Anons-tanporè rezo icon: Yon rezo anons-tanporè pèmèt ou konekte nan òdinatè"
+" lòt sou yon rezo."
 
 # b428e7ebdefc45b189282700f32b9eb4
 #: ../source/neighborhood_view.rst:23
@@ -66,10 +75,10 @@ msgid ""
 "Access point: WiFi hot spots (Internet access points) appear as circles in "
 "the Neighborhood view. If you hover over a circle, the name of the network "
 "appears. Each circle has another color inside, the more full the inside "
-"color, the better the connection. To connect to a network, click the circle. "
-"If the circle shows a lock symbol, expect to enter a key or password. The "
-"inside of the circle blinks while your system tries to connect. Once you are "
-"connected, an icon for the connection will appear at bottom right of the "
+"color, the better the connection. To connect to a network, click the circle."
+" If the circle shows a lock symbol, expect to enter a key or password. The "
+"inside of the circle blinks while your system tries to connect. Once you are"
+" connected, an icon for the connection will appear at bottom right of the "
 "Frame. To disconnect, hover over the circle, and choose Disconnect on the "
 "menu. Or hover over the icon in the Frame, and choose Disconnect there. "
 "(OLPC XO-1 Note: The XO-1 laptop has three mesh network channels. By "
@@ -77,6 +86,18 @@ msgid ""
 "disconnect from an Access point network. The other XO icons are shown will "
 "change according to who is on that network.)"
 msgstr ""
+"Aksè pwen: fil tach cho (pwen aksè nan Entènèt) parèt kòm ti sèk nan gade "
+"nan Katye. Si ou hover sou yon sèk, non an nan rezo a parèt. Chak sèk gen "
+"yon lòt koulè andedan, plis plen koulè a ​​nan andedan, pi bon an koneksyon "
+"a. Pou konekte nan yon rezo, klike sou sèk la. Si ti sèk ki montre yon "
+"senbòl fèmen, atann yo antre nan yon kle oswa modpas. Anndan an nan sèk la "
+"flache pandan y ap sistèm ou a ap eseye konekte. Yon fwa ou yo ki konekte, "
+"yon icon pou koneksyon la ap parèt sou bò dwat anba nan ankadreman an. "
+"Dekonekte, hover sou sèk la, epi chwazi Dekonekte sou menu an. Oswa hover "
+"sou icon nan nan ankadreman an, epi chwazi Dekonekte gen. (OLPC XO-1 Remak: "
+"laptop XO a-1 gen twa chanèl rezo may. Pa klike sou yon icon may ou rantre "
+"nan ke rezo may patikilye, ak dekonekte soti nan yon pwen rezo Aksè. Lòt "
+"Icônes XO yo montre pral chanje dapre ki moun ki sou ke rezo. )"
 
 # e56239b7c7d346c0be39d8bf076ff464
 #: ../source/neighborhood_view.rst:25
@@ -84,6 +105,8 @@ msgid ""
 "Shared Activities: Shared Activities appear as icons in the Neighborhood "
 "View and you can join them by clicking the corresponding icon."
 msgstr ""
+"Pataje Aktivite: Pataje Aktivite parèt kòm ikon nan gade nan Katye epi ou ka"
+" rantre nan yo pa klike icon nan korespondan."
 
 # a989d3f9b8f44241884280170a88d00f
 #: ../source/neighborhood_view.rst:27
@@ -92,13 +115,17 @@ msgid ""
 "can discover the nickname of that person and can add them as a friend or "
 "invite them to join you in a shared Activity."
 msgstr ""
+"XO icon: Lòt itilizatè Sugar parèt kòm ikon XO. Pa elikopte sou yo, ou ka "
+"dekouvri tinon a nan moun sa a epi yo ka ajoute yo kòm yon zanmi oswa envite"
+" yo rantre nan ou nan yon aktivite Pataje."
 
 # 61f1769a9b3d4ec09fb3e09be299860c
 #: ../source/neighborhood_view.rst:29
-msgid "Open access point: An access point which isn't protected by a password."
-msgstr ""
+msgid ""
+"Open access point: An access point which isn't protected by a password."
+msgstr "Louvri pwen aksè: Yon pwen aksè ki pa pwoteje pa yon modpas."
 
 # 0a56d63d1118450eacf730a0a082702e
 #: ../source/neighborhood_view.rst:31
 msgid "Connected networks: Once the computer has connected to a network"
-msgstr ""
+msgstr "Konekte rezo: Yon fwa gen òdinatè a ki konekte nan yon rezo"

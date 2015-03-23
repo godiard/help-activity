@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # aab6609943834fefab61aa1de2d3c80b
 #: ../source/pippy.rst:3
 msgid "Pippy"
-msgstr ""
+msgstr "Pippy"
 
 # 277d8de618f5446cabca3a05a56187de
 #: ../source/pippy.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # c1eadedd97c744cdb351ca1cc7168b2b
 #: ../source/pippy.rst:8
@@ -33,24 +33,30 @@ msgid ""
 "programs. In addition it is possible to write Python statements to play "
 "sounds, calculate expressions, or make simple text based interactive games."
 msgstr ""
+"Pippy pèmèt elèv la egzaminen, egzekite, epi modifye pwogram Piton senp. "
+"Anplis de sa li se posib yo ekri deklarasyon Piton yo jwe son, kalkile "
+"ekspresyon, oswa fè tèks ki senp ki baze jwèt entèaktif."
 
 # bd16b546a0274849951c99020a2cae52
 #: ../source/pippy.rst:11
 msgid "Where to get Pippy"
-msgstr ""
+msgstr "Ki kote yo ka resevwa Pippy"
 
 # f93f9d1f4ed24e38bcf7377761004fd2
 #: ../source/pippy.rst:13
 msgid ""
 "Pippy is included in the standard releases of the OLPC software. It is "
-"available for download `here <http://activities.sugarlabs.org/en-US/sugar/"
-"addon/4041>`_"
+"available for download `here <http://activities.sugarlabs.org/en-"
+"US/sugar/addon/4041>`_"
 msgstr ""
+"Pippy se enkli nan degaje yo estanda nan lojisyèl an OLPC. Li se ki disponib"
+" pou download `isit la <http: // aktivite. sugarlabs. org / en-US / sik / "
+"addon / 4041> `_"
 
 # 0ebf334c8cab403196cc709439a4fda6
 #: ../source/pippy.rst:16
 msgid "Using"
-msgstr ""
+msgstr "Lè l sèvi avèk"
 
 # 04bc43024b1c48738a8418865b8620a4
 #: ../source/pippy.rst:18
@@ -59,30 +65,36 @@ msgid ""
 "modified in the upper right window, and where the results of execution are "
 "displayed in the lower right window."
 msgstr ""
+"Kolòn la kite a se yon lis nan pwogram piton, ki ka wè, ak modifye nan "
+"fennèt la anwo dwa, ak ki kote rezilta yo nan ekzekisyon yo ap parèt nan "
+"fennèt la pi ba dwa."
 
 # 3aba1f2f061d485d9a622488c788c214
 #: ../source/pippy.rst:23
 msgid "Learning with Pippy"
-msgstr ""
+msgstr "Aprann ak Pippy"
 
 # b44fc81e91fb4be4a4d19a87deb4478d
 #: ../source/pippy.rst:25
 msgid ""
 "Etoys and Turtle art provide easy introduction to programming. Pippy "
 "introduces a more traditional view of programming a computer, wherein the "
-"instructions are first written to a text file, and then executed with a \"run"
-"\" command."
+"instructions are first written to a text file, and then executed with a "
+"\"run\" command."
 msgstr ""
+"Etoys ak Turtle atizay bay entwodiksyon fasil pwogram. Pippy entwodui yon "
+"View plis tradisyonèl nan pwogramasyon yon òdinatè, kote enstriksyon yo ap "
+"premye ekri nan yon dosye tèks, ak Lè sa a egzekite ak yon \"kouri\" lòd."
 
 # 11ab4ed4e3074d6a9194d1cfac6b3d27
 #: ../source/pippy.rst:27
 msgid "In particular, it is instructive to play with the sounds:"
-msgstr ""
+msgstr "An patikilye, li se édikatif yo jwe ak son yo:"
 
 # b3ca1e3c0bd54b688142a6f7ec19a0bc
 #: ../source/pippy.rst:29
 msgid "Get the list of sounds by executing the Getsoundlist program"
-msgstr ""
+msgstr "Jwenn lis la nan son pa egzekite pwogram nan Getsoundlist"
 
 # 5601e250b6d54497bc797abea9e7ed9a
 #: ../source/pippy.rst:30
@@ -90,11 +102,13 @@ msgid ""
 "Copy the name of one of the sounds and replace the \"digeridu\" sound name "
 "in Playwave program."
 msgstr ""
+"Kopi non an nan youn nan son yo ak ranplase \"digeridu a\" son non nan "
+"pwogram Playwave."
 
 # f2194f47d9a646dbbe90ccf2be03f123
 #: ../source/pippy.rst:33
 msgid "Extending Pippy"
-msgstr ""
+msgstr "Pwolonje Pippy"
 
 # 7595d3387a274fb5b5b4f28aedd79bc7
 #: ../source/pippy.rst:35
@@ -108,34 +122,50 @@ msgid ""
 "changes. Then by copying the changed program back to the clipboard, you can "
 "paste it back into the Word Activity, and save the changes to the Journal."
 msgstr ""
+"Si Pippy se itilize nan paralèl ak ekri aktivite a, li se posib yo devlope "
+"pi gwo pwogram. Kopi pwogram nan ke ou devlope nan ekri aktivite a pa chwazi"
+" tout (<CTRL> a) ak kopye li nan clipboard a (<CTRL> c), lè sa a chanje nan "
+"Pippy aktivite a, ak keratin (<CTRL> v) l 'nan la . Si gen erè ke ou vle "
+"korije, ou ka fè chanjman sa yo nan fennèt la Kòd, ak imedyatman wè rezilta "
+"yo nan chanjman ou. Lè sa a, lè w kopye pwogram nan chanje tounen nan "
+"clipboard a, ou ka kole li tounen nan aktivite nan Word, epi sove chanjman "
+"yo nan jounal la."
 
 # d0bd3a887882453f982747765f9e34a9
 #: ../source/pippy.rst:38
 msgid "Modifying Pippy"
-msgstr ""
+msgstr "Modifye Pippy"
 
 # fc5fe00bd6e141aeb50a79490e36030a
 #: ../source/pippy.rst:40
 msgid ""
-"The student can add small programs, and have them show up in the left column "
-"of Pippy by adding files to /home/olpc/Activities/Pippy.activity/data. There "
-"is a large number of suggested examples of programs for Pippy at http://wiki."
-"laptop.org/go/Pippy#Examples."
+"The student can add small programs, and have them show up in the left column"
+" of Pippy by adding files to /home/olpc/Activities/Pippy.activity/data. "
+"There is a large number of suggested examples of programs for Pippy at "
+"http://wiki.laptop.org/go/Pippy#Examples."
 msgstr ""
+"Elèv la ka ajoute pwogram ti, epi fè yo montre moute nan kolòn nan kite nan "
+"Pippy pa ajoute dosye nan / Home / OLPC / Aktivite / Pippy. aktivite / done."
+" Gen yon gwo kantite sijere egzanp nan pwogram pou Pippy nan http: // wiki. "
+"laptop. org / ale / Pippy # Egzanp."
 
 # 2aa7da1c4cd44ca29a0eebff710fec32
 #: ../source/pippy.rst:43
 msgid "Where to report problems"
-msgstr ""
+msgstr "Ki kote yo repòte pwoblèm"
 
 # f081ca1bf2b94c5f8b643159f2fb9c6d
 #: ../source/pippy.rst:45
 msgid ""
 "There's a range of ways to report problems. The easiest is to email to the "
-"sugarlabs email list at sugar-devel@lists.sugarlabs.org. Someone on the list "
-"will respond to you, and perhaps also put a formal bug report at http://bugs."
-"sugarlabs.org/."
+"sugarlabs email list at sugar-devel@lists.sugarlabs.org. Someone on the list"
+" will respond to you, and perhaps also put a formal bug report at "
+"http://bugs.sugarlabs.org/."
 msgstr ""
+"Genyen yon seri de fason yo repòte pwoblèm. Pi fasil la se voye yon imèl ba "
+"nan lis la imel sugarlabs nan lis @ sik-DEVEL. sugarlabs. org. Yon moun sou "
+"lis la pral reponn ou, e petèt tou mete yon rapò ensèk fòmèl nan http: // "
+"pinèz. sugarlabs. org /."
 
 # a3c164a93d054a45ae67f43ca699fb31
 #: ../source/pippy.rst:47
@@ -143,3 +173,5 @@ msgid ""
 "Or you can register at http://bugs.sugarlabs.org/ and enter a bug report "
 "yourself."
 msgstr ""
+"Oswa ou ka enskri nan http: // pinèz. sugarlabs. org / ak antre nan yon "
+"ensèk rapòte tèt ou."

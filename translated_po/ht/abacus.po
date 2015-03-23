@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 5390a281ce1a456f88d3756b6007ecba
 #: ../source/abacus.rst:3
 msgid "Abacus"
-msgstr ""
+msgstr "Abacus"
 
 # de432af2d23e4255b504d0db14872e3e
 #: ../source/abacus.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 3cd19ec5e3a84770a0c366b4786f9073
 #: ../source/abacus.rst:10
@@ -35,24 +35,32 @@ msgid ""
 "suanpan, the traditional Chinese abacus with 2 beads on top and 5 beads "
 "below; a soroban, the traditional Japanese abacus with 1 bead on top and 4 "
 "beads below; the schety, the traditional Russian abacus, with 10 beads per "
-"column, with the exception of one column with just 4 beads used for counting "
-"in fourths; and the nepohualtzintzin, a Mayan abacus, 3 beads on top and 4 "
+"column, with the exception of one column with just 4 beads used for counting"
+" in fourths; and the nepohualtzintzin, a Mayan abacus, 3 beads on top and 4 "
 "beads below (base 20). There is also a binary abacus, a hexadecimal abacus, "
 "and several abacuses that lets you calculate with common fractions: 1/2, "
 "1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, and 1/12. And there is a customization "
-"toolbar that lets you design your own abacus. The Incan abacus (Yupana) as a "
-"standalone program."
+"toolbar that lets you design your own abacus. The Incan abacus (Yupana) as a"
+" standalone program."
 msgstr ""
+"Abacus pèmèt elèv k ap aprann nan eksplore reprezantasyon diferan nan nimewo"
+" lè l sèvi avèk diferan sistèm mekanik konte devlope pa Women yo ansyen ak "
+"Chinwa. Gen plizyè varyant diferan ki disponib pou eksplorasyon: yon "
+"suanpan, abak a tradisyonèl Chinwa ak 2 pèl sou tèt ak 5 pèl anba a; . "
+"Genyen tou yon abak binè, yon abak ekzadesimal, ak plizyè abacuses ki pèmèt "
+"ou kalkile ak fraksyon komen: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, . Apre sa, "
+"se yon ba ikòn personnalisation ki pèmèt ou desine abak pwòp ou a. Abak a "
+"Incan (Yupana) kòm yon pwogram otonòm."
 
 # 15ab87a3949e404c90c25375e1614674
 #: ../source/abacus.rst:13
 msgid "Using Abacus"
-msgstr ""
+msgstr "Lè l sèvi avèk Abacus"
 
 # ebcf547efebb4e2c953a90c6ad3b7ca3
 #: ../source/abacus.rst:16
 msgid "Clearing the abacus"
-msgstr ""
+msgstr "Netwaye abak a"
 
 # 3b7626421ee94a12b52fdc3c86a9f737
 #: ../source/abacus.rst:17
@@ -62,6 +70,10 @@ msgid ""
 "lower beads should be positioned against the bottom of the frame. This is "
 "the default position for the abacus when you launch the activity."
 msgstr ""
+"Anvan ou kòmanse yon operasyon aritmetik, ou bezwen \"klè\" abak a. Pèl a "
+"anwo yo ta dwe positionné kont tèt la nan ankadreman an ak pèl yo pi ba yo "
+"ta dwe positionné kont fon an nan ankadreman an. Sa a se pozisyon nan "
+"default pou abak a lè ou lanse aktivite a."
 
 # c59c2775660a4e24ac5dcdff590355d4
 #: ../source/abacus.rst:19
@@ -71,11 +83,15 @@ msgid ""
 "Also note that the Clear Button on the main toolbar will also clear the "
 "abacus for you."
 msgstr ""
+"Remake byen ke kèk nan abacuses yo (e. g. , Schety a) pa gen okenn pèl anwo."
+" Nan ka sa yo, nan tout pèl yo ta dwe kòmanse nan yon pozisyon nan desann. "
+"Epitou sonje ke bouton an Klè sou ba zouti a prensipal pral klè tou abak la "
+"pou ou."
 
 # 15a4a9fc16974668bb8c36cb9614d1fd
 #: ../source/abacus.rst:24
 msgid "Reading the abacus"
-msgstr ""
+msgstr "Lekti abak a"
 
 # b820d49b9aa64f859c49bd1d93c1bed7
 #: ../source/abacus.rst:25
@@ -85,18 +101,27 @@ msgid ""
 "1/4 each.) So for each bead you raise up from the bottom in a column add 1 "
 "and for each bead you lower from the top in the same column, add 5."
 msgstr ""
+"Nan chak kolòn, pèl yo anba reprezante 1S ak pèl an tèt yo reprezante 5s. "
+"(Eksepsyon a se kolòn nan nan schety la ak sèlman 4 pèl. Sa yo se 1/4 chak. "
+") Se konsa, pou chak chaplèt ou ogmante moute anba nan fon an nan yon kolòn "
+"ajoute 1 epi pou chak chaplèt ou pi ba nan tèt la nan menm kolòn nan, ajoute"
+" 5."
 
 # 903e200fb94f4bb591911bfc1b3cc8cf
 #: ../source/abacus.rst:27
 msgid ""
-"The columns themselves represent decimal positions from right to left, e.g., "
-"1s, 10s, 100s, 1000s, etc. (There are some exceptions: (1) the "
+"The columns themselves represent decimal positions from right to left, e.g.,"
+" 1s, 10s, 100s, 1000s, etc. (There are some exceptions: (1) the "
 "nepohualtzintzin uses base 20, e.g., 1s, 20s, 400s, 8000s, etc.; (2) on the "
 "schety, the beads to the right of the column with just four beads are 0.1s, "
 "0.01s, 0.001s, and 0.0001s; the black beads on the Caacupé abacus are "
-"fractions; and the custom abacus lets you choose whatever (integer) base you "
-"want.)"
+"fractions; and the custom abacus lets you choose whatever (integer) base you"
+" want.)"
 msgstr ""
+"Kolòn yo tèt yo reprezante pozisyon desimal de dwat a gòch, e. g. , 1, 10, "
+"100s, 1000s, elatriye. (Genyen kèk eksepsyon: (1) nepohualtzintzin a itilize"
+" baz 20, e. g. , 1, 20s, 400s, 8000s, elatriye. ; . 1, 0. 01s, 0. 001s, ak "
+"0. )"
 
 # d0529eebd410408d88dad07d48177b7f
 #: ../source/abacus.rst:29
@@ -104,6 +129,8 @@ msgid ""
 "The current value is always displayed on the frame. Experiment and you will "
 "quickly learn to write and read numbers."
 msgstr ""
+"Valè aktyèl la se toujou parèt sou ankadreman an. Eksperyans epi w ap byen "
+"vit aprann yo ekri epi li nimewo."
 
 # d0803f74e6424074bf7f89ee611459c1
 #: ../source/abacus.rst:31
@@ -112,32 +139,36 @@ msgid ""
 "gallery of images above, the number 54321 is shown on each of the different "
 "abaci."
 msgstr ""
+"Men kèk egzanp: Nan galri a anba a, plizyè egzanp ki senp yo montre. Nan "
+"galri a nan imaj pi wo a, se nimewo a 54321 montre sou chak nan Abacı nan "
+"diferan."
 
 # b5c05b179e7d4f85896ed9db13277fc3
 # 81191944c930480d966427cb4c62341f
 #: ../source/abacus.rst:35 ../source/abacus.rst:47
 msgid "From left to right,"
-msgstr ""
+msgstr "De gòch a dwat,"
 
 # f28db69ab706495a906ff0431b44f8dd
 #: ../source/abacus.rst:37
 msgid "1 bottom bead is up, corresponding to 1 unit"
-msgstr ""
+msgstr "1 chaplèt anba a se leve, ki koresponn a 1 inite"
 
 # dad94d883eeb48c986108b14a5353abb
 #: ../source/abacus.rst:39
 msgid "1 top bead is down, corresponding to 5 units"
-msgstr ""
+msgstr "1 tèt chaplèt se desann, ki koresponn a 5 inite"
 
 # 32cad01ab04c47209f42b5772bf4f67b
 #: ../source/abacus.rst:41
 msgid "5 bottom beads are up, also corresponding to 5 units"
-msgstr ""
+msgstr "5 pèl anba yo moute, tou ki koresponn a 5 inite"
 
 # 6dc13ac9bced48c4ae6c534925ad4d5d
 #: ../source/abacus.rst:43
 msgid "1 bottom bead is up and 1 top bead is down, corresponding to 6 units"
 msgstr ""
+"1 chaplèt anba a se leve, li 1 tèt chaplèt se desann, ki koresponn a 6 inite"
 
 # 8a7ab363b46247acbe610cc72242e053
 #: ../source/abacus.rst:49
@@ -145,21 +176,23 @@ msgid ""
 "5 bottom beads are up and 1 top bead is down, corresponding to 10 units "
 "(time to \"carry\" to the left)"
 msgstr ""
+"5 pèl anba yo moute ak 1 tèt chaplèt se desann, ki koresponn a 10 inite (tan"
+" nan \"pote\" nan bò gòch la)"
 
 # cf9f1acbec0349ca9bced9936f999148
 #: ../source/abacus.rst:51
 msgid "This 10 is equivalent to..."
-msgstr ""
+msgstr "Sa a 10 se ekivalan a. . ."
 
 # b1a750e2829f42e49c5b0fc0733829c5
 #: ../source/abacus.rst:53
 msgid "... this 10"
-msgstr ""
+msgstr ". . . sa a 10"
 
 # ad1031ec09c24e9fbf7b94ef1468ccf6
 #: ../source/abacus.rst:55
 msgid "54321"
-msgstr ""
+msgstr "54321"
 
 # 7ad8f5e169a240d09d7884d3d89284c3
 #: ../source/abacus.rst:57
@@ -167,16 +200,18 @@ msgid ""
 "Note: The display always assumes a fixed unit column, but you can override "
 "this choice."
 msgstr ""
+"Remak: ekspozisyon a toujou pansé ké yon kolòn inite fiks, men ou ka pase "
+"sou desizyon chwa sa a."
 
 # 80ca7a3aa9514e7e8e771ebcad2b9255
 #: ../source/abacus.rst:61
 msgid "The beads moved most recently are highlighted."
-msgstr ""
+msgstr "Pèl an te deplase pi resamman yo make."
 
 # abef3a31135f4635bb0cc207875b2b7e
 #: ../source/abacus.rst:64
 msgid "Addition"
-msgstr ""
+msgstr "Adisyon"
 
 # 139aeaf14bc54bc49d5c9ec75d52c2ae
 #: ../source/abacus.rst:65
@@ -186,14 +221,19 @@ msgid ""
 "more on the bottom of a column, cancel out the 5 by sliding the beads back "
 "down and add a five to to the top; and (2) whenever you have a total of 10 "
 "units or more in a column, cancel out the 10 and add one unit to the column "
-"immediately to the left. (With the nepohualtzintzin, you work with 20 rather "
-"than 10.)"
+"immediately to the left. (With the nepohualtzintzin, you work with 20 rather"
+" than 10.)"
 msgstr ""
+"Pou ajoute, tou senpleman deplase nan plis pèl reprezante ki kantite w ap "
+"ajoute. Gen de règ yo swiv: (1) nenpòt lè ou gen yon total de 5 inite oswa "
+"plis sou anba a nan yon kolòn, anile soti nan 5 pa glisman pèl yo tounen "
+"desann epi ajoute yon senk a nan tèt la; . (Avèk nepohualtzintzin a, w ap "
+"travay avèk 20 olye ke 10. )"
 
 # 31db707af29f47638d26ca19dba96b8c
 #: ../source/abacus.rst:67
 msgid "Example: 4+3+5+19+24=55"
-msgstr ""
+msgstr "Egzanp: 4 + 3 + 5 + 19 + 24 = 55"
 
 # 2fb4d02fa27a42039174630805099bf8
 # 55dd599a95374c18bddc1a52ceb91321
@@ -214,12 +254,12 @@ msgstr ""
 #: ../source/abacus.rst:183 ../source/abacus.rst:283 ../source/abacus.rst:295
 #: ../source/abacus.rst:305
 msgid "from left to right,"
-msgstr ""
+msgstr "de gòch a dwat,"
 
 # 24c33998c4c44f15a8d99f8429c88871
 #: ../source/abacus.rst:73
 msgid "4"
-msgstr ""
+msgstr "4"
 
 # 79c6006a92bd4b2a88666e5efaac488d
 #: ../source/abacus.rst:75
@@ -229,32 +269,32 @@ msgstr ""
 # ff540e3a1da94515af33b3b3d6c19f12
 #: ../source/abacus.rst:77
 msgid "+5=12"
-msgstr ""
+msgstr "+ 5 = 12"
 
 # 5af409d69ac74a588504cae0955d165c
 #: ../source/abacus.rst:79
 msgid "carry 5s to next column"
-msgstr ""
+msgstr "pote 5s nan pwochen kolòn"
 
 # d7364397a2fb47e996c06ff6847c3d89
 #: ../source/abacus.rst:85
 msgid "+19=31 (20-1=19)"
-msgstr ""
+msgstr "+ 19 = 31 (20-1 = 19)"
 
 # a2c00a51fbcd434faa3efaabc977ddfa
 #: ../source/abacus.rst:87
 msgid "+24=55"
-msgstr ""
+msgstr "+ 24 = 55"
 
 # bd52b6909d0b4ff087292f3c65bb219a
 #: ../source/abacus.rst:89
 msgid "4+3+5+19+24=55"
-msgstr ""
+msgstr "4 + 3 + 5 + 19 + 24 = 55"
 
 # e2e80eeb32e744ae94665178cc3ee6b3
 #: ../source/abacus.rst:92
 msgid "Subtraction"
-msgstr ""
+msgstr "Soustraksyon"
 
 # 79889d8ba5214241998357178b5f2259
 #: ../source/abacus.rst:93
@@ -264,6 +304,9 @@ msgid ""
 "immediately to the left: subtracting one unit and adding 10 to the current "
 "column."
 msgstr ""
+"Soustraksyon se envès la nan de sa. Deplase soti pèl ki koresponn ak nimewo "
+"a ou ap soustraksyon. Ou ka \"prete\" nan kolòn nan imedyatman nan bò gòch "
+"la: soustraksyon yon inite epi ajoute 10 a kolòn nan aktyèl."
 
 # 898c0307147d4c29b6d6fded6b7312d2
 #: ../source/abacus.rst:95
@@ -273,37 +316,37 @@ msgstr ""
 # c1ee57ca481c43f2b62f1a09925cd9c0
 #: ../source/abacus.rst:101
 msgid "26"
-msgstr ""
+msgstr "26"
 
 # 03aa0b021def430ebc4b67622ffdfa0c
 #: ../source/abacus.rst:103
 msgid "26-2=24"
-msgstr ""
+msgstr "26-2 = 24"
 
 # 1cc8b5a6a3474cf89dbb1f367cd77e14
 #: ../source/abacus.rst:105
 msgid "24-4=20"
-msgstr ""
+msgstr "24-4 = 20"
 
 # 69fe60b021f9484c97e9cf1cfa5bfda1
 #: ../source/abacus.rst:107
 msgid "cary 10 to the right"
-msgstr ""
+msgstr "CARY 10 a dwat a"
 
 # c7851426253b4aa095499806fb571579
 #: ../source/abacus.rst:113
 msgid "20-6=14"
-msgstr ""
+msgstr "20-6 = 14"
 
 # d3a5c5bb329e4ec69fc661f2cc031e80
 #: ../source/abacus.rst:115
 msgid "14-10=4"
-msgstr ""
+msgstr "14-10 = 4"
 
 # 6661459531a24c1888a4b3da599af314
 #: ../source/abacus.rst:119
 msgid "Multiplication"
-msgstr ""
+msgstr "Miltiplikasyon"
 
 # 7e4003c6115a46adbfb2e1c69172528f
 #: ../source/abacus.rst:120
@@ -314,14 +357,19 @@ msgid ""
 "digits in the multiplier. The red indicator is used to help keep track of "
 "where we are in the process."
 msgstr ""
+"Gen plizyè estrateji pou fè miltiplikasyon sou yon abak. Nan metòd la "
+"itilize nan egzanp ki anba a, se miltiplikatè a ki estoke sou byen lwen kite"
+" nan abak a epi li se multiplikand a konpanse pa kantite chif nan "
+"miltiplikatè a kite a. Se endikatè a wouj itilize ede kenbe tras nan kote "
+"nou ye nan pwosesis la."
 
 # b0a2e2e6d6bc41fd8c3abe12fff76501
 #: ../source/abacus.rst:126
 msgid ""
 "486×24=? Begin by placing 24 in the left-most columns and 486 offset from "
-"the far right by two columns (since 24 has two digits). Set the indicator to "
-"the right of the multiplicand."
-msgstr ""
+"the far right by two columns (since 24 has two digits). Set the indicator to"
+" the right of the multiplicand."
+msgstr "Mete endikatè ki a dwat a multiplikand la."
 
 # a4cd7245cc124a8ab04680a6a9927b58
 #: ../source/abacus.rst:128
@@ -343,7 +391,7 @@ msgstr ""
 # 3ffb55397ba142d3965bc97ed057d912
 #: ../source/abacus.rst:132 ../source/abacus.rst:142
 msgid "Move the indicator over one column to the left."
-msgstr ""
+msgstr "Deplase endikatè a sou yon kolòn sou bò goch la."
 
 # 1675cc2c41f646a8ae5702af1a715c96
 #: ../source/abacus.rst:138
@@ -373,22 +421,25 @@ msgstr ""
 # 324c52b79cab4f1cbdfe921585408335
 #: ../source/abacus.rst:156
 msgid "Division"
-msgstr ""
+msgstr "Divizyon"
 
 # 026137f95081462393d161b40a65a193
 #: ../source/abacus.rst:157
 msgid ""
-"Simple division (by a single-digit number) is the inverse of multiplication. "
-"In the example below, the dividend is put on the left (leaving one column "
+"Simple division (by a single-digit number) is the inverse of multiplication."
+" In the example below, the dividend is put on the left (leaving one column "
 "vacant for the quotient) and the divisor on the right."
 msgstr ""
+"Senp divizyon (pa yon kantite sèl-chif) se envès nan miltiplikasyon. Nan "
+"egzanp ki anba la a, se dividann a mete yo sou bò gòch la (kite yon kolòn "
+"vid pou kosyan an) ak divizè a sou bò dwat la."
 
 # 9d1f2baec5634fbdb7fca822c7ffddf5
 #: ../source/abacus.rst:163
 msgid ""
 "123456789÷2=? Place the dividend (123456789) on the left, leaving one blank "
 "column. Place the divisor (2) on the right."
-msgstr ""
+msgstr "Mete divizè a (2) sou bò dwat la."
 
 # 9453de5d5e914d23ae1d1542d0d59914
 #: ../source/abacus.rst:165
@@ -396,6 +447,8 @@ msgid ""
 "Working from the left to the right, divide a digit in the quotient and then "
 "move the indicator one column to the right. 1÷2=0.5"
 msgstr ""
+"K ap travay soti nan bò gòch la sou bò dwat la, divize yon chif nan kosyan "
+"an ak lè sa a deplase endikatè ki yon kolòn a dwat a. 5"
 
 # 49a73fc0386549959eb2d650e08363ea
 #: ../source/abacus.rst:167
@@ -405,7 +458,7 @@ msgstr ""
 # 9ee2ddd28220467faea464d3c6ce73af
 #: ../source/abacus.rst:169
 msgid "3÷2=1.5"
-msgstr ""
+msgstr "5"
 
 # 0a982aff54bf4815875a57aab9c4dc41
 #: ../source/abacus.rst:175
@@ -415,7 +468,7 @@ msgstr ""
 # fd879a09e1674aa1b089b276881cd4ac
 #: ../source/abacus.rst:177
 msgid "5÷2=2.5"
-msgstr ""
+msgstr "5"
 
 # 0a06745ad5934650ba11fe33e3be22f1
 #: ../source/abacus.rst:179
@@ -425,7 +478,7 @@ msgstr ""
 # e9ceb589db1c485388e2c9d961f23cf5
 #: ../source/abacus.rst:185
 msgid "7÷2=3.5"
-msgstr ""
+msgstr "5"
 
 # ca26730c1f3e440482a77f9f75399bfa
 #: ../source/abacus.rst:187
@@ -435,17 +488,17 @@ msgstr ""
 # 1022e35bce7b4e2c94429b0d8595c765
 #: ../source/abacus.rst:189
 msgid "9÷2=4.5"
-msgstr ""
+msgstr "5"
 
 # 914ee1df5013433599e05c1b61519e57
 #: ../source/abacus.rst:191
 msgid "The result is 61728394.5."
-msgstr ""
+msgstr "Rezilta a se 61728394. 5."
 
 # aabec31ed4a14e7d8fce20d6b3f2980e
 #: ../source/abacus.rst:195
 msgid "Fractions"
-msgstr ""
+msgstr "Fraksyon"
 
 # 222417a2f42e439c9ede0ef56a00a3af
 #: ../source/abacus.rst:196
@@ -455,23 +508,27 @@ msgid ""
 "by the number of black beads on a rod, e.g., to work with thirds, use the "
 "rod with three beads, to work with fifths, use the rod with five beads."
 msgstr ""
+"Abak a fraksyon pèmèt ou fè adisyon ak soustraksyon fraksyon komen: 1/2, "
+"1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, ak 1/12, fraksyon nan . g. , Yo travay "
+"avèk tyè, sèvi ak baton an ak twa pèl, yo travay avèk senkyèm, sèvi ak baton"
+" an ak senk pèl."
 
 # 98f75c1d21954fe7828eddcbbeabf9ae
 #: ../source/abacus.rst:198
 msgid ""
 "The rods with white beads are whole numbers in base 10; from left to right "
 "100000, 10000, 1000, 100, 10, and 1."
-msgstr ""
+msgstr "Branch yo ak pèl blan yo se nonb antye nan baz 10; ."
 
 # b8611bde650d4c08808cd55472910016
 #: ../source/abacus.rst:202
 msgid "20 + 1 + 1/2 + 1/3 + 1/6 = 22"
-msgstr ""
+msgstr "20 + 1 + 1/2 + 1/3 + 1/6 = 22"
 
 # 2e2e26dc6fde436890e63afe95e4e73d
 #: ../source/abacus.rst:206
 msgid "The toolbars"
-msgstr ""
+msgstr "Bar yo"
 
 # 5c1ce9f86b1d4e9fb4f87ff8926392d0
 # a5f47f2fb4a648f78bd0184fe5579246
@@ -480,15 +537,18 @@ msgstr ""
 #: ../source/abacus.rst:210 ../source/abacus.rst:226 ../source/abacus.rst:235
 #: ../source/abacus.rst:262
 msgid "From left to right:"
-msgstr ""
+msgstr "De gòch a dwat:"
 
 # 23a9d3f636a84c67a4bdd4ce94a95396
 #: ../source/abacus.rst:212
 msgid ""
 "project-toolbar button see below edit-toolbar button see below abacus-"
-"toolbar button see below customization-toolbar button clear button clear the "
-"abacus stop button exit the activity"
+"toolbar button see below customization-toolbar button clear button clear the"
+" abacus stop button exit the activity"
 msgstr ""
+"bouton pwojè-toolbar gade pi ba a bouton edit-toolbar gade pi ba a bouton "
+"abak-toolbar gade pi ba a personnalisation-toolbar bouton bouton klè klè "
+"sòti nan abak bouton sispann aktivite a"
 
 # 39d2625bac38488da2085e3e4ae558d8
 #: ../source/abacus.rst:228
@@ -496,6 +556,8 @@ msgid ""
 "copy copy current value to clipboard paste paste a value from the clipboard "
 "into the abacus"
 msgstr ""
+"kopi kopi valè aktyèl la clipboard keratin kole yon valè soti nan clipboard "
+"a nan abak a"
 
 # d41ea1071be4417ab8f939b6d6b6b00c
 #: ../source/abacus.rst:237
@@ -513,52 +575,56 @@ msgid ""
 "rods select the number of rods: top beads select the number of beads on the "
 "top of the frame bottom select the number of beads on the bottom of the "
 "frame factor select the multiplication factor of top beads (e.g., on the "
-"Chinese abacus, each top bead counts as 5× the value of a bottom bead on the "
-"same rod) base select the base to determine the value of bottom beads across "
-"rods; this is 10 on most conventional abacuses, but 20 on the Mayan abacus, "
-"16 on the hexadecimal abacus, and 2 on the binary abacus. create you must "
-"push this button to activate the selections you've made"
+"Chinese abacus, each top bead counts as 5× the value of a bottom bead on the"
+" same rod) base select the base to determine the value of bottom beads "
+"across rods; this is 10 on most conventional abacuses, but 20 on the Mayan "
+"abacus, 16 on the hexadecimal abacus, and 2 on the binary abacus. create you"
+" must push this button to activate the selections you've made"
 msgstr ""
+"branch bwa chwazi nimewo ki nan branch: tèt pèl chwazi nimewo ki nan pèl sou"
+" tèt la nan pati anba a ankadreman chwazi nimewo ki nan pèl sou anba a nan "
+"faktè a ankadreman chwazi faktè a miltiplikasyon nan pèl tèt (e. g. kreye ou"
+" dwe pouse bouton sa-a yo sa aktive seleksyon yo ou te fè"
 
 # 116bad30b70143fb9f0c82e947e5dc82
 #: ../source/abacus.rst:279
 msgid "Gallery of abaci"
-msgstr ""
+msgstr "Galeri nan fo"
 
 # 2d1d95431ba040aab2686a22c6e997b9
 #: ../source/abacus.rst:285
 msgid "suanpan (Chinese)"
-msgstr ""
+msgstr "suanpan (Chinwa)"
 
 # bc7e4b71d8314123a3124a538187601a
 #: ../source/abacus.rst:287
 msgid "soropan (Japanese)"
-msgstr ""
+msgstr "soropan (Japonè)"
 
 # b382fcbfec3e4ee9ae78432f4847cb28
 #: ../source/abacus.rst:289
 msgid "schety (Russian)"
-msgstr ""
+msgstr "schety (Ris)"
 
 # bebafa2816f746b0b56db7dc6635b571
 #: ../source/abacus.rst:291
 msgid "nepohualtzintzin (Mayan)"
-msgstr ""
+msgstr "nepohualtzintzin (Maya)"
 
 # 4ae6c93176934837b0ecdd5788d54d71
 #: ../source/abacus.rst:297
 msgid "binary (base 2)"
-msgstr ""
+msgstr "binè (baz 2)"
 
 # 683df85f889f42148b4e2f8850fd036e
 #: ../source/abacus.rst:299
 msgid "hexadecimal (base 16)"
-msgstr ""
+msgstr "ekzadesimal (baz 16)"
 
 # 4a6dc4f337ad4977808d0dc0cb68d6b4
 #: ../source/abacus.rst:301
 msgid "fractions (1/2, 1/3, 1/4,...)"
-msgstr ""
+msgstr "fraksyon (1/2, 1/3, 1/4,. . . )"
 
 # 483cbc800a8c48f3a6221d5bd098d86a
 #: ../source/abacus.rst:307
@@ -568,29 +634,32 @@ msgstr ""
 # bfd9d3de0dfa44628e929fbc9b14f408
 #: ../source/abacus.rst:309
 msgid "decimal (base 10)"
-msgstr ""
+msgstr "desimal (baz 10)"
 
 # 8b768046ea7f45de9c2f238ff71d34ff
 #: ../source/abacus.rst:311
 msgid "Cuisenaire-style rods (fractions)"
-msgstr ""
+msgstr "Branch Cuisenaire-style (fraksyon)"
 
 # 6959234f332448e991b3c1b71510dd17
 #: ../source/abacus.rst:313
 msgid "custom, as shown: octal (base 8)"
-msgstr ""
+msgstr "koutim, menm jan yo montre: oktal (baz 8)"
 
 # 6197f890ec0a41e58fb2a7a4c8a0491f
 #: ../source/abacus.rst:318
 msgid "Learning with Abacus"
-msgstr ""
+msgstr "Aprann ak Abacus"
 
 # 33560c8b81774a10a6c526dd822d4cb8
 #: ../source/abacus.rst:319
 msgid ""
-"`Some lesson plans <http://wiki.sugarlabs.org/go/Activities/Abacus/"
-"Worksheet>`_ for using Abacus are found here."
+"`Some lesson plans "
+"<http://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet>`_ for using "
+"Abacus are found here."
 msgstr ""
+"`Gen kèk leson plan <http: // wiki. sugarlabs. org / ale / Aktivite / Abacus"
+" / Worksheet> `_ pou lè l sèvi avèk Abacus yo jwenn isit la."
 
 # 5cfbf32ef0d846ecbe4b42acf3141ddc
 #: ../source/abacus.rst:320
@@ -598,24 +667,34 @@ msgid ""
 "Using beads or pebbles, you can make an abacus. What is the difference "
 "between the abacus on the computer and a physical abacus?"
 msgstr ""
+"Lè l sèvi avèk pèl oswa ti wòch, ou ka fè yon abak. Ki sa ki se diferans ki "
+"genyen ant abak la sou òdinatè a ak yon abak fizik?"
 
 # b9906253ab1d4790a32deac1b7b06e77
 #: ../source/abacus.rst:321
 msgid ""
 "It is possible to create a custom abacus. I often use the example of "
-"`Sumerian mathematics <https://en.wikipedia.org/wiki/"
-"Babylonian_mathematics#Sumerian_mathematics_.283000_.E2.80.94_2300_BC.29>`_: "
-"the Sumerians counted on the digital bones (phalanges) of their fingers, so "
-"the base of their counting system was 12. All of the 12s (and 60s) we have "
+"`Sumerian mathematics "
+"<https://en.wikipedia.org/wiki/Babylonian_mathematics#Sumerian_mathematics_.283000_.E2.80.94_2300_BC.29>`_:"
+" the Sumerians counted on the digital bones (phalanges) of their fingers, so"
+" the base of their counting system was 12. All of the 12s (and 60s) we have "
 "in our mathemateics, e.g., 12 hours, 60 seconds, etc. have their roots in "
 "Sumerian math. But the Sumerians never invented an abacus. What would a "
 "Sumerian abacus look like?"
 msgstr ""
+"Li se posib yo kreye yon abak koutim. Mwen souvan sèvi ak egzanp nan "
+"`matematik Sumerian <https: // en. wikipedia. org / wiki / "
+"Babylonian_mathematics # Sumerian_mathematics_. 283000_. E2. 80. 94_2300_BC."
+" 29> `_: sumeryen yo konte sou zo yo dijital (falanj) nan dwèt yo, se konsa "
+"baz la nan sistèm konte yo te 12. Tout moun nan 12s yo (ak 60s) nou gen nan "
+"nou an mathemateics, e. g. , 12 èdtan, 60 segonn, elatriye. gen rasin yo nan"
+" Sumerian matematik. Men, yo pa janm sumeryen envante yon abak. Ki sa ki ta "
+"yon abak Sumerian sanble?"
 
 # da70b06f49254477a46b63389d29a181
 #: ../source/abacus.rst:325
 msgid "Extending Abacus"
-msgstr ""
+msgstr "Pwolonje Abacus"
 
 # 241b99e3a62c444b899c9a7b78037b28
 #: ../source/abacus.rst:326
@@ -624,22 +703,28 @@ msgid ""
 "Activity. Which is faster? Which is more accurate? Which is better for "
 "estimating? Which is better for comparing?"
 msgstr ""
+"Yon pwojè plezi se yo konpare kalkil lè l sèvi avèk Abacus ak Kalkile "
+"aktivite a. Ki se pi vit?"
 
 # f3a5f7a25e9d418b9c4e8bf532312a4e
 #: ../source/abacus.rst:327
 msgid ""
 "Abacus supports paste, so you can take numeric values from other programs "
 "and paste them into the abacus to see what their representations are; for "
-"example, I often paste numbers into the hexadecimal abacus as a quick way of "
-"converting decimal to hexidecimal."
+"example, I often paste numbers into the hexadecimal abacus as a quick way of"
+" converting decimal to hexidecimal."
 msgstr ""
+"Abacus sipòte keratin, kidonk, ou ka pran nimerik valè soti nan lòt pwogram "
+"ak keratin yo nan abak a yo wè sa ki yo se reprezantasyon; ."
 
 # 71330557fec147769e1888cb8b857c52
 #: ../source/abacus.rst:328
 msgid ""
-"Abacus also supports copy, so you can take a sum calculated on an abacus and "
-"export it into SimpleGraph or some other data-visualization Activities."
+"Abacus also supports copy, so you can take a sum calculated on an abacus and"
+" export it into SimpleGraph or some other data-visualization Activities."
 msgstr ""
+"Abacus sipòte tou kopi, kidonk, ou ka pran yon sòm kalkile sou yon abak ak "
+"ekspòtasyon li nan SimpleGraph oswa kèk lòt aktivite done-vizyalizasyon."
 
 # 896322f4b0c048138b445babb4f7372b
 #: ../source/abacus.rst:329
@@ -648,33 +733,44 @@ msgid ""
 "each sharer work independently to post it on the abacus of their choice "
 "first. There could be a tally of beads awarded for each correct answer."
 msgstr ""
+"Yon plezi mòd kolaborasyon ta ka gen yon nimewo tirajosò ak chak travay "
+"sharer poukont yo afiche l 'sou abak a nan chwa yo an premye. Ta ka kapab "
+"genyen yon tally nan pèl bay pou chak repons ki kòrèk."
 
 # 2760ead7fbfe429182cf0f639fa26e95
 #: ../source/abacus.rst:332
 msgid "Reporting Problems"
-msgstr ""
+msgstr "Rapòte Pwoblèm"
 
 # 3b518c03cd9e4c7bbd8f1f31122d7d0c
 #: ../source/abacus.rst:333
 msgid ""
 "If you discover a bug in the program or have a suggestion for an "
-"enhancement, please `file a ticket <https://bugs.sugarlabs.org/newticket?"
-"component=Abacus>`_ in our bug-tracking system."
+"enhancement, please `file a ticket "
+"<https://bugs.sugarlabs.org/newticket?component=Abacus>`_ in our bug-"
+"tracking system."
 msgstr ""
+"Si ou dekouvri yon ensèk nan pwogram nan oswa ki gen yon sijesyon pou yon "
+"amelyorasyon, tanpri `depoze yon tikè <https: // pinèz. sugarlabs. org / "
+"newticket? eleman = Abacus> `_ nan sistèm ensèk-Suivi nou an."
 
 # 7219cb9157264cca823dd6882462a349
 #: ../source/abacus.rst:335
 msgid ""
-"You can `view the open tickets here. <https://bugs.sugarlabs.org/query?"
-"status=accepted&status=assigned&status=new&status=reopened&component=Abacus>`_"
+"You can `view the open tickets here. "
+"<https://bugs.sugarlabs.org/query?status=accepted&status=assigned&status=new&status=reopened&component=Abacus>`_"
 msgstr ""
+"Ou ka wè `tikè yo louvri isit la. <Https: // pinèz. sugarlabs. org / query? "
+"estati = aksepte & kondisyon = asiyen & kondisyon = nouvo & kondisyon = "
+"reouvri & eleman = Abacus> `_"
 
 # 33229a082dcf4be8b30b1344fa9b18d4
 #: ../source/abacus.rst:339
 msgid "References"
-msgstr ""
+msgstr "Referans"
 
 # 3dd7fb11c3c44a6bb4a6b311d69dbeb4
 #: ../source/abacus.rst:340
 msgid "`Wiki page <http://wiki.sugarlabs.org/go/Activities/Abacus>`_"
 msgstr ""
+"`Paj Wiki <http: // wiki. sugarlabs. org / ale / Aktivite / Abacus> `_"

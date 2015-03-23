@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # 6b84f018fde54fe194d58f6e6e2c85de
 #: ../source/getting_support.rst:3
 msgid "Getting Support"
-msgstr ""
+msgstr "Lè w Sipò"
 
 # 963629456f964a77aebb33c6b262d8b0
 #: ../source/getting_support.rst:5
@@ -31,6 +31,12 @@ msgid ""
 "with your XO, remember that its design is to encourage you to learn new "
 "things by trying to solve problems on your own!"
 msgstr ""
+"Youn Laptop pou chak timoun se yon pwojè edikasyon, se pa yon pwojè laptop. "
+"Avèk laptops konekte, elèv k ap aprann yo libere yo aktivman angaje ak lòt "
+"moun ki gen enterè menm jan an nan kilti pou yo aprann pa fè san yo pa "
+"limite pa tan oswa espas. Si w gen pyès ki nan konpitè oswa lojisyèl pwoblèm"
+" ki genyen ak XO ou, sonje ke desen li yo se pou ankouraje w aprann nouvo "
+"bagay pa ap eseye rezoud pwoblèm sou pwòp ou a!"
 
 # c4e8562c6798437f8be6500db1f487c4
 #: ../source/getting_support.rst:7
@@ -42,6 +48,10 @@ msgid ""
 "that volunteer-driven support works, often with far more heartfelt caring "
 "than any corporate help desk!"
 msgstr ""
+"Sa te di, yon tout kominote bati sa a XO ak tout bagay sou li, e nou vle ede"
+" ou ak li. Kominote OLPC nou mondyal nan volontè bay lojisyèl ak kenkayri "
+"depanaj ak sipò. Seksyon sa a ap ede di ou ki kote yo jwenn sipò lè ou se "
+"reyèlman kole!"
 
 # 5d196586880248acbeae37315705db3c
 #: ../source/getting_support.rst:9
@@ -51,58 +61,71 @@ msgid ""
 "very good chance it is already answered within our expanding Support FAQ / "
 "RTFM knowledge base:"
 msgstr ""
+"Si w gen kesyon sou XO a, mande yon pwofesè pou èd, yon zanmi, oswa rechèch "
+"sou entènèt la. Si ou gen yon kesyon sou XO ou a, gen yon chans trè bon li "
+"se deja reponn nan Sipò FAQ / baz konesans RTFM agrandi nou an:"
 
 # 86e0438fd66741569cfae52ba7bfa4dc
 #: ../source/getting_support.rst:11
 msgid "http://wiki.laptop.org/go/Support_FAQ"
-msgstr ""
+msgstr "http: // wiki. laptop. org / ale / Support_FAQ"
 
 # 00c465601f504456a57d29b6c3e50b2a
 #: ../source/getting_support.rst:13
 msgid ""
-"Next try looking at http://support.laptop.org extensive helpful guidance for "
-"exploring and fixing your XO, allowing you to solve challenging issues right "
-"alongside others. Specifically, check out:"
+"Next try looking at http://support.laptop.org extensive helpful guidance for"
+" exploring and fixing your XO, allowing you to solve challenging issues "
+"right alongside others. Specifically, check out:"
 msgstr ""
+"Next eseye gade nan http: // sipò. laptop. org vaste konsèy itil pou "
+"eksplore ak repare-XO ou, ki pèmèt ou rezoud pwoblèm difisil dwa ansanm ak "
+"lòt moun. Espesyalman, tcheke deyò:"
 
 # 5b961fcb23db4c1a895b9ed70c878480
 #: ../source/getting_support.rst:15
 msgid "Getting Started: http://laptop.org/start"
-msgstr ""
+msgstr "Pou kòmanse: http: // laptop. org / kòmansman"
 
 # f29571ef1b1746f6956cbd21e0bb2114
 #: ../source/getting_support.rst:17
 msgid "Email Lists: http://lists.laptop.org"
-msgstr ""
+msgstr "Imèl Lis: http: // lis. laptop. org"
 
 # 0fb2bafe90d24664b1d1667754e7b4af
 #: ../source/getting_support.rst:19
 msgid "Live Chat: http://forum.laptop.org/chat"
-msgstr ""
+msgstr "Live Chat: http: // fowòm. laptop. org / chat"
 
 # 690cd89403a6497cb3bd8e1b2d613172
 #: ../source/getting_support.rst:21
 msgid "OLPC Community: Wiki http://wiki.laptop.org"
-msgstr ""
+msgstr "OLPC Kominotè: Wiki http: // wiki. laptop. org"
 
 # 0dd8f67f2f28496db9cba04bba407ad0
 #: ../source/getting_support.rst:23
 msgid ""
-"If you are still unable to find an answer online, please email help@laptop."
-"org."
+"If you are still unable to find an answer online, please email "
+"help@laptop.org."
 msgstr ""
+"Si ou toujou kapab jwenn yon repons sou entènèt, tanpri voye yon imèl èd @ "
+"laptop. org."
 
 # 736df9a79e4e455ea0a8838a72456fa3
 #: ../source/getting_support.rst:25
 msgid ""
 "Did you know that our volunteers staff a live Help Chat site 24/7, on the "
-"Internet? Click here: http://forum.laptop.org/chat Login with the color-name "
-"shown; that's guest ID. Type your question in the chat line at the bottom. "
+"Internet? Click here: http://forum.laptop.org/chat Login with the color-name"
+" shown; that's guest ID. Type your question in the chat line at the bottom. "
 "You may have to wait for a response as our volunteers come in and out. If "
-"you are patient, we can probably help you! To learn more about what Internet "
-"Relay Chat (the system that makes this possible) is, click here: http://wiki."
-"laptop.org/go/IRC"
+"you are patient, we can probably help you! To learn more about what Internet"
+" Relay Chat (the system that makes this possible) is, click here: "
+"http://wiki.laptop.org/go/IRC"
 msgstr ""
+"Èske w te konnen volontè nou anplwaye yon Ede Chat sit viv 24/7, sou entènèt"
+" la? . laptop. org / chat Connexion ak koulè non an-montre; . Tape kesyon ou"
+" nan liy lan chat nan pati anba a. Ou ka gen pou ret tann pou yon repons kòm"
+" volontè nou yo rive nan ak soti. Si ou se pasyan, nou ka pwobableman ede w!"
+" . laptop. org / ale / ir"
 
 # 36c2d132aaf04c8db69c0c445d9c2943
 #: ../source/getting_support.rst:27
@@ -110,14 +133,22 @@ msgid ""
 "We would also like to make special mention of our Support Gang, where an "
 "enthusiastic group of volunteers assist XO users all over the world. If you "
 "are impressed with the passion and hard work of our volunteers, please "
-"consider giving back, by joining our dedicated community. Take a look at the "
-"link below. We would welcome your participation! http://wiki.laptop.org/go/"
-"Support_Gang http://wiki.laptop.org/go/Support_FAQ Be sure to review the "
-"Frequently Asked Questions (FAQ) link above. Many of us join and \"learn by "
-"doing.\""
+"consider giving back, by joining our dedicated community. Take a look at the"
+" link below. We would welcome your participation! "
+"http://wiki.laptop.org/go/Support_Gang http://wiki.laptop.org/go/Support_FAQ"
+" Be sure to review the Frequently Asked Questions (FAQ) link above. Many of "
+"us join and \"learn by doing.\""
 msgstr ""
+"Nou ta renmen tou fè mansyone espesyal nan Gang Sipò nou an, kote yon gwoup "
+"antouzyastik nan volontè ede itilizatè XO nan tout mond lan. Si ou se "
+"enpresyone ak pasyon a ak travay di nan volontè nou yo, tanpri konsidere bay"
+" tounen, pa rantre nan kominote nou an dedye. Pran yon gade nan lyen ki anba"
+" a. Nou ta akeyi patisipasyon ou! . laptop. org / ale / Support_Gang http: "
+"// wiki. laptop. org / ale / Support_FAQ Asire ou ke ou revize Kesyon yo "
+"poze souvan (FAQ) lyen pi wo a. Anpil nan nou rantre nan ak \"aprann nan fè."
+" \""
 
 # 26739645f0bd4a8fb7f1e5c562f98b41
 #: ../source/getting_support.rst:29
 msgid "Thanks very much! OLPC Support Gang"
-msgstr ""
+msgstr "Mèsi anpil!"

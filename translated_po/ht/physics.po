@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 212ba8981b9144d48e9cc23c56f2c387
 #: ../source/physics.rst:3
 msgid "Physics"
-msgstr ""
+msgstr "Fizik"
 
 # dc76b02ea6a24e74a44d3012843aa516
 #: ../source/physics.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 8730f2fe93804fdc8e67a65f166e60b9
 #: ../source/physics.rst:10
@@ -34,11 +34,14 @@ msgid ""
 "forces (think gravity, Newton!), friction (scrrrrape), and inertia (ahh, "
 "slow down!)."
 msgstr ""
+"Fizik se yon similatè mond fizik ak lakou rekreyasyon. Ou kapab ajoute kare,"
+" sèk, triyang, oubyen desine fòm pwòp ou a, ak wè yo vini nan lavi ak fòs "
+"(panse gravite a, Newton!), Friksyon (scrrrrape), ak inèsi (ahh, ralanti!)."
 
 # 25e0705612c341068cfcc33f0d950bea
 #: ../source/physics.rst:13
 msgid "Getting to know the tools"
-msgstr ""
+msgstr "Lè w konnen zouti yo"
 
 # 00e1814a23d14d75a352b00c1f936984
 #: ../source/physics.rst:17
@@ -46,11 +49,13 @@ msgid ""
 "This image shows all the tools used for creating objects. Reference the "
 "number shown below the tool to learn what it does."
 msgstr ""
+"Imaj sa a montre tout zouti yo itilize pou kreye objè. Referans nimewo a yo "
+"montre anba a zouti a yo aprann ki sa li fè."
 
 # bf6ac4de505b4e5eb9a823850afe7797
 #: ../source/physics.rst:20
 msgid "Magic Pen Tool:"
-msgstr ""
+msgstr "Magic Pen Zouti:"
 
 # 197552469ede41db8176ded550369892
 #: ../source/physics.rst:20
@@ -58,22 +63,25 @@ msgid ""
 "Draw anything and it will appear in the canvas. You can use it to create "
 "custom shapes, or a surface. Like a slope."
 msgstr ""
+"Trase anyen epi li pral parèt nan twal la. Ou ka sèvi ak li yo kreye fòm "
+"koutim, oswa yon sifas. Tankou yon pant."
 
 # 6e893ee52cb148f9abdcde8722b24d8e
 #: ../source/physics.rst:23
 msgid "Circle Tool:"
-msgstr ""
+msgstr "Sèk Zouti:"
 
 # 9c6fa9d6425244d38b75996e308a06fb
 #: ../source/physics.rst:23
 msgid ""
 "You can make circles with it, just drag. Try rolling a circle down a slope."
 msgstr ""
+"Ou ka fè ti sèk ak li, jis trennen. Eseye woule yon sèk desann yon pant."
 
 # 2b8162b044d04b579907b42039f014a3
 #: ../source/physics.rst:26
 msgid "Triangle Tool:"
-msgstr ""
+msgstr "Triyang Zouti:"
 
 # 98d65443a72b402791ddc65d904525cd
 #: ../source/physics.rst:26
@@ -81,21 +89,23 @@ msgid ""
 "You can make equilateral triangles (all sides equal) with this tool. Try "
 "making a seesaw by combining a triangle and a rectangle (described below)."
 msgstr ""
+"Ou kapab fè triyang ekilateral (tout kote egal) ak zouti sa a. Eseye fè yon "
+"baskil pa mete ansanm yon triyang ak yon rektang (dekri pi ba a)."
 
 # 4be72bea49b8450abe651adc9f782faa
 #: ../source/physics.rst:29
 msgid "Rectangle Tool:"
-msgstr ""
+msgstr "Rektang Zouti:"
 
 # 0218056ef7ab425fa98774823dbe676b
 #: ../source/physics.rst:29
 msgid "For making rectangles."
-msgstr ""
+msgstr "Pou fè rektang."
 
 # 8c7d29bf02ec4ecabb288671ba45e7ba
 #: ../source/physics.rst:32
 msgid "Polygon Tool:"
-msgstr ""
+msgstr "Poligòn Zouti:"
 
 # fb0d38fff5144ef2a1a81208375ff373
 #: ../source/physics.rst:32
@@ -105,11 +115,14 @@ msgid ""
 "finished, click in the circle surrounding the first dot you drew and the "
 "shape will be drawn."
 msgstr ""
+"Ou ka fè fòm milti-sided ak zouti sa a. Trennen sourit la, lè sa a klike sou"
+" plas kote somè yo nan poligòn la yo ta dwe. apre w fini, klike sou nan sèk "
+"la ki antoure dot an premye ou te trase epi yo pral fòm nan dwe desine."
 
 # 5a08a89b56ca4a9bb955efe296deecc8
 #: ../source/physics.rst:39
 msgid "Grab Tool:"
-msgstr ""
+msgstr "Gen tan pwan Zouti:"
 
 # b49378e514e44a57a46ce69177cfab50
 #: ../source/physics.rst:35
@@ -118,14 +131,21 @@ msgid ""
 "game is running: Try grabbing an object and moving it around. It can be "
 "really fun."
 msgstr ""
+"Ou ka deplase objè otou ak zouti sa a. Ou ka sèvi ak li menm lè jwèt la ap "
+"kouri: Eseye arachman yon objè ak deplase l 'nan. Li kapab reyèlman plezi."
 
 # 82fbbb900dfe4ced9cfcdce9f1929a09
 #: ../source/physics.rst:37
 msgid ""
 "When the game is paused, you can use dragging to move objects with more "
-"precision. You can also drag pins and motors. When you select the grab tool, "
-"the pins and motors will become bigger so that you can easily hold and drag."
+"precision. You can also drag pins and motors. When you select the grab tool,"
+" the pins and motors will become bigger so that you can easily hold and "
+"drag."
 msgstr ""
+"Lè se jwèt la Sarepta, ou ka itilize trenen yo avanse objets ak plis "
+"presizyon. Ou kapab tou trennen broch ak motè. Lè ou chwazi zouti nan gen "
+"tan pwan, broch yo ak motè yo ap vin pi gwo pou ke ou ka fasilman kenbe ak "
+"trennen."
 
 # e3db7953d412404bb80d5010d00f34e7
 #: ../source/physics.rst:39
@@ -133,11 +153,14 @@ msgid ""
 "**ProTip**: You can move motors and pins from one object to another. Also, "
 "moving them out of the body and dropping them in empty space deletes them."
 msgstr ""
+"** ProTip **: Ou ka deplase motè ak broch soti nan yon objè nan yon lòt. "
+"Epitou, k ap deplase yo deyò nan kò a, epi jete yo nan espas vid yo "
+"supresyon."
 
 # 937fb0401b3c4d65bd4577ec83a2f0a1
 #: ../source/physics.rst:42
 msgid "Motor Tool:"
-msgstr ""
+msgstr "Machin Zouti:"
 
 # 58e3731fe9114c3b95345b7055ab54a1
 #: ../source/physics.rst:42
@@ -146,11 +169,14 @@ msgid ""
 "start rotating around that point. You can also change the speed with which "
 "it rotates, as will be explained in the Palette section."
 msgstr ""
+"Avèk zouti sa a, ou ka mete yon motè sou yon objè. Objè a pral Lè sa a "
+"kòmanse wotasyon alantou pwen sa. Ou kapab tou chanje vitès la ak ki li "
+"wotasyon, menm jan yo pral eksplike nan seksyon an palèt."
 
 # 88470556df094838b48da76b7769ad12
 #: ../source/physics.rst:45
 msgid "Pin Tool:"
-msgstr ""
+msgstr "PIN Zouti:"
 
 # e0ac826b0a794c32b11b2afb70ab136c
 #: ../source/physics.rst:45
@@ -159,25 +185,31 @@ msgid ""
 "around, very much like pinning a paper to a clipboard. Just click where you "
 "want to place a pin."
 msgstr ""
+"Zouti sa a pèmèt ou fè objè bwa nan background nan epi yo pa fè mouvman, "
+"anpil tankou epenglaj yon papye nan yon clipboard. Jis klike kote ou vle "
+"mete yon PIN."
 
 # 5ede02b7d92e4820a847ef066c0cafef
 #: ../source/physics.rst:48
 msgid "Joint Tool:"
-msgstr ""
+msgstr "Joint Zouti:"
 
 # dd9c6c9655e1454a8722b8a176f9e364
 #: ../source/physics.rst:48
 msgid ""
 "With this tool you can attach objects to other objects. Click on the point "
-"at which you want to attach the joint in the first object and drag the mouse "
-"over to the point at which you want the joint to end on the second object. "
+"at which you want to attach the joint in the first object and drag the mouse"
+" over to the point at which you want the joint to end on the second object. "
 "Done!"
 msgstr ""
+"Avèk zouti sa a ou ka tache objè yo lòt objè. Klike sou pwen an nan ki ou "
+"vle mete jwenti a nan objè a premye ak trennen sourit la sou nan pwen an nan"
+" ki ou vle jwenti a nan fen sou objè a dezyèm. Fè!"
 
 # 2f3517209e1b4c7c93a7318774a53146
 #: ../source/physics.rst:51
 msgid "Rope Tool:"
-msgstr ""
+msgstr "Zouti kòd:"
 
 # 319afa2bf70a431daeafc21f2c411faa
 #: ../source/physics.rst:51
@@ -186,11 +218,14 @@ msgid ""
 "does it for you. Just click and drag to make the rope. Be careful though, "
 "removing ropes once they have been made can be difficult."
 msgstr ""
+"Jwenti yo tankou ba fè, yo pa ka pliye. Si ou bezwen kòd, zouti sa a fè li "
+"pou ou. Jis Sur Et faites yo fè kòd la. Fè atansyon menm si, retire yon fwa "
+"yo kòd yo te fè ka difisil."
 
 # 8e846e46989343ad82d8da9e943f71f7
 #: ../source/physics.rst:54
 msgid "Trace Tool:"
-msgstr ""
+msgstr "Trace Zouti:"
 
 # e9a58625dec44a5ea8ca5eed348e2490
 #: ../source/physics.rst:54
@@ -199,11 +234,13 @@ msgid ""
 "this tool and click on the point on the object you want to trace. You can "
 "delete a tracer by left clicking with the destroy tool (below)"
 msgstr ""
+"Vle wè ki jan ak ki kote yon objè ap deplase? . Ou ka efase yon reje pa "
+"klike gòch ak zouti nan detwi (anba a)"
 
 # 7d58372858e74e36ad10c049bf78429c
 #: ../source/physics.rst:58
 msgid "Destroy Tool:"
-msgstr ""
+msgstr "Detwi Zouti:"
 
 # 9f5e163e131c44ea943b3aa55f806426
 #: ../source/physics.rst:57
@@ -215,6 +252,11 @@ msgid ""
 "too, but it takes time and is mildly annoying. Therefore try to make rope "
 "only when you are sure you want it."
 msgstr ""
+"Chwazi zouti sa a ak trennen yo kite yon santye nan destriksyon dèyè! . Yon "
+"sèl klike sou bò gòch supresyon yon PIN / motè / reje sou objè a. Depi kòd "
+"yo se jis voye boul ti ansanm ak jwenti piti, ou ka eseye efase yo tou, men "
+"li pran tan ak se léjèrman anmèdan. Se poutèt sa eseye fè kòd sèlman lè ou "
+"se asire w ke ou vle l '."
 
 # efa60c792ebb4610a574800b2bab8782
 #: ../source/physics.rst:60
@@ -224,11 +266,14 @@ msgid ""
 "again. Try it with the Rectangle tool! Draw a square and then left click "
 "again, you'll get another copy of the square."
 msgstr ""
+"** ProTip **: Si ou te trase ak yon zouti anvan epi ou vle plizyè kopi fòm "
+"la menm, jis fè yon bò gòch-klike sou ak objè a menm ak yo dwe desine ankò. "
+"Eseye li ak zouti nan Rektang! ."
 
 # 35cecab5bdff4dcd9259b991290a5d5d
 #: ../source/physics.rst:63
 msgid "Other cool features"
-msgstr ""
+msgstr "Lòt karakteristik fre"
 
 # 0b3ea448f80540e1b4205057480e5e91
 #: ../source/physics.rst:67
@@ -236,11 +281,13 @@ msgid ""
 "Using this button, you can erase everything from the canvas. Careful, you "
 "cannot undo this!"
 msgstr ""
+"Sèvi ak bouton sa a, ou ka efase tout bagay soti nan twal la. Atansyon, ou "
+"pa ka defèt sa a!"
 
 # 8d7eb643944545c5b45f978c14199a40
 #: ../source/physics.rst:71
 msgid "This button allows you to delete all trace marks on the canvas."
-msgstr ""
+msgstr "Bouton sa a pèmèt ou efase tout mak tras sou twal la."
 
 # f2ee6f1b26f0471b992f17a2c5fb5cfd
 #: ../source/physics.rst:76
@@ -250,43 +297,49 @@ msgid ""
 "ultra useful while building complicated machines, which you cannot build "
 "while the machine is running."
 msgstr ""
+"Bouton sa yo de pèmèt ou pran yon poz oswa kòmanse jwèt la. Bouton an premye"
+" fè jwèt la kòmanse ankò apre yon pran yon poz ak dezyèm la sispann li. Sa "
+"yo se ultra itil pandan y ap bati machin konplike, ki ou pa kapab bati "
+"pandan y ap machin nan ap kouri."
 
 # 0ac838711f2c4d8bab480a142b47ee1f
 #: ../source/physics.rst:79
 msgid "All of the objects have palette menus to adjust object properties:"
-msgstr ""
+msgstr "Tout nan objè yo gen meni palèt yo ajiste pwopriyete objè:"
 
 # 073ca449264943c69f9c8e301ec47b43
 #: ../source/physics.rst:83
 msgid "Mass"
-msgstr ""
+msgstr "Mass"
 
 # ae3c58da91cc41a3a61ad760a50666c9
 #: ../source/physics.rst:84
 msgid "feather, wood, and anvil represent light to dense"
-msgstr ""
+msgstr "plim, bwa, ak anklum reprezante limyè a dans"
 
 # cc4871214241416b8a6275fad807f84d
 #: ../source/physics.rst:85
 msgid "Bounciness"
-msgstr ""
+msgstr "Bounciness"
 
 # f67b051b93a148b69f7fd66ac66515af
 #: ../source/physics.rst:86
 msgid ""
 "basketball, baseball, and bowling ball represent very bouncy to inelastic"
-msgstr ""
+msgstr "baskètbòl, bizbòl, ak boul bowling reprezante trè bouncy elastic"
 
 # c35cc88b40e34b0bba0e8eecff08a137
 #: ../source/physics.rst:88
 msgid "Friction"
-msgstr ""
+msgstr "Sibi friksyon"
 
 # 902b448cb9f6458da86ec34c579d39ca
 #: ../source/physics.rst:88
 msgid ""
 "ice skate, shoe, and sneaker represent low to high coefficient of friction"
 msgstr ""
+"monte paten glas, soulye, ak sniker reprezante ba segondè koyefisyan nan "
+"friksyon"
 
 # 4f1eb05a3d1c493f95c2a69780a3a52b
 #: ../source/physics.rst:92
@@ -294,28 +347,30 @@ msgid ""
 "The motor has a palette to set speed (fast and slow) and direction (counter-"
 "clockwise and clockwise)"
 msgstr ""
+"Motè a gen yon palèt yo mete vitès (vit epi ralanti) ak direksyon (counter-"
+"goch ak goch)"
 
 # 2b79ca511835487491702968abc6af70
 #: ../source/physics.rst:96
 msgid ""
 "The chain has a palette to set the coarseness and weight of the chain "
 "elements"
-msgstr ""
+msgstr "Chèn an gen yon palèt yo mete vulgarité a ak pwa nan eleman yo chèn"
 
 # a10da7eb7b1345889564f597184c9daf
 #: ../source/physics.rst:99
 msgid "Ideas to try"
-msgstr ""
+msgstr "Lide eseye"
 
 # 424a606f655244958281fa50ecfc1da1
 #: ../source/physics.rst:101
 msgid "Here are some ideas you could try:"
-msgstr ""
+msgstr "Isit la yo se kèk ide ou ta ka eseye:"
 
 # 143071f57bd5480db2d8e3adb8120d37
 #: ../source/physics.rst:103
 msgid "Build a catapult to simulate Angry Birds"
-msgstr ""
+msgstr "Bati yon lans a wòch nan simulation Zwazo fache"
 
 # ee72705baf1b4361bfd17a9d801e3703
 #: ../source/physics.rst:104
@@ -323,6 +378,8 @@ msgid ""
 "Build a machine that sorts different sized balls in to two buckets, large "
 "and small, with no ball jams."
 msgstr ""
+"Bati yon machin ki kalite diferan voye boul gwosè a nan de bokit, gwo ak "
+"piti, ki pa gen okenn jams boul."
 
 # 0720ea3b763f4b9e9c9e4b99e90b5819
 #: ../source/physics.rst:105
@@ -330,16 +387,18 @@ msgid ""
 "A cyclic mechanism for lifting balls from the bottom of the screen to the "
 "top, again and again."
 msgstr ""
+"Yon mekanis siklik pou leve voye boul anba nan fon an nan ekran an nan tèt "
+"la, ankò e ankò."
 
 # f42e8ebc356b4764b43f4ece1f761034
 #: ../source/physics.rst:106
 msgid "Try dropping 2 different mass objects at the same time."
-msgstr ""
+msgstr "Eseye jete 2 diferan objè mas nan menm tan an."
 
 # 984fbcb5f5264c2d883058cf85783a80
 #: ../source/physics.rst:107
 msgid "Experiment with pendulums of different lengths and masses."
-msgstr ""
+msgstr "Eksperyans ak pandul ki gen longè diferan ak mas."
 
 # f27e67c763fa4de69bc8728576e09579
 #: ../source/physics.rst:108
@@ -347,16 +406,18 @@ msgid ""
 "Ping pong, can you make a device that hits a ball back and forth across the "
 "screen?"
 msgstr ""
+"Ping Pong, ou ka fè yon aparèy ki frape yon boul retounen ak lide nan tout "
+"ekran an?"
 
 # 5dbea21f5f3b4d3bb517f65ab689c0dc
 #: ../source/physics.rst:109
 msgid "Try building a mechanical binary clock."
-msgstr ""
+msgstr "Eseye bati yon revèy mekanik binè."
 
 # 9640d4ba30ab44339a77456ba557f072
 #: ../source/physics.rst:110
 msgid "Convert rotation into parallel motion using pistons."
-msgstr ""
+msgstr "Konvèti wotasyon nan paralèl mouvman lè l sèvi avèk piston."
 
 # b8113a313b52479c9811b0c534fb5857
 #: ../source/physics.rst:111
@@ -364,21 +425,24 @@ msgid ""
 "Experiment with touching one motorised circle against one pinned circle of "
 "various sizes."
 msgstr ""
+"Eksperyans ak manyen youn sèk motè kont youn sèk estime diferan gwosè."
 
 # 2ad05fc6063648e2bd7b4bb5bb2754ae
 #: ../source/physics.rst:112
 msgid "Try building a rag-doll puppet and make it dance in a convincing way."
 msgstr ""
+"Eseye bati yon mannken ranyon-poupées, epi fè li danse nan yon fason "
+"konvenk."
 
 # 1475544937c241049e3fafbb69ae7404
 #: ../source/physics.rst:113
 msgid "Use just links and circles to make a structurally sound Eiffel Tower."
-msgstr ""
+msgstr "Sèvi ak jis lyen ak ti sèk fè yon struktural son èifèl Tower."
 
 # 20841f21fd7640cf8286d6f2cfcfc638
 #: ../source/physics.rst:114
 msgid "Try building a ratchet mechanism."
-msgstr ""
+msgstr "Eseye bati yon mekanis klike."
 
 # ecd7c4b0d6204be8a3f132392b262464
 #: ../source/physics.rst:115
@@ -386,10 +450,14 @@ msgid ""
 "Try building an analogue clock face where the min hand goes around 60 times "
 "for each hour."
 msgstr ""
+"Eseye bati yon figi revèy analogique kote men nan min ale alantou 60 fwa pou"
+" chak èdtan."
 
 # 6de3522fd9ae40f59726a3b395ed8dbb
 #: ../source/physics.rst:116
 msgid ""
-"Modify the program itself: `Modifying Physics <http://wiki.sugarlabs.org/go/"
-"Activity_Team/Modifing_an_Activity#Modifying_Physics>`_"
+"Modify the program itself: `Modifying Physics "
+"<http://wiki.sugarlabs.org/go/Activity_Team/Modifing_an_Activity#Modifying_Physics>`_"
 msgstr ""
+"Modifye pwogram nan tèt li: `Modifye Fizik <http: // wiki. sugarlabs. org / "
+"ale / Activity_Team / Modifing_an_Activity # Modifying_Physics> `_"

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,17 +19,17 @@ msgstr ""
 # 6384b07d1ad342589c96e4695e4d5194
 #: ../source/keyboard.rst:3
 msgid "Keyboard"
-msgstr ""
+msgstr "Klavye"
 
 # 3dc21957f4fa4e2194acdbf4b1c17596
 #: ../source/keyboard.rst:6
 msgid "The Keyboard and Touchpad"
-msgstr ""
+msgstr "Klavye a ak touchpad"
 
 # e2e0861774be4d27b7b758b8e16498e7
 #: ../source/keyboard.rst:10
 msgid "TODO: <We should have a picture of 1.5 rather than 1.0>"
-msgstr ""
+msgstr "Todo: <Nou ta dwe gen yon foto nan 1. 5 olye ke 1. 0>"
 
 # 870245aac3204b35a01c8fa7ebc8ba04
 #: ../source/keyboard.rst:12
@@ -40,6 +40,9 @@ msgid ""
 "outlined in yellow are reserved for future features (such as the \"grab\" "
 "keys and the \"slider bar\")."
 msgstr ""
+"Keyboards yo fèt pou chak peyi, se konsa klavye ou pa ka gade egzakteman "
+"menm jan ak yon sèl la nan figi sa a. Keys endike nan jòn yo rezève pou "
+"karakteristik lavni (tankou \"gen tan pwan\" kle yo ak \"kurseur ba a\")."
 
 # 06f73aeeae3540fc84978affdc11c8aa
 #: ../source/keyboard.rst:14
@@ -48,6 +51,8 @@ msgid ""
 "The escape key is most commonly used in combination with the control key to "
 "quit activities (ctrl + esc)."
 msgstr ""
+"Se kle nan chape pi souvan itilize nan konbinezon ak kle nan kontwòl kite "
+"fimen aktivite (ctrl + ESC)."
 
 # edbef09784d54cb6885424a768f57847
 #: ../source/keyboard.rst:15
@@ -57,14 +62,18 @@ msgid ""
 "control, shift and alt keys to cycle through open Activities. For example, "
 "alt + tab cycles forward through running Activities."
 msgstr ""
+"Kle Tab - se kle nan tab ki make ak flèch montre dwa ak bò gòch. Pou egzanp,"
+" alt + tab sik pou pi devan nan Aktivite kouri."
 
 # f9f6421fee6e4574ab122343a74a4839
 #: ../source/keyboard.rst:16
 msgid ""
 "Control key -- The control key is used in combination with other keys to "
-"issue commands. For example, ctrl + c is used to copy to the clipboard; ctrl "
-"+ v is used to paste from the clipboard."
+"issue commands. For example, ctrl + c is used to copy to the clipboard; ctrl"
+" + v is used to paste from the clipboard."
 msgstr ""
+"Kontwòl kle - se kle nan kontwòl yo itilize nan konbinezon ak lòt kle bay "
+"desizyon kòmandman. Pou egzanp, ctrl + c se sèvi ak kopi nan papye a; ."
 
 # 998ba9849e7144a380461209064420d0
 #: ../source/keyboard.rst:17
@@ -73,6 +82,9 @@ msgid ""
 "modifier, most commonly to shift between lowercase and uppercase in Latin-"
 "based alphabets."
 msgstr ""
+"Shift kle - se kle nan chanjman yo itilize nan konbinezon ak lòt kle kòm yon"
+" Modifier, pi souvan chanjman ant miniskil ak majuskul nan alfabè Latin ki "
+"baze sou."
 
 # e445011b874941019cac1a126068ed19
 #: ../source/keyboard.rst:18
@@ -80,6 +92,8 @@ msgid ""
 "Fn key -- The function key is used in combination with other keys as a "
 "modifier. For example, fn + erase is delete; fn + up arrow is page up."
 msgstr ""
+"Fn kle - se kle nan fonksyon yo itilize nan konbinezon ak lòt kle kòm yon "
+"Modifier. Pou egzanp, FN + efase se efase; ."
 
 # 8ca5fa950da84958b8463c8b98b5169b
 #: ../source/keyboard.rst:19
@@ -89,6 +103,9 @@ msgid ""
 "toggles the tray visibility. This example works in the Browse Activity but "
 "not in the Record Activity."
 msgstr ""
+"Alt kle - se kle nan alt itilize nan konbinezon ak lòt kle bay desizyon "
+"kòmandman. Pou egzanp, alt + antre nan baskile mòd plen ekran-; . Egzanp sa "
+"a ap travay nan Browse aktivite a, men se pa nan aktivite nan Dosye."
 
 # fd741326ca414772a0c456134cf5ff6e
 #: ../source/keyboard.rst:20
@@ -97,24 +114,30 @@ msgid ""
 "conjunction with the function key (fn), it will eventually view the source "
 "code for the currently running Activity."
 msgstr ""
+"Bar - bar Kalite ki kle yon espas. Nan lavni a, lè yo itilize nan "
+"konjonksyon avèk kle a fonksyon (FN), li pral evantyèlman wè kòd la sous pou"
+" aktivite a kounye a kouri."
 
 # 6c11276ce7914b75be784d22e9d2a41c
 #: ../source/keyboard.rst:21
 msgid ""
-"Alt Gr key -- The alt graphics key is used in combination with other keys as "
-"a modifier, most commonly to select an alternative letter or generate an "
+"Alt Gr key -- The alt graphics key is used in combination with other keys as"
+" a modifier, most commonly to select an alternative letter or generate an "
 "accented character. The details of this functionality vary from keyboard "
 "layout to keyboard layout: for example, on the US keyboard, alt gr + j "
-"generates a € (euro sign); typing the character \"a\" followed by alt gr + 4 "
-"generates á."
+"generates a € (euro sign); typing the character \"a\" followed by alt gr + 4"
+" generates á."
 msgstr ""
+"Alt Gr kle - se kle nan alt grafik yo itilize nan konbinezon ak lòt kle kòm "
+"yon Modifier, pi souvan yo chwazi yon lèt altènatif oswa jenere yon karaktè "
+"aksan."
 
 # a482da98bed248b4a306d75c99482d13
 #: ../source/keyboard.rst:22
 msgid ""
 "Arrow keys -- The arrow keys are used for navigation; combined with the "
 "function key (fn), they are used for page up, page down, home, and end."
-msgstr ""
+msgstr "Kle flèch - flèch la kle yo itilize pou Navigasyon; ."
 
 # 16b440798fff4ec1817bbe5afab21eb5
 #: ../source/keyboard.rst:23
@@ -125,14 +148,17 @@ msgid ""
 "(On Latin-only keyboards, the language key has been replaced by a × and ÷ "
 "key.)"
 msgstr ""
+"Kle Lang - se jwenn kle a lang sou kouman klavye ki konbine Latin ak ki pa "
+"Peye-Latin Scripts. Li baskile ant Scripts, se konsa, pou egzanp, yon moun "
+"ka chanje ant sezisman nan lang angle ak Hindi ak yon touch sèl. )"
 
 # d993d0fb22144518b5cc7cef50988270
 #: ../source/keyboard.rst:24
 msgid ""
 "Enter key -- The enter key—in addition to its standard use—is used in "
-"combination with modifier keys. For example, alt + enter toggles full-screen "
-"mode."
-msgstr ""
+"combination with modifier keys. For example, alt + enter toggles full-screen"
+" mode."
+msgstr "Pou egzanp, alt + antre nan baskile mòd plen ekran-."
 
 # b7d5f2248eb04e4bb8ce63f62cae4b34
 #: ../source/keyboard.rst:25
@@ -140,6 +166,8 @@ msgid ""
 "Erase key -- The erase key deletes the character behind the cursor "
 "(backspace). fn + erase deletes the key in front of (or on) the cursor."
 msgstr ""
+"Efase kle - kle a efase supresyon pèsonaj la dèyè kurseur a (RETOUR). FN + "
+"efase supresyon kle a nan devan (oswa sou) kurseur a."
 
 # af1c62140c2e42f486374959bf11e592
 #: ../source/keyboard.rst:26
@@ -148,19 +176,24 @@ msgid ""
 "The Frame is the black border around the screen that holds the Activity "
 "taskbar, clipboard, wireless connections, battery level, and so on."
 msgstr ""
+"Kle Frame - kle nan Frame baskile nan prezans nan ankadreman an sou ekran "
+"an. Frame a se fwontyè a nwa alantou ekran an ki kenbe aktivite a ekstrè, "
+"clipboard, koneksyon san fil, nivo batri, ak sou sa."
 
 # a1cfc3ae97d64057aa28fd48ce900153
 #: ../source/keyboard.rst:27
 msgid "Volume controls -- The volume keys lower and raise the audio level."
-msgstr ""
+msgstr "Kontwòl Volim - kle yo volim pi ba ak ogmante nivo a odyo."
 
 # 5e8f7abf2a8742bebc4f96d48eca0a12
 #: ../source/keyboard.rst:28
 msgid ""
-"Brightness controls -- The brightness keys lower and raise the brightness of "
-"the screen backlight. To turn the backlight off completely may take 7-8 "
+"Brightness controls -- The brightness keys lower and raise the brightness of"
+" the screen backlight. To turn the backlight off completely may take 7-8 "
 "button presses."
 msgstr ""
+"Kontwòl Luminozite - kle yo klète pi ba ak ogmante limyè nan ekleraj la "
+"ekran. Yo vire ekleraj la fèmen nèt ka pran 7-8 bouton près."
 
 # 4c737f0fcb174eb5bff7a7df05f079d8
 #: ../source/keyboard.rst:29
@@ -168,6 +201,8 @@ msgid ""
 "View keys -- The four view keys, from left to right, take you to the "
 "Neighborhood view, the Group view, the Home view, and the Activity view."
 msgstr ""
+"View kle - kat Kle yo vi, de gòch a dwat, pran ou nan gade nan Katye, gade "
+"nan Group, gade nan Kay, ak gade nan aktivite."
 
 # 78eb3609c82244afb64bdd571fb15941
 #: ../source/keyboard.rst:30
@@ -175,3 +210,5 @@ msgid ""
 "Search key -- The search key takes you directly to the Journal and places "
 "the text cursor in the search box."
 msgstr ""
+"Search kle - kle nan rechèch pran ou dirèkteman nan jounal la ak kote "
+"kurseur a tèks nan bwat rechèch la."

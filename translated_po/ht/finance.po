@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # d2c79b0bd91840b8a3cfbdd35028c2e7
 #: ../source/finance.rst:3
 msgid "Finance"
-msgstr ""
+msgstr "Finans"
 
 # 42bb0868c31c44968a0b70b851163980
 #: ../source/finance.rst:8
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # dffbafe38cd84f4faeb077d6b0185d3c
 #: ../source/finance.rst:10
@@ -34,16 +34,24 @@ msgid ""
 "might also be useful for students who wish to help their parents with home "
 "finances."
 msgstr ""
+"Finans se yon senp aktivite planifikasyon finansye. Li kapab entegre nan "
+"devwa yo, oswa lòt moun itilize yo swiv finans pou yon klib lekòl. Li ta ka "
+"tou gen pou itil pou elèv ki vle ede paran yo ak finans kay."
 
 # 0a4aea04300248cfa8aba358e0ad83a8
 #: ../source/finance.rst:12
 msgid ""
 "The register view allows students to enter income and expenses, assign "
 "categories, and review past transactions. The chart view shows students a "
-"visual breakdown of their expenses by category. The budget view allows users "
-"to assign a monthly budget to each category, and to see how each month's "
+"visual breakdown of their expenses by category. The budget view allows users"
+" to assign a monthly budget to each category, and to see how each month's "
 "expenses compare to the budget."
 msgstr ""
+"View nan enskri pèmèt elèv yo antre nan revni ak depans, bay kategori, ak "
+"revize tranzaksyon sot pase. View nan tablo a montre elèv yon pann vizyèl "
+"nan depans yo pa kategori. View nan bidjè pèmèt itilizatè yo asiyen yon "
+"bidjè chak mwa a chak kategori, ak yo wè ki jan depans chak mwa nan konpare "
+"ak bidjè a."
 
 # 2fcb071f0f834c719b8b9267d6da5c3d
 #: ../source/finance.rst:14
@@ -51,35 +59,39 @@ msgid ""
 "Finance is designed to be extensively localized. The user interface is "
 "translatable, and local conventions are used to display monetary values."
 msgstr ""
+"Finans fèt yo dwe anpil lokalize. Koòdone nan itilizatè se tradwir, ak "
+"konvansyon lokal yo yo te itilize yo montre valè monetè."
 
 # ed030323a0df4e59bc4a40869f0236a9
 #: ../source/finance.rst:17
 msgid "Git It!"
-msgstr ""
+msgstr "GIT Li!"
 
 # dc68f2825c0649ba934f89446e60794a
 #: ../source/finance.rst:18
 msgid "`Git Link <https://github.com/godiard/finance-activity>`_"
-msgstr ""
+msgstr "`GIT Link <https: // GitHub. com / godiard / Finans-aktivite> `_"
 
 # ec81e2ce32e2471a865373684a485738
 #: ../source/finance.rst:22
 msgid "Gallery"
-msgstr ""
+msgstr "Galeri"
 
 # affa669e43f84e0c88b0bd1b447e7b84
 #: ../source/finance.rst:29
 msgid "References"
-msgstr ""
+msgstr "Referans"
 
 # 8d4628cb5b4c42f7a0f81c33131d6876
 #: ../source/finance.rst:31
 msgid ""
-"`Sugar Wiki Activity Page <http://activities.sugarlabs.org/sugar/"
-"addon/4040>`_"
+"`Sugar Wiki Activity Page "
+"<http://activities.sugarlabs.org/sugar/addon/4040>`_"
 msgstr ""
+"`Sugar Wiki aktivite Page <http: // aktivite. sugarlabs. org / sik / addon /"
+" 4040> `_"
 
 # 4e02a5bb295141888ff931b52fb1e4ce
 #: ../source/finance.rst:33
 msgid "`Source <https://github.com/godiard/finance-activity>`_"
-msgstr ""
+msgstr "`Sous <https: // GitHub. com / godiard / Finans-aktivite> `_"

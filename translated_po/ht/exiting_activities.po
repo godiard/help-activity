@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # 0391c9a8c2414163a27fb465fbdbf259
 #: ../source/exiting_activities.rst:3
 msgid "Exiting Activities"
-msgstr ""
+msgstr "Sòti Aktivite"
 
 # 1053bdd950fa4fb39ebe573d6cf724b1
 #: ../source/exiting_activities.rst:5
@@ -28,6 +28,9 @@ msgid ""
 "close box on the right corner of the Frame and click. Try to have no more "
 "than three Activities open at once."
 msgstr ""
+"Sòti yon aktivite, sèvi ak touchpad la oswa yon sourit pou avanse pou pi "
+"kurseur a nan bwat la fèmen sou kwen an dwa nan ankadreman an, epi klike. "
+"Eseye gen pa plis pase twa Aktivite louvri nan yon fwa."
 
 # 929162b71702477cb976e9e357688bc2
 #: ../source/exiting_activities.rst:9
@@ -35,11 +38,13 @@ msgid ""
 "To quit an Activity using a keyboard shortcut, press and hold the **ctrl** "
 "key, and then press the **q** key."
 msgstr ""
+"Kite fimen yon aktivite lè l sèvi avèk yon chemen kout klavye, laprès epi "
+"kenbe ** ctrl ** kle a, ak Lè sa a peze ** q la ** kle."
 
 # b70a7a553d1140f59ddebe0b57930abf
 #: ../source/exiting_activities.rst:12
 msgid "Scratch"
-msgstr ""
+msgstr "Grafouyen"
 
 # f8c174e402884f09b036f6de9fedffa7
 #: ../source/exiting_activities.rst:14
@@ -50,6 +55,11 @@ msgid ""
 "\"save as\" command or may also be done by clicking the folder icon with a "
 "downpointing arrow."
 msgstr ""
+"Gen kèk \"Aktivite\", tankou grafouyen, ki yo fèmen ki soti nan \"File\" "
+"meni an pa chwazi \"Kite\" oswa \"sòti\". Aktivite sa yo ka mande pou yon "
+"etap separe pou konsève pou travay ou pa klike sou \"sove a\" oswa \"sove "
+"kòm\" lòd oswa Epitou, yo ka fè pa klike icon folder a ak yon flèch "
+"downpointing."
 
 # e7c1fe8ce4474b7597123162e04d989e
 #: ../source/exiting_activities.rst:16
@@ -57,11 +67,13 @@ msgid ""
 "In Scratch, for example, you must go to \"File\" then \"Save As\" then give "
 "your project a name next to \"New Filename\" then click \"OK\"."
 msgstr ""
+"Nan grafouyen, pou egzanp, ou dwe ale nan \"File\" Lè sa a, \"Save Kòm\" Lè "
+"sa a, bay pwojè ou yon non akote \"New Fichier\" Lè sa a, klike sou \"OK\"."
 
 # 846701ffd532498696907aab47eebf10
 #: ../source/exiting_activities.rst:21
 msgid "Etoys"
-msgstr ""
+msgstr "Etoys"
 
 # 25e51166b50d44df99f4174b3ef4cb25
 #: ../source/exiting_activities.rst:23

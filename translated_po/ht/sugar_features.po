@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,14 +19,16 @@ msgstr ""
 # 3cb2b12bc50e4f488cfe94e00e088397
 #: ../source/sugar_features.rst:3
 msgid "Sugar Features"
-msgstr ""
+msgstr "Features Sugar"
 
 # 2af5f3547e67462f8b4d450e6e25467e
 #: ../source/sugar_features.rst:5
 msgid ""
-"This page presents a number of Sugar features common to many Activities. The "
-"page is designed as a series of \"reference topics\"."
+"This page presents a number of Sugar features common to many Activities. The"
+" page is designed as a series of \"reference topics\"."
 msgstr ""
+"Paj sa a prezante yon nimewo nan karakteristik komen nan Sugar Aktivite "
+"anpil. Se paj la ki fèt kòm yon seri de \"sijè referans\"."
 
 # 7a2dad9e02b8487b88dabba60d6c280d
 #: ../source/sugar_features.rst:7
@@ -34,35 +36,45 @@ msgid ""
 "This experimental page includes graphical spacers to separate non-related "
 "topics."
 msgstr ""
+"Paj eksperimantal sa a gen ladan bag grafik separe sijè ki pa gen rapò."
 
 # 93e1c67e7fd5417aa062966d3c30ecce
 #: ../source/sugar_features.rst:12
 msgid "View source"
-msgstr ""
+msgstr "View sous"
 
 # adc760eac84541699713c62343034930
 #: ../source/sugar_features.rst:14
 msgid ""
-"You always can view the source code of Sugar Activities. In most cases, View "
-"Source will show you the python code of the activity, in other cases, like "
+"You always can view the source code of Sugar Activities. In most cases, View"
+" Source will show you the python code of the activity, in other cases, like "
 "Browse, you can see the HTML code of the page seen in the activity."
 msgstr ""
+"Ou toujou kapab wè kòd la sous nan Sugar Aktivite. Nan pifò ka, View Sous "
+"pral montre w kòd la piton nan aktivite a, nan lòt ka, tankou Browse, ou ka "
+"wè kòd la HTML nan paj la wè nan aktivite a."
 
 # 46c3702e6d7542b3bbaf6896b1be899e
 #: ../source/sugar_features.rst:16
 msgid ""
 "You can see the source window pressing Fn-space in your XO or Ctrl-Shift-V "
-"or pressing right click on the Activity's icon in the :doc:`/frame`. Here is "
-"an example of viewing the source of a page in :doc:`/help` Activity. In the "
-"case of this activity, you see the simple text, which Help converts into "
+"or pressing right click on the Activity's icon in the :doc:`/frame`. Here is"
+" an example of viewing the source of a page in :doc:`/help` Activity. In the"
+" case of this activity, you see the simple text, which Help converts into "
 "HTML pages for display. This is useful in the process of editing Help pages "
 "as described here :doc:`/how_to_help`"
 msgstr ""
+"Ou ka wè fenèt la sous peze FN-espas nan XO ou oswa Ctrl-chanjman-V oswa "
+"peze dwa klike sou icon Aktivite a nan: doc la: `/ frame`. Isit la se yon "
+"egzanp sou gade sous la nan yon paj nan: doc: `/ Aktivite help`. Nan ka a "
+"nan aktivite sa a, ou wè tèks la ki senp, ki Ede konvèti nan paj HTML pou "
+"ekspozisyon. Sa a se itil nan pwosesis la nan koreksyon Ede Paj jan sa dekri"
+" isit la: doc: `/ how_to_help`"
 
 # 3ef01c865ee848e99cff5e0711f063cb
 #: ../source/sugar_features.rst:21
 msgid "Duplicating activities"
-msgstr ""
+msgstr "Fotokopi aktivite"
 
 # 5c96a92a6ae24d0a9ef105cdecfc67e6
 #: ../source/sugar_features.rst:23
@@ -73,59 +85,79 @@ msgid ""
 "modifications and improvements to the code they use without the risk of "
 "breaking the original activity."
 msgstr ""
+"Yon opsyon yo kopi yon aktivite yo te ajoute nan View Sous alèt la. Pa "
+"chwazi opsyon sa a, se yon kopi nan aktivite a ki te kreye nan itilizatè a $"
+" HOME / Aktivite anyè. Se konsa, nou espere ankouraje Sugar itilizatè yo fè "
+"modifikasyon ak amelyorasyon nan kòd la yo itilize san yo pa risk pou yo "
+"kraze aktivite a orijinal."
 
 # 7fd793c4ee974c349739e27d45fc8585
 #: ../source/sugar_features.rst:27
 msgid "|more| For more information:"
-msgstr ""
+msgstr "| Plis | Pou plis enfòmasyon:"
 
 # 5ab8c2c24bcc4c6e8bd506aaa4095a64
 #: ../source/sugar_features.rst:31
 msgid ""
-"The Sugarlabs.org wiki has a informative article: http://wiki.sugarlabs.org/"
-"go/View_Source"
+"The Sugarlabs.org wiki has a informative article: "
+"http://wiki.sugarlabs.org/go/View_Source"
 msgstr ""
+"Sugarlabs yo. org wiki gen yon atik nan yon enfòmatif: http: // wiki. "
+"sugarlabs. org / ale / View_Source"
 
 # b411721c56ed4468a25a44c8e4caef0f
 #: ../source/sugar_features.rst:34
 msgid "*End of topic - spacer below.*"
-msgstr ""
+msgstr "* Fen topic - spacer anba a. *"
 
 # 6395367cb42740da97d44a8b87e7fe16
 #: ../source/sugar_features.rst:41
 msgid "Say selected text"
-msgstr ""
+msgstr "Di chwazi tèks"
 
 # 4081727ebc604a55b51e38143769109d
 #: ../source/sugar_features.rst:45
 msgid ""
 "You can have :doc:`/speak`, or robot Alice, read aloud, selected text. Here "
 "we demonstrate Alice reading text framed by :doc:`/help`. In Help, for "
-"instance, you can select a whole page of text, and have it read aloud to you "
-"while you explore that Activity."
+"instance, you can select a whole page of text, and have it read aloud to you"
+" while you explore that Activity."
 msgstr ""
+"Ou ka gen: doc: `/ speak`, oswa robo Alice, li awotvwa, chwazi tèks. Isit la"
+" nou demontre Alice lekti tèks ankadre pa: doc: `/ help`. Nan èd, pou "
+"egzanp, ou ka chwazi yon paj antye nan tèks, epi yo gen li li awotvwa nan ou"
+" pandan w ap eksplore ki aktivite."
 
 # 96c63822abc64c19afc6d24d4816132a
 #: ../source/sugar_features.rst:47
 msgid "Try it now, Select the text in this frame."
-msgstr ""
+msgstr "Eseye li kounye a, Chwazi tèks la nan sa a ankadreman."
 
 # 062b218b1c074e27b845f2c11867df45
 #: ../source/sugar_features.rst:49
 msgid ""
-"To select text, move the mouse to the top left of the text, there is a green "
-"arrow near the correct point. Click the left, or main, mouse button. Move "
+"To select text, move the mouse to the top left of the text, there is a green"
+" arrow near the correct point. Click the left, or main, mouse button. Move "
 "the cursor to the bottom right of the text to select, there is a red arrow "
 "near the correct point."
 msgstr ""
+"Pou chwazi tèks, deplase sourit la a gòch an tèt nan tèks la, gen yon flèch "
+"vèt tou pre pwen an kòrèk. Klike sou bò gòch, oswa prensipal yo, bouton an "
+"sourit. Deplase kurseur a sou bò dwat la anba nan tèks la nan chwazi, gen "
+"yon flèch wouj tou pre pwen an kòrèk."
 
 # 73af09eeb6f24ae7ad52a2a3f64eeaec
 #: ../source/sugar_features.rst:51
 msgid ""
 "Bring in the :doc:`/frame` with the \"Frame key\" or F6. Press on the "
-"\"Speech lips\" icon in the bottom of the frame, then press on *Say selected "
-"text*. Notice also that there is a pause feature, once *speech* has started."
+"\"Speech lips\" icon in the bottom of the frame, then press on *Say selected"
+" text*. Notice also that there is a pause feature, once *speech* has "
+"started."
 msgstr ""
+"Pote nan: doc la: `/ frame` ak\" kle a Frame \"oswa F6. Peze sou \"bouch "
+"Lapawòl\" icon an nan pati anba a nan ankadreman an, Lè sa a, peze sou * Di "
+"chwazi tèks *. Avi tou ke gen se yon karakteristik pran yon poz, yon fwa * "
+"lapawòl * te kòmanse."
 
 # 4020cb59dee740108e1dc3320737eddc
 #: ../source/sugar_features.rst:55
@@ -135,10 +167,16 @@ msgid ""
 "\"Speech lips\" icon in the bottom of the Frame, or as a button in the "
 "toolbar of an Activity, as in :doc:`/write`."
 msgstr ""
+"Tèks la * Di chwazi * karakteristik se disponib nan anpil tèks Aktivite ki "
+"baze tankou: doc: `/ browse`,: doc:` / fototoon`,: doc: `/ write`. Gade deyò"
+" pou \"bouch Lapawòl\" icon an nan pati anba a nan ankadreman an, oswa kòm "
+"yon bouton nan ba ikòn a nan yon aktivite, tankou nan: doc: `/ write`."
 
 # 5876236f09844ceeb428c86f430d7f9c
 #: ../source/sugar_features.rst:59
 msgid ""
-"This is a new unfinished page, you can modify it yourself following guidance "
-"here :doc:`/how_to_help`"
+"This is a new unfinished page, you can modify it yourself following guidance"
+" here :doc:`/how_to_help`"
 msgstr ""
+"Sa a se yon paj nouvo fini, ou ka modifye li tèt ou suiv direksyon isit la: "
+"doc: `/ how_to_help`"

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 5a94b3cc76d34c0c8274297e23a66ca4
 #: ../source/sugar_ui.rst:3
 msgid "The Sugar User Interface"
-msgstr ""
+msgstr "Itilizatè Entèfas a Sugar"
 
 # ec6cf4d4f5464744bfab58860d387b50
 #: ../source/sugar_ui.rst:5
 msgid "The Sugar platform encourages learning through personal expression."
-msgstr ""
+msgstr "Platfòm nan Sugar ankouraje aprantisaj atravè ekspresyon pèsonèl."
 
 # 46ecda10692843b993c594760f1dcebf
 #: ../source/sugar_ui.rst:7
@@ -32,17 +32,21 @@ msgid ""
 "The user interface differs from the traditional Desktop metaphor. It uses a "
 "\"zooming\" metaphor—each view represents a different scale of interaction. "
 "You move between a view of the network \"neighborhood\", your \"friends\", "
-"your \"home page\", and your currently open application (\"Activity\"). Each "
-"view occupies the entire screen. There are no overlapping windows to deal "
+"your \"home page\", and your currently open application (\"Activity\"). Each"
+" view occupies the entire screen. There are no overlapping windows to deal "
 "with."
 msgstr ""
+"Koòdone nan itilizatè diferan de metafò a Desktop tradisyonèl. Ou deplase "
+"ant yon gade nan rezo \"katye a\", \"zanmi\" ou, \"paj lakay\" ou, ak "
+"aplikasyon kounye a louvri ou a (\"Aktivite\"). Chak vi okipe ekran an tout "
+"antye. Pa gen okenn fenèt sipèpoze fè fas ak."
 
 # dc5687c04eeb470895be73d3027de709
 #: ../source/sugar_ui.rst:11
 msgid ""
 "With Sugar, you zoom between views: from your network neighborhood to your "
 "current Activity."
-msgstr ""
+msgstr "Ak sik, ou rale ant vues: nan katye rezo ou aktivite ou ye kounye a."
 
 # 95d30be740424f68b876eb3937f354d1
 #: ../source/sugar_ui.rst:13
@@ -50,9 +54,14 @@ msgid ""
 "Sugar supports sharing and collaboration by default. Sugar brings many of "
 "the rich collaboration mechanisms we are accustomed to from the Internet "
 "directly into the user interface. Sharing a file, starting a chat, "
-"collaborating in a writing exercise, or playing a game with other people are "
-"never more than a single click away."
+"collaborating in a writing exercise, or playing a game with other people are"
+" never more than a single click away."
 msgstr ""
+"Sugar sipòte pataje ak kolaborasyon pa default. Sugar pote anpil nan fòmil "
+"yo kolaborasyon rich nou yo abitye nan entènèt la dirèkteman nan koòdone nan"
+" itilizatè. Pataje yon dosye, kòmanse yon chat, kolabore nan yon egzèsis "
+"ekri, oswa jwe yon jwèt ak lòt moun yo pa janm pi plis pase yon sèl klike "
+"lwen."
 
 # 1bebc1a43d1548538339320d65444538
 #: ../source/sugar_ui.rst:15
@@ -60,15 +69,17 @@ msgid ""
 "Sugar incorporates a Frame around the border of the screen; the Frame holds "
 "status information, such as alerts, a clipboard, open activities, and your "
 "current collaborators."
-msgstr ""
+msgstr "Sugar genyen ladan l yon Frame alantou fwontyè a nan ekran an; ."
 
 # 1857925284dc4ced9a1ff3aedd04c6db
 #: ../source/sugar_ui.rst:17
 msgid ""
-"Sugar maintains a Journal (or diary) of everything you do; it is a place for "
-"reflection. You do not need to save files or create folders; Activities "
+"Sugar maintains a Journal (or diary) of everything you do; it is a place for"
+" reflection. You do not need to save files or create folders; Activities "
 "automatically save your work to the Journal."
 msgstr ""
+"Sugar kenbe yon Journal (oswa jounal pèsonèl) nan tout sa ou fè; . Ou pa "
+"bezwen pou konsève pou dosye oswa kreye dosye; ."
 
 # 6ab00b25f914426a8cd6cb9f55b41e50
 #: ../source/sugar_ui.rst:19
@@ -80,24 +91,31 @@ msgid ""
 "written in the Python scripting language.  You can see how they work, and "
 "make changes to them."
 msgstr ""
+"Sugar mete aksan sou dekouvèt. Chak objè nan koòdone la gen yon meni ki "
+"revele plis detay ak opsyon pou aksyon. Anpil Pami aktivite yo genyen yon "
+"\"sous vi\" opsyon; . Pifò Aktivite sa ekri nan lang nan scripting Piton. Ou"
+" ka wè ki jan yo travay, epi fè chanjman yo."
 
 # f5dde0e6654f4816bef17ae72b5641a8
 #: ../source/sugar_ui.rst:21
 msgid ""
-"Sugar has clarity of design. There is no need to \"double click\". There are "
-"no overlapping windows. Sugar uses color and shape throughout the interface "
-"to provide a fun, expressive, approachable platform for computing."
+"Sugar has clarity of design. There is no need to \"double click\". There are"
+" no overlapping windows. Sugar uses color and shape throughout the interface"
+" to provide a fun, expressive, approachable platform for computing."
 msgstr ""
+"Sugar gen klè nan konsepsyon. Pa gen okenn nesesite nan \"doub klike sou\". "
+"Pa gen okenn fenèt sipèpoze. Sugar sèvi ak koulè ak fòm nan tout koòdone a "
+"bay yon plezi, espresif, abòdab platfòm pou informatique."
 
 # 804fdecfcd9b49a3b4a803464de4757e
 #: ../source/sugar_ui.rst:24
 msgid "For parents and teachers"
-msgstr ""
+msgstr "Pou paran yo ak pwofesè"
 
 # d41c96df738e4f20b0bac11e3f469426
 #: ../source/sugar_ui.rst:26
 msgid "**Activities, not Applications**"
-msgstr ""
+msgstr "** Aktivite, pa Aplikasyon **"
 
 # 7b35a5438c314105a5db4d884f9c9035
 #: ../source/sugar_ui.rst:28
@@ -105,14 +123,18 @@ msgid ""
 "Sugar does not have applications in the traditional sense. Activities are "
 "distinct from applications in what they focus on (collaboration and "
 "expression) and in their implementation (journaling and iteration). This is "
-"more than a new naming convention; it represents an intrinsic quality of the "
-"learning experience we hope the children will have when using Sugar."
+"more than a new naming convention; it represents an intrinsic quality of the"
+" learning experience we hope the children will have when using Sugar."
 msgstr ""
+"Sugar pa gen aplikasyon nan sans nan tradisyonèl. Aktivite yo diferan de "
+"aplikasyon pou nan sa yo konsantre sou (kolaborasyon ak ekspresyon), ak nan "
+"aplikasyon yo (journal ak iterasyon). Sa a se pi plis pase yon nouvo "
+"konvansyon nonmen; ."
 
 # 99936cf9aaee48baa6264086b4ec24d0
 #: ../source/sugar_ui.rst:30
 msgid "**Presence is always Present**"
-msgstr ""
+msgstr "** Prezans se toujou prezan **"
 
 # c0e63cb822334801939dc245494e9567
 #: ../source/sugar_ui.rst:32
@@ -122,9 +144,16 @@ msgid ""
 "potential. The presence of other learners encourages children to take "
 "responsibility for others' learning as well as their own. The exchange of "
 "ideas amongst peers makes the learning process more engaging and stimulates "
-"critical thinking skills. Sugar encourages these types of social interaction "
-"with the laptops."
+"critical thinking skills. Sugar encourages these types of social interaction"
+" with the laptops."
 msgstr ""
+"Tout moun gen potansyèl la pou edikasyon ak ansèyman. Sugar mete "
+"kolaborasyon nan nwayo a nan eksperyans nan itilizatè yo nan lòd yo reyalize"
+" potansyèl sa a. Prezans nan lòt elèv k ap aprann ankouraje timoun yo pran "
+"responsablite pou aprantisaj lòt moun 'kòm byen ke pwòp yo. Echanj la nan "
+"lide pami kamarad klas fè pwosesis aprantisaj la plis enteresan ak stimul "
+"aptitid pou panse kritik. Sugar ankouraje sa yo kalite entèraksyon sosyal ak"
+" laptops yo."
 
 # cbe44203ada44711925a321d25ca52f7
 #: ../source/sugar_ui.rst:34
@@ -134,11 +163,15 @@ msgid ""
 "in isolation. In Sugar, sharing links is an integral part of Browse, "
 "transforming web-surfing into a group collaboration."
 msgstr ""
+"Pifò aktivite gen potansyèl la yo vin rezo pèmèt. Pou egzanp, konsidere "
+"aktivite a Browse. Avèk interfaces òdinatè tipik, ou browse nan izolasyon. "
+"Nan Sugar, pataje lyen se yon pati entegral nan Browse, transfòme web-"
+"Navigasyon nan yon kolaborasyon gwoup."
 
 # 12bab4ecb8e943838fe729449a7372ee
 #: ../source/sugar_ui.rst:36
 msgid "**Tools of Expression**"
-msgstr ""
+msgstr "** Zouti nan Ekspresyon **"
 
 # 8c41f21b44b2471e886ba98be9fce5b4
 #: ../source/sugar_ui.rst:38
@@ -147,12 +180,21 @@ msgid ""
 "Sugar starts from the premise that we want to use what people already know "
 "in order to make connections to new knowledge. Computation is a \"thing to "
 "think with\". Sugar makes the primary activity of the children one of "
-"creative expression, in whatever form that might take. Most activities focus "
-"on the creation of some type of object, be it a drawing, a song, a story, a "
-"game, or a program. In another language shift describing the user "
+"creative expression, in whatever form that might take. Most activities focus"
+" on the creation of some type of object, be it a drawing, a song, a story, a"
+" game, or a program. In another language shift describing the user "
 "experience, we refer to objects rather than files as the primary stuff of "
 "creative expression."
 msgstr ""
+"Sugar mete aksan sou panse, eksprime, ak kominike lè l sèvi avèk teknoloji. "
+"Sugar kòmanse soti nan lan site ke nou vle sèvi ak sa moun deja konnen nan "
+"lòd fè koneksyon ak nouvo konesans. Kalkil se yon \"bagay yo panse ak\". "
+"Sugar fè aktivite a prensipal nan timoun yo youn nan ekspresyon kreyatif, "
+"nan tou sa fòm ki ta ka pran. Pifò aktivite konsantre sou kreyasyon an nan "
+"kèk kalite objè, se pou li yon desen, yon chan, yon istwa, yon jwèt, oswa "
+"nan yon pwogram. Nan yon lòt chanjman lang dekri eksperyans nan itilizatè, "
+"nou al gade nan objè olye ke dosye kòm bagay la prensipal nan ekspresyon "
+"kreyatif."
 
 # 617ec2e961594af4abe78c9417d99d0b
 #: ../source/sugar_ui.rst:40
@@ -166,6 +208,13 @@ msgid ""
 "collaborative critique of their expressions and to iterate upon this "
 "expression as well."
 msgstr ""
+"Kòm pi fò devlopè lojisyèl ta dakò, pi bon fason pou aprann kijan pou ekri "
+"yon pwogram se yo ekri yon sèl, oswa petèt anseye yon lòt moun ki jan yo fè "
+"sa. Etidye sentaks la nan lang lan se itil, men li pa youn anseye ki jan yo "
+"kòd. Nou aplike prensip la nan \"aprann nan fè\" nan tout kalite kreyasyon. "
+"Pou egzanp, nou mete aksan konpozisyon mizik sou Téléchargez mizik. Nou menm"
+" tou nou ankouraje timoun yo angaje yo nan pwosesis la nan kolaborasyon "
+"kritike nan ekspresyon yo ak repekte sou ekspresyon sa a kòm byen."
 
 # 89708297c7a049ac8f652cf18c72fce4
 #: ../source/sugar_ui.rst:42
@@ -175,31 +224,45 @@ msgid ""
 "instead of a text file, a story. In order to support this concept, activity "
 "developers can define object types and associated icons to represent them."
 msgstr ""
+"Vire sistèm nan dosye tradisyonèl nan objè pale plis dirèkteman nan metafò "
+"mond reyèl la: olye pou yo yon dosye son, nou gen yon son aktyèl; . Yo nan "
+"lòd yo sipòte konsèp sa a, aktivite devlopè ka defini kalite objè ak ikon "
+"asosye reprezante yo."
 
 # 12acdd8cba7b406d8e0a0a52a8189247
 #: ../source/sugar_ui.rst:44
 msgid "**Journaling**"
-msgstr ""
+msgstr "** Journal **"
 
 # 7284ff37570948caa8435d68746fb78a
 #: ../source/sugar_ui.rst:46
 msgid ""
 "The concept of the Journal, a written documentation of everyday events, is "
 "generally understood, albeit in various forms across cultures. A journal "
-"typically chronicles the Activities one has done throughout the day. We have "
-"adopted a journal metaphor for the file system as our approach to file "
+"typically chronicles the Activities one has done throughout the day. We have"
+" adopted a journal metaphor for the file system as our approach to file "
 "organization. The underlying implementation of the journal does not differ "
-"significantly from file systems in contemporary operating systems.  The file "
-"system layout is less important than the journal itself."
+"significantly from file systems in contemporary operating systems.  The file"
+" system layout is less important than the journal itself."
 msgstr ""
+"Konsèp la nan jounal la, yon dokiman ekri nan evènman chak jou, se "
+"jeneralman konprann, kwake nan divès kalite fòm nan tout kilti. Yon jounal "
+"tipikman Istwa Aktivite yo youn te fè pandan tout jounen an. Nou te adopte "
+"yon metafò jounal pou sistèm nan dosye kòm apwòch nou pote òganizasyon. "
+"Aplikasyon an kache nan jounal la pa gen diferans siyifikativman soti nan "
+"sistèm dosye ki nan sistèm operasyon kontanporen. Layout a sistèm dosye se "
+"mwens enpòtan pase jounal la tèt li."
 
 # 1a1d08e465944c67acb75f947c8e0ccc
 #: ../source/sugar_ui.rst:48
 msgid ""
-"The journal embodies the idea of storing a history of the things a child has "
-"done and the activities a child has participated in. The child, parent, and "
-"teacher can reflect on the journal to assess progress."
+"The journal embodies the idea of storing a history of the things a child has"
+" done and the activities a child has participated in. The child, parent, and"
+" teacher can reflect on the journal to assess progress."
 msgstr ""
+"Jounal la defini lide a nan estoke yon istwa de bagay sa yo te yon timoun fè"
+" ak aktivite yo yon timoun te patisipe nan. Timoun, paran, ak pwofesè a ka "
+"reflechi sou jounal la evalye pwogrè."
 
 # 1cef6ca3e3b44580ba407a8e7646eaec
 #: ../source/sugar_ui.rst:50
@@ -212,15 +275,27 @@ msgid ""
 "portfolio or scrapbook history of the child's interactions with the machine "
 "and also with peers."
 msgstr ""
+"Magazen yo Journal objè kreye pandan y ap elèv la kouri yon aktivite. "
+"Fonksyon sa a se segondè, byenke enpòtan. Jounal nan natirèlman Confer tèt "
+"li yon òganizasyon kwonolojik. Objè ki nan jounal la ka atenn, fouye, ak "
+"Ranje pa yon varyete de vle di. Jounal nan dosye sa yon timoun te fè, pa "
+"sèlman sa ki te timoun nan sove. Journal a se yon dosye oswa Scrapbook istwa"
+" nan entèraksyon timoun nan ak machin nan epi tou li ak lòt timoun parèy."
 
 # 3785466f996a486484c7faa1b6ac02d3
 #: ../source/sugar_ui.rst:52
 msgid ""
-"The Journal includes entries explicitly created by the children with entries "
-"that are implicitly created through the child's participation in an "
+"The Journal includes entries explicitly created by the children with entries"
+" that are implicitly created through the child's participation in an "
 "Activities.  Developers must think carefully about how an activity "
-"integrates with the Journal more so than with a traditional file system that "
-"functions independently of an application. The Activities, the objects, and "
-"the means of recording all tightly integrate to create a different kind of "
+"integrates with the Journal more so than with a traditional file system that"
+" functions independently of an application. The Activities, the objects, and"
+" the means of recording all tightly integrate to create a different kind of "
 "computer experience."
 msgstr ""
+"Journal a gen ladan antre klèman kreye pa timoun yo ak antre ke yo chal "
+"kreye atravè patisipasyon timoun nan nan yon Aktivite. Devlopè yo dwe panse "
+"ak anpil atansyon sou ki jan yon aktivite entegre ak jounal la plis konsa "
+"pase ak yon sistèm dosye tradisyonèl ki fonksyon poukont nan yon aplikasyon."
+" Aktivite yo, objè yo, ak vle di la a anrejistreman tout byen sere entegre "
+"yo kreye yon lòt kalite diferan nan eksperyans òdinatè."

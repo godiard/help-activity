@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 80345203fe4f43e2a9fb131ad3b46cc6
 #: ../source/about_sugar.rst:3
 msgid "About Sugar"
-msgstr ""
+msgstr "Sou Sugar"
 
 # 9b8789ddaced416b9d5916d2dcec53ec
 #: ../source/about_sugar.rst:6
 msgid "What is Sugar?"
-msgstr ""
+msgstr "Ki sa ki se Sugar?"
 
 # 47b116a9ca6d49438ea5361b37a708ae
 #: ../source/about_sugar.rst:8
@@ -39,6 +39,10 @@ msgid ""
 "demanding teacher we have. Never again in those children's lives will "
 "anything drive them to work so hard.\" —Marvin Minsky, The Emotion Machine*"
 msgstr ""
+"Pou yo eksplore mond yo yo wè sa ki nan gen yo, ki fè eksplikasyon nan sa ki"
+" bagay sa yo ye, epi imajine ki lòt bagay ta ka; . Anjoue la nan anfans se "
+"pwofesè ki pi mande nou gen. Pa janm ankò nan lavi timoun sa a ap anyen mete"
+" yo nan travay sa difisil"
 
 # 1f8cfe74adb94e7bb352b77ca568a03a
 #: ../source/about_sugar.rst:10
@@ -53,6 +57,14 @@ msgid ""
 "exploration is grounded in the culture of free and open-source software "
 "(FOSS)."
 msgstr ""
+"Sugar se yon platfòm aprantisaj ki reenvant jan òdinatè yo te itilize pou "
+"edikasyon. Yo Kolaborasyon, refleksyon, ak dekouvèt entegre dirèkteman nan "
+"koòdone nan itilizatè. Sugar pwomosyon \"estidyo panse [1] _\" ak \"pratik "
+"meditativ [2] _\". Atravè klè Sugar a nan konsepsyon, timoun yo ak pwofesè "
+"gen opòtinite pou yo sèvi ak òdinatè sou tèm pwòp yo. Elèv yo ka "
+"reorganized, reenvante, ak re-aplike tou de lojisyèl ak kontni nan aktivite "
+"aprantisaj pwisan. Se konsantre Sugar a sou pataje, kritik, ak eksplorasyon "
+"chita nan kilti a nan lojisyèl gratis epi yo louvri-sous (FOSS)."
 
 # 9aa036d7c1434df89234cdcf4c5a726a
 #: ../source/about_sugar.rst:12
@@ -60,14 +72,20 @@ msgid ""
 "|sugar_sharing| Sugar facilitates sharing and collaboration. Children can "
 "write documents, share books and pictures, or make music together with ease."
 msgstr ""
+"| Sugar_sharing | Sugar fasilite pataje ak kolaborasyon. Timoun yo ka ekri "
+"dokiman, liv ak foto pataje, oswa fè mizik ansanm ak fasilite."
 
 # b6e004e01bd54cc893996fce662553cc
 #: ../source/about_sugar.rst:16
 msgid ""
-"|sugar_ring| There are no files, folders, or applications. Children interact "
-"with Activities. Activities includes an application, data, and history of "
+"|sugar_ring| There are no files, folders, or applications. Children interact"
+" with Activities. Activities includes an application, data, and history of "
 "the interaction that can be used to resume and reflect on the child's work."
 msgstr ""
+"| Sugar_ring | Pa gen okenn dosye, dosye, oswa aplikasyon pou. Timoun "
+"kominike avèk Aktivite. Aktivite an gen ladan yon aplikasyon, done, ak istwa"
+" nan entèraksyon an ki ka itilize yo rezime ak reflete sou travay timoun "
+"nan."
 
 # f7cc511a222b47df9b972f301580d88e
 #: ../source/about_sugar.rst:20
@@ -76,26 +94,34 @@ msgid ""
 "will never lose your work. Documents will eventually be synced with a "
 "network server, adding additional protection."
 msgstr ""
+"| Sugar_backup | Tout se sove otomatikman. Li se objektif nou ke ou pa janm "
+"ap pèdi travay ou. Dokiman pral evantyèlman dwe senkronize ak yon sèvè rezo,"
+" pandan l ajoute plis pwoteksyon."
 
 # 3f6e4129f58e465b8871ce51ca0aff55
 #: ../source/about_sugar.rst:24
 msgid ""
-"|sugar_journal| A Journal is used for accessing data. The Journal is a diary "
-"of things that you make and actions you take. It is a place to reflect upon "
-"your work."
+"|sugar_journal| A Journal is used for accessing data. The Journal is a diary"
+" of things that you make and actions you take. It is a place to reflect upon"
+" your work."
 msgstr ""
+"| Sugar_journal | Yon Journal ki itilize pou gen aksè nan done. Journal a se"
+" yon jounal pèsonèl de bagay sa yo ke ou fè ak aksyon ou pran. Li se yon "
+"kote yo reflechi sou travay ou."
 
 # 128bcc348c4c4121b3bac50dba856896
 #: ../source/about_sugar.rst:28
 msgid ""
-"|opensource| Sugar is free and open-source software. Sugar is licensed under "
-"the GNU GPL; updates will always respect the freedom of its users."
+"|opensource| Sugar is free and open-source software. Sugar is licensed under"
+" the GNU GPL; updates will always respect the freedom of its users."
 msgstr ""
+"| Opansours | Sugar se lojisyèl gratis epi yo louvri-sous. Se Sugar lisansye"
+" dapre GNU gpl la; ."
 
 # 2068c5aa0a0c479db13b7558afdd9569
 #: ../source/about_sugar.rst:33
 msgid "Note to parents and teachers The Sugar Philosophy"
-msgstr ""
+msgstr "Remake byen paran ak pwofesè Filozofi nan Sugar"
 
 # 66f9191ec528475da8cb5a015f9b78c5
 #: ../source/about_sugar.rst:35
@@ -107,32 +133,38 @@ msgid ""
 "three defining human principles. These are the pillars of user experience "
 "for learning:"
 msgstr ""
+"Enfòmasyon se sou nouen. Aprantisaj se sou vèb. Koòdone nan itilizatè Sugar "
+"diferan de itilizatè interfaces tradisyonèl nan ke li se ki baze sou tou de "
+"konstruktivism mantal ak sosyal. Nou kwè ke elèv k ap aprann yo ta dwe "
+"angaje yo nan eksplorasyon ak kolaborasyon. Se platfòm la Sugar ki baze sou "
+"twa prensip defini imen. Sa yo se poto yo nan eksperyans itilizatè pou "
+"aprantisaj:"
 
 # 9f54270a49994108abc6f9e56127781d
 #: ../source/about_sugar.rst:37
 msgid "Everyone is a teacher and a learner."
-msgstr ""
+msgstr "Tout moun se yon pwofesè ak yon elèv k ap aprann."
 
 # 2d69fbc6d7504562a9709ef058338639
 #: ../source/about_sugar.rst:38
 msgid "Humans are social beings."
-msgstr ""
+msgstr "Moun se èt sosyal."
 
 # 601967654b4447c985f2265e96591770
 #: ../source/about_sugar.rst:39
 msgid "Humans are expressive."
-msgstr ""
+msgstr "Moun yo espresif."
 
 # 85cec93a52334fa493de920348e0f928
 #: ../source/about_sugar.rst:41
 msgid "Two principles define the Sugar platform:"
-msgstr ""
+msgstr "De prensip defini platfòm la Sugar:"
 
 # 924c188bbca648ddbdb4394e4167acaf
 #: ../source/about_sugar.rst:43
 msgid ""
 "You learn through doing, so if you want to learn more, you want to do more."
-msgstr ""
+msgstr "Ou aprann nan fè, se konsa si ou vle aprann plis, ou vle fè plis."
 
 # 4da1f59fe9104785a14eee27124706d4
 #: ../source/about_sugar.rst:44
@@ -140,20 +172,23 @@ msgid ""
 "Love is a better master than duty—you want people to engage in things that "
 "are authentic to them, things that they love. Internal motivation almost "
 "always trumps external motivations."
-msgstr ""
+msgstr "Entèn motivasyon prèske toujou Vanport motivasyon ekstèn."
 
 # b5c2f4304cec4550945cf58dd29a3d1a
 #: ../source/about_sugar.rst:46
 msgid "Three experiences characterize the Sugar platform:"
-msgstr ""
+msgstr "Twa eksperyans karakterize platfòm la Sugar:"
 
 # bf744e32383a4e869443509b60600f48
 #: ../source/about_sugar.rst:48
 msgid ""
 "Sharing: The Sugar interface always shows the presence of other learners. "
-"Collaboration is a first-order experience. Students and teachers dialog with "
-"each other, support each other, critique each other, and share ideas."
+"Collaboration is a first-order experience. Students and teachers dialog with"
+" each other, support each other, critique each other, and share ideas."
 msgstr ""
+"Pataje: Koòdone a Sugar toujou montre prezans nan lòt elèv k ap aprann. "
+"Kolaborasyon se yon eksperyans premye-lòd. Elèv yo ak pwofesè dyalòg youn ak"
+" lòt, sipòte chak lòt, kritike chak lòt, epi pataje ide."
 
 # 810ab20a15404cc4be0dc3eaa4f242e6
 #: ../source/about_sugar.rst:49
@@ -161,6 +196,9 @@ msgid ""
 "Reflecting: Sugar uses a \"Journal\" to record each learner's activity. The "
 "Journal serves as a place for reflection and assessment of progress."
 msgstr ""
+"Reflechi: Sugar sèvi ak yon \"Journal\" nan dosye aktivite chak elèv k ap "
+"aprann nan. Jounal nan sèvi kòm yon kote pou refleksyon ak evalyasyon nan "
+"pwogrè."
 
 # 23a1744cf9434ce78cf801ac663e69d2
 #: ../source/about_sugar.rst:50
@@ -171,17 +209,27 @@ msgid ""
 "upper bound on personal expression. One can peel away layers and go deeper "
 "and deeper, with no restrictions."
 msgstr ""
+"Dekouvri: Sugar kapab akomode yon gran varyete nan itilizatè yo, ak diferan "
+"nivo konpetans an tèm de lekti, lang, ak diferan nivo eksperyans avèk "
+"informatique. Li se fasil apwòch, men li pa mete yon mare anwo sou "
+"ekspresyon pèsonèl. Yon moun kapab kale lwen kouch epi ale pi fon ak pi fon,"
+" ki pa gen okenn restriksyon."
 
 # 8d37293ad9af4836a2641fff393662b6
 #: ../source/about_sugar.rst:52
 msgid ""
-"Sugar is written in Python, an easy-to-learn interpreted language [3]_. This "
-"allows the direct appropriation of ideas in whatever realm the learner is "
+"Sugar is written in Python, an easy-to-learn interpreted language [3]_. This"
+" allows the direct appropriation of ideas in whatever realm the learner is "
 "exploring; music, browsing, reading, writing, programming, or graphics. The "
-"student can go further. They are not going to hit a wall. They can, at every "
-"level, engage with and affect the very tools they are using for their "
+"student can go further. They are not going to hit a wall. They can, at every"
+" level, engage with and affect the very tools they are using for their "
 "personal expression."
 msgstr ""
+"Sugar ki ekri nan Piton, yon fasil-a-aprann entèprete lang [3] _. Sa a pèmèt"
+" Afektasyon an dirèk nan lide nan tou sa domèn elèv k ap aprann nan se "
+"eksplore; . Elèv la ka ale pi lwen. Yo pa yo ale nan frape yon miray. Yo ka,"
+" nan chak nivo, angaje ak ak afekte zouti yo trè yo lè l sèvi avèk pou "
+"ekspresyon pèsonèl yo."
 
 # ff5db90f2d09418ea92ed4a6eb93e6ca
 #: ../source/about_sugar.rst:54
@@ -191,20 +239,28 @@ msgid ""
 "these sections help you guide your children and students through the "
 "learning process."
 msgstr ""
+"Pandan tout gid sa a nou te ajoute tou kout \"Remake byen paran ak pwofesè\""
+" seksyon ki eksplike filozofi a dèyè platfòm lan Sugar. Nou espere seksyon "
+"sa yo ede w gide pitit ou yo ak elèv yo atravè tout pwosesis la aprantisaj."
 
 # 8c13c5a734fe4b34916913d271247975
 #: ../source/about_sugar.rst:57
 msgid "Sugar Labs"
-msgstr ""
+msgstr "Sugar Labs"
 
 # 1a4a78ed38af472db3c9e56ddb58f0c8
 #: ../source/about_sugar.rst:59
 msgid ""
 "Sugar was designed for One Laptop per Child (OLPC), as part of an effort to "
-"provide an opportunity for a quality education to every children through the "
-"distribution of connected laptop computers, our most powerful tools for "
+"provide an opportunity for a quality education to every children through the"
+" distribution of connected laptop computers, our most powerful tools for "
 "expression. Sugar is the user interface used on the OLPC XO laptop."
 msgstr ""
+"Sugar te fèt pou Youn Laptop pou chak timoun (OLPC), kòm yon pati nan yon "
+"efò yo bay yon opòtinite pou yon bon kalite edikasyon nan tout timoun jiska "
+"distribisyon an nan òdinatè pòtatif konekte, zouti ki pi pwisan nou an pou "
+"ekspresyon. Sugar se koòdone nan itilizatè itilize sou konpitè pòtatif li a "
+"OLPC XO."
 
 # 461fbe19d69643f1b6ddbfdde9dffc62
 #: ../source/about_sugar.rst:61
@@ -216,6 +272,12 @@ msgid ""
 "community project. It is available under the open-source GNU General Public "
 "License (GPL) and free to anyone who wants to use or extend it."
 msgstr ""
+"Sugar Labs se yon fondasyon ki pa Peye-ki gen misyon se yo pwodwi, "
+"distribye, ak sipòte itilize nan platfòm la aprann Sugar. Sugar Labs sipòte "
+"kominote a nan edikatè ak devlopè lojisyèl ki vle pou yon ekstansyon pou "
+"platfòm la ak ki te kreye Sugar Aktivite. Sugar se yon pwojè kominote. Li "
+"disponib anba louvri-sous Lisans lan GNU Jeneral Piblik (GPL) ak lib yo "
+"nenpòt moun ki vle itilize oswa pwolonje li."
 
 # e362da08fe4a4fb8a5e2abca70f4e2f2
 #: ../source/about_sugar.rst:63
@@ -225,20 +287,28 @@ msgid ""
 "Thinking: The Real Benefits of Visual Arts Education. Studio thinking "
 "includes \"studio structures\": demonstrations, projects, and critiques; as "
 "well as \"studio habits of mind\": develop craft, engage and persist, "
-"envision, express, observe, reflect, stretch and explore, and understand the "
-"art world. In the context of Sugar, studio thinking is applied not just to "
+"envision, express, observe, reflect, stretch and explore, and understand the"
+" art world. In the context of Sugar, studio thinking is applied not just to "
 "the arts, but to all disciplines."
 msgstr ""
+"Panse Studio se yon tèm yo itilize a dekri kouman vizyèl art pwofesè anseye "
+"ak sa elèv yo aprann atizay vizyèl. Se yon tèm nan detaye nan Panse Studio: "
+"benefis yo reyèl nan vizyèl Edikasyon Art. Panse Studio gen ladan \"estrikti"
+" estidyo\": manifestasyon, pwojè, ak kritik; . Nan kontèks la nan Sugar, se "
+"panse estidyo aplike pa sèlman yo nan ar, men nan tout disiplin."
 
 # 9b661df7a5124902bdcfb9c1fa5e939a
 #: ../source/about_sugar.rst:65
 msgid ""
 "Reflective practice is a concept introduced by Donald Schön in his book The "
 "Reflective Practitioner. Reflective practice involves students applying "
-"their own experiences to practice while being mentored by domain experts. In "
-"the context of Sugar, the expert could be a teacher, a parent, a community "
+"their own experiences to practice while being mentored by domain experts. In"
+" the context of Sugar, the expert could be a teacher, a parent, a community "
 "member, or a fellow student."
 msgstr ""
+"Pratik refleksyon enplike elèv ki aplike pwòp eksperyans yo pratike pandan "
+"ke y ap encadré pa ekspè domèn. Nan kontèks la nan Sugar, ekspè an te kapab "
+"fè yon pwofesè, yon paran, yon manm nan kominote a, oswa yon elèv parèy."
 
 # 3b94deec525f48f68ffb75bf9265f69f
 #: ../source/about_sugar.rst:67
@@ -248,6 +318,13 @@ msgid ""
 "opposed to precompiled. The significance of interpreted languages to the "
 "Sugar platform include: platform independence, ease of debugging, ready "
 "access to source code, and small program size. Python is a general-purpose, "
-"high-level programming language. It emphasizes code readability and features "
-"a minimalist syntax and comprehensive standard library."
+"high-level programming language. It emphasizes code readability and features"
+" a minimalist syntax and comprehensive standard library."
 msgstr ""
+"Yon lang entèprete se yon lang programmation ki gen enstriksyon yo entèprete"
+" \"sou vole a\" (oswa konpile yon kòd machin vityèl) kòm opoze a prekonpile."
+" Siyifikasyon nan entèprete lang nan platfòm la Sugar gen ladan yo: platfòm "
+"endepandans yo, fasilite nan debogaj, pare aksè nan kòd sous, ak ti gwosè "
+"pwogram. Piton se yon jeneral-bi, wo nivo lang programmation. Li mete aksan "
+"sou Kòd lizibilite ak karakteristik yon sentaks minimalist ak bibliyotèk "
+"konplè estanda."

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # 801fff7668194d8db079b55c8768a9a4
 #: ../source/upgrade_all.rst:3
 msgid "Upgrade all your Software"
-msgstr ""
+msgstr "Upgrade tout lojisyèl ou"
 
 # b869f106041344e2b35f283aec6a634a
 #: ../source/upgrade_all.rst:5
@@ -28,6 +28,9 @@ msgid ""
 "for the XO. It is a good idea to keep your software up to date because our "
 "latest builds fix bugs in earlier releases and they are awesome!"
 msgstr ""
+"XO ou vini pre-chaje ak eksplwatasyon an lojisyèl (opere sistèm) ki fèt pou "
+"XO a. Li se yon bon lide yo kenbe lojisyèl ou jiska dat paske dènye nou an "
+"bati ranje pinèz nan pi bonè degaje ak yo awizom!"
 
 # f6401aea27f04efeaccddeea88fb1626
 #: ../source/upgrade_all.rst:7
@@ -38,12 +41,16 @@ msgid ""
 "transferable to using Windows or Mac OS. This Chapter will tell you how to "
 "upgrade your software."
 msgstr ""
+"Èske w te konnen ak lojisyèl an dènye XO ou ka gen tou de Sik ak luten? . "
+"Chapter sa a pral di w kouman yo ajou lojisyèl ou."
 
 # e7a640d01bb14e0d9c3bb5491960c119
 #: ../source/upgrade_all.rst:9
 msgid ""
 "The Software Releases can be found here: http://wiki.laptop.org/go/Releases"
 msgstr ""
+"Software Releases yo ka jwenn isit la: http: // wiki. laptop. org / ale / "
+"Releases"
 
 # f10d596816034d1f8b307409ed77f59d
 #: ../source/upgrade_all.rst:11
@@ -51,6 +58,8 @@ msgid ""
 "The main page of the OLPC Wiki also contains links to the latest releases. "
 "http://wiki.laptop.org"
 msgstr ""
+"Paj la prensipal nan OLPC Wiki a tou gen lyen ki mennen nan degaje yo dènye."
+" http: // wiki. laptop. org"
 
 # 4bf9021eaccc4f94a552df21c9cf95b0
 #: ../source/upgrade_all.rst:13
@@ -59,6 +68,9 @@ msgid ""
 "will want to use the \"clean install\" method. An overview of the upgrade "
 "options can be found here. http://wiki.laptop.org/go/Updating_the_XO"
 msgstr ""
+"Gen metòd plizyè nan amelyore. Ki se yon sèl bon pou ou? . Ka Yon BECA de "
+"opsyon sa yo ajou ka jwenn isit la. http: // wiki. laptop. org / ale / "
+"Updating_the_XO"
 
 # edcead0ede704086930c9d5c164c3d2a
 #: ../source/upgrade_all.rst:15
@@ -68,6 +80,10 @@ msgid ""
 "you want to install here: http://wiki.laptop.org/go/Releases Next click on "
 "the Release notes for the release you will install."
 msgstr ""
+"Enstriksyon ki klè sou kòman yo chanje, ajou, à, oswa ranplase OS XO a ou ka"
+" jwenn nan nòt yo Release. Chwazi liberasyon an (bati) ke ou vle enstale "
+"isit la: http: // wiki. laptop. org / ale / Releases Next klike sou nòt yo "
+"Release pou yo lage nan ou pral enstale."
 
 # 15bf0b88cb204b70a2d5aeb4b176590a
 #: ../source/upgrade_all.rst:17
@@ -77,6 +93,10 @@ msgid ""
 "offline update which will update the current software without erasing the "
 "existing Journal. Follow the instruction for the update method chosen."
 msgstr ""
+"Deside si ou vle fè yon pwòp enstale (Enstalasyon) ki pral konplètman Fomatè"
+" XO ou a ak dosye soti nan yon kondwi USB, oswa yon ajou sou entènèt oswa "
+"offline ki pral mete ajou lojisyèl an san yo pa aktyèl efase Journal la ki "
+"deja egziste. Swiv enstriksyon a pou metòd la aktyalizasyon chwazi."
 
 # d8f9f33366834352b92d89f2522b1f5f
 #: ../source/upgrade_all.rst:19
@@ -89,46 +109,52 @@ msgid ""
 "Internet access that will allow you to download the required 300-400MB "
 "within about an hour."
 msgstr ""
+"Yon pwòp enstale sèvi ak yon baton USB ak \"kat pwosedi a bouton\" yo "
+"kòmanse aktyalizasyon a. Avètisman Sonje: Metòd sa a ap re-fòma XO ou ak "
+"tout bagay sou XO ou dwe efase si ou itilize metòd sa a. Ou pral swiv "
+"enstriksyon ki nan nòt yo lage pou bati a chwazi a, epi w ap bezwen yon "
+"aparèy depo USB ki gen omwen 1 GB nan espas gratis ak yon òdinatè ki gen "
+"aksè nan Entènèt ki pral pèmèt ou download 300-400MB yo egzije nan apeprè ."
 
 # 165cdcdfbba340f495134822f755e632
 #: ../source/upgrade_all.rst:23
 msgid "1 - Battery indicator"
-msgstr ""
+msgstr "1 - Battery endikatè"
 
 # a6a13ccd499b43a783a1381b4a8eab1b
 #: ../source/upgrade_all.rst:24
 msgid "2 - Power indicator"
-msgstr ""
+msgstr "2 - Pouvwa endikatè"
 
 # aaba08cae3064082af8ef7225b4bd73f
 #: ../source/upgrade_all.rst:25
 msgid "3 - Power button"
-msgstr ""
+msgstr "3 - Pouvwa bouton"
 
 # 3adcbb95bbd544a18970beb662e99b3b
 #: ../source/upgrade_all.rst:26
 msgid "4 - Game buttons"
-msgstr ""
+msgstr "4 - Jwèt bouton"
 
 # a8f1e64e759a430aa737dd4230554c2d
 #: ../source/upgrade_all.rst:28
 msgid "Follow these steps to upgrade your XO"
-msgstr ""
+msgstr "Swiv etap sa yo mete yo ajou XO ou"
 
 # 7be9070166114c8bb61d3e5db8e8d0cf
 #: ../source/upgrade_all.rst:30
 msgid "Connect your XO to its charger."
-msgstr ""
+msgstr "Konekte XO ou nan plato li yo."
 
 # 87dda18f114f4ddf814160f700690750
 #: ../source/upgrade_all.rst:32
 msgid "Turn off your XO."
-msgstr ""
+msgstr "Etenn XO ou."
 
 # 89c603e45d3e486b842c11beeeaf2790
 #: ../source/upgrade_all.rst:34
 msgid "Connect your prepared USB storage device to your XO."
-msgstr ""
+msgstr "Konekte aparèy depo USB prepare ou nan XO ou."
 
 # fafdea6726d54055bc807e4f0ec0db78
 #: ../source/upgrade_all.rst:36
@@ -138,29 +164,33 @@ msgid ""
 "to \"Release the game key to continue\". Do not continue until you see this "
 "message."
 msgstr ""
+"Next, kenbe desann tout kat kle gampad pi wo a bouton an pouvwa, ak lè sa a "
+"pouse bouton an pouvwa yo vire XO a sou. Ou gen pou wè yon mesaj ki di ou "
+"nan \"Lage kle nan jwèt yo kontinye\". pa kontinye jiskaske ou wè mesaj sa "
+"a."
 
 # 3db929f78e7f46378431c1a5f1062731
 #: ../source/upgrade_all.rst:38
 msgid ""
-"Release the gamepad keys.  The reflash process runs automatically; first you "
-"will see the XO arrange and color in a grid of boxes, then the XO will "
+"Release the gamepad keys.  The reflash process runs automatically; first you"
+" will see the XO arrange and color in a grid of boxes, then the XO will "
 "display \"Rebooting in 10 seconds...\""
-msgstr ""
+msgstr "Lage kle yo gampad. Pwosesis la reflash kouri otomatikman; . . . \""
 
 # 01f6587b16744df583438908bd852f12
 #: ../source/upgrade_all.rst:40
 msgid "The XO will then restart with a clean image."
-msgstr ""
+msgstr "XO a pral Lè sa a, rekòmanse ak yon imaj pwòp."
 
 # 5afd7afebbb6464bac7c5634d7db14e4
 #: ../source/upgrade_all.rst:42
 msgid "Enter your name for your XO and then click Next."
-msgstr ""
+msgstr "Ekri non ou pou XO ou ak Lè sa a klike sou Next."
 
 # d05b1499f9c64fd7a5f59d78443b4cf6
 #: ../source/upgrade_all.rst:44
 msgid "Click the XO icon to change the colors and then click Done."
-msgstr ""
+msgstr "Klike sou ikòn a XO chanje koulè yo ak Lè sa a klike sou Fè."
 
 # c62b843266ae4adcbe42f119b5878fb3
 #: ../source/upgrade_all.rst:46
@@ -168,3 +198,5 @@ msgid ""
 "Optionally, connect your XO to the Internet, then use the Control Panel to "
 "download the latest Activities."
 msgstr ""
+"Opsyonèlman, konekte XO ou a entènèt la, Lè sa a, sèvi ak panèl la kontwòl "
+"nan download Aktivite yo dènye."

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # 97c2f92652f04175972e7f0edbeef40f
 #: ../source/group_view.rst:3
 msgid "Group View"
-msgstr ""
+msgstr "Gwoup View"
 
 # 970789f00e144137983838d603626c22
 #: ../source/group_view.rst:5
@@ -27,11 +27,12 @@ msgid ""
 "The Group View shows you, your friends and allows you to easily interact "
 "with them."
 msgstr ""
+"View nan Group montre ou, zanmi ou yo ak pèmèt ou fasil kominike avèk yo."
 
 # 35bd0921309d42908ba1979013609089
 #: ../source/group_view.rst:8
 msgid "Accessing the Group View"
-msgstr ""
+msgstr "Antre nan Group View"
 
 # ee1904b2ab3c4ef99f628ee4b386a669
 #: ../source/group_view.rst:12
@@ -39,6 +40,8 @@ msgid ""
 "To show the Group View, click the Group icon on the Frame or press the F2 "
 "key."
 msgstr ""
+"Pou montre Group View a, klike sou ikòn nan Group sou ankadreman an oswa "
+"peze kle a F2."
 
 # 54ba82722a434dc3b1e756c5d32aff81
 #: ../source/group_view.rst:16
@@ -46,16 +49,18 @@ msgid ""
 "The Group View shows you and your friends. XO icons that are dimmed "
 "represent friends who are currently offline."
 msgstr ""
+"View nan Group montre ou ak zanmi ou. Ikon XO ke yo grize reprezante zanmi "
+"ki se kounye a offline."
 
 # e653d7498cf34dcfb6d5077a560276dd
 #: ../source/group_view.rst:19
 msgid "Adding a friend"
-msgstr ""
+msgstr "Ajoute yon zanmi"
 
 # d0eea092e86b4a3094ef7602f18090ec
 #: ../source/group_view.rst:21
 msgid "You add friends to the Group View from the Neighborhood View."
-msgstr ""
+msgstr "Ou ajoute zanmi Group View nan soti nan View nan Katye."
 
 # e46a5451962f460792035af2f7995e13
 #: ../source/group_view.rst:25
@@ -63,16 +68,18 @@ msgid ""
 "When you hover over an XO icon, the Make friend menu option appears. Click "
 "this option to add that person as a friend."
 msgstr ""
+"Lè ou hover sou yon icon XO, opsyon nan meni Fè zanmi parèt. Klike sou "
+"opsyon sa a yo ajoute moun sa a kòm yon zanmi."
 
 # a1d873923d5e424f9505e07d570168fb
 #: ../source/group_view.rst:29
 msgid "Your new friend's icon then appears in the Group View."
-msgstr ""
+msgstr "Icon nouvo zanmi ou a Lè sa a, parèt nan Gwoup View."
 
 # 86e2109a898241a684295c9b4588028c
 #: ../source/group_view.rst:32
 msgid "Inviting a friend"
-msgstr ""
+msgstr "Envite yon zanmi"
 
 # 753b05e5ba2b44f9a251884c4d7702cd
 #: ../source/group_view.rst:36
@@ -81,11 +88,14 @@ msgid ""
 "Activity. There is more information about invitations and sharing in the "
 "Collaborating chapter."
 msgstr ""
+"Soti nan meni an hover, ou ka tou envite zanmi rantre nan aktivite ou ye "
+"kounye a. Gen plis enfòmasyon sou envitasyon ak pataje nan chapit la "
+"Kolabore."
 
 # 490026fc2b564140a94c0f5da290c8c2
 #: ../source/group_view.rst:39
 msgid "Removing a friend"
-msgstr ""
+msgstr "Retire yon zanmi"
 
 # 795e09f3b7d54b85a427d1635f069546
 #: ../source/group_view.rst:43
@@ -93,3 +103,5 @@ msgid ""
 "You can remove a friend from the Group View using the hover menu. Click "
 "Remove friend. That person's icon disappears from the Group View."
 msgstr ""
+"Ou ka retire yon zanmi ki sòti nan gwoup View lè l sèvi avèk meni an hover. "
+"Klike sou Retire zanmi. Icon moun sa a disparèt soti nan Gwoup View."

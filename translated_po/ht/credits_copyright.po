@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,7 +19,7 @@ msgstr ""
 # 20139cf6128540768a11c99479b30cfa
 #: ../source/credits_copyright.rst:3
 msgid "Credits and Copyright"
-msgstr ""
+msgstr "Kredi ak Copyright"
 
 # 8a7c2557386043caaf44ddb835fabf79
 #: ../source/credits_copyright.rst:5
@@ -27,11 +27,12 @@ msgid ""
 "Following is a list of all the credits and copyright associated with the "
 "help content."
 msgstr ""
+"Sa yo se yon lis tout kredi yo ak copyright ki asosye ak kontni an èd."
 
 # 72822b83ac4644768671e4da9b55e682
 #: ../source/credits_copyright.rst:8
 msgid "About this Manual"
-msgstr ""
+msgstr "Sou Manyèl sa a"
 
 # e98deb782f8e4700abf83f8dea4d9237
 # 13052faddc544cb3b17e747b650cf2ed
@@ -57,7 +58,7 @@ msgstr ""
 #: ../source/credits_copyright.rst:194 ../source/credits_copyright.rst:250
 #: ../source/credits_copyright.rst:293
 msgid "adam hyde 2008"
-msgstr ""
+msgstr "adam HYDE 2008"
 
 # 00341e63607f40439e1f35764942a04b
 # 5dc99046b34c46ce85ea61a08f773415
@@ -71,7 +72,7 @@ msgstr ""
 #: ../source/credits_copyright.rst:143 ../source/credits_copyright.rst:276
 #: ../source/credits_copyright.rst:327
 msgid "A Holt 2008"
-msgstr ""
+msgstr "Yon Holt 2008"
 
 # d685d02eada8445590149967e178d671
 # 51e04f5088004d568cc4de2242c40b37
@@ -80,7 +81,7 @@ msgstr ""
 #: ../source/credits_copyright.rst:18 ../source/credits_copyright.rst:35
 #: ../source/credits_copyright.rst:60 ../source/credits_copyright.rst:301
 msgid "Rob Mason 2008"
-msgstr ""
+msgstr "Rob Mason 2008"
 
 # 7c6578513e774d3fb6ee3429cbb5a17c
 # 56ff3436ff1e49dfabb983e053f4e6de
@@ -92,7 +93,7 @@ msgstr ""
 #: ../source/credits_copyright.rst:77 ../source/credits_copyright.rst:147
 #: ../source/credits_copyright.rst:280 ../source/credits_copyright.rst:329
 msgid "Sandy Culver 2008"
-msgstr ""
+msgstr "Sandy Culver 2008"
 
 # 5aef891090d7483f9d447a7a21a50046
 # 0f2cfa9a13ca48a88cbcf5f2eee00142
@@ -112,17 +113,17 @@ msgstr ""
 #: ../source/credits_copyright.rst:254 ../source/credits_copyright.rst:282
 #: ../source/credits_copyright.rst:331
 msgid "Tom Boyle 2008"
-msgstr ""
+msgstr "Tom Boyle 2008"
 
 # a5aa944b9c7d49e3bd5332cd51c89c36
 #: ../source/credits_copyright.rst:25
 msgid "About OLPC"
-msgstr ""
+msgstr "Sou OLPC"
 
 # abc67ea29f364e85864a42a6639ecd30
 #: ../source/credits_copyright.rst:42
 msgid "About Sugar"
-msgstr ""
+msgstr "Sou Sugar"
 
 # 5645c8cd1e424ace8f5856adde7ecd8f
 #: ../source/credits_copyright.rst:46
@@ -132,7 +133,7 @@ msgstr ""
 # 9dd6a63c29fb44ccb6d36a5bfb04447a
 #: ../source/credits_copyright.rst:48
 msgid "adam hyde 2006, 2007, 2008"
-msgstr ""
+msgstr "adam HYDE 2006, 2007, 2008"
 
 # 247b6c9c83864296b00694fcbee85e87
 # bef6abe99db14d7abc029fc33a96ae6c
@@ -143,12 +144,12 @@ msgstr ""
 #: ../source/credits_copyright.rst:164 ../source/credits_copyright.rst:196
 #: ../source/credits_copyright.rst:297
 msgid "David Farning 2008"
-msgstr ""
+msgstr "David Farning 2008"
 
 # 27d15c17d37c419bacd9d84fc259dd77
 #: ../source/credits_copyright.rst:52
 msgid "Emily Kaplan 2008"
-msgstr ""
+msgstr "Emily Kaplan 2008"
 
 # b0e321804efa4130a0ff7bd2693dc7c7
 # 8b4ec6006b5b4685bb4160b3f3ae3bcd
@@ -163,22 +164,22 @@ msgstr ""
 #: ../source/credits_copyright.rst:198 ../source/credits_copyright.rst:215
 #: ../source/credits_copyright.rst:278 ../source/credits_copyright.rst:299
 msgid "Janet Swisher 2008"
-msgstr ""
+msgstr "Janet Swisher 2008"
 
 # c0b4468e6d044c2b95ed9be890c3419f
 #: ../source/credits_copyright.rst:56
 msgid "Luke Faraone 2008"
-msgstr ""
+msgstr "Lik Faraone 2008"
 
 # 4f2be74941a043f3b1abe17da8674820
 #: ../source/credits_copyright.rst:58
 msgid "Rita Freudenberg 2008"
-msgstr ""
+msgstr "Rita Freudenberg 2008"
 
 # 33c7ade7c17c4a61a22217eab5f38724
 #: ../source/credits_copyright.rst:63
 msgid "Charging the Battery"
-msgstr ""
+msgstr "Pote plent-batri a"
 
 # 3b8b38ca48c84fbf82288c69726524b9
 # 8380ba0bfa4348039676570d1aacb6d8
@@ -186,17 +187,17 @@ msgstr ""
 #: ../source/credits_copyright.rst:71 ../source/credits_copyright.rst:122
 #: ../source/credits_copyright.rst:274
 msgid "Charles McCarthy 2008"
-msgstr ""
+msgstr "Charles McCarthy 2008"
 
 # 9f79b22b448748f3b939c3688e277326
 #: ../source/credits_copyright.rst:79
 msgid "Seth Woodworth 2008"
-msgstr ""
+msgstr "Sèt Woodworth 2008"
 
 # e7763cac444c4310b6ec53ab5bb9ce8d
 #: ../source/credits_copyright.rst:84
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 # 00af2c0b6cf4404f8c094d209e69c3f6
 # 080a9ee910d0499d85c04a02d7eb98a4
@@ -221,22 +222,22 @@ msgstr ""
 #: ../source/credits_copyright.rst:235 ../source/credits_copyright.rst:270
 #: ../source/credits_copyright.rst:321
 msgid "Anne Gentle 2008"
-msgstr ""
+msgstr "Anne Gentle 2008"
 
 # 03e1766f4a604179a0e05c4a90fa1d5d
 #: ../source/credits_copyright.rst:92
 msgid "Sandra Thaxter 2012"
-msgstr ""
+msgstr "Sandra THAXTER 2012"
 
 # edc37334088c46ac823947b5f5449680
 #: ../source/credits_copyright.rst:95
 msgid "Getting Connected"
-msgstr ""
+msgstr "Pou Konekte"
 
 # e30af82d83a74711b7db37545e9c2ddd
 #: ../source/credits_copyright.rst:103
 msgid "David Cramer 2008"
-msgstr ""
+msgstr "David Cramer 2008"
 
 # f37a3f9c5ee646f281e3d25f32db1bdd
 # f16b52f812ed45a19ae4bca6d106770e
@@ -244,7 +245,7 @@ msgstr ""
 #: ../source/credits_copyright.rst:107 ../source/credits_copyright.rst:168
 #: ../source/credits_copyright.rst:200
 msgid "Janis Grinbergs 2008"
-msgstr ""
+msgstr "Janis Grinbergs 2008"
 
 # f803630db2f34713bd2fcab1b8a74de4
 # 186130c8b6c24508a780e56dce772c05
@@ -261,12 +262,12 @@ msgstr ""
 #: ../source/credits_copyright.rst:241 ../source/credits_copyright.rst:284
 #: ../source/credits_copyright.rst:333
 msgid "G Hunt 2012"
-msgstr ""
+msgstr "G Hunt 2012"
 
 # 7b241fa80bc64975971c9b6b7c02e323
 #: ../source/credits_copyright.rst:112
 msgid "Getting Started"
-msgstr ""
+msgstr "Pou kòmanse"
 
 # 05b426349e974f17a621990f18fae6c5
 #: ../source/credits_copyright.rst:116
@@ -276,12 +277,12 @@ msgstr ""
 # 130c908faca64462bc906887ee997b0f
 #: ../source/credits_copyright.rst:126
 msgid "Lisa Lewis 2008"
-msgstr ""
+msgstr "Lisa Lewis 2008"
 
 # 1ce74085feff44bdb11bc7b64f7d1e74
 #: ../source/credits_copyright.rst:133
 msgid "Give Me the Internet"
-msgstr ""
+msgstr "Ban mwen Entènèt la"
 
 # ed0defeaa3a24e3287849ea8d4a0ef92
 # 63076719a0b24f7d9190f1dcebc80d22
@@ -292,7 +293,7 @@ msgstr ""
 #: ../source/credits_copyright.rst:237 ../source/credits_copyright.rst:295
 #: ../source/credits_copyright.rst:323
 msgid "Brian Jordan 2008"
-msgstr ""
+msgstr "Brian lòt bò larivyè Jouden 2008"
 
 # 532fefd668e04256af78fa0fa4702462
 # 3fc69f2387a449aea50cb557c846b06a
@@ -303,23 +304,23 @@ msgstr ""
 #: ../source/credits_copyright.rst:252 ../source/credits_copyright.rst:272
 #: ../source/credits_copyright.rst:325
 msgid "Caryl Bigenho 2008"
-msgstr ""
+msgstr "Caryl Bigenho 2008"
 
 # ee7e41e3122646b7912ecc21dd1d3310
 # 18cd055241934b569df89eb8782988d8
 #: ../source/credits_copyright.rst:149 ../source/credits_copyright.rst:217
 msgid "S Page 2008"
-msgstr ""
+msgstr "S Page 2008"
 
 # 3e814bedfd9b4bcebdc897dcd073f461
 #: ../source/credits_copyright.rst:156
 msgid "Home View"
-msgstr ""
+msgstr "Kay View"
 
 # ac930078131d491497a6fab493842ed5
 #: ../source/credits_copyright.rst:173
 msgid "Keyboard"
-msgstr ""
+msgstr "Klavye"
 
 # 6cb8bb9130644592a1ce74c7e1693156
 # 09dcec6166904d6bb09afc657f9d05b6
@@ -330,17 +331,17 @@ msgstr ""
 # a28b7829bc424dcf837466025047ee0a
 #: ../source/credits_copyright.rst:188
 msgid "Neighborhood View"
-msgstr ""
+msgstr "Katye View"
 
 # ec46dd7b54e74bf8a6dff4f9e9974c78
 #: ../source/credits_copyright.rst:202
 msgid "Morgan Collett 2008"
-msgstr ""
+msgstr "Morgan Collett 2008"
 
 # 2e908cd64c12489a8a1637b6cb409fc1
 #: ../source/credits_copyright.rst:205
 msgid "Opening the XO"
-msgstr ""
+msgstr "Ouvèti XO a"
 
 # 36d8df4cdd554ad1a69ce3511401ed71
 # c1af4895722a4ebc9184d63141207189
@@ -353,17 +354,17 @@ msgstr ""
 # 87803006eec04ed88b14c80bcd34306b
 #: ../source/credits_copyright.rst:222
 msgid "Pippy"
-msgstr ""
+msgstr "Pippy"
 
 # 2b5962bafed54b3393375d5191c4c49c
 #: ../source/credits_copyright.rst:229
 msgid "Physical Features"
-msgstr ""
+msgstr "Karakteristik fizik"
 
 # 9a05ff02d2d8480c88b7916b7c5d9d54
 #: ../source/credits_copyright.rst:244
 msgid "Record"
-msgstr ""
+msgstr "Dosye"
 
 # 12295b4aa7b843379638c1ed19713981
 #: ../source/credits_copyright.rst:248
@@ -373,7 +374,7 @@ msgstr ""
 # 3fb9be84ab8b4f28b22c2306499d5d8b
 #: ../source/credits_copyright.rst:257
 msgid "XS school server"
-msgstr ""
+msgstr "Sèvè lekòl XS"
 
 # 73428e1562ab46e698f76d8a50bd9540
 #: ../source/credits_copyright.rst:261
@@ -383,34 +384,34 @@ msgstr ""
 # 2226ad25728943508700dc980ac37984
 #: ../source/credits_copyright.rst:264
 msgid "Starting the XO"
-msgstr ""
+msgstr "Koumanse XO a"
 
 # 1e648bafb4ad4d4e8ffe5f5980e1248b
 #: ../source/credits_copyright.rst:287
 msgid "The Sugar User Interface"
-msgstr ""
+msgstr "Itilizatè Entèfas a Sugar"
 
 # 2150761ba7f449838257e26d11d113cc
 #: ../source/credits_copyright.rst:304
 msgid "Terminal"
-msgstr ""
+msgstr "Tèminal"
 
 # 075d49ebe4424e8e88c525f6b3a41f8e
 #: ../source/credits_copyright.rst:308
 msgid "Sayamindu"
-msgstr ""
+msgstr "Sayamindu"
 
 # 4dfab7402406498a9c1f4792e1eda9d3
 #: ../source/credits_copyright.rst:310
 msgid "Wadeb"
-msgstr ""
+msgstr "Wadeb"
 
 # d31511bb6b134d1a97526a06f61c5580
 #: ../source/credits_copyright.rst:312
 msgid "Activity Team"
-msgstr ""
+msgstr "Ekip aktivite"
 
 # c3c8d4782541466eaf4fb39b21ad2849
 #: ../source/credits_copyright.rst:315
 msgid "Troubleshooting Connectivity"
-msgstr ""
+msgstr "Depanaj Koneksyon"

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 78ef9545bd7544b3965666b649ade8c1
 #: ../source/starchart.rst:3
 msgid "StarChart"
-msgstr ""
+msgstr "StarChart"
 
 # ed9025f24dff4f2d96bd8874e71b3c8c
 #: ../source/starchart.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 1f7ca620c2e340399c698fba1d5c895d
 #: ../source/starchart.rst:8
@@ -33,6 +33,9 @@ msgid ""
 "of the visible stars, some of the larger and brighter deep-sky objects "
 "(DSOs), the \"classical\" planets, the sun and the moon."
 msgstr ""
+"| Star_ico | Aktivite sa a ap montre yon kat jeyografik nan syèl la ki "
+"montre pozisyon nan zetwal yo vizib, kèk nan pi gwo ak pi klere objè yo gwo "
+"twou san fon-syèl (DSOs), \"klasik\" planèt yo, solèy la ak lalin lan."
 
 # 357c092f938d4580b1d59a723e587ef7
 #: ../source/starchart.rst:12
@@ -41,6 +44,10 @@ msgid ""
 "time zone offset from GMT) that you wish to have a plot for. Alternatively, "
 "you can get a plot which is updated once a minute showing the current sky."
 msgstr ""
+"Ou ka presize yon kote (lonjitid ak latitid) ak tan an (ki gen ladan zòn tan"
+" konpanse nan GMT) ki ou ta vle gen yon konplo pou. Altènativman, ou kapab "
+"jwenn yon konplo ki se mete ajou yon fwa chak minit ki montre syèl la kounye"
+" a."
 
 # 3a9f1be929174924a022c3c1ca3efbc1
 #: ../source/starchart.rst:14
@@ -49,26 +56,35 @@ msgid ""
 "to find an object whose name you know or by using the \"Identify\" feature "
 "to get the name of something you see on the chart."
 msgstr ""
+"Ou ka aprann tou fason ou otou lè l sèvi avèk syèl la karakteristik nan "
+"\"Jwenn\" jwenn yon objè ki gen non ou konnen oswa ou lè l sèvi avèk "
+"karakteristik nan \"Idantifye\" jwenn non an nan yon bagay ou wè sou tablo "
+"a."
 
 # 5d3abcade85d425b899e91a552eab473
 #: ../source/starchart.rst:16
 msgid ""
 "If you have access to a small telescope or a pair of binoculars, StarChart "
-"can provide a magnified view encompassing 7 degrees of the sky centered on a "
-"point you specify."
+"can provide a magnified view encompassing 7 degrees of the sky centered on a"
+" point you specify."
 msgstr ""
+"Si ou gen aksè a yon teleskòp ti piti oubyen yon pè nan longvi, StarChart ka"
+" bay yon View mayifik kap anglobe 7 degre nan syèl la santre sou yon pwen ou"
+" presize."
 
 # f1e6b098050746c08cd2b62c06d0975f
 #: ../source/starchart.rst:18
 msgid ""
-"The latest version (StarChart 16) can be downloaded from `here <http://"
-"activities.sugarlabs.org/en-US/sugar/addon/4300>`_."
+"The latest version (StarChart 16) can be downloaded from `here "
+"<http://activities.sugarlabs.org/en-US/sugar/addon/4300>`_."
 msgstr ""
+"Ka vèsyon an dènye (StarChart 16) telechaje soti nan `isit la <http: // "
+"aktivite. sugarlabs. org / en-US / sik / addon / 4300> `_."
 
 # 0934fb2fb9cc409790645dbc350b2381
 #: ../source/starchart.rst:22
 msgid "Introduction"
-msgstr ""
+msgstr "Entwodiksyon"
 
 # cfc21c4864e34048b30d06d5ef548a37
 #: ../source/starchart.rst:24
@@ -80,6 +96,12 @@ msgid ""
 "light, compact and frugal of battery power while providing a reasonably "
 "large, reasonably high resolution color display."
 msgstr ""
+"StarChart te kreye pa yon pwogramè ak amatè astwonòm pwofesyonèl ki renmen "
+"vakans nan kote lwen yo retire nan vil lakay li ak apresye opòtinite pou yo "
+"wè syèl la soti nan kote sa yo. XO a se yon akseswar vwayaj bèl bagay pou "
+"sipòte sa a sòt de bagay sa depi li se limyè, kontra enfòmèl ant ak frugal "
+"nan pouvwa batri pandan y ap ofri yon rezonab gwo, rezonab segondè "
+"rezolisyon ekspozisyon koulè."
 
 # 17172220a7e44994bbdde04b4d43d35b
 #: ../source/starchart.rst:26
@@ -90,31 +112,40 @@ msgid ""
 "different location) or as a way to reprise the look of the sky as it was at "
 "some time in the past."
 msgstr ""
+"Aktivite sa a se gen entansyon sipòte etwal-gazer a ki pa gen okenn "
+"enstriman pi bon pase pwòp je l '. Li kapab itilize kòm yon gid nan syèl "
+"anlè tèt yo, kòm yon zouti pou planifikasyon obsèvasyon lavni (ki gen ladan "
+"obsèvasyon soti nan yon kote diferan) oswa kòm yon fason rpriz gade nan syèl"
+" la jan li te ye nan kèk tan nan tan lontan an."
 
 # e1bad0b46d82461ca0e0bf2bad74f8e7
 #: ../source/starchart.rst:30
 msgid "Using Star Chart"
-msgstr ""
+msgstr "Lè l sèvi avèk Tablo Star"
 
 # 2120d0ac9a844d2ca477a643dcf9433f
 #: ../source/starchart.rst:33
 msgid "Before you begin"
-msgstr ""
+msgstr "Anvan ou kòmanse"
 
 # 635e5d6d13e1431595a23270c8e937b8
 #: ../source/starchart.rst:35
 msgid ""
-"Be sure your XO has been set to the correct time-zone offset and the correct "
-"local time! The astronomical algorithms need to compute GMT (UT) and can't "
-"do that if \"now\" isn't the right time. (This is only an issue if you don't "
-"plan to always use \"specify time\". But it's still an untidy way to operate "
-"your computer.)"
+"Be sure your XO has been set to the correct time-zone offset and the correct"
+" local time! The astronomical algorithms need to compute GMT (UT) and can't "
+"do that if \"now\" isn't the right time. (This is only an issue if you don't"
+" plan to always use \"specify time\". But it's still an untidy way to "
+"operate your computer.)"
 msgstr ""
+"Asire w ke te XO ou te mete nan kòrèk tan-zòn nan konpanse ak tan ki kòrèk "
+"la lokal! . (Sa a se sèlman yon pwoblèm si ou pa fè plan yo toujou sèvi ak "
+"\"presize tan\". Men, li la toujou yon fason dezord yo opere òdinatè w lan. "
+")"
 
 # 29ade10bdfb84713bf8e6c011013c6a2
 #: ../source/starchart.rst:39
 msgid "Installation and set-up"
-msgstr ""
+msgstr "Enstalasyon ak mete-up"
 
 # 1b9b87e5e8724fafbd5512bfea1ab68d
 #: ../source/starchart.rst:41
@@ -123,69 +154,98 @@ msgid ""
 "installed. Re-start X (hit Ctrl-Alt-Backspace). Then, simply follow the "
 "usual procedure for downloading and installing an Extra Activity."
 msgstr ""
+"Pou pi bon rezilta, retire nenpòt vèsyon anvan nan StarChart ou ka te "
+"enstale. Re-kòmanse X (frape Ctrl-Alt-Backspace). Lè sa a, tou senpleman "
+"swiv pwosedi a nòmal pou Téléchargez ak enstale yon aktivite Siplemantè."
 
 # 7c1efb511e9c455bbd2afe1ee6c0eb74
 #: ../source/starchart.rst:43
 msgid ""
 "Once you have installed StarChart, start it and select the clock button."
 msgstr ""
+"Yon fwa ou te enstale StarChart, kòmanse li epi chwazi bouton an revèy."
 
 # 7232df55bb3d4ee4b14281f57ff06887
 #: ../source/starchart.rst:47
 msgid ""
-"Is the time (YYYY/MM/DD,HH:MM) the correct year, month, day, hour and minute "
-"for your location (it's 24-hour time -- 1:00 PM is 13:00 in that system)? Is "
-"the zone offset showing the correct hours and minutes that your locale is "
-"offset from GMT? (Hint: Eastern Standard Time in the USA is \"-5:00\" with "
+"Is the time (YYYY/MM/DD,HH:MM) the correct year, month, day, hour and minute"
+" for your location (it's 24-hour time -- 1:00 PM is 13:00 in that system)? "
+"Is the zone offset showing the correct hours and minutes that your locale is"
+" offset from GMT? (Hint: Eastern Standard Time in the USA is \"-5:00\" with "
 "respect to GMT.) If not, stop the activity and correct your time and time-"
 "zone using the Sugar control panel before proceeding."
 msgstr ""
+"Se tan a (ANE / MM / JJ, HH: MM) kòrèk ane, mwa, jou, èdtan an ak minit pou "
+"kote ou (li nan tan 24 èdtan - 1:00 PM se 13:00 nan ke sistèm)? . ) Si ou "
+"pa, sispann aktivite a ak korije tan ou ak tan-zòn lè l sèvi avèk panèl la "
+"kontwòl Sugar anvan pwosedi."
 
 # 24caf55d76bc4a2a8b7d240170ef56ba
 #: ../source/starchart.rst:49
 msgid ""
-"If the time and date are correct, the chart will be displaying the sky for a "
-"location in Massachusetts, USA as of right now. If you don't happen to be in "
-"that location, you will need to enter your longitude and latitude. Click on "
-"\"where\" to display the controls for doing this. You should be able to get "
-"your coordinates from any good map, Google Earth or simply use the published "
-"coordinates for any relatively nearby city or town. Another possibility is "
-"from a site on the internet such as http://www.mapquest.com/atlas which "
-"provides a map with latitude and longitude information from which you can "
-"interpolate your specific coordinates."
+"If the time and date are correct, the chart will be displaying the sky for a"
+" location in Massachusetts, USA as of right now. If you don't happen to be "
+"in that location, you will need to enter your longitude and latitude. Click "
+"on \"where\" to display the controls for doing this. You should be able to "
+"get your coordinates from any good map, Google Earth or simply use the "
+"published coordinates for any relatively nearby city or town. Another "
+"possibility is from a site on the internet such as "
+"http://www.mapquest.com/atlas which provides a map with latitude and "
+"longitude information from which you can interpolate your specific "
+"coordinates."
 msgstr ""
+"Si tan an ak dat yo kòrèk, tablo a pral montre syèl la pou yon kote nan "
+"Massachusetts, USA kòm nan kounye a. Si ou pa rive yo dwe nan ki kote, ou "
+"pral bezwen antre nan lonjitid ou ak latitid. Klike sou \"kote\" yo montre "
+"kontwole yo pou fè sa. Ou ta dwe kapab jwenn kowòdone ou nan nenpòt kat "
+"jeyografik bon, Google Latè oswa tou senpleman itilize kowòdone a pibliye "
+"pou nenpòt ki vil oswa lavil la relativman ki tou pre. Yon lòt posibilite se"
+" soti nan yon sit sou entènèt la tankou http: // www. MapQuest. com / Atlas "
+"ki bay yon kat jeyografik ak latitid ak lonjitid enfòmasyon ki soti nan ki "
+"ou ka entèpole kowòdone espesifik ou."
 
 # 7e35e200b97a4e1ca05dd3562217a485
 #: ../source/starchart.rst:51
 msgid ""
 "Don't be obsessive about the precision for this: the star chart will not "
 "look noticibly different if you are wrong by one or two degrees either way "
-"in latitude or longitude. Being off 100 km won't make enough of a difference "
-"to show. But be sure you select East or West longitude and North or South "
+"in latitude or longitude. Being off 100 km won't make enough of a difference"
+" to show. But be sure you select East or West longitude and North or South "
 "latitude! Then click \"Ok\" so the program knows you really want to change "
 "these settings."
 msgstr ""
+"Ou pa bezwen obsession sou presizyon an pou sa a: tablo a zetwal pa pral "
+"gade noticibly diferan si ou se sa ki mal pa youn oubyen de degre swa fason "
+"nan latitid oswa lonjitid. Pou ou kab vin nan 100 km pa pral fè ase nan yon "
+"diferans yo montre. Men, asire w ke ou chwazi East oswa West lonjitid ak "
+"North oswa South latitid! ."
 
 # 1890ff38f4734db59273918997954923
 #: ../source/starchart.rst:53
 msgid ""
 "Now I'd recommend clicking the \"Make Home\" button. StarChart will save "
-"this location as your \"home\" position. From now on, whenever you start the "
-"activity the location will default to these coordinates."
+"this location as your \"home\" position. From now on, whenever you start the"
+" activity the location will default to these coordinates."
 msgstr ""
+"Koulye a, mwen ta rekòmande pou klike sou bouton an \"Fè Kay\". StarChart "
+"pral delivre kote sa a kòm \"lakay\" ou pozisyon. Depi koulye a, chak fwa ou"
+" kòmanse aktivite a kote a pral default kowòdone sa yo."
 
 # 0556c38b19fa464bbaf87bfaa332ad9d
 #: ../source/starchart.rst:57
 msgid "How to read the plot"
-msgstr ""
+msgstr "Kouman li trase a"
 
 # 93b6b6287d064a6080a7afe6038016b5
 #: ../source/starchart.rst:59
 msgid ""
-"Stars are drawn (with default settings of the \"What\" menu tab controls) as "
-"white dots of different sizes. The brightest stars are drawn as the biggest "
-"dots; the dimmest stars are drawn as the smallest dots."
+"Stars are drawn (with default settings of the \"What\" menu tab controls) as"
+" white dots of different sizes. The brightest stars are drawn as the biggest"
+" dots; the dimmest stars are drawn as the smallest dots."
 msgstr ""
+"Stars yo trase (ak default anviwònman nan \"Ki sa ki\" kontwole yo tab meni)"
+" kòm pwen blan nan gwosè diferan. Zetwal yo pi klere yo trase kòm pi gwo "
+"pwen yo; ."
 
 # 880bf336412c4915bc5214bd5f3d79d2
 #: ../source/starchart.rst:61
@@ -193,6 +253,8 @@ msgid ""
 "The constellations are drawn as white lines forming the stick-figures "
 "defined by the International Astronomical Union."
 msgstr ""
+"Douz gwoup zetwal yo ap trase kòm liy blan fòme baton-figi yo defini nan "
+"Creole astwonomi Inyon."
 
 # 447987a62afb4c91bb346f7b3fca184f
 #: ../source/starchart.rst:63
@@ -200,35 +262,41 @@ msgid ""
 "The sun, moon and \"classical\" planets are drawn as their astrological "
 "symbols and plotted much larger than they actually appear."
 msgstr ""
+"Solèy la, lalin lan ak \"klasik\" planèt yo trase kòm senbòl Astwoloji yo ak"
+" konplo pi gwo pase yo aktyèlman parèt."
 
 # ca95cec8983b4cae8e7b37fc46091c2e
 #: ../source/starchart.rst:65
 msgid ""
-"Deep sky objects are plotted as areas of gray, with different \"decorations"
-"\", depending on the type of the object."
+"Deep sky objects are plotted as areas of gray, with different "
+"\"decorations\", depending on the type of the object."
 msgstr ""
+"Gwo twou san fon objè syèl yo konplo kòm zòn nan gri, ak diferan "
+"\"dekorasyon\", ki depann sou kalite a nan objè a."
 
 # fb70e2cf88db4ba499a06d92d0291283
 #: ../source/starchart.rst:67
 msgid ""
 "A diffuse nebula (such as the one in Orion) is plotted as a gray rectangle."
 msgstr ""
+"Yon Nebula difize (tankou yon sèl la nan Orion) konplo kòm yon rektang gri."
 
 # 88d92892e60b462ba67363030ed534b0
 #: ../source/starchart.rst:68
 msgid "A galaxy is plotted as a gray ellipse or circle with a white border."
 msgstr ""
+"Yon galaksi konplo kòm yon elips gri oswa sèk ki gen yon fwontyè blan."
 
 # 13cc2bc75f3c455386c811912d13f34a
 #: ../source/starchart.rst:69
 msgid ""
 "A planetary nebula is plotted as a gray circle with a central white dot."
-msgstr ""
+msgstr "Yon Nebula planetè konplo kòm yon sèk gri ak yon dot santral blan."
 
 # 7362c52dd3dc40e3b5eb1f19e252578c
 #: ../source/starchart.rst:70
 msgid "An open cluster is plotted as a gray circle with no border."
-msgstr ""
+msgstr "Yon gwoup louvri konplo kòm yon sèk gri ki pa gen okenn fwontyè."
 
 # 907bf462793c437d91bd877854a73744
 #: ../source/starchart.rst:71
@@ -236,6 +304,8 @@ msgid ""
 "A globular cluster is plotted as a gray circle with a white border and a "
 "central dot."
 msgstr ""
+"Yon gwoup globuleuz konplo kòm yon sèk gri ak yon fwontyè blan ak yon dot "
+"santral."
 
 # 15c6b6a0867643e88b7118217df07a0e
 #: ../source/starchart.rst:73
@@ -244,6 +314,9 @@ msgid ""
 "eccentricity, the orientation of the ellipse on the chart is arbitrary and "
 "does not reflect the galaxy's actual position angle."
 msgstr ""
+"Malgre ke elips ki reprezante yon galaksi se apeprè eksantrisite ki kòrèk "
+"la, oryantasyon an nan elips la sou tablo a se abitrè epi yo pa reflete "
+"aktyèl ang pozisyon galaksi a."
 
 # 6c972b2ce880485d90e932c08586f641
 #: ../source/starchart.rst:75
@@ -251,11 +324,13 @@ msgid ""
 "To identify symbols, you can correlate them to the `Astronomical Symbols on "
 "Wikipedia <http://en.wikipedia.org/wiki/Astronomical_symbols>`_"
 msgstr ""
+"Pou idantifye senbòl, ou ka correspond yo `Senbòl nan astwonomi sou "
+"Wikipedia <http: // en. wikipedia. org / wiki / Astronomical_symbols> `_"
 
 # 68bad1108c9747c0bd8533832b279273
 #: ../source/starchart.rst:79
 msgid "Operating Instructions"
-msgstr ""
+msgstr "Enstriksyon Operating"
 
 # 721da1eef86844d5ad07b2e790fc2743
 #: ../source/starchart.rst:81
@@ -264,41 +339,50 @@ msgid ""
 "current time. (This assumes you have done the steps described above in "
 "\"Installation and set-up\".)"
 msgstr ""
+"Ekspozisyon an premye pou StarChart pral montre syèl la pou lokalizasyon ou "
+"ak tan aktyèl la. (Sa a pansé ké ou te fè etap sa yo dekri anwo a nan "
+"\"Enstalasyon ak mete-up\". )"
 
 # 866031d96a964045ac297a5864b5a858
 #: ../source/starchart.rst:86
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 # fab7466bd79342c1b4b6857e84f8f3d6
 #: ../source/starchart.rst:90
 msgid "(We will go from left to right)"
-msgstr ""
+msgstr "(Nou pral ale de gòch a dwat)"
 
 # eba4be8856884782a1f4d8a0ff1e44bb
 #: ../source/starchart.rst:92
 msgid ""
 "|eye_ico| is for changing the appearance. For exapmle, it lets you change "
 "the color combinations of the map and decide how many stars you want to see "
-"and if you want the constellation figures. These settings get saved, too. So "
-"if you prefer black stars on white sky you can get that combination. Let's "
+"and if you want the constellation figures. These settings get saved, too. So"
+" if you prefer black stars on white sky you can get that combination. Let's "
 "walk through each option and see what it does to the appearance of the map."
 msgstr ""
+"| Eye_ico | se pou chanje aparans la. Pou exapmle, li pèmèt ou chanje "
+"konbinezon yo koulè nan kat jeyografik la ak deside ki jan anpil zetwal ou "
+"vle wè epi si ou vle figi yo konstelasyon. Anviwònman sa yo jwenn sove, tou."
+" Se konsa, si ou prefere zetwal nwa sou syèl blan ou ka jwenn ke konbinezon."
+" Se pou nou mache nan chak opsyon ak wè sa ki li fè sa nan aparans nan kat "
+"jeyografik la."
 
 # 132dd67e3754450c81ce07ef0e6bcab1
 #: ../source/starchart.rst:97
 msgid "Things you can do"
-msgstr ""
+msgstr "Bagay sa yo ou ka fè"
 
 # 5ccf2687cd5b47dbbc18889be8cea175
 #: ../source/starchart.rst:99
 msgid "Toggle Full-Screen"
-msgstr ""
+msgstr "Baskil Full Screen"
 
 # 882312e2bd844cec84a1f3ceec051718
 #: ../source/starchart.rst:103
 msgid "Toggle Night Vision"
-msgstr ""
+msgstr "Baskil Vizyon lannwit"
 
 # eb637d76a8624c42b1b3de96557da562
 #: ../source/starchart.rst:105
@@ -306,28 +390,39 @@ msgid ""
 "The \"Night Vision\" option makes the activity's display mostly red on "
 "black. Red light doesn't affect your night vision so using this mode lets "
 "your eyes read the map and still remain sensitive enough to see the dim "
-"stars. Hint: it also helps to set the brightness of the back-light as low as "
-"you can and still read the chart to minimize the effect on your night vision."
+"stars. Hint: it also helps to set the brightness of the back-light as low as"
+" you can and still read the chart to minimize the effect on your night "
+"vision."
 msgstr ""
+"\"Vizyon lannwit\" opsyon a fè ekspozisyon aktivite a nan sitou wouj sou "
+"nwa. Limyè wouj pa afekte vizyon lannwit ou pou lè l sèvi avèk sa a mòd "
+"pèmèt je ou li kat jeyografik la ak toujou rete sansib ase yo wè zetwal yo "
+"dim. Men yon tipoul: li tou ede yo mete limyè nan back-limyè a osi ba ke ou "
+"kapab epi ou toujou ap li tablo a pou misyon pou minimize efè a sou vizyon "
+"lannwit ou."
 
 # 9592f70ce0634c41aa8b43648a831cc5
 #: ../source/starchart.rst:109
 msgid "Invert Display"
-msgstr ""
+msgstr "Envèse Display"
 
 # d9b23f1e987b413ab000e4810db06dbc
 #: ../source/starchart.rst:111
 msgid ""
 "But sometimes you will find it easier to work with a chart that's black on "
-"white like a page in a book. This mode is not good for use at night but it's "
-"fine in a classroom or in daylight. To get a black chart on a white "
+"white like a page in a book. This mode is not good for use at night but it's"
+" fine in a classroom or in daylight. To get a black chart on a white "
 "background, set \"Invert Display\"."
 msgstr ""
+"Men, pafwa ou pral jwenn li pi fasil yo travay avèk yon tablo sa a, se nwa "
+"sou blan tankou yon paj nan yon liv. Sa a mòd se pa bon pou itilize nan "
+"mitan lannwit men li la amann nan yon sal klas oswa nan lajounen. Pou jwenn "
+"yon tablo nwa sou yon blan jan nou koumanse, mete \"Envèse Display\"."
 
 # 08d10e07323a4101bc5ef7658b37b55e
 #: ../source/starchart.rst:115
 msgid "Flip L/R"
-msgstr ""
+msgstr "Flip L / R"
 
 # 2d23e8ba01d94755a4db2ea891dc7279
 #: ../source/starchart.rst:117
@@ -337,21 +432,30 @@ msgid ""
 "face east and hold the map so that east is near the ground, you'll discover "
 "that with a terrestrial map, north on the map is now to your south! With "
 "StarChart's mirrored map, north is north and south is south when east is "
-"down. That means what you see on your XO's screen will match what you see in "
-"the sky."
+"down. That means what you see on your XO's screen will match what you see in"
+" the sky."
 msgstr ""
+"Nòmalman, StarChart montre kat jeyografik li yo ak bò solèy leve sou bò gòch"
+" la. Sa ka sanble enpè ou paske yon kat jeyografik terrestres ta montre bò "
+"solèy leve sou bò dwat la. Men, si ou fè fas a bò solèy leve ak kenbe kat la"
+" pou ke bò solèy leve se tou pre tè a, ou pral dekouvri ke ak yon kat "
+"jeyografik terrestres, nò sou kat jeyografik la se kounye a nan sid ou! . Sa"
+" vle di sa ou wè sou ekran an ou XO ap matche ak sa ou wè nan syèl la."
 
 # 2585fb174db2429f907efe692772f271
 #: ../source/starchart.rst:119
 msgid ""
-"But if you find it confusing to have east on the left and west on the right, "
-"you can set \"Flip L/R\" and get the map to be like a terrestrial map."
+"But if you find it confusing to have east on the left and west on the right,"
+" you can set \"Flip L/R\" and get the map to be like a terrestrial map."
 msgstr ""
+"Men, si ou jwenn li konfizyon gen solèy leve sou bò gòch la ak nan lwès sou "
+"bò dwat la, ou ka mete \"Flip L / R\" epi pou yo jwenn kat la yo dwe tankou "
+"yon kat jeyografik terrestres."
 
 # e0a5340207164ff69c491867b2756edf
 #: ../source/starchart.rst:123
 msgid "Draw Constellations"
-msgstr ""
+msgstr "Trase konstelasyon"
 
 # 6439092b27de48a88871eb353e1a97d7
 #: ../source/starchart.rst:125
@@ -364,11 +468,17 @@ msgid ""
 "these standard figures. But you can turn that off and just see the stars "
 "themselves if you want -- after all, there are no lines drawn in the sky!"
 msgstr ""
+"Stars yo gwoupe nan imajinè figi rele douz gwoup zetwal. Sa yo reprezante "
+"enstriman syantifik ak navigasyon, bondye yo ak deyès, bèt mitik ak reyèl ak"
+" lòt modèl ke gen moun ki te wè nan syèl la. Depi desen foto detaye ta fè "
+"tablo a twò konfizyon, astwonòm anjeneral trase senp bwa-figi. StarChart "
+"nòmalman simityè sa yo figi estanda. Men, ou ka vire ki koupe ak jis wè "
+"zetwal yo tèt yo si ou vle - apre tout, pa gen okenn liy trase nan syèl la!"
 
 # 02b3e9a1a6924eadb8c350462a208cd6
 #: ../source/starchart.rst:129
 msgid "Change magnitude level (Choose between 1 to 6)"
-msgstr ""
+msgstr "Nivo Chanjman grandè (Chwazi ant 1 a 6)"
 
 # 021e28b363864ce889c6be2859ddb5f4
 #: ../source/starchart.rst:131
@@ -379,6 +489,9 @@ msgid ""
 "without a telescope or binoculars on a really dark night will be about "
 "magnitude 6."
 msgstr ""
+"Stars vini nan brightnesses diferan. Astwonòm rele nivo sa yo nan klète "
+"\"anpler\". Zetwal yo pi klere yo se grandè zewo (byen, nan yon koup la ka, "
+"pi klere pase sa); ."
 
 # e730d5f976fc4e2198e8aaacc20e7da2
 #: ../source/starchart.rst:133
@@ -393,6 +506,14 @@ msgid ""
 "This brightness is about what you would see on an average night in suburban "
 "locations."
 msgstr ""
+"Gen zetwal yon anpil plis pase sa dim klere. Se konsa, si StarChart toujou "
+"trase tout zetwal yo ou te kapab wè, ta gen anpil (plis pase 1,000!) Ke li "
+"ta ka difisil pou ou pou w li kat la. Se konsa, gen nan yon kontwòl "
+"(aktyèlman sis nan yo) ki pèmèt ou chwazi ki jan dim zetwal yo aktivite a ta"
+" dwe deranje trase. StarChart défaut trase zetwal nan grandè 4 oswa pi "
+"klere. Sa a se yon konpwomi bon ant gen pa ase zetwal yo apresye sa syèl la "
+"sanble epi ki gen anpil ke li nan konfizyon. Klète sa a se sou sa ou ta wè "
+"sou yon jou lannwit mwayèn nan kote banlye."
 
 # 94ed581746e14ebaa153819d5fe49784
 #: ../source/starchart.rst:135
@@ -401,6 +522,9 @@ msgid ""
 "of the stars. This is what the sky might look like from the middle of a "
 "large city. (magnitude level 1)"
 msgstr ""
+"Isit la se sa trase a sanble lè ou te mande pou sèlman klere a nan zetwal "
+"yo. Sa a se sa syèl la ta ka gade tankou nan mitan an nan yon gwo vil. (Nivo"
+" grandè 1)"
 
 # 0ec2f502f9bd4ab09b7534723c870c61
 #: ../source/starchart.rst:139
@@ -408,33 +532,43 @@ msgid ""
 "And this is what the sky might look like from a mountain a long way from "
 "cities or towns on a moonless night. (magnitude level 6)"
 msgstr ""
+"Lè sa a se sa ki nan syèl la ta ka gade tankou soti nan yon ti mòn yon fason"
+" lontan soti nan tout lavil oswa lavil sou yon jou lannwit moonless. (Nivo "
+"grandè 6)"
 
 # a64a7cf4df144a299b88ac0165bcbb09
 #: ../source/starchart.rst:143
 msgid "(magnitude level 4)"
-msgstr ""
+msgstr "(Nivo grandè 4)"
 
 # dc96f578953a46e5b5b360ead83c3f3a
 #: ../source/starchart.rst:148
 msgid "Where |pos_ico| (Specify Location)"
-msgstr ""
+msgstr "Ki kote | pos_ico | (presize kote)"
 
 # 894a7bb9aa0942f48200f3fabae38196
 #: ../source/starchart.rst:152
 msgid ""
 "This is the menu tab that lets you tell StarChart from what place on earth "
-"you would like to see the sky plotted. Usually, this would be where you are, "
-"but sometimes you might want to see what the sky looks like to someone "
+"you would like to see the sky plotted. Usually, this would be where you are,"
+" but sometimes you might want to see what the sky looks like to someone "
 "living elsewhere."
 msgstr ""
+"Sa a se tab la meni ki pèmèt ou di StarChart soti nan sa ki kote sou tè a ou"
+" ta renmen wè syèl la konplo. Anjeneral, sa a ta dwe kote ou ye, men pafwa "
+"ou ta ka vle wè sa ki nan syèl la sanble ak yon moun k ap viv yon lòt kote."
 
 # ed40fef0849947f8bdb3b970e06c5bba
 #: ../source/starchart.rst:154
 msgid ""
 "A location on earth is specified by longitude and latitude. Longitudes go "
-"from zero to 180 degrees east or from zero to 180 degrees west. Latitudes go "
-"from zero to 90 degrees north or zero to 90 degrees south."
+"from zero to 180 degrees east or from zero to 180 degrees west. Latitudes go"
+" from zero to 90 degrees north or zero to 90 degrees south."
 msgstr ""
+"Yon kote sou latè se espesifye nan lonjitid ak latitid. Longitudes ale soti "
+"nan zewo rive 180 degre bò solèy leve oswa soti nan zewo rive 180 degre "
+"lwès. Latitid ale soti nan zewo rive 90 degre nò oswa zewo rive 90 degre nan"
+" sid."
 
 # 618161bbbc864eb6b21334ec70ec24db
 #: ../source/starchart.rst:156
@@ -444,9 +578,16 @@ msgid ""
 "minutes and seconds. In this second type of angle, you must use a form like "
 "\"123d27m33s\". Enter longitude (be sure to select east or west) and "
 "latitude (be sure to select north or south) and click on the \"Ok\" button. "
-"If the new location is substantially distant from the old, the star map will "
-"look very different."
+"If the new location is substantially distant from the old, the star map will"
+" look very different."
 msgstr ""
+"Aktivite a StarChart ap aksepte yon ang ke yon nimewo nan degre, ki gen "
+"ladan degre fraksyon (tankou \"123. 45 \") oswa yon ang kòm degre, minit ak "
+"segonn. Nan kalite sa a dezyèm nan ang, ou dwe itilize yon fòm tankou "
+"\"123d27m33s\". Antre nan lonjitid (asire w ke ou chwazi lès oswa lwès) ak "
+"latitid (asire w ke ou chwazi nò oswa sid), epi klike sou bouton an \"Ok\". "
+"Si kote a nouvo se anpil byen lwen soti nan fin vye granmoun lan, kat "
+"jeyografik nan zetwal pral gade trè diferan."
 
 # e6b2ac4ecbad40ceaea461f19cae9779
 #: ../source/starchart.rst:158
@@ -455,17 +596,20 @@ msgid ""
 "observatory coordinates. This setting is then remembered for all future "
 "StarChart sessions."
 msgstr ""
+"Bouton an \"Fè Kay\" pral mete kote a chwazi kòm default kowòdone Obsèvatwa "
+"ou. Se anviwònman sa a Lè sa a, vin chonje pou tout sesyon StarChart lavni."
 
 # 7db10b586a0a44619c19f3ecd0636270
 #: ../source/starchart.rst:163
 msgid "When |time_ico| (Specify Time)"
-msgstr ""
+msgstr "Lè | time_ico | (Espesifye Tan)"
 
 # 4a5f4dd870f442f7bede4610a56b8332
 #: ../source/starchart.rst:165
 msgid ""
-"These controls let you specify the time for which you want the chart plotted."
-msgstr ""
+"These controls let you specify the time for which you want the chart "
+"plotted."
+msgstr "Kontwòl sa yo kite ou presize tan an pou ki ou vle tablo a konplo."
 
 # bcdb888a187e454a9be5129164abf5f9
 #: ../source/starchart.rst:169
@@ -479,6 +623,14 @@ msgid ""
 "can also use these controls to specify that you want a chart for a "
 "particular time in the future or past."
 msgstr ""
+"Nòmalman, \"Koulye a,\" se chwazi ak aktyèl ane, mwa, jou, èdtan an ak minit"
+" ak nimewo a nan èd tan ak minit ki ou tan-zòn diferan de GMT pa yo montre "
+"nan tan la ak konpanse jaden. Anplis de sa, jaden an tan pral otomatikman "
+"mete ajou swiv aktyèl tan an lokal yo ak pral trase a otomatikman dwe "
+"rekalkile yon fwa yon minit. Nan sa a mòd, trase a ap matche ak syèl la "
+"kounye a ak ap deplase sou tan wout la nan syèl la fè. Men, ou ka tou "
+"itilize kontwole sa yo ou presize ke ou vle yon tablo pou yon tan patikilye "
+"nan tan kap vini an oswa sot pase."
 
 # 9489ed1e3f314d34a514e73b3ae59cbd
 #: ../source/starchart.rst:171
@@ -490,9 +642,18 @@ msgid ""
 "time separated by a colon (:). Example: 2008/02/20,22:00 would be 10 PM on "
 "the 20th of February, 2008. Next, if your location observes daylight time, "
 "you may need to add or subtract an hour from the time-zone offset value if "
-"the time you entered is on the \"other side of the daylight time boundary\". "
-"Finally, click \"Ok\" to get the new plot."
+"the time you entered is on the \"other side of the daylight time boundary\"."
+" Finally, click \"Ok\" to get the new plot."
 msgstr ""
+"Klike sou \"Espesifye tan\" bouton an radyo, depi \"Koulye a,\" se pa sa ou "
+"vle ankò. Koulye a, presize tan an nouvo, kòmanse ak ane a. Tan se te antre "
+"nan kòm yon ane kat chif, yon mwa de-chif ak yon jou de-chif, separe pa "
+"koupe (/) karaktè, yon vigil (,) ak Lè sa a, lè a ak minit nan tan 24 èdtan "
+"ki separe pa yon kolon . Egzanp: 2008/02 / 20,22: 00 ta dwe 10 PM sou 20yèm "
+"la nan mwa fevriye, 2008. Next, si kote ou ye obsève tan lajounen, ou ka "
+"bezwen fè adisyon oswa soustraksyon yon èdtan de tan-zòn konpanse valè a si "
+"tan an ou te antre nan se sou \"lòt bò a nan fwontyè a tan lajounen\". "
+"Finalman, klike sou \"Ok\" jwenn konplo a nouvo."
 
 # eed5fc6918d9468da00d0fac4ab85cb8
 #: ../source/starchart.rst:173
@@ -502,77 +663,90 @@ msgid ""
 "button will set the time back to the current time and resume automatically "
 "updating the time fields and the chart."
 msgstr ""
+"Lè ou klike sou \"Espesifye tan\" bouton an radyo, StarChart sispann "
+"ekspozisyon an soti nan ke yo te mete ajou otomatikman. Klike sou \"Koulye "
+"a,\" bouton an radyo pral mete tan an tounen nan tan aktyèl la ak rezime "
+"otomatikman à jaden yo tan ak tablo a."
 
 # 7332fc58051f4b40be2418993932fa65
 #: ../source/starchart.rst:178
 msgid "Locate |type_ico|"
-msgstr ""
+msgstr "Jwenn | type_ico |"
 
 # 9f42de5b3b4e48f08520a1ff961efef1
 #: ../source/starchart.rst:180
 msgid ""
-"These controls let you select an object and have it highlighted on the chart "
-"so you can tell where the object is in the sky. You can \"locate\" planets, "
-"stars (either by the constellation which contains the star or from a list of "
-"the brightest stars) or \"deep-sky\" objects."
+"These controls let you select an object and have it highlighted on the chart"
+" so you can tell where the object is in the sky. You can \"locate\" planets,"
+" stars (either by the constellation which contains the star or from a list "
+"of the brightest stars) or \"deep-sky\" objects."
 msgstr ""
+"Kontwòl sa yo kite ou chwazi yon objè epi yo gen li make sou tablo a pou ou "
+"kapab di ki kote objè a se nan syèl la. Ou ka \"jwenn\" planèt yo, zetwal "
+"(swa pa konstelasyon nan ki gen zetwal nan oswa soti nan yon lis nan zetwal "
+"yo pi klere) oswa \"gwo twou san fon-syèl\" objè."
 
 # b7ad727b5db448ab96b726f9bbefc830
 #: ../source/starchart.rst:182
 msgid "Planets"
-msgstr ""
+msgstr "Planèt"
 
 # d03f61c23faf449ca953ee52673c5601
 #: ../source/starchart.rst:183
 msgid "Stars by Constellation"
-msgstr ""
+msgstr "Stars pa Konstelasyon"
 
 # 87a3c4aa13fa4c618659fa058802a416
 #: ../source/starchart.rst:184
 msgid "Brightest Stars"
-msgstr ""
+msgstr "Klere Stars"
 
 # 725c3ca16d7e4ecf878c463dbb9033d9
 #: ../source/starchart.rst:185
 msgid "Deep-sky Objects"
-msgstr ""
+msgstr "Gwo twou san fon-syèl objè"
 
 # b21a727015c54cebb5aad19e085e0248
 #: ../source/starchart.rst:190
 msgid ""
-"You begin by selecting the type of object. Then you pick the object itself..."
+"You begin by selecting the type of object. Then you pick the object "
+"itself..."
 msgstr ""
+"Ou kòmanse pa chwazi ki kalite objè. Lè sa a, ou chwazi objè a li menm. . ."
 
 # e90be018a08d451bbdd88fd7b81a9f0c
 #: ../source/starchart.rst:192
 msgid ""
 "Select from the list and sub-lists to locate whatever object you wish to."
-msgstr ""
+msgstr "Chwazi nan lis la ak sub-lis jwenn tou sa objè ou ta vle."
 
 # cdacd66ca7f94f31bcdbbd7d79b80fc8
 #: ../source/starchart.rst:194
 msgid "Examples:"
-msgstr ""
+msgstr "Egzanp:"
 
 # 1411cdc498df458b93c4cc15863ffdda
 #: ../source/starchart.rst:206
 msgid "Reporting Bugs"
-msgstr ""
+msgstr "Rapòte Pinèz"
 
 # 945befc7621740f7b30dddeb20bf235e
 #: ../source/starchart.rst:207
 msgid ""
 "To report a bug or to see what bugs have been reported and/or fixed, please "
-"go to the `bug tracking page <http://wiki.laptop.org/go/StarChart/"
-"Bug_tracking>`_."
+"go to the `bug tracking page "
+"<http://wiki.laptop.org/go/StarChart/Bug_tracking>`_."
 msgstr ""
+"Pou rapòte yon ensèk oswa yo wè sa ki pinèz yo te rapòte ak / oswa fiks, "
+"tanpri ale nan `ensèk paj an swiv <http: // wiki. laptop. org / ale / "
+"StarChart / Bug_tracking> `_."
 
 # 959bcc800d5e4f56bc34e0c36f524155
 #: ../source/starchart.rst:210
 msgid "References"
-msgstr ""
+msgstr "Referans"
 
 # 7b64c4d73b2a46f680e58616600d57d4
 #: ../source/starchart.rst:211
 msgid "`Wiki page <http://wiki.laptop.org/go/StarChart>`_"
-msgstr ""
+msgstr "`Paj Wiki <http: // wiki. laptop. org / ale / StarChart> `_"

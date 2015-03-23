@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 865532f525624b3eb06f0e8720a596a6
 #: ../source/measure.rst:3
 msgid "Measure"
-msgstr ""
+msgstr "Mezi"
 
 # 916b1673640244e1be25e2c331c552ee
 #: ../source/measure.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # cad0910cb91d4c56a595c64be93f10ae
 #: ../source/measure.rst:8
@@ -35,6 +35,10 @@ msgid ""
 "and time is on the horizontal axis. That is, the laptop functions like a "
 "machine called an oscilloscope."
 msgstr ""
+"Aktivite sa a trase yon foto nan son an tande pa mikwofòn la entèn oswa nan "
+"prezan an siyal sou priz an mikwofòn. Plis espesyalman li trase yon graf nan"
+" opinyon sa a kont tan, D 'a se sou aks vètikal la ak tan se sou aks la "
+"orizontal. Sa se, fonksyon yo laptop tankou yon machin rele yon osiloskop."
 
 # 3ae347327c4046e1acca5af2b2cc8747
 #: ../source/measure.rst:10
@@ -42,75 +46,81 @@ msgid ""
 "As well as graphing signal as a function of time, Measure can also graph as "
 "a function of frequency."
 msgstr ""
+"Kòm byen ke grafik siyal kòm yon fonksyon nan tan, Mezi kapab tou graf kòm "
+"yon fonksyon nan frekans."
 
 # e52d7871a7004c99906a92d185812c8e
 #: ../source/measure.rst:12
 msgid ""
 "The XO-1 laptop is only capable of mono input, the XO-1.5 and XO-1.75 are "
-"capable of stereo input on their microphone socket and can graph two signals "
-"at once."
+"capable of stereo input on their microphone socket and can graph two signals"
+" at once."
 msgstr ""
+"Laptop XO a-1 se sèlman ki kapab D 'mono, XO a-1. 5 ak XO-1. 75 yo kapab nan"
+" opinyon stereo sou priz mikwofòn yo epi yo ka fè chema de siyal nan yon "
+"fwa."
 
 # b01aec2ac9fd4d3c9d2169fe3ba60d81
 #: ../source/measure.rst:17
 msgid "Using"
-msgstr ""
+msgstr "Lè l sèvi avèk"
 
 # 32a843946a844bcaadf572667cf2ded9
 #: ../source/measure.rst:21
 msgid ""
 "Select secondary toolbar - allows the Activity's Journal entry to be renamed"
 msgstr ""
+"Chwazi toolbar segondè - pèmèt Journal antre Aktivite an yo dwe chanje non"
 
 # 3860d8017b51420397b8a7e62f59c67e
 #: ../source/measure.rst:22
 msgid "Select secondary toolbar - measurement settings"
-msgstr ""
+msgstr "Chwazi toolbar segondè - anviwònman mezi"
 
 # 12468df1bad740c2bb00e29fbd6364b7
 #: ../source/measure.rst:23
 msgid "The selected input type - Sound (AC voltage), resistance or DC voltage"
-msgstr ""
+msgstr "Kalite a chwazi D '- Son (AC vòltaj), rezistans oswa DC vòltaj"
 
 # d7ac7b5883634aed80eb6256769db8a9
 #: ../source/measure.rst:24
 msgid "The time scale"
-msgstr ""
+msgstr "Echèl la tan"
 
 # cf4a0bac0884434fae098c14ddb4fe44
 #: ../source/measure.rst:25
 msgid "Freeze the display"
-msgstr ""
+msgstr "Glase ekspozisyon an"
 
 # bf726c0131c04597ba6f481ce46e1b60
 #: ../source/measure.rst:26
 msgid "Capture sample now - saves an image of the wave in the Journal"
-msgstr ""
+msgstr "Echantiyon Capture kounye a - sove yon imaj de vag nan nan jounal la"
 
 # e1afea1a82af49d8bb783c20e6ec638b
 #: ../source/measure.rst:27
 msgid "Stop - exits the Activity"
-msgstr ""
+msgstr "One Stop - sòti aktivite a"
 
 # 62490a7787c04a8e9c3bbc85ab823441
 #: ../source/measure.rst:28
 msgid "Invert - invert the display"
-msgstr ""
+msgstr "Invert - Invert ekspozisyon an"
 
 # 86e032304fb542628967a845d2ab5c2b
 #: ../source/measure.rst:29
 msgid "Use these sliders to control the sensitivity"
-msgstr ""
+msgstr "Sèvi ak koulis sa yo kontwole sansiblite a"
 
 # 9c4a0ee50e7d4036ae21f6ee15ec6407
 #: ../source/measure.rst:30
 msgid "The settings that are selected"
-msgstr ""
+msgstr "Anviwònman yo ke yo chwazi"
 
 # 7b19b8897f0f4f88aa67d0d307d7d538
 #: ../source/measure.rst:34
 msgid "The secondary toolbar - measurement settings"
-msgstr ""
+msgstr "Ba ikòn nan segondè - anviwònman mezi"
 
 # 79db95d7f5814ddb999891bdd50a8996
 #: ../source/measure.rst:36
@@ -118,16 +128,18 @@ msgid ""
 "Sound - use this setting with the internal microphone, external microphone "
 "and external AC signals"
 msgstr ""
+"Son - sèvi ak anviwònman sa a ak mikwofòn la entèn yo, mikwofòn ekstèn ak "
+"siyal AC ekstèn"
 
 # e44b0f0d5dd443f584fa374ef2f6adcb
 #: ../source/measure.rst:38
 msgid "Resistance sensor - use with external resistive type transducers"
-msgstr ""
+msgstr "Rezistans Capteur - sèvi ak ak resistive ekstèn traducteurs kalite"
 
 # 9be7058b35204864995c7c1859a280ba
 #: ../source/measure.rst:40
 msgid "Voltage sensor - use with external sensors which generate a voltage"
-msgstr ""
+msgstr "Voltage Capteur - sèvi ak ak detèktè ekstèn ki jenere yon vòltaj"
 
 # ce5d48254a334710a6538987375cc2c8
 #: ../source/measure.rst:42
@@ -135,6 +147,7 @@ msgid ""
 "Time base/frequency - graphs the signal vs. time or graphs amplitude vs. "
 "frequency"
 msgstr ""
+"Tan baz / frekans - graf siyal la vs. tan oswa graf anplitid vs. frekans"
 
 # 1c7540c634c04172b17b9d471cae4f2d
 #: ../source/measure.rst:44
@@ -142,6 +155,8 @@ msgid ""
 "Sample interval - a text file 'Measure Log' is saved to the journal, it "
 "contains one sample per interval"
 msgstr ""
+"Egzanp entèval - se yon dosye tèks 'Mezire Log' sove nan jounal la, li gen "
+"yon sèl echantiyon pou chak entèval"
 
 # 6c604efa87ed41f59c467efc63338c69
 #: ../source/measure.rst:46
@@ -149,6 +164,8 @@ msgid ""
 "Starts/stops saving a text file 'Measure Log' with measured values as "
 "readable text"
 msgstr ""
+"Kòmanse / sispann ekonomize yon dosye tèks 'Mezire Log' ak valè mezire kòm "
+"tèks lizib"
 
 # a508406a136e4a7999b0ae267e1a1763
 #: ../source/measure.rst:48
@@ -157,11 +174,14 @@ msgid ""
 "synchronize the sample period to the waveform so that the sample will start "
 "on a rising edge or falling edge"
 msgstr ""
+"Karakteristik sa a se pa sa k ap travay byen nan vèsyon 36, entansyon an se "
+"nan senkroniz peryòd ki nan egzanp lan ond la pou ke echantiyon an pral "
+"kòmanse sou yon kwen rebò rising ou tonbe"
 
 # 3e934b0259db45dc824ccc18ddcf4898
 #: ../source/measure.rst:51
 msgid "Applying"
-msgstr ""
+msgstr "Aplike"
 
 # a4178134234b4ddb896223b3fe76b053
 #: ../source/measure.rst:53
@@ -170,16 +190,19 @@ msgid ""
 "whistling, musical instruments, the Tam Tam musical Activity. The Turtle "
 "Blocks Activity can generate an audio tone, see the Python Block."
 msgstr ""
+"Kite timoun yo eksperyans ak mikwofòn la entèn, eseye chante, sifle, "
+"enstriman mizik, Tam Tam an aktivite mizik. Aktivite nan Turtle Blòk ka "
+"jenere yon ton odyo, wè blòk nan Piton."
 
 # fdbdb180edd44c1498673d05900bd756
 #: ../source/measure.rst:55
 msgid "The children should learn through guided discovery that:"
-msgstr ""
+msgstr "Timoun yo ta dwe aprann nan dekouvèt gide ke:"
 
 # 689e49f882894c65b3dc4ec2bababe30
 #: ../source/measure.rst:57
 msgid "sound is a pressure wave"
-msgstr ""
+msgstr "son se yon vag presyon"
 
 # 4bad1caac5fe4ac0be286cfb4a2364e9
 #: ../source/measure.rst:58
@@ -187,36 +210,38 @@ msgid ""
 "the pitch of the sound is determined by the frequency or cycles per second "
 "(Hz)"
 msgstr ""
+"se anplasman an nan son an detèmine pa frekans lan oswa sik pou chak dezyèm "
+"(Hz)"
 
 # b04cefbd77b3479d91dabb26567cf005
 #: ../source/measure.rst:59
 msgid "the loudness of a sound is determined by the amplitude"
-msgstr ""
+msgstr "se volim a nan yon son detèmine pa anplitid la"
 
 # 938445780a8449dca5e6586bb74bd97d
 #: ../source/measure.rst:60
 msgid "sounds contain multiple frequency components or harmonics"
-msgstr ""
+msgstr "son gen konpozan frekans miltip oswa Harmony"
 
 # 7afc56719cb2415080393ea32e38ef22
 #: ../source/measure.rst:61
 msgid "the more pure sounds have less harmonics"
-msgstr ""
+msgstr "son yo ki pi plis pi bon kalite gen mwens Harmony"
 
 # a7f196468bd047db9b5874608530776e
 #: ../source/measure.rst:64
 msgid "Sharing"
-msgstr ""
+msgstr "Pataje"
 
 # 8dcd10d5f45e47998359d950a86f3be7
 #: ../source/measure.rst:66
 msgid "This Activity does not support sharing."
-msgstr ""
+msgstr "Aktivite sa a pa sipòte pataje."
 
 # 9d5ecba1b4304fc79376289e9514d243
 #: ../source/measure.rst:69
 msgid "Extending"
-msgstr ""
+msgstr "Pwolonje"
 
 # ffd16b6ff4a8479b875133b7a59caee6
 #: ../source/measure.rst:71
@@ -225,26 +250,29 @@ msgid ""
 "including switches, photocells, temperature sensors, inductive loops, hall "
 "effect sensors, soil probes and many more."
 msgstr ""
+"Mezi ki kapab pran opinyon ki soti nan yon pakèt domèn nan detèktè ekstèn ki"
+" gen ladan switch, fotoelèktrik, detèktè tanperati a, pasan endiktif, "
+"detèktè efè sal, sond tè ak anpil plis."
 
 # 638fe0f86bc04c8e836c616afd31427b
 #: ../source/measure.rst:73
 msgid "Care should be taken not to exceed the allowable input voltage:"
-msgstr ""
+msgstr "Swen yo ta dwe pran pa dwe depase vòltaj la opinyon admisib:"
 
 # 528626ec7a294c949af02fd963197966
 #: ../source/measure.rst:75
 msgid "XO-1 -0.5 V to 5 V"
-msgstr ""
+msgstr "XO-1 -0. 5 V a 5 V"
 
 # ee9e9c068a6549b295c06f25fb97cb21
 #: ../source/measure.rst:77
 msgid "XO-1.5 -6 V to +9 V"
-msgstr ""
+msgstr "XO-1. 5 -6 V +9 V"
 
 # 72e0464f322e486c87fc741e3287ced5
 #: ../source/measure.rst:79
 msgid "XO-1.75 -6 V to +9 V"
-msgstr ""
+msgstr "XO-1. 75 -6 V +9 V"
 
 # 6d5e6b16c4df445cac918e2ddae63964
 #: ../source/measure.rst:81
@@ -252,11 +280,16 @@ msgid ""
 "It is a good idea, particularly on the XO-1, to put a resistor of 680 ohms "
 "in the phono plug, this increases the allowable input voltage range."
 msgstr ""
+"Li se yon bon lide, patikilyèman sou XO a-1, yo mete yon rezisteur nan 680 "
+"om nan ploge nan fono, sa a ogmante seri a admisib vòltaj opinyon."
 
 # 77b7be02b4fb4e09897f7b1a217b53b1
 #: ../source/measure.rst:83
 msgid ""
-"You can find ideas for fun science experiments at http://wiki.sugarlabs.org/"
-"go/Activities/TurtleArt/Using_Turtle_Art_Sensors and http://wiki.laptop.org/"
-"go/Measure"
+"You can find ideas for fun science experiments at "
+"http://wiki.sugarlabs.org/go/Activities/TurtleArt/Using_Turtle_Art_Sensors "
+"and http://wiki.laptop.org/go/Measure"
 msgstr ""
+"Ou ka jwenn ide pou eksperyans syans plezi nan http: // wiki. sugarlabs. org"
+" / ale / Aktivite / TurtleArt / Using_Turtle_Art_Sensors ak http: // wiki. "
+"laptop. org / ale / Mezi"

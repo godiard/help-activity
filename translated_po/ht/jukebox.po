@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,24 +19,26 @@ msgstr ""
 # 8d390dbf59af452cbc4416ca070ca25d
 #: ../source/jukebox.rst:3
 msgid "Jukebox"
-msgstr ""
+msgstr "Jukebox"
 
 # 5345eb4a2b8f4c009635d63aa346554d
 #: ../source/jukebox.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # f2eb29ab346f4c25a1907d0213256e1d
 #: ../source/jukebox.rst:8
 msgid ""
-"Jukebox is the media player to play different kinds of audio and video files "
-"including online streams. It also supports playlists like .m3u and .pls."
+"Jukebox is the media player to play different kinds of audio and video files"
+" including online streams. It also supports playlists like .m3u and .pls."
 msgstr ""
+"Jukebox se jwè a medya yo jwe diferan kalite odyo ak dosye videyo ki gen "
+"ladan sous dlo sou entènèt. Li sipòte tou Playlists tankou. M3U ak. pls."
 
 # 090a08897da845cebaf43d11451e6481
 #: ../source/jukebox.rst:11
 msgid "Where to get Jukebox"
-msgstr ""
+msgstr "Ki kote yo ka resevwa Jukebox"
 
 # a46fdf8d89e54d108401adf3dc00e8d2
 #: ../source/jukebox.rst:13
@@ -45,87 +47,96 @@ msgid ""
 "some reason Jukebox is not installed, it can be downloaded from its "
 "`Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4045>`_"
 msgstr ""
+"Se Jukebox enkli nan degaje yo estanda nan lojisyèl an OLPC. Si pou kèk "
+"rezon Jukebox se pa sa enstale, li ka telechaje soti nan `paj aktivite li yo"
+" <http: // aktivite. sugarlabs. org / en-US / sik / addon / 4045> `_"
 
 # 45df8c649e704f1cb9005979c03889ee
 #: ../source/jukebox.rst:18
 msgid "Using"
-msgstr ""
+msgstr "Lè l sèvi avèk"
 
 # 7c206fb1ded44b34994b47004912cc40
 #: ../source/jukebox.rst:20
 msgid ""
-"Across the lower area, you can see the videos and if being the corresponding "
-"option checked will also appreciate the playlist, and at the top, there are "
-"options to control the flow, and how to view the current track"
+"Across the lower area, you can see the videos and if being the corresponding"
+" option checked will also appreciate the playlist, and at the top, there are"
+" options to control the flow, and how to view the current track"
 msgstr ""
+"Tou patou nan zòn nan pi ba, ou ka wè videyo yo epi si yo te opsyon nan "
+"korespondan tcheke ap apresye tou playlist la, ak nan tèt la, gen opsyon a "
+"kontwole koule nan, ak ki jan yo wè tras aktyèl la"
 
 # e16576a716b54a7faae28d4965629dd0
 #: ../source/jukebox.rst:24
 msgid "The Toolbars"
-msgstr ""
+msgstr "D yo"
 
 # ba8f8128dce342d29a3cf6e4d258b609
 #: ../source/jukebox.rst:28
 msgid "Expand visual options."
-msgstr ""
+msgstr "Elaji opsyon vizyèl."
 
 # df1e9de3445f4d06b8e674500f0a64f3
 #: ../source/jukebox.rst:29
 msgid "Load news tracks."
-msgstr ""
+msgstr "Tren nouvèl chaj."
 
 # a41cd08fb13848f3ad3d3612895ea1ca
 #: ../source/jukebox.rst:30
 msgid "Remove actual track."
-msgstr ""
+msgstr "Retire aktyèl track."
 
 # 9155206028b44430890e264e527a8db1
 #: ../source/jukebox.rst:31
 msgid "Previous track."
-msgstr ""
+msgstr "Previous tras."
 
 # 7eb0d15b047c41ecab1c730f9574fd6a
 #: ../source/jukebox.rst:32
 msgid "Play/Pause actual track."
-msgstr ""
+msgstr "Jwe / Pòz aktyèl track."
 
 # b2da67f2993342ffa226ddf80ab689db
 #: ../source/jukebox.rst:33
 msgid "Next track."
-msgstr ""
+msgstr "Next tras."
 
 # 99b98d2846ac450da147cf5087af8ade
 #: ../source/jukebox.rst:34
 msgid "Control the track progress"
-msgstr ""
+msgstr "Kontwole pwogrè nan tras"
 
 # 577e1599f2c04b04b27d6b922263c94e
 #: ../source/jukebox.rst:38
 msgid "The Toolbar Sub Menus"
-msgstr ""
+msgstr "Sub nan Toolbar Meni"
 
 # 25caa9cea0b647abb2a670d4efa1300e
 #: ../source/jukebox.rst:42
 msgid "Show/Hide the playlist"
-msgstr ""
+msgstr "Show / Hide playlist la"
 
 # a3f1350121fa4507a8c718b914a82c14
 #: ../source/jukebox.rst:43
 msgid "Fullscreen mode/Normal mode"
-msgstr ""
+msgstr "Mòd foulskrin / mòd nòmal"
 
 # 4b78388a6705465b9e51f8c0ff86baea
 #: ../source/jukebox.rst:46
 msgid "More about Jukebox"
-msgstr ""
+msgstr "Plis enfòmasyon sou Jukebox"
 
 # 9da7020c52a14bc385d4d504a0836ff3
 #: ../source/jukebox.rst:48
 msgid ""
-"If you open more than one media file, Jukebox will save a \"play list\" with "
-"all the files you selected. Then you can create list by topics, and open all "
-"the files later just selecting the list saved in your Journal."
+"If you open more than one media file, Jukebox will save a \"play list\" with"
+" all the files you selected. Then you can create list by topics, and open "
+"all the files later just selecting the list saved in your Journal."
 msgstr ""
+"Si ou louvri plis pase yon dosye medya, Jukebox pral delivre yon \"lis jwe\""
+" ak tout dosye yo ou chwazi. Lè sa a, ou kapab kreye lis pa sijè, ak louvri "
+"tout dosye yo pita jis chwazi lis la sove nan jounal ou."
 
 # 61cc3895df234fd3a6396f3643ea5cc9
 #: ../source/jukebox.rst:51
@@ -134,3 +145,6 @@ msgid ""
 "Jukebox, without copying them in the Journal, that is really useful if the "
 "files are too big."
 msgstr ""
+"Ou kapab louvri dosye sitiye nan aparèy ekstèn tankou yon aparèy USB, ki "
+"soti nan Jukebox, san yo pa kopye yo nan jounal la, ki se reyèlman itil si "
+"dosye yo yo se twò gwo."

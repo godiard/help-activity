@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # 789f7a5d7b2d42d2837e3c43caa3a117
 #: ../source/schoolserver.rst:3
 msgid "XS school server"
-msgstr ""
+msgstr "Sèvè lekòl XS"
 
 # 57ffbbe517284e449a652e743f75e47e
 #: ../source/schoolserver.rst:6
 msgid "Overview"
-msgstr ""
+msgstr "Apèsi sou lekòl la"
 
 # 9a35dfa6cc2344ea910f2d3f73ff480a
 #: ../source/schoolserver.rst:8
@@ -34,44 +34,60 @@ msgid ""
 "compatible) computers. These could be conventional servers such as rack-"
 "mounted computers, purpose-built low-power machines, or even netbooks."
 msgstr ""
+"Sèvè a lekòl XO, oswa X, se youn nan pwodwi yo nan pwojè a OLPC, ki fèt yo "
+"konplete konpitè pòtatif li a XO. X yo se enstale sou x86 (Intel-konpatib) "
+"òdinatè. Sa yo ta ka serveurs konvansyonèl tankou etajè-monte òdinatè, bi-"
+"bati machin ki ba-pouvwa, oswa menm netbooks."
 
 # bd2675f278ba451784dcd1762e9fd965
 #: ../source/schoolserver.rst:10
 msgid ""
-"The OLPC XS provides additional infrastructure extending the capabilities of "
-"the laptops. While the laptops are self-sufficient for many learning "
+"The OLPC XS provides additional infrastructure extending the capabilities of"
+" the laptops. While the laptops are self-sufficient for many learning "
 "activities, other activities and services depend on the XS providing "
 "connectivity, shared resources and services. The XS provides XO machines "
 "with network connectivity for backups, anti-theft leases, web browsing, "
-"system, content updates, and asynchronous collaboration tools such as Moodle."
+"system, content updates, and asynchronous collaboration tools such as "
+"Moodle."
 msgstr ""
+"OLPC X yo bay plis enfrastrikti pwolonje kapasite yo nan laptops yo. Pandan "
+"ke laptops yo se endepandan pou aktivite aprantisaj anpil, lòt aktivite ak "
+"sèvis depann sou X yo bay koneksyon, resous ak sèvis pataje. XS a bay machin"
+" XO ak koneksyon rezo pou sovgad, lwe anti-vòl, Navigasyon entènèt, sistèm, "
+"dènye kontni, ak zouti kolaborasyon asenkron tankou moodl."
 
 # 2db2a0c2be74441ab2ac209348741171
 #: ../source/schoolserver.rst:13
 msgid "Installation"
-msgstr ""
+msgstr "Enstalasyon"
 
 # 4b69fe0b2c1d4d859f426f461f7e84fe
 #: ../source/schoolserver.rst:15
 msgid "Two installation options are available:"
-msgstr ""
+msgstr "De opsyon enstalasyon yo disponib:"
 
 # d70b5a8f080f40d68ebfb83693cbb6ab
 #: ../source/schoolserver.rst:17
 msgid ""
 "XS installation CD (recommended): download and burn a CD image, and use the "
-"resultant CD to install the system. See details at http://wiki.laptop.org/go/"
-"XS_Installing_Software_0.7#Installing_from_CD"
+"resultant CD to install the system. See details at "
+"http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_from_CD"
 msgstr ""
+"XS enstalasyon CD (rekòmande): download yo ak boule yon imaj CD, epi sèvi ak"
+" CD a resultant yo enstale sistèm nan. Al gade nan detay nan http: // wiki. "
+"laptop. org / ale / XS_Installing_Software_0. 7 # Installing_from_CD"
 
 # 7bfe140c7f9a4bab919fe9c5ca824bcc
 #: ../source/schoolserver.rst:19
 msgid ""
-"On top of another system (advanced): install the XS software packages on top "
-"of an existing operating system installation. See details at http://wiki."
-"laptop.org/go/"
-"XS_Installing_Software_0.7#Installing_on_top_of_existing_OS_installation"
+"On top of another system (advanced): install the XS software packages on top"
+" of an existing operating system installation. See details at "
+"http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_on_top_of_existing_OS_installation"
 msgstr ""
+"Sou tèt yon lòt sistèm (avanse): enstale pakè yo lojisyèl XS sou tèt yon "
+"enstalasyon sistèm opere ki deja egziste. Al gade nan detay nan http: // "
+"wiki. laptop. org / ale / XS_Installing_Software_0. 7 # "
+"Installing_on_top_of_existing_OS_installation"
 
 # 0d2a859d5ddc47f788d5bf11bf591283
 #: ../source/schoolserver.rst:21
@@ -79,11 +95,13 @@ msgid ""
 "The installation is fairly straight forward and requires minimal "
 "configuration after the initial installation to the XS hard drive."
 msgstr ""
+"Enstalasyon an se jistis dwat devan epi li mande konfigirasyon minim apre "
+"enstalasyon inisyal la XS kondwi a difisil."
 
 # 2c8da28b69a54aa2b1d74e5cdd667404
 #: ../source/schoolserver.rst:24
 msgid "Configuration"
-msgstr ""
+msgstr "Nou konte ofri sèvis"
 
 # d788da1d001a4076ae8255d9fa375545
 #: ../source/schoolserver.rst:26
@@ -92,6 +110,9 @@ msgid ""
 "always 'schoolserver'. So, using a domain name like example.org will give "
 "you schoolserver.example.org."
 msgstr ""
+"Konfigirasyon XS la enplike nan chwazi yon non domèn sèvè. Hostname a se "
+"toujou 'schoolserver'. Se konsa, lè l sèvi avèk yon non domèn tankou egzanp."
+" org pral ba ou schoolserver. egzanp. org."
 
 # 5fe976e652024ceb849c672daf6d050d
 #: ../source/schoolserver.rst:28
@@ -101,36 +122,50 @@ msgid ""
 "point. However, if the school already has its own network running its own "
 "DHCP services, the XS networking can be modified to work with the existing "
 "infrastructure. The XS can work with two Ethernet cards, where one works as "
-"a WAN interface, while the other works as the LAN interface. The XS can also "
-"work with a single Ethernet card where it works as a LAN interface for "
+"a WAN interface, while the other works as the LAN interface. The XS can also"
+" work with a single Ethernet card where it works as a LAN interface for "
 "schools without WAN (Internet) connectivity. Optionally, such a server can "
 "provide WAN connectivity using a USB-to-Ethernet adapter."
 msgstr ""
+"XS la gen yon rezo sèvè-style konfigirasyon jistis estanda. XS a bay dkp ak "
+"dns sèvis nan tout XO yo ki konekte nan li via yon pwen aksè san fil. "
+"Sepandan, si lekòl la deja gen rezo pwòp li yo kouri sèvis pwòp dkp li yo, "
+"rezo a XS kapab modifye yo travay avèk enfrastrikti a ki deja egziste. X yo "
+"ka travay avèk de kat Ethernet, kote yon travay kòm yon koòdone WAN, pandan "
+"y ap travay yo lòt kòm koòdone nan LAN. X yo ka travay tou ak yon kat "
+"Ethernet sèl kote li travay kòm yon koòdone LAN pou lekòl san yo pa WAN "
+"(entènèt) koneksyon. Opsyonèlman, tankou yon sèvè ka bay WAN koneksyon lè l "
+"sèvi avèk yon adaptè USB-a-Ethernet."
 
 # e8c0b6be22c24feab614202827dce55f
 #: ../source/schoolserver.rst:31
 msgid "Services"
-msgstr ""
+msgstr "Sèvis"
 
 # f0b350e6a18e4c34a29e3216bdfa351c
 #: ../source/schoolserver.rst:34
 msgid "Collaboration"
-msgstr ""
+msgstr "Kolaborasyon"
 
 # 541dbefd512648fc9517350c383785f7
 #: ../source/schoolserver.rst:36
 msgid ""
 "The XS provides collaboration services across a variety of activities. When "
-"XOs are connected to the School Server, the collaboration is managed through "
-"the server and can be segmented by a classroom or a group. While the user "
-"will not see anything different, the capacity of collaboration will scale up "
-"considerably with a XS in the mix."
+"XOs are connected to the School Server, the collaboration is managed through"
+" the server and can be segmented by a classroom or a group. While the user "
+"will not see anything different, the capacity of collaboration will scale up"
+" considerably with a XS in the mix."
 msgstr ""
+"X yo bay sèvis kolaborasyon atravè yon varyete aktivite. Lè XO yo ki konekte"
+" nan sèvè a lavil la, se kolaborasyon nan jere nan sèvè a epi yo ka segmenté"
+" pa yon pwofesè oswa yon gwoup. Pandan ke itilizatè a pa pral wè anyen "
+"diferan, kapasite a nan kolaborasyon pral echèl moute konsiderableman ak yon"
+" X nan melanj la."
 
 # f5fdcf07b6b64b21b6651bd2beeaf2a8
 #: ../source/schoolserver.rst:39
 msgid "Caching"
-msgstr ""
+msgstr "Caching"
 
 # 4455ce8d89b7482e95725a2c3ac78677
 #: ../source/schoolserver.rst:41
@@ -139,11 +174,14 @@ msgid ""
 "is limited, slow or expensive, content caching helps in speeding up access "
 "to content by making copies on the XS and serving these up locally."
 msgstr ""
+"XS a sèvi ak Kalma nan kontni kachèt lokalman. Nan sit kote aksè nan Entènèt"
+" se limite, ralanti oswa chè, kontni kach ede nan vitès moute aksè nan "
+"kontni pa fè kopi sou X yo ak sèvi sa yo moute lokalman."
 
 # 79711c698a3247e6b9a831bd3eb21bb5
 #: ../source/schoolserver.rst:44
 msgid "Backup and Restore"
-msgstr ""
+msgstr "Sovgad ak restore"
 
 # df2f4c590f6d48f6931634eb4eb1745e
 #: ../source/schoolserver.rst:46
@@ -153,33 +191,47 @@ msgid ""
 "incrementally. Once the backups are made, these can be used to restore a "
 "child's work back on her XO."
 msgstr ""
+"X yo bay sèvis backup san pwoblèm pou chak XO anrejistre. XS nan chèk yo wè "
+"estati a backup nan jounal la sou chak XO ak ekate li moute incrémentielle. "
+"Yon fwa yo te fè sovgad yo, sa yo ka itilize yo retabli travay yon timoun "
+"tounen sou XO li."
 
 # 96994b779e0c44e28671b418ffbc4dfc
 #: ../source/schoolserver.rst:49
 msgid "Antitheft Controls"
-msgstr ""
+msgstr "Kontwòl antivol"
 
 # 839a1c5d00614c79a5ca4a891627b25a
 #: ../source/schoolserver.rst:51
 msgid ""
 "Antitheft controls lists all registered XOs in one location. additionally, "
 "this feature offers rescue leases to laptops to re-activate laptops in case "
-"of problems. If a laptop gets stolen, the antitheft control feature shuts it "
-"down."
+"of problems. If a laptop gets stolen, the antitheft control feature shuts it"
+" down."
 msgstr ""
+"Antivol kontwole lis tout XO anrejistre nan yon sèl kote. Anplis de sa, "
+"karakteristik sa a ofri lwe sekou laptops re-aktive laptops nan ka ta gen "
+"pwoblèm. Si vin yon laptop yo vòlè li, karakteristik nan kontwòl antivol "
+"eten li desann."
 
 # 38abed89dd2f404c91dd661056d94d6c
 #: ../source/schoolserver.rst:54
 msgid "Learning Management System"
-msgstr ""
+msgstr "Aprantisaj Management System"
 
 # e1e426c770074114a0570718f68572cf
 #: ../source/schoolserver.rst:56
 msgid ""
 "Moodle is a Learning Management System that provides the teacher with a way "
-"to create a course, manage assignments and administer assessment using a web-"
-"based interface. On the XO, the Moodle LMS is accessible via the Browse "
+"to create a course, manage assignments and administer assessment using a "
+"web-based interface. On the XO, the Moodle LMS is accessible via the Browse "
 "activity. Moodle features include assignment submission, discussion forums, "
 "file downloads, grade books, instant messages, calendars, news, "
 "announcements, quizzes and wiki."
 msgstr ""
+"Moodl se yon Management System Aprantisaj ki bay pwofesè a ak yon fason yo "
+"kreye yon kou, jere devwa ak administre evalyasyon lè l sèvi avèk yon "
+"koòdone ki baze sou wèb. Sou XO a, moodl LMS a se aksesib nan aktivite a "
+"Browse. Moodl karakteristik genyen ladan yo soumèt plasman, fowòm diskisyon,"
+" downloads dosye, liv ane, mesaj enstantane, kalandriye, nouvèl, anons, ti "
+"tès ak wiki."

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,30 +19,37 @@ msgstr ""
 # 678dd10d3761490c9c1549f7906ba77a
 #: ../source/memorize.rst:3
 msgid "Memorize"
-msgstr ""
+msgstr "Memorize"
 
 # 5d735c06837648a49b30331e75b9e8b5
 #: ../source/memorize.rst:6
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 29312d71eee34c93802d02e010768d7d
 #: ../source/memorize.rst:8
 msgid ""
 "This Activity allows learners to take the learning process in their own "
 "hands, as they play but also create their own games. The game has matching "
-"pairs of what are clickable tiles, or blocks. The card pairs are composed of "
-"text, sound or images. The children turn over the cards to match words, "
+"pairs of what are clickable tiles, or blocks. The card pairs are composed of"
+" text, sound or images. The children turn over the cards to match words, "
 "words and sounds, words and pictures, or pictures and sounds. There are a "
 "few default games loaded. These images, sounds and text can be extended to "
 "animations or movie snippets. Players of Memorize can play together across "
 "multiple machines."
 msgstr ""
+"Aktivite sa a pèmèt elèv k ap aprann yo pran pwosesis aprantisaj la nan men "
+"pwòp yo, menm jan yo jwe, men tou kreye jwèt pwòp yo. Jwèt la te matche pè "
+"ki sa yo mozayik klikabl, oswa blòk. Pè yo kat yo ki konpoze de tèks, son "
+"oswa imaj. Timoun yo vire sou kat yo matche ak mo mo, ak son, mo yo ak foto,"
+" oswa foto ak son. Gen yon jwèt default kèk chaje. Imaj sa yo, son ak tèks "
+"ka pwolonje nan Animations oswa fragman fim. Jwè a Memorize ka jwe ansanm "
+"atravè machin miltip."
 
 # ed3c4249b21344f7bf204e1f2531ae60
 #: ../source/memorize.rst:11
 msgid "Using Memorize"
-msgstr ""
+msgstr "Lè l sèvi avèk Memorize"
 
 # b433c259579c4f37aa21f3898a0df8a2
 #: ../source/memorize.rst:13
@@ -50,23 +57,33 @@ msgid ""
 "Memorize comes with two modes, *Play*, and *Edit game*. In *Edit game* you "
 "can make a brand new Memorize game, or edit one of the demo games supplied."
 msgstr ""
+"Memorize vini ak de mòd, * Jwe *, ak * Edit jwèt *. Nan * Edit jwèt * ou ka "
+"fè yon mak nouvo jwèt Memorize, oswa edite youn nan jwèt yo Demo "
+"apwovizyone."
 
 # 02a7a833bd03431794ece25b957b7685
 #: ../source/memorize.rst:15
 msgid ""
 "In *Play* mode the Activity has three sets of tiles for demo games, "
-"*Numbers, Letters* and *Sounds*. Memorize supports :ref:`Sharing` so you can "
-"play the game with others."
+"*Numbers, Letters* and *Sounds*. Memorize supports :ref:`Sharing` so you can"
+" play the game with others."
 msgstr ""
+"Nan * Jwe * mòd aktivite a gen twa kouche nan mozayik pou jwèt Demo, * "
+"Numbers, Lèt * ak * Son *. Memorize sipò: ref: `Sharing` pou ou ka jwe jwèt "
+"la ak lòt moun."
 
 # 7bae8eb4f983485db119b0f405f68ca1
 #: ../source/memorize.rst:17
 msgid ""
-"The image below shows the Letters demo being selected, and play in progress. "
-"Notice that the unturned tiles, are in two sets, tiles are numbered with a 1 "
-"in the top part of the gameboard, and with a 2 in the lower half. This is "
+"The image below shows the Letters demo being selected, and play in progress."
+" Notice that the unturned tiles, are in two sets, tiles are numbered with a "
+"1 in the top part of the gameboard, and with a 2 in the lower half. This is "
 "called a *Grouped tile game*."
 msgstr ""
+"Imaj ki anba a montre Lèt a Demo li chwazi yo, epi jwe nan pwogrè. Avi ke "
+"twil yo baryè, yo nan de kouche, mozayik yo nimewote ak yon 1 nan pati a "
+"anwo nan gameboard a, epi ki gen yon 2 nan mwatye ki pi ba. Se sa yo rele "
+"yon * Gwoupe jwèt mozayik *."
 
 # 644fb5988f034620bc6ebb012603212c
 #: ../source/memorize.rst:19
@@ -74,6 +91,8 @@ msgid ""
 "(In the Sounds demo, there is an example of an *Ungrouped game*, that is, "
 "the tiles are randomly spread over the gameboard.)"
 msgstr ""
+"(Nan Demo a Son, gen ki se yon egzanp nan yon * An degrennen jwèt *, se sa "
+"ki, twil yo yo gaye owaza sou gameboard la. )"
 
 # 7bacb0c3f9f8495889c13605cd0737eb
 #: ../source/memorize.rst:21
@@ -83,45 +102,58 @@ msgid ""
 "tiles do not match, they are flipped back over after a short time, in which "
 "you try to memorize them."
 msgstr ""
+"Te jwè a deja matche de pè, pa klike sou twil yo. Matche mozayik yo make epi"
+" li se yon nòt yo montre sou bò gòch la. Si pè a nan mozayik pa matche ak "
+"yo, yo yo ranvèrse tounen sou apre yon ti tan, nan ki w ap eseye memorize "
+"yo."
 
 # 5f5757a0578f4c90bcef0e04d5b4a938
 #: ../source/memorize.rst:23
 msgid ""
 "When you play a *Grouped tile game*, the prompt will be in the top half of "
-"the gameboard, and the answer will be hidden under one of the squares in the "
-"bottom half. You have to guess where the matching tile might be. Move the "
+"the gameboard, and the answer will be hidden under one of the squares in the"
+" bottom half. You have to guess where the matching tile might be. Move the "
 "cursor down and notice that the bottom rows are now 'live' --each square is "
 "highlighted as you cross it. Select your guess. After you have made a few "
 "guesses, you will start to remember where the matching tiles might be."
 msgstr ""
+"Lè ou jwe yon * Gwoupe mozayik jwèt *, èd memwa a pral nan mwatye nan tèt "
+"nan gameboard a, epi yo pral repons lan dwe kache anba youn nan kare yo nan "
+"mwatye a anba. Ou gen yo devine ki kote mozayik nan matche ta ka. Deplase "
+"kurseur la desann ak remake ke ranje yo anba yo kounye a se 'viv' se kare "
+"--each make jan ou travèse li. Chwazi devine ou. Apre ou te fè yon eseye "
+"devine kèk, ou pral kòmanse sonje ki kote twil yo matche ta ka."
 
 # 8656321781cc4dca9b7070363739a34b
 #: ../source/memorize.rst:27
 msgid "**Toolbar tabs and buttons in Play do the following:**"
-msgstr ""
+msgstr "** Onglè Toolbar ak bouton an Jwe sa yo: **"
 
 # 6812188db9f24f5991af3dce83cd15cd
 #: ../source/memorize.rst:31
 msgid ""
 "Activity tab. In the first field name the game. The Description button "
-"allows you to add a description to the :doc:`/journal` entry. Thirdly select "
-"Private, or My Neighbourhood, see :ref:`Sharing`."
+"allows you to add a description to the :doc:`/journal` entry. Thirdly select"
+" Private, or My Neighbourhood, see :ref:`Sharing`."
 msgstr ""
+"Tab aktivite. Nan jaden an premye non jwèt la. Bouton an Deskripsyon pèmèt "
+"ou ajoute yon deskripsyon nan: doc la: `/ antre journal`. Anfen chwazi "
+"Prive, oswa Katye mwen, wè: ref: `Sharing`."
 
 # 6de0add81ad34fac828058ce5cea6d55
 #: ../source/memorize.rst:32
 msgid "Load demo game - Select preloaded demo games from list."
-msgstr ""
+msgstr "Chaj Demo jwèt - Chwazi jwèt Demo precharje nan lis."
 
 # db871fd594a7406894efc897a4c723d6
 #: ../source/memorize.rst:33
 msgid "Select the Grid Size, 4x4, 5x5, or 6x6."
-msgstr ""
+msgstr "Chwazi Grid Size, 4x4, 5x5, oswa 6x6 la."
 
 # 972f9021b2b7449193c6616d6fcbb3a9
 #: ../source/memorize.rst:34
 msgid "Restart Game."
-msgstr ""
+msgstr "Rekòmanse jwèt."
 
 # 261e2a59342c4043a8e3fb08c38ef93f
 #: ../source/memorize.rst:35
@@ -129,11 +161,13 @@ msgid ""
 "This is the switch to *Edit game*. Create a new game or edit the current "
 "game."
 msgstr ""
+"Sa a se chanjman an * Edit jwèt *. Kreye yon jwèt nouvo oswa edite jwèt la "
+"aktyèl."
 
 # e77909a27b3a4abc9f1f2843e4c8b12c
 #: ../source/memorize.rst:36
 msgid "The *Edit game* mode icons are grayed out."
-msgstr ""
+msgstr "* Edit jwèt * mòd ikon yo yo grize soti."
 
 # 17e657266a6048bbac149843826a0954
 # 8a9d8a24931944e98c4a062f4b46a7c9
@@ -142,18 +176,18 @@ msgstr ""
 #: ../source/memorize.rst:37 ../source/memorize.rst:38
 #: ../source/memorize.rst:63 ../source/memorize.rst:64
 msgid "grayed out."
-msgstr ""
+msgstr "grize soti."
 
 # 8994a7522e2f4122a290a96f7d2fe553
 # aa0d20f7c6264d2f9ed3e1d29842cf2c
 #: ../source/memorize.rst:39 ../source/memorize.rst:69
 msgid "Stop, or close the Activity."
-msgstr ""
+msgstr "One Stop, oswa fèmen aktivite a."
 
 # 2ed2e5338868477cac415eae67d3ca3d
 #: ../source/memorize.rst:42
 msgid "Creating a Game"
-msgstr ""
+msgstr "Kreye yon jwèt"
 
 # 0dcd2c36621b46cdac74ef297a0de5dd
 #: ../source/memorize.rst:43
@@ -163,6 +197,11 @@ msgid ""
 "the *Edit game* button, you will change that file, and the older file will "
 "be overwritten in the :doc:`/journal`. In this case the older game is lost."
 msgstr ""
+"Peze * a Edit jwèt * bouton, rezilta nan koreksyon jwèt la ki deja egziste. "
+"Si ou louvri Memorize soti nan * Kourikouloum-vite *, se sa ki, yon rele "
+"dosye ki deja egziste, ak laprès bouton an * * Edit jwèt, ou pral chanje ke "
+"dosye, epi yo pral dosye a pi gran dwe ranplase nan: doc la: `/ journal`. "
+"Nan ka sa a se jwèt la pi gran pèdi."
 
 # d83c269f45814337b3d9c37fb0856f8a
 #: ../source/memorize.rst:47
@@ -170,6 +209,8 @@ msgid ""
 "To create a fresh game, open Memorize, from the Home View, *Start new*. "
 "Press the Activity tab. Type in a name for the game."
 msgstr ""
+"Pou kreye yon jwèt fre, louvri Memorize, ki soti nan View nan Kay, * Kòmanse"
+" nouvo *. Peze tab la Aktivite. Tape nan yon non pou jwèt la."
 
 # a6caea50d9ec46809800b65129cd3dab
 #: ../source/memorize.rst:49
@@ -177,17 +218,27 @@ msgid ""
 "Memorize will remind you of this difference in behavior. If you rename an "
 "existing game, and then press the *Clear all tiles* button, you will be "
 "prompted *Do you want to ...* . If you press *Clear*, this will overwrite "
-"the previous game in your Journal. (You cannot overwrite a demo game itself. "
-"The demo games will always be there if you choose to edit a demo game, and "
+"the previous game in your Journal. (You cannot overwrite a demo game itself."
+" The demo games will always be there if you choose to edit a demo game, and "
 "clear its tiles.)"
 msgstr ""
+"Memorize pral fè ou sonje nan diferans sa a nan konpòtman. Si ou chanje non "
+"yon jwèt ki egziste deja, ak Lè sa a peze * Klè nan tout mozayik * bouton, "
+"ou pral mande * ou vle. . . *. Si ou peze * Klè *, sa a pral recouvrir jwèt "
+"la anvan nan jounal ou. (Ou pa ka recouvrir yon jwèt Demo tèt li. Jwèt yo "
+"Demo ap toujou la si w chwazi edite yon jwèt Demo, epi ki klè mozayik li yo."
+" )"
 
 # fb4a38239ff34f7fb3bf478859280878
 #: ../source/memorize.rst:51
 msgid ""
 "It is good if you have some image files in your Journal, or on a USB stick. "
-"If none are available you could make some with Paint, see the tutorial below."
+"If none are available you could make some with Paint, see the tutorial "
+"below."
 msgstr ""
+"Li ta pi bon si ou gen kèk dosye imaj nan jounal ou, oswa sou yon moso bwa "
+"USB. Si okenn ki disponib ou te kapab fè kèk nan yo ak penti, gade leson "
+"patikilye ki anba la a."
 
 # dc2c8797a52e43e2bf7e92cde4a2bf95
 #: ../source/memorize.rst:53
@@ -195,15 +246,21 @@ msgid ""
 "This image shows a game being created. The right side, represents the new "
 "contents for the gameboard. So far we have Tux and his image. The left side "
 "represents the work space. A picture of a sunset has been selected from the "
-"Journal, and the text \"Sunset\" has been entered into the box marked *Text:"
-"*. The cursor has selected *Add new pair*, and when pressed, the new pair "
-"will transfer to the gameboard section on the right."
+"Journal, and the text \"Sunset\" has been entered into the box marked "
+"*Text:*. The cursor has selected *Add new pair*, and when pressed, the new "
+"pair will transfer to the gameboard section on the right."
 msgstr ""
+"Imaj sa a montre yon jwèt yo te kreye. Bò dwat la, reprezante sa ki nouvo "
+"pou gameboard la. Se konsa, lwen nou gen Shamokin ak estati li a. Bò gòch la"
+" reprezante espas ki la travay. Yon foto nan yon solèy kouche te chwazi soti"
+" nan Journal la, e li te tèks la \"Sunset\" te antre nan ti bwat la make * "
+"Tèks: *. Te kurseur la chwazi * Add pè nouvo *, ak ki lè bourade, pè a nouvo"
+" yo pral transfere nan seksyon an gameboard sou bò dwat la."
 
 # a92977eeb89840aab8db05c00f801649
 #: ../source/memorize.rst:57
 msgid "**Toolbar tabs and buttons in Edit game do the following:**"
-msgstr ""
+msgstr "** Onglè Toolbar ak bouton an Edit jwèt bagay sa yo: **"
 
 # cd6f6e7cf8d446b5b23c1938b9a8ff6b
 #: ../source/memorize.rst:61
@@ -211,81 +268,84 @@ msgid ""
 "Activity tab, name the game, access the Journal, to provide a description, "
 "and select Private, or My Neighbourhood, see :ref:`Sharing`."
 msgstr ""
+"Tab pou Aktivite, non jwèt la, aksè Journal la, bay yon deskripsyon, epi "
+"chwazi Prive, oswa Katye mwen, wè: ref: `Sharing`."
 
 # 892e1c28d6cb474f805d40d4df8ae86d
 #: ../source/memorize.rst:62
 msgid "*Play* buttons are grayed out while in *Edit game* mode."
-msgstr ""
+msgstr "* Jwe * bouton yo grize soti pandan ke yo nan * Edit jwèt * mòd."
 
 # 752482a83a464884bc273f1dd443de61
 #: ../source/memorize.rst:65
 msgid "This button is now marked to switch back to *Play* mode."
-msgstr ""
+msgstr "Se bouton Sa a kounye a make chanje tounen nan * Jwe * mòd."
 
 # 1bfd99f26e6c4e43bdb4b6afa4dfe43b
 #: ../source/memorize.rst:66
 msgid "Switch between Match different tiles, and Match identical tiles."
 msgstr ""
+"Chanje ant Koresponn ak twil diferan, ak Koresponn ak twil ki idantik."
 
 # bc64033f0fb046f9ba4584368db7457c
 #: ../source/memorize.rst:67
 msgid "Switch between Grouped tiles game, and Ungrouped game."
-msgstr ""
+msgstr "Chanje ant Gwoupe mozayik jwèt, ak An degrennen jwèt."
 
 # 20a5707e1e514a48874ca3de3ea3aa6c
 #: ../source/memorize.rst:68
 msgid "Clear all tiles."
-msgstr ""
+msgstr "Klè tout mozayik."
 
 # 73b501324eea4777951ce2236bc372bc
 #: ../source/memorize.rst:72
 msgid "|icon<>|"
-msgstr ""
+msgstr "| Icon <> |"
 
 # ab7f81bc5df641c3ab6e49aeb2b3b520
 #: ../source/memorize.rst:72
 msgid "Match different tiles"
-msgstr ""
+msgstr "Koresponn ak twil diferan"
 
 # 25b40ec6885c4d998d4885c6e70282eb
 #: ../source/memorize.rst:72
 msgid "|icon=|"
-msgstr ""
+msgstr "| Icon = |"
 
 # 824de565c6404381b6379e2198daf07e
 #: ../source/memorize.rst:72
 msgid "Match identical tiles"
-msgstr ""
+msgstr "Match mozayik ki idantik"
 
 # 44315be09dcb4b8287d45dc4fd6dd5f2
 #: ../source/memorize.rst:73
 msgid "|icon1+2|"
-msgstr ""
+msgstr "| Icon1 + 2 |"
 
 # 969e725a02594fc19590bd1cb93cbcf9
 #: ../source/memorize.rst:73
 msgid "Grouped tiles game"
-msgstr ""
+msgstr "Gwoupe mozayik jwèt"
 
 # d50d2e634f9b41f0990ded4fe62181a5
 #: ../source/memorize.rst:73
 msgid "|icon-gray|"
-msgstr ""
+msgstr "| Icon-gri |"
 
 # 146f5c2cb4d342d992afdc039f931cbb
 #: ../source/memorize.rst:73
 msgid "Ungrouped game"
-msgstr ""
+msgstr "An degrennen jwèt"
 
 # 73f58fa2a3304b80ba62bb3c720f7404
 #: ../source/memorize.rst:74
 msgid "|iconCl|"
-msgstr ""
+msgstr "| IconCl |"
 
 # ca7e55599fbf47ba802d0c58b2b47a33
 #: ../source/memorize.rst:74
 msgid "Clear all tiles"
-msgstr ""
+msgstr "Klè tout mozayik"
 
 # 3a02ca2cbd8f45238289cd8e2c7a6936
 #: ../source/memorize.rst:87
@@ -293,6 +353,8 @@ msgid ""
 "If you look to the top of the toolbar in our example above, you will see "
 "this game is a *Match different tiles* and an *Ungrouped game*."
 msgstr ""
+"Si ou gade nan tèt la nan ba ikòn nan nan egzanp nou an pi wo a, ou pral wè "
+"jwèt sa a se yon * Koresponn ak twil diferan * ak yon jwèt * An degrennen *."
 
 # b814fe6f2ca245c68725bfa7f1d607bd
 #: ../source/memorize.rst:89
@@ -302,14 +364,21 @@ msgid ""
 "within the work space are the *Add item* buttons. The *Insert picture* "
 "button has been used to open the Journal, and select a Tux image."
 msgstr ""
+"Gade nan imaj ki anba a kòmanse nan gòch anwo, goch, montre kèk nan etap sa "
+"yo nan chwazi sa pou jwèt la. Nan imaj la premye ** 1 ** nan espas ki la "
+"travay yo se * Add atik * bouton sa yo. Te * Antre foto * Bouton an te "
+"itilize yo louvri jounal la, epi chwazi yon imaj Shamokin."
 
 # c398311a0f7544a89f173748c74298da
 #: ../source/memorize.rst:91
 msgid ""
-"Next **2** the text \"Tux\" was entered in the text box, and also the *Speak "
-"text* icon was selected. Now, the two tiles are ready to *Add as new pair* "
+"Next **2** the text \"Tux\" was entered in the text box, and also the *Speak"
+" text* icon was selected. Now, the two tiles are ready to *Add as new pair* "
 "to the gameboard section on the right."
 msgstr ""
+"Next ** 2 ** te tèks la \"Shamokin\" antre nan ti bwat la tèks, epi tou li *"
+" Pale tèks * icon te chwazi a. Koulye a, de twil yo yo pare yo * Add pè kòm "
+"nouvo * nan seksyon an gameboard sou bò dwat la."
 
 # ca4533fabe634c1cbee8fd8eaed3b657
 #: ../source/memorize.rst:94
@@ -318,16 +387,19 @@ msgid ""
 "*Play game*. The final image **4** shows the game in play. Notice that when "
 "the *Pronounce text* button has been selected Speak's eyes watch play."
 msgstr ""
+"Ak tout imaj yo chaje ** 3 ** laprès * Jwe *, kurseur a elikopte revele * "
+"Jwe jwèt *. Imaj la final ** 4 ** montre jwèt la nan jwe. Remake je lè gen "
+"bouton an * * pwononse tèks te chwazi Pale nan gade jwe."
 
 # a1c85cb048944614bd1862a608852168
 #: ../source/memorize.rst:99
 msgid "**The add item buttons, within the work space:**"
-msgstr ""
+msgstr "** Bouton sa yo atik ajoute, nan espas ki la travay: **"
 
 # 5746cf5525e74c9a88ae797d0398f0a1
 #: ../source/memorize.rst:101
 msgid "This image shows just the left side of the screen, the work space."
-msgstr ""
+msgstr "Imaj sa a montre jis bò gòch nan ekran an, espas ki la travay."
 
 # 81c5176d5c844a118af4c28d57555b93
 #: ../source/memorize.rst:105
@@ -335,31 +407,33 @@ msgid ""
 "The Preview will show the new tile, like this, with no content, or with "
 "whatever has been selected."
 msgstr ""
+"Preview a ap montre mozayik nan nouvo, tankou sa a, ki pa gen okenn kontni, "
+"oswa ak tou sa te chwazi."
 
 # 3dd74c7198fb4b3490372b262524c727
 #: ../source/memorize.rst:107
 msgid "Text can be entered directly into the box under *Text:*."
-msgstr ""
+msgstr "Ka Tèks dwe antre dirèkteman nan ti bwat la anba * Tèks: *."
 
 # db82528fad774b629df56e3eeb2ba449
 #: ../source/memorize.rst:109
 msgid "Insert picture, opens Journal or attached media in Image search."
-msgstr ""
+msgstr "Foto Antre, ouvè Journal oswa medya tache nan rechèch imaj."
 
 # 116824e0c7774b22a154d0ac77a9b585
 #: ../source/memorize.rst:110
 msgid "Insert sound file, opens Journal or attached media in Audio search."
-msgstr ""
+msgstr "Antre dosye son, ouvè Journal oswa tache medya nan Audio rechèch."
 
 # acdc0e62c4874c7ea7f2951ee9e7dece
 #: ../source/memorize.rst:111
 msgid "Pronounce text during tile flip"
-msgstr ""
+msgstr "Pwononse tèks pandan mozayik baskile"
 
 # c085dd627e75482584a2db6f1031c931
 #: ../source/memorize.rst:112
 msgid "Select font."
-msgstr ""
+msgstr "Chwazi font."
 
 # 316b7153ff48490181635d79236efc06
 #: ../source/memorize.rst:113
@@ -367,6 +441,8 @@ msgid ""
 "*Add:* This will add the current \"pair\" in the work space, to the "
 "gameboard section on the right."
 msgstr ""
+"* Add: * Sa a pral ajoute aktyèl \"pè a\" nan espas travay la, nan seksyon "
+"an gameboard sou bò dwat la."
 
 # 92cfef0d0b7349c4a1d78e3d60f22619
 #: ../source/memorize.rst:114
@@ -374,16 +450,18 @@ msgid ""
 "*Update:* This will bring a selected pair, from gameboard section on the "
 "right, back into the work space, where changes can be made."
 msgstr ""
+"* Mete ajou: * sa a pral pote yon pè chwazi, nan seksyon gameboard sou bò "
+"dwat la, tounen nan espas travay la, kote chanjman ki kapab fèt."
 
 # 2f3fd3df94284671aeb975a4e87bcc3d
 #: ../source/memorize.rst:117
 msgid "Tutorials"
-msgstr ""
+msgstr "Leson patikilye"
 
 # 1fb5e8603b4c48c690ceba6fd361a98c
 #: ../source/memorize.rst:120
 msgid "Create a Color Game"
-msgstr ""
+msgstr "Kreye yon Jwèt Koulè"
 
 # 4689dea160c841ecaf0dfce837ff7f00
 #: ../source/memorize.rst:122
@@ -392,16 +470,24 @@ msgid ""
 "matching colors. This is a *Match identical tiles* game. You will learn how "
 "to upload an image and add text."
 msgstr ""
+"Nan Tutorial sa a, ou pral aprann ki jan yo kreye ak jwe yon aktivite "
+"Memorize matche koulè. Sa a se yon * Koresponn ak twil ki idantik * jwèt. Ou"
+" pral aprann ki jan yo Upload yon imaj epi ajoute tèks."
 
 # a896a3e86c294ffe9ba6868dddc02240
 #: ../source/memorize.rst:124
 msgid ""
-"Before beginning, save eight color fills using the Paint activity. In Paint, "
-"use the Bucket tool to fill the whole space with a color, and name and save "
-"the image. The color image saved from the Paint activity is in rectangular "
-"in shape. The Memorize activity uses a square picture image aligned from the "
-"upper left."
+"Before beginning, save eight color fills using the Paint activity. In Paint,"
+" use the Bucket tool to fill the whole space with a color, and name and save"
+" the image. The color image saved from the Paint activity is in rectangular "
+"in shape. The Memorize activity uses a square picture image aligned from the"
+" upper left."
 msgstr ""
+"Anvan nan konmansman, sove uit koulè plen lè l sèvi avèk aktivite a Penti. "
+"Nan penti, sèvi ak zouti nan bokit yo ranpli espas ki la tout antye ak yon "
+"koulè, ak non, epi sove imaj la. Imaj la koulè sove soti nan aktivite a se "
+"nan penti rektangilè nan fòm. Aktivite a Memorize sèvi ak yon imaj foto kare"
+" ki aliyen soti nan bò gòch a anwo."
 
 # 77f3e3458d804bf1b524561e961d5ca8
 #: ../source/memorize.rst:126
@@ -410,6 +496,10 @@ msgid ""
 "*Resume* in your Journal, that is, an existing named file, you will change "
 "that file, and the older file will be overwritten in the Journal.)"
 msgstr ""
+"Open Memorize, ki soti nan View nan Kay, * Kòmanse nouvo *. (Si ou louvri "
+"Memorize soti nan * Kourikouloum-vite * nan jounal ou, ki se, se yon rele ki"
+" deja egziste dosye, ou pral chanje ke dosye, epi yo pral dosye a pi gran "
+"dwe ranplase nan jounal la. )"
 
 # 325b8f9ebf904b75b9107d38c22de0c0
 # 9acebbc4aa5844e9b353554329900a5b
@@ -417,7 +507,7 @@ msgstr ""
 #: ../source/memorize.rst:127 ../source/memorize.rst:150
 #: ../source/memorize.rst:188
 msgid "Press the Activity tab."
-msgstr ""
+msgstr "Peze tab la Aktivite."
 
 # f98becbf27654c2b9993c87c93cfd7ba
 # 47b3dc24635b4893903991c320f9204d
@@ -425,47 +515,52 @@ msgstr ""
 #: ../source/memorize.rst:128 ../source/memorize.rst:151
 #: ../source/memorize.rst:189
 msgid "Type in a name for this game."
-msgstr ""
+msgstr "Tape nan yon non pou jwèt sa a."
 
 # e1bff22cf3aa4fccbf3fb686db6dafd0
 #: ../source/memorize.rst:129
 msgid "Click the *Edit game* button."
-msgstr ""
+msgstr "Klike sou * a Edit jwèt * bouton."
 
 # fd789fbff9ca4241bb912257e6b44158
 #: ../source/memorize.rst:130
 msgid "Press *Match identical tiles*."
-msgstr ""
+msgstr "Press * Koresponn ak twil ki idantik *."
 
 # 757ff35c834d4f99837a05a21cd499dd
 #: ../source/memorize.rst:131
 msgid "Press to choose either a *Grouped tiles game,* or an *Ungrouped game.*"
 msgstr ""
+"Press yo chwazi swa yon * Gwoupe mozayik jwèt, * oswa yon jwèt * An "
+"degrennen. *"
 
 # 3318569c44524736b132edde10e3a766
 #: ../source/memorize.rst:132
 msgid "Insert Pictures and Text like this:"
-msgstr ""
+msgstr "Antre Foto ak tèks tankou sa a:"
 
 # 4065e607773a41c48c1b8ba69fc9a3de
 #: ../source/memorize.rst:134
 msgid "Working in the work space, which will now only have one tile pane,"
 msgstr ""
+"K ap travay nan espas travay la, ki pral kounye a sèlman gen yon sèl mozayik"
+" fenèt,"
 
 # 3751f2c891b54de599b473b77612c17f
 #: ../source/memorize.rst:136
 msgid "Click *Insert picture*."
-msgstr ""
+msgstr "Klike sou * Antre foto *."
 
 # a062121099a34df0a0b5817630436beb
 #: ../source/memorize.rst:137
 msgid "Select and click the image file with your color from the Journal."
-msgstr ""
+msgstr "Chwazi ak klike sou dosye a imaj ak koulè ou soti nan Journal la."
 
 # a5c53849bab54a46a8bdc359893a71c3
 #: ../source/memorize.rst:138
 msgid "Type in the name of the color you just chose in the *Text:* box."
 msgstr ""
+"Kalite nan non la nan koulè a ​​ou jis te chwazi nan tèks la *: * bwat."
 
 # 0a20af3f35bc49c286d820fe300427fa
 #: ../source/memorize.rst:139
@@ -473,6 +568,8 @@ msgid ""
 "Click *Add as new pair*. A new pair of tiles are displayed on the right "
 "side, the gameboard section."
 msgstr ""
+"Klike sou * Add kòm nouvo pè *. Yon pè nouvo sou mozayik parèt sou bò dwat "
+"la, seksyon an gameboard."
 
 # 53a80942d70048b1a9a4c02e5aaba59a
 # 86d6b04bb07d4fcaa219a48c028bfec2
@@ -480,7 +577,7 @@ msgstr ""
 #: ../source/memorize.rst:140 ../source/memorize.rst:165
 #: ../source/memorize.rst:196
 msgid "Repeat steps until all pairs are added."
-msgstr ""
+msgstr "Repete etap jiskaske tout pè yo te ajoute."
 
 # f470546f00074c6492588c5371545f28
 # 5f114d84286d4408b1f72071f38d07ad
@@ -488,62 +585,70 @@ msgstr ""
 #: ../source/memorize.rst:142 ../source/memorize.rst:167
 #: ../source/memorize.rst:198
 msgid "Now to play the game, click the *Play* button."
-msgstr ""
+msgstr "Koulye a, yo jwe jwèt la, klike sou bouton an * * Jwe."
 
 # cf4ac213a38841fc96b9b4734a5824ee
 #: ../source/memorize.rst:145
 msgid "Create a Sound Game"
-msgstr ""
+msgstr "Kreye yon jwèt Sound"
 
 # f452dd3c3efe4ad3a2b020aa801e6a62
 #: ../source/memorize.rst:147
 msgid ""
 "In this tutorial, you will learn how to create and play a Memorize Activity "
-"matching pictures and sounds. The tiles are grouped meaning all the pictures "
-"are numbered '1' tiles while the sounds are numbered '2' tiles. You will "
+"matching pictures and sounds. The tiles are grouped meaning all the pictures"
+" are numbered '1' tiles while the sounds are numbered '2' tiles. You will "
 "learn how to upload an image and upload a sound. Before beginning, save "
 "eight pictures using the Browse activity, and eight matching sound files. "
 "The files can be on a USB stick or in your Journal."
 msgstr ""
+"Nan Tutorial sa a, ou pral aprann ki jan yo kreye ak jwe yon aktivite "
+"Memorize matche foto ak son. Twil yo yo gwoupe sa vle di tout foto yo yo "
+"nimewote mozayik '1' pandan y ap son yo yo nimewote '2' mozayik. Ou pral "
+"aprann ki jan yo Upload yon imaj ak Upload yon son. Anvan nan konmansman, "
+"sove lè l sèvi avèk uit foto aktivite a Browse, ak wit matche dosye son. "
+"Dosye yo kapab sou yon baton USB oswa nan jounal ou."
 
 # 226b70cfdb8e4bddbccfd97449a238a5
 # fb6c1a4b884e4a04b82992a7217a9b4b
 #: ../source/memorize.rst:149 ../source/memorize.rst:187
 msgid "Open Memorize, from the Home View, *Start new*."
-msgstr ""
+msgstr "Open Memorize, ki soti nan View nan Kay, * Kòmanse nouvo *."
 
 # 62030c1f2d204bccbcccec816ed4a0ea
 #: ../source/memorize.rst:152
 msgid "Click on *Grouped tiles game.*"
-msgstr ""
+msgstr "Klike sou * Gwoupe mozayik jwèt. *"
 
 # 9e7e9c46c2ef40cfaec9ca6246159271
 # 2fd36c734c06479b8571f329cf94f860
 #: ../source/memorize.rst:153 ../source/memorize.rst:192
 msgid "Click on *Match different tiles*."
-msgstr ""
+msgstr "Klike sou * Koresponn ak twil diferan *."
 
 # d5161e0978a546eca128979a57760002
 #: ../source/memorize.rst:155
 msgid "Working in the work space, now with two tile panes."
-msgstr ""
+msgstr "K ap travay nan espas travay la, kounye a ak de vitraj mozayik."
 
 # 30f32f3dd75c45b7acd67a4f88257238
 #: ../source/memorize.rst:158
 msgid "In the first tile pane:"
-msgstr ""
+msgstr "Nan premye mozayik fenèt la:"
 
 # af0318509cf249edb55be2b57cfe6592
 #: ../source/memorize.rst:158
 msgid ""
-"Insert a picture file as above. If you add text too, it will be printed over "
-"your picture."
+"Insert a picture file as above. If you add text too, it will be printed over"
+" your picture."
 msgstr ""
+"Antre yon dosye foto kòm pi wo a. Si ou ajoute tèks tou, li ap enprime sou "
+"foto ou."
 
 # 81d22c8c3f224a62b28726c93ffe5ccc
 #: ../source/memorize.rst:163
 msgid "In the second tile pane:"
-msgstr ""
+msgstr "Nan dezyèm mozayik fenèt la:"
 
 # 76ed9d3d81e04021bf76978c03de5480
 #: ../source/memorize.rst:161
@@ -551,11 +656,13 @@ msgid ""
 "Click *Insert sound*. Select either the Journal or the media where you "
 "stored your sound files."
 msgstr ""
+"Klike sou * Antre son *. Chwazi swa jounal la oswa medya a kote ou estoke "
+"dosye son ou."
 
 # fc56c2b5e2d44d0598704b212036c87c
 #: ../source/memorize.rst:162
 msgid "Select and click the file name."
-msgstr ""
+msgstr "Chwazi ak klike sou non an dosye."
 
 # 92aa07bbd7b44c8f98d7d36b92c3fddb
 #: ../source/memorize.rst:163
@@ -563,84 +670,86 @@ msgid ""
 "Click *Add as new pair*. The new pair of tiles are displayed on the right "
 "side."
 msgstr ""
+"Klike sou * Add kòm nouvo pè *. Yo pè nan nouvo nan mozayik parèt sou bò "
+"dwat la."
 
 # c558086d995549848549d5d1cccd6fbd
 #: ../source/memorize.rst:170
 msgid "Create a Spelling Game"
-msgstr ""
+msgstr "Kreye yon jwèt òtograf"
 
 # 44928ca82be04ad98b4eb21e375f5edb
 #: ../source/memorize.rst:171
 msgid "First create a spelling list."
-msgstr ""
+msgstr "Premye kreye yon lis òtograf."
 
 # 570a24341c71404788db79388af5ecd8
 #: ../source/memorize.rst:173
 msgid "Open Activity Record."
-msgstr ""
+msgstr "Louvri Dosye Aktivite."
 
 # 730d10560d9a4eba8ecf50b2d76b87cc
 #: ../source/memorize.rst:174
 msgid "Choose the Audio tab of Record."
-msgstr ""
+msgstr "Chwazi tab la Audio nan Dosye."
 
 # c4752ac245524480884402fa0452ff65
 #: ../source/memorize.rst:175
 msgid ""
 "Set the duration (upper right corner of the Record interface) to, say, 15 "
 "seconds."
-msgstr ""
+msgstr "Mete dire a (kwen anwo dwa nan koòdone nan Dosye) nan, di, 15 segonn."
 
 # f28a5f5f014e46c7bfccda0673b8f607
 # d9316959a5f149e796ff20de6b6f98e7
 #: ../source/memorize.rst:176 ../source/memorize.rst:180
 msgid "Click the Record button."
-msgstr ""
+msgstr "Klike sou bouton an Dosye."
 
 # 2bffb7ad1b0c4278ac37ee1fc80337ce
 #: ../source/memorize.rst:177
 msgid "Say the first word of your spelling list."
-msgstr ""
+msgstr "Di mo an premye nan lis òtograf ou."
 
 # e49033eb6df043b1b97d338c8cf91ed7
 #: ../source/memorize.rst:178
 msgid "Click the Record button again."
-msgstr ""
+msgstr "Klike sou bouton an Dosye ankò."
 
 # 19bab72e180d43f1a060f41580fc12fe
 #: ../source/memorize.rst:179
 msgid "Wait, while the Record Activity saves your sound clip."
-msgstr ""
+msgstr "Rete tann, pandan y ap aktivite nan Dosye sove clip son ou."
 
 # aee7462e370c4a5594573d8896e6ebb1
 #: ../source/memorize.rst:181
 msgid "Say the next word on your list."
-msgstr ""
+msgstr "Di pawòl Bondye a pwochen sou lis ou a."
 
 # 0a1e877541264e1fabe028e62d002add
 #: ../source/memorize.rst:182
 msgid "Click the Record button to save your clip."
-msgstr ""
+msgstr "Klike sou bouton an Dosye pou konsève pou clip ou."
 
 # fbe9ec61d28b4aafa24d5a4ac0600be8
 #: ../source/memorize.rst:183
 msgid "Record and save the rest of the spelling words on your list."
-msgstr ""
+msgstr "Dosye ak sove rès la nan mo sa yo òtograf sou lis ou a."
 
 # ebbd77772e47430b93570cc0409119e2
 #: ../source/memorize.rst:185
 msgid "Now in Memorize."
-msgstr ""
+msgstr "Koulye a, nan Memorize."
 
 # 2fa0f2e09dcd499996713f79f3797760
 #: ../source/memorize.rst:190
 msgid "Select *Edit game*."
-msgstr ""
+msgstr "Chwazi * Edit jwèt *."
 
 # 9441876d252b4106ab899bd99ff6bbe2
 #: ../source/memorize.rst:191
 msgid "Click on *Ungrouped game.*"
-msgstr ""
+msgstr "Klike sou * jwèt An degrennen. *"
 
 # 206f8660995f4363b509bdbfbd175767
 #: ../source/memorize.rst:193
@@ -648,6 +757,8 @@ msgid ""
 "Use *Insert sound* to add your first recording to the first tile. In the "
 "second tile enter the word to match your sound file."
 msgstr ""
+"Sèvi ak * Antre son * ajoute premye anrejistreman ou a mozayik nan premye. "
+"Nan dezyèm mozayik la antre nan pawòl Bondye a ki matche ak dosye son ou."
 
 # b37bbbb4335a4e5d95c58defc91019fb
 #: ../source/memorize.rst:194
@@ -655,11 +766,13 @@ msgid ""
 "Proceed adding sounds on the first tile, with matching words on the second "
 "tile."
 msgstr ""
+"Kontinye ajoute son sou mozayik la an premye, ak matche mo sou dezyèm "
+"mozayik la."
 
 # 9140ce001cc14153b259ca2412e568f3
 #: ../source/memorize.rst:203
 msgid "Sharing"
-msgstr ""
+msgstr "Pataje"
 
 # b9de699d1f2447f993502be0a823dbc9
 #: ../source/memorize.rst:205
@@ -667,20 +780,28 @@ msgid ""
 "To play these games with users on more than one XO, so that the turn moves "
 "from one user to the other when a user fails to make a matching selection:"
 msgstr ""
+"Pou jwe jwèt sa yo ak itilizatè sou plis pase yon XO, se konsa ke vire "
+"mouvman yo soti nan yon itilizatè nan lòt la lè yon itilizatè echwe yo fè "
+"yon seleksyon matche:"
 
 # 320cda1e9a54479da260f34861d6228e
 #: ../source/memorize.rst:207
 msgid ""
-"Open the Memorize activity and load the game you want to share on the main XO"
+"Open the Memorize activity and load the game you want to share on the main "
+"XO"
 msgstr ""
+"Louvri aktivite a Memorize ak chaj jwèt la ou vle pataje sou XO prensipal la"
 
 # 912bc4f99f714235afd753214e361b46
 #: ../source/memorize.rst:208
 msgid ""
-"Click on the Activity tab, and click on the Home View button |"
-"Home_key_f3_small| so that it turns into the My Neighborhood button |"
-"Neighborhood_key|"
+"Click on the Activity tab, and click on the Home View button "
+"|Home_key_f3_small| so that it turns into the My Neighborhood button "
+"|Neighborhood_key|"
 msgstr ""
+"Klike sou tab la pou Aktivite, epi klike sou bouton an Kay View | "
+"Home_key_f3_small | konsa ke li vin nan bouton an Neighborhood mwen | "
+"Neighborhood_key |"
 
 # bfad1bc4b8044bf491388981d363a1df
 #: ../source/memorize.rst:209
@@ -688,23 +809,28 @@ msgid ""
 "All the other XOs will see the Memorize activity icon close to your XO "
 "symbol on their Neighborhood View."
 msgstr ""
+"Tout lòt XO yo pral wè icon a Memorize aktivite fèmen nan senbòl XO ou sou "
+"View katye yo."
 
 # 29dcac59d853426183e2f28e26ed536a
 #: ../source/memorize.rst:210
 msgid ""
 "They can then join the activity by moving their cursor over the game icon."
 msgstr ""
+"Lè sa a, Yo ka rantre nan aktivite a pa deplase kurseur yo sou icon nan "
+"jwèt."
 
 # 4c1fe7e7957d41b4a332ef29170ff991
 #: ../source/memorize.rst:216
 msgid ""
 "|more| For further information, please see the page :doc:`/collaborating`"
 msgstr ""
+"| Plis | Pou plis enfòmasyon, tanpri al gade paj: doc la: `/ collaborating`"
 
 # 625379f86ea64fb7ad7a326d18734c0d
 #: ../source/memorize.rst:222
 msgid "Extending"
-msgstr ""
+msgstr "Pwolonje"
 
 # 2f1d696231154b76bf4ede6729a954c7
 #: ../source/memorize.rst:224
@@ -716,3 +842,8 @@ msgid ""
 "from a USB, or the internet, mean that this game can be powerful in many "
 "educational areas."
 msgstr ""
+"Gen yon seri moun rich nan opòtinite pou pwolonje jwèt sa yo. Memorize te "
+"kapab itilize nan istwa, byoloji, mizik, syans, lekti byen bonè, matematik "
+"ak lòt moun. Objè yo medya disponib nan Sugar, tankou dosye son ak imaj, osi"
+" byen ke tout medya yo objè ki disponib pa transfè soti nan yon USB, oswa "
+"entènèt la, vle di ke jwèt sa a kapab pwisan nan anpil zòn edikasyon."

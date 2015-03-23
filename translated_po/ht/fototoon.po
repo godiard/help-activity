@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,12 +19,12 @@ msgstr ""
 # f56f6157b1a14bfc9665401bed15bdeb
 #: ../source/fototoon.rst:3
 msgid "FotoToon"
-msgstr ""
+msgstr "Photo Toon"
 
 # 3900d3c865e942c19d1c064c1e399196
 #: ../source/fototoon.rst:8
 msgid "About"
-msgstr ""
+msgstr "Sou"
 
 # 394459377d724146934c1935d02b6428
 #: ../source/fototoon.rst:10
@@ -37,73 +37,102 @@ msgid ""
 "images of all kinds downloaded from the web. This could include photos, "
 "charts and graphs, maps, and the like."
 msgstr ""
+"FotoToon aktivite a pral pèmèt ou yo kreye tout bagay soti nan yon senp "
+"\"komik\" teren nan yon dokiman long elabore ilistre. Ou pral kapab yo "
+"enpòte plizyè kalite imaj nan vitraj yo nan pwojè ou epi ajoute bul tèks ede"
+" rakonte istwa a. Ou kapab sèvi ak imaj foto pran ak XO a oswa enpòte soti "
+"nan yon kamera, desen ki fèt ak Aktivite tankou penti, ak imaj nan tout "
+"kalite telechaje soti nan entènèt la. Sa kapab genyen foto, tablo ak graf, "
+"kat, ak renmen an."
 
 # 92a7dae954c142bca20f071ceb6aa517
 #: ../source/fototoon.rst:12
 msgid ""
-"This introduction to FotoToon will show you how to get started with a simple "
-"4 panel project."
+"This introduction to FotoToon will show you how to get started with a simple"
+" 4 panel project."
 msgstr ""
+"Entwodiksyon sa a FotoToon pral montre w kouman jwenn te kòmanse avèk yon "
+"senp pwojè 4 panèl."
 
 # 03a952e890504fb0991a42949422da9e
 #: ../source/fototoon.rst:14
 msgid ""
-"FotoToon, like many other Sugar Activities, is often updated to fix \"bugs\" "
-"that users report. There was one update, from version 15 to version 16 "
+"FotoToon, like many other Sugar Activities, is often updated to fix \"bugs\""
+" that users report. There was one update, from version 15 to version 16 "
 "during the time this instruction chapter was written. By the time you use "
 "it, there may be others. The changes are usually minor and should not "
-"interfere with the usefulness of this information. Always try to be sure you "
-"are using the latest version."
+"interfere with the usefulness of this information. Always try to be sure you"
+" are using the latest version."
 msgstr ""
+"FotoToon, tankou anpil lòt Aktivite Sugar, se souvan mete ajou ranje "
+"\"pinèz\" ki itilizatè rapòte. Te gen yon aktyalizasyon, soti nan vèsyon 15 "
+"nan vèsyon 16 pandan tan an sa a chapit enstriksyon te ekri. Depi lè a ou "
+"sèvi ak li, gen pouvwa pou lòt moun. Chanjman yo yo anjeneral minè epi yo pa"
+" ta dwe entèfere ak itilite a nan enfòmasyon sa a. Toujou eseye asire w ke w"
+" ap itilize vèsyon an dènye."
 
 # 8cd678ef4c92436f8d4ba9c514c5349d
 #: ../source/fototoon.rst:17
 msgid "Using FotoToon"
-msgstr ""
+msgstr "Lè l sèvi avèk FotoToon"
 
 # ad5c77409cf74a42acded8a604b52398
 #: ../source/fototoon.rst:20
 msgid "The Main FotoToon Toolbar"
-msgstr ""
+msgstr "Main FotoToon Toolbar la"
 
 # 2f59ba10620049e4af51337ffa1aacb6
 #: ../source/fototoon.rst:24
 msgid ""
 "The FotoToon Toolbar has 9 icons including 3 with pulldown menus. The main "
-"FotoToon toolbar allows you to access many features of the Activity. Here is "
-"a description of what each of the icons will allow you to do:"
+"FotoToon toolbar allows you to access many features of the Activity. Here is"
+" a description of what each of the icons will allow you to do:"
 msgstr ""
+"FotoToon Toolbar la gen 9 ikon ki gen ladan 3 ak meni deroulan. Prensipal "
+"FotoToon toolbar a pèmèt ou jwenn aksè nan karakteristik anpil nan aktivite "
+"a. Isit la se yon deskripsyon nan sa ki chak nan ikon yo pral pèmèt ou fè:"
 
 # 34403609816f4c6f80fbd57db8baa2c5
 #: ../source/fototoon.rst:26
 msgid ""
-"The FotoToon icon. When you hover your cursor over this icon you will open a "
-"small pulldown that allows you to export your work as an image or a book  "
+"The FotoToon icon. When you hover your cursor over this icon you will open a"
+" small pulldown that allows you to export your work as an image or a book  "
 "(pdf file). See below for more details."
 msgstr ""
+"Icon la FotoToon. Lè ou hover kurseur ou sou icon sa a ou pral louvri yon ti"
+" deroulan ki pèmèt ou ekspòtasyon travay ou kòm yon imaj oswa yon liv (pdf "
+"dosye). Gade pi ba a pou plis detay."
 
 # 02509822e9cb4a57acc46d998892de4d
 #: ../source/fototoon.rst:27
 msgid ""
-"This icon allows you to view the content in full screen or presentation mode."
-msgstr ""
+"This icon allows you to view the content in full screen or presentation "
+"mode."
+msgstr "Icon sa a pèmèt ou wè kontni an nan plen ekran oswa mòd prezantasyon."
 
 # 34619a0bf83f4f00ae6e2405e8f40dba
 #: ../source/fototoon.rst:28
 msgid ""
 "The **Add Photo** icon. This icon allows you to add an image to your "
-"project. It can be a photo you take with the XO or digital camera, or import "
-"from the web. It can also be a picture, page, or project you create in "
+"project. It can be a photo you take with the XO or digital camera, or import"
+" from the web. It can also be a picture, page, or project you create in "
 "another Sugar Activity."
 msgstr ""
+"** Ajoute Photo ** nan icon. Icon sa a pèmèt ou ajoute yon imaj nan pwojè "
+"ou. Li kapab yon foto ou pran avèk XO a oswa kamera dijital, oswa enpòte "
+"soti nan entènèt la. Li kapab tou yon foto, paj, oswa pwojè ou kreye nan yon"
+" lòt aktivite Sugar."
 
 # 144ff490961f41929e2b250ab2de0b3a
 #: ../source/fototoon.rst:29
 msgid ""
-"The **Add a globe** icon. This allows you to add a globe. It is used to tell "
-"what the characters of your image is speaking. This also include some other "
-"icons such as whispher and think."
+"The **Add a globe** icon. This allows you to add a globe. It is used to tell"
+" what the characters of your image is speaking. This also include some other"
+" icons such as whispher and think."
 msgstr ""
+"** Ajoute yon glòb ** nan icon. Sa a pèmèt ou ajoute yon glòb. Li se itilize"
+" yo di ki sa karaktè yo nan imaj ou ap pale. Sa a gen ladan l tou kèk lòt "
+"ikon tankou whispher ak panse."
 
 # ba2a9fc58fd84457a6ca396b62f41511
 #: ../source/fototoon.rst:30
@@ -111,6 +140,8 @@ msgid ""
 "The **Choose a movement line** icon. This can be used to insert some other "
 "icons such as highlight and idea to the image."
 msgstr ""
+"** Chwazi yon liy mouvman ** nan icon. Sa a kapab itilize insert kèk lòt "
+"ikon tankou rekò ak lide nan imaj la."
 
 # 95678f606ded43d5996e8094961cf0f4
 #: ../source/fototoon.rst:31
@@ -118,11 +149,13 @@ msgid ""
 "The **Rotate** icon. This allows you to rotate the selected object in the "
 "clockwise direction in 90 degrees for each click."
 msgstr ""
+"** Wotasyon ** nan icon. Sa a pèmèt ou Thorne objè a chwazi nan yon "
+"direksyon ki goch nan 90 degre pou chak klike sou."
 
 # efa0e4a193824a749e2f8c9c5dc1e799
 #: ../source/fototoon.rst:32
 msgid "The **Delete** icon. This allows you to delete the selected object."
-msgstr ""
+msgstr "** Efase ** nan icon. Sa a pèmèt ou efase objè a chwazi."
 
 # 1939010e533348af96c5d63f37c09420
 #: ../source/fototoon.rst:33
@@ -130,6 +163,8 @@ msgid ""
 "This icon allows you to change the text properties of what you have typed. "
 "See below for more details."
 msgstr ""
+"Icon sa a pèmèt ou chanje pwopriyete yo tèks nan sa ou te tape. Gade pi ba a"
+" pou plis detay."
 
 # 76a05378e7da4f789889573cbf9aa85b
 #: ../source/fototoon.rst:34
@@ -137,6 +172,8 @@ msgid ""
 "The familiar stop-sign icon is one way to stop the FotoToon Activity. You "
 "can also use the keyboard shortcut: ctrl-Q."
 msgstr ""
+"Icon la abitye sispann-siy se yon fason yo sispann aktivite a FotoToon. Ou "
+"kapab tou itilize rakoursi nan klavye: ctrl-Q."
 
 # 22d8dc9471454630a9c876b07c447e36
 #: ../source/fototoon.rst:36
@@ -144,36 +181,45 @@ msgid ""
 "**Title:** box allows you to give a name to your project. Click on it and "
 "replace the content with the name you wish for your work."
 msgstr ""
+"** Tit: ** bwat pèmèt ou bay yon non pwojè ou. Klike sou li epi ranplase "
+"kontni an ak non an ou vle pou travay ou."
 
 # 3f086c12d1234cb0b0f16e383fa6b375
 # d09076db0129418cb25b2a9df7021c28
 #: ../source/fototoon.rst:39 ../source/fototoon.rst:196
 msgid "The Export Pulldown"
-msgstr ""
+msgstr "Export deroulan nan"
 
 # 80c9440fef744dcfa0b9fb111a8bf1c2
 # 89d9379ae3f64fba88d017844d7e95c1
 #: ../source/fototoon.rst:43 ../source/fototoon.rst:200
 msgid ""
 "1a- This little panel allows you to name your project before you export it "
-"as an image. If you do nothing, it will appear in the Journal as, \"FotoToon "
-"as image.\" If you give it a name, such as \"My Project-1\" before exporting "
-"it will appear in the Journal as \"My Project-1 as image\". This will make "
-"it easier to find later in the Journal. Just erase the FotoToon label and "
-"replace it with the title you want to use. If you forget to name it when "
-"saving, you can always go to the Journal and select and rename it."
+"as an image. If you do nothing, it will appear in the Journal as, \"FotoToon"
+" as image.\" If you give it a name, such as \"My Project-1\" before "
+"exporting it will appear in the Journal as \"My Project-1 as image\". This "
+"will make it easier to find later in the Journal. Just erase the FotoToon "
+"label and replace it with the title you want to use. If you forget to name "
+"it when saving, you can always go to the Journal and select and rename it."
 msgstr ""
+"1a- Sa a panèl ti kras pèmèt ou nan non pwojè ou anvan ou ekspòtasyon li kòm"
+" yon imaj. Si ou fè sa pa gen anyen, li pral parèt nan jounal la kòm, "
+"\"FotoToon kòm imaj. \"Si ou ba li yon non, tankou\" Pwojè-1 mwen \"a anvan "
+"yo ekspòte l ap parèt nan jounal la kòm\" Pwojè-1 mwen kòm imaj \". Sa a "
+"pral fè li pi fasil jwenn apre nan jounal la. Jis efase etikèt la FotoToon "
+"ak ranplase li ak tit la ou vle itilize. Si ou bliye non li lè ekonomize, ou"
+" ka toujou ale nan Journal a epi chwazi ak chanje non li."
 
 # 6feac1118bf344629c388f7ed8c33b73
 #: ../source/fototoon.rst:45
 msgid "1b- This allows you to add a description to the journal entry."
-msgstr ""
+msgstr "1b- sa a pèmèt ou ajoute yon deskripsyon yo antre nan jounal."
 
 # 499c921c7ab243f4a6c3cf240afe1b66
 # cb8cc50f487947b9be46a78336117549
 #: ../source/fototoon.rst:47 ../source/fototoon.rst:204
 msgid "1c- This greyed out icon for home view is currently inactive."
-msgstr ""
+msgstr "1c- Sa a grize soti icon pou wè kay se kounye a ki inaktif."
 
 # c874a5cc1e8a460986a27fe2d7389f53
 # b6cf7e294d5841b9b92e9cfcf3c70c32
@@ -185,6 +231,11 @@ msgid ""
 "make one by using the usual alt-1 (press the alt key and the 1 key at the "
 "same time)."
 msgstr ""
+"1d- Klike sou icon sa a nan ekspòtasyon pwojè ou kòm yon imaj. Ekspòtasyon "
+"an ap jis montre pwojè ou. Ba yo zouti ak lòt bagay sou ekran an pa pral "
+"enkli. Si ou ta yon piki ekran nan ekran an tout antye, ou ka fè yon sèl lè "
+"l sèvi avèk abityèl alt-1 (laprès la kle a ALT ak kle nan 1 nan menm tan "
+"an)."
 
 # 51fe88d605e54b2aa1e0d775350001db
 # dcb5c4961aa54e2ea1dd4f6bd3c40773
@@ -195,11 +246,14 @@ msgid ""
 "included. The book will be saved in PDF format. It can be viewed from Read "
 "Activity."
 msgstr ""
+"1e- Klike sou ikòn sa a nan ekspòtasyon pwojè ou kòm yon liv. Ekspòtasyon an"
+" ap jis montre pwojè ou. Ba yo zouti ak lòt bagay sou ekran an pa pral "
+"enkli. Pral Liv la ap sove nan fòma PDF. Li kapab wè li nan Li aktivite."
 
 # 1580b98e11ae4ef0adcefdd47e8870db
 #: ../source/fototoon.rst:54
 msgid "The View Pulldown"
-msgstr ""
+msgstr "View deroulan nan"
 
 # ec1df013532e4d878bdfd24ffae217e6
 #: ../source/fototoon.rst:58
@@ -209,25 +263,33 @@ msgid ""
 "the sides to navigate forward and backword in your slides. Click on the "
 "**slidshow** icon again to return to edit mode."
 msgstr ""
+"2a- Klike sou sa a sou yo wè pwojè ou nan mòd Slideshow. Li pral pèmèt ou wè"
+" glise pwojè ou pa glise. Nan Slideshow a, klike sou flèch yo pa kote sa yo "
+"nan navige pou pi devan ak backword nan glisad ou. Klike sou ** slidshow ** "
+"icon la ankò pou li retounen nan modifye mòd."
 
 # 1f965664ff614e8e852908263b2ae789
 #: ../source/fototoon.rst:60
 msgid ""
 "2b - Click this to work in full screen. This will hide the toolbar and thus "
 "you will have more space for your design. Once you are in the full screen "
-"mode, the same icon will appear on the top right corner of the window. Click "
-"that icon to return to the normal edit mode."
+"mode, the same icon will appear on the top right corner of the window. Click"
+" that icon to return to the normal edit mode."
 msgstr ""
+"2b - Klike sa a nan travay nan ekran plen. Sa a pral kache ba ikòn nan epi "
+"konsa ou pral gen plis espas pou konsepsyon ou. Yon fwa ou yo nan mòd nan "
+"ekran plen, icon a menm ap parèt sou kwen an tèt dwat nan fenèt la. Klike "
+"sou ki icon pou li retounen nan edit mòd nan nòmal."
 
 # d8dedb04cf6b4d8b9b72591fb28f7467
 #: ../source/fototoon.rst:63
 msgid "Add a globe menu"
-msgstr ""
+msgstr "Ajoute yon meni glòb"
 
 # fa0eb722faa2470db3144654234c2fd9
 #: ../source/fototoon.rst:67
 msgid "3a- You can use this to present an expression of exclamation."
-msgstr ""
+msgstr "3a- Ou kapab sèvi ak sa a prezante yon ekspresyon de esklamasyon."
 
 # 396b99f8cbf24a8884055900f0a64acb
 #: ../source/fototoon.rst:69
@@ -235,6 +297,8 @@ msgid ""
 "3b- You can use this when some one (a character) in your projects whispers "
 "someting to another."
 msgstr ""
+"3b- Ou kapab sèvi ak sa a lè yon moun (yon karaktè) nan pwojè ou a whispers "
+"someting nan yon lòt."
 
 # a8bd6f31c33e4eca8fd4eb3978a77023
 #: ../source/fototoon.rst:71
@@ -242,11 +306,12 @@ msgid ""
 "3c- You can use this to express what the characters of your projects are "
 "speaking."
 msgstr ""
+"3c- Ou kapab sèvi ak sa a eksprime sa karaktè yo nan pwojè ou a ap pale."
 
 # 8bf6b154feee4f428b8432645bdfd489
 #: ../source/fototoon.rst:73
 msgid "3d- You can use this to add a box to your project."
-msgstr ""
+msgstr "3D- Ou kapab sèvi ak sa a yo ajoute yon bwat nan pwojè ou."
 
 # 58676b40069049bd97c2fe1372f3690b
 #: ../source/fototoon.rst:75
@@ -254,36 +319,37 @@ msgid ""
 "3e- You can use this to express that some character in your project are "
 "thinking."
 msgstr ""
+"3e- Ou kapab sèvi ak sa a eksprime ke kèk karaktè nan pwojè ou ap panse."
 
 # 1120de76c65b4c30bf7f2fb366fca748
 #: ../source/fototoon.rst:78
 msgid "Choose a movement line menu"
-msgstr ""
+msgstr "Chwazi yon meni liy mouvman"
 
 # a570dd6e3a0746a28925cce636e8fbca
 #: ../source/fototoon.rst:82
 msgid "4a- You can use this to add a highlight to your project."
-msgstr ""
+msgstr "4a- Ou kapab sèvi ak sa a yo ajoute yon rekò nan pwojè ou."
 
 # 86127ea7802b4bdbaa43ab6fcafac58a
 #: ../source/fototoon.rst:84
 msgid "4b- You can use this to add straight lines to your project."
-msgstr ""
+msgstr "4b- Ou kapab sèvi ak sa a yo ajoute liy dwat nan pwojè ou."
 
 # 7731b8c5b4404d91852483bec56739c5
 #: ../source/fototoon.rst:86
 msgid "4c- You can use this to add an idea to your project."
-msgstr ""
+msgstr "4c- Ou kapab sèvi ak sa a yo ajoute yon lide nan pwojè ou."
 
 # 950fab9eca7641429a7a37861982ff1e
 #: ../source/fototoon.rst:88
 msgid "4d- You can use this to add curves to your project."
-msgstr ""
+msgstr "4d- Ou kapab sèvi ak sa a yo ajoute koub nan pwojè ou."
 
 # ee16f9a8b45744f290859de19d9c72fb
 #: ../source/fototoon.rst:91
 msgid "The Text Pulldown"
-msgstr ""
+msgstr "Deroulan nan Tèks"
 
 # 7df764e25887400aafc3667c1a77ee65
 #: ../source/fototoon.rst:95
@@ -293,6 +359,10 @@ msgid ""
 "bubble you are currently working on. You do not have to highlight the text "
 "to change it."
 msgstr ""
+"Deroulan meni an Tèks pèmèt ou kontwole aparans nan tèks la ou ajoute nan "
+"pwojè ou. Anjeneral, yo aplike nan tout bagay nan ti bwat la oswa jarèt w ap"
+" aktyèlman ap travay sou. Ou pa bezwen mete aksan sou tèks la mande chanje "
+"li."
 
 # 910595341cbb48d48bb65decea74a906
 #: ../source/fototoon.rst:97
@@ -300,20 +370,25 @@ msgid ""
 "8a- Selecting this icon will change the text you are working on to Bold. "
 "Clicking it again reverts back to regular text,"
 msgstr ""
+"8a-Chwazi icon sa a pral chanje tèks la ou ap travay sou Bold. Klike l 'ankò"
+" Liberasyo ​​tounen nan tèks regilye,"
 
 # 11325da9c68947fea0fce194c7a2ead3
 #: ../source/fototoon.rst:99
 msgid ""
 "8b- Selecting this icon will change the text your are working on to Italics."
-msgstr ""
+msgstr "8b- Chwazi icon sa a pral chanje tèks la ou ap travay sou italik."
 
 # b9450edbe60345e3b1d762b29a5d0629
 #: ../source/fototoon.rst:101
 msgid ""
 "Note: clicking on both of these icons, in any order, will give you Bold "
-"Italic text. Clicking both again, in any order, will get you back to regular "
-"text."
+"Italic text. Clicking both again, in any order, will get you back to regular"
+" text."
 msgstr ""
+"Remak: klike sou tou de nan ikon sa yo, nan nenpòt lòd, pral ba ou Bold tèks"
+" italik. Klike tou de ankò, nan nenpòt lòd, pral fè ou jwenn tounen nan tèks"
+" regilye."
 
 # f49a2726fc714dafa2eef17196e3ffa8
 #: ../source/fototoon.rst:103
@@ -321,6 +396,8 @@ msgid ""
 "8c- Clicking on this icon will open the Text Color Palette. See below for "
 "information on how to use it."
 msgstr ""
+"8c- Klike sou icon sa a pral louvri Tèks la Koulè palèt. Gade pi ba a pou "
+"enfòmasyon sou kouman yo sèvi ak li."
 
 # 4187cf2779074b1292abcf4d68794b4f
 #: ../source/fototoon.rst:105
@@ -328,13 +405,17 @@ msgid ""
 "8d-  Clicking this will reduce the size of the text. The current size will "
 "be displayed just next to this icon."
 msgstr ""
+"8d- Klike sa a ap diminye gwosè a nan tèks la. Pral gwosè ki la kounye a ap "
+"parèt jis akote icon sa a."
 
 # 8cb1f07da7b84df084c555ee8fc43754
 #: ../source/fototoon.rst:107
 msgid ""
-"8e - Clicking this will increase the size of the text. The current size will "
-"be displayed just before the icon."
+"8e - Clicking this will increase the size of the text. The current size will"
+" be displayed just before the icon."
 msgstr ""
+"8E - Klike sa a ap ogmante gwosè a nan tèks la. Pral gwosè ki la kounye a ap"
+" parèt jis anvan icon nan."
 
 # 0503c67011e94d569db1dae97c573c0c
 #: ../source/fototoon.rst:109
@@ -344,36 +425,50 @@ msgid ""
 "anything. Be sure to test the font on your text to see if it looks the way "
 "you would like it to."
 msgstr ""
+"8f- Sa a rale desann ofri yon chwa nan polis diferan, ki nan lis nan lòd "
+"alfabetik. Gen kèk, tankou \"Ding Bats\" pa aktyèlman pwodwi anyen. Asire ou"
+" ke ou teste font la sou tèks ou a wè si li sanble nan fason ou ta renmen li"
+" nan."
 
 # 042822329e314892896cc20582d5e175
 #: ../source/fototoon.rst:112
 msgid "The Color Palette Pulldown"
-msgstr ""
+msgstr "Koulè palèt deroulan nan"
 
 # d5a0ebde2f5f4f6ab02ed5b9def68a55
 #: ../source/fototoon.rst:116
 msgid ""
 "The Color Palette Pulldown allows you to choose the color of your font. It "
 "will apply to everything in the box or bubble but can vary from one box or "
-"bubble to the next as you choose. There are 12 preset colors you can use, or "
-"you can create a custom color by selecting one of the preset colors and "
+"bubble to the next as you choose. There are 12 preset colors you can use, or"
+" you can create a custom color by selecting one of the preset colors and "
 "dragging the sliders to give more or less Red, Green, or Blue in the "
 "selected color. The little circle at the top of the Color Palette shows the "
-"current color. When you are satisfied with the color you have selected/"
-"modified, click on the little circle to accept the chosen color and close "
-"the Color Palette. It may take a few seconds for the new color to appear in "
-"the text box. But, don't worry, it will!"
+"current color. When you are satisfied with the color you have "
+"selected/modified, click on the little circle to accept the chosen color and"
+" close the Color Palette. It may take a few seconds for the new color to "
+"appear in the text box. But, don't worry, it will!"
 msgstr ""
+"Koulè palèt deroulan nan pèmèt ou chwazi koulè a ​​nan font ou. Li pral "
+"aplike nan tout bagay nan ti bwat la oswa jarèt men yo ka varye soti nan yon"
+" bwat oswa ti wonn nan pwochen an kòm ou chwazi pou ou. Genyen 12 koulè "
+"prereglaj ou ka itilize, oswa ou kapab kreye yon koulè koutim pa chwazi youn"
+" nan koulè yo prereglaj ak trenen koulis yo bay plis oswa mwens wouj, vèt, "
+"oswa Blue nan koulè a ​​chwazi. Sèk an ti kras nan tèt la nan palèt an koulè"
+" montre koulè aktyèl la. Lè w ap satisfè ak koulè a ​​ou te chwazi / "
+"modifye, klike sou ti sèk nan aksepte koulè a ​​chwazi epi fèmen palèt an "
+"koulè. Li ka pran yon kèk segond pou koulè a ​​nouvo a parèt nan ti bwat la "
+"tèks. Men, pa enkyete, li pral!"
 
 # a9270b6a00a347c99e04fd33232501bd
 #: ../source/fototoon.rst:119
 msgid "Learning with FotoToon"
-msgstr ""
+msgstr "Aprann ak FotoToon"
 
 # a03a613a209949b8a492d22e18d08d6b
 #: ../source/fototoon.rst:122
 msgid "Plan Ahead"
-msgstr ""
+msgstr "Planifye Anvan"
 
 # 90a2edb834b04a96aafd565a5c21641b
 #: ../source/fototoon.rst:124
@@ -383,6 +478,11 @@ msgid ""
 "we will make a 4 panel page using 4 photos. This is a good way to get "
 "started since the page can be printed on a single page."
 msgstr ""
+"FotoToon kapab itilize pou yon gran varyete aktivite aprantisaj, men "
+"pwosesis la an jeneral se toujou menm jan an. Pou pwojè a echantiyon nan "
+"seksyon sa a, nou pral fè yon paj 4 panèl lè l sèvi avèk 4 foto. Sa a se yon"
+" bon fason jwenn te kòmanse depi ka paj la ap enprime yo sou yon paj yon "
+"sèl."
 
 # 422fe0b6d44e4d61aa8b0807268b71ab
 #: ../source/fototoon.rst:126
@@ -390,6 +490,8 @@ msgid ""
 "Here are the general steps you need to complete before you build your first "
 "FotoToon project:"
 msgstr ""
+"Isit la yo se etap sa yo jeneral ou bezwen ranpli anvan ou bati pwojè premye"
+" FotoToon ou:"
 
 # 5197750b96254d34ac03be296c0122bb
 #: ../source/fototoon.rst:128
@@ -397,64 +499,99 @@ msgid ""
 "**Step One: Decide what your project will be about.** You can tell a story "
 "about anything. For example, it could be about your pets, your home, your "
 "family, your town, or, even some photos you took at a party. Any topic is "
-"fine for our first project. The sample project will be about \"Healthy Snacks"
-"\" and the photos will be pictures of food."
+"fine for our first project. The sample project will be about \"Healthy "
+"Snacks\" and the photos will be pictures of food."
 msgstr ""
+"** Premye etap: Deside ki sa pwojè ou pral sou. ** Ou ka di yon istwa sou "
+"anyen. Pou egzanp, li te kapab fè sou bèt kay ou, lakay ou, fanmi ou, vil ou"
+" a, oswa, menm kèk foto ou te pran nan yon pati. Nenpòt sijè se amann pou "
+"premye pwojè nou an. Pwojè a echantiyon pral sou \"Healthy Ti goute\" ak "
+"foto yo pral foto nan manje."
 
 # ce751c09d6fa435d8af0f3ca98a88ccf
 #: ../source/fototoon.rst:130
 msgid ""
-"**Step Two: Make a plan.** Before you begin you should make a plan that will "
-"guide you through the construction of your project. Some people like to draw "
-"a little sketch of each pane showing what will be in the picture and a "
+"**Step Two: Make a plan.** Before you begin you should make a plan that will"
+" guide you through the construction of your project. Some people like to "
+"draw a little sketch of each pane showing what will be in the picture and a "
 "suggestion for what words will be added. If you like the panes can each be "
-"on a separate small piece of paper so you can re-arrange them easily This is "
-"called a **Story Board**. You may have another way you would like to make "
+"on a separate small piece of paper so you can re-arrange them easily This is"
+" called a **Story Board**. You may have another way you would like to make "
 "your plan, just be sure to include information about what pictures you will "
 "use, where you will get them, and what text you plan to add."
 msgstr ""
+"** Dezyèm etap: Fè yon plan. ** Anvan ou kòmanse ou ta dwe fè yon plan ki "
+"pral gide w nan konstriksyon an nan pwojè ou. Gen kèk moun ki renmen trase "
+"yon ti kras trase nan chak fenèt ki montre ki sa yo pral nan foto a ak yon "
+"sijesyon pou sa pawòl pral ajoute. Si ou renmen vitraj yo chak ka sou yon ti"
+" moso papye apa pou ou kapab re-fè aranjman pou yo byen fasil Se sa yo rele "
+"yon ** Istwa Konsèy **. Ou ka gen yon lòt fason ou ta renmen fè plan ou, jis"
+" asire w ke ou gen ladan yo enfòmasyon sou sa foto ou pral sèvi, kote ou "
+"pral jwenn yo, e ki sa tèks ou fè plan yo ajoute."
 
 # 5d1d3b8517124c6aa77b9cb998d0ddda
 #: ../source/fototoon.rst:132
 msgid ""
 "**Step Three: Gather your images.** For starters, we will use images that "
-"were taken either with a camera, or using the **Record Activity** on the XO. "
-"Any image that can be imported to the Journal on your XO and viewed in "
-"**Image Viewer** can be used. It is a good idea to rename each of the photos "
-"you will be using in the Journal. The name can include the number of the "
+"were taken either with a camera, or using the **Record Activity** on the XO."
+" Any image that can be imported to the Journal on your XO and viewed in "
+"**Image Viewer** can be used. It is a good idea to rename each of the photos"
+" you will be using in the Journal. The name can include the number of the "
 "pane you plan to use it in so it is easy to find when you begin putting "
 "things together."
 msgstr ""
+"** Twazyèm etap: Rasanble imaj ou. ** Pou kòmansè, nou pral sèvi ak imaj ki "
+"yo te pran swa ak yon kamera, oswa lè l sèvi avèk ** aktivite nan Dosye ** "
+"sou XO a. Nenpòt imaj ki ka enpòte nan Journal la sou XO ou ak wè nan ** "
+"Viewer Imaj ** ka itilize. Li se yon bon lide yo chanje non chak nan foto yo"
+" ou pral sèvi ak nan jounal la. Non a ka gen ladan yo ki kantite fenèt la ou"
+" fè plan yo sèvi ak li nan se konsa li se fasil jwenn lè ou kòmanse mete "
+"bagay sa yo ansanm."
 
 # 61e13a3b8a994d5ca8e7d2acf05ed853
 #: ../source/fototoon.rst:135
 msgid "Place Your Images"
-msgstr ""
+msgstr "Mete Imaj ou"
 
 # 1f06a9d3842242098bebab728ac7d6ba
 #: ../source/fototoon.rst:137
 msgid ""
 "Open the Journal and check to be sure your images are there and can be "
-"viewed in the Image Viewer (click on the file to open it and check). Be sure "
-"the images have names that include the number of the pane you plan to place "
-"them (1,2,3, or 4)."
+"viewed in the Image Viewer (click on the file to open it and check). Be sure"
+" the images have names that include the number of the pane you plan to place"
+" them (1,2,3, or 4)."
 msgstr ""
+"Louvri Journal la epi tcheke yo dwe asire imaj ou ki genyen epi yo ka wè nan"
+" imaj la Viewer (klike sou dosye a yo louvri li epi tcheke). Asire w ke imaj"
+" yo gen non ki gen ladan nimewo a nan fenèt la ou fè plan yo mete yo (1,2,3,"
+" oswa 4)."
 
 # 78a32187c7c4424bbc60598e9c2ae800
 #: ../source/fototoon.rst:139
 msgid ""
-"Open FotoToon and find the \"Add Photo\" icon (number 3 in the FotoToon main "
-"toolbar shown above). A list of available images will appear. Click on the "
+"Open FotoToon and find the \"Add Photo\" icon (number 3 in the FotoToon main"
+" toolbar shown above). A list of available images will appear. Click on the "
 "one you want to put in the first pane. When it has loaded, you can either "
-"leave it or remove it with the minus sign icon (number 7 in the main toolbar "
-"shown above). Warning: You can only remove the last image entered. That is "
+"leave it or remove it with the minus sign icon (number 7 in the main toolbar"
+" shown above). Warning: You can only remove the last image entered. That is "
 "why it is important to number the images according to the panes you wish to "
-"place them in. After the first image has been placed, continue adding images "
-"until all four for your first project have been placed. If you decide later "
-"that you want to change their order after they have been placed, you will "
+"place them in. After the first image has been placed, continue adding images"
+" until all four for your first project have been placed. If you decide later"
+" that you want to change their order after they have been placed, you will "
 "need to delete them and replace them in the new order. It is best to get "
 "your final placement before adding any text."
 msgstr ""
+"Open FotoToon epi jwenn \"Add Photo\" icon an (nimewo 3 nan prensipal ba "
+"ikòn nan FotoToon montre pi wo a). Yon lis nan imaj ki disponib ap parèt. "
+"Klike sou youn nan ou vle mete nan fenèt la premye. Lè li te chaje, ou ka "
+"swa kite li oswa retire li ak icon a siy mwens (nimewo 7 nan ba ikòn nan "
+"prensipal montre pi wo a). Avètisman: Ou kapab sèlman retire imaj ki sot "
+"pase a te antre nan. Se pou rezon sa li enpòtan nan nimewo imaj yo dapre "
+"vitraj yo ou ta vle mete yo nan. Apre yo fin imaj la premye te mete, "
+"kontinye ajoute imaj jouk tout kat la pou premye pwojè ou yo te mete. Si ou "
+"deside pi ta ke ou vle chanje lòd yo, yo apre yo te mete, ou pral bezwen "
+"efase yo epi ranplase yo nan lòd nan nouvo. Li pi bon yo ka resevwa plasman "
+"final ou a avan ou ajoute nenpòt tèks."
 
 # 033b491d276f4205aceeaa99f0a6bc66
 #: ../source/fototoon.rst:145
@@ -465,52 +602,62 @@ msgid ""
 "image names. They will open in the Image Viewer and be automatically saved "
 "so you can access them for your project."
 msgstr ""
+"Si ou ta renmen yo sèvi ak menm imaj yo ke yo pral itilize nan echantiyon "
+"pwojè sa a, ou pral jwenn yo nan lyen sa yo. Ale nan chak lyen, Upload foto "
+"a nan yon kondwi USB, ploge li nan XO ou, epi yo louvri pa klike sou non yo "
+"imaj. Yo pral louvri nan Viewer la Imaj ak ap otomatikman sove pou ou kapab "
+"jwenn aksè nan yo pou pwojè ou."
 
 # c59ee34ba72d4c41870fd53d4ccecb95
 #: ../source/fototoon.rst:147
 msgid "Pane-1 http://wiki.laptop.org/go/File:1-Apple-Fries.png"
-msgstr ""
+msgstr "Fenèt-1 http: // wiki. laptop. org / ale / name: 1-Apple-Fries. png"
 
 # 1d89e1e6bb864fcfb23acb9608449dc1
 #: ../source/fototoon.rst:149
 msgid "Pane-2 http://wiki.laptop.org/go/File:2-Soda-Milk.png"
-msgstr ""
+msgstr "Fenèt-2 http: // wiki. laptop. org / ale / name: 2-Soda-Lèt. png"
 
 # 4bc909c33e184116bd1c7866ad0c97a3
 #: ../source/fototoon.rst:151
 msgid "Pane-3 http://wiki.laptop.org/go/File:3-Cookies-Yogurt.png"
-msgstr ""
+msgstr "Fenèt-3 http: // wiki. laptop. org / ale / name: 3-Bonbon-Yogout. png"
 
 # b6dfc02a969a413498cd6854f0e16d7a
 #: ../source/fototoon.rst:153
 msgid "Pane-4 http://wiki.laptop.org/go/File:4-HealthySnacks.png"
-msgstr ""
+msgstr "Fenèt-4 http: // wiki. laptop. org / ale / name: 4-HealthySnacks. png"
 
 # fe72a4483c554ca2a1617c5d05345a42
 #: ../source/fototoon.rst:156
 msgid "Add Dialog and Titles"
-msgstr ""
+msgstr "Ajoute dyalòg ak tit"
 
 # c568d970acad40d7a990c0ef7d640c00
 #: ../source/fototoon.rst:158
 msgid ""
 "If you have planned well with your storyboard, you will have a pretty good "
-"idea of what you want to put in your dialog balloons and text boxes. You may "
-"even have a title in mind for your project. You can actually start this "
+"idea of what you want to put in your dialog balloons and text boxes. You may"
+" even have a title in mind for your project. You can actually start this "
 "process anywhere in your project. All of the balloons and boxes you will be "
 "using to do this will be identified in the first image above, the The Main "
 "PhotoToonToolbar."
 msgstr ""
+"Si ou te planifye byen ak scénario ou, ou pral gen yon trè bon lide de sa ou"
+" vle mete nan balon dyalòg ou ak bwat tèks. Ou ka menm gen yon tit nan tèt "
+"ou pou pwojè ou. Ou ka aktyèlman kòmanse pwosesis sa a nan nenpòt kote nan "
+"pwojè ou. Tout moun nan balon yo ak bwat ou pral sèvi ak yo fè sa yo pral "
+"idantifye nan imaj la premye pi wo a, PhotoToonToolbar nan la Main."
 
 # 2fda023e70fe474e9e3dce525537064d
 #: ../source/fototoon.rst:160
 msgid ""
-"Making and placing your Title: If you know what you would like your title to "
-"be, you can start with that. It can always be changed later. When you start "
-"a project in FotoToon there will already be a tiny box for the title in a "
+"Making and placing your Title: If you know what you would like your title to"
+" be, you can start with that. It can always be changed later. When you start"
+" a project in FotoToon there will already be a tiny box for the title in a "
 "narrow band across the top of the project window. You can drag the upper "
-"left corner of the box to enlarge it (look for the cursor arrow to change to "
-"a thinner double headed arrow). You can also move it around in the band "
+"left corner of the box to enlarge it (look for the cursor arrow to change to"
+" a thinner double headed arrow). You can also move it around in the band "
 "across the top. Click on the box and type all or part of your title. Then "
 "you can change the type style and size using the pull downs in the Text "
 "Pulldown menu (see 8d and 8e) in the picture above). Experiment until you "
@@ -518,6 +665,18 @@ msgid ""
 "Don't worry if it isn't perfect, you can always come back later and change "
 "it. Notice that you can erase part of the text by backspacing over it."
 msgstr ""
+"Fè epi mete Tit ou: Si ou konnen ki sa ou ta renmen tit ou yo dwe, ou ka "
+"kòmanse avèk ki. Li ka toujou ap chanje pita. Lè w kòmanse yon pwojè nan "
+"FotoToon gen pral deja gen yon ti bwat ti pou tit la nan yon bann etwat "
+"atravè tèt la nan fenèt la pwojè. Ou ka trennen kwen siperyè agòch nan bwat "
+"la yo elaji li (gade pou flèch la kurseur chanje nan yon mens doub flèch te "
+"dirije). Ou kapab tou deplase li alantou nan gwoup la atravè tèt la. Klike "
+"sou ti bwat la ak kalite tout oswa yon pati nan tit ou. Lè sa a, ou kapab "
+"chanje style la ak gwosè lè l sèvi avèk kalite Downs yo rale nan deroulan "
+"meni an Tèks (gade 8D ak 8E) nan foto a pi wo a). Eksperyans jiskaske ou "
+"jwenn yon style ak gwosè ou renmen. Ou kapab tou chanje koulè a ​​nan kalite"
+" la. Pa enkyete w si li se pa pafè, ou ka toujou tounen vin pita epi chanje "
+"li. Remake ou ka efase yon pati nan tèks la pa Backspacing sou li."
 
 # 290d9f90696b4ee992805f10a88d80d4
 #: ../source/fototoon.rst:166
@@ -525,6 +684,8 @@ msgid ""
 "In this image you can see that we selected bold, a red color from the color "
 "palette, a type size of 26, and the Font \"Monospace\"."
 msgstr ""
+"Nan imaj sa a ou ka wè ke nou chwazi fonse, yon koulè wouj soti nan palèt an"
+" koulè, yon gwosè di ki kalite 26, ak Font \"fixe a\"."
 
 # 0b630e06e8134dd2a7f458141f746dc4
 #: ../source/fototoon.rst:169
@@ -537,6 +698,13 @@ msgid ""
 "the source of the dialog. Add the words to the balloon in the same way you "
 "added them to the Title box."
 msgstr ""
+"Ajoute Balon Tèks: Ou ka mete balon yo tèks tout kote ou renmen ki nan yon "
+"fenèt. Klike sou fenèt la, lè sa a sou balon an ou vle itilize (al gade "
+"\"Add yon meni mondyal\" ak \"Chwazi yon liy meni mouvman\" anwo a pou "
+"eksplikasyon). Balon an ap parèt nan fenèt la. Ou ka trennen l 'nan pozisyon"
+" an kote ou vle li, epi tou li ka trennen ti kras ke a nan pwen nan sous la "
+"nan dyalòg la. Ajoute mo yo nan balon an nan menm fason an ou te ajoute yo "
+"nan bwat la Tit."
 
 # c23f84ba7cfd4ac8966bd874bb5a6261
 #: ../source/fototoon.rst:174
@@ -550,6 +718,14 @@ msgid ""
 "You can see that our type size is 10, text color is black, and we are still "
 "using the \"Monospace\" font."
 msgstr ""
+"Nan imaj sa a ou ka wè ke nou gen te ajoute 4 balon dyalòg (# 4 nan ba ikòn "
+"prensipal la). Nou ta ka tou te itilize \"panse nan\" balon, oswa "
+"\"chuichui\" balon an. Fenèt an premye se OK, men balon an premye nan dezyèm"
+" fenèt la bezwen yo dwe trennen nan yon pi bon fòm yo ak gwosè. Balon an "
+"dezyèm nan dezyèm fenèt la parèt menm jan li fè sa lè li se premye te "
+"ajoute. Li toujou bezwen gen tèks te ajoute ak yo dwe rdimansyone (pa trenen"
+" yon kwen). Ou ka wè ki gwosè kalite nou an, se 10, koulè tèks se nwa, epi "
+"nou yo ap toujou lè l sèvi avèk \"fixe\" font la."
 
 # 9369d72419e744ce86acac768b1cff70
 #: ../source/fototoon.rst:176
@@ -558,24 +734,35 @@ msgid ""
 "entirely. Just click on it, then on the icon with the minus (-) sign (#7 in "
 "the main toolbar), and it will disappear."
 msgstr ""
+"Kòm ou travay avèk divès kalite atik yo tèks, ou ka vle elimine youn "
+"antyèman. Jis klike sou li, Lè sa a, sou ikòn la ak mwens (-) siy nan (# 7 "
+"ki nan ba ikòn prensipal la), epi li pral disparèt."
 
 # 436bc770aac34b63b046d303c7c9219e
 #: ../source/fototoon.rst:178
 msgid ""
-"Adding Exclamation Balloons: You may wish to include special exclamations to "
-"your project. Choose the exclamation balloon (choose from # 4 in the main "
-"toolbar). It is possible to eliminate the one longer point on the balloon by "
-"dragging it so that it matched the others. Again, type into the balloon just "
-"as you did in the title box and dialog balloons."
+"Adding Exclamation Balloons: You may wish to include special exclamations to"
+" your project. Choose the exclamation balloon (choose from # 4 in the main "
+"toolbar). It is possible to eliminate the one longer point on the balloon by"
+" dragging it so that it matched the others. Again, type into the balloon "
+"just as you did in the title box and dialog balloons."
 msgstr ""
+"Ajoute esklamasyon Balon: Ou ka vle gen ladan èksklamasyon espesyal nan "
+"pwojè ou. Chwazi balon an esklamasyon (chwazi nan # 4 nan ba ikòn prensipal "
+"la). Li posib yo elimine yon pwen nan pi long sou balon an pa trenen li pou "
+"ke li matche lòt moun yo. Yon fwa ankò, tape nan balon an menm jan ou te fè "
+"nan ti bwat la tit ak balon dyalòg."
 
 # 6d55da03809b4a3987daa5c0824ec394
 #: ../source/fototoon.rst:180
 msgid ""
 "Adding extra Text Boxes: You can add a text box anywhere in any pane by "
-"clicking on the pane and then on the box icon in the diagram (choose from #4 "
-"in the main toolbar)."
+"clicking on the pane and then on the box icon in the diagram (choose from #4"
+" in the main toolbar)."
 msgstr ""
+"Ajoute bwat tèks siplemantè: Ou kapab ajoute yon bwat tèks nenpòt kote nan "
+"nenpòt ki fenèt pa klike sou fenèt la ak Lè sa a sou icon nan bwat nan "
+"dyagram lan (chwazi nan # 4 nan ba ikòn prensipal la)."
 
 # 931f0187a2ee48008585d3b058b8c0a7
 #: ../source/fototoon.rst:184
@@ -584,52 +771,70 @@ msgid ""
 "extra text box. We used the same text size, font, and color as in the rest "
 "of the project. You could choose to use different ones in your project."
 msgstr ""
+"Nan egzanp sa a ou ka wè nou te ajoute 4 balon esklamasyon ak yon bwat tèks "
+"siplemantè. Nou itilize gwosè nan menm tèks, font, ak koulè tankou nan rès "
+"la nan pwojè a. Ou te kapab chwazi yo sèvi ak moun diferan nan pwojè ou."
 
 # 8ac01ae1cb9f49619b6a5ba589d1d74d
 #: ../source/fototoon.rst:187
 msgid "Exporting Your Project"
-msgstr ""
+msgstr "Ekspòtatè Pwojè ou"
 
 # 4f368fc8e7dd4054966f3836050b26c3
 #: ../source/fototoon.rst:189
 msgid ""
 "Now, if you have followed the instructions above, you should have a small, "
-"completed FotoToon Project. You may have decided to use the same photos that "
-"are in the sample, or you may have chosen to use images you have imported. "
-"These can be from your camera, your XO, downloads from the web, projects you "
-"have made in other Activities, drawings you made in Paint, or even photos "
+"completed FotoToon Project. You may have decided to use the same photos that"
+" are in the sample, or you may have chosen to use images you have imported. "
+"These can be from your camera, your XO, downloads from the web, projects you"
+" have made in other Activities, drawings you made in Paint, or even photos "
 "you have modified in Paint (import, then add things and/or crop as you "
 "like). When finished, your project will look something like this:"
 msgstr ""
+"Koulye a, si ou te swiv enstriksyon ki anwo yo, ou ta dwe gen yon ti, Pwojè "
+"FotoToon ranpli. Ou ka gen deside sèvi ak foto yo menm ki nan echantiyon an,"
+" oswa ou kapab te chwazi yo sèvi ak imaj ou te enpòte. Sa yo ka soti nan "
+"kamera ou, XO ou, downloads soti nan entènèt la, pwojè ou te fè nan lòt "
+"aktivite, desen ou te fè nan penti, oswa menm foto ou te modifye nan Penti "
+"(enpòte, lè sa a ajoute bagay sa yo ak / oswa rekòt tankou ou renmen . Lè "
+"fini, pwojè ou yo ap gade yon bagay tankou sa a:"
 
 # 963842fdb0714e779d1efd13b3b1ed0e
 #: ../source/fototoon.rst:193
 msgid ""
-"Regardless of what you have made for your project, you will probably want to "
-"share it with others. You can do this as an email attachment or print it out "
-"as a paper copy. To do this, you need to export your project as an image "
-"stored in your Journal. The instructions for exporting your project are "
+"Regardless of what you have made for your project, you will probably want to"
+" share it with others. You can do this as an email attachment or print it "
+"out as a paper copy. To do this, you need to export your project as an image"
+" stored in your Journal. The instructions for exporting your project are "
 "shown above. We will repeat them here as well."
 msgstr ""
+"Kèlkeswa sa ki ou te fè pou pwojè ou, ou pral pwobableman vle pataje li avèk"
+" lòt moun. Ou ka fè sa kòm yon atachman imel oswa enprime li soti kòm yon "
+"kopi sou papye. Pou fè sa, ou bezwen ekspòtasyon pwojè ou kòm yon imaj ki "
+"estoke nan jounal ou. Yo montre enstriksyon yo pou ekspòte pwojè ou pi wo a."
+" Nou pral repete yo isit la kòm byen."
 
 # 4ae02cfa46224b36b34b15b476d733b6
 #: ../source/fototoon.rst:202
 msgid "1b- This allows you to add a description to jounal entry."
-msgstr ""
+msgstr "1b- sa a pèmèt ou ajoute yon deskripsyon jounal antre."
 
 # 46b4cdc3ed2841119ea2f73c09035822
 #: ../source/fototoon.rst:210
 msgid ""
-"Look in the Journal. Your project should appear there with the name you gave "
-"it before exporting. If you forgot to give it a name, it will just say "
+"Look in the Journal. Your project should appear there with the name you gave"
+" it before exporting. If you forgot to give it a name, it will just say "
 "\"FotoToon.\" If this happened, rename it now, in the Journal before you "
 "forget to do it."
 msgstr ""
+"Gade nan jounal la. Pwojè ou a ta dwe parèt la ak non an ou te ban l 'devan "
+"ekspòte. Si ou bliye bay li yon non, li pral jis di \"FotoToon. \"Si sa a te"
+" pase a, chanje non li kounye a, nan jounal la anvan ou bliye fè li."
 
 # f085a4463f604185a04c4a8919a034d2
 #: ../source/fototoon.rst:213
 msgid "Extending FotoToon"
-msgstr ""
+msgstr "Pwolonje FotoToon"
 
 # 1a63dbe58d264dce802823f43a5644a6
 #: ../source/fototoon.rst:215
@@ -639,6 +844,10 @@ msgid ""
 "areas where students and teachers can construct lessons on any topic. Here "
 "are some possible ideas for projects:"
 msgstr ""
+"FotoToon kapab itilize pou pi plis pase senp egzanp a 4-fenèt nou bati nan "
+"enstriksyon yo. Ou kapab adapte li pou itilize nan anpil zòn sijè diferan "
+"kote elèv yo ak pwofesè ka konstwi leson sou nenpòt ki sijè. Isit la yo se "
+"kèk ide posib pou pwojè:"
 
 # e66654cf817743dab1a16b96748a674f
 #: ../source/fototoon.rst:217
@@ -647,6 +856,9 @@ msgid ""
 "their own little \"graphic novels\" and even print them and take home to "
 "share with friends and family."
 msgstr ""
+"Liv komik Elèv ekri pou pratik lang e literati. Elèv-yo kapab ekri pwòp ti "
+"kras \"woman grafik\" yo e menm enprime yo epi pran lakay yo nan pataje avèk"
+" zanmi ak fanmi."
 
 # 0bd604ee58da4b5c9f7ce932e4223de9
 #: ../source/fototoon.rst:219
@@ -656,20 +868,28 @@ msgid ""
 "see in actual magazines. One or more panes on the page can be used just for "
 "text to extend the story. The text could be written in another program and "
 "imported as an image or put in a large text box that fills the pane. The "
-"advantage of doing it all in FotoToon is that it would be easier to edit and/"
-"or change the text there than if it is imported as an image. Some possible "
-"ideas for these articles could be:"
+"advantage of doing it all in FotoToon is that it would be easier to edit "
+"and/or change the text there than if it is imported as an image. Some "
+"possible ideas for these articles could be:"
 msgstr ""
+"Elèv pwodwi atik nan magazin pou nenpòt ki sijè yo ak pwofesè yo chwazi. Yon"
+" paj yon sèl oswa de-paj \"gaye\" pral fè li tankou sa yo ou wè nan magazin "
+"aktyèl. Youn oswa plis vitraj sou paj la ka itilize sèlman pou tèks pou yon "
+"ekstansyon pou istwa a. Te kapab tèks la dwe ekri nan yon lòt pwogram ak "
+"enpòte kòm yon imaj oubyen yo mete li nan yon bwat tèks gwo ki plen fenèt "
+"la. Avantaj nan fè li tout nan FotoToon se ke li ta pi fasil edite ak / oswa"
+" chanje tèks la gen pase si li se enpòte kòm yon imaj. Kèk ide posib pou "
+"atik sa yo ta ka:"
 
 # b9c839a8b37a4b82aaca0454e3979910
 #: ../source/fototoon.rst:221
 msgid "Cooking favorite foods (with recipes)"
-msgstr ""
+msgstr "Kwit manje manje pi renmen (ak resèt)"
 
 # 4b68c2dd20e34af0ba4786c1f03c2a44
 #: ../source/fototoon.rst:223
 msgid "Family pets (pictures and stories)"
-msgstr ""
+msgstr "Bèt kay Fanmi (foto ak istwa)"
 
 # f2ab7b439b7f46e9b5e3b332d8a5c0d9
 #: ../source/fototoon.rst:225
@@ -677,6 +897,8 @@ msgid ""
 "Our neighborhood (pictures and stories of places to see or problems that "
 "need to be solved)"
 msgstr ""
+"Nou katye (foto ak istwa nan kote yo wè oswa pwoblèm ki bezwen yo dwe "
+"rezoud)"
 
 # d0197f541948495ca62580b5fd2d71a1
 #: ../source/fototoon.rst:227
@@ -684,22 +906,25 @@ msgid ""
 "Science articles with photos of plants, animals, rocks, etc. including "
 "descriptions and information"
 msgstr ""
+"Atik Syans ak foto nan plant yo, bèt yo, wòch, elatriye. ki gen ladan "
+"deskripsyon ak enfòmasyon"
 
 # 73e9ab102c2b4997a9640be294508c2c
 #: ../source/fototoon.rst:229
 msgid ""
 "Historical articles with photos of people or places imported from the web"
 msgstr ""
+"Atik Istorik ak foto moun nan pèp oswa kote enpòte soti nan entènèt la"
 
 # 4ca84f4e9e0943f8ba5f966018608446
 #: ../source/fototoon.rst:231
 msgid "\"How To\" articles on any topic the students or teacher choose"
-msgstr ""
+msgstr "\"Kijan Pou\" atik sou nenpòt ki sijè elèv yo oswa pwofesè chwazi"
 
 # 4e8500b9c2864e81ae1927e753f0331a
 #: ../source/fototoon.rst:235
 msgid "Modifying FotoToon"
-msgstr ""
+msgstr "Modifye FotoToon"
 
 # 62db5a8206f44e8fb0059d1b8a1f17c1
 #: ../source/fototoon.rst:237
@@ -710,16 +935,26 @@ msgid ""
 "suit your needs, you may do so. Just don't forget to give credit where "
 "credit is due."
 msgstr ""
+"FotoToon se gratis lojisyèl sous louvri, epi, jan sa yo se disponib nan "
+"kapab modifye pa itilizatè a jan yo vle osi lontan ke yo bay orijinal sous "
+"apwopriye kredi a. Se konsa, si ou se yon pwogramè epi ou vle chanje yon "
+"bagay kostim bezwen ou, ou ka fè sa. Jis pa bliye bay kredi kote kredi se "
+"akòz."
 
 # 8f09cc402097432f87851088b1bbd970
 #: ../source/fototoon.rst:239
 msgid ""
-"If you are not a programmer, you can suggest changes or modifications to the "
-"Activity to the original programmer at the same place where you would report "
-"problems. If it is something that will improve the Activity and not "
+"If you are not a programmer, you can suggest changes or modifications to the"
+" Activity to the original programmer at the same place where you would "
+"report problems. If it is something that will improve the Activity and not "
 "interfere with other parts of it, the programmers will be happy to consider "
 "including it in a future update."
 msgstr ""
+"Si ou pa yon pwogramè, ou ka sijere chanjman oswa modifikasyon nan aktivite "
+"nan pwogramè orijinal la nan plas la menm kote ou ta repòte pwoblèm. Si li "
+"se yon bagay ki pral amelyore aktivite a epi yo pa entèfere ak lòt pati nan "
+"li, pwogramasyon yo pral gen kè kontan yo konsidere ki gen ladan l 'nan yon "
+"aktyalizasyon lavni."
 
 # a2f907af372d45ebb400e9291904bdb4
 #: ../source/fototoon.rst:241
@@ -727,3 +962,5 @@ msgid ""
 "Because there are always updates and improvements happening with this "
 "program, be sure to always check to be sure you have the latest version."
 msgstr ""
+"Paske gen toujou dènye ak amelyorasyon k ap pase ak pwogram sa a, asire w ke"
+" ou toujou tcheke asire w ke ou gen vèsyon an dènye."

@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -20,7 +20,7 @@ msgstr ""
 # 9562a204fc4d47e9af7da18a21a4805c
 #: ../source/starting_the_xo.rst:3 ../source/starting_the_xo.rst:6
 msgid "Starting the XO"
-msgstr ""
+msgstr "Koumanse XO a"
 
 # b20a787080c141529696b65eb44a7bdd
 #: ../source/starting_the_xo.rst:10
@@ -28,14 +28,19 @@ msgid ""
 "To start the XO, press the Power button, near the lower right corner of the "
 "screen. The XO takes about 30 seconds to start up."
 msgstr ""
+"Pou yo kòmanse XO a, peze bouton an pouvwa, tou pre kwen ki anba adwat nan "
+"ekran an. XO la pran apeprè 30 segonn yo kòmanse moute."
 
 # 376300fb6da8458ca4f8fbdd6d5dd7d0
 #: ../source/starting_the_xo.rst:12
 msgid ""
-"If the battery needs charging, the light next to the power button glows red. "
-"Plug the AC adaptor into the left side of the XO and plug the power cord "
+"If the battery needs charging, the light next to the power button glows red."
+" Plug the AC adaptor into the left side of the XO and plug the power cord "
 "into an outlet if you see the red light or if the XO does not start up."
 msgstr ""
+"Si batri a bezwen chaje, limyè a pwochen nan bouton an pouvwa vin wouj wouj."
+" Ploge adaptè a AC nan bò gòch la XO a ak ploge kòd la pouvwa nan yon priz "
+"si ou wè limyè a wouj oswa si XO a pa kòmanse moute."
 
 # 0ba3bc85f9b243ac9b00ddf10834b0e5
 #: ../source/starting_the_xo.rst:14
@@ -43,11 +48,13 @@ msgid ""
 "If you have difficulty starting your XO, refer to the Repairing chapter for "
 "ideas."
 msgstr ""
+"Si ou gen difikilte kòmanse XO ou, al gade nan chapit la Reparasyon pou "
+"lide."
 
 # 7091937eaa1747a9b7bd1dde59775236
 #: ../source/starting_the_xo.rst:17
 msgid "Starting for the first time"
-msgstr ""
+msgstr "Koumanse la pou premye fwa"
 
 # 0f6c8ba5ed5d4a28963d706c287bc4bf
 #: ../source/starting_the_xo.rst:19
@@ -57,11 +64,15 @@ msgid ""
 "your name and goes directly to the Home View. Later on you can learn how to "
 "change to a nick name of your choosing."
 msgstr ""
+"Apre ou peze bouton an pouvwa ak XO a okòmansman kòmanse leve, ekran an XO "
+"mande pou premye non ou. Tan nan pwochen ou kòmanse li, li sonje non ou ak "
+"ale dirèkteman nan View a Kay. Pita sou ou ka aprann ki jan yo chanje yon "
+"non Nick yo chwazi ou."
 
 # 06edca2decae4e018db6901fc28f47a8
 #: ../source/starting_the_xo.rst:21
 msgid "Type your name."
-msgstr ""
+msgstr "Tape non ou."
 
 # 7bc84fd0fd51495b8f839928626143a4
 #: ../source/starting_the_xo.rst:25
@@ -70,25 +81,33 @@ msgid ""
 "the keyboard to move the arrow over the word \"Next\". Press the key below "
 "the touchpad on the left with an \"X\" on it to \"click\".)"
 msgstr ""
+"Apre ou fin antre nan non ou, klike sou Next. (Sèvi ak yon dwèt sou touchpad"
+" ki anba a klavye a pou avanse pou pi flèch la sou pawòl Bondye a \"Next\". "
+"Peze kle ki anba la a touchpad a sou bò gòch la ak yon \"X\" sou li nan "
+"\"klike sou\". )"
 
 # c29ac0ade6fc45caaa458da600c53186
 #: ../source/starting_the_xo.rst:29
 msgid ""
 "Next, you see a small O on top of an X. This symbol represents you when you "
 "use your XO. Use your finger on the touchpad to move the arrow over the "
-"person symbol. \"Click\" this person symbol by pressing the key with an \"X"
-"\" on the left below the touchpad to choose colors that you like."
+"person symbol. \"Click\" this person symbol by pressing the key with an "
+"\"X\" on the left below the touchpad to choose colors that you like."
 msgstr ""
+"Next, ou wè yon ti O sou tèt yon X. Senbòl sa a reprezante ou lè ou sèvi ak "
+"XO ou. Sèvi ak dwèt ou sou touchpad a pou avanse pou pi flèch la sou senbòl "
+"la moun. \"Klike sou\" sa a senbòl moun pa peze kle a ak yon \"X\" sou bò "
+"gòch la anba a touchpad a yo chwazi koulè ke ou renmen."
 
 # 5dc7c21933cc4779befbac28777c1bc0
 #: ../source/starting_the_xo.rst:33
 msgid "After you chose your colors, click \"Done.\""
-msgstr ""
+msgstr "Apre ou te chwazi koulè ou a, klike \"fè. \""
 
 # 8207e6ce8d6742fe980a80d16c3f964b
 #: ../source/starting_the_xo.rst:38
 msgid "Putting the XO to sleep"
-msgstr ""
+msgstr "Mete XO a nan dòmi"
 
 # 83c00075b07d4a94a2ffd5cc8bf049ec
 #: ../source/starting_the_xo.rst:40
@@ -99,11 +118,14 @@ msgid ""
 "when you haven't been using it for a while, or when you push the power "
 "button."
 msgstr ""
+"Lè ou pare yo sispann lè l sèvi avèk XO ou pou yon ti tan, ou ka mete l 'nan"
+" dòmi pa pouse kle a pouvwa ou te itilize yo vire l' sou. Ekran an ki parèt "
+"lè ou pouse bouton an pouvwa montre de rezon ki fè yo pou dòmi; ."
 
 # eb2753ed458d4d038a5251c995ba3a4d
 #: ../source/starting_the_xo.rst:45
 msgid "Shutting down the XO"
-msgstr ""
+msgstr "Fèmen XO a"
 
 # f8f41ae2ce144f36a4865b6879e469eb
 #: ../source/starting_the_xo.rst:47
@@ -111,11 +133,13 @@ msgid ""
 "When you have finished using the computer, click over the XO icon in the "
 "middle of the Home screen, and select the option Shutdown."
 msgstr ""
+"Lè ou fini lè l sèvi avèk òdinatè a, klike sou sou icon nan XO nan mitan an "
+"nan ekran an Kay, epi chwazi are a opsyon."
 
 # 0313ffc5ee114d6c935b449a2b8812a6
 #: ../source/starting_the_xo.rst:52
 msgid "Forced Shutdown"
-msgstr ""
+msgstr "Fòse are"
 
 # 1a7b5c1a3ea944d9b1cde480c99e2495
 #: ../source/starting_the_xo.rst:54
@@ -124,6 +148,11 @@ msgid ""
 "you can make an emergency shutdown by pressing and holding the power button "
 "for a few seconds. Be careful that your power button does not get \"stuck\" "
 "in the down position. If it does get stuck, the XO does not detect the "
-"depression of the power button, and does not turn on. If this happens, refer "
-"to the Repairing chapter for information."
+"depression of the power button, and does not turn on. If this happens, refer"
+" to the Repairing chapter for information."
 msgstr ""
+"Chak fwa XO a vin unresponsive klavye a oswa tactile a, ou ka fè yon are "
+"ijans pa peze e kenbe bouton an pouvwa pou yon kèk segond. Fè atansyon pou "
+"bouton pouvwa ou pa jwenn \"kole\" nan yon pozisyon nan desann. Si li bloke,"
+" XO a pa detekte depresyon an nan bouton an pouvwa, epi yo pa vire sou. Si "
+"sa rive, al gade nan chapit la Reparasyon pou enfòmasyon."

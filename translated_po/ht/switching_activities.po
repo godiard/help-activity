@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -19,17 +19,17 @@ msgstr ""
 # 337a4ca5ec27402597e0dce1df6daa3f
 #: ../source/switching_activities.rst:4
 msgid "Switching Activities"
-msgstr ""
+msgstr "Oblije chanje Aktivite"
 
 # 9efe81cc6347471abbcfe086e2b4c687
 #: ../source/switching_activities.rst:6
 msgid "You can switch between Activities in two ways:"
-msgstr ""
+msgstr "Ou ka chanje ant Aktivite nan de fason:"
 
 # d55a61b929f74d8e96fe66c495c69bdc
 #: ../source/switching_activities.rst:8
 msgid "In the Frame, click the icon of the Activity you want to switch to."
-msgstr ""
+msgstr "Nan ankadreman an, klike sou ikòn a nan aktivite a ou vle chanje a."
 
 # fae5e1c1dd37449d91a94c4138477505
 #: ../source/switching_activities.rst:9
@@ -37,15 +37,19 @@ msgid ""
 "Hold down alt + tab at the same time to cycle through your open Activities "
 "until you reach the one you want."
 msgstr ""
+"Kenbe desann alt + tab an menm tan an sik atravè Aktivite louvri ou jiskaske"
+" ou rive nan youn nan ou vle."
 
 # 38d33bdce2704b1e82fc8ad8a27af34b
 # 5a604588aaaf4c378cc8d9f8e873a5ff
 #: ../source/switching_activities.rst:13 ../source/switching_activities.rst:17
 msgid "pressing alt + tab again"
-msgstr ""
+msgstr "peze alt + tab ankò"
 
 # b3c6f96685f54f58b01d0961da5895a4
 #: ../source/switching_activities.rst:23
 msgid ""
 "You can use the Clipboard and the Journal to move data between Activities."
 msgstr ""
+"Ou kapab sèvi ak clipboard a ak jounal la pou avanse pou pi done ant "
+"Aktivite."
