@@ -2,17 +2,21 @@ from translate import Translator
 import polib
 import os
 
-po_files_dir = '/home/gonzalo/sugar-devel/honey/help/help-activity/translated_po/es'
+language_code = 'es'
+
+po_files_dir = './translated_po/%s' % language_code
 
 files = os.listdir(po_files_dir)
+#files = ['abacus.po']
+translate_all = True
 
-translator= Translator(to_lang="es")
+translator= Translator(to_lang=language_code)
 
 for po_file_name in files:
     print "TRANSLATE %s" % po_file_name
     po = polib.pofile(os.path.join(po_files_dir, po_file_name))
     for entry in po:
-        if entry.msgstr == '':
+        if translate_all or entry.msgstr == '':
             print entry.msgid
             sentences = entry.msgid.split('.')
             translated_sentences = []
