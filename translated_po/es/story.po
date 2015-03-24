@@ -182,7 +182,7 @@ msgid ""
 msgstr ""
 "La Historia puede ser compartida, por lo que la narración se puede crear "
 "entre varios estudiantes. Se pueden encadenar juntos una historia por "
-"turnos; ."
+"turnos; cada vez que implica la generación de narración para una imagen."
 
 # 24e5a9a0e7354fc590eecb5d82149939
 #: ../source/story.rst:67

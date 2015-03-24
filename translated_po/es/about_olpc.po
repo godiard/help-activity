@@ -54,7 +54,7 @@ msgstr ""
 "educativas para los niños más pobres del mundo, proporcionando a cada niño "
 "con un bajo costo robusto, de baja potencia, portátil conectado con el "
 "contenido y software diseñado para la colaboración, alegre, y auto "
-"facultado- ."
+"facultado- aprendizaje."
 
 # b0e2ed479fb1400199a2eb4e4c313680
 #: ../source/about_olpc.rst:12

@@ -243,8 +243,10 @@ msgid ""
 "this tool and click on the point on the object you want to trace. You can "
 "delete a tracer by left clicking with the destroy tool (below)"
 msgstr ""
-"¿Quieres ver cómo y dónde se mueve un objeto? . Puede eliminar un marcador "
-"haciendo clic izquierdo con la herramienta de destruir (abajo)"
+"¿Quieres ver cómo y dónde se mueve un objeto? Ponga un trazador en él! "
+"Seleccione esta herramienta y haga clic en el punto en el objeto que desea "
+"rastrear. Puede eliminar un marcador haciendo clic izquierdo con la "
+"herramienta de destruir (abajo)"
 
 # 7d58372858e74e36ad10c049bf78429c
 #: ../source/physics.rst:58
@@ -262,11 +264,12 @@ msgid ""
 "only when you are sure you want it."
 msgstr ""
 "Seleccione esta herramienta y arrastre para dejar un rastro de destrucción "
-"detrás! . Un solo clic izquierdo borra un pin / motor / trazador en el "
-"objeto. Desde cuerdas son sólo pequeñas bolas unidas con articulaciones "
-"pequeñas, puede intentar borrarlos también, pero toma tiempo y es algo "
-"molesto. Por lo tanto, tratar de hacer sólo la cuerda cuando esté seguro de "
-"que desea que."
+"detrás! Usted no sólo utiliza esta herramienta para destruir objetos, sino "
+"también alfileres, motores y trazadores. Un solo clic izquierdo borra un pin"
+" / motor / trazador en el objeto. Desde cuerdas son sólo pequeñas bolas "
+"unidas con articulaciones pequeñas, puede intentar borrarlos también, pero "
+"toma tiempo y es algo molesto. Por lo tanto, tratar de hacer sólo la cuerda "
+"cuando esté seguro de que desea que."
 
 # efa60c792ebb4610a574800b2bab8782
 #: ../source/physics.rst:60
@@ -278,7 +281,9 @@ msgid ""
 msgstr ""
 "** Protip **: Si has dibujado con una herramienta antes y desea varias "
 "copias de la misma forma, acaba de hacer un clic izquierdo y el mismo objeto"
-" con redactarse de nuevo. Prueba con la herramienta Rectángulo! ."
+" con redactarse de nuevo. Prueba con la herramienta Rectángulo! Dibuja un "
+"cuadrado y luego haga clic en la izquierda otra vez, obtendrá otra copia de "
+"la plaza."
 
 # 35cecab5bdff4dcd9259b991290a5d5d
 #: ../source/physics.rst:63

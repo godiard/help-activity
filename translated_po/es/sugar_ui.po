@@ -75,7 +75,10 @@ msgid ""
 "Sugar incorporates a Frame around the border of the screen; the Frame holds "
 "status information, such as alerts, a clipboard, open activities, and your "
 "current collaborators."
-msgstr "Azúcar incorpora un marco alrededor de la frontera de la pantalla; ."
+msgstr ""
+"Azúcar incorpora un marco alrededor de la frontera de la pantalla; el Marco "
+"mantiene la información de estado, como alertas, un portapapeles, "
+"actividades abiertas, y sus colaboradores actuales."
 
 # 1857925284dc4ced9a1ff3aedd04c6db
 #: ../source/sugar_ui.rst:17
@@ -84,8 +87,9 @@ msgid ""
 " reflection. You do not need to save files or create folders; Activities "
 "automatically save your work to the Journal."
 msgstr ""
-"Azúcar mantiene un diario (o diario) de todo lo que haces; . No es necesario"
-" guardar los archivos o crear carpetas; ."
+"Azúcar mantiene un diario (o diario) de todo lo que haces; es un lugar para "
+"la reflexión. No es necesario guardar los archivos o crear carpetas; "
+"Actividades guardar automáticamente el trabajo a la Revista."
 
 # 6ab00b25f914426a8cd6cb9f55b41e50
 #: ../source/sugar_ui.rst:19
@@ -99,9 +103,10 @@ msgid ""
 msgstr ""
 "Azúcar enfatiza descubrimiento. Cada objeto en la interfaz tiene un menú que"
 " revela más detalles y opciones de acción. Muchas actividades incluyen una "
-"opción de \"Ver código fuente\"; . La mayoría de las actividades están "
-"escritos en el lenguaje de programación Python. Usted puede ver cómo "
-"funcionan, y hacer cambios a ellos."
+"opción de \"Ver código fuente\"; por ejemplo, la actividad Browse le permite"
+" examinar el código HTML que revela cómo se crea una página web. La mayoría "
+"de las actividades están escritos en el lenguaje de programación Python. "
+"Usted puede ver cómo funcionan, y hacer cambios a ellos."
 
 # f5dde0e6654f4816bef17ae72b5641a8
 #: ../source/sugar_ui.rst:21
@@ -137,7 +142,8 @@ msgstr ""
 "El azúcar no tiene aplicaciones en el sentido tradicional. Actividades "
 "difieren de las aplicaciones en lo que se enfocan (la colaboración y la "
 "expresión) y en su aplicación (diario e iterativo). Esto es más que una "
-"nueva convención de nombres; ."
+"nueva convención de nombres; que representa una cualidad intrínseca de la "
+"experiencia de aprendizaje que esperamos los niños tendrán al usar azúcar."
 
 # 99936cf9aaee48baa6264086b4ec24d0
 #: ../source/sugar_ui.rst:30
@@ -236,9 +242,9 @@ msgid ""
 msgstr ""
 "Al girar el sistema de archivos tradicional en objetos habla más "
 "directamente a las metáforas del mundo real: en vez de un archivo de sonido,"
-" tenemos un sonido real; . Para apoyar este concepto, los desarrolladores de"
-" actividades pueden definir tipos de objetos e iconos asociados para "
-"representarlos."
+" tenemos un sonido real; en lugar de un archivo de texto, una historia. Para"
+" apoyar este concepto, los desarrolladores de actividades pueden definir "
+"tipos de objetos e iconos asociados para representarlos."
 
 # 12acdd8cba7b406d8e0a0a52a8189247
 #: ../source/sugar_ui.rst:44

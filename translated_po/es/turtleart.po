@@ -92,7 +92,8 @@ msgid ""
 "colorful lines are drawn."
 msgstr ""
 "Comience haciendo clic en (o arrastrar) cuadras de la paleta de la tortuga. "
-"Utilice múltiples bloques para crear dibujos; ."
+"Utilice múltiples bloques para crear dibujos; como la tortuga se mueve bajo "
+"su control, líneas de colores se dibujan."
 
 # 2628e3566f764209a6f9594893c0ac4d
 #: ../source/turtleart.rst:28
@@ -204,8 +205,9 @@ msgid ""
 "erase; e.g., Alt+e will erase the screen. Esc will return from full-screen "
 "mode."
 msgstr ""
-"Atajos de teclado para lo anterior: paleta Alt +; . g. , Alt + e borrará la "
-"pantalla. Esc volverá desde el modo de pantalla completa."
+"Atajos de teclado para lo anterior: paleta Alt +; bloques; carrera; caminar;"
+" deténgase; borrar; e. g. , Alt + e borrará la pantalla. Esc volverá desde "
+"el modo de pantalla completa."
 
 # 1e9b01ee1a384372917ec6a584593bca
 #: ../source/turtleart.rst:57
@@ -264,8 +266,8 @@ msgid ""
 "Share blocks; shown in disable state. Used to share stacks of blocks between"
 " collaborators."
 msgstr ""
-"Bloques de Acciones; . Se utiliza para compartir pilas de bloques entre "
-"colaboradores."
+"Bloques de Acciones; se muestra en el estado de desactivación. Se utiliza "
+"para compartir pilas de bloques entre colaboradores."
 
 # 328c7e410a1f43c9886da1a1086b9b99
 #: ../source/turtleart.rst:75
@@ -432,8 +434,11 @@ msgid ""
 "used for restoring blocks from the trash."
 msgstr ""
 "Hay diez paletas de elementos de los programas disponibles para la "
-"construcción de programas: los movimientos de la tortuga; . Una paleta "
-"undécimo se utiliza para la restauración de los bloques de la basura."
+"construcción de programas: los movimientos de la tortuga; Atributos de "
+"pluma; Atributos de color; Los operadores numéricos; Los operadores lógicos;"
+" Los bloques lógicos; Bloques de sensores; Bloques de los medios de "
+"comunicación; Funciones de personalización; Presentación y bloques. Una "
+"paleta undécimo se utiliza para la restauración de los bloques de la basura."
 
 # 5e6e88f1c08f4eafb317727d05e043f8
 #: ../source/turtleart.rst:126
@@ -973,7 +978,7 @@ msgid ""
 msgstr ""
 "** Nota: ** Cuando se utilizan una acción con nombre o un bloque con el "
 "nombre, nuevos bloques aparecen en la paleta que se corresponden con estos "
-"nombres; . g. , Si una parte superior de la pila de acción es cambiar el "
+"nombres; e. g. , Si una parte superior de la pila de acción es cambiar el "
 "nombre de \"cuadrar\", un bloque de acción, \"cuadrar\" se agrega a la "
 "paleta."
 
@@ -1314,7 +1319,8 @@ msgid ""
 "add your own math equation in the block, e.g., sin(x); This block is "
 "expandable to support up to three variables, e.g. f(x,y,z)"
 msgstr ""
-"añadir su ecuación matemática en el bloque, e. g. , Sin (x); . g. f(x,y,z)"
+"añadir su ecuación matemática en el bloque, e. g. , Sin (x); Este bloque es "
+"ampliable para soportar hasta tres variables, e. g. f(x,y,z)"
 
 # 5f0151c461d64343b4ac7c8f3ff93933
 #: ../source/turtleart.rst:321
@@ -1402,7 +1408,9 @@ msgstr ""
 msgid ""
 "list slide: used for bulleted lists; This block is expandable, allowing you "
 "to add as many bullets as you need"
-msgstr "lista de diapositivas: se utiliza para las listas con viñetas;"
+msgstr ""
+"lista de diapositivas: se utiliza para las listas con viñetas; Este bloque "
+"es ampliable, lo que le permite añadir tantas balas como usted necesita"
 
 # 39da187b4fdb4edc8ffd294bb57ce6ab
 #: ../source/turtleart.rst:339
@@ -1666,7 +1674,8 @@ msgid ""
 " stack you have created."
 msgstr ""
 "No se puede ejecutar un bloque Python haciendo clic en él, como que se abre "
-"el selector de objeto; ."
+"el selector de objeto; lugar conecte el bloque a otro y haga clic en otra "
+"parte de la pila que haya creado."
 
 # 130eefd36e874922b7a833fa6ce37d66
 #: ../source/turtleart.rst:411
@@ -1704,7 +1713,8 @@ msgstr ""
 "Gran parte de la motivación detrás de la versión 83 refactorización del "
 "código era para hacer más fácil para usted para hacer cambios. La mayoría de"
 " los cambios se pueden limitar a dos módulos: taconstants. py y talogo. py. "
-"El primero define los bloques y paletas; ."
+"El primero define los bloques y paletas; este último define qué código se "
+"ejecuta por un bloque."
 
 # 806c5c5179594cb1b8c449bf66e79804
 #: ../source/turtleart.rst:420

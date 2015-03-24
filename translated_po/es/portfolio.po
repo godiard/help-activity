@@ -126,7 +126,9 @@ msgstr "** ¿Sabía usted que: **"
 msgid ""
 "you can record audio notes for each slide; the notes are played back "
 "whenever the slide is viewed;"
-msgstr "usted puede grabar notas de audio para cada diapositiva;"
+msgstr ""
+"usted puede grabar notas de audio para cada diapositiva; las notas se "
+"reproducen cada vez que la diapositiva se ve;"
 
 # 29305c23fa40473180efda71d55a2bce
 #: ../source/portfolio.rst:45
@@ -155,6 +157,7 @@ msgid ""
 "in the thumbnail view, you can reorder your slides (by dragging them); and"
 msgstr ""
 "en la vista en miniatura, puede reordenar las diapositivas (arrastrándolos);"
+" y"
 
 # 44f888c5573347a785c5a1f4cc4217da
 #: ../source/portfolio.rst:49
@@ -567,7 +570,10 @@ msgstr ""
 "Se recomienda que periódicamente (una vez por semana, mes, semestre) que los"
 " niños se les pide que seleccionar y editar elementos de una presentación de"
 " la cartera. Por ejemplo, una presentación semanal podría hacerse a "
-"compañeros de clase; ."
+"compañeros de clase; una mensual a los padres; y tal vez una vez por "
+"semestre, una presentación de toda la escuela que hace que todo el "
+"aprendizaje visible para los administradores y miembros de la comunidad "
+"durante un evento social."
 
 # 480a4bf7083c46d6a47e7c7abd1d6135
 #: ../source/portfolio.rst:145

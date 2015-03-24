@@ -124,7 +124,8 @@ msgstr ""
 "Cuando esté listo para dejar de usar su XO por un tiempo, usted puede "
 "ponerlo a dormir presionando la tecla de encendido que utilizó para "
 "encenderlo. La pantalla que aparece al pulsar el botón de encendido se "
-"muestran las dos razones para dormir; ."
+"muestran las dos razones para dormir; cuando usted no ha estado usando "
+"durante un tiempo, o cuando se presiona el botón de encendido."
 
 # eb2753ed458d4d038a5251c995ba3a4d
 #: ../source/starting_the_xo.rst:45

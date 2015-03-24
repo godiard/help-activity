@@ -54,7 +54,7 @@ msgstr ""
 "Por ejemplo, escribir ** ** pwd (Escriba el nombre de directorio de trabajo "
 "actual /) en la línea de comandos en el directorio principal da esa "
 "ubicación como / home / olpc, y escribiendo ls ** ** en la línea de comando "
-"muestra el contenido de ."
+"muestra el contenido de el directorio actual."
 
 # 3980ceefb2d042659a5c6f56cc0cbfbc
 #: ../source/terminal.rst:13
@@ -256,7 +256,7 @@ msgstr ""
 " comandos y obtener una pantalla de dos paneles de archivos en el mismo o "
 "diferentes directorios, junto con botones de funciones y menús para crear y "
 "borrar directorios, mover o copiar archivos, ver o editar archivos, archivo "
-"cambiante ."
+"cambiante permisos, y mucho más."
 
 # 8b5a06aeaf014bbd95a93358c88e66cf
 #: ../source/terminal.rst:77

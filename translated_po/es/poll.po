@@ -195,14 +195,17 @@ msgid ""
 "you think will win? Why?"
 msgstr ""
 "Mira el número de votos junto a cada respuesta. ¿Cuál tiene más votos hasta "
-"el momento?"
+"el momento? ¿Cuántas personas eligieron la misma respuesta que usted? ¿Qué "
+"respuesta crees que ganará? ¿Por qué?"
 
 # 4ac28db57cc04932bf7d46494b5b7b43
 #: ../source/poll.rst:50
 msgid ""
 "Look at the bar graph. Which answer has the longest bar? What does that "
 "mean? Which answer has the shortest bar? What does that mean?"
-msgstr "Mira el gráfico de barras. ¿Qué respuesta tiene la barra más larga?"
+msgstr ""
+"Mira el gráfico de barras. ¿Qué respuesta tiene la barra más larga? Qué "
+"significa eso? ¿Qué respuesta tiene la barra más corta? Qué significa eso?"
 
 # 594577612ba2447ca62370cc5450dfa2
 #: ../source/poll.rst:52
@@ -221,7 +224,8 @@ msgid ""
 "information?"
 msgstr ""
 "Después de que todos los votos, discutir los resultados finales. ¿Qué "
-"aprendiste de la encuesta?"
+"aprendiste de la encuesta? ¿Le sorprendió por los resultados? ¿Cómo podría "
+"usar esta información?"
 
 # fac640b3887d4ec4a137179b958e410e
 #: ../source/poll.rst:56
@@ -231,7 +235,7 @@ msgid ""
 "learn from each poll you thought of? What would you do with the results?"
 msgstr ""
 "Generar una lista de ideas para encuestas. ¿Qué le gustaría aprender de cada"
-" encuesta que pensaste?"
+" encuesta que pensaste? ¿Qué haría usted con los resultados?"
 
 # 76ec1e6a0af744c399224ff7317c2f7f
 #: ../source/poll.rst:59
@@ -244,7 +248,10 @@ msgid ""
 "Make a poll of your own! The goal is to build a poll that is interesting to "
 "you, and learn to collect votes from people and reach conclusions or make "
 "decisions based on your poll."
-msgstr "Hacer un sondeo de su propio! ."
+msgstr ""
+"Hacer un sondeo de su propio! El objetivo es construir una encuesta que es "
+"interesante para usted, y aprender a recoger los votos de la gente y llegar "
+"a conclusiones o tomar decisiones sobre la base de su encuesta."
 
 # 0202254b0c384fbd958fcaa74fa784fd
 #: ../source/poll.rst:63
@@ -290,7 +297,8 @@ msgid ""
 msgstr ""
 "Siguiente tipo en el número de votos que desea recopilar en su encuesta. "
 "Para hacer esto correctamente, piensa en la cantidad de personas que desea "
-"sondear. ¿Es todo de los estudiantes en su clase?"
+"sondear. ¿Es todo de los estudiantes en su clase? Sólo los niños de 12 años?"
+" Todas las personas en su familia? Todas las mujeres en su ciudad?"
 
 # 5948eb87880b406bb79206c60e3851b5
 #: ../source/poll.rst:74
@@ -420,7 +428,8 @@ msgid ""
 "shortest bar? What does that mean?"
 msgstr ""
 "Mira los gráficos de barras que representan los votos (resultados) de su "
-"encuesta. ¿Qué respuesta tiene la barra más larga?"
+"encuesta. ¿Qué respuesta tiene la barra más larga? Qué significa eso? ¿Qué "
+"respuesta tiene la barra más corta? Qué significa eso?"
 
 # fadb31c973db47b49ccad338b82d5857
 #: ../source/poll.rst:107
@@ -443,7 +452,8 @@ msgid ""
 "people or 100 people? Why?"
 msgstr ""
 "¿De qué manera este tipo de información ayudará a sacar conclusiones acerca "
-"de las personas que encuestó?"
+"de las personas que encuestó? ¿Los datos representan con precisión todo un "
+"grupo? ¿Importa si interrogado a 25 personas o 100 personas? ¿Por qué?"
 
 # 7aafbacf6c7347c8838e8ced8f720aa7
 #: ../source/poll.rst:111

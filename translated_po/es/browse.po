@@ -455,7 +455,12 @@ msgstr ""
 "utilizar e incorporar en su salón de clases, sino una de las muchas maneras "
 "de comenzar es ayudar a los estudiantes a hacer sentido de dónde están en "
 "relación con este contexto global. ¿Hasta qué punto son del epicentro del "
-"terremoto que sacudió a Japón? . google. com /"
+"terremoto que sacudió a Japón? ¿Dónde está la capital de su país? ¿Qué tan "
+"grande es su país en comparación con otros? ¿Dónde están los lugares "
+"históricos de su país y al mundo que dio forma a la historia y la cultura "
+"humana? Una de las muchas herramientas en la web que se puede acceder "
+"fácilmente y libremente es los mapas de Google (tipo esta en la barra de "
+"direcciones): http: // maps. google. com /"
 
 # cbb35b27ddd244f8a5bebc2abf7ce08b
 #: ../source/browse.rst:115

@@ -388,8 +388,8 @@ msgid ""
 msgstr ""
 "Dependiendo de la configuración de su instalación no puede ser un número de "
 "otras carpetas presentes en el directorio ~ / help-actividad / html / "
-"carpeta (por ejemplo `` _sources`` `` `` `` _static``, y `` _images . Estos "
-"son también los archivos de salida * *, podrían ser considerados como "
+"carpeta (por ejemplo `` _sources`` `` `` `` _static``, y `` _images ``). "
+"Estos son también los archivos de salida * *, podrían ser considerados como "
 "carpetas ocultos, y no deben ser editados."
 
 # 6f03b50f59c4408e9135c62b7b859d88

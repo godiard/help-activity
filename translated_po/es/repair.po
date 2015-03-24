@@ -439,10 +439,11 @@ msgstr ""
 "texto o los gráficos aparecen. Este problema puede ser causado por la "
 "eliminación de la alimentación a una XO mientras se está actualizando el "
 "firmware. Usted debe contactar a un centro de reparación de asistencia. ¿La "
-"pantalla dice \"Conectar facultad de proceder\"? . Si este es el problema, "
-"proporcionar ambas fuentes de poder y reinicio. La XO debe proceder con una "
-"actualización de firmware y arranque normalmente. ¿Está la pantalla muestra "
-"un icono XO solo?"
+"pantalla dice \"Conectar facultad de proceder\"? A veces, una actualización "
+"de firmware requiere de dos fuentes de alimentación, tanto una batería y un "
+"adaptador de corriente. Si este es el problema, proporcionar ambas fuentes "
+"de poder y reinicio. La XO debe proceder con una actualización de firmware y"
+" arranque normalmente. ¿Está la pantalla muestra un icono XO solo?"
 
 # b65799eda37b4f1492389c4599f97740
 #: ../source/repair.rst:89

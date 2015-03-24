@@ -217,7 +217,7 @@ msgstr ""
 "Botón Pegar. La imagen copiada, que recoja como un recorte * Imagen * del "
 "Marco, se pega en la parte superior izquierda de la zona de trabajo, y que "
 "ya está seleccionado, es decir bajo el control de la * Seleccione Area * "
-"herramienta, con la que ."
+"herramienta, con la que arrastra el recorte hasta el lugar deseado."
 
 # 44f13982741840008f3984376c583a47
 #: ../source/paint.rst:62

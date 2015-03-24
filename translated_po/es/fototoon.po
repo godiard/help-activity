@@ -829,8 +829,8 @@ msgstr ""
 "cámara, su XO, descargas desde la web, los proyectos que ha hecho en otras "
 "actividades, dibujos que hizo en la pintura, o incluso fotos que se han "
 "modificado en Paint (importación, a continuación, añadir cosas y / o "
-"cultivos como quieras . Cuando haya terminado, su proyecto se verá algo como"
-" esto:"
+"cultivos como quieras ). Cuando haya terminado, su proyecto se verá algo "
+"como esto:"
 
 # 963842fdb0714e779d1efd13b3b1ed0e
 #: ../source/fototoon.rst:193

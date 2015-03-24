@@ -400,7 +400,9 @@ msgstr ""
 msgid ""
 "Please be patient; it can take your XO up to a minute to find newly visible "
 "networks."
-msgstr "Por favor, sea paciente; ."
+msgstr ""
+"Por favor, sea paciente; que puede llevar a su XO hasta un minuto para "
+"encontrar redes de nueva visibles."
 
 # e335bbb429cc4c84b6beb0bcc18f5306
 #: ../source/give_me_the_internet.rst:125

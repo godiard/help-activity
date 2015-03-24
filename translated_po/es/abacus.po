@@ -48,9 +48,14 @@ msgstr ""
 " utilizando diferentes sistemas de conteo mecánico desarrollado por los "
 "antiguos romanos y los chinos. Hay varias variantes diferentes disponibles "
 "para la exploración: a suanpan, el ábaco chino tradicional con 2 cuentas en "
-"la parte superior y 5 cuentas por debajo; . También hay un ábaco binario, un"
-" ábaco hexadecimal, y varios ábacos que te permite calcular con fracciones "
-"comunes: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, . Y hay una barra de "
+"la parte superior y 5 cuentas por debajo; un soroban, el ábaco japonés "
+"tradicional con 1 grano en la parte superior y 4 cuentas por debajo; la "
+"schety, el ábaco tradicional rusa, con 10 cuentas por columna, con la "
+"excepción de una columna con sólo 4 bolas utilizadas para contar en cuartos;"
+" y la Nepohualtzintzin, un ábaco maya, 3 cuentas en la parte superior y 4 "
+"cuentas siguientes (base 20). También hay un ábaco binario, un ábaco "
+"hexadecimal, y varios ábacos que te permite calcular con fracciones comunes:"
+" 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, y 1/12. Y hay una barra de "
 "herramientas de personalización que te permite diseñar tu propio ábaco. El "
 "ábaco inca (Yupana) como un programa independiente."
 
@@ -124,7 +129,8 @@ msgstr ""
 "Las columnas representan por sí mismas posiciones decimales de derecha a "
 "izquierda, e. g. , 1s, 10s, 100s, 1000, etc.. (Hay algunas excepciones: (1) "
 "la Nepohualtzintzin utiliza de base 20, e. g. , 1s, 20s, 400s, 8000s, etc. ;"
-" . 1s, 0. 01s, 0. 001S y 0. )"
+" (2) en el schety, las perlas a la derecha de la columna con sólo cuatro "
+"perlas son 0. 1s, 0. 01s, 0. 001S y 0. )"
 
 # d0529eebd410408d88dad07d48177b7f
 #: ../source/abacus.rst:29
@@ -232,8 +238,10 @@ msgstr ""
 "Para agregar, simplemente mueva en más cuentas para representar el número "
 "que está agregando. Hay dos reglas a seguir: (1) cada vez que tenga un total"
 " de 5 unidades o más en la parte inferior de una columna, cancelar el 5 "
-"deslizando las cuentas de nuevo y añadir un cinco a la parte superior; . "
-"(Con la Nepohualtzintzin, se trabaja con 20 en lugar de 10. )"
+"deslizando las cuentas de nuevo y añadir un cinco a la parte superior; y (2)"
+" cada vez que tenga un total de 10 unidades o más en una columna, anular el "
+"10 y añadir una unidad a la columna inmediatamente a la izquierda. (Con la "
+"Nepohualtzintzin, se trabaja con 20 en lugar de 10. )"
 
 # 31db707af29f47638d26ca19dba96b8c
 #: ../source/abacus.rst:67
@@ -516,16 +524,19 @@ msgid ""
 "rod with three beads, to work with fifths, use the rod with five beads."
 msgstr ""
 "La fracción ábaco permite sumar y restar fracciones comunes: 1/2, 1/3, 1/4, "
-"1/5, 1/6, 1/8, 1/9, 1/10, 1/12 y, El fraccional . g. , Para trabajar con "
-"terceras partes, utilizar la varilla con tres cuentas, para trabajar con "
-"quintas partes, utilizar la varilla con cinco cuentas."
+"1/5, 1/6, 1/8, 1/9, 1/10, 1/12 y, El fraccional valor se determina por el "
+"número de perlas de negro en una varilla, e. g. , Para trabajar con terceras"
+" partes, utilizar la varilla con tres cuentas, para trabajar con quintas "
+"partes, utilizar la varilla con cinco cuentas."
 
 # 98f75c1d21954fe7828eddcbbeabf9ae
 #: ../source/abacus.rst:198
 msgid ""
 "The rods with white beads are whole numbers in base 10; from left to right "
 "100000, 10000, 1000, 100, 10, and 1."
-msgstr "Las varillas con los granos blancos son números enteros en base 10; ."
+msgstr ""
+"Las varillas con los granos blancos son números enteros en base 10; de "
+"izquierda a derecha 100000, 10000, 1000, 100, 10, y 1."
 
 # b8611bde650d4c08808cd55472910016
 #: ../source/abacus.rst:202
@@ -715,7 +726,8 @@ msgid ""
 "estimating? Which is better for comparing?"
 msgstr ""
 "Un proyecto de la diversión es comparar cálculos utilizando Abacus con la "
-"Calcular Actividad. ¿Qué es más rápido?"
+"Calcular Actividad. ¿Qué es más rápido? ¿Qué es más precisa? ¿Qué es mejor "
+"para la estimación? ¿Qué es mejor para comparar?"
 
 # f3a5f7a25e9d418b9c4e8bf532312a4e
 #: ../source/abacus.rst:327
@@ -726,7 +738,9 @@ msgid ""
 " converting decimal to hexidecimal."
 msgstr ""
 "Abacus apoya pasta, así que usted puede tomar valores numéricos de otros "
-"programas y pegarlos en el ábaco para ver lo que sus representaciones son; ."
+"programas y pegarlos en el ábaco para ver lo que sus representaciones son; "
+"por ejemplo, a menudo me pego números en el ábaco hexadecimal como una forma"
+" rápida de convertir de decimal a hexadecimal."
 
 # 71330557fec147769e1888cb8b857c52
 #: ../source/abacus.rst:328

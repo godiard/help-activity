@@ -42,7 +42,8 @@ msgid ""
 msgstr ""
 "Porque ellos están explorando sus mundos para ver lo que hay allí, haciendo "
 "explicaciones de cuáles son esas cosas, y imaginando qué otra cosa podría "
-"ser; . La alegría de la infancia es el profesor más exigente que tenemos. "
+"ser; explorar, explicar y aprender son los deseos y metas más decididos de "
+"un niño. La alegría de la infancia es el profesor más exigente que tenemos. "
 "Nunca más en la vida de esos niños serán nada llevarlos a trabajar tan duro"
 
 # 1f8cfe74adb94e7bb352b77ca568a03a
@@ -120,7 +121,8 @@ msgid ""
 " the GNU GPL; updates will always respect the freedom of its users."
 msgstr ""
 "| Opensource | El azúcar es el software libre y de código abierto. El azúcar"
-" está licenciado bajo la GNU GPL; ."
+" está licenciado bajo la GNU GPL; actualizaciones siempre respetar la "
+"libertad de sus usuarios."
 
 # 2068c5aa0a0c479db13b7558afdd9569
 #: ../source/about_sugar.rst:33
@@ -236,10 +238,10 @@ msgid ""
 msgstr ""
 "El azúcar está escrito en Python, un programa fácil de aprender lenguaje "
 "interpretado [3] _. Esto permite que la apropiación directa de las ideas en "
-"cualquier ámbito el alumno está estudiando; . El estudiante puede ir más "
-"allá. Ellos no van a chocar contra un muro. Pueden, en todos los niveles, "
-"comprometerse y afectar las mismas herramientas que utilizan para su "
-"expresión personal."
+"cualquier ámbito el alumno está estudiando; música, navegación, lectura, "
+"escritura, programación o gráficos. El estudiante puede ir más allá. Ellos "
+"no van a chocar contra un muro. Pueden, en todos los niveles, comprometerse "
+"y afectar las mismas herramientas que utilizan para su expresión personal."
 
 # ff5db90f2d09418ea92ed4a6eb93e6ca
 #: ../source/about_sugar.rst:54
@@ -308,9 +310,11 @@ msgstr ""
 "visuales enseñan los maestros y lo que los estudiantes aprenden las artes "
 "visuales. El término se detalla en el estudio Pensamiento: Los beneficios "
 "reales de Educación de Arte Visual. Pensamiento Studio incluye \"las "
-"estructuras de estudio\": demostraciones, proyectos y críticas; . En el "
-"contexto de Azúcar, estudio pensamiento se aplica no sólo a las artes, sino "
-"a todas las disciplinas."
+"estructuras de estudio\": demostraciones, proyectos y críticas; así como "
+"\"los hábitos de estudio de la mente\": desarrollar la artesanía, participar"
+" y persistir, Envision, expreso, observar, reflexionar, estirar y explorar y"
+" entender el mundo del arte. En el contexto de Azúcar, estudio pensamiento "
+"se aplica no sólo a las artes, sino a todas las disciplinas."
 
 # 9b661df7a5124902bdcfb9c1fa5e939a
 #: ../source/about_sugar.rst:65

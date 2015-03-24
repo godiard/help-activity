@@ -164,7 +164,9 @@ msgstr "10 - Botón de encendido, indicador"
 msgid ""
 "From left to right: the battery-level indicator; the power indicator; and "
 "the power button."
-msgstr "De izquierda a derecha: el indicador de nivel de batería; ."
+msgstr ""
+"De izquierda a derecha: el indicador de nivel de batería; el indicador de "
+"alimentación; y el botón de encendido."
 
 # 2052cd8da8eb4fe1bb9d118452d7ad58
 #: ../source/ports.rst:53

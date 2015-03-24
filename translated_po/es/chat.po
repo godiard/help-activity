@@ -518,8 +518,9 @@ msgid ""
 "combination of a symbol and a number looks like a sideways heart <3. \"I <3 "
 "my XO\" means, \"I love my XO.\""
 msgstr ""
-"¿Puedes dibujar utilizando únicamente los símbolos de texto en el teclado? ."
-" \"I <3 mi XO\" significa, \"Yo amo a mi XO. \""
+"¿Puedes dibujar utilizando únicamente los símbolos de texto en el teclado? "
+"Esta combinación de símbolo y número parece un corazón de lado <3. \"I <3 mi"
+" XO\" significa, \"Yo amo a mi XO. \""
 
 # ba72c37cbdc14a3fa941ee75174a4b76
 #: ../source/chat.rst:154
@@ -718,4 +719,5 @@ msgid ""
 "conventional desktop or laptop computer."
 msgstr ""
 "Puede utilizar esta función para charlar con los equipos compatibles con el "
-"azúcar de los equipos que no Azúcar habilitados; ."
+"azúcar de los equipos que no Azúcar habilitados; por lo tanto, se puede "
+"chatear con su hijo o clase desde un escritorio convencional o portátil."

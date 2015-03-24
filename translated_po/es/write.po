@@ -640,7 +640,8 @@ msgid ""
 "document and adding to the story."
 msgstr ""
 "Es divertido y fácil de usar de escritura para contar historias grupo. "
-"Simplemente compartir un documento con un grupo de amigos (o su clase); ."
+"Simplemente compartir un documento con un grupo de amigos (o su clase); "
+"turnarse para abrir el documento y agregar a la historia."
 
 # 43a2013d9d954772b6f255a7a79867a2
 #: ../source/write.rst:192
@@ -901,5 +902,5 @@ msgid ""
 "Write is based upon Abiword; the Sugar port was done by J.M. Maurer, Martin "
 "Sevior, Tomeu Vizoso and Robert Staudinger"
 msgstr ""
-"Escribir se basa en Abiword; . M. Maurer, Martin Sevior, Tomeu Vizoso y "
-"Robert Staudinger"
+"Escribir se basa en Abiword; el puerto de azúcar fue hecho por J. M. Maurer,"
+" Martin Sevior, Tomeu Vizoso y Robert Staudinger"

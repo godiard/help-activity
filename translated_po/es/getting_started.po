@@ -37,11 +37,13 @@ msgid ""
 "photos and videos, communicate with friends and family via e-mail, and even "
 "learn to do a little computer programming."
 msgstr ""
-"Bienvenido a XO-tierra! . La maquinita verde y blanco lindo en el cuadro es "
-"la herramienta que le permitirá viajar por el mundo a través de Internet, "
-"componer y tocar música, crear obras de arte, hacer experimentos "
-"científicos, tomar fotos y videos, comunicarse con amigos y familiares a "
-"través de ."
+"Bienvenido a XO-tierra! Estás a punto de comenzar en una maravillosa "
+"aventura de la exploración y el aprendizaje. La maquinita verde y blanco "
+"lindo en el cuadro es la herramienta que le permitirá viajar por el mundo a "
+"través de Internet, componer y tocar música, crear obras de arte, hacer "
+"experimentos científicos, tomar fotos y videos, comunicarse con amigos y "
+"familiares a través de e-mail, e incluso aprender a hacer un poco de "
+"programación de computadoras."
 
 # 782a2deb68a34cee979f92bcf3430622
 #: ../source/getting_started.rst:9
@@ -73,8 +75,9 @@ msgid ""
 "to save the box, packing materials, and any paperwork that is in the box."
 msgstr ""
 "Lo primero que hay que hacer es descomprimir cuidadosamente su XO. Guarde "
-"todo! . Asegúrese de guardar la caja, los materiales de embalaje, y "
-"cualquier documentación que está en la caja."
+"todo! Si no lo hace, puede tirar accidentalmente fuera algo importante. "
+"Asegúrese de guardar la caja, los materiales de embalaje, y cualquier "
+"documentación que está en la caja."
 
 # 16a9e100247f47b198f43966a5418519
 #: ../source/getting_started.rst:19

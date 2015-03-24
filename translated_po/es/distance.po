@@ -116,7 +116,11 @@ msgid ""
 "respond with an audio pulse of its own; then both computers will calculate "
 "and display the distance between them (by default, the measurement is "
 "displayed in meters)."
-msgstr "El primer equipo enviará un pulso de audio; ."
+msgstr ""
+"El primer equipo enviará un pulso de audio; el segundo equipo responderá con"
+" un pulso de sonido de su propia; a continuación, ambos equipos se calculará"
+" y mostrará la distancia entre ellos (por defecto, la medición se muestra en"
+" metros)."
 
 # 90972c94e1f745daae968a06ac5646fa
 #: ../source/distance.rst:39
@@ -160,7 +164,9 @@ msgid ""
 "Atmospheric conditions can impact the accuracy of the measurement; you can "
 "override the default settings by using the Atmosphere toolbar."
 msgstr ""
-"Las condiciones atmosféricas pueden afectar la exactitud de la medición; ."
+"Las condiciones atmosféricas pueden afectar la exactitud de la medición; "
+"puede reemplazar la configuración predeterminada mediante la barra de "
+"herramientas Ambiente."
 
 # 92cc81461de34206a3e7cfca03172226
 #: ../source/distance.rst:54

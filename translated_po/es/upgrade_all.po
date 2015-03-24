@@ -44,7 +44,9 @@ msgid ""
 "upgrade your software."
 msgstr ""
 "¿Sabía usted que con el último software de su XO puede tener tanto azúcar y "
-"GNOME? . Este capítulo le dirá cómo actualizar el software."
+"GNOME? GNOME proporciona una opción para enseñar a los niños de más edad en "
+"un ambiente de aprendizaje que sea familiar y transferible para el uso de "
+"Windows o Mac OS. Este capítulo le dirá cómo actualizar el software."
 
 # e7a640d01bb14e0d9c3bb5491960c119
 #: ../source/upgrade_all.rst:9
@@ -70,8 +72,9 @@ msgid ""
 "will want to use the \"clean install\" method. An overview of the upgrade "
 "options can be found here. http://wiki.laptop.org/go/Updating_the_XO"
 msgstr ""
-"Hay varios métodos de actualización. Cuál es el adecuado para usted? . Una "
-"visión general de las opciones de actualización se puede encontrar aquí. "
+"Hay varios métodos de actualización. Cuál es el adecuado para usted? La "
+"mayoría de la gente querrá utilizar el método de \"instalación limpia\". Una"
+" visión general de las opciones de actualización se puede encontrar aquí. "
 "http: // wiki. portátil. org / go / Updating_the_XO"
 
 # edcead0ede704086930c9d5c164c3d2a
@@ -120,7 +123,7 @@ msgstr ""
 "construcción elegido, y se necesita un dispositivo de almacenamiento USB que"
 " tiene al menos 1 GB de espacio libre y un ordenador con acceso a Internet "
 "que le permitirá descargar el 300-400MB requerido dentro de aproximadamente "
-"."
+"una hora."
 
 # 165cdcdfbba340f495134822f755e632
 #: ../source/upgrade_all.rst:23
@@ -182,8 +185,9 @@ msgid ""
 " will see the XO arrange and color in a grid of boxes, then the XO will "
 "display \"Rebooting in 10 seconds...\""
 msgstr ""
-"Suelte las teclas gamepad. El proceso reflash ejecuta automáticamente; . . ."
-" \""
+"Suelte las teclas gamepad. El proceso reflash ejecuta automáticamente; "
+"primero verá el XO organizar y color en una cuadrícula de cajas, entonces el"
+" XO mostrará \"El reinicio en 10 segundos. . . \""
 
 # 01f6587b16744df583438908bd852f12
 #: ../source/upgrade_all.rst:40

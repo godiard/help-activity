@@ -77,7 +77,7 @@ msgid ""
 msgstr ""
 "Tecla de control - La clave de control se utiliza en combinación con otras "
 "teclas para ejecutar comandos. Por ejemplo, Ctrl + C se utiliza para copiar "
-"al portapapeles; ."
+"al portapapeles; ctrl + v se utiliza para pegar desde el portapapeles."
 
 # 998ba9849e7144a380461209064420d0
 #: ../source/keyboard.rst:17
@@ -97,7 +97,8 @@ msgid ""
 "modifier. For example, fn + erase is delete; fn + up arrow is page up."
 msgstr ""
 "Tecla Fn - La tecla de función se utiliza en combinación con otras teclas "
-"como un modificador. Por ejemplo, Fn + borrado es eliminar; ."
+"como un modificador. Por ejemplo, Fn + borrado es eliminar; fn + flecha "
+"hacia arriba es la página arriba."
 
 # 8ca5fa950da84958b8463c8b98b5169b
 #: ../source/keyboard.rst:19
@@ -109,8 +110,8 @@ msgid ""
 msgstr ""
 "Tecla Alt - La tecla alt se utiliza en combinación con otras teclas para "
 "ejecutar comandos. Por ejemplo, alt + ENTER se cambia el modo de pantalla "
-"completa; . Este ejemplo funciona en el Browse Actividad pero no en el "
-"Registro de Actividad."
+"completa; alt + barra espaciadora cambia la visibilidad bandeja. Este "
+"ejemplo funciona en el Browse Actividad pero no en el Registro de Actividad."
 
 # fd741326ca414772a0c456134cf5ff6e
 #: ../source/keyboard.rst:20
@@ -142,7 +143,10 @@ msgstr ""
 msgid ""
 "Arrow keys -- The arrow keys are used for navigation; combined with the "
 "function key (fn), they are used for page up, page down, home, and end."
-msgstr "Teclas de flecha - La flecha teclas se utilizan para la navegación; ."
+msgstr ""
+"Teclas de flecha - La flecha teclas se utilizan para la navegación; "
+"combinada con la tecla de función (Fn), que se utilizan para la página "
+"arriba, página abajo, casa, y al final."
 
 # 16b440798fff4ec1817bbe5afab21eb5
 #: ../source/keyboard.rst:23

@@ -37,7 +37,8 @@ msgid ""
 "three cards or are different on all three cards."
 msgstr ""
 "Dimensiones (anteriormente conocido como Partido Visual) es un juego de "
-"coincidencia de patrones por escrito para el azúcar; ."
+"coincidencia de patrones por escrito para el azúcar; se incluye como parte "
+"de la colección de la miel de azúcar complementos."
 
 # 454f1a6c0ab244b183a3a1543b784856
 #: ../source/dimensions.rst:10
@@ -251,12 +252,13 @@ msgstr "Filas de arriba a abajo"
 # 8c9669d090a44247a457b2501881162a
 #: ../source/dimensions.rst:70
 msgid "The colors, shapes, and shade match; numbers are different."
-msgstr "Los colores, las formas, y el partido de sombra; ."
+msgstr ""
+"Los colores, las formas, y el partido de sombra; números son diferentes."
 
 # 9c078a72011e4b24b4829107f68f397e
 #: ../source/dimensions.rst:72
 msgid "The numbers match; colors, shapes and shade are different."
-msgstr "El partido números; ."
+msgstr "El partido números; colores, formas y sombra son diferentes."
 
 # 8f790faf0bea4e00b316c6f1f9d63d89
 #: ../source/dimensions.rst:74
@@ -358,7 +360,9 @@ msgstr ""
 msgid ""
 "The grid layout is arbitrary; there is no need to pick in rows or columns, "
 "or one from each column."
-msgstr "El diseño de cuadrícula es arbitraria; ."
+msgstr ""
+"El diseño de cuadrícula es arbitraria; no hay necesidad de recoger en filas "
+"o columnas, o uno de cada columna."
 
 # 060cc062092e4542adc251cd55d4811d
 #: ../source/dimensions.rst:113
@@ -367,7 +371,7 @@ msgid ""
 "they can be otherwise ignored."
 msgstr ""
 "Las tarjetas en blanco a la izquierda son un lugar para mostrar la más "
-"reciente partido; ."
+"reciente partido; que de lo contrario pueden ser ignorados."
 
 # 7cb89198809a444294b586dc7b8e7c12
 #: ../source/dimensions.rst:114
@@ -379,8 +383,10 @@ msgid ""
 "far."
 msgstr ""
 "Un conteo de número de coincidencias encontradas se muestra en la barra de "
-"herramientas; . g. , 3 (2) indicaría que el robot encontraron 2 resultados "
-"de un total de 5 (3 + 2) se han encontrado hasta el momento."
+"herramientas; cuando el asistente robot está ayudando, la cuenta se muestra "
+"como dos números, donde el número de partidos encontrado por el robot "
+"aparece entre paréntesis, e. g. , 3 (2) indicaría que el robot encontraron 2"
+" resultados de un total de 5 (3 + 2) se han encontrado hasta el momento."
 
 # 411401fb701d4b7ba55910586b93d4c7
 #: ../source/dimensions.rst:115
@@ -489,7 +495,9 @@ msgstr "Juego de palabras"
 msgid ""
 "The words are from different semantic groups; the colors are different; the "
 "font style (bold) matches."
-msgstr "Las palabras son de diferentes grupos semánticos; ."
+msgstr ""
+"Las palabras son de diferentes grupos semánticos; los colores son "
+"diferentes; el estilo de fuente (negrita) coincide."
 
 # d2b0c1b464324022b3905701385462bf
 #: ../source/dimensions.rst:149
@@ -635,7 +643,9 @@ msgid ""
 "explored."
 msgstr ""
 "En un nivel básico, dimensiones pueden ser utilizados para mejorar las "
-"habilidades de observación de los jóvenes estudiantes; ."
+"habilidades de observación de los jóvenes estudiantes; se les pregunta "
+"repetidamente: ¿cuál es la misma? qué es diferente? A un nivel más profundo,"
+" los conceptos de conjuntos multidimensionales pueden ser explorados."
 
 # 7b8fbc12dce74ec1a3d5faf8d0278f0f
 #: ../source/dimensions.rst:220

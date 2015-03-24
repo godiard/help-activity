@@ -130,11 +130,11 @@ msgstr ""
 "desarrollar programas más grandes. Copie el programa que se desarrolla en la"
 " actividad de escritura mediante la selección de todos (<Ctrl> a) y copiarlo"
 " en el portapapeles (<ctrl> c), a continuación, cambiar a la Pippy "
-"Actividad, y pegar (<ctrl> v) en el . Si hay errores que desea corregir, "
-"usted puede hacer los cambios en la ventana de código, y ver de inmediato "
-"los resultados de los cambios. Entonces copiando el programa modificado "
-"nuevamente en el portapapeles, puede volver a pegarla en la Actividad Word y"
-" guardar los cambios en el Diario."
+"Actividad, y pegar (<ctrl> v) en el ventana de código. Si hay errores que "
+"desea corregir, usted puede hacer los cambios en la ventana de código, y ver"
+" de inmediato los resultados de los cambios. Entonces copiando el programa "
+"modificado nuevamente en el portapapeles, puede volver a pegarla en la "
+"Actividad Word y guardar los cambios en el Diario."
 
 # d0bd3a887882453f982747765f9e34a9
 #: ../source/pippy.rst:38

@@ -99,7 +99,7 @@ msgstr ""
 "| Revista | ** Visto en una Actividad **, este icono en la barra de "
 "herramientas de actividad (o pestaña Actividad) permite un rápido acceso a "
 "la Revista, añadir una descripción, o más notas a sí mismo acerca de lo que "
-"vas a hacer o tener ."
+"vas a hacer o tener hecho en ese período de sesiones de la Actividad."
 
 # 0227a52f412f46cdbc595b3e93571fb3
 #: ../source/journal.rst:26
@@ -414,10 +414,11 @@ msgstr ""
 "entrada, que se puede encontrar más adelante usando el botón Buscar. Utilice"
 " una descripción para recordar lo que hiciste. Por ejemplo: \"Las flores que"
 " vi en la caminata a la cascada\". O puede reflexionar sobre su trabajo y "
-"proceso: lo que he hecho; . \"Esto no fue fácil, pero he aprendido mucho "
-"acerca de los diferentes tipos de flores en mi comunidad hablando con mi "
-"familia\". Esto es importante porque éstos descripción se puede mostrar en "
-"la actividad de reflexión denominado \"Portafolio\"."
+"proceso: lo que he hecho; cómo lo he hecho; y el éxito han sido estos "
+"esfuerzos. \"Esto no fue fácil, pero he aprendido mucho acerca de los "
+"diferentes tipos de flores en mi comunidad hablando con mi familia\". Esto "
+"es importante porque éstos descripción se puede mostrar en la actividad de "
+"reflexión denominado \"Portafolio\"."
 
 # 9ca2878bb0d14c018df1719148e9d869
 #: ../source/journal.rst:68
@@ -547,9 +548,10 @@ msgstr ""
 "la evaluación de \"cartera\". Con el fin de seguir apoyando esta reflexión, "
 "Sugar ofrece una Actividad de la cartera, una herramienta de evaluación que "
 "utiliza el contenido de la revista. Puede reflexionar sobre usted trabaja: "
-"lo que he hecho; . A continuación, puede crear una presentación multimedia "
-"para compartir con sus compañeros, maestros y padres de familia que también "
-"pueden reflejar en retorno."
+"lo que he hecho; cómo lo he hecho; y el éxito han sido estos esfuerzos. A "
+"continuación, puede crear una presentación multimedia para compartir con sus"
+" compañeros, maestros y padres de familia que también pueden reflejar en "
+"retorno."
 
 # 1f3680cd18374875aee4713e6cf81e63
 #: ../source/journal.rst:105

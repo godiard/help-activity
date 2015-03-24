@@ -380,8 +380,10 @@ msgid ""
 "three channels, the three non-interfering channels available to 802.11g "
 "wireless protocol."
 msgstr ""
-"Es su punto de acceso trabajando en otro canal que no está en 1, 6, o 11? . "
-"Protocolo inalámbrico 11g."
+"Es su punto de acceso trabajando en otro canal que no está en 1, 6, o 11? "
+"Para construye algunos mayores, la XO espera encontrar puntos de acceso en "
+"uno de estos tres canales, los tres canales no interferentes disponible para"
+" 802. Protocolo inalámbrico 11g."
 
 # c0027facd41342b1bbcb0d9e8a3cded1
 #: ../source/troubleshooting_connectivity.rst:89

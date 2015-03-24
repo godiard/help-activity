@@ -141,9 +141,11 @@ msgid ""
 "operate your computer.)"
 msgstr ""
 "Asegúrese de que su XO se ha establecido en el desplazamiento de zona "
-"horaria correcta y la hora local correcta! . (Esto sólo es un problema si "
-"usted no planea usar siempre \"especificar el tiempo\". Pero sigue siendo "
-"una forma desordenada para operar el equipo. )"
+"horaria correcta y la hora local correcta! Los algoritmos astronómicos "
+"necesitan para calcular GMT (UT) y no pueden hacer eso si \"ahora\" no es el"
+" momento adecuado. (Esto sólo es un problema si usted no planea usar siempre"
+" \"especificar el tiempo\". Pero sigue siendo una forma desordenada para "
+"operar el equipo. )"
 
 # 29ade10bdfb84713bf8e6c011013c6a2
 #: ../source/starchart.rst:39
@@ -182,8 +184,11 @@ msgid ""
 msgstr ""
 "Es el tiempo (AAAA / MM / DD HH: MM) la correcta año, mes, día, hora y "
 "minuto de su ubicación (se de tiempo de 24 horas - 1:00 PM es 13:00 en ese "
-"sistema)? . ) Si no es así, detener la actividad y corregir su tiempo y el "
-"tiempo-zona utilizando el panel de control de azúcar antes de continuar."
+"sistema)? Se compensa la zona que muestra las horas correctas y minutos que "
+"el entorno local está desplazado del GMT? (Sugerencia: Hora estándar en los "
+"EE.UU. es \"-5: 00\" con respecto a GMT. ) Si no es así, detener la "
+"actividad y corregir su tiempo y el tiempo-zona utilizando el panel de "
+"control de azúcar antes de continuar."
 
 # 24caf55d76bc4a2a8b7d240170ef56ba
 #: ../source/starchart.rst:49
@@ -224,7 +229,9 @@ msgstr ""
 "no se verá noticibly diferente si te equivocas en uno o dos grados en "
 "cualquier dirección en latitud o longitud. Estar fuera de 100 kilometros no "
 "hará una diferencia suficiente para mostrar. Pero asegúrese de seleccionar "
-"la longitud este u oeste y el norte o el sur latitud! ."
+"la longitud este u oeste y el norte o el sur latitud! Luego haga clic en "
+"\"Ok\" para que el programa sepa que realmente quiere cambiar esta "
+"configuración."
 
 # 1890ff38f4734db59273918997954923
 #: ../source/starchart.rst:53
@@ -252,7 +259,8 @@ msgid ""
 msgstr ""
 "Estrellas se dibujan (con la configuración predeterminada de los \"qué\" "
 "controles de ficha menú) como puntos blancos de diferentes tamaños. Las "
-"estrellas más brillantes se dibujan como los mayores puntos; ."
+"estrellas más brillantes se dibujan como los mayores puntos; las estrellas "
+"más débiles se dibujan como los puntos más pequeños."
 
 # 880bf336412c4915bc5214bd5f3d79d2
 #: ../source/starchart.rst:61
@@ -452,8 +460,10 @@ msgstr ""
 "puede parecer extraño a usted porque un mapa terrestre mostraría al este a "
 "la derecha. Pero si se enfrentan a este y mantiene el mapa de modo que este "
 "se encuentra cerca de la tierra, usted descubrirá que con un mapa terrestre,"
-" al norte en el mapa es ahora a su sur! . Eso significa que lo que se ve en "
-"la pantalla de tu XO coincidirá con lo que se ve en el cielo."
+" al norte en el mapa es ahora a su sur! Con un mapa de espejo de StarChart, "
+"el norte está hacia el norte y hacia el sur se encuentra al sur cuando este "
+"se ha reducido. Eso significa que lo que se ve en la pantalla de tu XO "
+"coincidirá con lo que se ve en el cielo."
 
 # 2585fb174db2429f907efe692772f271
 #: ../source/starchart.rst:119
@@ -506,7 +516,9 @@ msgid ""
 msgstr ""
 "Estrellas vienen en diferentes brillos. Los astrónomos llaman a estos "
 "niveles de brillo \"magnitudes\". Las estrellas más brillantes son de "
-"magnitud cero (así, en un par de casos, más brillante que eso); ."
+"magnitud cero (así, en un par de casos, más brillante que eso); las "
+"estrellas más débiles que se pueden ver sin telescopio o binoculares en una "
+"noche muy oscura será de unos 6 grados."
 
 # e730d5f976fc4e2198e8aaacc20e7da2
 #: ../source/starchart.rst:133
@@ -670,8 +682,8 @@ msgstr ""
 "del año. El tiempo se introduce como un año de cuatro dígitos, un mes de dos"
 " dígitos y un día de dos dígitos, separados por una barra (/) caracteres, "
 "una coma (,) y luego la hora y los minutos en el tiempo de 24 horas "
-"separados por dos puntos . Ejemplo: 2008/02 / 20,22: 00 sería 22:00 en el 20"
-" de febrero 2008. A continuación, si su lugar se observa el horario de "
+"separados por dos puntos (:). Ejemplo: 2008/02 / 20,22: 00 sería 22:00 en el"
+" 20 de febrero 2008. A continuación, si su lugar se observa el horario de "
 "verano, puede que tenga que añadir o restar una hora del valor de "
 "desplazamiento de zona horaria si el tiempo que has escrito es en el \"otro "
 "lado del tiempo límite de la luz del día\". Por último, haga clic en "
