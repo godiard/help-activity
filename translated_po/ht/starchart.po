@@ -138,9 +138,10 @@ msgid ""
 "operate your computer.)"
 msgstr ""
 "Asire w ke te XO ou te mete nan kòrèk tan-zòn nan konpanse ak tan ki kòrèk "
-"la lokal! . (Sa a se sèlman yon pwoblèm si ou pa fè plan yo toujou sèvi ak "
-"\"presize tan\". Men, li la toujou yon fason dezord yo opere òdinatè w lan. "
-")"
+"la lokal! Algoritm yo astwonomik bezwen kalkile GMT (UT) epi yo pa ka fè sa "
+"si \"kounye a\" se pa tan an dwa. (Sa a se sèlman yon pwoblèm si ou pa fè "
+"plan yo toujou sèvi ak \"presize tan\". Men, li la toujou yon fason dezord "
+"yo opere òdinatè w lan. )"
 
 # 29ade10bdfb84713bf8e6c011013c6a2
 #: ../source/starchart.rst:39
@@ -176,9 +177,11 @@ msgid ""
 "zone using the Sugar control panel before proceeding."
 msgstr ""
 "Se tan a (ANE / MM / JJ, HH: MM) kòrèk ane, mwa, jou, èdtan an ak minit pou "
-"kote ou (li nan tan 24 èdtan - 1:00 PM se 13:00 nan ke sistèm)? . ) Si ou "
-"pa, sispann aktivite a ak korije tan ou ak tan-zòn lè l sèvi avèk panèl la "
-"kontwòl Sugar anvan pwosedi."
+"kote ou (li nan tan 24 èdtan - 1:00 PM se 13:00 nan ke sistèm)? Èske zòn nan"
+" konpanse ki montre èdtan yo kòrèk epi yo minit ki lokalizasyon ou konpanse "
+"nan GMT? (Sijesyon: lès Creole Tan nan USA a se \"-5: 00\" ki gen rapò ak "
+"GMT. ) Si ou pa, sispann aktivite a ak korije tan ou ak tan-zòn lè l sèvi "
+"avèk panèl la kontwòl Sugar anvan pwosedi."
 
 # 24caf55d76bc4a2a8b7d240170ef56ba
 #: ../source/starchart.rst:49
@@ -218,7 +221,8 @@ msgstr ""
 "gade noticibly diferan si ou se sa ki mal pa youn oubyen de degre swa fason "
 "nan latitid oswa lonjitid. Pou ou kab vin nan 100 km pa pral fè ase nan yon "
 "diferans yo montre. Men, asire w ke ou chwazi East oswa West lonjitid ak "
-"North oswa South latitid! ."
+"North oswa South latitid! Lè sa a, klike sou \"Ok\" Se konsa, pwogram lan "
+"konnen ou reyèlman vle chanje anviwònman sa yo."
 
 # 1890ff38f4734db59273918997954923
 #: ../source/starchart.rst:53
@@ -245,7 +249,7 @@ msgid ""
 msgstr ""
 "Stars yo trase (ak default anviwònman nan \"Ki sa ki\" kontwole yo tab meni)"
 " kòm pwen blan nan gwosè diferan. Zetwal yo pi klere yo trase kòm pi gwo "
-"pwen yo; ."
+"pwen yo; zetwal yo dimmest yo trase kòm pwen yo pi piti."
 
 # 880bf336412c4915bc5214bd5f3d79d2
 #: ../source/starchart.rst:61
@@ -439,8 +443,10 @@ msgstr ""
 " la. Sa ka sanble enpè ou paske yon kat jeyografik terrestres ta montre bò "
 "solèy leve sou bò dwat la. Men, si ou fè fas a bò solèy leve ak kenbe kat la"
 " pou ke bò solèy leve se tou pre tè a, ou pral dekouvri ke ak yon kat "
-"jeyografik terrestres, nò sou kat jeyografik la se kounye a nan sid ou! . Sa"
-" vle di sa ou wè sou ekran an ou XO ap matche ak sa ou wè nan syèl la."
+"jeyografik terrestres, nò sou kat jeyografik la se kounye a nan sid ou! Avèk"
+" kat jeyografik reflete StarChart a, nò se nò ak nan sid bò solèy leve a se "
+"sid lè se desann. Sa vle di sa ou wè sou ekran an ou XO ap matche ak sa ou "
+"wè nan syèl la."
 
 # 2585fb174db2429f907efe692772f271
 #: ../source/starchart.rst:119
@@ -491,7 +497,8 @@ msgid ""
 msgstr ""
 "Stars vini nan brightnesses diferan. Astwonòm rele nivo sa yo nan klète "
 "\"anpler\". Zetwal yo pi klere yo se grandè zewo (byen, nan yon koup la ka, "
-"pi klere pase sa); ."
+"pi klere pase sa); zetwal yo dimmest ke ou ka wè san yo pa yon teleskòp oswa"
+" longvi sou yon jou lannwit vrèman fè nwa pral sou grandè 6."
 
 # e730d5f976fc4e2198e8aaacc20e7da2
 #: ../source/starchart.rst:133
@@ -649,10 +656,10 @@ msgstr ""
 "vle ankò. Koulye a, presize tan an nouvo, kòmanse ak ane a. Tan se te antre "
 "nan kòm yon ane kat chif, yon mwa de-chif ak yon jou de-chif, separe pa "
 "koupe (/) karaktè, yon vigil (,) ak Lè sa a, lè a ak minit nan tan 24 èdtan "
-"ki separe pa yon kolon . Egzanp: 2008/02 / 20,22: 00 ta dwe 10 PM sou 20yèm "
-"la nan mwa fevriye, 2008. Next, si kote ou ye obsève tan lajounen, ou ka "
-"bezwen fè adisyon oswa soustraksyon yon èdtan de tan-zòn konpanse valè a si "
-"tan an ou te antre nan se sou \"lòt bò a nan fwontyè a tan lajounen\". "
+"ki separe pa yon kolon (:). Egzanp: 2008/02 / 20,22: 00 ta dwe 10 PM sou "
+"20yèm la nan mwa fevriye, 2008. Next, si kote ou ye obsève tan lajounen, ou "
+"ka bezwen fè adisyon oswa soustraksyon yon èdtan de tan-zòn konpanse valè a "
+"si tan an ou te antre nan se sou \"lòt bò a nan fwontyè a tan lajounen\". "
 "Finalman, klike sou \"Ok\" jwenn konplo a nouvo."
 
 # eed5fc6918d9468da00d0fac4ab85cb8

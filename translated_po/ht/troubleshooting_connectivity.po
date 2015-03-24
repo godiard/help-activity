@@ -365,8 +365,10 @@ msgid ""
 "three channels, the three non-interfering channels available to 802.11g "
 "wireless protocol."
 msgstr ""
-"Se pwen aksè ou ap travay sou yon lòt kanal ki pa nan 1, 6, oswa 11? . 11g "
-"san fil pwotokòl."
+"Se pwen aksè ou ap travay sou yon lòt kanal ki pa nan 1, 6, oswa 11? Pou kèk"
+" ki pi gran ap bati, XO a espere jwenn pwen aksè nan youn nan twa sa yo "
+"chanèl, twa chanèl yo ki pa Peye-entèfere disponib nan 802. 11g san fil "
+"pwotokòl."
 
 # c0027facd41342b1bbcb0d9e8a3cded1
 #: ../source/troubleshooting_connectivity.rst:89

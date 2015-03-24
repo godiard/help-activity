@@ -440,7 +440,11 @@ msgstr ""
 "anpil bagay sa yo sou entènèt la ke ou ka itilize ak enkòpore nan sal klas "
 "ou, men youn nan fason yo anpil gwo yo kòmanse se ede elèv yo fè sans nan "
 "kote yo ye an relasyon ak yon kontèks mondyal sa a. Ki jan lwen yo ye soti "
-"nan episant tranbleman tè a nan ki lanse Japon? . Google. com /"
+"nan episant tranbleman tè a nan ki lanse Japon? Ki kote se kapital peyi yo "
+"a? Kòman gwo se peyi yo konpare ak lòt moun? Ki kote yo se kote yo istorik "
+"nan peyi yo ak mond lan ki gen fòm istwa imen ak kilti? Youn nan gwo zouti "
+"yo anpil sou entènèt la ki ka fasilman ak libreman aksè se Google kat (tape "
+"sa a sou ba a adrès): http: // kat. Google. com /"
 
 # cbb35b27ddd244f8a5bebc2abf7ce08b
 #: ../source/browse.rst:115

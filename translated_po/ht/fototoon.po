@@ -796,7 +796,7 @@ msgstr ""
 " oswa ou kapab te chwazi yo sèvi ak imaj ou te enpòte. Sa yo ka soti nan "
 "kamera ou, XO ou, downloads soti nan entènèt la, pwojè ou te fè nan lòt "
 "aktivite, desen ou te fè nan penti, oswa menm foto ou te modifye nan Penti "
-"(enpòte, lè sa a ajoute bagay sa yo ak / oswa rekòt tankou ou renmen . Lè "
+"(enpòte, lè sa a ajoute bagay sa yo ak / oswa rekòt tankou ou renmen ). Lè "
 "fini, pwojè ou yo ap gade yon bagay tankou sa a:"
 
 # 963842fdb0714e779d1efd13b3b1ed0e

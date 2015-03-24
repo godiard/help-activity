@@ -41,8 +41,10 @@ msgid ""
 "transferable to using Windows or Mac OS. This Chapter will tell you how to "
 "upgrade your software."
 msgstr ""
-"Èske w te konnen ak lojisyèl an dènye XO ou ka gen tou de Sik ak luten? . "
-"Chapter sa a pral di w kouman yo ajou lojisyèl ou."
+"Èske w te konnen ak lojisyèl an dènye XO ou ka gen tou de Sik ak luten? "
+"GNOME bay yon opsyon yo anseye timoun ki pi gran nan yon anviwònman "
+"aprantisaj ki pral dwe abitye ak transfere lè l sèvi avèk Windows oswa Mac "
+"OS. Chapter sa a pral di w kouman yo ajou lojisyèl ou."
 
 # e7a640d01bb14e0d9c3bb5491960c119
 #: ../source/upgrade_all.rst:9
@@ -68,9 +70,9 @@ msgid ""
 "will want to use the \"clean install\" method. An overview of the upgrade "
 "options can be found here. http://wiki.laptop.org/go/Updating_the_XO"
 msgstr ""
-"Gen metòd plizyè nan amelyore. Ki se yon sèl bon pou ou? . Ka Yon BECA de "
-"opsyon sa yo ajou ka jwenn isit la. http: // wiki. laptop. org / ale / "
-"Updating_the_XO"
+"Gen metòd plizyè nan amelyore. Ki se yon sèl bon pou ou? Pifò moun ki pral "
+"vle sèvi ak metòd la \"netwaye enstale\". Ka Yon BECA de opsyon sa yo ajou "
+"ka jwenn isit la. http: // wiki. laptop. org / ale / Updating_the_XO"
 
 # edcead0ede704086930c9d5c164c3d2a
 #: ../source/upgrade_all.rst:15
@@ -114,7 +116,8 @@ msgstr ""
 "tout bagay sou XO ou dwe efase si ou itilize metòd sa a. Ou pral swiv "
 "enstriksyon ki nan nòt yo lage pou bati a chwazi a, epi w ap bezwen yon "
 "aparèy depo USB ki gen omwen 1 GB nan espas gratis ak yon òdinatè ki gen "
-"aksè nan Entènèt ki pral pèmèt ou download 300-400MB yo egzije nan apeprè ."
+"aksè nan Entènèt ki pral pèmèt ou download 300-400MB yo egzije nan apeprè "
+"yon èdtan."
 
 # 165cdcdfbba340f495134822f755e632
 #: ../source/upgrade_all.rst:23
@@ -175,7 +178,10 @@ msgid ""
 "Release the gamepad keys.  The reflash process runs automatically; first you"
 " will see the XO arrange and color in a grid of boxes, then the XO will "
 "display \"Rebooting in 10 seconds...\""
-msgstr "Lage kle yo gampad. Pwosesis la reflash kouri otomatikman; . . . \""
+msgstr ""
+"Lage kle yo gampad. Pwosesis la reflash kouri otomatikman; premye ou pral wè"
+" XO a fè aranjman pou ak koulè nan yon griy nan bwat, lè sa a XO a ap montre"
+" \"Rdemar nan 10 segonn. . . \""
 
 # 01f6587b16744df583438908bd852f12
 #: ../source/upgrade_all.rst:40

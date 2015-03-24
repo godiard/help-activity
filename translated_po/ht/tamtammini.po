@@ -34,9 +34,10 @@ msgid ""
 "computer.  Each of the four Activities is a bit different. In general they "
 "require increasingly higher levels of musical skill to use."
 msgstr ""
-"Byenveni nan TamTamMini! . Chak nan kat Aktivite yo se yon ti jan diferan. "
-"An jeneral yo mande pou de pli zan pli pi wo nivo nan konpetans mizik yo "
-"sèvi ak."
+"Byenveni nan TamTamMini! Chapit sa a nan manyèl la Itilizatè yo se sou "
+"TamTamMini ki se yon pati nan yon suite nan kat Aktivite mizik pou itilize "
+"sou òdinatè a XO. Chak nan kat Aktivite yo se yon ti jan diferan. An jeneral"
+" yo mande pou de pli zan pli pi wo nivo nan konpetans mizik yo sèvi ak."
 
 # 2eb8cbb998a841edb893e0161f50b3f2
 #: ../source/tamtammini.rst:10
@@ -49,8 +50,9 @@ msgid ""
 msgstr ""
 "** TamTamMini ** se pi senp la nan kat Aktivite yo tamtam men li ofri yon "
 "varyete etone nan karakteristik sofistike. Li se senp ase yo pran plezi ak "
-"ak apwopriye pou laj 2 -92! . Li kapab itilize pa yon laptop XO sèl oswa "
-"plis, men se pa itilize rezo a may."
+"ak apwopriye pou laj 2 -92! Men, li se konplèks ase yo kite ou eksperyans. "
+"Li kapab itilize pa yon laptop XO sèl oswa plis, men se pa itilize rezo a "
+"may."
 
 # 0119d82e04b0483887fed1cc781f3d7b
 #: ../source/tamtammini.rst:12

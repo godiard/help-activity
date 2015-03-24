@@ -161,7 +161,9 @@ msgstr "10 - Pouvwa bouton, endikatè"
 msgid ""
 "From left to right: the battery-level indicator; the power indicator; and "
 "the power button."
-msgstr "De gòch a dwat: batri-nivo endikatè a; ."
+msgstr ""
+"De gòch a dwat: batri-nivo endikatè a; endikatè a pouvwa; ak bouton an "
+"pouvwa."
 
 # 2052cd8da8eb4fe1bb9d118452d7ad58
 #: ../source/ports.rst:53

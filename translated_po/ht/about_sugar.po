@@ -40,9 +40,10 @@ msgid ""
 "anything drive them to work so hard.\" —Marvin Minsky, The Emotion Machine*"
 msgstr ""
 "Pou yo eksplore mond yo yo wè sa ki nan gen yo, ki fè eksplikasyon nan sa ki"
-" bagay sa yo ye, epi imajine ki lòt bagay ta ka; . Anjoue la nan anfans se "
-"pwofesè ki pi mande nou gen. Pa janm ankò nan lavi timoun sa a ap anyen mete"
-" yo nan travay sa difisil"
+" bagay sa yo ye, epi imajine ki lòt bagay ta ka; eksplore, eksplike ak "
+"aprantisaj se yo ki pami ankouraje ak objektif ki pi objektif yon timoun. "
+"Anjoue la nan anfans se pwofesè ki pi mande nou gen. Pa janm ankò nan lavi "
+"timoun sa a ap anyen mete yo nan travay sa difisil"
 
 # 1f8cfe74adb94e7bb352b77ca568a03a
 #: ../source/about_sugar.rst:10
@@ -116,7 +117,7 @@ msgid ""
 " the GNU GPL; updates will always respect the freedom of its users."
 msgstr ""
 "| Opansours | Sugar se lojisyèl gratis epi yo louvri-sous. Se Sugar lisansye"
-" dapre GNU gpl la; ."
+" dapre GNU gpl la; dènye ap toujou respekte libète a nan itilizatè li yo."
 
 # 2068c5aa0a0c479db13b7558afdd9569
 #: ../source/about_sugar.rst:33
@@ -227,9 +228,9 @@ msgid ""
 msgstr ""
 "Sugar ki ekri nan Piton, yon fasil-a-aprann entèprete lang [3] _. Sa a pèmèt"
 " Afektasyon an dirèk nan lide nan tou sa domèn elèv k ap aprann nan se "
-"eksplore; . Elèv la ka ale pi lwen. Yo pa yo ale nan frape yon miray. Yo ka,"
-" nan chak nivo, angaje ak ak afekte zouti yo trè yo lè l sèvi avèk pou "
-"ekspresyon pèsonèl yo."
+"eksplore; mizik, Navigasyon, lekti, ekriti, pwogram, oswa grafik. Elèv la ka"
+" ale pi lwen. Yo pa yo ale nan frape yon miray. Yo ka, nan chak nivo, angaje"
+" ak ak afekte zouti yo trè yo lè l sèvi avèk pou ekspresyon pèsonèl yo."
 
 # ff5db90f2d09418ea92ed4a6eb93e6ca
 #: ../source/about_sugar.rst:54
@@ -294,8 +295,11 @@ msgstr ""
 "Panse Studio se yon tèm yo itilize a dekri kouman vizyèl art pwofesè anseye "
 "ak sa elèv yo aprann atizay vizyèl. Se yon tèm nan detaye nan Panse Studio: "
 "benefis yo reyèl nan vizyèl Edikasyon Art. Panse Studio gen ladan \"estrikti"
-" estidyo\": manifestasyon, pwojè, ak kritik; . Nan kontèks la nan Sugar, se "
-"panse estidyo aplike pa sèlman yo nan ar, men nan tout disiplin."
+" estidyo\": manifestasyon, pwojè, ak kritik; osi byen ke \"abitid estidyo "
+"nan tèt ou\": devlope atizanal, angaje ak pèsiste, ENVISION, eksprime, "
+"obsève, reflechi, detire ak eksplore, ak konprann mond lan atizay. Nan "
+"kontèks la nan Sugar, se panse estidyo aplike pa sèlman yo nan ar, men nan "
+"tout disiplin."
 
 # 9b661df7a5124902bdcfb9c1fa5e939a
 #: ../source/about_sugar.rst:65

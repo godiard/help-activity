@@ -149,7 +149,7 @@ msgstr "Alman"
 # 273de1eab2c64aafa6f8de9dde1b4fe3
 #: ../source/getbooks.rst:44
 msgid "Spanish; Castilian"
-msgstr "Panyòl;"
+msgstr "Panyòl; Castilian"
 
 # bbba886ea4694a68988ad0c6cb9593b9
 #: ../source/getbooks.rst:50

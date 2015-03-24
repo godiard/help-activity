@@ -176,7 +176,8 @@ msgid ""
 "involving generating narration for one image."
 msgstr ""
 "Ka Istwa kapab pataje, se konsa ka narasyon an dwe kreye pami elèv yo "
-"miltip. Yo kapab chèn ansanm yon istwa pa pran vire; ."
+"miltip. Yo kapab chèn ansanm yon istwa pa pran vire; chak vire ki enplike "
+"génération narasyon pou yon imaj."
 
 # 24e5a9a0e7354fc590eecb5d82149939
 #: ../source/story.rst:67

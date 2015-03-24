@@ -624,7 +624,8 @@ msgid ""
 "document and adding to the story."
 msgstr ""
 "Li se plezi ak fasil yo sèvi ak Ekri pou gwoup rakonte istwa. Senpleman "
-"pataje yon dokiman avèk yon gwoup zanmi (oswa klas ou); ."
+"pataje yon dokiman avèk yon gwoup zanmi (oswa klas ou); pran tou louvri "
+"dokiman an ak ajoute nan istwa a."
 
 # 43a2013d9d954772b6f255a7a79867a2
 #: ../source/write.rst:192
@@ -878,5 +879,5 @@ msgid ""
 "Write is based upon Abiword; the Sugar port was done by J.M. Maurer, Martin "
 "Sevior, Tomeu Vizoso and Robert Staudinger"
 msgstr ""
-"Se ekri ki baze sou Abiword; . M. Maurer, Martin Sevior, Tomeu Vizoso ak "
-"Robert Staudinger"
+"Se ekri ki baze sou Abiword; pò a Sugar te fè pa J. M. Maurer, Martin "
+"Sevior, Tomeu Vizoso ak Robert Staudinger"

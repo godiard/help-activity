@@ -188,14 +188,17 @@ msgid ""
 "you think will win? Why?"
 msgstr ""
 "Gade nan nimewo a nan vòt akote chak repons. Ki yon sèl gen vòt yo ki pi "
-"byen lwen tèlman?"
+"byen lwen tèlman? Konbyen moun ki te chwazi repons lan menm jan ou? Ki "
+"repons ou panse ki pral genyen? Poukisa?"
 
 # 4ac28db57cc04932bf7d46494b5b7b43
 #: ../source/poll.rst:50
 msgid ""
 "Look at the bar graph. Which answer has the longest bar? What does that "
 "mean? Which answer has the shortest bar? What does that mean?"
-msgstr "Gade nan graf la ba. Ki repons gen ba la pi long?"
+msgstr ""
+"Gade nan graf la ba. Ki repons gen ba la pi long? Ki sa sa vle di? Ki repons"
+" gen ba a pi kout? Ki sa sa vle di?"
 
 # 594577612ba2447ca62370cc5450dfa2
 #: ../source/poll.rst:52
@@ -214,7 +217,8 @@ msgid ""
 "information?"
 msgstr ""
 "Apre tout moun vote, diskite sou rezilta final yo. Ki sa ou te aprann nan "
-"men biwo vòt la?"
+"men biwo vòt la? Eske ou te etone pou rezilta yo? Ki jan ou ka sèvi ak "
+"enfòmasyon sa a?"
 
 # fac640b3887d4ec4a137179b958e410e
 #: ../source/poll.rst:56
@@ -224,7 +228,7 @@ msgid ""
 "learn from each poll you thought of? What would you do with the results?"
 msgstr ""
 "Jenere yon lis ide pou biwo vòt. Ki sa ou ta renmen aprann ki soti nan chak "
-"biwo vòt ou te panse a?"
+"biwo vòt ou te panse a? Ki sa ou ta fè ak rezilta yo?"
 
 # 76ec1e6a0af744c399224ff7317c2f7f
 #: ../source/poll.rst:59
@@ -237,7 +241,10 @@ msgid ""
 "Make a poll of your own! The goal is to build a poll that is interesting to "
 "you, and learn to collect votes from people and reach conclusions or make "
 "decisions based on your poll."
-msgstr "Fè yon biwo vòt nan pwòp ou a! ."
+msgstr ""
+"Fè yon biwo vòt nan pwòp ou a! Objektif la se yo bati yon biwo vòt ki se "
+"enteresan yo ou, epi aprann nan kolekte vòt nan men moun, epi rive nan "
+"konklizyon oswa pran desizyon ki baze sou biwo vòt ou."
 
 # 0202254b0c384fbd958fcaa74fa784fd
 #: ../source/poll.rst:63
@@ -282,7 +289,8 @@ msgid ""
 msgstr ""
 "Next kalite nan nimewo a nan vòt ou vle kolekte nan biwo vòt ou. Pou fè sa "
 "kòrèkteman, panse osijè de ki jan anpil moun ou vle biwo vòt. Èske li tout "
-"elèv yo nan klas ou a?"
+"elèv yo nan klas ou a? Jis-timoun ki gen yo 12-ane? Tout moun nan pèp la nan"
+" fanmi ou? Tout moun nan fanm yo nan vil ou a?"
 
 # 5948eb87880b406bb79206c60e3851b5
 #: ../source/poll.rst:74
@@ -407,7 +415,8 @@ msgid ""
 "shortest bar? What does that mean?"
 msgstr ""
 "Gade nan graf yo Bar ki reprezante vòt yo (rezilta) nan biwo vòt ou. Ki "
-"repons gen ba la pi long?"
+"repons gen ba la pi long? Ki sa sa vle di? Ki repons gen ba a pi kout? Ki sa"
+" sa vle di?"
 
 # fadb31c973db47b49ccad338b82d5857
 #: ../source/poll.rst:107
@@ -430,7 +439,8 @@ msgid ""
 "people or 100 people? Why?"
 msgstr ""
 "Ki jan sa a kalite enfòmasyon ede ou tire konklizyon sou moun yo ou fè "
-"sondaj?"
+"sondaj? done yo avèk presizyon reprezante yon gwoup antye? li gen pwoblèm si"
+" ou kesyone 25 moun oswa 100 moun? Poukisa?"
 
 # 7aafbacf6c7347c8838e8ced8f720aa7
 #: ../source/poll.rst:111

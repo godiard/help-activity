@@ -209,7 +209,7 @@ msgstr ""
 "Bouton kole. Se imaj la kopye, kote ou ranmase kòm yon coupure * Imaj * soti"
 " nan ankadreman an, kopye nan bò gòch a anwo nan espas ki la travay, epi li "
 "se deja chwazi, se sa ki anba kontwòl la nan * chwazi zòn nan * zouti, ak ki"
-" ."
+" ou trennen coupure la nan plas la vle."
 
 # 44f13982741840008f3984376c583a47
 #: ../source/paint.rst:62

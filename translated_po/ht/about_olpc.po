@@ -52,7 +52,7 @@ msgstr ""
 "Misyon an pou OLPC se senp ankò konvenkan: Pou kreye opòtinite edikasyonèl "
 "pou timoun pi pòv nan mond lan pa bay chak timoun ak yon rezistan, pri ki "
 "ba-, ki ba-pouvwa a, ki konekte laptop ak kontni ak lojisyèl ki fèt pou "
-"kolaborasyon, kè kontan, ak pwòp tèt-pouvwa ."
+"kolaborasyon, kè kontan, ak pwòp tèt-pouvwa aprantisaj."
 
 # b0e2ed479fb1400199a2eb4e4c313680
 #: ../source/about_olpc.rst:12

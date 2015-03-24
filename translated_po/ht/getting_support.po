@@ -51,7 +51,8 @@ msgstr ""
 "Sa te di, yon tout kominote bati sa a XO ak tout bagay sou li, e nou vle ede"
 " ou ak li. Kominote OLPC nou mondyal nan volontè bay lojisyèl ak kenkayri "
 "depanaj ak sipò. Seksyon sa a ap ede di ou ki kote yo jwenn sipò lè ou se "
-"reyèlman kole!"
+"reyèlman kole! OLPC te pwouve ke volontè-kondwi travay sipò, souvan avèk "
+"byen lwen plis sensè k ap pran swen pase nenpòt ki ede biwo rèstriktirasyon!"
 
 # 5d196586880248acbeae37315705db3c
 #: ../source/getting_support.rst:9
@@ -122,10 +123,12 @@ msgid ""
 "http://wiki.laptop.org/go/IRC"
 msgstr ""
 "Èske w te konnen volontè nou anplwaye yon Ede Chat sit viv 24/7, sou entènèt"
-" la? . laptop. org / chat Connexion ak koulè non an-montre; . Tape kesyon ou"
-" nan liy lan chat nan pati anba a. Ou ka gen pou ret tann pou yon repons kòm"
-" volontè nou yo rive nan ak soti. Si ou se pasyan, nou ka pwobableman ede w!"
-" . laptop. org / ale / ir"
+" la? Klike sou isit la: http: // fowòm. laptop. org / chat Connexion ak "
+"koulè non an-montre; sa a, se ID envite. Tape kesyon ou nan liy lan chat nan"
+" pati anba a. Ou ka gen pou ret tann pou yon repons kòm volontè nou yo rive "
+"nan ak soti. Si ou se pasyan, nou ka pwobableman ede w! Pou aprann plis sou "
+"sa Relay entènèt Chat (sistèm la ki fè sa a posib) se, klike isit la: http: "
+"// wiki. laptop. org / ale / ir"
 
 # 36c2d132aaf04c8db69c0c445d9c2943
 #: ../source/getting_support.rst:27
@@ -143,12 +146,12 @@ msgstr ""
 "antouzyastik nan volontè ede itilizatè XO nan tout mond lan. Si ou se "
 "enpresyone ak pasyon a ak travay di nan volontè nou yo, tanpri konsidere bay"
 " tounen, pa rantre nan kominote nou an dedye. Pran yon gade nan lyen ki anba"
-" a. Nou ta akeyi patisipasyon ou! . laptop. org / ale / Support_Gang http: "
-"// wiki. laptop. org / ale / Support_FAQ Asire ou ke ou revize Kesyon yo "
-"poze souvan (FAQ) lyen pi wo a. Anpil nan nou rantre nan ak \"aprann nan fè."
-" \""
+" a. Nou ta akeyi patisipasyon ou! http: // wiki. laptop. org / ale / "
+"Support_Gang http: // wiki. laptop. org / ale / Support_FAQ Asire ou ke ou "
+"revize Kesyon yo poze souvan (FAQ) lyen pi wo a. Anpil nan nou rantre nan ak"
+" \"aprann nan fè. \""
 
 # 26739645f0bd4a8fb7f1e5c562f98b41
 #: ../source/getting_support.rst:29
 msgid "Thanks very much! OLPC Support Gang"
-msgstr "Mèsi anpil!"
+msgstr "Mèsi anpil! OLPC Sipò Gang"

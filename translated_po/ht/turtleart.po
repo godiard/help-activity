@@ -88,7 +88,8 @@ msgid ""
 "colorful lines are drawn."
 msgstr ""
 "Kòmanse pa klike sou (oswa trenen) blòk soti nan palèt a Turtle. Sèvi ak "
-"blòk miltip yo kreye desen; ."
+"blòk miltip yo kreye desen; kòm tòti mouvman yo anba kontwòl ou, liy kolore "
+"yo trase."
 
 # 2628e3566f764209a6f9594893c0ac4d
 #: ../source/turtleart.rst:28
@@ -195,8 +196,9 @@ msgid ""
 "erase; e.g., Alt+e will erase the screen. Esc will return from full-screen "
 "mode."
 msgstr ""
-"Klavye koupe kout pou pi wo a: Alt + palèt a; . g. , Alt + e pral efase "
-"ekran an. Kompitè ap retounen soti nan plen ekran mòd."
+"Klavye koupe kout pou pi wo a: Alt + palèt a; blòk; kouri; mache; sispann; "
+"efase; e. g. , Alt + e pral efase ekran an. Kompitè ap retounen soti nan "
+"plen ekran mòd."
 
 # 1e9b01ee1a384372917ec6a584593bca
 #: ../source/turtleart.rst:57
@@ -250,7 +252,9 @@ msgstr "Bouton Share;"
 msgid ""
 "Share blocks; shown in disable state. Used to share stacks of blocks between"
 " collaborators."
-msgstr "Share blòk; . Itilize yo pataje pil nan blòk ant kolaboratè."
+msgstr ""
+"Share blòk; montre nan eta enfim. Itilize yo pataje pil nan blòk ant "
+"kolaboratè."
 
 # 328c7e410a1f43c9886da1a1086b9b99
 #: ../source/turtleart.rst:75
@@ -413,7 +417,9 @@ msgid ""
 "used for restoring blocks from the trash."
 msgstr ""
 "Gen dis palèt nan eleman pwogram ki disponib pou konstriksyon pwogram: "
-"mouvman Turtle; . Yon palèt onzyèm itilize pou restore blòk soti nan fatra "
+"mouvman Turtle; Pen atribi figi; Koulè atribi figi; Operatè nimerik; Operatè"
+" lojik; Blòk lojik; Blòk Sensor; Blòk Media; Fonksyon pèrsonalizasyon; ak "
+"Prezantasyon blòk. Yon palèt onzyèm itilize pou restore blòk soti nan fatra "
 "a."
 
 # 5e6e88f1c08f4eafb317727d05e043f8
@@ -923,7 +929,7 @@ msgid ""
 "the palette."
 msgstr ""
 "** Remak: ** Lè yo te itilize yon aksyon yo te rele oswa rele bwat blòk, "
-"blòk nouvo parèt sou palèt an ki koresponn ak sa yo non; . g. , Si yon tèt "
+"blòk nouvo parèt sou palèt an ki koresponn ak sa yo non; e. g. , Si yon tèt "
 "nan aksyon pil se chanje non, \"nan kare kare\", yon blòk aksyon, \"nan kare"
 " kare\" se ajoute nan palèt a."
 
@@ -1243,8 +1249,8 @@ msgid ""
 "add your own math equation in the block, e.g., sin(x); This block is "
 "expandable to support up to three variables, e.g. f(x,y,z)"
 msgstr ""
-"ajoute ekwasyon pwòp matematik ou a nan blòk, e. g. , Peche (x); . g. f (x, "
-"y, z)"
+"ajoute ekwasyon pwòp matematik ou a nan blòk, e. g. , Peche (x); Blòk Sa a "
+"se dilatabl sipòte jiska twa varyab, e. g. f (x, y, z)"
 
 # 5f0151c461d64343b4ac7c8f3ff93933
 #: ../source/turtleart.rst:321
@@ -1328,7 +1334,9 @@ msgstr "plen ekran: ale nan mòd plen ekran-(kache Sugar bar)"
 msgid ""
 "list slide: used for bulleted lists; This block is expandable, allowing you "
 "to add as many bullets as you need"
-msgstr "lis glise: itilize pou lis pus;"
+msgstr ""
+"lis glise: itilize pou lis pus; Blòk Sa a se dilatabl, ki pèmèt ou ajoute "
+"kòm anpil bal jan ou bezwen"
 
 # 39da187b4fdb4edc8ffd294bb57ce6ab
 #: ../source/turtleart.rst:339
@@ -1586,7 +1594,8 @@ msgid ""
 " stack you have created."
 msgstr ""
 "Ou pa ka kouri yon blòk Piton pa klike sou li, kòm ki ouvè seleksyon nan "
-"objè; ."
+"objè; olye pou tache blòk la nan yon lòt yon sèl, epi klike yon lòt kote sou"
+" pil la ou te kreye."
 
 # 130eefd36e874922b7a833fa6ce37d66
 #: ../source/turtleart.rst:411
@@ -1623,7 +1632,8 @@ msgid ""
 msgstr ""
 "Anpil nan motivasyon nan dèyè rfaktorizasyon la Version 83 nan Kòd la te fè "
 "li pi fasil pou ou pou w fè chanjman. Pifò chanjman ka rete sèlman nan de "
-"modil: taconstants. d ak talogo. d. Ansyen an defini blòk yo ak palèt; ."
+"modil: taconstants. d ak talogo. d. Ansyen an defini blòk yo ak palèt; lèt "
+"la defini sa Kòd se egzekite pa yon blòk."
 
 # 806c5c5179594cb1b8c449bf66e79804
 #: ../source/turtleart.rst:420

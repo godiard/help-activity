@@ -383,7 +383,8 @@ msgstr ""
 msgid ""
 "Please be patient; it can take your XO up to a minute to find newly visible "
 "networks."
-msgstr "Tanpri pran pasyans; ."
+msgstr ""
+"Tanpri pran pasyans; li ka pran ou moute XO yon minit jwenn rezo fèk vizib."
 
 # e335bbb429cc4c84b6beb0bcc18f5306
 #: ../source/give_me_the_internet.rst:125

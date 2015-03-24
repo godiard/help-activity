@@ -51,7 +51,7 @@ msgid ""
 msgstr ""
 "Pou egzanp, ou tape ** PWD ** (Enprime non aktyèl / Anyè Travay) nan liy lan"
 " bay lòd nan anyè an kay bay ki kote kòm / Home / OLPC, ak sezisman ** ls **"
-" nan liy lan lòd bay lis sa ki ekri nan ."
+" nan liy lan lòd bay lis sa ki ekri nan anyè aktyèl la."
 
 # 3980ceefb2d042659a5c6f56cc0cbfbc
 #: ../source/terminal.rst:13
@@ -245,7 +245,7 @@ msgstr ""
 " tape mc nan liy lan lòd epi pou yo jwenn yon ekspozisyon de-panèl nan dosye"
 " nan repèrtwar yo menm oswa diferan, ansanm ak bouton fonksyon ak meni pou "
 "kreye ak efase repèrtwar, k ap deplase oswa kopye dosye, gade oswa koreksyon"
-" dosye, chanje dosye ."
+" dosye, chanje dosye autorisations, ak plis ankò."
 
 # 8b5a06aeaf014bbd95a93358c88e66cf
 #: ../source/terminal.rst:77

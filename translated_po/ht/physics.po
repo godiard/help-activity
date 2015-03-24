@@ -234,8 +234,9 @@ msgid ""
 "this tool and click on the point on the object you want to trace. You can "
 "delete a tracer by left clicking with the destroy tool (below)"
 msgstr ""
-"Vle wè ki jan ak ki kote yon objè ap deplase? . Ou ka efase yon reje pa "
-"klike gòch ak zouti nan detwi (anba a)"
+"Vle wè ki jan ak ki kote yon objè ap deplase? Mete yon reje sou li! Chwazi "
+"zouti sa a, epi klike sou pwen an sou objè a ou vle trase. Ou ka efase yon "
+"reje pa klike gòch ak zouti nan detwi (anba a)"
 
 # 7d58372858e74e36ad10c049bf78429c
 #: ../source/physics.rst:58
@@ -252,7 +253,8 @@ msgid ""
 "too, but it takes time and is mildly annoying. Therefore try to make rope "
 "only when you are sure you want it."
 msgstr ""
-"Chwazi zouti sa a ak trennen yo kite yon santye nan destriksyon dèyè! . Yon "
+"Chwazi zouti sa a ak trennen yo kite yon santye nan destriksyon dèyè! Ou pa "
+"sèlman sèvi ak zouti sa a detwi objè, men tou, broch, motè ak traseur. Yon "
 "sèl klike sou bò gòch supresyon yon PIN / motè / reje sou objè a. Depi kòd "
 "yo se jis voye boul ti ansanm ak jwenti piti, ou ka eseye efase yo tou, men "
 "li pran tan ak se léjèrman anmèdan. Se poutèt sa eseye fè kòd sèlman lè ou "
@@ -268,7 +270,8 @@ msgid ""
 msgstr ""
 "** ProTip **: Si ou te trase ak yon zouti anvan epi ou vle plizyè kopi fòm "
 "la menm, jis fè yon bò gòch-klike sou ak objè a menm ak yo dwe desine ankò. "
-"Eseye li ak zouti nan Rektang! ."
+"Eseye li ak zouti nan Rektang! Trase yon kare ak Lè sa a, kite klike ankò, "
+"ou pral jwenn yon lòt kopi nan kare a."
 
 # 35cecab5bdff4dcd9259b991290a5d5d
 #: ../source/physics.rst:63

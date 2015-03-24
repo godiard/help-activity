@@ -509,8 +509,9 @@ msgid ""
 "combination of a symbol and a number looks like a sideways heart <3. \"I <3 "
 "my XO\" means, \"I love my XO.\""
 msgstr ""
-"Èske ou ka desine foto l sèvi avèk sèlman senbòl yo tèks sou klavye ou a? . "
-"\"Mwen <3 XO mwen an\" vle di, \"Mwen renmen m 'XO. \""
+"Èske ou ka desine foto l sèvi avèk sèlman senbòl yo tèks sou klavye ou a? Sa"
+" a konbinezon de yon senbòl ak yon nimewo sanble yon kè sou kote <3. \"Mwen "
+"<3 XO mwen an\" vle di, \"Mwen renmen m 'XO. \""
 
 # ba72c37cbdc14a3fa941ee75174a4b76
 #: ../source/chat.rst:154
@@ -707,4 +708,5 @@ msgid ""
 "conventional desktop or laptop computer."
 msgstr ""
 "Ou kapab sèvi ak karakteristik sa a chat ak òdinatè Sugar ki pèmèt soti nan "
-"ki pa Peye-Sugar ki pèmèt òdinatè; ."
+"ki pa Peye-Sugar ki pèmèt òdinatè; kon sa ou ka chat ak pitit ou a oswa klas"
+" nan yon Desktop konvansyonèl oswa òdinatè pòtab."

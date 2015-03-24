@@ -120,7 +120,8 @@ msgid ""
 msgstr ""
 "Lè ou pare yo sispann lè l sèvi avèk XO ou pou yon ti tan, ou ka mete l 'nan"
 " dòmi pa pouse kle a pouvwa ou te itilize yo vire l' sou. Ekran an ki parèt "
-"lè ou pouse bouton an pouvwa montre de rezon ki fè yo pou dòmi; ."
+"lè ou pouse bouton an pouvwa montre de rezon ki fè yo pou dòmi; lè ou pa yo "
+"te itilize li pou yon ti tan, oswa lè ou pouse bouton an pouvwa."
 
 # eb2753ed458d4d038a5251c995ba3a4d
 #: ../source/starting_the_xo.rst:45

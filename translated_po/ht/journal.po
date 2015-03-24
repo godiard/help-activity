@@ -95,7 +95,8 @@ msgid ""
 msgstr ""
 "| Jounal | ** Wè nan yon aktivite **, icon sa a sou ba zouti a (aktivite "
 "oswa tab aktivite) pèmèt aksè rapid nan Journal la, yo ajoute yon "
-"deskripsyon, oswa plis nòt nan tèt ou sou sa w ap pral fè, oswa ki gen ."
+"deskripsyon, oswa plis nòt nan tèt ou sou sa w ap pral fè, oswa ki gen fè "
+"nan ki sesyon nan aktivite a."
 
 # 0227a52f412f46cdbc595b3e93571fb3
 #: ../source/journal.rst:26
@@ -397,10 +398,11 @@ msgstr ""
 "13 - Deskripsyon jaden: Ou ka tape yon deskripsyon nan antre a, ki ou ka "
 "jwenn lè l sèvi avèk ti bwat la pita Search. Sèvi ak yon deskripsyon fè ou "
 "sonje nan sa ou te fè. Pou egzanp: \"Flè mwen te wè sou vwayaje nan kaskad "
-"a\". Oswa ou ka reflechi sou travay ou ak pwosesis: sa mwen te fè; . \"Sa a "
-"te pa fasil, men mwen te aprann anpil bagay sou diferan kalite flè nan "
-"kominote mwen pa pale ak fanmi mwen\". Sa a se enpòtan paske ka sa yo "
-"deskripsyon ka montre nan Aktivite nan refleksyon yo rele \"Portfolio\"."
+"a\". Oswa ou ka reflechi sou travay ou ak pwosesis: sa mwen te fè; ki jan "
+"mwen te fè li; ak ki jan siksè efò sa yo te. \"Sa a te pa fasil, men mwen te"
+" aprann anpil bagay sou diferan kalite flè nan kominote mwen pa pale ak "
+"fanmi mwen\". Sa a se enpòtan paske ka sa yo deskripsyon ka montre nan "
+"Aktivite nan refleksyon yo rele \"Portfolio\"."
 
 # 9ca2878bb0d14c018df1719148e9d869
 #: ../source/journal.rst:68
@@ -524,9 +526,9 @@ msgstr ""
 "anpil nan Lespri Bondye a nan \"dosye\" evalyasyon. Yo nan lòd yo pi lwen "
 "sipòte refleksyon sa a, Sugar ofri yon aktivite Portfolio, yon zouti "
 "evalyasyon ki itilize kontni an jounal. Ou ka reflechi sou ou ap travay: sa "
-"mwen te fè; . Lè sa a, ou kapab kreye yon prezantasyon miltimedya yo pral "
-"pataje avèk kamarad klas ou, pwofesè, ak paran ki kapab tou reflete nan "
-"retounen."
+"mwen te fè; ki jan mwen te fè li; ak ki jan siksè efò sa yo te. Lè sa a, ou "
+"kapab kreye yon prezantasyon miltimedya yo pral pataje avèk kamarad klas ou,"
+" pwofesè, ak paran ki kapab tou reflete nan retounen."
 
 # 1f3680cd18374875aee4713e6cf81e63
 #: ../source/journal.rst:105

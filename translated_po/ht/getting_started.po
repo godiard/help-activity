@@ -36,10 +36,12 @@ msgid ""
 "photos and videos, communicate with friends and family via e-mail, and even "
 "learn to do a little computer programming."
 msgstr ""
-"Byenveni nan XO-peyi! . Bèl ti machin nan vèt ak blan nan ti bwat la se "
+"Byenveni nan XO-peyi! Ou se sou yo kòmanse nan yon avanti bèl bagay nan "
+"eksplorasyon ak aprantisaj. Bèl ti machin nan vèt ak blan nan ti bwat la se "
 "zouti an ki pral pèmèt ou vwayaje mond lan sou Entènèt la, konpoze ak jwe "
 "mizik, kreye travay nan atizay, fè eksperyans syans, pran foto ak videyo, "
-"kominike avèk zanmi ak fanmi atravè ."
+"kominike avèk zanmi ak fanmi atravè e-mail, e menm aprann fè yon pwogram pou"
+" òdinatè ti kras."
 
 # 782a2deb68a34cee979f92bcf3430622
 #: ../source/getting_started.rst:9
@@ -71,8 +73,8 @@ msgid ""
 "to save the box, packing materials, and any paperwork that is in the box."
 msgstr ""
 "Premye bagay ou bezwen fè se ak anpil atansyon defèr XO ou. Sove tout bagay!"
-" . Asire ou ke ou sove ti bwat la, materyèl procesna, ak nenpòt dokiman ki "
-"nan ti bwat la."
+" Si ou pa fè sa, ou ka aksidantèlman jete yon bagay ki enpòtan. Asire ou ke "
+"ou sove ti bwat la, materyèl procesna, ak nenpòt dokiman ki nan ti bwat la."
 
 # 16a9e100247f47b198f43966a5418519
 #: ../source/getting_started.rst:19

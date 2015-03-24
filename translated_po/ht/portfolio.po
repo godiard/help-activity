@@ -124,7 +124,9 @@ msgstr "** Èske w te konnen: **"
 msgid ""
 "you can record audio notes for each slide; the notes are played back "
 "whenever the slide is viewed;"
-msgstr "ou ka dosye nòt odyo pou chak glise;"
+msgstr ""
+"ou ka dosye nòt odyo pou chak glise; nòt yo yo yo te jwe tounen chak fwa se "
+"glise nan wè;"
 
 # 29305c23fa40473180efda71d55a2bce
 #: ../source/portfolio.rst:45
@@ -150,7 +152,7 @@ msgstr "ka montre nan glise kapab delivre kòm yon dokiman PDF ki ka pataje;"
 msgid ""
 "in the thumbnail view, you can reorder your slides (by dragging them); and"
 msgstr ""
-"nan gade nan thumbnail, ou ka reorganized glisad ou a (nan antrenman yo);"
+"nan gade nan thumbnail, ou ka reorganized glisad ou a (nan antrenman yo); ak"
 
 # 44f888c5573347a785c5a1f4cc4217da
 #: ../source/portfolio.rst:49
@@ -547,7 +549,9 @@ msgstr ""
 "Li rekòmande ke detanzantan (yon fwa pou chak semèn, mwa, semès) ke timoun "
 "yo yo mande yo chwazi epi modifye atik pou yon prezantasyon pòtfolyo. Pou "
 "egzanp, te kapab yon prezantasyon chak semèn yo dwe fè yo kondisip klas yo; "
-"."
+"yon yon sèl chak mwa bay paran; e petèt yon fwa pou chak semès, yon "
+"prezantasyon nan tout lekòl la ki fè tout nan vizib nan aprann administratè "
+"ak manm kominote pandan yon evènman sosyal."
 
 # 480a4bf7083c46d6a47e7c7abd1d6135
 #: ../source/portfolio.rst:145

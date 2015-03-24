@@ -374,8 +374,9 @@ msgid ""
 msgstr ""
 "Tou depan de konfigirasyon an nan enstalasyon ou ka gen yon nimewo nan lòt "
 "dosye prezan nan `` ~ / èd-aktivite / html / `` folder (pou egzanp `` "
-"_sources`` a, `` _static``, ak `` _images . Sa yo se tou * dosye pwodiksyon "
-"*, yo te kapab dwe konsidere kòm dosye kache, epi yo pa ta dwe edited."
+"_sources`` a, `` _static``, ak `` _images ``). Sa yo se tou * dosye "
+"pwodiksyon *, yo te kapab dwe konsidere kòm dosye kache, epi yo pa ta dwe "
+"edited."
 
 # 6f03b50f59c4408e9135c62b7b859d88
 #: ../source/how_to_help.rst:137

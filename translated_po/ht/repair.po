@@ -418,10 +418,11 @@ msgstr ""
 "Pafwa ekspozisyon an se aktif (ki gen ladan ekleraj), men pa gen okenn tèks "
 "oswa grafik parèt. Ka pwoblèm sa a dwe ki te koze pa retire pouvwa a nan yon"
 " XO pandan y ap li se amelyore firmwèr a. Ou ta dwe kontakte yon sant "
-"reparasyon pou asistans. ekspozisyon an di \"Konekte pouvwa a kontinye\"? . "
-"Si sa a se pwoblèm nan, bay tou de sous ki gen pouvwa ak rdemare. XO a ta "
-"dwe kontinye ak yon aktyalizasyon firmwèr ak bòt nòmalman. Èske ekspozisyon "
-"an se ki montre yon icon XO sèlman?"
+"reparasyon pou asistans. ekspozisyon an di \"Konekte pouvwa a kontinye\"? "
+"Pafwa yon aktyalizasyon firmwèr egzije de sous ki gen pouvwa, tou de yon "
+"batri ak yon adaptè pouvwa. Si sa a se pwoblèm nan, bay tou de sous ki gen "
+"pouvwa ak rdemare. XO a ta dwe kontinye ak yon aktyalizasyon firmwèr ak bòt "
+"nòmalman. Èske ekspozisyon an se ki montre yon icon XO sèlman?"
 
 # b65799eda37b4f1492389c4599f97740
 #: ../source/repair.rst:89

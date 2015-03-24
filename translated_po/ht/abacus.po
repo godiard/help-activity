@@ -46,9 +46,13 @@ msgstr ""
 "Abacus pèmèt elèv k ap aprann nan eksplore reprezantasyon diferan nan nimewo"
 " lè l sèvi avèk diferan sistèm mekanik konte devlope pa Women yo ansyen ak "
 "Chinwa. Gen plizyè varyant diferan ki disponib pou eksplorasyon: yon "
-"suanpan, abak a tradisyonèl Chinwa ak 2 pèl sou tèt ak 5 pèl anba a; . "
-"Genyen tou yon abak binè, yon abak ekzadesimal, ak plizyè abacuses ki pèmèt "
-"ou kalkile ak fraksyon komen: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, . Apre sa, "
+"suanpan, abak a tradisyonèl Chinwa ak 2 pèl sou tèt ak 5 pèl anba a; yon "
+"soroban, tradisyonèl abak Japonè a ak 1 chaplèt sou tèt ak 4 pèl anba a; "
+"schety a, abak nan tradisyonèl, Ris, ak 10 pèl pou chak kolòn, ak eksepsyon "
+"de yon kolòn ak jis 4 pèl yo itilize pou konte nan kar; ak nepohualtzintzin "
+"an, yon abak Maya, 3 pèl sou tèt ak 4 pèl anba a (baz 20). Genyen tou yon "
+"abak binè, yon abak ekzadesimal, ak plizyè abacuses ki pèmèt ou kalkile ak "
+"fraksyon komen: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, ak 1/12. Apre sa, "
 "se yon ba ikòn personnalisation ki pèmèt ou desine abak pwòp ou a. Abak a "
 "Incan (Yupana) kòm yon pwogram otonòm."
 
@@ -120,8 +124,8 @@ msgid ""
 msgstr ""
 "Kolòn yo tèt yo reprezante pozisyon desimal de dwat a gòch, e. g. , 1, 10, "
 "100s, 1000s, elatriye. (Genyen kèk eksepsyon: (1) nepohualtzintzin a itilize"
-" baz 20, e. g. , 1, 20s, 400s, 8000s, elatriye. ; . 1, 0. 01s, 0. 001s, ak "
-"0. )"
+" baz 20, e. g. , 1, 20s, 400s, 8000s, elatriye. ; (2) sou schety a, pèl yo a"
+" dwat a kolòn a ak jis kat pèl yo se 0. 1, 0. 01s, 0. 001s, ak 0. )"
 
 # d0529eebd410408d88dad07d48177b7f
 #: ../source/abacus.rst:29
@@ -227,8 +231,10 @@ msgstr ""
 "Pou ajoute, tou senpleman deplase nan plis pèl reprezante ki kantite w ap "
 "ajoute. Gen de règ yo swiv: (1) nenpòt lè ou gen yon total de 5 inite oswa "
 "plis sou anba a nan yon kolòn, anile soti nan 5 pa glisman pèl yo tounen "
-"desann epi ajoute yon senk a nan tèt la; . (Avèk nepohualtzintzin a, w ap "
-"travay avèk 20 olye ke 10. )"
+"desann epi ajoute yon senk a nan tèt la; ak (2) nenpòt lè ou gen yon total "
+"de 10 inite oswa plis nan yon kolòn, anile soti 10 an epi ajoute yon inite "
+"kolòn nan imedyatman nan bò gòch la. (Avèk nepohualtzintzin a, w ap travay "
+"avèk 20 olye ke 10. )"
 
 # 31db707af29f47638d26ca19dba96b8c
 #: ../source/abacus.rst:67
@@ -509,16 +515,18 @@ msgid ""
 "rod with three beads, to work with fifths, use the rod with five beads."
 msgstr ""
 "Abak a fraksyon pèmèt ou fè adisyon ak soustraksyon fraksyon komen: 1/2, "
-"1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, ak 1/12, fraksyon nan . g. , Yo travay "
-"avèk tyè, sèvi ak baton an ak twa pèl, yo travay avèk senkyèm, sèvi ak baton"
-" an ak senk pèl."
+"1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, ak 1/12, fraksyon nan Se valè detèmine "
+"pa ki kantite pèl nwa sou yon baton, e. g. , Yo travay avèk tyè, sèvi ak "
+"baton an ak twa pèl, yo travay avèk senkyèm, sèvi ak baton an ak senk pèl."
 
 # 98f75c1d21954fe7828eddcbbeabf9ae
 #: ../source/abacus.rst:198
 msgid ""
 "The rods with white beads are whole numbers in base 10; from left to right "
 "100000, 10000, 1000, 100, 10, and 1."
-msgstr "Branch yo ak pèl blan yo se nonb antye nan baz 10; ."
+msgstr ""
+"Branch yo ak pèl blan yo se nonb antye nan baz 10; de gòch a dwat 100000, "
+"10000, 1000, 100, 10, ak 1."
 
 # b8611bde650d4c08808cd55472910016
 #: ../source/abacus.rst:202
@@ -704,7 +712,8 @@ msgid ""
 "estimating? Which is better for comparing?"
 msgstr ""
 "Yon pwojè plezi se yo konpare kalkil lè l sèvi avèk Abacus ak Kalkile "
-"aktivite a. Ki se pi vit?"
+"aktivite a. Ki se pi vit? Ki se pi egzak? Ki se pi bon pou estime? Ki se pi "
+"bon pou konpare?"
 
 # f3a5f7a25e9d418b9c4e8bf532312a4e
 #: ../source/abacus.rst:327
@@ -715,7 +724,9 @@ msgid ""
 " converting decimal to hexidecimal."
 msgstr ""
 "Abacus sipòte keratin, kidonk, ou ka pran nimerik valè soti nan lòt pwogram "
-"ak keratin yo nan abak a yo wè sa ki yo se reprezantasyon; ."
+"ak keratin yo nan abak a yo wè sa ki yo se reprezantasyon; pou egzanp, mwen "
+"souvan kole nimewo nan ekzadesimal nan abak kòm yon fason rapid nan konvèti "
+"desimal hexidecimal."
 
 # 71330557fec147769e1888cb8b857c52
 #: ../source/abacus.rst:328

@@ -73,7 +73,8 @@ msgid ""
 " + v is used to paste from the clipboard."
 msgstr ""
 "Kontwòl kle - se kle nan kontwòl yo itilize nan konbinezon ak lòt kle bay "
-"desizyon kòmandman. Pou egzanp, ctrl + c se sèvi ak kopi nan papye a; ."
+"desizyon kòmandman. Pou egzanp, ctrl + c se sèvi ak kopi nan papye a; se "
+"ctrl + v itilize kole soti nan papye a."
 
 # 998ba9849e7144a380461209064420d0
 #: ../source/keyboard.rst:17
@@ -93,7 +94,7 @@ msgid ""
 "modifier. For example, fn + erase is delete; fn + up arrow is page up."
 msgstr ""
 "Fn kle - se kle nan fonksyon yo itilize nan konbinezon ak lòt kle kòm yon "
-"Modifier. Pou egzanp, FN + efase se efase; ."
+"Modifier. Pou egzanp, FN + efase se efase; FN + moute flèch se paj moute."
 
 # 8ca5fa950da84958b8463c8b98b5169b
 #: ../source/keyboard.rst:19
@@ -104,8 +105,9 @@ msgid ""
 "not in the Record Activity."
 msgstr ""
 "Alt kle - se kle nan alt itilize nan konbinezon ak lòt kle bay desizyon "
-"kòmandman. Pou egzanp, alt + antre nan baskile mòd plen ekran-; . Egzanp sa "
-"a ap travay nan Browse aktivite a, men se pa nan aktivite nan Dosye."
+"kòmandman. Pou egzanp, alt + antre nan baskile mòd plen ekran-; alt + bar "
+"baskile vizibilite a plato. Egzanp sa a ap travay nan Browse aktivite a, men"
+" se pa nan aktivite nan Dosye."
 
 # fd741326ca414772a0c456134cf5ff6e
 #: ../source/keyboard.rst:20
@@ -137,7 +139,10 @@ msgstr ""
 msgid ""
 "Arrow keys -- The arrow keys are used for navigation; combined with the "
 "function key (fn), they are used for page up, page down, home, and end."
-msgstr "Kle flèch - flèch la kle yo itilize pou Navigasyon; ."
+msgstr ""
+"Kle flèch - flèch la kle yo itilize pou Navigasyon; konbine avèk kle a "
+"fonksyon (FN) yo, yo yo te itilize pou paj moute, paj desann, kay la, ak nan"
+" fen."
 
 # 16b440798fff4ec1817bbe5afab21eb5
 #: ../source/keyboard.rst:23

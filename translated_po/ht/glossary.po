@@ -60,8 +60,11 @@ msgstr ""
 "deskripsyon gen entansyon transmèt yon lide enpòtan. Souvan nou bezwen yon "
 "lòt kalite diferan nan asosyasyon ant non ak lide, tankou foto, Animations, "
 "oswa eksperyans aktyèl. Rezon ki pi enpòtan nan definisyon se a esplike kisa"
-" bagay la yo te rele fè; . Jeneralman sa yo se lòd la enpòtans nan rezon sa "
-"yo antyèman konpwann."
+" bagay la yo te rele fè; yon lòt se a dekri itilizasyon li yo, oswa kòm nou "
+"souvan di rezon li yo; yon twazyèm se a dekri aparans nan yon bagay, pou nou"
+" ka rekonèt li lè nou wè li; yon katriyèm se pou pèmèt nou pale sou bagay la"
+" bon ak moun ki deja gen kèk lide sou li. Jeneralman sa yo se lòd la "
+"enpòtans nan rezon sa yo antyèman konpwann."
 
 # 69b2434312f54a09ab2e1ff3031da2e1
 #: ../source/glossary.rst:13
@@ -96,11 +99,12 @@ msgid ""
 "the Frame button while the Frame is active dismisses the Frame."
 msgstr ""
 "Popup fwontyè rektangilè nan Sugar montre View ikon ak Aktivite aktif sou "
-"tèt la; . Se ankadreman a aktive pa mete kurseur an sourit nan yon kwen nan "
-"ekran an, oswa opsyonèlman bò la (gade Anviwònman mwen), oswa pa peze bouton"
-" an Frame sou bò dwat la anwo nan yon klavye XO. Botwe kurseur an sourit "
-"kite zòn nan deklanchman oswa peze bouton an Frame pandan y ap ankadreman an"
-" se aktif konjedi Frame nan."
+"tèt la; zanmi ikon sou bò dwat la; ikon kenkayri sou anba a; ak ikon pou "
+"dokiman ouvè sou bò gòch la. Se ankadreman a aktive pa mete kurseur an "
+"sourit nan yon kwen nan ekran an, oswa opsyonèlman bò la (gade Anviwònman "
+"mwen), oswa pa peze bouton an Frame sou bò dwat la anwo nan yon klavye XO. "
+"Botwe kurseur an sourit kite zòn nan deklanchman oswa peze bouton an Frame "
+"pandan y ap ankadreman an se aktif konjedi Frame nan."
 
 # 2b242b910b1f4450831df2ddd695c0c2
 #: ../source/glossary.rst:21

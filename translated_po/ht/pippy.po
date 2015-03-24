@@ -125,11 +125,11 @@ msgstr ""
 "Si Pippy se itilize nan paralèl ak ekri aktivite a, li se posib yo devlope "
 "pi gwo pwogram. Kopi pwogram nan ke ou devlope nan ekri aktivite a pa chwazi"
 " tout (<CTRL> a) ak kopye li nan clipboard a (<CTRL> c), lè sa a chanje nan "
-"Pippy aktivite a, ak keratin (<CTRL> v) l 'nan la . Si gen erè ke ou vle "
-"korije, ou ka fè chanjman sa yo nan fennèt la Kòd, ak imedyatman wè rezilta "
-"yo nan chanjman ou. Lè sa a, lè w kopye pwogram nan chanje tounen nan "
-"clipboard a, ou ka kole li tounen nan aktivite nan Word, epi sove chanjman "
-"yo nan jounal la."
+"Pippy aktivite a, ak keratin (<CTRL> v) l 'nan la fenèt Kòd. Si gen erè ke "
+"ou vle korije, ou ka fè chanjman sa yo nan fennèt la Kòd, ak imedyatman wè "
+"rezilta yo nan chanjman ou. Lè sa a, lè w kopye pwogram nan chanje tounen "
+"nan clipboard a, ou ka kole li tounen nan aktivite nan Word, epi sove "
+"chanjman yo nan jounal la."
 
 # d0bd3a887882453f982747765f9e34a9
 #: ../source/pippy.rst:38

@@ -114,7 +114,10 @@ msgid ""
 "respond with an audio pulse of its own; then both computers will calculate "
 "and display the distance between them (by default, the measurement is "
 "displayed in meters)."
-msgstr "Òdinatè a premye pral voye yon batman kè odyo; ."
+msgstr ""
+"Òdinatè a premye pral voye yon batman kè odyo; dezyèm òdinatè a ap reponn ak"
+" yon batman kè odyo nan pwòp li yo; Lè sa a, tou de òdinatè ap kalkile epi "
+"montre distans ki genyen ant yo (pa default, se mezi a parèt nan mèt)."
 
 # 90972c94e1f745daae968a06ac5646fa
 #: ../source/distance.rst:39
@@ -155,7 +158,9 @@ msgstr ""
 msgid ""
 "Atmospheric conditions can impact the accuracy of the measurement; you can "
 "override the default settings by using the Atmosphere toolbar."
-msgstr "Kondisyon atmosferik ka gen enpak sou presizyon nan mezi a; ."
+msgstr ""
+"Kondisyon atmosferik ka gen enpak sou presizyon nan mezi a; ou ka pase sou "
+"desizyon anviwònman yo default lè l sèvi avèk ba ikòn nan Atmosfè."
 
 # 92cc81461de34206a3e7cfca03172226
 #: ../source/distance.rst:54

@@ -69,7 +69,10 @@ msgid ""
 "Sugar incorporates a Frame around the border of the screen; the Frame holds "
 "status information, such as alerts, a clipboard, open activities, and your "
 "current collaborators."
-msgstr "Sugar genyen ladan l yon Frame alantou fwontyè a nan ekran an; ."
+msgstr ""
+"Sugar genyen ladan l yon Frame alantou fwontyè a nan ekran an; Frame la "
+"kenbe enfòmasyon estati, tankou alèt, yon papye, aktivite louvri, ak "
+"kolaboratè ou ye kounye a."
 
 # 1857925284dc4ced9a1ff3aedd04c6db
 #: ../source/sugar_ui.rst:17
@@ -78,8 +81,9 @@ msgid ""
 " reflection. You do not need to save files or create folders; Activities "
 "automatically save your work to the Journal."
 msgstr ""
-"Sugar kenbe yon Journal (oswa jounal pèsonèl) nan tout sa ou fè; . Ou pa "
-"bezwen pou konsève pou dosye oswa kreye dosye; ."
+"Sugar kenbe yon Journal (oswa jounal pèsonèl) nan tout sa ou fè; li se yon "
+"kote pou refleksyon. Ou pa bezwen pou konsève pou dosye oswa kreye dosye; "
+"Aktivite otomatikman sove travay ou a Journal la."
 
 # 6ab00b25f914426a8cd6cb9f55b41e50
 #: ../source/sugar_ui.rst:19
@@ -93,8 +97,9 @@ msgid ""
 msgstr ""
 "Sugar mete aksan sou dekouvèt. Chak objè nan koòdone la gen yon meni ki "
 "revele plis detay ak opsyon pou aksyon. Anpil Pami aktivite yo genyen yon "
-"\"sous vi\" opsyon; . Pifò Aktivite sa ekri nan lang nan scripting Piton. Ou"
-" ka wè ki jan yo travay, epi fè chanjman yo."
+"\"sous vi\" opsyon; pou egzanp, aktivite a Browse pèmèt ou egzaminen kòd la "
+"HTML ki revele ki jan se yon paj wèb kreye. Pifò Aktivite sa ekri nan lang "
+"nan scripting Piton. Ou ka wè ki jan yo travay, epi fè chanjman yo."
 
 # f5dde0e6654f4816bef17ae72b5641a8
 #: ../source/sugar_ui.rst:21
@@ -129,7 +134,8 @@ msgstr ""
 "Sugar pa gen aplikasyon nan sans nan tradisyonèl. Aktivite yo diferan de "
 "aplikasyon pou nan sa yo konsantre sou (kolaborasyon ak ekspresyon), ak nan "
 "aplikasyon yo (journal ak iterasyon). Sa a se pi plis pase yon nouvo "
-"konvansyon nonmen; ."
+"konvansyon nonmen; li reprezante yon bon jan kalite intrinsèques nan "
+"eksperyans la aprann nou espere timoun yo pral gen lè w ap itilize Sugar."
 
 # 99936cf9aaee48baa6264086b4ec24d0
 #: ../source/sugar_ui.rst:30
@@ -225,9 +231,9 @@ msgid ""
 "developers can define object types and associated icons to represent them."
 msgstr ""
 "Vire sistèm nan dosye tradisyonèl nan objè pale plis dirèkteman nan metafò "
-"mond reyèl la: olye pou yo yon dosye son, nou gen yon son aktyèl; . Yo nan "
-"lòd yo sipòte konsèp sa a, aktivite devlopè ka defini kalite objè ak ikon "
-"asosye reprezante yo."
+"mond reyèl la: olye pou yo yon dosye son, nou gen yon son aktyèl; olye pou "
+"yo yon dosye tèks, yon istwa. Yo nan lòd yo sipòte konsèp sa a, aktivite "
+"devlopè ka defini kalite objè ak ikon asosye reprezante yo."
 
 # 12acdd8cba7b406d8e0a0a52a8189247
 #: ../source/sugar_ui.rst:44

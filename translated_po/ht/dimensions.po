@@ -36,7 +36,8 @@ msgid ""
 "three cards or are different on all three cards."
 msgstr ""
 "Dimansyon (deja li te ye kòm Visual Match) se yon jwèt modèl-matche ekri pou"
-" Sugar; ."
+" Sugar; li se enkli kòm yon pati nan koleksyon an siwo myèl nan Sugar "
+"ajoute-ons."
 
 # 454f1a6c0ab244b183a3a1543b784856
 #: ../source/dimensions.rst:10
@@ -239,12 +240,12 @@ msgstr "Ranje depi anwo jouk anba"
 # 8c9669d090a44247a457b2501881162a
 #: ../source/dimensions.rst:70
 msgid "The colors, shapes, and shade match; numbers are different."
-msgstr "Koulè, fòm, ak lonbraj matche ak nan; ."
+msgstr "Koulè, fòm, ak lonbraj matche ak nan; nimewo yo diferan."
 
 # 9c078a72011e4b24b4829107f68f397e
 #: ../source/dimensions.rst:72
 msgid "The numbers match; colors, shapes and shade are different."
-msgstr "Matche ak nan nimewo; ."
+msgstr "Matche ak nan nimewo; koulè, fòm ak lonbraj yo diferan."
 
 # 8f790faf0bea4e00b316c6f1f9d63d89
 #: ../source/dimensions.rst:74
@@ -343,7 +344,9 @@ msgstr ""
 msgid ""
 "The grid layout is arbitrary; there is no need to pick in rows or columns, "
 "or one from each column."
-msgstr "Layout a kadriyaj se abitrè; ."
+msgstr ""
+"Layout a kadriyaj se abitrè; pa gen okenn bezwen yo chwazi nan ranje oubyen "
+"kolòn, oswa yon sèl soti nan chak kolòn."
 
 # 060cc062092e4542adc251cd55d4811d
 #: ../source/dimensions.rst:113
@@ -351,7 +354,8 @@ msgid ""
 "The blank cards on the left are a place to display the most recent match; "
 "they can be otherwise ignored."
 msgstr ""
-"Kat yo vid sou bò gòch la se yon kote yo montre match la ki pi resan; ."
+"Kat yo vid sou bò gòch la se yon kote yo montre match la ki pi resan; yo ka "
+"otreman inyore."
 
 # 7cb89198809a444294b586dc7b8e7c12
 #: ../source/dimensions.rst:114
@@ -362,9 +366,11 @@ msgid ""
 "indicate that the robot found 2 matches out of a total of 5 (3+2) found so "
 "far."
 msgstr ""
-"Yon konte nan kantite alimèt yo te jwenn yo montre nan ba ikòn nan; . g. , 3"
-" (2) ta kapab endike ke robo a te jwenn 2 alimèt soti nan yon total de 5 (3 "
-"+ 2) yo te jwenn byen lwen tèlman."
+"Yon konte nan kantite alimèt yo te jwenn yo montre nan ba ikòn nan; lè "
+"asistan nan robo ap ede, se konte a parèt tankou de nonb, kote ki kantite "
+"alimèt jwenn pa robo a se nan parantèz, e. g. , 3 (2) ta kapab endike ke "
+"robo a te jwenn 2 alimèt soti nan yon total de 5 (3 + 2) yo te jwenn byen "
+"lwen tèlman."
 
 # 411401fb701d4b7ba55910586b93d4c7
 #: ../source/dimensions.rst:115
@@ -473,7 +479,9 @@ msgstr "Pawòl Jwèt"
 msgid ""
 "The words are from different semantic groups; the colors are different; the "
 "font style (bold) matches."
-msgstr "Mo sa yo yo soti nan diferan gwoup semantik; ."
+msgstr ""
+"Mo sa yo yo soti nan diferan gwoup semantik; koulè yo yo diferan; style la "
+"font (fonse) alimèt."
 
 # d2b0c1b464324022b3905701385462bf
 #: ../source/dimensions.rst:149
@@ -615,7 +623,9 @@ msgid ""
 "explored."
 msgstr ""
 "Nan yon nivo debaz yo, Dimansyon ka itilize amelyore konpetans yo obsèvasyon"
-" nan jèn k ap aprann; ."
+" nan jèn k ap aprann; yo repete mande: ki sa se menm bagay la? ki sa ki "
+"diferan? Nan yon nivo pi fon, konsèp yo nan kouche pluridimansyonèl ka "
+"eksplore."
 
 # 7b8fbc12dce74ec1a3d5faf8d0278f0f
 #: ../source/dimensions.rst:220
