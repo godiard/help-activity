@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-22 23:07-0300\n"
+"POT-Creation-Date: 2015-03-27 08:39-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,8 +78,14 @@ msgstr ""
 
 #: ../source/abacus.rst:35
 #: ../source/abacus.rst:47
+#: ../source/abacus.rst:280
+#: ../source/abacus.rst:292
+#: ../source/abacus.rst:302
 # b5c05b179e7d4f85896ed9db13277fc3
 # 81191944c930480d966427cb4c62341f
+# 3e1fd2eb3a5d4d41b63a8416183371fd
+# e17d8db644a8416a94497c83402f90f9
+# 0a78e9a5b2b94e05b435779b3023a53e
 msgid "From left to right,"
 msgstr ""
 
@@ -158,9 +164,6 @@ msgstr ""
 #: ../source/abacus.rst:161
 #: ../source/abacus.rst:173
 #: ../source/abacus.rst:183
-#: ../source/abacus.rst:283
-#: ../source/abacus.rst:295
-#: ../source/abacus.rst:305
 # 2fb4d02fa27a42039174630805099bf8
 # 55dd599a95374c18bddc1a52ceb91321
 # 51b4106d587849c0b2c125b37fad707f
@@ -171,9 +174,6 @@ msgstr ""
 # 810f73209b564356a451d3e03d7566a9
 # 97e33b73e93e40e1a9f63f9cdd5b4a2d
 # e99fcf970e1e40ef8138bfba76392c29
-# 7cfe027721b14893b94eb60863df7b6f
-# 3e1fd2eb3a5d4d41b63a8416183371fd
-# 0a78e9a5b2b94e05b435779b3023a53e
 msgid "from left to right,"
 msgstr ""
 
@@ -406,161 +406,266 @@ msgstr ""
 
 #: ../source/abacus.rst:210
 #: ../source/abacus.rst:226
-#: ../source/abacus.rst:235
-#: ../source/abacus.rst:262
+#: ../source/abacus.rst:234
+#: ../source/abacus.rst:260
 # 5c1ce9f86b1d4e9fb4f87ff8926392d0
 # a5f47f2fb4a648f78bd0184fe5579246
-# 2a41e1d821894e3fbc608291f6c01d28
-# e17d8db644a8416a94497c83402f90f9
+# a5f47f2fb4a648f78bd0184fe5579246
+# a5f47f2fb4a648f78bd0184fe5579246
 msgid "From left to right:"
 msgstr ""
 
 #: ../source/abacus.rst:212
-# 23a9d3f636a84c67a4bdd4ce94a95396
-msgid "project-toolbar button see below edit-toolbar button see below abacus-toolbar button see below customization-toolbar button clear button clear the abacus stop button exit the activity"
+# 95d0447f3dd9420586af4bd0f1c3a84f
+msgid "project-toolbar button: see below"
+msgstr ""
+
+#: ../source/abacus.rst:214
+# a5fb30a9fda6469db337b2db3ba0161c
+msgid "edit-toolbar button: see below"
+msgstr ""
+
+#: ../source/abacus.rst:216
+# 33f4b30034ab404e8d432e543233cdae
+msgid "abacus-toolbar button: see below"
+msgstr ""
+
+#: ../source/abacus.rst:218
+# 6959234f332448e991b3c1b71510dd17
+msgid "customization-toolbar button"
+msgstr ""
+
+#: ../source/abacus.rst:220
+# b5d12d7d01644c49a4be04a4d0c5f496
+msgid "clear button: clear the abacus"
+msgstr ""
+
+#: ../source/abacus.rst:222
+# 0df69e3c10b645aa910acad18cd90937
+msgid "stop button: exit the activity"
 msgstr ""
 
 #: ../source/abacus.rst:228
 # 39d2625bac38488da2085e3e4ae558d8
-msgid "copy copy current value to clipboard paste paste a value from the clipboard into the abacus"
+msgid "copy: copy current value to clipboard"
 msgstr ""
 
-#: ../source/abacus.rst:237
-# d41ea1071be4417ab8f939b6d6b6b00c
-msgid "decimal button decimal abacus soroban button Japanese abacus saupan button Chinese abacus nepohualtzintzin button Mayan abacus hexadecimal button hexadecimal abacus binary button binary abacus schety button Russian abacus fraction button fraction abacus Caacupe button fraction abacus with +/– rod button Cuisenaire-like abacus custom button your custom abacus"
+#: ../source/abacus.rst:230
+# 39d2625bac38488da2085e3e4ae558d8
+msgid "paste: paste a value from the clipboard into the abacus"
+msgstr ""
+
+#: ../source/abacus.rst:236
+# 2aeb45aff66344b9bccd8d67f57e08f0
+msgid "Decimal button: decimal abacus"
+msgstr ""
+
+#: ../source/abacus.rst:238
+# c5dae6bc8ec74beda997f6421e7eba3a
+msgid "Soroban button: Japanese abacus"
+msgstr ""
+
+#: ../source/abacus.rst:240
+# 678ca6f9c74648deb0e5394185cd03bd
+msgid "Saupan button: Chinese abacus"
+msgstr ""
+
+#: ../source/abacus.rst:242
+# b11d636bf42d45878f6b5c9b5dae5769
+msgid "Nepohualtzintzin button: Mayan abacus"
+msgstr ""
+
+#: ../source/abacus.rst:244
+# 9be3fa411c234befb5e2f48487149654
+msgid "Hexadecimal button: hexadecimal abacus"
+msgstr ""
+
+#: ../source/abacus.rst:246
+# 9251f67150104b6eb84a025c4e238764
+msgid "Binary button: binary abacus"
+msgstr ""
+
+#: ../source/abacus.rst:248
+# 68244dad29f84265abd2800230b9da94
+msgid "Schety button: Russian abacus"
+msgstr ""
+
+#: ../source/abacus.rst:250
+# 3f15ce27d6f64006aac1ae9789613b81
+msgid "Fraction button: fraction abacus"
+msgstr ""
+
+#: ../source/abacus.rst:252
+# 483cbc800a8c48f3a6221d5bd098d86a
+msgid "Caacupe button: fraction abacus with +/–"
+msgstr ""
+
+#: ../source/abacus.rst:254
+# e7f221ef15c6489ba2dbba9700ca272c
+msgid "rod button: Cuisenaire-like abacus"
+msgstr ""
+
+#: ../source/abacus.rst:256
+# 99d7ba0894614383b823c24ede686d65
+msgid "custom button: your custom abacus"
+msgstr ""
+
+#: ../source/abacus.rst:262
+# 646c0c9520ed4749aea86270bfac2584
+msgid "rods: select the number of rods:"
 msgstr ""
 
 #: ../source/abacus.rst:264
-# eda00948068d439ea5e338f9053e17d7
-msgid "rods select the number of rods: top beads select the number of beads on the top of the frame bottom select the number of beads on the bottom of the frame factor select the multiplication factor of top beads (e.g., on the Chinese abacus, each top bead counts as 5× the value of a bottom bead on the same rod) base select the base to determine the value of bottom beads across rods; this is 10 on most conventional abacuses, but 20 on the Mayan abacus, 16 on the hexadecimal abacus, and 2 on the binary abacus. create you must push this button to activate the selections you've made"
+# 701b077cb2124532a013501639721940
+msgid "top beads: select the number of beads on the top of the frame"
 msgstr ""
 
-#: ../source/abacus.rst:279
+#: ../source/abacus.rst:266
+# 4a7338ea84a647ae9b78267885673fe5
+msgid "bottom: select the number of beads on the bottom of the frame"
+msgstr ""
+
+#: ../source/abacus.rst:268
+# 0e05c739cf764a57b005684bcfc13b80
+msgid "factor: select the multiplication factor of top beads (e.g., on the Chinese abacus, each top bead counts as 5× the value of a bottom bead on the same rod)"
+msgstr ""
+
+#: ../source/abacus.rst:270
+# a1670a5bcafd4f8aaa7c540a1b582dae
+msgid "base: select the base to determine the value of bottom beads across rods; this is 10 on most conventional abacuses, but 20 on the Mayan abacus, 16 on the hexadecimal abacus, and 2 on the binary abacus."
+msgstr ""
+
+#: ../source/abacus.rst:272
+# a3a0e616031a4c23be012e8dfdbb45e5
+msgid "create: you must push this button to activate the selections you've made"
+msgstr ""
+
+#: ../source/abacus.rst:276
 # 116bad30b70143fb9f0c82e947e5dc82
 msgid "Gallery of abaci"
 msgstr ""
 
-#: ../source/abacus.rst:285
+#: ../source/abacus.rst:282
 # 2d1d95431ba040aab2686a22c6e997b9
 msgid "suanpan (Chinese)"
 msgstr ""
 
-#: ../source/abacus.rst:287
+#: ../source/abacus.rst:284
 # bc7e4b71d8314123a3124a538187601a
 msgid "soropan (Japanese)"
 msgstr ""
 
-#: ../source/abacus.rst:289
+#: ../source/abacus.rst:286
 # b382fcbfec3e4ee9ae78432f4847cb28
 msgid "schety (Russian)"
 msgstr ""
 
-#: ../source/abacus.rst:291
+#: ../source/abacus.rst:288
 # bebafa2816f746b0b56db7dc6635b571
 msgid "nepohualtzintzin (Mayan)"
 msgstr ""
 
-#: ../source/abacus.rst:297
+#: ../source/abacus.rst:294
 # 4ae6c93176934837b0ecdd5788d54d71
 msgid "binary (base 2)"
 msgstr ""
 
-#: ../source/abacus.rst:299
+#: ../source/abacus.rst:296
 # 683df85f889f42148b4e2f8850fd036e
 msgid "hexadecimal (base 16)"
 msgstr ""
 
-#: ../source/abacus.rst:301
+#: ../source/abacus.rst:298
 # 4a6dc4f337ad4977808d0dc0cb68d6b4
 msgid "fractions (1/2, 1/3, 1/4,...)"
 msgstr ""
 
-#: ../source/abacus.rst:307
+#: ../source/abacus.rst:304
 # 483cbc800a8c48f3a6221d5bd098d86a
 msgid "Caacupe (fractions with +/–)"
 msgstr ""
 
-#: ../source/abacus.rst:309
+#: ../source/abacus.rst:306
 # bfd9d3de0dfa44628e929fbc9b14f408
 msgid "decimal (base 10)"
 msgstr ""
 
-#: ../source/abacus.rst:311
+#: ../source/abacus.rst:308
 # 8b768046ea7f45de9c2f238ff71d34ff
 msgid "Cuisenaire-style rods (fractions)"
 msgstr ""
 
-#: ../source/abacus.rst:313
+#: ../source/abacus.rst:310
 # 6959234f332448e991b3c1b71510dd17
 msgid "custom, as shown: octal (base 8)"
 msgstr ""
 
-#: ../source/abacus.rst:318
+#: ../source/abacus.rst:315
 # 6197f890ec0a41e58fb2a7a4c8a0491f
 msgid "Learning with Abacus"
 msgstr ""
 
-#: ../source/abacus.rst:319
+#: ../source/abacus.rst:316
 # 33560c8b81774a10a6c526dd822d4cb8
 msgid "`Some lesson plans <http://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet>`_ for using Abacus are found here."
 msgstr ""
 
-#: ../source/abacus.rst:320
+#: ../source/abacus.rst:317
 # 5cfbf32ef0d846ecbe4b42acf3141ddc
 msgid "Using beads or pebbles, you can make an abacus. What is the difference between the abacus on the computer and a physical abacus?"
 msgstr ""
 
-#: ../source/abacus.rst:321
+#: ../source/abacus.rst:318
 # b9906253ab1d4790a32deac1b7b06e77
 msgid "It is possible to create a custom abacus. I often use the example of `Sumerian mathematics <https://en.wikipedia.org/wiki/Babylonian_mathematics#Sumerian_mathematics_.283000_.E2.80.94_2300_BC.29>`_: the Sumerians counted on the digital bones (phalanges) of their fingers, so the base of their counting system was 12. All of the 12s (and 60s) we have in our mathemateics, e.g., 12 hours, 60 seconds, etc. have their roots in Sumerian math. But the Sumerians never invented an abacus. What would a Sumerian abacus look like?"
 msgstr ""
 
-#: ../source/abacus.rst:325
+#: ../source/abacus.rst:322
 # da70b06f49254477a46b63389d29a181
 msgid "Extending Abacus"
 msgstr ""
 
-#: ../source/abacus.rst:326
+#: ../source/abacus.rst:323
 # 241b99e3a62c444b899c9a7b78037b28
 msgid "A fun project is to compare calculations using Abacus with the Calculate Activity. Which is faster? Which is more accurate? Which is better for estimating? Which is better for comparing?"
 msgstr ""
 
-#: ../source/abacus.rst:327
+#: ../source/abacus.rst:324
 # f3a5f7a25e9d418b9c4e8bf532312a4e
 msgid "Abacus supports paste, so you can take numeric values from other programs and paste them into the abacus to see what their representations are; for example, I often paste numbers into the hexadecimal abacus as a quick way of converting decimal to hexidecimal."
 msgstr ""
 
-#: ../source/abacus.rst:328
+#: ../source/abacus.rst:325
 # 71330557fec147769e1888cb8b857c52
 msgid "Abacus also supports copy, so you can take a sum calculated on an abacus and export it into SimpleGraph or some other data-visualization Activities."
 msgstr ""
 
-#: ../source/abacus.rst:329
+#: ../source/abacus.rst:326
 # 896322f4b0c048138b445babb4f7372b
 msgid "A fun collaborative mode might be to have a number randomly selected and each sharer work independently to post it on the abacus of their choice first. There could be a tally of beads awarded for each correct answer."
 msgstr ""
 
-#: ../source/abacus.rst:332
+#: ../source/abacus.rst:329
 # 2760ead7fbfe429182cf0f639fa26e95
 msgid "Reporting Problems"
 msgstr ""
 
-#: ../source/abacus.rst:333
+#: ../source/abacus.rst:330
 # 3b518c03cd9e4c7bbd8f1f31122d7d0c
 msgid "If you discover a bug in the program or have a suggestion for an enhancement, please `file a ticket <https://bugs.sugarlabs.org/newticket?component=Abacus>`_ in our bug-tracking system."
 msgstr ""
 
-#: ../source/abacus.rst:335
+#: ../source/abacus.rst:332
 # 7219cb9157264cca823dd6882462a349
 msgid "You can `view the open tickets here. <https://bugs.sugarlabs.org/query?status=accepted&status=assigned&status=new&status=reopened&component=Abacus>`_"
 msgstr ""
 
-#: ../source/abacus.rst:339
+#: ../source/abacus.rst:336
 # 33229a082dcf4be8b30b1344fa9b18d4
 msgid "References"
 msgstr ""
 
-#: ../source/abacus.rst:340
+#: ../source/abacus.rst:337
 # 3dd7fb11c3c44a6bb4a6b311d69dbeb4
 msgid "`Wiki page <http://wiki.sugarlabs.org/go/Activities/Abacus>`_"
 msgstr ""
