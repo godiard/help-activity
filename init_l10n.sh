@@ -37,5 +37,9 @@ for file in po/*.pot
 do
     # remove the prefix numbers and build the mo files
     po_file=$(basename $(echo "$file" | sed 's/\.pot/\.po/'))
-    msginit -i "$file" -l $LANGUAGE -o $TRANSLATED_PO_PATH/$po_file --no-translator
+    if [ -f $TRANSLATED_PO_PATH/$po_file ]; then
+        msgmerge -U $TRANSLATED_PO_PATH/$po_file "$file"
+    else
+        msginit -i "$file" -l $LANGUAGE -o $TRANSLATED_PO_PATH/$po_file --no-translator
+    fi
 done
