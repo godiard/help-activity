@@ -209,70 +209,67 @@ The toolbars
 
 From left to right:
 
-project-toolbar button
-see below
-edit-toolbar button
-see below
-abacus-toolbar button
-see below
-customization-toolbar button
-clear button
-clear the abacus
-stop button
-exit the activity
+* project-toolbar button: see below
+
+* edit-toolbar button: see below
+
+* abacus-toolbar button: see below
+
+* customization-toolbar button
+
+* clear button: clear the abacus
+
+* stop button: exit the activity
 
 .. image :: ../images/Abacus-ex16.png
 
 From left to right:
 
-copy
-copy current value to clipboard
-paste
-paste a value from the clipboard into the abacus
+* copy: copy current value to clipboard
+
+* paste: paste a value from the clipboard into the abacus
 
 .. image :: ../images/Abacus-ex17.png
 
 From left to right:
 
-decimal button
-decimal abacus
-soroban button
-Japanese abacus
-saupan button
-Chinese abacus
-nepohualtzintzin button
-Mayan abacus
-hexadecimal button
-hexadecimal abacus
-binary button
-binary abacus
-schety button
-Russian abacus
-fraction button
-fraction abacus
-Caacupe button
-fraction abacus with +/–
-rod button
-Cuisenaire-like abacus
-custom button
-your custom abacus
+* Decimal button: decimal abacus
+
+* Soroban button: Japanese abacus
+
+* Saupan button: Chinese abacus
+
+* Nepohualtzintzin button: Mayan abacus
+
+* Hexadecimal button: hexadecimal abacus
+
+* Binary button: binary abacus
+
+* Schety button: Russian abacus
+
+* Fraction button: fraction abacus
+
+* Caacupe button: fraction abacus with +/–
+
+* rod button: Cuisenaire-like abacus
+
+* custom button: your custom abacus
 
 .. image :: ../images/Abacus-ex18.png
 
 From left to right:
 
-rods
-select the number of rods:
-top beads
-select the number of beads on the top of the frame
-bottom
-select the number of beads on the bottom of the frame
-factor
-select the multiplication factor of top beads (e.g., on the Chinese abacus, each top bead counts as 5× the value of a bottom bead on the same rod)
-base
-select the base to determine the value of bottom beads across rods; this is 10 on most conventional abacuses, but 20 on the Mayan abacus, 16 on the hexadecimal abacus, and 2 on the binary abacus.
-create
-you must push this button to activate the selections you've made
+* rods: select the number of rods:
+
+* top beads: select the number of beads on the top of the frame
+
+* bottom: select the number of beads on the bottom of the frame
+
+* factor: select the multiplication factor of top beads (e.g., on the Chinese abacus, each top bead counts as 5× the value of a bottom bead on the same rod)
+
+* base: select the base to determine the value of bottom beads across rods; this is 10 on most conventional abacuses, but 20 on the Mayan abacus, 16 on the hexadecimal abacus, and 2 on the binary abacus.
+
+* create: you must push this button to activate the selections you've made
 
 
 Gallery of abaci
@@ -280,7 +277,7 @@ Gallery of abaci
 
 .. image :: ../images/Abacus-ex19.png
 
-from left to right,
+From left to right,
 
 * suanpan (Chinese)
 
@@ -292,7 +289,7 @@ from left to right,
 
 .. image :: ../images/Abacus-ex20.png
 
-from left to right,
+From left to right,
 
 * binary (base 2)
 
@@ -302,7 +299,7 @@ from left to right,
 
 .. image :: ../images/Abacus-ex21.png
 
-from left to right,
+From left to right,
 
 * Caacupe (fractions with +/–)
 
