@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 94a737e545ca4081ae6ceb42b1e0453e
@@ -35,10 +35,10 @@ msgid ""
 "come with some amount of charge. Use the following instructions to install "
 "your battery and charge your laptop."
 msgstr ""
-"La XO necesita su batería o estar conectado a una pared directamente. El "
-"portátil se ejecutará desde cualquier fuente de alimentación. Al llegar a su"
-" batería debe venir con una cierta cantidad de carga. Utilice las siguientes"
-" instrucciones para instalar la batería y carga tu portátil."
+"La XO necesita su batería cargada o estar conectado a una pared directamente. "
+" El portátil se ejecutará desde cualquier fuente de alimentación. Al recibirla "
+"su batería debe venir con una cierta cantidad de carga. Utilice las "
+"siguientes instrucciones para instalar la batería y cargar su portátil."
 
 # 4594b6f7df914309b3915166af506405
 #: ../source/battery.rst:12
@@ -57,12 +57,12 @@ msgid ""
 "the catches."
 msgstr ""
 "Alinear las cuatro pestañas de la nueva pila con el borde más largo de las "
-"capturas."
+"ranuras."
 
 # 1e5ff5ed202b4ec59b2a5a8643e7f567
 #: ../source/battery.rst:18
 msgid "Drop the battery into place."
-msgstr "La caída de la batería en su lugar."
+msgstr "Deje caer la batería en su lugar."
 
 # 35dbcb6e2e7847a5b5efbfeded1f21fb
 #: ../source/battery.rst:22
@@ -90,7 +90,7 @@ msgstr "Carga de la batería"
 #: ../source/battery.rst:30
 msgid "Ensure that the battery is in the back of the XO's case."
 msgstr ""
-"Asegúrese de que la batería está en la parte posterior del caso de la XO."
+"Asegúrese de que la batería está en la parte posterior del cuerpo de la XO."
 
 # e4edb7fc298849d68d118e11f07920c9
 #: ../source/battery.rst:31
@@ -103,9 +103,9 @@ msgid ""
 "Plug the other end of the power cord into the nearest power source, such as "
 "the one connected to the school's generator or a 12 Volt car battery."
 msgstr ""
-"Enchufe el otro extremo del cable de alimentación a la fuente de energía más"
-" cercana, como el que está conectado al generador de la escuela o una "
-"batería de coche de 12 voltios."
+"Enchufe el otro extremo del cable de alimentación a la fuente de energía más "
+"cercana, como el que está conectado al generador de la escuela o una batería "
+"de coche de 12 voltios."
 
 # f55ead3791a1469599d00576b1d01175
 #: ../source/battery.rst:35
@@ -116,14 +116,14 @@ msgstr "La conexión de su XO"
 #: ../source/battery.rst:37
 msgid ""
 "You can use your XO while it is plugged in, when you are charging the "
-"battery or when you have a good source for power. For power sources, you can"
-" use the generator supplied by your school, the electrical grid, or another "
+"battery or when you have a good source for power. For power sources, you can "
+"use the generator supplied by your school, the electrical grid, or another "
 "source of electricity."
 msgstr ""
 "Usted puede utilizar su XO mientras está enchufado, cuando se carga la "
-"batería o cuando se tiene una buena fuente de alimentación. Para las fuentes"
-" de energía, puede utilizar el generador suministrado por su escuela, la red"
-" eléctrica, o de otra fuente de energía eléctrica."
+"batería o cuando se tiene una buena fuente de alimentación. Para las fuentes "
+"de energía, puede utilizar el generador suministrado por su escuela, la red "
+"eléctrica, u otra fuente de energía eléctrica."
 
 # 42ba7c2a2c4d4b97b05421bec5de9cb3
 #: ../source/battery.rst:40
@@ -134,24 +134,24 @@ msgstr "Cuándo cargar la batería"
 #: ../source/battery.rst:42
 msgid ""
 "The battery icon in the Frame fills with color, showing you the current "
-"charge, or amount of power in the battery. Move the pointer over the battery"
-" icon to see how full the battery is. While the battery charges, the battery"
-" light near the power button (shaped like a battery) should display yellow, "
+"charge, or amount of power in the battery. Move the pointer over the battery "
+"icon to see how full the battery is. While the battery charges, the battery "
+"light near the power button (shaped like a battery) should display yellow, "
 "turning to green when the battery is fully charged. A red light tells you "
 "that the battery is running very low and you should charge it soon."
 msgstr ""
-"El icono de la batería en el marco llena de color, que muestra la carga "
+"El icono de la batería en el marco muestra con color, la carga "
 "actual, o la cantidad de energía en la batería. Mueva el puntero sobre el "
-"icono de la batería para ver cómo se encuentra la batería. Mientras se carga"
-" la batería, la luz de la batería cerca del botón de encendido (con forma de"
-" batería) debe mostrar amarilla, dando vuelta a verde cuando la batería está"
-" completamente cargada. Una luz roja indica que la batería está muy baja y "
+"icono de la batería para ver cómo se encuentra la batería. Mientras se carga "
+"la batería, la luz de la batería cerca del botón de encendido (con forma de "
+"batería) se muestra amarilla, tornandose verde cuando la batería está "
+"completamente cargada. Una luz roja indica que la batería está muy baja y "
 "que debe cargar pronto."
 
 # b24e33d60ebf4c90b0e79c2301326764
 #: ../source/battery.rst:45
 msgid "Troubleshooting"
-msgstr "Solución De Problemas"
+msgstr "Solución de Problemas"
 
 # 254618063f104c2ca977a57f6ece8535
 #: ../source/battery.rst:47
@@ -159,20 +159,20 @@ msgid ""
 "If your battery charge gets extremely low during shipping, your XO may not "
 "start up. Plugging in external power may not charge the battery."
 msgstr ""
-"Si su carga de la batería se pone extremadamente baja durante el envío, el "
-"XO no arranque. La conexión de alimentación externa no puede cargar la "
+"Si la carga de la batería se pone extremadamente baja durante el transporte, "
+"el XO no arrancará. La conexión de alimentación externa no puede cargar la "
 "batería."
 
 # e3d0316c36d446e9865af5d49ae2cf49
 #: ../source/battery.rst:49
 msgid ""
-"The solution is to remove the battery, power up the laptop on external power"
-" and then insert the battery. Then it will charge and the charging light "
-"will be on."
+"The solution is to remove the battery, power up the laptop on external power "
+"and then insert the battery. Then it will charge and the charging light will "
+"be on."
 msgstr ""
-"La solución es quitar la batería, encienda el ordenador portátil con "
-"alimentación externa y luego insertar la batería. A continuación, se cobra y"
-" la luz de carga estará en."
+"La solución es quitar la batería, enciende el ordenador portátil con "
+"alimentación externa y luego insertar la batería. Entonces, se cargará y "
+"la luz de carga se encenderá."
 
 # 2a23349a0580414991b9c56d0eb5f347
 #: ../source/battery.rst:51
@@ -180,9 +180,8 @@ msgid ""
 "If you're the tinkering type, several more advanced battery troubleshooting "
 "tips are at: http://wiki.laptop.org/go/XO_Troubleshooting_Battery."
 msgstr ""
-"Si usted es el tipo de retoques, varios consejos más avanzados de solución "
-"de problemas de la batería se encuentran en: http: // wiki. portátil. org / "
-"go / XO_Troubleshooting_Battery."
+"Si usted es del tipo que investiga, varios consejos más avanzados de solución "
+"de problemas de la batería se encuentran en: http://wiki.laptop.org/go/XO_Troubleshooting_Battery."
 
 # 61928a8b29b84e96a38fc0ac60adc8a5
 #: ../source/battery.rst:54
@@ -192,10 +191,10 @@ msgstr "Localización de una batería de reemplazo"
 # 7812788560194c9185567791e0c01092
 #: ../source/battery.rst:56
 msgid ""
-"Refer to http://wiki.laptop.org/go/Directory_of_repair_centers to get to the"
-" most recent directory of repair centers, and ask for a replacement battery "
+"Refer to http://wiki.laptop.org/go/Directory_of_repair_centers to get to the "
+"most recent directory of repair centers, and ask for a replacement battery "
 "for your XO."
 msgstr ""
-"Consulte http: // wiki. portátil. org / go / Directory_of_repair_centers "
-"llegar al directorio más reciente de centros de reparación, y solicite una "
-"batería de repuesto para su XO."
+"Consulte http://wiki.laptop.org/go/Directory_of_repair_centers "
+"para llegar al directorio más reciente de centros de reparación, y solicite "
+"una batería de repuesto para su XO."
