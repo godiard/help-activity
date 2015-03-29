@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # e1123179d2c149cf9d956c141a57545e
@@ -31,16 +31,16 @@ msgstr "Acerca de One Laptop per Child"
 #: ../source/about_olpc.rst:8
 msgid ""
 "One Laptop per Child (OLPC) is a project started by Nicholas Negroponte at "
-"the Massachusetts Institute of Technology (MIT) with a core of MIT Media Lab"
-" personnel. The organization has grown to include passionate people creating"
-" software and hardware and sustainable community involvement to fulfill the "
+"the Massachusetts Institute of Technology (MIT) with a core of MIT Media Lab "
+"personnel. The organization has grown to include passionate people creating "
+"software and hardware and sustainable community involvement to fulfill the "
 "educational mission of OLPC."
 msgstr ""
 "One Laptop per Child (OLPC) es un proyecto iniciado por Nicholas Negroponte "
 "en el Instituto de Tecnología de Massachusetts (MIT), con un núcleo de "
-"personal del MIT Media Lab. La organización ha crecido hasta incluir a gente"
-" apasionada que crean software y hardware y la participación comunitaria "
-"sostenible para cumplir con la misión educativa de la OLPC."
+"personal del MIT Media Lab. La organización ha crecido al incluir a gente "
+"apasionada, que crean software y hardware, y con la participación comunitaria "
+"sostenible para cumplir con la misión educativa de OLPC."
 
 # ebf60d74c4e54496aeed9bb15435eb36
 #: ../source/about_olpc.rst:10
@@ -50,17 +50,17 @@ msgid ""
 "a rugged, low-cost, low-power, connected laptop with content and software "
 "designed for collaborative, joyful, and self-empowered learning."
 msgstr ""
-"La misión de OLPC es simple pero convincente: Para crear oportunidades "
+"La misión de OLPC es simple pero convincente: Crear oportunidades "
 "educativas para los niños más pobres del mundo, proporcionando a cada niño "
-"con un bajo costo robusto, de baja potencia, portátil conectado con el "
-"contenido y software diseñado para la colaboración, alegre, y auto "
-"facultado- aprendizaje."
+"un portatil con un bajo costo, robusto, de baja potencia, conectado, con "
+"contenido y software diseñado para la colaboración, alegre, y promoviendo "
+"el aprendizaje autonomo."
 
 # b0e2ed479fb1400199a2eb4e4c313680
 #: ../source/about_olpc.rst:12
 msgid ""
-"You can learn more about OLPC at http://laptop.org and "
-"http://wiki.laptop.org -- everyone is welcome to participate."
+"You can learn more about OLPC at http://laptop.org and http://wiki.laptop."
+"org -- everyone is welcome to participate."
 msgstr ""
-"Usted puede aprender más sobre OLPC en http: // portátil. org y http: // "
-"wiki. portátil. org - todo el mundo es bienvenido a participar."
+"Usted puede aprender más sobre OLPC en http://laptop.org y "
+"http://wiki.laptop.org - todo el mundo es bienvenido a participar."
