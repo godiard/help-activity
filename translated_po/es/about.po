@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 9d1576f82cc049729dee92d4fd3de368
@@ -35,10 +35,10 @@ msgid ""
 "development efforts. The OLPC project has been delivering XOs around the "
 "world, translated into multiple languages."
 msgstr ""
-"La laptop XO es una herramienta educativa diseñada para ser puesto en las "
+"La laptop XO es una herramienta educativa diseñada para ser puesta en las "
 "manos de cada niño. Mediante el uso de software libre y de código abierto y "
 "los esfuerzos de desarrollo de software en todo el mundo. El proyecto OLPC "
-"ha sido la entrega de las XO en todo el mundo, traducido a varios idiomas."
+"ha entregado las XO en todo el mundo, traducido a varios idiomas."
 
 # 0f3523a2d0d6496a8519bc33e0096eb5
 #: ../source/about.rst:12
@@ -53,11 +53,11 @@ msgid ""
 "contributing to OLPC believe that these freedoms are critical to fulfilling "
 "OLPC's educational goals."
 msgstr ""
-"La XO ejecuta el software libre y de código abierto, Sugar, que permite a "
-"cualquier persona para ejecutar, copiar, distribuir, estudiar, cambiar y "
-"mejorar el software. Muchas personas que contribuyen a la OLPC creen que "
+"La XO ejecuta software libre y de código abierto, Sugar, que permite a "
+"cualquier persona ejecutar, copiar, distribuir, estudiar, cambiar y "
+"mejorar el software. Muchas personas que contribuyen a OLPC creen que "
 "estas libertades son fundamentales para el cumplimiento de las metas "
-"educativas del OLPC."
+"educativas de OLPC."
 
 # 6fcba913d01a4b88b3b52b8736795d75
 #: ../source/about.rst:16
@@ -67,10 +67,10 @@ msgid ""
 "reader mode. The XO is designed to take outdoors and it even survives the "
 "rough-and-tumble daily lives that children lead."
 msgstr ""
-"Al abrir la XO, verá la alta resolución, fácil de leer pantalla que funciona"
-" incluso con luz solar directa. También puede voltear la XO en un modo de "
-"lector de libros. La XO está diseñada para tomar al aire libre e incluso "
-"sobrevive la vida cotidiana ásperas y caer que los niños llevan."
+"Al abrir la XO, verá la pantalla de alta resolución, fácil de leer que funciona "
+"incluso con luz solar directa. También puede voltear la XO en un modo "
+"lector de libros. La XO está diseñada para ser usada al aire libre e incluso "
+"sobrevive el duro uso que pueden darle los niños."
 
 # 72b5abf881104856b76d20da888359bd
 #: ../source/about.rst:18
@@ -78,8 +78,8 @@ msgid ""
 "We hope you learn more about the XO laptop by reading these pages, so that "
 "you can learn more with the XO laptop."
 msgstr ""
-"Esperamos aprender más sobre la computadora portátil XO mediante la lectura "
-"de estas páginas, de modo que usted puede aprender más con la computadora "
+"Esperamos que puedas aprender más sobre la computadora portátil XO mediante la lectura "
+"de estas páginas, de modo que usted puedes aprender más con la computadora "
 "portátil XO."
 
 # 38167a60e346467aa2d23036f0c01e16
