@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,16 +11,16 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 0c8666bca3f14a948adce793eee29aba
 #: ../source/browse.rst:3
 msgid "Browse"
-msgstr "Explorar"
+msgstr "Navegar"
 
 # b93461494332414f99d67d11e38cd691
 #: ../source/browse.rst:6
@@ -37,12 +37,12 @@ msgid ""
 "internet connection. Please see the chapter on \"Neighborhood View and "
 "Connecting to the Internet\"."
 msgstr ""
-"La actividad Navegar es su medio para explorar una fuente amplia de "
-"información y el contenido que se puede encontrar en lo que se llama el "
-"(Internet o Web para abreviar) World Wide Web. Aunque hay algo de "
+"La actividad Navegar es tu medio para explorar una fuente amplia de "
+"información y el contenido que se puede encontrar en lo que se llama "
+"World Wide Web (Internet o Web para abreviar). Aunque hay algo de "
 "información integrada incluida en esta actividad (OLPC Library), para sacar "
-"el máximo provecho de esta actividad necesita una conexión a Internet. Por "
-"favor, vea el capítulo sobre \"Barrio Vista y conexión a Internet\"."
+"el máximo provecho de esta actividad necesitas una conexión a Internet. Por "
+"favor, ve el capítulo sobre \"Vista de Vecindario y conexión a Internet\"."
 
 # 8693fa0321894d6d915154b8cba53b20
 #: ../source/browse.rst:12
@@ -50,18 +50,18 @@ msgid ""
 "The first thing that you will see when you first click on the Browse icon "
 "from the Home View is what's called the Home page."
 msgstr ""
-"Lo primero que verá la primera vez que hace clic en el icono Examinar en la "
+"Lo primero que veras la primera vez que haces clic en el icono Navegar en la "
 "vista principal es lo que se llama la página de inicio."
 
 # 41c74e3a8bd04acf95c53915c2c9361c
 #: ../source/browse.rst:17
 msgid "Using Browse"
-msgstr "Utilización de Explorar"
+msgstr "Utilización de Navegar"
 
 # 28ad5c9c987e4b979608ee11173e89f3
 #: ../source/browse.rst:19
 msgid "**Toolbar**"
-msgstr "** ** Toolbar"
+msgstr "**Barra de herramientas**"
 
 # 3e6805e8bd9a49ff8dd09385f08c7197
 #: ../source/browse.rst:23
@@ -71,12 +71,12 @@ msgstr "Herramienta de Actividad"
 # fb311b34713c407ebbe6af05a86a21de
 #: ../source/browse.rst:24
 msgid "Text/Edit Tool"
-msgstr "Texto / Herramienta de Edición"
+msgstr "Texto/Herramienta de Edición"
 
 # 22711637a09e4550aaa364ed4c59447f
 #: ../source/browse.rst:25
 msgid "View Tool"
-msgstr "Ver Herramienta"
+msgstr "Herramientas de Visualización"
 
 # 234c6a5e0fc24021b5aa6a87a67715ad
 #: ../source/browse.rst:26
@@ -96,7 +96,7 @@ msgstr "Actualizar / Recargar"
 # 608c38fc11d548658b23c3d82b40f424
 #: ../source/browse.rst:29
 msgid "Navigation Arrows (Back & Forward)"
-msgstr "Flechas de navegación (Back & Forward)"
+msgstr "Flechas de navegación (Atras y adelante)"
 
 # 01c42aab731b47c4a2160f54a08f0547
 #: ../source/browse.rst:30
@@ -106,7 +106,7 @@ msgstr "Marcador"
 # c35a668fda064f4c97bbee0b46cdfbc2
 #: ../source/browse.rst:31
 msgid "Stop"
-msgstr "Deténgase"
+msgstr "Salir"
 
 # 410986a76533487483a65e6fbdc4f84b
 #: ../source/browse.rst:32
@@ -119,13 +119,13 @@ msgid ""
 "(Note: To see the name of the tool/button, you can put your mouse arrow on "
 "top of its picture)"
 msgstr ""
-"(Nota: Para ver el nombre de la / botón de la herramienta, usted puede poner"
-" su flecha del ratón en la parte superior de su imagen)"
+"(Nota: Para ver el nombre del botón de la herramienta, puedes poner "
+"su flecha del ratón en la parte superior de su imagen)"
 
 # 3c941070d13849cca28f9f38930781af
 #: ../source/browse.rst:36
 msgid "**Activity**"
-msgstr "** Actividad **"
+msgstr "**Actividad**"
 
 # f7c7c1bed2094984a065733dee896117
 #: ../source/browse.rst:40
@@ -134,8 +134,8 @@ msgid ""
 "entry. Change this to something distinctive especially when you have "
 "multiple window tabs opened that's related to one particular topic."
 msgstr ""
-"** Navegar Diario Nombre Entrada ** - Este será el nombre de la entrada "
-"Diario. Cambie esto a algo distintivo sobre todo cuando se ha abierto "
+"** Nombre de Entrada en el Diario ** - Este será el nombre de la entrada "
+"en el Diario. Cambia esto a algo distintivo sobre todo cuando se ha abierto "
 "múltiples pestañas de las ventanas que está relacionado con un tema en "
 "particular."
 
@@ -145,8 +145,7 @@ msgid ""
 "**Browse Description Bar** - This will serve as the **Browse** activity "
 "description in the Journal."
 msgstr ""
-"** Navegar Descripción Bar ** - Esto servirá como el ** ** Explorar "
-"descripción de la actividad en el Diario."
+"**Descripción** - Esto servirá como la descripción de la actividad en el Diario."
 
 # 5dc9b6ce4dae4b80a362958b2d18fd77
 #: ../source/browse.rst:44
@@ -154,24 +153,24 @@ msgid ""
 "**Privacy Tool** - Use this to change the privacy setting of the current "
 "Browse activity. The default is set to Private."
 msgstr ""
-"** Herramienta de privacidad ** - Utilice esta opción para cambiar la "
+"** Herramienta de privacidad ** - Utiliza esta opción para cambiar la "
 "configuración de privacidad de la actual actividad Navegar. El valor "
-"predeterminado se establece en privado."
+"predeterminado es privado."
 
 # 1f406f17cd28436ab469d0db17c83232
 #: ../source/browse.rst:47
 msgid "**Text Finder and Edit Tool**"
-msgstr "** Texto Finder y Editar Herramienta **"
+msgstr "** Buscar Texto y Herramientas de edición **"
 
 # 573405c8e6564474b5ac3c926176e5dc
 #: ../source/browse.rst:51
 msgid ""
-"**Undo** - The Browse activity remembers the last change that you've made on"
-" the page. Use this button to step back to the last change that you made."
+"**Undo** - The Browse activity remembers the last change that you've made on "
+"the page. Use this button to step back to the last change that you made."
 msgstr ""
-"** Deshacer ** - La actividad Navegar recuerda el último cambio que usted ha"
-" hecho en la página. Utilice este botón para retroceder al último cambio que"
-" realizó."
+"**Deshacer** - La actividad Navegar recuerda el último cambio que usted ha "
+"hecho en la página. Utiliza este botón para retroceder al último cambio que "
+"realizó."
 
 # b268c724c52b4d6b89003f9427ce4532
 #: ../source/browse.rst:53
@@ -179,7 +178,7 @@ msgid ""
 "**Redo** - Use this button to go back to the current changes that you made "
 "after doing an \"Undo\"."
 msgstr ""
-"** ** Redo - Utilice este botón para volver a los cambios actuales que "
+"**Rehacer** - Utiliza este botón para volver a los cambios actuales que "
 "realizó después de hacer un \"Deshacer\"."
 
 # 0a4a136c1c7a40e4b9d226dc81cfe155
@@ -187,22 +186,22 @@ msgstr ""
 msgid ""
 "**Copy** - This is used to copy a text or passage from the current page you "
 "are viewing. To do this, you need to first highlight (left-click while "
-"dragging your mouse arrow) the text. You know you've highlighted a text when"
-" its background color turned grey. Then, press this tool to copy it to the "
+"dragging your mouse arrow) the text. You know you've highlighted a text when "
+"its background color turned grey. Then, press this tool to copy it to the "
 "clipboard. A small image on the left hand side of the frame will appear. "
 "This \"holds\" the text you just copied. You can now \"paste\" this text or "
 "just simply click and drag it to other activities. The copied text will "
 "disappear once the XO is restarted or shutdown."
 msgstr ""
-"** Copia ** - Se utiliza para copiar un texto o pasaje de la página que está"
-" viendo. Para ello, es necesario en primer lugar destacado (clic con el "
-"botón izquierdo mientras arrastra el puntero del ratón) el texto. Usted sabe"
-" que haya resaltado un texto cuando su color de fondo se volvió gris. A "
+"**Copiar** - Se utiliza para copiar un texto o pasaje de la página que está "
+"viendo. Para ello, es necesario en primer lugar destacador (clic con el botón "
+"izquierdo mientras arrastra el puntero del ratón) el texto. Tu sabes que "
+"ha resaltado un texto cuando su color de fondo se volvió gris. A "
 "continuación, pulse esta herramienta para copiarlo en el portapapeles. "
-"Aparecerá una pequeña imagen en el lado izquierdo del marco. Este "
-"\"sostiene\" el texto que acaba de copiar. Ahora puede \"pegar\" este texto "
-"o simplemente hacer clic y arrastrar a otras actividades. El texto copiado "
-"desaparecerá una vez que el XO se reinicia o apagado."
+"Aparecerá una pequeña imagen en el lado izquierdo del marco. Este \"contiene"
+"\" el texto que acaba de copiar. Ahora puede \"pegar\" este texto o "
+"simplemente hacer clic y arrastrar a otras actividades. El texto copiado "
+"desaparecerá una vez que el XO se reinicia o es apagado."
 
 # f756462b60a241fba9b6fff474ed3033
 #: ../source/browse.rst:57
@@ -215,21 +214,21 @@ msgstr ""
 "** Pega ** - Esta herramienta es para pegar textos de otras actividades en "
 "la página actual que está viendo. Sólo se puede pegar textos en áreas de la "
 "página donde se permite pegar. Se recordará este texto hasta que el XO se "
-"reinicia o apagado."
+"reinicia o es apagado."
 
 # ea8fe38fa73f48e889bcba6e141f5214
 #: ../source/browse.rst:59
 msgid ""
-"**Text Search Bar** -This tool is great to use when you need to quickly find"
-" a text on a current page you're viewing. Press the enter key to go down the"
-" page. The text that you are looking for would be highlighted in green. "
-"Press the little \"x\" symbol on the right of the bar to erase the text."
+"**Text Search Bar** -This tool is great to use when you need to quickly find "
+"a text on a current page you're viewing. Press the enter key to go down the "
+"page. The text that you are looking for would be highlighted in green. Press "
+"the little \"x\" symbol on the right of the bar to erase the text."
 msgstr ""
-"** Texto barra de búsqueda ** -Esta herramienta es de gran uso cuando se "
+"**Búsqueda de texto** -Esta herramienta es de gran utilidad cuando se "
 "necesita para encontrar rápidamente un texto en una página que estás "
-"visualizando. Pulse la tecla Intro para pasar a la página. El texto que está"
-" buscando se resalta en verde. Pulse el símbolo pequeño \"x\" a la derecha "
-"de la barra de borrar el texto."
+"visualizando. Pulsa la tecla Intro para pasar a la página. El texto que está "
+"buscando se resalta en verde. Pulsa el símbolo pequeño \"x\" a la derecha de "
+"la barra de borrar el texto."
 
 # 04d57dc271d14b8ab93b21de6907f7fc
 #: ../source/browse.rst:61
@@ -238,15 +237,15 @@ msgid ""
 "search down the page, these arrows are useful to search the page. Use the "
 "left arrow to go back up the page and the right arrow to go down the page."
 msgstr ""
-"** De búsqueda de texto flechas de navegación ** - Si bien puede pulsar la "
+"**Flechas de navegación de búsqueda de texto** - Si bien puedes pulsar la "
 "tecla Intro para buscar abajo de la página, estas flechas son útiles para "
-"buscar la página. Use la flecha izquierda para volver a subir la página y la"
-" flecha derecha para pasar a la página."
+"buscar la página. Usa la flecha izquierda para volver a subir la página y la "
+"flecha derecha para avanzar en la página."
 
 # b58807b0cf9049c8b18e4dd1c1e5719f
 #: ../source/browse.rst:63
 msgid "**View Tool**"
-msgstr "** Ver Herramienta **"
+msgstr "**Herramienta visualizar**"
 
 # fcbb16ac62de4d6c9599bc42d89b9be3
 #: ../source/browse.rst:67
@@ -254,7 +253,7 @@ msgid ""
 "**Zoom Out** - When you want to see more of the page, use this tool to make "
 "it smaller."
 msgstr ""
-"** Zoom Out ** - Cuando quieres ver más de la página, utilice esta "
+"**Alejar** - Cuando quieres ver más de la página, utilice esta "
 "herramienta para hacerlo más pequeño."
 
 # 88d0c5bfea534da2ac5d4d452723b610
@@ -263,8 +262,8 @@ msgid ""
 "**Zoom In** - When you want to see things better, use this tool to make the "
 "page bigger."
 msgstr ""
-"** Acercar ** - Cuando quiera ver las cosas mejor, utilizar esta herramienta"
-" para hacer la página más grande."
+"**Acercar** - Cuando quieras ver las cosas mejor, utiliza esta herramienta "
+"para hacer la página más grande."
 
 # fcae11f237284b1fa89e4af0de557e65
 #: ../source/browse.rst:71
@@ -272,7 +271,7 @@ msgid ""
 "**Full Screen** - You can press this to see the entire page without the "
 "toolbar."
 msgstr ""
-"** Pantalla completa ** - Usted puede presionar esto para ver la página "
+"**Pantalla completa** - Puedes presionar esto para ver la página "
 "completa sin la barra de herramientas."
 
 # c4272e16b131416b8f880fc6e476830c
@@ -280,14 +279,14 @@ msgstr ""
 msgid ""
 "**Tray Toggle button** - This tool only works when you have things on the "
 "tray (the space on the bottom of the Browse page) like pages that you have "
-"bookmarked (Please see bookmark description). Use this tool to make the tray"
-" visible or invisible. Browse remembers your bookmarked pages even when the "
+"bookmarked (Please see bookmark description). Use this tool to make the tray "
+"visible or invisible. Browse remembers your bookmarked pages even when the "
 "tray is not visible. Just simply make it visible again to see those "
 "bookmarks."
 msgstr ""
-"** Botón Bandeja Toggle ** - Esta herramienta sólo funciona cuando tienes "
-"cosas en la bandeja (el espacio en la parte inferior de la página Examinar) "
-"como las páginas que has marcado (Por favor vea la descripción marcador). "
+"**Botón mostrar/ocultar bandeja** - Esta herramienta sólo funciona cuando tienes "
+"cosas en la bandeja (el espacio en la parte inferior de la página Navegar) "
+"como las páginas que has marcado como favoritos (Por favor vea la descripción marcador). "
 "Utilice esta herramienta para hacer la bandeja visible o invisible. Navegar "
 "recuerda a tus páginas favoritas incluso cuando la bandeja no es visible. "
 "Simplemente hacerla visible de nuevo para ver los marcadores."
@@ -295,7 +294,7 @@ msgstr ""
 # ea46e0c498104031a502e0c94185fbf6
 #: ../source/browse.rst:75
 msgid "**Home Icon**"
-msgstr "** Inicio Icono **"
+msgstr "**Icono Inicio**"
 
 # b70084d78ea4496b8f346454fd53eb26
 #: ../source/browse.rst:77
@@ -309,36 +308,36 @@ msgstr ""
 # eb073216f887478982ff003bfdcab126
 #: ../source/browse.rst:79
 msgid "**Address Bar**"
-msgstr "** Barra de direcciones **"
+msgstr "**Barra de direcciones**"
 
 # bedd82abc895482eb8170ff494d9f423
 #: ../source/browse.rst:81
 msgid ""
-"Each page on the internet has its own address. The address bar shows you the"
-" current web address of the page you are viewing. If you know the web "
-"address of a page, you can type it on this bar and press the enter key to "
-"navigate to that page."
+"Each page on the internet has its own address. The address bar shows you the "
+"current web address of the page you are viewing. If you know the web address "
+"of a page, you can type it on this bar and press the enter key to navigate "
+"to that page."
 msgstr ""
 "Cada página en Internet tiene su propia dirección. La barra de direcciones "
-"muestra la dirección Web de la página que está viendo. Si conoce la "
-"dirección de una página, puede escribirlo en este bar y pulse la tecla Intro"
-" para ir a esa página."
+"muestra la dirección Web de la página que está viendo. Si conoces la "
+"dirección de una página, puedes escribirlo en esta barra y pulsar la tecla Intro "
+"para ir a esa página."
 
 # 43f1d8d339d14fcda45395b32426a975
 #: ../source/browse.rst:83
 msgid "**Bookmark**"
-msgstr "** ** Bookmark"
+msgstr "**Favoritos**"
 
 # 8ad8593881df4afb9c2111d99c57cd2d
 #: ../source/browse.rst:85
 msgid ""
-"Sometimes it is useful to remember the pages that you visited. Clicking this"
-" icon will save the web address of the current page you are viewing. A small"
-" thumbnail image of this page will appear on the bottom(tray). Bookmarks are"
-" saved only on the current Browse activity. They will not show up when you "
+"Sometimes it is useful to remember the pages that you visited. Clicking this "
+"icon will save the web address of the current page you are viewing. A small "
+"thumbnail image of this page will appear on the bottom(tray). Bookmarks are "
+"saved only on the current Browse activity. They will not show up when you "
 "open a new Browse activity."
 msgstr ""
-"A veces es útil recordar las páginas que ha visitado. Al hacer clic en este "
+"A veces es útil recordar las páginas que has visitado. Al hacer clic en este "
 "icono guardar la dirección web de la página que está viendo. Una imagen en "
 "miniatura de esta página aparecerá en la parte inferior (bandeja). Los "
 "marcadores se guardan sólo en la actual actividad Navegar. Ellos no se "
@@ -348,12 +347,12 @@ msgstr ""
 #: ../source/browse.rst:87
 msgid "**Stop Activity Tool** Closes the current Browse activity."
 msgstr ""
-"** Herramienta Detener Actividad ** Cierra la actual actividad Navegar."
+"**Herramienta Salir** Cierra la actividad Navegar."
 
 # 309b74b27f654d9d987cdb045ff2ae2a
 #: ../source/browse.rst:90
 msgid "**OLPC Library**"
-msgstr "** Biblioteca OLPC **"
+msgstr "**Biblioteca OLPC**"
 
 # 3ed2ef3d61d04f0ca8b8b0fad5b1af10
 #: ../source/browse.rst:92
@@ -362,8 +361,8 @@ msgid ""
 "access even without a connection to the internet. Click on any of the texts "
 "to see what you can find. Have fun exploring!"
 msgstr ""
-"La actividad Navegar ha construido en los libros, la información y las "
-"páginas que se puede acceder incluso sin una conexión a Internet. Haga clic "
+"La actividad Navegar tiene incluidos libros, información y "
+"páginas que se puede acceder incluso sin una conexión a Internet. Haz clic "
 "en cualquiera de los textos para ver lo que puedes encontrar. Diviértete "
 "explorando!"
 
@@ -377,21 +376,21 @@ msgstr "Copiar imágenes de la Web"
 msgid ""
 "Every time you create something whether it's a poem, a book or a nice "
 "picture, you own those works. The internet is filled with information and "
-"works that result from hard work and creativity of other people. Some owners"
-" of those work like to share them freely, but others don't or require that "
+"works that result from hard work and creativity of other people. Some owners "
+"of those work like to share them freely, but others don't or require that "
 "you give them the credit. Sometimes this information can be found on the "
 "page you are viewing. When in doubt make sure to make a note in your "
 "documentation on where you found the information. A great page for further "
 "reading: http://www.copyrightkids.org/"
 msgstr ""
-"Cada vez que se crea algo, ya sea un poema, un libro o una buena foto, usted"
-" es dueño de esas obras. El Internet está lleno de información y obras que "
-"resultan de un trabajo duro y la creatividad de otras personas. Algunos de "
-"los propietarios de los trabajos gusta compartir libremente, pero otros no "
-"lo hacen o requieren que usted les da el crédito. A veces esta información "
-"se puede encontrar en la página que está viendo. En caso de duda, asegúrese "
-"de hacer una nota en la documentación en donde se encuentra la información. "
-"Una gran página para lectura adicional: http: // www. copyrightkids. org /"
+"Cada vez que creas algo, ya sea un poema, un libro o una buena foto, tu eres "
+"dueño de esas obras. El Internet está lleno de información y obras que "
+"resultan del trabajo duro y la creatividad de otras personas. Algunos de "
+"los propietarios de los trabajos gustan compartir libremente, pero otros no "
+"lo hacen o requieren que tu les des el crédito. A veces esta información "
+"se puede encontrar en la página que se está viendo. En caso de duda, asegúrate "
+"de hacer una nota con tu documentación en donde encuentraste la información. "
+"Una gran página para lectura adicional: http://www.copyrightkids.org/"
 
 # 3c4be647b97e4617aaa0832e8be95e5f
 #: ../source/browse.rst:102
@@ -402,10 +401,10 @@ msgid ""
 "on the source or web address of the picture along with the file name of the "
 "picture. There are two ways to copy an image:"
 msgstr ""
-"Para copiar una imagen, coloque el cursor del ratón sobre la imagen y haga "
-"clic en él (pulse el botón en la parte inferior de su trackpad que tiene un "
+"Para copiar una imagen, coloca el cursor del ratón sobre la imagen y haz "
+"clic en él (pulsa el botón en la parte inferior de su trackpad que tiene un "
 "círculo en él). Un cuadro similar a la imagen mostrada anteriormente "
-"aparecerá con la información sobre la dirección de origen o en la web de la "
+"aparecerá con la información del origen o sobre la dirección en la web de la "
 "imagen junto con el nombre del archivo de la imagen. Hay dos formas de "
 "copiar una imagen:"
 
@@ -413,21 +412,20 @@ msgstr ""
 #: ../source/browse.rst:104
 msgid "**Keep Image** - this will put a copy of the image to the Journal."
 msgstr ""
-"** Mantenga Imagen ** - esto pondrá una copia de la imagen en el Diario."
+"**Mantener la imagen** - esto pondrá una copia de la imagen en el Diario."
 
 # fe02438514174c418f26061e7caf4c8b
 #: ../source/browse.rst:106
 msgid ""
-"**Copy Image** - this will place a copy of the image to the clipboard, which"
-" you can then drag and drop to another activity. This copy is temporary and "
+"**Copy Image** - this will place a copy of the image to the clipboard, which "
+"you can then drag and drop to another activity. This copy is temporary and "
 "will disappear from the clipboard when you shutdown the XO. So if you need "
 "to save the image, it is best to do a \"Keep Image\" instead."
 msgstr ""
-"** Copiar imagen ** - esto colocará una copia de la imagen en el "
-"portapapeles, que luego se puede arrastrarlo a otra actividad. Esta copia es"
-" temporal y desaparecerá desde el portapapeles al apagar la XO. Así que si "
-"usted necesita para guardar la imagen, lo mejor es hacer una \"Imagen "
-"Mantener\" en lugar."
+"**Copiar imagen** - esto colocará una copia de la imagen en el "
+"portapapeles, que luego se puede arrastrarlo a otra actividad. Esta copia es "
+"temporal y desaparecerá del portapapeles al apagar la XO. Así que si "
+"tu necesitas guardar la imagen, lo mejor es hacer \"Mantener la Imagen."
 
 # 554dfaa17ae24f2c951a8a8f3fbccc6d
 #: ../source/browse.rst:109
@@ -442,45 +440,45 @@ msgid ""
 "community and experience. There are so many things on the web that you can "
 "use and incorporate in your classroom, but one of the many great ways to "
 "start is to help students make sense of where they are in relation to this "
-"global context. How far are they from the earthquake's epicenter that rocked"
-" Japan? Where is their country's capital? How big is their country compared "
+"global context. How far are they from the earthquake's epicenter that rocked "
+"Japan? Where is their country's capital? How big is their country compared "
 "to others? Where are the historical places in their country and the world "
 "that shaped human history and culture? One of the many great tools on the "
-"web that can be readily and freely accessed is Google maps (type this on the"
-" address bar): http://maps.google.com/"
+"web that can be readily and freely accessed is Google maps (type this on the "
+"address bar): http://maps.google.com/"
 msgstr ""
 "Navegar da acceso a la Internet, que es una poderosa herramienta de "
-"información y comunicación y permite a los estudiantes a participar en la "
-"comunidad global y experiencia. Hay tantas cosas en la web que se puede "
-"utilizar e incorporar en su salón de clases, sino una de las muchas maneras "
-"de comenzar es ayudar a los estudiantes a hacer sentido de dónde están en "
-"relación con este contexto global. ¿Hasta qué punto son del epicentro del "
+"información y comunicación y permite a los estudiantes participar en la "
+"comunidad global y experimentarla. Hay tantas cosas en la web que se puede "
+"utilizar e incorporar en tu salón de clases, una de las muchas maneras "
+"de comenzar es ayudar a los estudiantes a buscar sentido de dónde están en "
+"relación con este contexto global. ¿A qué distancia estan del epicentro del "
 "terremoto que sacudió a Japón? ¿Dónde está la capital de su país? ¿Qué tan "
 "grande es su país en comparación con otros? ¿Dónde están los lugares "
 "históricos de su país y al mundo que dio forma a la historia y la cultura "
 "humana? Una de las muchas herramientas en la web que se puede acceder "
-"fácilmente y libremente es los mapas de Google (tipo esta en la barra de "
-"direcciones): http: // maps. google. com /"
+"fácilmente y libremente son los mapas de Google (tipeando esto en la barra de "
+"direcciones): http://maps.google.com/"
 
 # cbb35b27ddd244f8a5bebc2abf7ce08b
 #: ../source/browse.rst:115
 msgid ""
-"If you live in an area that is adequately mapped by Google Maps, you can ask"
-" students to use the \"Get directions\" tool on the page to see how they can"
-" go from one place to another. The directions tool can also teach students a"
-" sense of distance by showing how far two places are from each other. "
+"If you live in an area that is adequately mapped by Google Maps, you can ask "
+"students to use the \"Get directions\" tool on the page to see how they can "
+"go from one place to another. The directions tool can also teach students a "
+"sense of distance by showing how far two places are from each other. "
 "Example, how far do they travel every day for school (Given that sense of "
 "distance, how far and how long will it take to get to the nearest city or "
 "town)?"
 msgstr ""
-"Si usted vive en un área que se asigna adecuadamente por Google Maps, puede "
+"Si vives en un área cuyo mapa se ve adecuadamente en Google Maps, puede "
 "pedir a los estudiantes a utilizar la herramienta de \"Cómo llegar\" en la "
 "página para ver cómo se puede ir de un lugar a otro. La herramienta de "
-"direcciones también se puede enseñar a los estudiantes un sentido de la "
-"distancia, que muestra hasta qué punto dos lugares son el uno del otro. "
-"Ejemplo, ¿hasta qué viajan todos los días a la escuela (Dado que el sentido "
-"de la distancia, hasta dónde y cuánto tiempo se tarda en llegar a la ciudad "
-"más cercana o de la ciudad)?"
+"direcciones también puede enseñar a los estudiantes un sentido de la "
+"distancia, que muestra cuan lejos dos lugares estan el uno del otro. "
+"Ejemplo, ¿cuanto viajan todos los días a la escuela (Dando sentido "
+"a la distancia, hasta dónde y cuánto tiempo se tarda en llegar a la ciudad "
+"o pueblo más cercano)?"
 
 # 193c8196f04845a68d641ae5b26904a9
 #: ../source/browse.rst:118
@@ -490,13 +488,13 @@ msgstr "Extendiendo Navegar"
 # f07f5453ce004d0c879821d1fb51cbe6
 #: ../source/browse.rst:120
 msgid ""
-"There's a built in Google search bar on the home page of Browse that you can"
-" direct students to aid in their research. Help them narrow or expand their "
+"There's a built in Google search bar on the home page of Browse that you can "
+"direct students to aid in their research. Help them narrow or expand their "
 "search texts to come up with better search results."
 msgstr ""
-"Hay una construida en la barra de búsqueda de Google en la página principal "
-"de Examinar que puede dirigir a los estudiantes para ayudar en su "
-"investigación. Ayúdales estrecho o ampliar sus textos de búsqueda para "
+"Hay una barra de búsqueda de Google incluida en la página principal "
+"de Navegar que puede dirigir a los estudiantes para ayudar en su "
+"investigación. Ayúdales estrechando o ampliando sus textos de búsqueda para "
 "llegar a mejores resultados de la búsqueda."
 
 # 608728e11dbc4aa38f7119ae91b23a26
@@ -504,28 +502,28 @@ msgstr ""
 msgid ""
 "To allow students to be active participants in the global community, "
 "communication tools can be freely and readily accessed via Browse: from "
-"creating free e-mail accounts to tools that allow people to create their own"
-" internet sites and pages."
+"creating free e-mail accounts to tools that allow people to create their own "
+"internet sites and pages."
 msgstr ""
 "Para permitir que los estudiantes participen activamente en la comunidad "
-"global, herramientas de comunicación pueden ser libremente y fácilmente "
-"accesibles a través de Navegar: desde la creación de cuentas de correo "
-"electrónico gratuitas para herramientas que permiten a la gente crear sus "
+"global, herramientas de comunicación pueden ser accesibles libre y fácilmente "
+"a través de Navegar: desde la creación de cuentas de correo "
+"electrónico gratuitas hasta herramientas que permiten a la gente crear sus "
 "propios sitios de Internet y las páginas."
 
 # b2bec2efadfa4f28988292e6d4788a75
 #: ../source/browse.rst:124
 msgid ""
 "But like with any type of exploration, you have to start with caution. Not "
-"all information on the internet is good. Start with educating kids to safely"
-" use and explore the internet. You can check out sites like: "
-"http://www.wiredkids.org/kids/index.html for more information."
+"all information on the internet is good. Start with educating kids to safely "
+"use and explore the internet. You can check out sites like: http://www."
+"wiredkids.org/kids/index.html for more information."
 msgstr ""
-"Pero al igual que con cualquier tipo de exploración, usted tiene que "
-"comenzar con precaución. No toda la información en el Internet es bueno. "
-"Comience con la educación de los niños a utilizar con seguridad y explorar "
-"internet. Usted puede comprobar fuera de sitios como: http: // www. "
-"WiredKids. org / niños / index. html para más información."
+"Pero al igual que con cualquier tipo de exploración, tienes que "
+"comenzar con precaución. No toda la información en el Internet es buena. "
+"Comience educacando a los niños a utilizar con seguridad y explorar "
+"internet. Usted puede comprobar sitios como: http://www."
+"wiredkids.org/kids/index.html para más información."
 
 # 8f068f3fa0ee4e0da16cf2ed1f7ada0e
 #: ../source/browse.rst:127
@@ -535,7 +533,7 @@ msgstr "Dónde reportar problemas"
 # fb111511ae6d4ef78ea91f4186301d9b
 #: ../source/browse.rst:129
 msgid "In http://bugs.sugarlabs.org, component Browse."
-msgstr "En http: // bichos. sugarlabs. org, componente Navegar."
+msgstr "En http://bugs.sugarlabs.org, componente Browse (Navegar)."
 
 # 0f30d7756e5644ceb08de913b79fbc7d
 #: ../source/browse.rst:132
@@ -547,14 +545,13 @@ msgstr "Créditos"
 msgid ""
 "Browse was developed and maintained by: Lucian, Sascha Silbe, erikos, manuq"
 msgstr ""
-"Navegar fue desarrollado y mantenido por: Lucian, Sascha Silbe, erikos, "
-"manuq"
+"Navegar fue desarrollado y mantenido por: Lucian, Sascha Silbe, erikos, manuq"
 
 # 1b8c05c99f334a8a8af13542dd8d8590
 #: ../source/browse.rst:136
 msgid ""
-"Browse can be downloaded from the `Sugar Labs Activities repository "
-"<http://activities.sugarlabs.org/>`_."
+"Browse can be downloaded from the `Sugar Labs Activities repository <http://"
+"activities.sugarlabs.org/>`_."
 msgstr ""
-"Navegar se puede descargar desde la `Sugar Labs Actividades repositorio "
-"<http: // actividades. sugarlabs. org /> `_."
+"Navegar se puede descargar desde el  `repositorio de Actividades Sugar Labs "
+"<http://activities.sugarlabs.org/>`_."
