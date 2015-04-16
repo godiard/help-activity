@@ -90,10 +90,10 @@ msgid ""
 "Also note that the Clear Button on the main toolbar will also clear the "
 "abacus for you."
 msgstr ""
-"Tenga en cuenta que algunos de los ábacos (por ejemplo, el Schety) no tiene "
+"Ten en cuenta que algunos de los ábacos (por ejemplo, el Schety) no tienen "
 "ninguna perla superior. En tales casos, todas debe comenzar en la posición "
-"baja. También tenga en cuenta que el botón Borrar en la barra de "
-"herramientas principal borrará el ábaco para usted."
+"baja. También ten en cuenta que el botón Borrar en la barra de "
+"herramientas principal borrará el ábaco por ti."
 
 # 15a4a9fc16974668bb8c36cb9614d1fd
 #: ../source/abacus.rst:24
@@ -139,8 +139,8 @@ msgid ""
 "The current value is always displayed on the frame. Experiment and you will "
 "quickly learn to write and read numbers."
 msgstr ""
-"El valor actual se muestra siempre en el marco. Experimente y usted "
-"aprenderá rápidamente a leer y escribir números."
+"El valor actual se muestra siempre en el marco. Experimenta "
+"aprenderás rápidamente a leer y escribir números."
 
 # d0803f74e6424074bf7f89ee611459c1
 #: ../source/abacus.rst:31
@@ -236,12 +236,12 @@ msgid ""
 "immediately to the left. (With the nepohualtzintzin, you work with 20 rather "
 "than 10.)"
 msgstr ""
-"Para agregar, simplemente mueva más cuentas para representar el número que "
-"está agregando. Hay dos reglas a seguir: (1) cada vez que tenga un total de "
-"5 unidades o más en la parte inferior de una columna, cancelar el 5 "
-"deslizando las cuentas de nuevo y añadir un cinco a la parte superior; y (2) "
-"cada vez que tenga un total de 10 unidades o más en una columna, anular el "
-"10 y añadir una unidad a la columna inmediatamente a la izquierda. (Con el "
+"Para agregar, simplemente mueve más cuentas para representar el número que "
+"está agregando. Hay dos reglas a seguir: (1) cada vez que tengas un total de "
+"5 unidades o más en la parte inferior de una columna, cancela el 5 "
+"deslizando las cuentas de nuevo y añade un cinco a la parte superior; y (2) "
+"cada vez que tengas un total de 10 unidades o más en una columna, anula el "
+"10 y añade una unidad a la columna inmediatamente a la izquierda. (Con el "
 "Nepohualtzintzin, se trabaja con 20 en lugar de 10. )"
 
 # 31db707af29f47638d26ca19dba96b8c
@@ -317,8 +317,8 @@ msgid ""
 "immediately to the left: subtracting one unit and adding 10 to the current "
 "column."
 msgstr ""
-"La resta es la inversa de la suma. Retire a cuentas que corresponden al "
-"número que está restando. Usted puede \"pedir prestado\" de la columna "
+"La resta es la inversa de la suma. Retira cuentas que corresponden al "
+"número que estás restando. Puedes \"pedir prestado\" de la columna "
 "inmediatamente a la izquierda: restando una unidad y añadiendo 10 a la "
 "columna actual."
 
@@ -385,7 +385,7 @@ msgid ""
 "the right of the multiplicand."
 msgstr ""
 "486×24=? Comience poniendo 24 in las columnas de la izquierda y 486 a dos "
-"columnas de la derecha (ya que 24 tiene dos dígitos). Ponga el indicados a "
+"columnas de la derecha (ya que 24 tiene dos dígitos). Pon el indicador a "
 "la derecha del multiplicando."
 
 # a4cd7245cc124a8ab04680a6a9927b58
@@ -394,8 +394,8 @@ msgid ""
 "Multiply the least-significant digits (LSD) of the multiplier (4) and "
 "multiplicand (6) and place the results (4×6=24) in the far right columns."
 msgstr ""
-"Multiplique los dígitos menos significativos (DMS) del multiplicador (4) y "
-"del multiplicando (6) y coloque los resultados (4 × 6 = 24) en las columnas "
+"Multiplica los dígitos menos significativos (DMS) del multiplicador (4) y "
+"del multiplicando (6) y coloca los resultados (4 × 6 = 24) en las columnas "
 "de la extrema derecha."
 
 # ec61c28216a04deeb44ebd5e47e7490e
@@ -406,21 +406,21 @@ msgid ""
 "right (advancing one column to the left to correspond to the power of the "
 "digit in the multiplier)."
 msgstr ""
-"Multiplicar el siguiente dígito en el multiplicador (2, que corresponde a 2 "
-"× 10 = 20) y el DMS del multiplicando (6) y agregar los resultados (2 × 6 = "
-"12) a la derecha (avance de una columna a la izquierda para corresponder a "
+"Multiplica el siguiente dígito en el multiplicador (2, que corresponde a 2 "
+"× 10 = 20) y el DMS del multiplicando (6) y agrega los resultados (2 × 6 = "
+"12) a la derecha (avanza una columna a la izquierda para corresponder a "
 "la potencia del dígito en el multiplicador)."
 
 # af273b64334b411aa27f3daa4f0ce8a5
 # 3ffb55397ba142d3965bc97ed057d912
 #: ../source/abacus.rst:132 ../source/abacus.rst:142
 msgid "Move the indicator over one column to the left."
-msgstr "Mueva el indicador una columna más a la izquierda."
+msgstr "Mueve el indicador una columna más a la izquierda."
 
 # 1675cc2c41f646a8ae5702af1a715c96
 #: ../source/abacus.rst:138
 msgid "Repeat for the next digit in the multiplicand (8): 4×8=32"
-msgstr "Repita para el siguiente dígito en el multiplicando (8): 4x8=32"
+msgstr "Repite para el siguiente dígito en el multiplicando (8): 4x8=32"
 
 # b623baa8143e454db222f9038f3d4fcc
 #: ../source/abacus.rst:140
@@ -430,7 +430,7 @@ msgstr "2×8=16"
 # f69994fdff2946b2af48c8766271a6ea
 #: ../source/abacus.rst:148
 msgid "Repeat for the next digit in the multiplicand (4): 4×4=16"
-msgstr "Repita para el siguiente dígito en el multiplicando (4): 4×4=16"
+msgstr "Repite para el siguiente dígito en el multiplicando (4): 4×4=16"
 
 # a6733ddc2c4141eab111f81c622ae4ac
 #: ../source/abacus.rst:150
@@ -441,7 +441,7 @@ msgstr "2×4=8"
 #: ../source/abacus.rst:152
 msgid "Clear the multiplier from the left and view the result: 486×24=11664"
 msgstr ""
-"Limpie el multiplicador de la izquierda para ver el resultado:  486×24=11664"
+"Limpia el multiplicador de la izquierda para ver el resultado:  486×24=11664"
 
 # 324c52b79cab4f1cbdfe921585408335
 #: ../source/abacus.rst:156
@@ -465,7 +465,7 @@ msgid ""
 "123456789÷2=? Place the dividend (123456789) on the left, leaving one blank "
 "column. Place the divisor (2) on the right."
 msgstr ""
-"123456789÷2=? Coloque el dividendo (123456789) a la izquierda, dejando una "
+"123456789÷2=? Coloca el dividendo (123456789) a la izquierda, dejando una "
 "columna vacía. Coloca el divisor (2) a la derecha."
 
 # 9453de5d5e914d23ae1d1542d0d59914
@@ -836,9 +836,9 @@ msgid ""
 "example, I often paste numbers into the hexadecimal abacus as a quick way of "
 "converting decimal to hexidecimal."
 msgstr ""
-"Abacus soporta 'pegar', así que usted puede tomar valores numéricos de otros "
+"Abaco soporta 'pegar', así que puedes tomar valores numéricos de otros "
 "programas y pegarlos en el ábaco para ver sus representaciones; "
-"por ejemplo, a menudo me números en el ábaco hexadecimal como una forma "
+"por ejemplo, a menudo pego números en el ábaco hexadecimal como una forma "
 "rápida de convertir de decimal a hexadecimal."
 
 # 71330557fec147769e1888cb8b857c52
@@ -847,7 +847,7 @@ msgid ""
 "Abacus also supports copy, so you can take a sum calculated on an abacus and "
 "export it into SimpleGraph or some other data-visualization Activities."
 msgstr ""
-"Abacus también soporta 'copiar', para que pueda tomar una suma calculada en un "
+"Abacus también soporta 'copiar', para que puedas tomar una suma calculada en un "
 "ábaco y exportarlo en SimpleGraph o algunas otra-actividad de visualización de datos."
 
 # 896322f4b0c048138b445babb4f7372b
@@ -857,8 +857,8 @@ msgid ""
 "each sharer work independently to post it on the abacus of their choice "
 "first. There could be a tally of beads awarded for each correct answer."
 msgstr ""
-"Un modo de colaboración divertidopodría ser la de tener un número "
-"seleccionado al azar y que cada obra partícipe independiente deba ponerlo "
+"Un modo de colaboración divertido podría ser la de tener un número "
+"seleccionado al azar y que cada partícipe independiente deba ponerlo "
 "en el ábaco de su elección. Podría haber un recuento de los granos "
 "otorgados por cada respuesta correcta."
 
@@ -874,8 +874,8 @@ msgid ""
 "enhancement, please `file a ticket <https://bugs.sugarlabs.org/newticket?"
 "component=Abacus>`_ in our bug-tracking system."
 msgstr ""
-"Si usted descubre un error en el programa o tiene una sugerencia para una "
-"mejora, por favor `llene un boleto <https://bugs.sugarlabs.org/newticket?"
+"Si descubres un error en el programa o tienes una sugerencia para una "
+"mejora, por favor `llena un ticket <https://bugs.sugarlabs.org/newticket?"
 "component=Abacus>`_ en nuestro sistema de seguimiento de bugs."
 
 # 7219cb9157264cca823dd6882462a349
@@ -884,7 +884,7 @@ msgid ""
 "You can `view the open tickets here. <https://bugs.sugarlabs.org/query?"
 "status=accepted&status=assigned&status=new&status=reopened&component=Abacus>`_"
 msgstr ""
-"Puede `ver los tickets abiertos aquí. <https://bugs.sugarlabs.org/query?"
+"Puedes `ver los tickets abiertos aquí. <https://bugs.sugarlabs.org/query?"
 "status=accepted&status=assigned&status=new&status=reopened&component=Abacus> `_"
 
 # 33229a082dcf4be8b30b1344fa9b18d4
