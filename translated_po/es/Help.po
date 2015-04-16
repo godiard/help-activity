@@ -23,7 +23,7 @@ msgstr "Ayuda"
 
 #: helpactivity.py:116
 msgid "Back"
-msgstr "Espalda"
+msgstr "Volver"
 
 #: helpactivity.py:123
 msgid "Forward"
@@ -31,7 +31,7 @@ msgstr "Adelante"
 
 #: helpactivity.py:130
 msgid "Home"
-msgstr "Casa"
+msgstr "Inicio"
 
 #: viewtoolbar.py:34
 msgid "Zoom out"
