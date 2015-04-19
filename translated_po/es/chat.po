@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 82b2e6ed1d0a4c408180f8931d2f44e3
@@ -35,21 +35,21 @@ msgid ""
 "something private that happened in your life. You need at least two active "
 "XOs to chat - your own and the one that your friend uses."
 msgstr ""
-"El chat de actividad se utiliza para intercambiar mensajes con tus amigos o "
-"compañeros de clase. Usted puede charlar sobre un tema que se está "
-"estudiando o puede compartir algo privado que pasó en su vida. Usted "
-"necesita por lo menos dos XO activos para charlar - su propio y el que su "
+"La actividad Charlar se utiliza para intercambiar mensajes con tus amigos o "
+"compañeros de clase. Puedes charlar sobre un tema que se está "
+"estudiando o puedes compartir algo privado que pasó en tu vida.  "
+"Necesitas por lo menos dos XO activos para charlar - el tuyo y el que tu "
 "amigo utiliza."
 
 # 0349d869cbb74417877c4f884bc21270
 #: ../source/chat.rst:13
 msgid "Using Chat"
-msgstr "Uso del chat"
+msgstr "Usando Charlar"
 
 # fb15209b67f24e848805a62e83ad9b24
 #: ../source/chat.rst:16
 msgid "Starting Chat"
-msgstr "A partir de Chat"
+msgstr "Iniciando Charlar"
 
 # 4d5591dd37c54b72a1c2e9fbae2d8bca
 #: ../source/chat.rst:18
@@ -58,9 +58,9 @@ msgid ""
 "activity, with one or many other \"Friends\" in your \"Neighborhood\", or "
 "those connected to your olpc mesh network."
 msgstr ""
-"Chatear crea conversación de texto con otros usuarios de XO. Chat es una "
-"actividad compartida, con uno o muchos otros \"amigos\" en su \"barrio\", o "
-"aquellos conectados a la red de malla olpc."
+"Charlar crea una conversación de texto con otros usuarios de XO. Charlar es "
+"una actividad compartida, con uno o muchos otros \"amigos\" en tu \"Vecindario\", "
+"o aquellos conectados a la red de malla olpc."
 
 # 0659b61a09084fd6b3495f56df81c115
 #: ../source/chat.rst:20
@@ -69,14 +69,14 @@ msgid ""
 "home view, click the star on the left side of the icon. Now click on the "
 "Chat icon to start."
 msgstr ""
-"El icono Chat en actividad es una burbuja de diálogo. Para añadir el chat de"
-" actividad a su vista de inicio, haga clic en la estrella en el lado "
-"izquierdo del icono. Ahora haga clic en el icono de chat para comenzar."
+"El icono de la actividad Charlar es una burbuja de diálogo. Para añadir "
+"la actividad Charlar a tu vista de inicio, haz clic en la estrella en el lado "
+"izquierdo del icono. Ahora haz clic en el icono de Charlar para comenzar."
 
 # 0506efbd65944673a3580c3b7885d081
 #: ../source/chat.rst:25
 msgid "Sharing Chat"
-msgstr "Intercambio de Chat"
+msgstr "Compartiendo Charlar"
 
 # 2815268c116a4caeae27b7114f1e70e2
 #: ../source/chat.rst:27
@@ -84,8 +84,8 @@ msgid ""
 "You can either share Chat publicly or keep it private and invite specific "
 "people to join."
 msgstr ""
-"Podrá compartir chat público o mantenerlo en privado e invitar a personas "
-"específicas para unirse."
+"Puedes compartir Charlar en público o mantenerlo en privado e invitar a "
+" personas específicas a unirse."
 
 # 9aecbbfe29234ef28528e77e715a01f3
 #: ../source/chat.rst:29
@@ -93,22 +93,22 @@ msgid ""
 "In the Chat toolbar, there is a circle icon with a dot.  Click on this icon "
 "and select the neighborhood or public sharing."
 msgstr ""
-"En la barra de herramientas de chat, hay un icono de círculo con un punto. "
-"Haga clic en este icono y seleccione el barrio o el uso compartido público."
+"En la barra de herramientas de Charlar, hay un icono de círculo con un punto. "
+"Haz clic en este icono y selecciona el vecindario o el uso compartido público."
 
 # 27689ac34c874e418ee0d7a87adee6c4
 #: ../source/chat.rst:33
 msgid ""
 "When you have selected the Neighborhood View, find a friend to invite  and "
-"hold the pointer on their icon until the \"Invite to\" popup appears.  Now a"
-" Chat icon appears in the menu and the friend gets an invitation to Chat in "
+"hold the pointer on their icon until the \"Invite to\" popup appears.  Now a "
+"Chat icon appears in the menu and the friend gets an invitation to Chat in "
 "their frame. Your Chat icon also appears in their Neighborhood view."
 msgstr ""
-"Cuando haya seleccionado el Barrio Vista, encontrar un amigo para invitar y "
-"mantenga el puntero sobre su icono hasta la \"Invitar a que\" aparece "
-"emergente. Ahora, un icono de chat aparece en el menú y el amigo recibe una "
+"Cuando hayas seleccionado la vista de vecindario, encuentra un amigo para invitar y "
+"manten el puntero sobre su icono hasta que parezca la opción \"Invitar a \" "
+"Ahora, un icono de chat aparece en el menú y tu amigo recibe una "
 "invitación para hablar en su marco. Su icono de chat también aparece en su "
-"opinión Barrio."
+"vista de vecindario."
 
 # cd121c1071444c3c88ef6143f11e2281
 #: ../source/chat.rst:35
@@ -116,19 +116,19 @@ msgid ""
 "You can invite as many other XOs to your Chat as you like, creating a "
 "private group discussion.  Anyone else who joins can invite others."
 msgstr ""
-"Puedes invitar a tantas otras XO al Chat como quieras, la creación de un "
-"grupo de discusión privada. Cualquier otra persona que se une puede invitar "
+"Puedes invitar a tantas otras XO a Charlar como quieras, creando un "
+"grupo de discusión privada. Cualquier persona que se une puede invitar "
 "a otros."
 
 # 41fa5ee278464cbbb585d52146267336
 #: ../source/chat.rst:38
 msgid "Join a Chat"
-msgstr "Únase a un chat"
+msgstr "Únirse a una charla"
 
 # bd551709e28b45e4a128fff86f26549e
 #: ../source/chat.rst:40
 msgid "You can join a Sugar Chat that has already been started."
-msgstr "Usted puede unirse a un chat de azúcar que ya se ha iniciado."
+msgstr "Puedes unirte a una charla de Sugar que ya se ha iniciado."
 
 # 510461495ead480396538a5ec8029f9b
 #: ../source/chat.rst:42
@@ -141,18 +141,18 @@ msgid ""
 msgstr ""
 "Dos o más computadoras XO de One Laptop Per Child pueden hablar entre sí "
 "directamente sin una conexión a Internet. Esta es una conexión directa. "
-"También puedes chatear con personas en Internet que utilizan azúcar. Esta "
+"También puedes charlar con personas en Internet que utilizan Sugar. Esta "
 "sección describe unirse a una charla entre dos o más computadoras XO de One "
 "Laptop Per Child."
 
 # 67746b53ac2f4510a74caa192e6967c7
 #: ../source/chat.rst:44
 msgid ""
-"First, look at the Neighborhood View to see if there is an existing Chat you"
-" want to join."
+"First, look at the Neighborhood View to see if there is an existing Chat you "
+"want to join."
 msgstr ""
 "En primer lugar, mirar la vista de Vecindario para ver si hay un chat "
-"existente que desea unirse."
+"existente al que desees unirte."
 
 # 097745b1010b4afdb360cbc1111beecc
 #: ../source/chat.rst:46
@@ -160,8 +160,8 @@ msgid ""
 "**CHAT SAFELY**: Only chat with someone you know. If a someone invites you "
 "to chat, don't chat with them unless you know them."
 msgstr ""
-"** CHAT CON SEGURIDAD **: chatear Sólo con alguien que usted conoce. Si una "
-"persona le invita a charlar, no charlar con ellos a menos que conozcas."
+"** CHARLA CON SEGURIDAD **: charla sólo con alguien que conozcas. Si una "
+"persona te invita a charlar, no lo hagas a menos que lo conozcas."
 
 # 10fc2ae9a420474e97c044c6ebcbad6b
 #: ../source/chat.rst:50
@@ -170,15 +170,14 @@ msgid ""
 "person is in a shared Chat. Several people may be around the Chat icon, "
 "showing a group Chat."
 msgstr ""
-"Si ve un icono de XO con un pequeño icono de burbuja de diálogo junto a él, "
-"esa persona está en un chat compartido. Varias personas pueden ser alrededor"
-" del icono de chat, mostrando un grupo de chat."
+"Si ves un icono de XO con un pequeño icono de burbuja de diálogo junto a él, "
+"esa persona está en una charla compartida. Varias personas pueden estar alrededor "
+"del icono de Charlar, mostrando un grupo de charla."
 
 # 66dd8f2ffe2c4689a711f98ce4cbad30
 #: ../source/chat.rst:54
 msgid "Click the little speech icon, and select the Join option."
-msgstr ""
-"Haga clic en el icono del habla poco, y seleccione la opción Conectar."
+msgstr "Haz clic en el pequeño icono de Charlar, y seleccione la opción Conectar."
 
 # b82029fefa794687aebfb26dda584e4f
 #: ../source/chat.rst:56
@@ -186,8 +185,8 @@ msgid ""
 "Then the Chat Activity starts, connected to the shared Chat. You see the "
 "other people in the Chat, on the Frame."
 msgstr ""
-"Entonces el Chat en actividad empieza, conectado al chat compartida. Usted "
-"ve las otras personas en el chat, en el Marco."
+"Entonces la actividad Charlar se inicia, conectadose a la charla compartida. "
+" Puedes ver a las otras personas compartiendo Charlar, en el Marco."
 
 # ddc54c4ca5244e5da16ca159e929666a
 #: ../source/chat.rst:59
@@ -201,9 +200,9 @@ msgid ""
 "and chat with the other person. After you type a message you can press the "
 "enter key to send it."
 msgstr ""
-"Una vez que esté en el chat Actividad, usted puede comenzar a escribir para "
+"Una vez que estés en la actividad Charlar, puedes comenzar a escribir para "
 "enviar un mensaje y charlar con la otra persona. Después de escribir un "
-"mensaje, puede pulsar la tecla para enviarlo entrar."
+"mensaje, puedes pulsar la tecla Entrar para enviarlo."
 
 # 28bc11f30d9040349f9fcf3827125f7f
 #: ../source/chat.rst:65
@@ -224,15 +223,15 @@ msgstr "Aceptar una invitación para conversar"
 # 13401fefbd064c6d95768d1d8bc65b2c
 #: ../source/chat.rst:71
 msgid ""
-"You may be invited to chat. An invitation appears as a little speech icon in"
-" the upper-left of the screen in every view. (The invitation also appears on"
-" the Frame.) The colors of the icon match the colors of the friend who sent "
+"You may be invited to chat. An invitation appears as a little speech icon in "
+"the upper-left of the screen in every view. (The invitation also appears on "
+"the Frame.) The colors of the icon match the colors of the friend who sent "
 "the invitation."
 msgstr ""
-"Usted puede ser invitado a charlar. Una invitación aparece como un icono "
-"habla poco en la parte superior izquierda de la pantalla en todas las "
-"vistas. (La invitación también aparece en el Marco. ) Los colores del icono "
-"coinciden con los colores de la amiga que ha enviado la invitación."
+"Puedes ser invitado a charlar. Una invitación aparece como un pequeño ícono "
+"Charlar en la parte superior izquierda de la pantalla en todas las "
+"vistas. (La invitación también aparece en el Marco.) Los colores del ícono "
+"coinciden con los colores del amigo o amiga que ha enviado la invitación."
 
 # 6ef52d13df4b4c9ba887d603faaf0ad6
 #: ../source/chat.rst:75
@@ -240,13 +239,13 @@ msgid ""
 "You accept the invitation by hovering over the icon and selecting Join. You "
 "decline the invitation by selecting Decline."
 msgstr ""
-"Usted acepta la invitación el ratón encima del icono y seleccionando Únete. "
-"Usted rechaza la invitación seleccionando Decline."
+"Tu aceptas la invitación poniendo el cursor encima del ícono y seleccionando Únete. "
+"Tu rechazas la invitación seleccionando Rechazar."
 
 # e70df0639409455fa9cb1c15a64875c3
 #: ../source/chat.rst:81
 msgid "Things to Do with Chat"
-msgstr "Qué hacer con Chat"
+msgstr "Qué hacer con Charlar"
 
 # 03f41361a989456d870c2ef8b76dbdba
 #: ../source/chat.rst:83
@@ -254,7 +253,7 @@ msgid ""
 "Chat is a great for sending messages back and forth with a friend, "
 "socializing, and working together on projects."
 msgstr ""
-"Chat es un grande para enviar mensajes de ida y vuelta con un amigo, "
+"Charlar es genial para enviar mensajes de ida y vuelta con un amigo, "
 "socializar y trabajar juntos en proyectos."
 
 # e10e5f5e1060431984daca7140678849
@@ -263,13 +262,13 @@ msgid ""
 "Remember that being polite on a computer is just as important as being "
 "polite when you're speaking with someone."
 msgstr ""
-"Recuerde que ser educado en un equipo es tan importante como ser cortés "
+"Recuerda que ser educado en un equipo es tan importante como ser cortés "
 "cuando estás hablando con alguien."
 
 # ad1dbb8590484280926646f3094334b9
 #: ../source/chat.rst:87
 msgid "Be polite. Try not to interrupt."
-msgstr "Sea cortés. Trate de no interrumpir."
+msgstr "Se cortés. Trata de no interrumpir."
 
 # c9472158efb5493782003d0f6ba1e950
 #: ../source/chat.rst:88
@@ -282,7 +281,7 @@ msgid ""
 "Don't type in ALL CAPITAL LETTERS. This style is considered rude as it is "
 "like shouting at someone."
 msgstr ""
-"No escriba en MAYÚSCULAS. Este estilo se considera de mala educación ya que "
+"No escribas en MAYÚSCULAS. Este estilo se considera de mala educación ya que "
 "es como gritarle a alguien."
 
 # f9329c8cda27403299be128f3f8a2622
@@ -293,33 +292,33 @@ msgid ""
 "you can try going to www.google.com/translate and type in a phrase that you "
 "want to say in another language so you can be friendly online."
 msgstr ""
-"Si usted no habla el mismo idioma que otra persona puede ser difícil "
-"comunicarse con Chat. Ser paciente. Si usted tiene una conexión a Internet, "
-"puede intentar ir a www. google. com / traducir y escriba una frase que "
-"quiere decir en otro idioma para que pueda ser amigable en línea."
+"Si no hablas el mismo idioma que la otra persona puede ser difícil "
+"comunicarse con Charlar. Se paciente. Si tienes una conexión a Internet, "
+"puedes intentar ir a www.google.com/translate y escribir una frase que "
+"quieras decir en otro idioma para que puedas ser amigable en línea."
 
 # facec2eb94f84f8cb06f1f8d3959c70d
 #: ../source/chat.rst:92
 msgid "**Fun**"
-msgstr "** Divertido **"
+msgstr "** Diversión **"
 
 # 78c671700761484394c9539f36df7814
 #: ../source/chat.rst:94
 msgid ""
 "It can be fun to make words shorter when typing in a Chat Activity because "
-"it is faster, like texting (sending messages) on a mobile phone. For example"
-" instead of typing in \"how are you?\", you can type in \"how r u?\""
+"it is faster, like texting (sending messages) on a mobile phone. For example "
+"instead of typing in \"how are you?\", you can type in \"how r u?\""
 msgstr ""
-"Puede ser divertido para hacer palabras más corto al escribir en un chat "
-"Actividad porque es más rápido, al igual que (el envío de mensajes) mensajes"
-" de texto en un teléfono móvil. Por ejemplo en lugar de escribir \"¿cómo "
-"estás?\", Puede escribir \"how ru?\""
+"Puede ser divertido hacer palabras más cortas al escribir en la actividad "
+"Charlar porque es más rápido, al igual que en el envío de mensajes "
+"de texto en un teléfono móvil. Por ejemplo en lugar de escribir \"nos "
+"vemos alli\", Puedes escribir \"nva\""
 
 # 151e5522dbee49479ddff1acd215449a
 #: ../source/chat.rst:96
 msgid "The following are some ways you might like to try using Chat:"
 msgstr ""
-"Las siguientes son algunas maneras que usted puede intentar en un chat:"
+"Las siguientes son algunas maneras en que puedes intentar en Charlar:"
 
 # 510dabc099154779aadc5fdd3a517d28
 #: ../source/chat.rst:98
@@ -334,7 +333,7 @@ msgstr "Organizar una reunión de la comunidad."
 # d8c3043ce6244087813ff3abde309ddf
 #: ../source/chat.rst:100
 msgid "Bring friends together to talk about doing a group project."
-msgstr "Traiga amigos para hablar de hacer un proyecto de grupo."
+msgstr "Reunir amigos para hablar de hacer un proyecto de grupo."
 
 # 126798051f4d46e5af554528bc530e25
 #: ../source/chat.rst:101
@@ -344,14 +343,14 @@ msgstr "Una lluvia de ideas (ya sea \"rápido y furioso\" o por turnos)."
 # b4b67cb3d955423dbcc7b26f185e866d
 #: ../source/chat.rst:102
 msgid "Ask your teacher questions about your homework."
-msgstr "Haga sus preguntas maestros acerca de su tarea."
+msgstr "Hacer preguntas a tus maestros acerca de su tarea."
 
 # 5e59efddab50466f9ecc51058956dee2
 #: ../source/chat.rst:103
 msgid ""
 "Use Chat and write a story with friends online using the Write Activity."
 msgstr ""
-"Utilizar el chat y escribir una historia con amigos en línea utilizando la "
+"Utilizar Charlar y escribir una historia con amigos en línea utilizando la "
 "actividad de escritura."
 
 # 22798778c7634b7b8ca95c2b68d56898
@@ -360,22 +359,20 @@ msgid ""
 "Use Chat to practice writing in a foreign language (see if you can find a "
 "native speaker to chat with)."
 msgstr ""
-"Utilizar el chat para practicar la escritura en una lengua extranjera (ver "
-"si usted puede encontrar un hablante nativo charlar con)."
+"Utilizar Charlar para practicar la escritura en una lengua extranjera (ve "
+"si puedes encontrar un hablante nativo para charlar con el)."
 
 # 815864d5dae5460398ca3d17498214b7
 #: ../source/chat.rst:105
 msgid "Organize other Sugar or XO users to meet and learn from each other."
 msgstr ""
-"Organizar otros usuarios de Sugar o XO para conocer y aprender unos de "
-"otros."
+"Organizar con otros usuarios de Sugar o XO para conocer y aprender unos de otros."
 
 # c10d7784642e41cda4b1714c0d115b20
 #: ../source/chat.rst:106
 msgid "Use Chat to communicate with a grandparent or other family member."
 msgstr ""
-"Utilizar el chat para comunicarse con un abuelo u otro miembro de la "
-"familia."
+"Utilizar Charlar para comunicarse con un abuelo u otro miembro de la familia."
 
 # d21534dac69149289e096dd438007ee1
 #: ../source/chat.rst:107
@@ -383,11 +380,13 @@ msgid ""
 "Interview an expert using the Chat Activity as if they were in the "
 "classroom, especially an expert who wouldn’t otherwise be able to visit."
 msgstr ""
+"Entrevistar a un experto usando la actividad Charlar como si estuviera "
+"en el salon de clase, especialmente si no es posible visitarlo de otra forma. "
 
 # 5404545412254a03b3d5b470cbeb5fa6
 #: ../source/chat.rst:108
 msgid "Take group discussion notes."
-msgstr "Tome notas de discusión en grupo."
+msgstr "Tomar notas de discusión en grupo."
 
 # 45215c5cc7fe4f8ba29580420fc0f8e5
 #: ../source/chat.rst:109
@@ -396,7 +395,7 @@ msgid ""
 "mind when your friend types red."
 msgstr ""
 "Juega un juego de asociación de palabras tales como escribir la primera "
-"palabra que viene a la mente cuando sus tipos amigo rojo."
+"palabra que viene a la mente cuando tus amigo escriben rojo."
 
 # a8fdd8a1d27c472b9e4a2054319d0202
 #: ../source/chat.rst:110
@@ -405,24 +404,24 @@ msgid ""
 "character from a book you are reading, and chat with the role-playing "
 "friend)."
 msgstr ""
-"Juega un juego de rol (por ejemplo, tiene un amigo pretender ser un "
-"personaje de un libro que está leyendo, y charlar con el amigo de rol)."
+"Juega un juego de rol (por ejemplo, un amigo debe pretender ser un "
+"personaje de un libro que está leyendo, y charlar con el amigo en ese rol)."
 
 # bb557be4279e43e6b0868ab8bbfbead6
 #: ../source/chat.rst:113
 msgid "Use emoticons in Chat"
-msgstr "Utilice emoticonos en el chat"
+msgstr "Utilizar emoticonos en el chat"
 
 # 21aae84b0df44fcfbcd368fc4137d0cf
 #: ../source/chat.rst:115
 msgid ""
-"There are ways to tell friends how you feel just by using letters - they can"
-" let someone know if you are happy, sad, or having fun. When you make "
-"letters look like a face, they are called emoticons."
+"There are ways to tell friends how you feel just by using letters - they can "
+"let someone know if you are happy, sad, or having fun. When you make letters "
+"look like a face, they are called emoticons."
 msgstr ""
-"Hay maneras de decir amigos cómo se siente simplemente utilizando letras - "
-"que puede que alguien sepa si usted es feliz, triste, o divertirse. Cuando "
-"haces las letras parecen a una cara, se llaman emoticonos."
+"Hay maneras de decir a tus amigos cómo te sientes simplemente utilizando letras - "
+"para que alguien sepa si tu estas feliz, triste, o divertido. Cuando "
+"las letras parecen a una cara, se llaman emoticonos."
 
 # 02cd8c6d091645f7806edaab0cadacab
 #: ../source/chat.rst:117
@@ -452,7 +451,7 @@ msgstr ":("
 # dad54ec945914b4bb977f0b7b74be7ec
 #: ../source/chat.rst:127
 msgid "This is a wink:"
-msgstr "Este es un wink:"
+msgstr "Este es un guiño:"
 
 # 8b2c46e5aea44e2caa18b5a718404758
 #: ../source/chat.rst:129
@@ -463,22 +462,22 @@ msgstr ";)"
 #: ../source/chat.rst:131
 msgid "See if you can find the keys on the keyboard to make the faces"
 msgstr ""
-"Vea si usted puede encontrar las llaves en el teclado para hacer las caras"
+"Vea si puedes encontrar las llaves en el teclado para hacer las caras"
 
 # dcdcaf6438a54e3a8ed4b95aac7150c3
 #: ../source/chat.rst:133
 msgid "The two dots are the colon key : and the semicolon key ;"
-msgstr "Los dos puntos son la clave de colon, y el punto y coma clave;"
+msgstr "Los dos puntos son la tecla :, y el punto y coma la tecla ;"
 
 # 3feedd699b3d453fa4a5c6c7af91a838
 #: ../source/chat.rst:135
 msgid "The mouth are the parentheses keys ()"
-msgstr "La boca son las claves paréntesis ()"
+msgstr "La boca son las teclas paréntesis ()"
 
 # 70f9abbd00e840c0b3d8168222d2a120
 #: ../source/chat.rst:137
 msgid "You can also make faces that go across:"
-msgstr "También puede hacer caras que van a través de:"
+msgstr "También puede hacer caras horizontales:"
 
 # 342b3a93d0a74b5cb62f076e8da1ea3b
 #: ../source/chat.rst:139
@@ -493,7 +492,7 @@ msgstr "(^_^)"
 # f0f08da4359940fb9e242db4d80f814b
 #: ../source/chat.rst:143
 msgid "Sad"
-msgstr "EE.UU."
+msgstr "Triste"
 
 # d1de09fec75d4eef87660bca70bf0e1a
 #: ../source/chat.rst:145
@@ -509,7 +508,7 @@ msgstr "Guiño (^ _ ~)"
 #: ../source/chat.rst:149
 msgid "What other emoticons can you create with text in the Chat Activity?"
 msgstr ""
-"¿Qué otros emoticonos se puede crear con el texto en el chat Actividad?"
+"¿Qué otros emoticonos se puede crear con el texto en la actividad Charlar?"
 
 # 1ddbe2be9b3549c8a0cb724b5f70123d
 #: ../source/chat.rst:151
@@ -519,8 +518,8 @@ msgid ""
 "my XO\" means, \"I love my XO.\""
 msgstr ""
 "¿Puedes dibujar utilizando únicamente los símbolos de texto en el teclado? "
-"Esta combinación de símbolo y número parece un corazón de lado <3. \"I <3 mi"
-" XO\" significa, \"Yo amo a mi XO. \""
+"Esta combinación de símbolo y número parece un corazón de lado <3. \"Yo <3 mi "
+"XO\" significa, \"Yo amo a mi XO. \""
 
 # ba72c37cbdc14a3fa941ee75174a4b76
 #: ../source/chat.rst:154
@@ -530,13 +529,13 @@ msgstr "Hacer amigos"
 # a2dc0d4be7714119a12275f79f6281fc
 #: ../source/chat.rst:156
 msgid ""
-"When you are in the Neighborhood View, if you move the pointer over someone,"
-" you can see their name, and click Make Friends. When you Make Friends, your"
-" new friend appears in your Group View list."
+"When you are in the Neighborhood View, if you move the pointer over someone, "
+"you can see their name, and click Make Friends. When you Make Friends, your "
+"new friend appears in your Group View list."
 msgstr ""
-"Cuando usted está en el Barrio Vista, si mueve el puntero sobre alguien, se "
-"puede ver su nombre, y haga clic en Make Friends. Cuando haces amigos, tu "
-"nuevo amigo aparece en su Grupo Ver lista."
+"Cuando estás en la Vista de Vecindario, si mueves el puntero sobre alguien, se "
+"puede ver su nombre, y hacer clic en \"Agregar amigo\". Cuando haces amigos, tu "
+"nuevo amigo aparece en su Vista de Grupo."
 
 # 6b401ef1bfc34ab88de6a20c04115a16
 #: ../source/chat.rst:158
@@ -544,8 +543,8 @@ msgid ""
 "The Group View list helps you keep a list of your friends online who you "
 "like chatting with."
 msgstr ""
-"La lista Vista de grupo le ayuda a mantener una lista de sus amigos en línea"
-" que te gusta charlar con."
+"La Vista de Grupo te ayuda a mantener una lista de tus amigos en línea "
+"con los que te gusta charlar."
 
 # 862c40422e734bb5a49a9b5a8f35fba3
 #: ../source/chat.rst:161
@@ -559,9 +558,9 @@ msgid ""
 "can choose to open the Chat Activity with the Write Activity instead of the "
 "Chat Activity window."
 msgstr ""
-"Si abre el diario de actividades para abrir el chat en la vista detallada, "
-"se puede optar por abrir el chat Actividad con la escritura de actividad en "
-"lugar de la ventana de chat Actividad."
+"Si abre el diario de actividades para abrir Cahrlar en la vista detallada, "
+"se puede optar por abrir la actividad Charlar con la actividad de escritura en "
+"lugar de con la actividad Charlar."
 
 # a2bafd4eea7a4020be0e778bf1370c9b
 #: ../source/chat.rst:166
@@ -572,24 +571,24 @@ msgstr "Notas para los padres y maestros"
 #: ../source/chat.rst:168
 msgid ""
 "Chat presents a great opportunity engage children in reading and writing. "
-"The natural inclination for children to socialize and express themselves can"
-" be channeled in some of the exercises outlined above. (Some children who "
-"are by their nature shy and reserved, are more confident speaking up in a "
-"chat room.) Chat can be motivating and is an authentic use of language "
-"skills, however, preparation and supervision are recommended."
+"The natural inclination for children to socialize and express themselves can "
+"be channeled in some of the exercises outlined above. (Some children who are "
+"by their nature shy and reserved, are more confident speaking up in a chat "
+"room.) Chat can be motivating and is an authentic use of language skills, "
+"however, preparation and supervision are recommended."
 msgstr ""
-"Chatear presenta una gran oportunidad de involucrar a los niños en la "
+"Charlar presenta una gran oportunidad de involucrar a los niños en la "
 "lectura y la escritura. La inclinación natural de los niños para socializar "
 "y expresarse puede ser canalizada en algunos de los ejercicios descritos "
-"anteriormente. (Algunos niños que son, por su naturaleza tímida y reservada,"
-" tienen más confianza hablando en una sala de chat. ) Chat puede ser "
+"anteriormente. (Algunos niños que son, por su naturaleza tímida y reservada, "
+"tienen más confianza hablando en una sala de chat. ) Charlar puede ser "
 "motivador y es un uso auténtico de las competencias lingüísticas, sin "
 "embargo, se recomienda la preparación y supervisión."
 
 # 117252213d6d4123a3b16a3c53aed990
 #: ../source/chat.rst:170
 msgid "Prepare your children and students:"
-msgstr "Prepare a sus hijos y estudiantes:"
+msgstr "Prepara a tus hijos y estudiantes:"
 
 # 2373873a261a46908471ba5e83b6b601
 #: ../source/chat.rst:172
@@ -603,9 +602,9 @@ msgid ""
 "comfortable with in their oral communication (for example, it's OK to "
 "disagree, but not to be disagreeable)."
 msgstr ""
-"Recuérdales que se cortés y nunca usar lenguaje que no estarían cómodos con "
+"Recuérdales ser corteses y nunca usar lenguaje que no estarían cómodos usando "
 "en su comunicación oral (por ejemplo, que está bien no estar de acuerdo, "
-"pero no para ser desagradable)."
+"pero no ser desagradable)."
 
 # ab262b9925bd47d094bb24ed0576afaf
 #: ../source/chat.rst:175
@@ -618,34 +617,38 @@ msgid ""
 "Some teachers prepare questions in advance. They can paste these questions "
 "into the Chat session from the Clipboard or Write Activity—this helps them "
 "stay on task and keeps the pace of the session lively."
-msgstr "Algunos maestros preparan preguntas por adelantado."
+msgstr "Algunos maestros preparan preguntas por adelantado. Pueden pegar esas "
+"preguntas en la sesion de Charlar desde el portapapeles o la actividad Escribir. "
+"Esto los ayuda a permanecer en la trea y mantener el ritmo de la sesión animado"
 
 # 0e994c7097a848d5b504d1225b4d374a
 #: ../source/chat.rst:179
 msgid ""
-"Limit the number of students participating in the Chat session; more that "
-"10–12 participants makes a session chaotic."
+"Limit the number of students participating in the Chat session; more that 10–"
+"12 participants makes a session chaotic."
 msgstr ""
+"Limita el número de estudiantes participando en una sesión de Charlar; "
+"más de 10 o 12 participantes la hacen caótica."
 
 # 1997886cceeb49e4a15f0bcacbe5cfe5
 #: ../source/chat.rst:180
 msgid "Ask your students to prepare by posing questions in advance."
 msgstr ""
-"Pida a sus estudiantes para preparar haciendo preguntas por adelantado."
+"Pide a tus estudiantes que se preparen haciendo preguntas por adelantado."
 
 # 67fe0f699c6845c2aef84a1dc1640038
 #: ../source/chat.rst:181
 msgid ""
-"As in any classroom discussion, keep the conversation focused on just one or"
-" two topics."
+"As in any classroom discussion, keep the conversation focused on just one or "
+"two topics."
 msgstr ""
 "Al igual que en cualquier discusión en el aula, que la conversación se "
-"centró en sólo uno o dos temas."
+"centre en sólo uno o dos temas."
 
 # a1b3a2bff9304bed9f4c0d4317269e1b
 #: ../source/chat.rst:182
 msgid "IT IS SOMETIME USEFUL TO USE ALL-CAPS TO GET EVERYONE'S ATTENTION."
-msgstr "A veces es útil usar MAYÚSCULAS LLEGAR atención de todos."
+msgstr "A veces es útil usar MAYÚSCULAS para lograr la atención de todos."
 
 # 56bfabcebfde43bd9f3788eddc645981
 #: ../source/chat.rst:185
@@ -655,45 +658,45 @@ msgstr "Las funciones avanzadas"
 # fa0f61c2b24b4c2a8761a44a8aad8f5e
 #: ../source/chat.rst:187
 msgid ""
-"Computers not running Sugar can initiate chat connections to a Sugar user by"
-" running a Jabber (XMPP) client, either with both computers registered on "
-"the same Jabber server or by running a link local XMPP account such as "
-"Empathy with salut or Pidgin with Bonjour."
+"Computers not running Sugar can initiate chat connections to a Sugar user by "
+"running a Jabber (XMPP) client, either with both computers registered on the "
+"same Jabber server or by running a link local XMPP account such as Empathy "
+"with salut or Pidgin with Bonjour."
 msgstr ""
-"Las computadoras no correr azúcar puede iniciar conexiones de chat a un "
-"usuario azúcar mediante la ejecución de un cliente Jabber (XMPP), o bien con"
-" ambos equipos registrados en el mismo servidor Jabber o ejecutando una "
-"cuenta XMPP enlace local como la empatía con salut o Pidgin con Bonjour."
+"Las computadoras no correr Sugar puede iniciar conexiones de chat a un "
+"usuario Sugar mediante la ejecución de un cliente Jabber (XMPP), o bien con "
+"ambos equipos registrados en el mismo servidor Jabber o ejecutando una "
+"cuenta XMPP con enlace local como Empathy con salut o Pidgin con Bonjour."
 
 # e502ba8c196f43308902dd86faf906cb
 #: ../source/chat.rst:189
 msgid "Here's an example of a buddy list on another non-Sugar computer."
 msgstr ""
-"He aquí un ejemplo de una lista de amigos en otro equipo que no sea azúcar."
+"He aquí un ejemplo de una lista de amigos en otro equipo que no es Sugar."
 
 # 1eb3502fb1d84c81a936dfd7cfb2f75b
 #: ../source/chat.rst:193
 msgid ""
 "When you initiating the chat on a non-Sugar computer using a Jabber client, "
-"an invitation appears on the Sugar computer and the Sugar user can chat with"
-" you as usual except that the colors of the non-Sugar participant's response"
-" lines are gray as shown below."
+"an invitation appears on the Sugar computer and the Sugar user can chat with "
+"you as usual except that the colors of the non-Sugar participant's response "
+"lines are gray as shown below."
 msgstr ""
-"Al iniciar el chat en un ordenador que no sea azúcar utilizando un cliente "
-"Jabber, una invitación aparece en el equipo de Azúcar y el usuario azúcar "
-"puede charlar con usted, como de costumbre, excepto que los colores de las "
-"líneas de respuesta de los participantes no-azúcar son de color gris, como "
+"Al iniciar el chat en un ordenador que no sea Sugar utilizando un cliente "
+"Jabber, una invitación aparece en el equipo de Sugar y el usuario Sugar "
+"puede charlar contigo, como de costumbre, excepto que los colores de las "
+"líneas de respuesta de los participantes no-sugar son de color gris, como "
 "se muestra a continuación."
 
 # 4c49cf9d99c347888df00f5674d20e9a
 #: ../source/chat.rst:197
 msgid "Here's what the non-Sugar computer sees on their Jabber client."
-msgstr "Esto es lo que el equipo no Azúcar ve en su cliente Jabber."
+msgstr "Esto es lo que el equipo no Sugar ve en su cliente Jabber."
 
 # 909d0963e38e4dfea8f022824a040baf
 #: ../source/chat.rst:201
 msgid "And here's the response as seen on the Sugar computer."
-msgstr "Y aquí está la respuesta como se ve en el equipo de Azúcar."
+msgstr "Y aquí está la respuesta como se ve en el equipo de Sugar."
 
 # e63f86b4251b40ac8f0b974519508810
 #: ../source/chat.rst:205
@@ -702,9 +705,9 @@ msgid ""
 "you to chat, don't chat with them unless you know them. It's perfectly okay "
 "to refuse a chat request."
 msgstr ""
-"CHARLAR CON SEGURIDAD: Recuerde, sólo chatear con alguien que usted conoce. "
-"Si alguien le invita a charlar, no charlar con ellos a menos que conozcas. "
-"Está perfectamente bien para rechazar una solicitud de chat."
+"CHARLAR CON SEGURIDAD: Recuerda, sólo chatear con alguien que conoces. "
+"Si alguien te invita a charlar, no charlar con ellos a menos que los conozcas. "
+"Está perfectamente bien rechazar una solicitud de charla."
 
 # 7fd102eb4f7b43bcbcaf5cc343bd33cb
 #: ../source/chat.rst:208
@@ -714,10 +717,10 @@ msgstr "Nota para los padres y maestros"
 # 6f25e74881c14edf9d941aa7201e2bb7
 #: ../source/chat.rst:210
 msgid ""
-"You can use this feature to chat with Sugar-enabled computers from non-"
-"Sugar-enabled computers; hence you can chat with your child or class from a "
+"You can use this feature to chat with Sugar-enabled computers from non-Sugar-"
+"enabled computers; hence you can chat with your child or class from a "
 "conventional desktop or laptop computer."
 msgstr ""
-"Puede utilizar esta función para charlar con los equipos compatibles con el "
-"azúcar de los equipos que no Azúcar habilitados; por lo tanto, se puede "
-"chatear con su hijo o clase desde un escritorio convencional o portátil."
+"Puedes utilizar esta función para charlar con los equipos compatibles "
+"Sugar desde equipos que no tienen Sugar instalado; por lo tanto, se puede "
+"charlar con un hijo o clase desde un escritorio o portátil convencional."
