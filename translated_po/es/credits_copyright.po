@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 20139cf6128540768a11c99479b30cfa
@@ -43,7 +43,7 @@ msgstr "Acerca de este manual"
 #: ../source/credits_copyright.rst:12 ../source/credits_copyright.rst:29
 #: ../source/credits_copyright.rst:67 ../source/credits_copyright.rst:137
 msgid "© Anne Gentle 2008"
-msgstr ""
+msgstr "© Anne Gentle 2008"
 
 # 9687b6d4981d497e9b74488cb9f5fbc5
 # e60dfc70b4e4444282a7fd585f321107
@@ -95,7 +95,7 @@ msgstr "Rob Mason 2008"
 #: ../source/credits_copyright.rst:77 ../source/credits_copyright.rst:147
 #: ../source/credits_copyright.rst:280 ../source/credits_copyright.rst:329
 msgid "Sandy Culver 2008"
-msgstr "Arena Culver 2008"
+msgstr "Sandy Culver 2008"
 
 # 5aef891090d7483f9d447a7a21a50046
 # 0f2cfa9a13ca48a88cbcf5f2eee00142
@@ -130,7 +130,7 @@ msgstr "Acerca de Azúcar"
 # 5645c8cd1e424ace8f5856adde7ecd8f
 #: ../source/credits_copyright.rst:46
 msgid "© Walter Bender 2006, 2008"
-msgstr ""
+msgstr "© Walter Bender 2006, 2008"
 
 # 9dd6a63c29fb44ccb6d36a5bfb04447a
 #: ../source/credits_copyright.rst:48
@@ -171,7 +171,7 @@ msgstr "Janet Swisher 2008"
 # c0b4468e6d044c2b95ed9be890c3419f
 #: ../source/credits_copyright.rst:56
 msgid "Luke Faraone 2008"
-msgstr "Lucas Faraone 2008"
+msgstr "Luke Faraone 2008"
 
 # 4f2be74941a043f3b1abe17da8674820
 #: ../source/credits_copyright.rst:58
@@ -210,7 +210,7 @@ msgstr "Charlar"
 #: ../source/credits_copyright.rst:160 ../source/credits_copyright.rst:192
 #: ../source/credits_copyright.rst:291
 msgid "© Walter Bender 2008"
-msgstr ""
+msgstr "© Walter Bender 2008"
 
 # 891a700be295492b82aea7ecb9da363b
 # c0924d73d08d40f18383d74e1962cc0d
@@ -264,7 +264,7 @@ msgstr "Janis Grinbergs 2008"
 #: ../source/credits_copyright.rst:241 ../source/credits_copyright.rst:284
 #: ../source/credits_copyright.rst:333
 msgid "G Hunt 2012"
-msgstr "G Caza 2012"
+msgstr "G Hunt 2012"
 
 # 7b241fa80bc64975971c9b6b7c02e323
 #: ../source/credits_copyright.rst:112
@@ -274,7 +274,7 @@ msgstr "Empezando"
 # 05b426349e974f17a621990f18fae6c5
 #: ../source/credits_copyright.rst:116
 msgid "© Caryl Bigenho 2008"
-msgstr ""
+msgstr "© Caryl Bigenho 2008"
 
 # 130c908faca64462bc906887ee997b0f
 #: ../source/credits_copyright.rst:126
@@ -312,12 +312,12 @@ msgstr "Caryl Bigenho 2008"
 # 18cd055241934b569df89eb8782988d8
 #: ../source/credits_copyright.rst:149 ../source/credits_copyright.rst:217
 msgid "S Page 2008"
-msgstr "S Página 2008"
+msgstr "S Page 2008"
 
 # 3e814bedfd9b4bcebdc897dcd073f461
 #: ../source/credits_copyright.rst:156
 msgid "Home View"
-msgstr "Inicio Ver"
+msgstr "Vista Inicio"
 
 # ac930078131d491497a6fab493842ed5
 #: ../source/credits_copyright.rst:173
@@ -333,7 +333,7 @@ msgstr ""
 # a28b7829bc424dcf837466025047ee0a
 #: ../source/credits_copyright.rst:188
 msgid "Neighborhood View"
-msgstr "Barrio Vista"
+msgstr "Vista Vecindario"
 
 # ec46dd7b54e74bf8a6dff4f9e9974c78
 #: ../source/credits_copyright.rst:202
@@ -343,7 +343,7 @@ msgstr "Morgan Collett 2008"
 # 2e908cd64c12489a8a1637b6cb409fc1
 #: ../source/credits_copyright.rst:205
 msgid "Opening the XO"
-msgstr "La apertura de la XO"
+msgstr "Abriendo la XO"
 
 # 36d8df4cdd554ad1a69ce3511401ed71
 # c1af4895722a4ebc9184d63141207189
@@ -366,7 +366,7 @@ msgstr "Características físicas"
 # 9a05ff02d2d8480c88b7916b7c5d9d54
 #: ../source/credits_copyright.rst:244
 msgid "Record"
-msgstr "Registro"
+msgstr "Grabar"
 
 # 12295b4aa7b843379638c1ed19713981
 #: ../source/credits_copyright.rst:248
@@ -411,7 +411,7 @@ msgstr "Wadeb"
 # d31511bb6b134d1a97526a06f61c5580
 #: ../source/credits_copyright.rst:312
 msgid "Activity Team"
-msgstr "Actividad Equipo"
+msgstr "Equipo de actividades"
 
 # c3c8d4782541466eaf4fb39b21ad2849
 #: ../source/credits_copyright.rst:315
