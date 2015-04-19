@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 2e46ea2e57b9404c91aa61279673a9e1
@@ -39,7 +39,7 @@ msgid ""
 "Calculate will be quite familiar."
 msgstr ""
 "Para aquellos que han utilizado una calculadora científica, la mayoría de "
-"las funciones de Calcular será muy familiar."
+"las funciones de Calcular serán muy familiares."
 
 # 10c47e6de75649d3b307e57a48e7ae18
 #: ../source/calculate.rst:15
@@ -52,7 +52,7 @@ msgid ""
 "Activity, Calculate icon: Name session, Journal entry description, "
 "collaborate"
 msgstr ""
-"Actividad, Calcular icono: Sesión Nombre, Diario descripción de la entrada, "
+"Actividad, icono Calcular: Nombre de Sesión, descripción de la entrada en el Diario, "
 "colaborar"
 
 # 6a21415f1ba649edb6dbc9e90dbe2d1a
@@ -66,22 +66,22 @@ msgid ""
 "Functions, {x}: Square, square root, reciprocal, exponential, power, "
 "logarithm, factorial"
 msgstr ""
-"Funciones, {x}: Cuadrado, Raíz cuadrada, recíproco, exponencial, poder, "
+"Funciones, {x}: Cuadrado, Raíz cuadrada, recíproca, exponencial, potencia, "
 "logaritmo, factorial"
 
 # 850048deafe54eb6b2a41e912358b2da
 #: ../source/calculate.rst:23
 msgid ""
-"Trigonometry, triangle icon: sin, cos, tan, sin-1, cos-1, tan-1, sinh, cosh,"
-" tanh"
+"Trigonometry, triangle icon: sin, cos, tan, sin-1, cos-1, tan-1, sinh, cosh, "
+"tanh"
 msgstr ""
-"Trigonometría, icono triángulo: sin, cos, tan, sin-1, cos-1, tan-1, senh, "
-"cosh, tanh"
+"Trigonometría, icono triángulo: seno, coseno, tangente, arcoseno, arcocoseno, arcotangente, seno hiperbólico, "
+"coseno hiperbólico, tangente hiperbólica"
 
 # b0f24499eb114bb0a00c621ab8b508cc
 #: ../source/calculate.rst:25
 msgid "Boolean, Venn diagram icon: and, or, =, !="
-msgstr "Boole, icono diagrama de Venn: y, o, =, =!"
+msgstr "Booleanos, icono diagrama de Venn: y, o, =, =!"
 
 # 3d0f2cd050a743f3b9373efe8a426b14
 #: ../source/calculate.rst:27
@@ -91,17 +91,17 @@ msgstr "Constantes, letras griegas icono: pi, e, gamma, phi"
 # 790bf9ffc1014ea5a0c0a5fd5fd441ac
 #: ../source/calculate.rst:29
 msgid "Plot: Hover menu offers Help"
-msgstr "Terreno: menú Hover ofrece Ayuda"
+msgstr "Graficos: menú ofrece Ayuda"
 
 # 5156c0e739aa4be7a03f0fbcabbc7053
 #: ../source/calculate.rst:31
 msgid "Degrees/Radian angle measure"
-msgstr "Grados / medida de ángulo en radianes"
+msgstr "Grados/Radianes para la medida de ángulos"
 
 # 73130149c51540bc8b9f80dedeb1e7fc
 #: ../source/calculate.rst:33
 msgid "Scientific/Engineering notation"
-msgstr "Científico notación / Ingeniería"
+msgstr "Notación Científico / Ingeniería"
 
 # ebff0b781dbd4e879eb3a45d7663cda1
 #: ../source/calculate.rst:35
@@ -111,27 +111,27 @@ msgstr "Número de dígitos a mostrar: 6, 9, 12, 15"
 # 52eb927a4bf04a4ab5ee0001d6b2e54f
 #: ../source/calculate.rst:37
 msgid "Base: Decimal, binary, octal, hex"
-msgstr "Base: decimal, binario, octal, hexadecimal"
+msgstr "Base: decimal, binaria, octal, hexadecimal"
 
 # 5b7689a0c9ae4885bb7dfdf2f1bceded
 #: ../source/calculate.rst:39
 msgid "Exit"
-msgstr "Salida"
+msgstr "Salir"
 
 # eb915323a1354b539fca76f1b59e104b
 #: ../source/calculate.rst:42
 msgid "Getting help"
-msgstr "Obtener ayuda"
+msgstr "Obteniendo ayuda"
 
 # ae392b5add984bf59d8af4a03a6a1a87
 #: ../source/calculate.rst:44
 msgid "To see a help option for plot, enter the command"
-msgstr "Para ver una opción de ayuda para la trama, entre el mandato"
+msgstr "Para ver una opción de ayuda para gráficas, entre el mandato"
 
 # 3890deaadb574488aacd8041f616dd4b
 #: ../source/calculate.rst:46
 msgid "``help(plot)``"
-msgstr "`` Ayuda (parcela) ``"
+msgstr "``help(plot)``"
 
 # f54b908234bd4e729ef5075d386dfed7
 #: ../source/calculate.rst:48
@@ -146,7 +146,7 @@ msgstr "La función de ayuda general es"
 # 4a670eed65b3496baabae8e6a10c8d23
 #: ../source/calculate.rst:52
 msgid "``help()``"
-msgstr "`` Help () ``"
+msgstr "``help()``"
 
 # 99e83d16073c45fd910f499146d74a50
 #: ../source/calculate.rst:54
@@ -156,7 +156,7 @@ msgstr "La lista de temas de ayuda está disponible con el comando"
 # 8d84959824cd4032b3a1fb6b69c70ebc
 #: ../source/calculate.rst:56
 msgid "``help(index)``"
-msgstr "`` Ayuda (índice) ``"
+msgstr "``help(index)``"
 
 # b0bf6ecf35f64a45a97f051075a1e439
 #: ../source/calculate.rst:58
@@ -167,6 +167,6 @@ msgid ""
 "their numeric values."
 msgstr ""
 "incluyendo temas que no son compatibles en los menús. La ayuda no se "
-"proporciona la pi constantes, e, gamma (Euler-Mascheroni constante) y phi "
+"proporciona para las constantes pi, e, gamma (Euler-Mascheroni constante) y phi "
 "(Golden Ratio), pero éstas se puede consultar en Internet. Al hacer clic en "
 "sus iconos inserta sus valores numéricos."
