@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 5603d01d6214455fbaeb6ce5d224045f
@@ -28,18 +28,18 @@ msgid ""
 "A primary goal of the Sugar learning platform is enabling students to learn "
 "and work together."
 msgstr ""
-"Un objetivo principal de la plataforma de aprendizaje de Azúcar está "
-"permitiendo a los estudiantes a aprender y trabajar juntos."
+"Un objetivo principal de la plataforma de aprendizaje de Sugar es "
+"permitir a los estudiantes a aprender y trabajar juntos."
 
 # b116eddccd9b4ab7994bb7fc0bfe6ff0
 #: ../source/getting_connected.rst:7
 msgid ""
-"In a wireless environment, an access point (AP) is a device that allows your"
-" computer to connect to an existing set of communicating devices. The access"
-" point usually has a direct connection to the internet, and can relay data "
+"In a wireless environment, an access point (AP) is a device that allows your "
+"computer to connect to an existing set of communicating devices. The access "
+"point usually has a direct connection to the internet, and can relay data "
 "between the wireless devices and the devices it can access."
 msgstr ""
-"En un entorno inalámbrico, punto de acceso (AP) es un dispositivo que "
+"En un entorno inalámbrico, un punto de acceso (AP) es un dispositivo que "
 "permite al ordenador conectarse a un conjunto existente de dispositivos que "
 "se comunican. El punto de acceso tiene generalmente una conexión directa a "
 "la Internet, y puede transmitir datos entre los dispositivos inalámbricos y "
@@ -48,7 +48,7 @@ msgstr ""
 # cea5552e06884862852db621b6532582
 #: ../source/getting_connected.rst:10
 msgid "Multiple ways to connect to others"
-msgstr "Múltiples formas de conectarse a otros"
+msgstr "Múltiples formas de conectarse con otros"
 
 # 0d5e4daec5bd4e2ab66855de5255acd5
 #: ../source/getting_connected.rst:12
@@ -58,19 +58,20 @@ msgstr "punto de acceso inalámbrico (WiFi hotspot);"
 # 70ce8b1576e64327a7596175e8563d17
 #: ../source/getting_connected.rst:13
 msgid "wired network—may require an external adapter;"
-msgstr ""
+msgstr "conexión cableada (puede requerir un adaptdor externo);"
 
 # c242f97a558f49af931f52e44c0b6961
 #: ../source/getting_connected.rst:14
 msgid "OLPC “School Server” mesh network;"
-msgstr ""
+msgstr "“Servidor escolar“ OLPC red de malla (mesh);"
 
 # 0deec969f348453ebcc84763ff6bf36f
 #: ../source/getting_connected.rst:15
 msgid ""
 "OLPC “simple” mesh network, which lets you collaborate directly with other "
 "Sugar users."
-msgstr ""
+msgstr "Red de malla OLPC “simple“, que permite colaborar directamente con "
+"otros usuarios Sugar."
 
 # af8fedcb3cad433f88b489d304a80dbe
 #: ../source/getting_connected.rst:18
@@ -83,18 +84,18 @@ msgid ""
 "You can connect from the Neighborhood View. You can see information about "
 "the connection on the Frame."
 msgstr ""
-"Puede conectarse desde el Barrio Vista. Se puede ver información sobre la "
-"conexión de la Armadura."
+"Puedes conectarte desde la Vista Vecindario. Se puede ver información sobre la "
+"conexión de el Marco."
 
 # e20e61c3090846fbae1d3fef71126423
 #: ../source/getting_connected.rst:22
 msgid "**Step 1: Go to the Neighborhood View**"
-msgstr "** Paso 1: Vaya a la vista de Vecindario **"
+msgstr "**Paso 1: Ve a la vista de Vecindario**"
 
 # 3bc5780d727e4e81a63b3d474062c5bd
 #: ../source/getting_connected.rst:26
 msgid "Go to the Neighborhood View to connect to an access point."
-msgstr "Vaya a la vista de Vecindario para conectarse a un punto de acceso."
+msgstr "Ve a la vista de Vecindario para conectarte a un punto de acceso."
 
 # dc396b48537c46099dbc8e8a84e9285c
 #: ../source/getting_connected.rst:28
@@ -102,38 +103,38 @@ msgid ""
 "Tip: To access the Neighborhood View, click on the Neighborhood Icon on the "
 "Frame or by pressing the F1 key."
 msgstr ""
-"Sugerencia: Para acceder a la vista de Vecindario, haga clic en el icono "
-"Entorno de la Armadura o pulsando la tecla F1."
+"Sugerencia: Para acceder a la vista de Vecindario, haz clic en el icono "
+"Vecindario en el Marco o pulsa la tecla F1."
 
 # 17fbe1947a8e42dcb4a15e911cebd8ce
 #: ../source/getting_connected.rst:30
 msgid "**Step 2: Choose an access point**"
-msgstr "** Paso 2: Elija un punto de acceso **"
+msgstr "**Paso 2: Elije un punto de acceso**"
 
 # 60cbad098bb44149a343d28bf03147de
 #: ../source/getting_connected.rst:34
 msgid ""
 "Networks (access points) are represented by circles on the Neighborhood "
 "View. Hover over a circle to see more information about an access point. An "
-"access point is identified by the name (ESSID) it broadcasts. An OLPC laptop"
-" mesh-point—represented by a series of concentric circles—is identified by "
-"its channel number (1, 6, or 11). You can also search for an access point by"
-" name in the search bar at the top of the page."
+"access point is identified by the name (ESSID) it broadcasts. An OLPC laptop "
+"mesh-point—represented by a series of concentric circles—is identified by "
+"its channel number (1, 6, or 11). You can also search for an access point by "
+"name in the search bar at the top of the page."
 msgstr ""
-"Redes (puntos de acceso) están representados por círculos en el Barrio "
-"Vista. Pase el ratón sobre un círculo para ver más información acerca de un "
+"Las Redes (puntos de acceso) están representados por círculos en la Vista "
+"Vecindario. Pasa el ratón sobre un círculo para ver más información acerca de un "
 "punto de acceso. Un punto de acceso es identificado por el nombre (ESSID) "
-"difunde. También puede buscar un punto de acceso por su nombre en la barra "
-"de búsqueda en la parte superior de la página."
+"que transmite. También puedes buscar un punto de acceso por su nombre en la barra "
+"de búsqueda en la parte superior de la pantalla."
 
 # c63cdaeea36f468291df32c81b8b864d
 #: ../source/getting_connected.rst:36
 msgid ""
-"Note: If an access point is not broadcasting its name, the Neighborhood View"
-" may show that AP with some other name."
+"Note: If an access point is not broadcasting its name, the Neighborhood View "
+"may show that AP with some other name."
 msgstr ""
-"Nota: Si un punto de acceso no está transmitiendo su nombre, el Barrio Vista"
-" puede mostrar que AP con algún otro nombre."
+"Nota: Si un punto de acceso no está transmitiendo su nombre, la Vista Vecindario "
+"puede mostrar ese AP con algún otro nombre."
 
 # 251e3c131d374a709eb12528e2d4d53d
 #: ../source/getting_connected.rst:38
@@ -144,16 +145,16 @@ msgid ""
 "star icon identifies access points that have been previously used "
 "(favorites)."
 msgstr ""
-"Intensidad de la señal se indica mediante el nivel de llenado del círculo. "
+"La intensidad de la señal se indica mediante el nivel de llenado del círculo. "
 "El color del círculo se basa en el nombre del punto de acceso. Un icono de "
 "candado identifica las redes que están protegidos y requieren una clave "
-"(contraseña) para utilizar. Un icono de la estrella identifica los puntos de"
-" acceso que se han utilizado anteriormente (favoritos)."
+"(contraseña) para utilizarlas. Un icono de la estrella identifica los puntos de "
+"acceso que se han utilizado anteriormente (favoritos)."
 
 # 607370d5009f4a05894d064654d50155
 #: ../source/getting_connected.rst:40
 msgid "**Step 3: Activate a connection**"
-msgstr "** Paso 3: Activar una conexión **"
+msgstr "**Paso 3: Activar una conexión**"
 
 # 0744e3285f444de596c8f7ae00667d14
 #: ../source/getting_connected.rst:42
@@ -162,9 +163,9 @@ msgid ""
 "corresponds to your chosen access point (or click on the Connect option in "
 "the hover menu)."
 msgstr ""
-"Para activar una conexión de red, haga clic una vez en el interior del "
-"círculo que corresponde a su punto de acceso elegido (o haga clic en la "
-"opción Conectar en el menú de flotar)."
+"Para activar una conexión de red, haz clic una vez en el interior del "
+"círculo que corresponde al punto de acceso elegido (o haz clic en la "
+"opción Conectar en el menú flotante)."
 
 # 1fb71529c1b645b799e5ac8626d48afb
 #: ../source/getting_connected.rst:44
@@ -190,20 +191,20 @@ msgid ""
 "from the pull-down menu that is presented."
 msgstr ""
 "Si el punto de acceso está asegurado y requiere una clave, un cuadro de "
-"diálogo le solicitará la información necesaria. Diferentes puntos de acceso "
-"pueden requerir diferentes tipos de llaves. Antes de introducir la clave, "
-"asegúrese de seleccionar el tipo correcto en el menú desplegable que se "
+"diálogo te solicitará la información necesaria. Diferentes puntos de acceso "
+"pueden requerir diferentes tipos de claves. Antes de introducir la clave, "
+"asegúrate de seleccionar el tipo correcto en el menú desplegable que se "
 "presenta."
 
 # 059a4d9dfff84e6f8a2da9efdde78717
 #: ../source/getting_connected.rst:48
 msgid "**Step 4: Checking the connection**"
-msgstr "** Paso 4: Comprobación de la conexión **"
+msgstr "**Paso 4: Comprobación de la conexión**"
 
 # 9203af8084214616b7e219d2439d23fc
 #: ../source/getting_connected.rst:52
 msgid "The connection status is detailed in a hover menu."
-msgstr "El estado de la conexión se detalla en un menú activable."
+msgstr "El estado de la conexión se detalla en un menú flotante."
 
 # 572b2646c9a04fbcaae969ce5ae0ceb8
 #: ../source/getting_connected.rst:56
@@ -212,9 +213,9 @@ msgid ""
 "By hovering over the circle icon, you will find details about your "
 "connection status in a hover menu. OLPC deployments"
 msgstr ""
-"Puede comprobar el estado de la conexión de la Armadura (desde cualquier "
-"punto de vista). El ratón encima del icono del círculo, encontrará detalles "
-"sobre su estado de conexión en un menú activable. Despliegues OLPC"
+"Puedes comprobar el estado de la conexión de el Marco (desde cualquier "
+"vista). Poniendo el ratón encima del icono del círculo, encontrarás detalles "
+"sobre tu estado de conexión en un menú activable."
 
 # 8ae74bdd8ab643109e996f4a0161e41d
 #: ../source/getting_connected.rst:58
@@ -225,9 +226,9 @@ msgid ""
 "provides web and chat services."
 msgstr ""
 "OLPC ha diseñado una red de malla que permite a las computadoras portátiles "
-"XO para comunicarse sin la presencia de Internet y un servidor de la Escuela"
-" como un medio para hacer su conectividad de red escolar más eficiente. El "
-"servidor de la Escuela también ofrece servicios web y chat."
+"XO comunicarse sin la presencia de Internet y un servidor de la Escuela "
+"como un medio para hacer su conectividad de red escolar más eficiente. El "
+"servidor de la Escuela también ofrece servicios de web y chat."
 
 # 8b1da3b0f3544e61ad0d8a2cc9d49bbd
 #: ../source/getting_connected.rst:61
@@ -244,10 +245,10 @@ msgid ""
 "are OLPC XOs, or an access point."
 msgstr ""
 "La colaboración entre los alumnos es una de las características más "
-"importantes de Azúcar. Para permitir la colaboración en un salón de clases o"
-" en el hogar, es necesario establecer el mismo tipo de conexión para cada "
-"equipo. Las computadoras pueden ser conectados a través de un servidor de "
-"School, una malla sencilla si son XO de OLPC, o un punto de acceso."
+"importantes de Sugar. Para permitir la colaboración en un salón de clases o "
+"en el hogar, es necesario establecer el mismo tipo de conexión para cada "
+"equipo. Las computadoras pueden ser conectados a través de un servidor "
+"escolar, una malla sencilla si son XO de OLPC, o un punto de acceso."
 
 # 20a95e4ab41d4d8db9b0be9491124965
 #: ../source/getting_connected.rst:65
@@ -258,9 +259,9 @@ msgid ""
 "regarding the configuration of Jabber."
 msgstr ""
 "Cuando se utiliza un punto de acceso para la conexión, los equipos deben "
-"utilizar el mismo servidor de Jabber para colaborar. Por favor refiérase a "
-"la discusión del Panel de control de azúcar en el capítulo Personalizar "
-"azúcar para obtener más información sobre la configuración de Jabber."
+"utilizar el mismo servidor Jabber para colaborar. Por favor refiérase a "
+"la discusión del Panel de control de Sugar en el capítulo Personalizar "
+"Sugar para obtener más información sobre la configuración de Jabber."
 
 # 587088c344ba446390c5ce77320fa191
 #: ../source/getting_connected.rst:68
@@ -270,7 +271,7 @@ msgstr "Sugerencias adicionales"
 # d1cb67cf3fb34bd38af41fbe3608eda8
 #: ../source/getting_connected.rst:72
 msgid "You make your connection from the Neighborhood View."
-msgstr "Usted hace su conexión desde el Barrio Vista."
+msgstr "Tu creas tu conexión desde la Vista Vecindario."
 
 # 81847c0e9748433f91756e9b5d986411
 #: ../source/getting_connected.rst:76
@@ -280,8 +281,10 @@ msgid ""
 "disconnect, select “Disconnect” from the hover menu that appears in either "
 "of the network status menus (See Step 4 above)."
 msgstr ""
-"Su estado de conexión actual se muestra en el Marco. Además, el menú "
-"activable indicará \"Conectado\"."
+"Tu estado de conexión actual se muestra en el Marco. Además, el menú "
+"activable indicará \"Conectado\". Algunas veces toma 2 o 3 intentos para conectar. "
+"Para desconectar, selecciona ”Desconectar” en el menú flotante que aparece "
+"en los menúes de estado de la red (ve paso 4 previamente)"
 
 # d90678a6339745b88b9d47f0a286d0d6
 #: ../source/getting_connected.rst:80
@@ -295,13 +298,13 @@ msgstr ""
 # b3479fdd971d4641b4bd533f46f5217e
 #: ../source/getting_connected.rst:84
 msgid ""
-"Access points that require keys have a lock icon. The color of the circle is"
-" calculated from the ESSID of the access point. The name of the access point"
-" is displayed when you hover over it."
+"Access points that require keys have a lock icon. The color of the circle is "
+"calculated from the ESSID of the access point. The name of the access point "
+"is displayed when you hover over it."
 msgstr ""
-"Los puntos de acceso que requieren teclas tienen un icono de bloqueo. El "
+"Los puntos de acceso que requieren claves tienen un icono de candado. El "
 "color del círculo se calcula desde el ESSID del punto de acceso. El nombre "
-"del punto de acceso se muestra cuando se pasa sobre ella."
+"del punto de acceso se muestra cuando se pasa sobre el."
 
 # 9c44d2b91eb845828682d6166b5cae49
 #: ../source/getting_connected.rst:88
@@ -322,11 +325,14 @@ msgid ""
 "network, enabling you to collaborate with others in the mesh, but not "
 "necessarily to access the Internet."
 msgstr ""
-"Si está utilizando una computadora de OLPC XO, malla puntos están "
+"Si estás utilizando una computadora de OLPC XO, puntos malla están "
 "representados por una serie de círculos concéntricos. El color de un punto "
-"de malla es igual que su color XO."
+"de malla es igual que su color XO. Si tu XO tiene la malla habilitada "
+"y tu no estas conectado a un AP, te conectrás automaticamente a una red de malla "
+"simple, habilitandote a colaborar con otros en la red de malla, pero no "
+"necesariamente a acceder a Internet"
 
 # 07482ed3d2c04f5db01645136e21c2d2
 #: ../source/getting_connected.rst:96
 msgid "You are prompted if the access point requires a key."
-msgstr "Se le pedirá si el punto de acceso requiere una clave."
+msgstr "Se te pedirá si el punto de acceso requiere una clave."
