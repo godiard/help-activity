@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 97c2f92652f04175972e7f0edbeef40f
@@ -28,7 +28,7 @@ msgid ""
 "The Group View shows you, your friends and allows you to easily interact "
 "with them."
 msgstr ""
-"La vista de grupo muestra, sus amigos y le permite interactuar fácilmente "
+"La vista de grupo muestra, tus amigos y te permite interactuar fácilmente "
 "con ellos."
 
 # 35bd0921309d42908ba1979013609089
@@ -42,8 +42,8 @@ msgid ""
 "To show the Group View, click the Group icon on the Frame or press the F2 "
 "key."
 msgstr ""
-"Para mostrar la vista de grupo, haga clic en el icono de grupo en el Marco o"
-" presione la tecla F2."
+"Para mostrar la vista de grupo, haz clic en el icono de grupo en el Marco o "
+"presione la tecla F2."
 
 # 54ba82722a434dc3b1e756c5d32aff81
 #: ../source/group_view.rst:16
@@ -51,18 +51,18 @@ msgid ""
 "The Group View shows you and your friends. XO icons that are dimmed "
 "represent friends who are currently offline."
 msgstr ""
-"La vista de grupo que usted y sus amigos muestra. Iconos XO que están "
-"atenuadas representan amigos que están actualmente fuera de línea."
+"La vista de grupo te muestra a ti y tus amigos. Iconos XO que están "
+"atenuados (grises) representan amigos que están actualmente fuera de línea."
 
 # e653d7498cf34dcfb6d5077a560276dd
 #: ../source/group_view.rst:19
 msgid "Adding a friend"
-msgstr "Adición de un amigo"
+msgstr "Agregando un amigo"
 
 # d0eea092e86b4a3094ef7602f18090ec
 #: ../source/group_view.rst:21
 msgid "You add friends to the Group View from the Neighborhood View."
-msgstr "Para agregar amigos a la vista de grupo desde el Barrio Vista."
+msgstr "Agregas amigos a la vista de grupo desde la Vista Vecindario."
 
 # e46a5451962f460792035af2f7995e13
 #: ../source/group_view.rst:25
@@ -70,13 +70,13 @@ msgid ""
 "When you hover over an XO icon, the Make friend menu option appears. Click "
 "this option to add that person as a friend."
 msgstr ""
-"Al pasar sobre un icono XO, aparece la opción de menú amigo Make. Haga clic "
+"Al pasar sobre un icono XO, aparece la opción de menú 'Agregar amigo'. Haz clic "
 "en esta opción para agregar a esa persona como un amigo."
 
 # a1d873923d5e424f9505e07d570168fb
 #: ../source/group_view.rst:29
 msgid "Your new friend's icon then appears in the Group View."
-msgstr "Icono de su nuevo amigo y luego aparece en la vista de grupo."
+msgstr "El ícono de tu nuevo amigo luego aparece en la vista de grupo."
 
 # 86e2109a898241a684295c9b4588028c
 #: ../source/group_view.rst:32
@@ -90,14 +90,14 @@ msgid ""
 "Activity. There is more information about invitations and sharing in the "
 "Collaborating chapter."
 msgstr ""
-"En el menú de la libración, también puede invitar a amigos a unirse a su "
+"En el menú flotante, también puedes invitar a amigos a unirse a tu "
 "actividad actual. Hay más información acerca de las invitaciones y el "
 "intercambio en el capítulo de Colaboración."
 
 # 490026fc2b564140a94c0f5da290c8c2
 #: ../source/group_view.rst:39
 msgid "Removing a friend"
-msgstr "Extracción de un amigo"
+msgstr "Quitando un amigo"
 
 # 795e09f3b7d54b85a427d1635f069546
 #: ../source/group_view.rst:43
@@ -105,6 +105,6 @@ msgid ""
 "You can remove a friend from the Group View using the hover menu. Click "
 "Remove friend. That person's icon disappears from the Group View."
 msgstr ""
-"Puede eliminar un amigo de la vista de grupo utilizando el menú activable. "
-"Haga clic en Eliminar amigo. Icono de esa persona desaparece de la vista de "
+"Puedes eliminar un amigo de la vista de grupo utilizando el menú flotante. "
+"Haz clic en Remover amigo. El ícono de esa persona desaparece de la vista de "
 "grupo."
