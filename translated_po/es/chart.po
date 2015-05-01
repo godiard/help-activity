@@ -20,7 +20,7 @@ msgstr ""
 # 442c822628714bd896de80486ca9a7ce
 #: ../source/chart.rst:3
 msgid "Chart"
-msgstr "Tabla"
+msgstr "Graficar"
 
 # fd99b02d424248da9edcdfdf98761e1f
 #: ../source/chart.rst:6
@@ -34,15 +34,14 @@ msgid ""
 "data, in the form \"label: value\". It can draw Horizontal/Vertical bar "
 "charts, line charts and pie charts."
 msgstr ""
-"| Chart_icon | Gráfico le permite hacer una representación gráfica de los "
-"datos tabulares simples, en la forma \"etiqueta: valor\". Se gráficos de "
-"barras horizontales / verticales, gráficos de líneas y gráficos circulares "
-"puede dibujar."
+"|Chart_icon| Graficar te permite hacer una representación gráfica de los "
+"datos tabulados simples, en la forma \"etiqueta: valor\". Puede hacer gráficos de "
+"barras horizontales/verticales, gráficos de líneas y gráficos de torta."
 
 # a05e5400d7e14094a171a5878901ffd2
 #: ../source/chart.rst:21
 msgid "Using chart"
-msgstr "Utilizando la carta"
+msgstr "Utilizando Graficar"
 
 # 639736baf2174d4ab513b3614ce48012
 #: ../source/chart.rst:24
@@ -52,17 +51,17 @@ msgstr "Uso Básico"
 # f798e13a93074482aa02f9912e9b6b34
 #: ../source/chart.rst:26
 msgid "First you need to add data to create the graph"
-msgstr "En primer lugar es necesario agregar datos para crear la gráfica"
+msgstr "En primer lugar necesitas agregar datos para crear la gráfica"
 
 # 73e5e6c3d0b74c668d0a20516fa2b680
 #: ../source/chart.rst:28
 msgid "You can add data with |add_icon| button"
-msgstr "Puede agregar datos con | add_icon botón |"
+msgstr "Puedes agregar datos con el botón |add_icon|"
 
 # 10fedd8dfa9244708b1720d534139cff
 #: ../source/chart.rst:32
 msgid "... or remove data wih |remove_icon| button"
-msgstr ". . . o eliminar wih datos | remove_icon botón |"
+msgstr ". . . o eliminar datos con el botón |remove_icon|"
 
 # f6156ec4be5b4d17bfdf7c998b3d1988
 #: ../source/chart.rst:36
@@ -73,32 +72,32 @@ msgstr ""
 # 81969371c0124cd2a66733fda874932c
 #: ../source/chart.rst:38
 msgid "Next, you can change the type of the graph"
-msgstr "A continuación, puede cambiar el tipo de gráfico"
+msgstr "A continuación, puedes cambiar el tipo de gráfico"
 
 # 41e2a7f32a5b496e9c6366eec0cc3b22
 #: ../source/chart.rst:40
 msgid "Vertical Bars |ver_icon|"
-msgstr "Las barras verticales | ver_icon |"
+msgstr "Las barras verticales |ver_icon|"
 
 # 34a2a6c6e99343a7bf9d753b59a47d02
 #: ../source/chart.rst:44
 msgid "Horizontal Bars |hor_icon|"
-msgstr "Barras horizontales | hor_icon |"
+msgstr "Barras horizontales |hor_icon|"
 
 # a705a1d6774b431c880414aa541f772a
 #: ../source/chart.rst:48
 msgid "Lines |line_icon|"
-msgstr "Líneas | line_icon |"
+msgstr "Líneas |line_icon|"
 
 # c5933499e058493283f36ffe521ae011
 #: ../source/chart.rst:52
 msgid "Pie |pie_icon|"
-msgstr "Para | pie_icon |"
+msgstr "Tarta |pie_icon|"
 
 # 03336f323bd54a14943873f421ec34d6
 #: ../source/chart.rst:58
 msgid "Configs"
-msgstr "Configs"
+msgstr "Configuraciones"
 
 # 44a8153ca1b94f35871e7338413f9f43
 #: ../source/chart.rst:60
@@ -106,8 +105,8 @@ msgid ""
 "You can change the colors or the horizontal and vertical labels in the "
 "configs toolbar |set_icon|"
 msgstr ""
-"Usted puede cambiar los colores o las etiquetas horizontales y verticales en"
-" la barra de herramientas de configuraciones | set_icon |"
+"Puedes cambiar los colores o las etiquetas horizontales y verticales en"
+" la barra de herramientas de configuraciones |set_icon|"
 
 # 56f69cfeac0a4933b08a6240e9bf56a1
 #: ../source/chart.rst:66
@@ -120,8 +119,8 @@ msgid ""
 "To enter full screen mode press ``Alt+Return`` or click the "
 "|FullScreen_Icon| Icon."
 msgstr ""
-"Para entrar en el modo de pantalla completa pulse `` Alt + Return`` o haga "
-"clic en el | FullScreen_Icon | Icono."
+"Para entrar en el modo de pantalla completa presiona ``Alt + Return`` o haz "
+"clic en el ícono |FullScreen_Icon|."
 
 # 8224726735ef4751ae60a010a9e3b7b4
 #: ../source/chart.rst:74
@@ -134,8 +133,8 @@ msgid ""
 "`Activity page in our activities portal <http://activities.sugarlabs.org/en-"
 "US/sugar/addon/4534>`_"
 msgstr ""
-"`Página Actividad en nuestro portal de actividades <http: // actividades. "
-"sugarlabs. org / en-US / azúcar / addon / 4534> `_"
+"`Página de la Actividad en nuestro portal de actividades <http://activities.sugarlabs.org/en-"
+"US/sugar/addon/4534>`_"
 
 # 72c3a6e420d14fe98df69aed5cc446de
 #: ../source/chart.rst:79
@@ -145,13 +144,13 @@ msgstr "Desarrollo"
 # db428bb98e804d699ddfff7d192c3fb3
 #: ../source/chart.rst:81
 msgid "`Git Repository <http://git.sugarlabs.org//simplegraph>`_"
-msgstr "`Go Repositorio <http: // Go. sugarlabs. org // simplegraph> `_"
+msgstr "`Repositorio git <http://git.sugarlabs.org//simplegraph>`_"
 
 # 50b2199d99ba45a49937d3acd9648640
 #: ../source/chart.rst:83
 msgid "Chart uses `PyCHA library <https://bitbucket.org/lgs/pycha>`_"
 msgstr ""
-"Gráfico utiliza `biblioteca Pycha <https: // bitbucket. org / lgs / orgullo>"
+"Graficar utiliza `PyCHA library <https://bitbucket.org/lgs/pycha>"
 " `_"
 
 # 08dd0381afb447eab1d5487e6f53f687
@@ -163,12 +162,12 @@ msgstr "Ideas para futuras versiones"
 #: ../source/chart.rst:88
 msgid "Show a help tutorial when activity is started from scratch"
 msgstr ""
-"Mostrar una ayuda tutorial cuando se inicie la actividad a partir de cero"
+"Muestra una ayuda tutorial cuando se inicia la actividad a partir de cero"
 
 # 4b330b493e2b40b0abbc3531d1d09f3b
 #: ../source/chart.rst:90
 msgid "Share, edit the data with your friends"
-msgstr "Compartir, editar los datos con tus amigos"
+msgstr "Comparte, edita los datos con tus amigos"
 
 # 2d3410a703534f6fb1b9ec58ea79cd40
 #: ../source/chart.rst:93
@@ -178,17 +177,17 @@ msgstr "Apoyo"
 # f67e3fc4e7144d199e914a1e33f256ed
 #: ../source/chart.rst:94
 msgid "Support for this activity is provided by the developer"
-msgstr "El apoyo a esta actividad es proporcionada por el desarrollador"
+msgstr "El apoyo a esta actividad es proporcionado por el desarrollador"
 
 # 3a3cbb2f9f8f44c094fea31d6170f3ac
 #: ../source/chart.rst:96
 msgid "at http://wiki.sugarlabs.org/go/Activities/SimpleGraph"
-msgstr "en http: // wiki. sugarlabs. org / go / Actividades / SimpleGraph"
+msgstr "en http://wiki.sugarlabs.org/go/Activities/SimpleGraph"
 
 # c0446cbd66e54df4bf31127f39d3ca53
 #: ../source/chart.rst:98
 msgid "or by sending an e-mail to aguz@sugarlabs.org"
-msgstr "o enviando un e-mail a aguz @ sugarlabs. org"
+msgstr "o enviando un e-mail a aguz@sugarlabs.org"
 
 # 7540a8c500184f718cbefdfd4e7195dd
 #: ../source/chart.rst:102
@@ -201,6 +200,5 @@ msgid ""
 "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/Chart>`_ `Download Page "
 "<http://activities.sugarlabs.org/en-US/sugar/addon/4534>`_"
 msgstr ""
-"`Wiki Páginas <http: // wiki. sugarlabs. org / go / Actividades / Gráfico> "
-"`_` Descargar Páginas <http: // actividades. sugarlabs. org / en-US / azúcar"
-" / addon / 4534> `_"
+"`Páginas Wiki <http://wiki.sugarlabs.org/go/Activities/Chart> "
+"`_`Página de descarga <http://activities.sugarlabs.org/en-US/sugar/addon/4534> `_"
