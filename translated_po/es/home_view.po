@@ -20,12 +20,12 @@ msgstr ""
 # 5d067e5322304e24982c0e315bb1804e
 #: ../source/home_view.rst:3
 msgid "Home View"
-msgstr "Inicio Ver"
+msgstr "Vista Inicio"
 
 # 888bc46f1ceb4e2e9057e05089f4694a
 #: ../source/home_view.rst:5
 msgid "Use the Home View to begin new Activities."
-msgstr "Utilice la vista principal para iniciar nuevas actividades."
+msgstr "Utiliza la vista Inicio para comenzar nuevas actividades."
 
 # b8acc46e452a4e81b678f37127485665
 #: ../source/home_view.rst:7
@@ -38,14 +38,14 @@ msgid ""
 "its Activity View. If the Activity fails to start, you will instead be "
 "returned to Home View."
 msgstr ""
-"Nota: Una vez que haya hecho clic en el icono de una actividad, por favor "
-"espere a que la Actividad para comenzar. Si usted consigue impaciente y "
-"pasar a hacer clic de nuevo en el icono de la actividad, que puede terminar "
-"con la actividad que se inició dos veces. Al hacer clic en el icono de una "
-"actividad, verá una vista de puesta en marcha, mientras que la Actividad "
-"inicializa. Una vez que la actividad se está ejecutando, se le colocará en "
-"su vista de actividad. Si la actividad no se inicia, en su lugar volverá a "
-"Home View."
+"Nota: Una vez que haz hecho clic en el icono de una actividad, por favor "
+"espera a que la Actividad comience. Si te vuelves impaciente y "
+"pasas a hacer clic de nuevo en el icono de la actividad, puede terminar "
+"con la actividad que se iniciándose dos veces. Al hacer clic en el icono de una "
+"actividad, verás una pantalla de inicio, mientras que la Actividad "
+"inicia. Una vez que la actividad se ejecute, se te colocará en "
+"la pantalla de actividad. Si la actividad no se inicia, en su lugar volverás a "
+"la vista de Inicio."
 
 # bc28dc4ed42944f9905e6a1004a4a946
 #: ../source/home_view.rst:11
@@ -53,8 +53,8 @@ msgid ""
 "To get to the Home View, click the Home icon on the Frame or press the F3 "
 "key."
 msgstr ""
-"Para llegar a la vista principal, haga clic en el icono Inicio en el Marco o"
-" presione la tecla F3."
+"Para llegar a la vista de Inicio, haz clic en el icono Inicio en el Marco o"
+" presiona la tecla F3."
 
 # 14836f24cb134b05a424915d69ee6f52
 #: ../source/home_view.rst:13
@@ -62,28 +62,28 @@ msgid ""
 "The Home View has several modes. Each mode has a different arrangement of "
 "Activities:"
 msgstr ""
-"La vista principal tiene varios modos. Cada modo tiene una disposición "
+"La vista de Inicio tiene varios modos. Cada modo tiene una disposición "
 "diferente de las Actividades:"
 
 # 179dd3af0cff4f659c67ae550a8afb2d
 #: ../source/home_view.rst:15
 msgid "Your favorite Activities in a ring (Ring mode)"
-msgstr "Sus actividades favoritas en un anillo (Modo circular)"
+msgstr "Tus actividades favoritas en un anillo (Modo anillo)"
 
 # 9d2a1e4922784a6eba357edeb70a9ae5
 #: ../source/home_view.rst:16
 msgid "Your installed Activities in a list (List view)"
-msgstr "Sus actividades instaladas en una lista (Vista de lista)"
+msgstr "Tus actividades instaladas en una lista (Vista de lista)"
 
 # 5e420939e1fd4336905c81500663e739
 #: ../source/home_view.rst:17
 msgid "Your favorite Activities arranged freeform (Freeform mode)"
-msgstr "Sus actividades favoritas de forma libre arreglado (modo Freeform)"
+msgstr "Tus actividades favoritas de distribuidas en forma libre (modo Forma Libre)"
 
 # 8a1239c16f7342f68872a76f95b4d049
 #: ../source/home_view.rst:20
 msgid "Favorites View"
-msgstr "Favoritos Ver"
+msgstr "Ver Favoritos"
 
 # cb8a67861e1d46fea381df8b31cd6a7c
 #: ../source/home_view.rst:24
@@ -92,9 +92,9 @@ msgid ""
 " see fewer Activities than expected, you may need to click on the small X at"
 " the right end of the search box to undo an unintended search request."
 msgstr ""
-"Cuadro de búsqueda: Utilice el buscador para encontrar Actividades. Nota: Si"
-" en la vista de lista que se ve menos Actividades de lo esperado, es posible"
-" que tenga que hacer clic en la pequeña X en el extremo derecho del cuadro "
+"Cuadro de búsqueda: Utiliza el buscador para encontrar Actividades. Nota: Si"
+" en la vista de lista se ve menos Actividades que lo esperado, es posible"
+" que tengas que hacer clic en la pequeña X en el extremo derecho del cuadro "
 "de búsqueda para deshacer una solicitud de búsqueda no intencional."
 
 # 234e2ba388ae42f198e64c4b455eb1c2
@@ -103,15 +103,15 @@ msgid ""
 "Favorites modes: Click an icon to switch to a different view. Hover over the"
 " Favorites icon to see a menu that lets you pick Ring mode or Freeform mode."
 msgstr ""
-"Favoritos modos: Haga clic en un icono para cambiar a una vista diferente. "
-"Pase el ratón sobre el icono Favoritos para ver un menú que te permite "
-"elegir el modo de anillo o el modo Freeform."
+"Modos de Favoritos: Haz clic en un icono para cambiar a una vista diferente. "
+"Pon el mouse sobre el icono Favoritos para ver un menú que te permita "
+"elegir el modo de anillo o el modo Forma libre."
 
 # 5a1ec8f7b33c494994ecf46a8c17c876
 #: ../source/home_view.rst:26
 msgid "List view: Click the icon to switch over to the List view."
 msgstr ""
-"Vista de lista: Haga clic en el icono para cambiar a la vista de lista."
+"Vista de lista: Haz clic en el icono para cambiar a la vista de lista."
 
 # 862aee70ff594f72b75d1f740423605f
 #: ../source/home_view.rst:27
@@ -122,10 +122,11 @@ msgid ""
 "information.) Only Activities that have been “starred” as favorites in the "
 "List View appear in this view."
 msgstr ""
-"Icono Actividad: Haga clic en un icono de Actividad para lanzar que la "
+"Icono de Actividad: Haz clic en un icono de Actividad para comenzar esa "
 "Actividad. Su icono es de color si la actividad se ha utilizado antes y "
-"haciendo clic en que reanudará su última reunión. (Consulte la sección Menú "
-"actividad abajo para más información."
+"haciéndole clic reanudará su última sesión. (Consulta la sección Menú de "
+"actividad abajo para más información.) Sólo las actividades que han sido"
+" seleccionado como favoritas en la vista de Lista aparecen en esta vista."
 
 # 6d86c2fda3ee4befaa97aaef52329b83
 #: ../source/home_view.rst:28
@@ -133,7 +134,7 @@ msgid ""
 "Active Activity icon: The icon of the currently active Activity appears "
 "under the XO icon."
 msgstr ""
-"Activo icono Actividad: El icono de la Actividad actualmente activo aparece "
+"icono de Actividad activo: El icono de la Actividad actualmente activo aparece "
 "bajo el icono de XO."
 
 # fe8ec0c6a4524bd3a36aca00d2c9b9dc
@@ -143,9 +144,9 @@ msgid ""
 " bring up a menu and to access the Sugar Control Panel (Please see the "
 "chapter on Customizing Sugar)."
 msgstr ""
-"Icono XO: Sitúe el puntero sobre el \"XO\" en el centro de la vista "
-"principal para que aparezca un menú y para acceder al Panel de Control del "
-"Azúcar (Por favor, consulte el capítulo de Personalización de Azúcar)."
+"Icono de XO: Sitúe el puntero sobre el \"XO\" en el centro de la vista "
+"de Inicio para que aparezca un menú y puedas acceder al Panel de Control de "
+"Sugar (Por favor, consulta el capítulo de Personalización de Sugar)."
 
 # 1c785d56de154388b69e8e838f3a44c8
 #: ../source/home_view.rst:33
@@ -153,7 +154,7 @@ msgid ""
 "When a search is started the Activities which don't correspond to the result"
 " are greyed out."
 msgstr ""
-"Cuando se inicia una búsqueda de las actividades que no corresponden a los "
+"Cuando se inicia una búsqueda las actividades que no corresponden a los "
 "resultados aparecen en gris."
 
 # d300e448670d4d72a00f50c0c714556b
@@ -167,8 +168,8 @@ msgid ""
 "Use the List view to manage all of your Activities and to choose which "
 "Activity icons will appear on the Favorites view."
 msgstr ""
-"Utilice la vista de lista para gestionar todas sus actividades y elegir qué "
-"iconos Actividad aparecerá en ver los Favoritos."
+"Utiliza la vista de lista para organizar todas tus actividades y elegir los iconos de qué "
+"Actividad aparecerán en la vista de Favoritos."
 
 # c35210b648dd4d78a2e3aabdff3104d1
 #: ../source/home_view.rst:42
@@ -177,9 +178,9 @@ msgid ""
 "which appear in the Ring mode or Freeform mode. Click a star to color or "
 "clear it."
 msgstr ""
-"Actividad icono favorito: Una estrella, que es de color para actividades "
-"favoritas, que aparecen en el modo de anillo o el modo Freeform. Haga clic "
-"en una estrella para colorear o desactivarla."
+"Icono de actividad favorita: Una estrella, que es de color para actividades "
+"favoritas, que aparecen en el modo circular o el modo forma libre. Haz clic "
+"en una estrella para colorearla o desactivarla."
 
 # e4fa8a0dc89c4a80bd9b2deaa7cf1a62
 #: ../source/home_view.rst:43
@@ -187,8 +188,8 @@ msgid ""
 "Activity icon: Click the icon to launch the Activity or hover over it to see"
 " the corresponding menu."
 msgstr ""
-"Icono Actividad: Haga clic en el icono para iniciar la actividad o se "
-"ciernen sobre él para ver el menú correspondiente."
+"Icono de Actividad: Haz clic en el icono para iniciar la actividad o pon "
+"el mouse sobre él para ver el menú correspondiente."
 
 # 270eaac1e84b457b97138889e6045c24
 #: ../source/home_view.rst:44
@@ -196,8 +197,8 @@ msgid ""
 "Hover menu: In this menu you can also launch, favorite and un-favorite "
 "Activities and erase them."
 msgstr ""
-"Menú emergente: En este menú también se puede poner en marcha, actividades "
-"favoritas y un-favoritas y borrarlas."
+"Menú flotante: En este menú también puedes poner en marcha actividades, hacerlas "
+"favoritas o no, y borrarlas."
 
 # b43508788a47439fb6cabb282706df23
 #: ../source/home_view.rst:45
@@ -206,15 +207,15 @@ msgid ""
 "installed. For more information about updating your Activities to the latest"
 " version please refer to the How to Install and Update Activities section."
 msgstr ""
-"Número de versión: Aquí se puede ver que está instalado actualmente la "
-"versión de la Actividad. Para obtener más información acerca de la "
-"actualización de sus actividades a la última versión por favor consulte la "
-"sección Cómo instalar y actualizar Actividades."
+"Número de versión: Aquí puedes ver qué versión de la actividad está instalada actualmente. "
+"Para obtener más información sobre actualizar tus actividades a la última "
+"versión por favor consulta la "
+"sección de Cómo instalar y actualizar Actividades."
 
 # a9700786c53e440889dd08367d67ca6a
 #: ../source/home_view.rst:48
 msgid "Favorites View in Freeform Mode"
-msgstr "Favoritos Ver en modo Freeform"
+msgstr "Vista de Favoritos en modo forma libre"
 
 # b81c7f09dcf8447a9f1cef522333fbdb
 #: ../source/home_view.rst:52
@@ -223,15 +224,15 @@ msgid ""
 "icons are arranged arbitrarily instead of in a circle. You can drag the "
 "icons in this View to visually group them in a way that makes sense to you."
 msgstr ""
-"El modo Freeform de la vista principal funciona igual que el modo de anillo,"
+"El modo Forma libre de la vista principal funciona igual que el modo circular,"
 " pero los iconos están dispuestos arbitrariamente en lugar de en un círculo."
-" Puede arrastrar los iconos en esta vista para agruparlos visualmente de una"
-" manera que tenga sentido para usted."
+" Puedes arrastrar los iconos en esta vista para agruparlos visualmente de una"
+" manera que tenga sentido para ti."
 
 # e3b1bb299cfd4d42aeee779fa24b16e9
 #: ../source/home_view.rst:55
 msgid "Activity Menu"
-msgstr "Menú actividad"
+msgstr "Menú de actividad"
 
 # c71d4715915b4561b689fea11ab7fdcd
 #: ../source/home_view.rst:59
@@ -240,14 +241,14 @@ msgid ""
 " you can directly resume the last few Activity sessions or choose to start a"
 " new one."
 msgstr ""
-"Cuando se cierne sobre un icono de actividad aparece un menú "
-"correspondiente. Desde allí se puede reanudar directamente las últimas "
-"sesiones de actividad u optar por iniciar uno nuevo."
+"Cuando se te posas sobre un icono de actividad aparece un menú "
+"correspondiente. Desde allí puedes reanudar directamente las últimas "
+"sesiones de actividad u optar por iniciar una nueva."
 
 # 3560e6e64d1c4ae184579a4e4dfc57b4
 #: ../source/home_view.rst:62
 msgid "XO Menu"
-msgstr "XO Menú"
+msgstr "Menú XO"
 
 # 8aed927c461f4238a7e3e4ee372bb733
 #: ../source/home_view.rst:66
@@ -255,5 +256,5 @@ msgid ""
 "Use the hover menu that appears over the XO icon to access the Sugar Control"
 " Panel and to shutdown or restart the computer."
 msgstr ""
-"Utilice el menú de la libración que aparece sobre el icono de XO para "
-"acceder al panel de control de azúcar y para apagar o reiniciar el equipo."
+"Utiliza el menú flotante que aparece sobre el icono de XO para "
+"acceder al panel de control de sugar y para apagar o reiniciar el equipo."
