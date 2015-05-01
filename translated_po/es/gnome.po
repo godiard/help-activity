@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 76ec0b1947834538b7dc280be3979551
@@ -25,8 +25,8 @@ msgstr "GNOME"
 # 1a5c3cdb22c545bba391259f17f35509
 #: ../source/gnome.rst:5
 msgid ""
-"In late 2009 OLPC added a more conventional desktop environment called GNOME"
-" to its operating system. This is intended for older children and advanced "
+"In late 2009 OLPC added a more conventional desktop environment called GNOME "
+"to its operating system. This is intended for older children and advanced "
 "users."
 msgstr ""
 "A finales de 2009 OLPC añade un entorno de escritorio más convencional "
@@ -36,22 +36,22 @@ msgstr ""
 # c405cd39c9b948519238dead3f1bc26a
 #: ../source/gnome.rst:10
 msgid ""
-"Users can switch from Sugar to GNOME through the Switch Desktop option under"
-" My Settings."
+"Users can switch from Sugar to GNOME through the Switch Desktop option under "
+"My Settings."
 msgstr ""
-"Los usuarios pueden cambiar de Azúcar para GNOME a través de la opción "
+"Los usuarios pueden cambiar de Sugar a GNOME a través de la opción "
 "Cambiar de escritorio bajo Mi configuración."
 
 # 1015dc8593a6499cb030fb88c3fa2df5
 #: ../source/gnome.rst:14
 msgid ""
-"After selecting the Switch Desktop option another confirmation dialogue with"
-" additional information appears. The switch to GNOME can be initiated by "
+"After selecting the Switch Desktop option another confirmation dialogue with "
+"additional information appears. The switch to GNOME can be initiated by "
 "clicking the Restart now button."
 msgstr ""
 "Después de seleccionar la opción Cambiar de escritorio aparece otro diálogo "
-"de confirmación con información adicional. El cambio a GNOME puede iniciarse"
-" haciendo clic en el botón Reiniciar ahora."
+"de confirmación con información adicional. El cambio a GNOME puede iniciarse "
+"haciendo clic en el botón Reiniciar ahora."
 
 # 4381571d93b94a20b70536ccd560299f
 #: ../source/gnome.rst:18
@@ -60,21 +60,21 @@ msgid ""
 "on the GNOME desktop or the Application - System Tools menu and confirming "
 "the corresponding message box."
 msgstr ""
-"Cambio a azúcar de GNOME se puede hacer a través del interruptor de icono de"
-" azúcar en el escritorio GNOME o la solicitud - menú Herramientas del "
-"sistema y confirmar el cuadro de mensaje correspondiente."
+"El cambio a Sugar desde GNOME se puede hacer a través del icono Cambiar a "
+"Sugar en el escritorio GNOME o del menu Aplicaciones - Herramientas del sistema "
+"y confirmar el cuadro de mensaje correspondiente."
 
 # a335a9439aeb4256bb00a7bd166ffb3d
 #: ../source/gnome.rst:22
 msgid ""
-"Further information about GNOME is available on the `GNOME Web site "
-"<http://gnome.org>`_ and its extensive `Help section "
-"<https://help.gnome.org/users/gnome-help/stable/>`_. Additional information "
-"about how to transfer files from Sugar's Journal to GNOME's Documents folder"
-" can be found in the Journal section."
+"Further information about GNOME is available on the `GNOME Web site <http://"
+"gnome.org>`_ and its extensive `Help section <https://help.gnome.org/users/"
+"gnome-help/stable/>`_. Additional information about how to transfer files "
+"from Sugar's Journal to GNOME's Documents folder can be found in the Journal "
+"section."
 msgstr ""
-"Más información sobre GNOME está disponible en el sitio Web de GNOME `<http:"
-" // gnome. org> `_ y su extensa sección de ayuda` <https: // ayuda. gnomo. "
-"org / usuarios / gnome-help / estable /> `_. Información adicional acerca de"
-" cómo transferir archivos del Diario de azúcar a la carpeta Documentos del "
-"GNOME se puede encontrar en la sección Diario."
+"Más información sobre GNOME está disponible en el sitio Web de GNOME "
+"`<http://gnome.org>`_ y su extensa `sección de ayuda<https://help.gnome.org/users/"
+"gnome-help/stable/>`_. Información adicional "
+"acerca de cómo transferir archivos del Diario de Sugar a la carpeta "
+"Documentos del GNOME se puede encontrar en la sección Diario."
