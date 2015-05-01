@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,16 +11,16 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 5fd8599971184b06888b34740020ff83
 #: ../source/hardware_evolution.rst:3
 msgid "Hardware evolution"
-msgstr "Evolución Hardware"
+msgstr "Evolución del Hardware"
 
 # 281a61906f5947d89810479061c1d649
 #: ../source/hardware_evolution.rst:6
@@ -34,30 +34,30 @@ msgid ""
 "the electronics inside have been changing. For details of the differences, "
 "refer to:"
 msgstr ""
-"Aunque la XO ha continuado buscando más o menos la misma en el exterior, la "
-"electrónica interior han ido cambiando. Para detalles de las diferencias, "
+"Aunque la XO ha conservado más o menos la misma forma en el exterior, la "
+"electrónica interior ha ido cambiando. Para detalles de las diferencias, "
 "consulte:"
 
 # e41f268102ec40499ffafc74a5308d2e
 #: ../source/hardware_evolution.rst:10
 msgid "http://wiki.laptop.org/go/Hardware_specification for the XO 1.0"
 msgstr ""
-"http: // wiki. portátil. org / go / Hardware_specification para la XO 1. 0"
+"http://wiki.laptop.org/go/Hardware_specification para la XO 1. 0"
 
 # c769064569e140529448aaf5b1d77ed7
 #: ../source/hardware_evolution.rst:12
 msgid "http://wiki.laptop.org/go/Hardware_specification_1.5"
-msgstr "http: // wiki. portátil. org / go / Hardware_specification_1. 5"
+msgstr "http://wiki.laptop.org/go/Hardware_specification_1.5"
 
 # 1718442d80e9484a9a243dd5a88db23f
 #: ../source/hardware_evolution.rst:14
 msgid "http://wiki.laptop.org/go/XO-1.75"
-msgstr "http: // wiki. portátil. org / go / XO-1. 75"
+msgstr "http://wiki.laptop.org/go/XO-1.75"
 
 # 2d8963fee24341e68c92ea18498474e5
 #: ../source/hardware_evolution.rst:16
 msgid "http://wiki.laptop.org/go/XO-4"
-msgstr "http: // wiki. portátil. org / go / XO-4"
+msgstr "http://wiki.laptop.org/go/XO-4"
 
 # 3eff3ded4f004d9d9b59c4356b54117c
 #: ../source/hardware_evolution.rst:18
@@ -69,10 +69,10 @@ msgid ""
 "than 3.5 hours."
 msgstr ""
 "Hasta cierto punto, se hicieron los cambios para mantener el uso de piezas "
-"de gran volumen, y mejorar el rendimiento. El cambio de 1. 5 a 1. 75 implicó"
-" un cambio del procesador de x86 a armar, y una reducción en el consumo de "
-"energía de alrededor de 50%. Con las mejoras de administración de energía, "
-"esto permite que la XO para durar más de 3. 5 horas."
+"de gran volumen, y mejorar el rendimiento. El cambio de 1. 5 a 1. 75 implicó "
+"un cambio del procesador de x86 a arm, y una reducción en el consumo de "
+"energía de alrededor del 50%. Con las mejoras de administración de energía, "
+"esto permite que la XO para durar más de 3.5 horas."
 
 # 0752e97ec0044789acae813e1ae7fd7d
 #: ../source/hardware_evolution.rst:20
@@ -80,8 +80,8 @@ msgid ""
 "XO-4 is available in two models, XO-4 and XO-4 Touch. XO-4 provides multi "
 "touch input on the display."
 msgstr ""
-"XO-4 está disponible en dos modelos, XO-4 y XO-4 Touch. XO-4 ofrece multi "
-"toque de entrada en la pantalla."
+"XO-4 está disponible en dos modelos, XO-4 y XO-4 Touch. XO-4 ofrece pantalla "
+"tactil que soporta multiples toques."
 
 # a8c5bd2527084c3ea5cf0208a667d780
 #: ../source/hardware_evolution.rst:22
@@ -89,7 +89,7 @@ msgid ""
 "As you can see from the \"boot time\" comparison, lower power has not been "
 "at the expense of decreased performance."
 msgstr ""
-"Como se puede ver en la comparación \"tiempo de inicio\", una energía más "
+"Como se puede ver en la comparación del \"tiempo de inicio\", la energía más "
 "baja no ha sido a costa de una disminución del rendimiento."
 
 # 1995f230625142febdfe3f1eb56026f3
