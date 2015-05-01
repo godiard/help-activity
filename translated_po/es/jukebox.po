@@ -20,7 +20,7 @@ msgstr ""
 # 8d390dbf59af452cbc4416ca070ca25d
 #: ../source/jukebox.rst:3
 msgid "Jukebox"
-msgstr "Jukebox"
+msgstr "Máquina de discos"
 
 # 5345eb4a2b8f4c009635d63aa346554d
 #: ../source/jukebox.rst:6
@@ -33,14 +33,14 @@ msgid ""
 "Jukebox is the media player to play different kinds of audio and video files"
 " including online streams. It also supports playlists like .m3u and .pls."
 msgstr ""
-"Jukebox es el reproductor multimedia para reproducir diferentes tipos de "
-"archivos de audio y video, incluyendo secuencias en línea. También es "
-"compatible con listas de reproducción como. m3u y. pls."
+"Maquina de discos es el reproductor multimedia para reproducir diferentes tipos de "
+"archivos de audio y video, incluyendo canales de música en línea. También es "
+"compatible con listas de reproducción como .m3u y .pls."
 
 # 090a08897da845cebaf43d11451e6481
 #: ../source/jukebox.rst:11
 msgid "Where to get Jukebox"
-msgstr "Dónde obtener Jukebox"
+msgstr "Dónde obtener Maquina de discos"
 
 # a46fdf8d89e54d108401adf3dc00e8d2
 #: ../source/jukebox.rst:13
@@ -49,10 +49,9 @@ msgid ""
 "some reason Jukebox is not installed, it can be downloaded from its "
 "`Activity page <http://activities.sugarlabs.org/en-US/sugar/addon/4045>`_"
 msgstr ""
-"Jukebox está incluido en las versiones estándar del software OLPC. Si por "
-"alguna razón Jukebox no está instalado, se puede descargar desde su página "
-"`Actividad <http: // actividades. sugarlabs. org / en-US / azúcar / addon / "
-"4045> `_"
+"Maquina de discos está incluido en las versiones estándar del software OLPC. Si por "
+"alguna razón Maquina de discos no está instalado, se puede descargar desde la página "
+" de la `Actividad <http://activities.sugarlabs.org/en-US/sugar/addon/4045 `_"
 
 # 45df8c649e704f1cb9005979c03889ee
 #: ../source/jukebox.rst:18
@@ -66,8 +65,8 @@ msgid ""
 " option checked will also appreciate the playlist, and at the top, there are"
 " options to control the flow, and how to view the current track"
 msgstr ""
-"Al otro lado de la zona baja, se puede ver los videos y si ser la opción "
-"correspondiente comprobado también podrá apreciar la lista de reproducción, "
+"Al otro lado de la zona inferior, se pueden ver los videos y si la opción "
+"correspondiente es comprobada también podrás apreciar la lista de reproducción, "
 "y en la parte superior, hay opciones para controlar el flujo, y la forma de "
 "ver la pista actual"
 
@@ -84,12 +83,12 @@ msgstr "Ampliar las opciones visuales."
 # df1e9de3445f4d06b8e674500f0a64f3
 #: ../source/jukebox.rst:29
 msgid "Load news tracks."
-msgstr "Pistas noticias carga."
+msgstr "Cargar nuevas pistas."
 
 # a41cd08fb13848f3ad3d3612895ea1ca
 #: ../source/jukebox.rst:30
 msgid "Remove actual track."
-msgstr "Retire pista real."
+msgstr "Retirar pista actual."
 
 # 9155206028b44430890e264e527a8db1
 #: ../source/jukebox.rst:31
@@ -99,7 +98,7 @@ msgstr "Pista anterior."
 # 7eb0d15b047c41ecab1c730f9574fd6a
 #: ../source/jukebox.rst:32
 msgid "Play/Pause actual track."
-msgstr "Reproducir / Pausa pista real."
+msgstr "Reproducir/Pausar pista actual."
 
 # b2da67f2993342ffa226ddf80ab689db
 #: ../source/jukebox.rst:33
@@ -109,27 +108,27 @@ msgstr "Siguiente pista."
 # 99b98d2846ac450da147cf5087af8ade
 #: ../source/jukebox.rst:34
 msgid "Control the track progress"
-msgstr "Controlar el progreso pista"
+msgstr "Controlar el progreso de la pista"
 
 # 577e1599f2c04b04b27d6b922263c94e
 #: ../source/jukebox.rst:38
 msgid "The Toolbar Sub Menus"
-msgstr "El Sub Toolbar Menús"
+msgstr "La barra de herramientas secundaria del Menú"
 
 # 25caa9cea0b647abb2a670d4efa1300e
 #: ../source/jukebox.rst:42
 msgid "Show/Hide the playlist"
-msgstr "Mostrar / Ocultar la lista de reproducción"
+msgstr "Mostrar/Ocultar la lista de reproducción"
 
 # a3f1350121fa4507a8c718b914a82c14
 #: ../source/jukebox.rst:43
 msgid "Fullscreen mode/Normal mode"
-msgstr "Modo de pantalla completa / modo normal"
+msgstr "Modo de pantalla completa/modo normal"
 
 # 4b78388a6705465b9e51f8c0ff86baea
 #: ../source/jukebox.rst:46
 msgid "More about Jukebox"
-msgstr "Más sobre Jukebox"
+msgstr "Más sobre Máquina de discos"
 
 # 9da7020c52a14bc385d4d504a0836ff3
 #: ../source/jukebox.rst:48
@@ -138,10 +137,10 @@ msgid ""
 " all the files you selected. Then you can create list by topics, and open "
 "all the files later just selecting the list saved in your Journal."
 msgstr ""
-"Si abre más de un archivo multimedia, Jukebox va a guardar una \"lista de "
-"reproducción\" con todos los archivos que ha seleccionado. A continuación, "
-"puede crear una lista de temas, y abrir todos los archivos más tarde sólo "
-"seleccionar la lista guardada en el Diario."
+"Si abre más de un archivo multimedia, Máquina de discos va a guardar una \"lista de "
+"reproducción\" con todos los archivos que haz seleccionado. A continuación, "
+"puedes crear una lista de temas, y abrir todos los archivos más tarde sólo "
+"seleccionando la lista guardada en el Diario."
 
 # 61cc3895df234fd3a6396f3643ea5cc9
 #: ../source/jukebox.rst:51
@@ -150,6 +149,6 @@ msgid ""
 "Jukebox, without copying them in the Journal, that is really useful if the "
 "files are too big."
 msgstr ""
-"Puede abrir los archivos ubicados en dispositivos externos como un "
-"dispositivo USB, de Jukebox, sin copiarlos en el Diario, que es realmente "
+"Puedes abrir los archivos ubicados en dispositivos externos como un "
+"dispositivo USB, de Máquina de discos, sin copiarlos en el Diario, lo cual es realmente "
 "útil si los archivos son demasiado grandes."
