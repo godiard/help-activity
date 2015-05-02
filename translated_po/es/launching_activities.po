@@ -20,33 +20,33 @@ msgstr ""
 # 05f682725c7b4eb58ad0f6f0e1aff1b4
 #: ../source/launching_activities.rst:3
 msgid "Launching Activities"
-msgstr "Actividades Lanzamiento"
+msgstr "Iniciando actividades"
 
 # 8ed6706bc1dc45baa46cc8818eb86b76
 #: ../source/launching_activities.rst:5
 msgid "You can launch an Activity in four different ways:"
-msgstr "Puede iniciar una actividad de cuatro maneras diferentes:"
+msgstr "Puedes iniciar una actividad de cuatro maneras diferentes:"
 
 # a4f95810efcd42b8b617eab82d10ac65
 #: ../source/launching_activities.rst:7
 msgid "Click the Activity icon in the Home View."
-msgstr "Haga clic en el icono de la actividad en la vista principal."
+msgstr "Haz clic en el icono de la actividad en la vista de inicio."
 
 # fda24c2726b045afaea87ec01fa5b560
 #: ../source/launching_activities.rst:8
 msgid "Resume your previous work with an Activity from the Journal."
-msgstr "Vuelva a su trabajo previo con una actividad de la Revista."
+msgstr "Vuelve a tu trabajo previo con una actividad del Diario."
 
 # 2f83d793df5040b0b8a2babe56e731ca
 #: ../source/launching_activities.rst:9
 msgid "Join a shared Activity from the Neighborhood View."
-msgstr "Únete a una actividad compartida desde el Barrio Vista."
+msgstr "Únete a una actividad compartida desde la Vista de vecindario."
 
 # 43814e775d554497ab8756496fd886af
 #: ../source/launching_activities.rst:10
 msgid "Accept an invitation by clicking the invitation icon on the Frame."
 msgstr ""
-"Aceptar una invitación haciendo clic en el icono de la invitación en el "
+"Acepta una invitación haciendo clic en el icono de la invitación en el "
 "marco."
 
 # 0d325f3801184118b66a6dac14f434aa
@@ -63,23 +63,23 @@ msgstr ""
 msgid ""
 "Once the Activity is running, you will be placed into its Activity View."
 msgstr ""
-"Una vez que la actividad se está ejecutando, se le colocará en su vista de "
+"Una vez que la actividad se está ejecutando, se te colocará en la vista de "
 "actividad."
 
 # a98b1aedcef64017bb0e33247d3981fa
 #: ../source/launching_activities.rst:19
 msgid "Launching Activities from the Home view"
-msgstr "Lanzamiento de Actividades en el Hogar"
+msgstr "Lanzamiento de Actividades en la vista de Inicio"
 
 # 97e332a4895a49f1ad232353365378a2
 #: ../source/launching_activities.rst:21
 msgid "To get to the Home View,"
-msgstr "Para llegar a la vista principal,"
+msgstr "Para llegar a la vista de Inicio,"
 
 # 715ef600b6c2484aad061f353e3bf210
 #: ../source/launching_activities.rst:23
 msgid "click the Home icon on the Frame |frame|"
-msgstr "haga clic en el icono Inicio en el Marco | marco |"
+msgstr "haz clic en el icono Inicio en el Marco |frame|"
 
 # c52c8f9b054e4a39af792d3b47e97a94
 #: ../source/launching_activities.rst:27
@@ -87,8 +87,8 @@ msgid ""
 "or press the F3 key. On the XO keyboard this key has a single dot "
 "|home_key|, and is one of the view keys |nav_buttons|."
 msgstr ""
-"o presione la tecla F3. En el teclado XO esta clave tiene un punto único | "
-"home_key |, y es una de las claves de vista | nav_buttons |."
+"o presiona la tecla F3. En el teclado XO esta tecla tiene un círculo con un punto en el centro"
+"|home_key|, y es una de las teclas de vista |nav_buttons|."
 
 # 104399f7ff4b4397a9ceea2cb08df53b
 #: ../source/launching_activities.rst:33
@@ -97,8 +97,8 @@ msgid ""
 " you have the right activity, hover your cursor over the icon for a few "
 "seconds and a label will appear with the activity name."
 msgstr ""
-"Luego haga clic en el icono de la actividad que desea iniciar. Si no está "
-"seguro de que tiene el derecho de actividad, sitúe el cursor sobre el icono "
+"Luego haz clic en el icono de la actividad que deseas iniciar. Si no estás "
+"seguro de que tienes la actividad correcta, sitúa el cursor sobre el icono "
 "durante unos segundos y una etiqueta aparecerá con el nombre de la "
 "actividad."
 
@@ -110,10 +110,10 @@ msgid ""
 "over the icon for several seconds, a menu appears with other Journal entries"
 " you made with the activity, and an option to \"Start new\"."
 msgstr ""
-"Si se le han acabado la actividad antes, al hacer clic en el icono se "
-"reanudará con su última entrada del diario. Si hace clic en el botón de menú"
-" de la derecha o pasa el cursor sobre el icono durante unos segundos, "
-"aparece un menú con otras entradas del diario que usted hizo con la "
+"Si ya has usado la actividad antes, al hacer clic en el icono se "
+"reanudará con tu última entrada del Diario. Si haces clic en el botón de menú"
+" de la derecha o posas el cursor sobre el icono durante unos segundos, "
+"aparece un menú con otras entradas del diario que haz hecho con la "
 "actividad, y la opción de \"Comenzar una nueva\"."
 
 # 2ffa6577a6cc406e95042d8799b7db85
@@ -123,9 +123,9 @@ msgid ""
 " how the Home view displays activities. Or type part of the Activity's name "
 "in the search box (1)."
 msgstr ""
-"Si no ve el icono de la Actividad, haga clic en los iconos del menú (2) (3) "
-"para cambiar la forma en la vista principal muestra las actividades. O "
-"escribir parte del nombre de la actividad en el cuadro de búsqueda (1)."
+"Si no ves el icono de la Actividad, haz clic en los iconos del menú (2) (3) "
+"para cambiar la forma en que la vista de Inicio muestra las actividades. O "
+"escribe parte del nombre de la actividad en el cuadro de búsqueda (1)."
 
 # 46397db4d48a4495b757d8cebe10d7db
 #: ../source/launching_activities.rst:41
@@ -134,26 +134,25 @@ msgid ""
 "to add/remove it as a favorite. Favorite Activities appear in color in the "
 "favorites view"
 msgstr ""
-"En vista de la lista de modo (3) puede hacer clic en la estrella (4) junto "
-"al nombre de una Actividad para añadir / quitar como favorito. Actividades "
-"favoritas aparecen en el color en la vista de favoritos"
+"En el modo de vista de Lista (3) puedes hacer clic en la estrella (4) junto "
+"al nombre de una Actividad para añadir/quitar de favoritos. Las actividades "
+"favoritas aparecen en color en la vista de favoritos"
 
 # 3efc628ca0fc4f02b200a499e992df46
 #: ../source/launching_activities.rst:45
 msgid "If the Activity fails to start, you will be returned to Home View."
-msgstr "Si la actividad no se inicia, se le volverá a Home View."
+msgstr "Si la actividad no se inicia, se te volverá a la vista de Inicio."
 
 # 34a30b90becf4b83b4b321b15e1945bb
 #: ../source/launching_activities.rst:48
 msgid "Resuming from the Journal"
-msgstr "Reanudación del Diario"
+msgstr "Reanudación desde el Diario"
 
 # 5c7856ec884b4cfaaccedd5a14f8d023
 #: ../source/launching_activities.rst:50
 msgid "Click the activity's icon or click Resume on its hover menu."
 msgstr ""
-"Haga clic en el icono de la actividad o haga clic en Reanudar en su menú "
-"activable."
+"Haz clic en el icono de la actividad o haz clic en Reanudar en su menú flotante."
 
 # 32e455e8bc3e481188ae99b215cd4f07
 #: ../source/launching_activities.rst:54
@@ -162,9 +161,9 @@ msgid ""
 "hover menu. For example, you can resume an image you made in the Paint "
 "activity in Etoys or Browse."
 msgstr ""
-"También puede lanzar algunas entradas de diario en una actividad diferente "
-"utilizando el menú activable. Por ejemplo, puede reanudar una imagen que ha "
-"hecho en la actividad de pintura en Etoys o Examinar."
+"También puedes lanzar algunas entradas del Diario en una actividad diferente "
+"utilizando el menú flotante. Por ejemplo, puedes reanudar una imagen que haz "
+"hecho en la actividad de Pintar en Etoys o Navegar."
 
 # aecea68883da492eab8bb69ffbe9e71c
 #: ../source/launching_activities.rst:56
@@ -172,7 +171,7 @@ msgid ""
 "You can click the first drop-down menu in the Journal to only show certain "
 "kinds of entries or those made with a particular activity."
 msgstr ""
-"Puede hacer clic en el primer menú desplegable en el Diario para mostrar "
+"Puedes hacer clic en el primer menú desplegable en el Diario para mostrar "
 "sólo ciertos tipos de entradas o las realizadas con una actividad en "
 "particular."
 
@@ -185,17 +184,17 @@ msgstr "Unirse a una actividad compartida"
 #: ../source/launching_activities.rst:63
 msgid "Click the icon or click an option on the hover menu."
 msgstr ""
-"Haga clic en el icono o haga clic en una opción en el menú de la libración."
+"Haz clic en el icono o haz clic en una opción en el menú flotante."
 
 # 9a691517799b478f9dad5251efe854f4
 #: ../source/launching_activities.rst:66
 msgid "Joining an Activity by accepting an invitation"
-msgstr "Formar parte de una actividad al aceptar una invitación"
+msgstr "Forma parte de una actividad aceptando una invitación"
 
 # 7880036cc98b4cf2a25676dc3ed8e085
 #: ../source/launching_activities.rst:70
 msgid "Click Join in the hover menu on the Frame."
-msgstr "Haga clic en Unir en el menú de la libración en el Marco."
+msgstr "Haz clic en Unirse en el menú flotante en el Marco."
 
 # bd9a959e91c94f0881a1033f78763baf
 #: ../source/launching_activities.rst:74
@@ -208,5 +207,5 @@ msgid ""
 "Try not to open more than three Activities at one time or your speed may be "
 "reduced."
 msgstr ""
-"Trate de no abrir más de tres actividades en un momento u su velocidad puede"
+"Trata de no abrir más de tres actividades al mismo tiempo o su velocidad puede"
 " reducirse."
