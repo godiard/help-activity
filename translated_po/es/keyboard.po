@@ -30,7 +30,7 @@ msgstr "El teclado y el touchpad"
 # e2e0861774be4d27b7b758b8e16498e7
 #: ../source/keyboard.rst:10
 msgid "TODO: <We should have a picture of 1.5 rather than 1.0>"
-msgstr "TODO: <Debemos tener una imagen de 1. 5 en lugar de 1. 0>"
+msgstr "TODO: <Debemos tener una imagen de 1.5 en lugar de 1.0>"
 
 # 870245aac3204b35a01c8fa7ebc8ba04
 #: ../source/keyboard.rst:12
@@ -41,9 +41,11 @@ msgid ""
 "outlined in yellow are reserved for future features (such as the \"grab\" "
 "keys and the \"slider bar\")."
 msgstr ""
-"Teclados son diseñados para cada país, por lo que su teclado no sean "
-"exactamente como la que en esta figura. Claves señalados en amarillo están "
-"reservados para futuras características (tales como las teclas de "
+"El teclado y touchpad -que son resistentes a polvo y agua- tienen teclas especiales"
+" para funciones adicionales. Los teclados están diseñados para cada país, "
+"por lo que tu teclado puede que no se vea exactamente como el "
+"está en esta imagen. Las teclas señaladas en amarillo están "
+"reservadas para futuras características (tales como las teclas de "
 "\"agarrar\" y la \"barra de desplazamiento\")."
 
 # 06f73aeeae3540fc84978affdc11c8aa
@@ -53,8 +55,9 @@ msgid ""
 "The escape key is most commonly used in combination with the control key to "
 "quit activities (ctrl + esc)."
 msgstr ""
-"La tecla de escape es más comúnmente utilizado en combinación con la tecla "
-"de control para dejar de actividades (CTRL + ESC)."
+"Tecla de escape -- La tecla de escape está etiquetada con una x o un círculo negro. "
+"La tecla de escape es más comúnmente utilizada en combinación con la tecla "
+"de control para salir de actividades (CTRL + ESC)."
 
 # edbef09784d54cb6885424a768f57847
 #: ../source/keyboard.rst:15
@@ -65,8 +68,9 @@ msgid ""
 "alt + tab cycles forward through running Activities."
 msgstr ""
 "Tecla Tab - La tecla de tabulación está marcado con flechas apuntando hacia "
-"la derecha y la izquierda. Por ejemplo, ALT + TAB ciclos hacia delante a "
-"través de funcionamiento Actividades."
+"la derecha y la izquierda. La tecla de tabulación -además de su uso estándar- es usada en combinación con"
+" las teclas de Control, Shift y Alt para moverse a través de las actividades abiertas. "
+"Por ejemplo, ALT + TAB te mueven hacia delante a través de las actividades abiertas."
 
 # f9f6421fee6e4574ab122343a74a4839
 #: ../source/keyboard.rst:16
@@ -75,7 +79,7 @@ msgid ""
 "issue commands. For example, ctrl + c is used to copy to the clipboard; ctrl"
 " + v is used to paste from the clipboard."
 msgstr ""
-"Tecla de control - La clave de control se utiliza en combinación con otras "
+"La tecla de control - La tecla de control se usa en combinación con otras "
 "teclas para ejecutar comandos. Por ejemplo, Ctrl + C se utiliza para copiar "
 "al portapapeles; ctrl + v se utiliza para pegar desde el portapapeles."
 
@@ -86,9 +90,9 @@ msgid ""
 "modifier, most commonly to shift between lowercase and uppercase in Latin-"
 "based alphabets."
 msgstr ""
-"Shift key - La tecla de mayúsculas se utiliza en combinación con otras "
+"La tecla Shift - La tecla de mayúsculas se utiliza en combinación con otras "
 "teclas como un modificador, más comúnmente para cambiar entre mayúsculas y "
-"minúsculas en alfabetos basados ​​en el latín."
+"minúsculas en alfabetos basados en el latín."
 
 # e445011b874941019cac1a126068ed19
 #: ../source/keyboard.rst:18
@@ -97,7 +101,7 @@ msgid ""
 "modifier. For example, fn + erase is delete; fn + up arrow is page up."
 msgstr ""
 "Tecla Fn - La tecla de función se utiliza en combinación con otras teclas "
-"como un modificador. Por ejemplo, Fn + borrado es eliminar; fn + flecha "
+"como un modificador. Por ejemplo, Fn + borrar es eliminar; fn + flecha "
 "hacia arriba es la página arriba."
 
 # 8ca5fa950da84958b8463c8b98b5169b
@@ -109,9 +113,9 @@ msgid ""
 "not in the Record Activity."
 msgstr ""
 "Tecla Alt - La tecla alt se utiliza en combinación con otras teclas para "
-"ejecutar comandos. Por ejemplo, alt + ENTER se cambia el modo de pantalla "
-"completa; alt + barra espaciadora cambia la visibilidad bandeja. Este "
-"ejemplo funciona en el Browse Actividad pero no en el Registro de Actividad."
+"ejecutar comandos. Por ejemplo, alt + ENTER se cambia al modo de pantalla "
+"completa; alt + barra espaciadora cambia la visibilidad de la bandeja. Este "
+"ejemplo funciona en el Actividad Navegar pero no en el actividad de Registro."
 
 # fd741326ca414772a0c456134cf5ff6e
 #: ../source/keyboard.rst:20
@@ -120,9 +124,9 @@ msgid ""
 "conjunction with the function key (fn), it will eventually view the source "
 "code for the currently running Activity."
 msgstr ""
-"Barra espaciadora - Los tipos barra espaciadora un espacio. En el futuro, "
+"Barra espaciadora - La barra espaciadora tipea un espacio. En el futuro, "
 "cuando se utiliza en conjunción con la tecla de función (fn), eventualmente "
-"ver el código fuente para la Actividad actualmente en ejecución."
+"mostrará el código fuente de la Actividad actualmente en ejecución."
 
 # 6c11276ce7914b75be784d22e9d2a41c
 #: ../source/keyboard.rst:21
@@ -134,8 +138,8 @@ msgid ""
 "generates a € (euro sign); typing the character \"a\" followed by alt gr + 4"
 " generates á."
 msgstr ""
-"Alt clave Gr - La tecla alt gráficos se utiliza en combinación con otras "
-"teclas como un modificador, más comúnmente para seleccionar una carta "
+"Tecla Alt Gr - La tecla alt gráficos se utiliza en combinación con otras "
+"teclas como un modificador, más comúnmente para seleccionar una letra "
 "alternativos o generar un carácter acentuado."
 
 # a482da98bed248b4a306d75c99482d13
@@ -144,9 +148,9 @@ msgid ""
 "Arrow keys -- The arrow keys are used for navigation; combined with the "
 "function key (fn), they are used for page up, page down, home, and end."
 msgstr ""
-"Teclas de flecha - La flecha teclas se utilizan para la navegación; "
-"combinada con la tecla de función (Fn), que se utilizan para la página "
-"arriba, página abajo, casa, y al final."
+"Teclas de flecha - La teclas de flecha se utilizan para la navegación; "
+"combinadas con la tecla de función (Fn), que se utilizan para navegar por la página "
+"arriba, página abajo, inicio, y el final."
 
 # 16b440798fff4ec1817bbe5afab21eb5
 #: ../source/keyboard.rst:23
@@ -157,10 +161,11 @@ msgid ""
 "(On Latin-only keyboards, the language key has been replaced by a × and ÷ "
 "key.)"
 msgstr ""
-"Lenguaje clave - La clave de idioma se encuentra en las disposiciones de "
-"teclado que combinan caracteres latinos y no latinos. Se cambia entre las "
-"secuencias de comandos, por lo que, por ejemplo, se puede cambiar entre "
-"escribir en Inglés y el hindi con una sola tecla. )"
+"Tecla de idioma - La tecla de idioma se encuentra en las disposiciones de "
+"teclado que combinan caracteres latinos y no latinos. Se cambia entre los modos "
+"de ingreso, por lo que, por ejemplo, se puede cambiar entre "
+"escribir en Inglés y el hindi con una sola tecla. (En teclados exclusivamente latinos, la tecla de idioma"
+" ha sido reemplazada por una tecla × y ÷)"
 
 # d993d0fb22144518b5cc7cef50988270
 #: ../source/keyboard.rst:24
@@ -168,7 +173,10 @@ msgid ""
 "Enter key -- The enter key—in addition to its standard use—is used in "
 "combination with modifier keys. For example, alt + enter toggles full-screen"
 " mode."
-msgstr "Por ejemplo, alt + ENTER se cambia el modo de pantalla completa."
+msgstr 
+"Tecla Entrar-- La tecla entrar -además de su uso estándar- se utiliza en "
+"combinación con teclas modificadoras. "
+"Por ejemplo, alt + entrar cambia al modo de pantalla completa."
 
 # b7d5f2248eb04e4bb8ce63f62cae4b34
 #: ../source/keyboard.rst:25
@@ -176,8 +184,8 @@ msgid ""
 "Erase key -- The erase key deletes the character behind the cursor "
 "(backspace). fn + erase deletes the key in front of (or on) the cursor."
 msgstr ""
-"Erase clave - La clave de borrado borra el carácter detrás del cursor "
-"(retroceso). fn + borrado elimina la clave frente a (o sobre) el cursor."
+"La tecla de borrar -- La tecla de borrar elimina el carácter detrás del cursor "
+"(retroceso). fn + borrar elimina la tecla frente a (o sobre) el cursor."
 
 # af1c62140c2e42f486374959bf11e592
 #: ../source/keyboard.rst:26
@@ -186,16 +194,16 @@ msgid ""
 "The Frame is the black border around the screen that holds the Activity "
 "taskbar, clipboard, wireless connections, battery level, and so on."
 msgstr ""
-"Clave Frame - La clave del marco alterna la presencia del marco de la "
+"Tecla de marco - La tecla de marco alterna la presencia del marco de la "
 "pantalla. El marco es el borde negro alrededor de la pantalla que contiene "
-"la Actividad barra de tareas, el portapapeles, conexiones inalámbricas, "
+"la Actividad, barra de tareas, el portapapeles, conexiones inalámbricas, "
 "nivel de batería, etc.."
 
 # a1cfc3ae97d64057aa28fd48ce900153
 #: ../source/keyboard.rst:27
 msgid "Volume controls -- The volume keys lower and raise the audio level."
 msgstr ""
-"Los controles de volumen - Las teclas de volumen inferior y elevar el nivel "
+"Los controles de volumen - Las teclas de volumen bajan y elevan el nivel "
 "de audio."
 
 # 5e8f7abf2a8742bebc4f96d48eca0a12
@@ -205,7 +213,7 @@ msgid ""
 " the screen backlight. To turn the backlight off completely may take 7-8 "
 "button presses."
 msgstr ""
-"Controles de brillo - Las teclas de brillo inferior y aumentar el brillo de "
+"Controles de brillo - Las teclas de brillo bajan y aumentan el brillo de "
 "la retroiluminación de la pantalla. Para encender la luz por completo puede "
 "tardar 7-8 pulsaciones de botón."
 
@@ -215,8 +223,8 @@ msgid ""
 "View keys -- The four view keys, from left to right, take you to the "
 "Neighborhood view, the Group view, the Home view, and the Activity view."
 msgstr ""
-"Para ver las teclas - Las cuatro teclas de vista, de izquierda a derecha, te"
-" llevan a la vista Barrio, la vista de grupo, la vista de inicio, y la vista"
+"Las teclas de vistas -- Las cuatro teclas de vista, de izquierda a derecha, te"
+" llevan a la vista de vecindario, la vista de grupo, la vista de inicio, y la vista"
 " de Actividad."
 
 # 78eb3609c82244afb64bdd571fb15941
@@ -225,5 +233,5 @@ msgid ""
 "Search key -- The search key takes you directly to the Journal and places "
 "the text cursor in the search box."
 msgstr ""
-"Tecla de búsqueda - La clave de búsqueda le lleva directamente a la Revista "
+"Tecla de búsqueda - La tecla de búsqueda te lleva directamente al Diario "
 "y coloca el cursor de texto en el cuadro de búsqueda."
