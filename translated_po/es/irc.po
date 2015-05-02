@@ -33,8 +33,8 @@ msgid ""
 "|IRC_icon| The IRC activity allows you to chat with other Sugar/OLPC users "
 "and enthusiasts on the Internet via Internet Relay Chat (IRC)."
 msgstr ""
-"| IRC_icon | La actividad de IRC te permite chatear con otros usuarios Sugar"
-" / OLPC y entusiastas en Internet a través de Internet Relay Chat (IRC)."
+"|IRC_icon| La actividad de IRC te permite chatear con otros usuarios Sugar/OLPC"
+" y entusiastas en Internet a través de Internet Relay Chat (IRC)."
 
 # 7e8be8b604fd44a1880dd4bf23ae7bbb
 #: ../source/irc.rst:12
@@ -45,13 +45,13 @@ msgid ""
 "Free/Open Source projects, Sugar developers frequent this channel, and are "
 "happy to help with any Sugar questions and suggestions you may have."
 msgstr ""
-"Los valores por defecto de actividad a un \"canal\" (similar a una "
-"\"habitación\") llamado #sugar en la red Freenode, pero usted puede unirse a"
-" uno de los muchos canales disponibles escribiendo / join #canal, donde "
-"#canal es el nombre del canal. Al igual que muchos proyectos de código "
-"abierto / gratuito, los desarrolladores de azúcar frecuentan este canal, y "
-"están dispuestos a ayudar con cualquier pregunta de azúcar y sugerencias que"
-" pueda tener."
+"La actividad por defecto te lleva a un \"canal\" (similar a una "
+"\"habitación\") llamado #sugar en la red Freenode, pero tú puedes unirte a"
+" uno de los muchos canales disponibles escribiendo /join #channel, donde "
+"#channel es el nombre del canal. Al igual que muchos proyectos de código "
+"abierto/gratuito, los desarrolladores de Sugar frecuentan este canal, y "
+"están dispuestos a ayudar con cualquier pregunta de Sugar y sugerencias que"
+" puedas tener."
 
 # 295007d33c1f471794680302dc0ba950
 #: ../source/irc.rst:14
@@ -60,9 +60,8 @@ msgid ""
 "<http://wiki.sugarlabs.org/go/Internet_Relay_Chat>`_ for a list of Sugar-"
 "related channels you can join."
 msgstr ""
-"Vea la página de Internet Chat Relay en `este wiki <http: // wiki. "
-"sugarlabs. org / go / Internet_Relay_Chat> `_ para una lista de canales "
-"relacionados con el azúcar puede unirse."
+"Mira la página de Internet Relay Chat en `esta wiki <http://wiki.sugarlabs.org/go/Internet_Relay_Chat>"
+"`_ para una lista de canales relacionados con Sugar a los que puedes unirte."
 
 # 05e20d1917c14141a663c3584fbb323e
 #: ../source/irc.rst:19
@@ -86,18 +85,18 @@ msgstr ""
 # 0960938068f44f2aa1b80f7aa3207b26
 #: ../source/irc.rst:26
 msgid "/join #channel - join a channel"
-msgstr "/ Join #canal - unirse a un canal"
+msgstr "/join #channel - unirse a un canal"
 
 # 401fea877e8b4a8fa0676e855f1b614b
 #: ../source/irc.rst:28
 msgid "/server irc.example.org - connect to a different network"
-msgstr "/ Irc servidor. ejemplo. org - para conectar a una red diferente"
+msgstr "/server irc.example.org - para conectar a una red diferente"
 
 # e6c542257a744bc69e130739d49be56f
 #: ../source/irc.rst:30
 msgid "/query user - open up a private chat window with another user"
 msgstr ""
-"/ Query user - abrir una ventana de conversación privada con otro usuario"
+"/query user - abrir una ventana de conversación privada con otro usuario"
 
 # 5629de3fc833421eb0f3750b7e4370ec
 #: ../source/irc.rst:32
@@ -105,13 +104,13 @@ msgid ""
 "/msg user message - privately message another user without opening a new "
 "window"
 msgstr ""
-"/ Msg usuario mensaje - privada mensaje a otro usuario sin necesidad de "
+"/msg user message - mensaje privado a otro usuario sin necesidad de "
 "abrir una nueva ventana"
 
 # 4004a3804e6c4ac18a8eeb2c4beca1cb
 #: ../source/irc.rst:34
 msgid "/nick new_name - change your nickname away from the default"
-msgstr "/ Nick new_name - cambiar su apodo de distancia del defecto"
+msgstr "/nick new_name - cambia tu apodo del otorgado por defecto"
 
 # 92cfd3da41d44aef9250f947d7862528
 #: ../source/irc.rst:36
@@ -120,9 +119,9 @@ msgid ""
 "own channels as well: see the `IRC FAQ "
 "<http://www.irchelp.org/irchelp/altircfaq.html>`_ for more information."
 msgstr ""
-"Muchos otros comandos están disponibles, y usted puede crear y administrar "
-"sus propios canales, así: ver el `IRC FAQ <http: // www. irchelp. org / "
-"irchelp / altircfaq. html> `_ para más información."
+"Muchos otros comandos están disponibles, y tú puedes crear y administrar "
+"tus propios canales así: mira el `IRC FAQ <http://www.irchelp.org/irchelp/altircfaq.html>"
+" `_ para más información."
 
 # 3b2c0b4639c34105b94a834ca3bcba00
 #: ../source/irc.rst:40
@@ -133,7 +132,7 @@ msgstr "Descargar"
 #: ../source/irc.rst:41
 msgid "`ASLO IRC <http://activities.sugarlabs.org/sugar/addon/4029>`_"
 msgstr ""
-"`ASLO IRC <http: // actividades. sugarlabs. org / azúcar / addon / 4029> `_"
+"`ASLO IRC <http://activities.sugarlabs.org/sugar/addon/4029> `_"
 
 # 3eecf5307eb2477aa74e5b1e5e27649b
 #: ../source/irc.rst:45
@@ -143,7 +142,7 @@ msgstr "Desarrollo"
 # db5ec377e79f4971acc58a02c6ff0679
 #: ../source/irc.rst:46
 msgid "`Git Repository <http://git.sugarlabs.org/projects/irc>`_"
-msgstr "`Go Repositorio <http: // Go. sugarlabs. org / projects / irc> `_"
+msgstr "`Repositorio Git <http://git.sugarlabs.org/projects/irc> `_"
 
 # 94b4e0ecd9cf4848bd30e55b8b1dfe19
 #: ../source/irc.rst:50
@@ -154,4 +153,4 @@ msgstr "Referencias"
 #: ../source/irc.rst:51
 msgid "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/IRC>`_"
 msgstr ""
-"`Wiki Páginas <http: // wiki. sugarlabs. org / go / Actividades / IRC> `_"
+"`Página Wiki <http://wiki.sugarlabs.org/go/Activities/IRC> `_"
