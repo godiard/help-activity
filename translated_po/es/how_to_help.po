@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 4863b87ceafe43779c0a8d06797c7368
@@ -25,7 +25,7 @@ msgstr "Cómo editar Ayuda y contribuir"
 # e6a88cd451334970b284614bd864a02f
 #: ../source/how_to_help.rst:7
 msgid "Page version for review."
-msgstr "Página versión para revisión."
+msgstr "Página para revisión."
 
 # 7b9f70647f98429ca37b7fcd79d76d05
 #: ../source/how_to_help.rst:9
@@ -33,26 +33,26 @@ msgid ""
 "Corrections, omissions, and feedback most welcome, iain at browndouglas dot "
 "plus dot com. 28 November 2013."
 msgstr ""
-"Las correcciones, omisiones y retroalimentación más bienvenida, Iain en "
-"browndouglas dot com plus. 28 de noviembre 2013."
+"Las correcciones, omisiones y retroalimentación son bienvenidas, iain at "
+"browndouglas dot com . 28 de noviembre 2013."
 
 # 649acac3b0a14969a48ba7a638e70c2f
 #: ../source/how_to_help.rst:12
 msgid "Help displays documentation for Sugar and the XO laptop."
-msgstr "Ayuda muestra documentación de Azúcar y el portátil XO."
+msgstr "Ayuda muestra documentación de Sugar y el portátil XO."
 
 # c65586723b4e49cb9c16c640deea283e
 #: ../source/how_to_help.rst:14
 msgid ""
-"This version of Help contains all the source files and images, and now a "
-":ref:`View source` button. These files can be edited within Help, and "
+"This version of Help contains all the source files and images, and now a :"
+"ref:`View source` button. These files can be edited within Help, and "
 "displayed. Help is now capable of producing new pages for Help, or making "
 "completely fresh documentation."
 msgstr ""
 "Esta versión de ayuda contiene todos los archivos de código fuente y las "
-"imágenes, y ahora un: ref: botón source` Ver `. Estos archivos se pueden "
-"editar en Ayuda, y se muestran. La ayuda es ahora capaz de producir nuevas "
-"páginas para Ayuda, o hacer la documentación completamente fresca."
+"imágenes, y ahora permite ref:`View source`. Estos archivos se pueden "
+"editar y ver en Ayuda. La ayuda es ahora capaz de producir nuevas "
+"páginas para Ayuda, o hacer documentación completamente nueva."
 
 # cf895180a90d49379ee13a26e06f0c04
 #: ../source/how_to_help.rst:16
@@ -63,7 +63,7 @@ msgid ""
 msgstr ""
 "Esta página tiene como objetivo mostrar cómo escribir documentación "
 "atractiva, que, si los usuarios compartir su trabajo, podría ser utilizado "
-"para mejorar la Ayuda. Contribuir es necesario sólo para:"
+"para mejorar la Ayuda. Para contribuir sólo necesitas:"
 
 # f3ba9a9b60c54ede82b14f4fec5f1edf
 # 426cf437de904d8384698a9dfdb5acf2
@@ -75,48 +75,47 @@ msgstr "Crear un entorno de desarrollo"
 # 24ffcc2bd19d4c0889d63c76a416438d
 #: ../source/how_to_help.rst:19 ../source/how_to_help.rst:135
 msgid "Make changes"
-msgstr "Haga los cambios"
+msgstr "Hacer los cambios"
 
 # 5e8ed79f33374c299dcf63ec735881ea
 #: ../source/how_to_help.rst:20
 msgid "Contribute the changes"
-msgstr "Contribuir a los cambios"
+msgstr "Contribuir con los cambios"
 
 # b70d62e9283148b38f32a0202dad0457
 #: ../source/how_to_help.rst:25
 msgid "XO Help.xo 17 already includes the source files ready to use."
-msgstr "XO Ayuda. xo 17 ya incluye los archivos de origen listo para usar."
+msgstr "XO Help.xo 17 ya incluye los archivos de fuentes listos para usar."
 
 # e94f0238520a4932a217c6cfc5fda312
 #: ../source/how_to_help.rst:27
 msgid ""
 "Alternatively, you can use git to get Help Activity with the most recent "
-"sources included. If you have the Activity Help already installed, uninstall"
-" it first. Generally an Activity is uninstalled from the F3, Home View, "
-"List, by selecting the Activity, and press Erase. Where Erase is not "
-"available, you need to delete ``Help.activity`` from the folder "
-"``~/Activities``."
+"sources included. If you have the Activity Help already installed, uninstall "
+"it first. Generally an Activity is uninstalled from the F3, Home View, List, "
+"by selecting the Activity, and press Erase. Where Erase is not available, "
+"you need to delete ``Help.activity`` from the folder ``~/Activities``."
 msgstr ""
-"Alternativamente, puede utilizar git obtener Ayuda Actividad con las fuentes"
-" más recientes incluidos. Si usted tiene la actividad de ayuda ya ha "
-"instalado, desinstalarlo primero. Generalmente una Actividad se desinstala "
-"del F3, Home Ver, Lista, mediante la selección de la Actividad y pulse "
-"Borrar. Dónde Borrar no está disponible, es necesario eliminar `` Ayuda. "
-"activity`` de la carpeta `` ~ / Activities``."
+"Alternativamente, puedes utilizar git para obtener la Actividad Ayuda con los fuentes "
+"más recientes incluidos. Si tienes la actividad de ayuda ya "
+"instalado, desinstalala primero. Generalmente una Actividad se desinstala "
+"desde la Vista Hogar, en la VIsta de  Lista, mediante la selección de la Actividad y pulsando "
+"Borrar. Dónde Borrar no está disponible, es necesario eliminar la actividad `` Ayuda. "
+"`` de la carpeta ``~/Activities``."
 
 # 8d529036f88d4a52b420f55d2feb2834
 #: ../source/how_to_help.rst:29
 msgid ""
-"The following guide assumes you ``git clone`` from your home directory. This"
-" command will collect all the required resources."
+"The following guide assumes you ``git clone`` from your home directory. This "
+"command will collect all the required resources."
 msgstr ""
-"La siguiente guía supone que `` clone`` git desde su directorio principal. "
+"La siguiente guía supone que  tu haz hecho ``git clone`` desde su directorio principal. "
 "Este comando recoger todos los recursos necesarios."
 
 # 6df5aef7ac5943ca979683bbcb9eb262
 #: ../source/how_to_help.rst:35
 msgid "You can install it in your Sugar development environment doing: ::"
-msgstr "Se puede instalar en el entorno de desarrollo de azúcar haciendo: ::"
+msgstr "Se puede instalar en el entorno de desarrollo de Sugar haciendo: ::"
 
 # d11bba1a98864d25945d77615c2e4181
 #: ../source/how_to_help.rst:40
@@ -124,14 +123,14 @@ msgid ""
 "You need have a complete sugar environment to run \"setup.py dev\" if you "
 "have a error in your system, try run it in the Terminal Activity."
 msgstr ""
-"Configuración Usted necesita tener un ambiente de azúcar completa a correr "
-"\". dev py \"si tiene un error en su sistema, trate de ejecutarlo en la "
+"Necesita tener un ambiente de Sugar completa para correr "
+"\"setup.py dev\" si tienes un error en tu sistema, trata de ejecutarlo en la "
 "Actividad Terminal."
 
 # 23236e64369f4537b68ac972c3d51b55
 #: ../source/how_to_help.rst:42
 msgid "and, when you are ready, to populate your Help pages ::"
-msgstr "y, cuando esté listo, para llenar sus páginas de Ayuda ::"
+msgstr "y, cuando estes listo, llenar tus páginas de Ayuda ::"
 
 # 5d8cee3e494d43d48c914b28d3dbee53
 #: ../source/how_to_help.rst:46
@@ -139,14 +138,13 @@ msgid ""
 "You can modify any .rst file in ~/help-activity/source/ directory or the "
 "images in the ~/help-activity/source/images/ directory."
 msgstr ""
-"Puede modificar cualquiera. archivo primero en ~ / help-actividad / fuente /"
-" directorio o las imágenes de la imágenes directorio ~ / help-actividad / "
-"fuente / /."
+"Puedes modificar cualquier archivo .rst primero en ~ /help-activity/source/ "
+"o las imágenes en su directorio ~/help-activity/source/images/."
 
 # 1406b8ba03024ca0942f2091938b41a9
 #: ../source/how_to_help.rst:48
 msgid "To create the new HTML files you only need do: ::"
-msgstr "Para crear los nuevos archivos HTML que sólo necesita hacer: ::"
+msgstr "Para crear los nuevos archivos HTML sólo necesitas hacer: ::"
 
 # 30df8de3aae843f69e7932f73aedf9bc
 #: ../source/how_to_help.rst:53
@@ -154,8 +152,8 @@ msgid ""
 "If you see an error indicating that HTML cannot be built, the most likely "
 "cause is that ``python-sphinx`` is missing."
 msgstr ""
-"Si usted ve un error que indica que el HTML no se puede construir, la causa "
-"más probable es que `` python-sphinx`` falta."
+"Si ves un error que indica que el HTML no se pudo construir, la causa "
+"más probable es que falte ``python-sphinx``."
 
 # e9891c39b8824e88bee93153faafa3af
 #: ../source/how_to_help.rst:55
@@ -163,7 +161,7 @@ msgid ""
 "To fix this, in Terminal Activity (or any terminal emulator) as root, ::"
 msgstr ""
 "Para solucionar este problema, en la Actividad Terminal (o cualquier "
-"emulador de terminal) como root, ::"
+"emulador de terminal) haz como root, ::"
 
 # d5b1b011b9db493784741e0ebe8bf35c
 #: ../source/how_to_help.rst:59
@@ -177,9 +175,9 @@ msgid ""
 "``make html``, you just click with the secondary mouse button, and select "
 "reload."
 msgstr ""
-"En Azúcar ** ** no es necesario reiniciar Ayuda para ver los cambios después"
-" de ejecutar `` make html``, basta con hacer clic con el botón secundario "
-"del ratón y selecciona recarga."
+"En **Sugar** no es necesario reiniciar Ayuda para ver los cambios después "
+"de ejecutar ``make html``, basta con hacer clic con el botón secundario del "
+"ratón y selecciona recarga."
 
 # 93bc6304010f4758b2393f39a20c0c31
 #: ../source/how_to_help.rst:65
@@ -187,14 +185,14 @@ msgid ""
 "In any other, non-Sugar, Linux environment the command ``git clone "
 "git@github.com:godiard/help-activity.git`` works to download the sources, "
 "``./setup.py dev`` should be omitted, and the output of ``make html`` is in "
-"``~/help-activity/html``, and is displayed by opening ``~/help-"
-"activity/html/index.html`` in a browser."
+"``~/help-activity/html``, and is displayed by opening ``~/help-activity/html/"
+"index.html`` in a browser."
 msgstr ""
-"En cualquier otro no-azúcar, medio ambiente, Linux el comando `` git clone "
-"git github @. com: godiard / help-actividad. git`` trabaja para descargar el"
-" código fuente, ``. / Preparar. dev`` py debe omitirse, y la salida de `` "
-"make html`` está en `` ~ / help-actividad / html``, y se muestra al abrir ``"
-" ~ / help-actividad / html / index. html`` en un navegador."
+"En cualquier otro ambiente distinto a Sugar, Linux el comando `` git clone "
+"git@github.com:godiard/help-activity.git`` funciona para descargar el "
+"código fuente,``./setup.py dev`` debe omitirse, y la salida de `` "
+"make html`` está en ``~/help-activity/html``, y se muestra al abrir `` "
+"~/help-activity/html/index.html`` en un navegador."
 
 # 6c942e6b022c490a9c68ba490e6444e1
 #: ../source/how_to_help.rst:68
@@ -208,21 +206,20 @@ msgid ""
 "and get lost or make a mistake, and Help will not display correctly, you "
 "should not worry."
 msgstr ""
-"En Azúcar no se puede romper Ayuda. Si usted comienza a seguir estas "
-"instrucciones y perderse o cometer un error, y ayuda no se mostrarán "
-"correctamente, usted no debe preocuparse."
+"En Sugar no se puede romper Ayuda. Si comienzas a seguir estas "
+"instrucciones y te pierdes o cometes un error, y Ayuda no se muestra "
+"correctamente, no debes preocuparte."
 
 # 8b3ecb449c0e49dbbc7e5b0823c6c86c
 #: ../source/how_to_help.rst:72
 msgid ""
-"First back up any files.rst you have already made, then visit `ASLO "
-"<http://activities.sugarlabs.org>`_ with Browse. Search for Help, and "
-"download and install a new copy of XO Help."
+"First back up any files.rst you have already made, then visit `ASLO <http://"
+"activities.sugarlabs.org>`_ with Browse. Search for Help, and download and "
+"install a new copy of XO Help."
 msgstr ""
-"Primera copia de seguridad de archivos. primero usted ya ha hecho, a "
-"continuación, visite `ASLO <http: // actividades. sugarlabs. org> `_ con "
-"Navegar. Búsqueda de Ayuda y descargar e instalar una nueva copia de XO "
-"Ayuda."
+"Primero haz una copia de seguridad de los archivos .rst que ya haz hecho, a "
+"continuación, visita `ASLO <http://activities.sugarlabs.org> `_ con "
+"Navegar, búsca Ayuda y descarga e instala una nueva copia de XO Ayuda."
 
 # 76021c22726444578544887dbc032c09
 #: ../source/how_to_help.rst:74
@@ -231,12 +228,12 @@ msgid ""
 "work by doing: ::"
 msgstr ""
 "Alternativamente, los usuarios experimentados pueden hacer una copia de "
-"seguridad. xo antes de comenzar a trabajar haciendo: ::"
+"seguridad. del .xo antes de comenzar a trabajar haciendo: ::"
 
 # 3a02c0e44e8b406b93a18673b70d1b56
 #: ../source/how_to_help.rst:78
 msgid "This will create a directory dist and inside, an .xo file."
-msgstr "Esto creará un directorio dist y en el interior, un. archivo xo."
+msgstr "Esto creará un directorio dist y en el interior, un. archivo .xo."
 
 # 105d3f5f13ac4cb3945d3674fbc70fee
 #: ../source/how_to_help.rst:81
@@ -246,27 +243,26 @@ msgstr "Tutorial 0 - Explorar sistema de archivos"
 # 9e2226a8ec1e421ebe471b56c422a23d
 #: ../source/how_to_help.rst:83
 msgid "In Browse and some other browsers if you type ::"
-msgstr "Explorar y algunos otros navegadores si escribe ::"
+msgstr "En Navegar y algunos otros navegadores si escribes ::"
 
 # 1b2c05f73d8843b7bfd11f70e96f9b18
 #: ../source/how_to_help.rst:87
 msgid "in the address bar, you will be browsing the root of your file system."
 msgstr ""
-"en la barra de direcciones, estará navegando la raíz del sistema de "
-"archivos."
+"en la barra de direcciones, estarás navegando la raíz del sistema de archivos."
 
 # b9cfcea11cba4d0993dfef88e3f9a309
 #: ../source/how_to_help.rst:89
 msgid "Now move progressively through ::"
-msgstr "Ahora mueve progresivamente a través de ::"
+msgstr "Ahora muevete progresivamente a través ::"
 
 # 5cd381caf4b94bd28c0267d58507ba46
 #: ../source/how_to_help.rst:99
 msgid ""
 "You are now able to open and inspect any of the *source_files.rst* safely."
 msgstr ""
-"Ahora eres capaz de abrir e inspeccionar cualquiera de los * SOURCE_FILES. *"
-" primera forma segura."
+"Ahora eres capaz de abrir e inspeccionar cualquiera de los *archivos fuentes .rst* "
+"en forma segura."
 
 # 6beea081ef3b40688b026bac81bddc11
 #: ../source/how_to_help.rst:101
@@ -285,9 +281,8 @@ msgid ""
 "In this page we use the convention of calling ``/home/your-username/help-"
 "activity/source`` by the shorter, ``~/help-activity/source``."
 msgstr ""
-"En esta página se utiliza la convención de llamar `` / home / tu-nombre de "
-"usuario / help-actividad / source`` por el más corto, `` ~ / help-actividad "
-"/ source``."
+"En esta página se utiliza la convención de llamar ``/home/tu-nombre/help-"
+"activity/source`` por el más corto, ``~/help-actividad/source``."
 
 # cb6a6d3a2acc4ab880b1f473abe40381
 #: ../source/how_to_help.rst:112
@@ -297,7 +292,7 @@ msgstr "Orientación"
 # f0454593a0c14e4fa6cf3a75cc54ae75
 #: ../source/how_to_help.rst:114
 msgid "**Source**"
-msgstr "** Fuente **"
+msgstr "**Fuentes**"
 
 # ddf4c57c309e46e68ce5e82de6f65f27
 #: ../source/how_to_help.rst:116
@@ -311,11 +306,11 @@ msgstr ""
 # 3d2864c1c25f477fa8c2ac6de12a73ac
 #: ../source/how_to_help.rst:118
 msgid ""
-"The directory ``~/help-activity/source/`` contains the text files we will be"
-" altering in this guide."
+"The directory ``~/help-activity/source/`` contains the text files we will be "
+"altering in this guide."
 msgstr ""
-"El directorio `` ~ / help-actividad / fuente / `` contiene los archivos de "
-"texto vamos a alterar en esta guía."
+"El directorio ``~/help-activity/source/`` contiene los archivos de "
+"texto que vamos a alterar en esta guía."
 
 # 11e485996a8a4d509a03c7d8fe4fac82
 #: ../source/how_to_help.rst:120
@@ -325,58 +320,58 @@ msgid ""
 "and if they are linked into documents, they will display in the *output* of "
 "the command ``make html``."
 msgstr ""
-"El directorio `` ~ / help-actividad / images / `` contiene todas las "
-"imágenes que se utilizan en las distintas páginas de Ayuda. Puede agregar "
-"archivos de imagen a esta carpeta, y si están vinculados en documentos, que "
-"se mostrará en la salida * * de la orden `` hacer html``."
+"El directorio ``~/help-activity/images/`` contiene todas las "
+"imágenes que se utilizan en las distintas páginas de Ayuda. Puedes agregar "
+"archivos de imagenes a esta carpeta, y si están vinculados a documentos, "
+"se mostrarán en la *salida* de la orden ``make html``."
 
 # 798a25a7060849f5b759d1df78e102d9
 #: ../source/how_to_help.rst:122
 msgid ""
-"In Sugar you have the ability to inspect the source files safely, using the "
-":ref:`View source` button on the Help icon in the Frame."
+"In Sugar you have the ability to inspect the source files safely, using the :"
+"ref:`View source` button on the Help icon in the Frame."
 msgstr ""
-"En Azúcar usted tiene la capacidad de inspeccionar los archivos de origen de"
-" forma segura, utilizando el: ref: `botón Vista source` en el icono Ayuda en"
-" el Marco."
+"En Sugar usted tiene la capacidad de inspeccionar los archivos de origen de "
+"forma segura, utilizando el boton :ref:`View source` en el icono Ayuda en "
+"el Marco."
 
 # 8394512632dc4738aa90a0fdea9f2cab
 #: ../source/how_to_help.rst:124
 msgid ""
-"The key page in navigating Help is the Index or contents page. In the "
-"``~/help-activity/source/`` folder, `index.rst` is the text document which "
+"The key page in navigating Help is the Index or contents page. In the ``~/"
+"help-activity/source/`` folder, `index.rst` is the text document which "
 "automatically provides links to all other pages in the source folder."
 msgstr ""
 "La página clave en la navegación de Ayuda es la página de índice o "
-"contenido. En el `` ~ / help-actividad / fuente / `carpeta,` `índice. rst` "
-"es el documento de texto que proporciona automáticamente los enlaces a todas"
-" las otras páginas de la carpeta de origen."
+"de contenidos. En la carpeta ``~ /help-activity/source// ` el archivo, ` `índex. rst` "
+"es el documento de texto que proporciona automáticamente los enlaces a todas "
+"las otras páginas de la carpeta de origen."
 
 # 020f7cfd70f8406d9da044b140273743
 #: ../source/how_to_help.rst:126
 msgid "**Output**"
-msgstr "** ** Salida"
+msgstr "**Salida**"
 
 # 496bfbf430b74bbda1646913e6f92dfc
 #: ../source/how_to_help.rst:128
 msgid ""
-"The pages displayed in Help are the output of the command ``make html``. The"
-" files are in the folder ``~/help-activity/html/``."
+"The pages displayed in Help are the output of the command ``make html``. The "
+"files are in the folder ``~/help-activity/html/``."
 msgstr ""
-"Las páginas mostradas en la Ayuda son el resultado del comando make html``. "
-"Los archivos están en la carpeta `` ~ / help-actividad / html / ``."
+"Las páginas mostradas en la Ayuda son el resultado del comando ``make html``. "
+"Los archivos están en la carpeta ``~/help-activity/html/``."
 
 # 81b0a06cf8d14aecaa94f112040a88da
 #: ../source/how_to_help.rst:130
 msgid ""
-"Also part of the output of the command ``make html`` are the files in "
-"``~/help-activity/doctrees/``. The role of the ``all_files.doctree`` is to "
+"Also part of the output of the command ``make html`` are the files in ``~/"
+"help-activity/doctrees/``. The role of the ``all_files.doctree`` is to "
 "interlink all the HTML pages within the rules of the underlying software."
 msgstr ""
-"También forman parte de la salida de la orden `` make html`` son los "
-"archivos de `` ~ / help-actividad / doctrees / ``. El papel de los `` "
-"all_files. doctree`` es conseguir la interconexión de todas las páginas HTML"
-" dentro de las reglas del software subyacente."
+"También forman parte de la salida de la orden ``make html`` los "
+"archivos de ``~/help-activity/doctrees/ ``. El papel de los `` "
+"archivos ``all_files.doctree`` es conseguir la interconexión de todas las páginas HTML "
+"dentro de las reglas del software subyacente."
 
 # 605c4e961e2d439eb68d3c6d7781a259
 #: ../source/how_to_help.rst:132
@@ -386,11 +381,11 @@ msgid ""
 "``_sources``, ``_static``, and ``_images``). These are also *output files*, "
 "they could be regarded as hidden folders, and should not be edited."
 msgstr ""
-"Dependiendo de la configuración de su instalación no puede ser un número de "
-"otras carpetas presentes en el directorio ~ / help-actividad / html / "
-"carpeta (por ejemplo `` _sources`` `` `` `` _static``, y `` _images ``). "
-"Estos son también los archivos de salida * *, podrían ser considerados como "
-"carpetas ocultos, y no deben ser editados."
+"Dependiendo de la configuración de su instalación puede haber un número de "
+"otras carpetas presentes en el directorio ~/help-activity/html/ "
+"carpeta (por ejemplo ``_sources``, ``_static``, e ``_images``). "
+"Estos son también *archivos de salida*, podrían ser considerados como "
+"carpetas ocultas, y no deben ser editados."
 
 # 6f03b50f59c4408e9135c62b7b859d88
 #: ../source/how_to_help.rst:137
@@ -399,43 +394,41 @@ msgid ""
 "pictures or screen-shots. Screen-shots are made in Sugar from the keyboard, "
 "by pressing the \"Alt\" key and 1."
 msgstr ""
-"Usted puede escribir una página en texto simple, tal vez con algunas "
-"imágenes explicativas o fotografías en pantalla. Las instantáneas de "
-"pantallas se hacen en azúcar desde el teclado, pulsando la tecla \"Alt\" y "
-"1."
+"Puedes escribir una página en texto simple, tal vez con algunas "
+"imágenes explicativas o fotografías de pantalla. Las instantáneas de "
+"pantallas se hacen en Sugar desde el teclado, pulsando la tecla \"Alt\" y 1."
 
 # d749b93fb401449db100d46aec3e5728
 #: ../source/how_to_help.rst:139
 msgid ""
-"The page :doc:`/restructuredtext` gives some guidance on the features of the"
-" markup language we use. Do not be concerned with complex features, plain, "
+"The page :doc:`/restructuredtext` gives some guidance on the features of the "
+"markup language we use. Do not be concerned with complex features, plain, "
 "simply written text will be of most use to new learners."
 msgstr ""
-"La página: doc: `/ restructuredtext` da una orientación sobre las "
-"características del lenguaje de marcas que utilizamos. No se preocupe con "
-"características complejas, texto plano, simplemente escrita será de mayor "
+"La página :doc:`/restructuredtext` da una orientación sobre las "
+"características del lenguaje de marcas que utilizamos. No te preocupes con "
+"características complejas, texto plano, simplemente escrito será de mayor "
 "utilidad para los nuevos estudiantes."
 
 # 0314f265c4454d20b347a6758727aa91
 #: ../source/how_to_help.rst:141
 msgid ""
 "You will have your own ideas about what you would like to change and "
-"contribute. When you explain anything, which you have struggled to learn, it"
-" is likely to be of use to others. Seeing your work published gives quite a "
+"contribute. When you explain anything, which you have struggled to learn, it "
+"is likely to be of use to others. Seeing your work published gives quite a "
 "buzz!"
 msgstr ""
-"Usted tendrá sus propias ideas acerca de lo que le gustaría cambiar y "
-"contribuir. Cuando expliques nada, que ha tenido problemas para aprender, es"
-" probable que sea de utilidad para otros. Al ver su trabajo publicado da un "
-"zumbido bastante!"
+"Tendrás tus propias ideas acerca de lo que te gustaría cambiar y "
+"contribuir. Cuando expliques algo, que hayas tenido problemas para aprender, es "
+"probable que sea de utilidad para otros. Al ver tu trabajo publicado da una "
+"gran alegría!"
 
 # f19449bd19634ce39344fdd9ec12ea29
 #: ../source/how_to_help.rst:143
 msgid ""
-"Here are a few exercises, which demonstrate making changes, and making "
-"pages."
+"Here are a few exercises, which demonstrate making changes, and making pages."
 msgstr ""
-"Aquí hay algunos ejercicios, que demuestran que realizan cambios, y hacer "
+"Aquí hay algunos ejercicios, que demuestran como realizar cambios, y hacer "
 "páginas."
 
 # 7cb509861f994e049f19260dcd4a0f1a
@@ -449,14 +442,14 @@ msgid ""
 "We are going to make a fresh page in reStructuredText. It will not at first "
 "be connected to the index, or contents page, of Help."
 msgstr ""
-"Vamos a hacer una nueva página en reStructuredText. Será al principio no "
-"estar conectado al índice o página de contenidos, de Ayuda."
+"Vamos a hacer una nueva página en reStructuredText. Al principio no "
+"estará conectado al índice o página de contenidos, de Ayuda."
 
 # d1fd79ce9a3c45d19e8dbfa2a0f60f54
 # 492a9f239e3a478796c537986616ef88
 #: ../source/how_to_help.rst:150 ../source/how_to_help.rst:255
 msgid "Open a new file in any text editor."
-msgstr "Abra un nuevo archivo en cualquier editor de texto."
+msgstr "Abre un nuevo archivo en cualquier editor de texto."
 
 # cc690c18b27a428ca63c990ad6961b49
 #: ../source/how_to_help.rst:152
@@ -466,11 +459,11 @@ msgid ""
 "line of \"=\" \"equal\" signs above and below the title like this. Leave a "
 "line of white space, then type some text. This is an example:"
 msgstr ""
-"Guarde el archivo con el nombre de `` my_first. rst`` en `` ~ / help-"
-"actividad / source``. Escriba algún texto en la página. Con el fin de dar a "
+"Guarda el archivo con el nombre de ``my_first.rst`` en ``~/ help-"
+"actividad/source``. Escribe algún texto en la página. Con el fin de dar a "
 "la página un título ponemos una línea de \"=\" \"signos de igualdad\" por "
-"encima y por debajo del título como este. Deje una línea de espacio en "
-"blanco, a continuación, escriba algún texto. Este es un ejemplo:"
+"encima y por debajo del título como este. Deja una línea de espacio en "
+"blanco, a continuación, escribe algún texto. Este es un ejemplo:"
 
 # 12e0dd3a16d8404bbbca1ab1a5ddd55d
 #: ../source/how_to_help.rst:162
@@ -478,9 +471,9 @@ msgid ""
 "Now we want to convert our little page of text into an attractive page of "
 "Help. Open Terminal Activity (or any terminal emulator) and type,"
 msgstr ""
-"Ahora queremos convertir nuestra página poco de texto en una página "
-"atractiva de Ayuda. Abrir Actividad Terminal (o cualquier emulador de "
-"terminal) y el tipo,"
+"Ahora queremos convertir nuestra página de texto en una página "
+"atractiva de Ayuda. Abre la Actividad Terminal (o cualquier emulador de "
+"terminal) y tipéa,"
 
 # 6684014ba31e4b14a83831fc1d4779ce
 #: ../source/how_to_help.rst:169
@@ -489,9 +482,9 @@ msgid ""
 "Read the error trace, expect to see an error line like the one below, but "
 "the final two lines here report a success."
 msgstr ""
-"Habrá cerca de diez líneas de salida, habrá una mención de los errores. Leer"
-" la traza de error, esperan ver una línea de error como el de abajo, pero "
-"las dos últimas líneas aquí reportan un éxito."
+"Habrá cerca de diez líneas de salida, habrá una mención a los errores. Leer "
+"la traza de error, esperan ver una línea de error como la de abajo, pero las "
+"dos últimas líneas reportarán un éxito."
 
 # b0657fd955824329ae7e30e96fd3ecf0
 #: ../source/how_to_help.rst:178
@@ -499,20 +492,20 @@ msgid ""
 "The warning, \"WARNING: document isn't included in any toctree\" is telling "
 "us the document is not linked into the Help index yet."
 msgstr ""
-"La advertencia, \"ADVERTENCIA: el documento no está incluido en ninguna "
-"toctree\" nos está diciendo que el documento no está vinculado al Índice de "
+"La advertencia, \"WARNING: document isn't included in any toctree\" "
+"nos está diciendo que el documento no está vinculado al Índice de "
 "ayuda aún."
 
 # e272ab95e0784f368ed2f17fc93aa0b7
 #: ../source/how_to_help.rst:180
 msgid ""
-"Tutorial 2 will fix this. It does exist and you could see what it looks like"
-" if you can find it as described above with a browser in ``~/help-"
-"activity/html``."
+"Tutorial 2 will fix this. It does exist and you could see what it looks like "
+"if you can find it as described above with a browser in ``~/help-activity/"
+"html``."
 msgstr ""
-"Tutorial 2 solucionará el problema. Sí existe y se podía ver lo que parece "
-"si se lo puede encontrar como se describe anteriormente con un navegador en "
-"`` ~ / help-actividad / html``."
+"Tutorial 2 solucionará el problema. Ya existe y se puede ver como luce "
+"si lo puede encontrar como se describió anteriormente con un navegador en "
+"``~/help-activity/html``."
 
 # 5dbfadf8015747cf917be32c489438c3
 #: ../source/how_to_help.rst:183
@@ -525,8 +518,8 @@ msgid ""
 "Backup your index file. Open Terminal Activity (or any terminal emulator) "
 "and type,"
 msgstr ""
-"Copia de seguridad de su archivo de índice. Abrir Actividad Terminal (o "
-"cualquier emulador de terminal) y el tipo,"
+"Haz una copia de seguridad de tu archivo de índice. Abre Actividad Terminal (o "
+"cualquier emulador de terminal) y tipéa,"
 
 # b32c8e695d434ed7abaa9fc8ae872a3f
 #: ../source/how_to_help.rst:193
@@ -534,9 +527,9 @@ msgid ""
 "Above, we have changed directory into help-activity, changed directory into "
 "source, and copied ``index.rst`` to a new file named ``index.rst.ori``"
 msgstr ""
-"Por encima, hemos cambiado el directorio en ayuda-actividad, cambiado de "
-"directorio en la fuente, y copiado `` índice. rst`` en un nuevo archivo "
-"llamado `` índice. primera. ori``"
+"Aqui, hemos cambiado al directorio help-activity, cambiado de "
+"directorio a source, y copiado ``index. rst`` en un nuevo archivo "
+"llamado ``index.rst.ori``"
 
 # 7d01a9c7474e4f97a8f8f624b34ee306
 #: ../source/how_to_help.rst:195
@@ -544,8 +537,8 @@ msgid ""
 "Before proceeding make sure you are familiar with how to restore your index "
 "from the backup, in case you damage your Help index."
 msgstr ""
-"Antes de proceder asegúrese de que está familiarizado con la forma de "
-"restaurar el índice desde la copia de seguridad, en caso de que causara "
+"Antes de proceder asegúrate de que estas familiarizado con la forma de "
+"restaurar el índice desde la copia de seguridad, en caso de que se causara "
 "daños en el índice de Ayuda."
 
 # 7f9577e2a8454d08a13b26b928db51e3
@@ -555,41 +548,41 @@ msgid ""
 "line spacing (lines of white space especially) and indents. They are very "
 "important to maintain."
 msgstr ""
-"Abrir `` ~ / help-actividad / fuente / index. rst`` con un editor de texto. "
-"Observe el espacio entre líneas (líneas de espacio en blanco en especial) y "
-"guiones. Son muy importantes para mantener."
+"Abre ``~/help-activity/source/index.rst`` con un editor de texto. "
+"Observa el espacio entre líneas (líneas de espacio en blanco en especial) y "
+"guiones. Es muy importantes mantenerlos."
 
 # 2d558af27b374ecbb7ae56d8cac7cbf4
 #: ../source/how_to_help.rst:199
 msgid ""
-"Scroll down ``index.rst`` right to the bottom of the page. Put the cursor at"
-" the front of the last line. Using the arrow keys you will see that the "
+"Scroll down ``index.rst`` right to the bottom of the page. Put the cursor at "
+"the front of the last line. Using the arrow keys you will see that the "
 "indent is 4 \"spaces\", it is not \"Tab\"."
 msgstr ""
-"Desplácese hacia abajo `` índice. rst`` derecho de la parte inferior de la "
-"página. Ponga el cursor en la parte delantera de la última línea. Usando las"
-" flechas, verá que el guión es de 4 \"espacios\", no es \"Tab\"."
+"Desplácese hacia abajo en ``index.rst`` derecho a la parte inferior de la "
+"página. Ponga el cursor en la parte delantera de la última línea. Usando las "
+"flechas, verá que el guión es de 4 \"espacios\", no es \"Tab\"."
 
 # 4d87ad956dc14aec85f0177dea422f48
 #: ../source/how_to_help.rst:201
 msgid ""
-"Put the cursor at the end of the last line. Press *Enter*, press space bar 4"
-" times, and enter the file name you used above ``my_page.rst``. Use "
-"\"Enter\" and the space bar so that you exactly copy the indentation, and "
-"line spacing as used in the other entries."
+"Put the cursor at the end of the last line. Press *Enter*, press space bar 4 "
+"times, and enter the file name you used above ``my_page.rst``. Use \"Enter\" "
+"and the space bar so that you exactly copy the indentation, and line spacing "
+"as used in the other entries."
 msgstr ""
-"Ponga el cursor al final de la última línea. Pulse * Ingrese *, presione la "
+"Ponga el cursor al final de la última línea. Pulse *Ingresar*, presione la "
 "barra espaciadora 4 veces, y escriba el nombre de archivo que utilizó `` "
-"my_page arriba. rst``. Utilice \"Enter\" y la barra de espacio para que se "
-"copia exactamente la sangría y espaciado de línea que se utiliza en el resto"
-" de entradas."
+"my_page.rst``. Utilice \"Ingresar\" y la barra de espacio para que se "
+"copia exactamente la sangría y espaciado de línea que se utiliza en el resto "
+"de entradas."
 
 # 211e1c3215104358b98d3bb953edb7cc
 # ae10688a711e41b79621f76fea4a434e
 #: ../source/how_to_help.rst:203 ../source/how_to_help.rst:253
 msgid "Double check your changes to ``index.rst`` and save your changes."
 msgstr ""
-"Vuelva a comprobar que sus cambios `` índice. rst`` y guardar los cambios."
+"Vuelve a comprobar tus cambios ``index.rst`` y guardar los cambios."
 
 # 3f9e850fbefb4dbcbd7decd456f9e431
 #: ../source/how_to_help.rst:205
@@ -597,25 +590,24 @@ msgid ""
 "Now we want to convert our index into HTML. Open Terminal Activity (or any "
 "terminal emulator) and type,"
 msgstr ""
-"Ahora queremos convertir nuestro índice en HTML. Abrir Actividad Terminal (o"
-" cualquier emulador de terminal) y el tipo,"
+"Ahora queremos convertir nuestro índice en HTML. Abre la Actividad Terminal (o "
+"cualquier emulador de terminal) y tipéa,"
 
 # 4b82b5ae11464f87b657e22bc563c24a
 #: ../source/how_to_help.rst:212
 msgid ""
 "The newly changed index page will now display in Help, or in your browser, "
 "once you reload the page. In Sugar you click with the secondary button, and "
-"select reload, or in a browser pointing to ``~/help-"
-"activity/html/index.html`` press the reload button. In the index, or "
-"contents page, the link to your new page can be clicked to open your page "
-"\"my_page.html\""
+"select reload, or in a browser pointing to ``~/help-activity/html/index."
+"html`` press the reload button. In the index, or contents page, the link to "
+"your new page can be clicked to open your page \"my_page.html\""
 msgstr ""
-"La página de índice recién cambiado ahora mostrará en la Ayuda, o en su "
-"navegador, una vez que vuelva a cargar la página. En Azúcar hace clic con el"
-" botón secundario y selecciona recarga, o en un navegador que apunta a `` ~ "
-"/ help-actividad / html / index. html`` pulse el botón de recarga. En el "
-"índice o página de contenidos, el vínculo con la nueva página se puede hacer"
-" clic para abrir la página my_page \". html \""
+"La página de índice recién cambiado se mostrará en la Ayuda, o en su "
+"navegador, una vez que vuelva a cargar la página. En Sugar hace clic con el "
+"botón secundario y selecciona recarga, o en un navegador que apunta a `` ~/"
+"help-activity/html/index.html`` pulse el botón de recarga. En el "
+"índice o página de contenidos, el vínculo con la nueva página se puede hacer "
+"clic para abrir la página \"my_page.html\""
 
 # 27f539b189004080901981d3aef2e1d3
 #: ../source/how_to_help.rst:215
@@ -628,8 +620,8 @@ msgid ""
 "Open your existing page in any text editor, or create and \"Title\" a new "
 "page, and add it to the bottom of the index."
 msgstr ""
-"Abra su página existente en cualquier editor de texto, o crear y \"Título\" "
-"una nueva página, y agregarlo a la parte inferior del índice."
+"Abre tu página existente en cualquier editor de texto, o crea y \"Títula\" "
+"una nueva página, y agregala a la parte inferior del índice."
 
 # 3a4ad2104ae24ba6bf0f189cd2e97972
 #: ../source/how_to_help.rst:219
@@ -637,30 +629,28 @@ msgid ""
 "An image which is already in ``~/help-activity/images/`` can be included by "
 "typing this on to your page."
 msgstr ""
-"Una imagen que ya está en `` ~ / help-actividad / images / `` se puede "
-"incluir escribiendo esto a su página."
+"Una imagen que ya está en ``~/help-activity/images/`` se puede "
+"incluir escribiendo esto en tu página."
 
 # b3ec65833209498dbc1dc0487a9ea5c9
 #: ../source/how_to_help.rst:225
 msgid ""
-"The \"reference line\" above needs a line of white space, above and below "
-"it."
+"The \"reference line\" above needs a line of white space, above and below it."
 msgstr ""
-"La \"línea de referencia\" anterior necesita una línea de espacio en blanco,"
-" por encima y por debajo de ella."
+"La \"línea de referencia\" anterior necesita una línea de espacio en blanco, "
+"por encima y por debajo de ella."
 
 # e9461d7bfc104de482432a2b25e2c650
 #: ../source/how_to_help.rst:227
 msgid ""
-"You can add an image file in .jpg or .png format to ``~/help-"
-"activity/images/``. It is best if the image does not exceed 800 pixels in "
-"width. It can be difficult to read around tall images. For this reason "
-"screen-shots 600 pixels in width may be a good compromise if the content is "
-"simple."
+"You can add an image file in .jpg or .png format to ``~/help-activity/images/"
+"``. It is best if the image does not exceed 800 pixels in width. It can be "
+"difficult to read around tall images. For this reason screen-shots 600 "
+"pixels in width may be a good compromise if the content is simple."
 msgstr ""
-"Usted puede agregar un archivo de imagen en. jpg o. formato png a `` ~ / "
-"help-actividad / images / ``. Lo mejor es que la imagen no sea superior a "
-"800 píxeles de ancho. Puede ser difícil de leer imágenes en torno a altos. "
+"Puedes agregar un archivo de imagen en formatos .jpg o .png a ``~/"
+"help-activity/images/``. Lo mejor es que la imagen no sea superior a "
+"800 píxeles de ancho. Puede ser difícil de leer imágenes altas. "
 "Por esta razón, capturas de pantalla de 600 píxeles de ancho pueden ser un "
 "buen compromiso si el contenido es simple."
 
@@ -670,8 +660,8 @@ msgid ""
 "If you add an image file ``my_image.png``, made in, say, Paint to ``~/help-"
 "activity/images/``, then you link it into your page with:"
 msgstr ""
-"Si se agrega un archivo de imagen `` Mi_imagen. png``, hizo en, digamos, "
-"Paint para `` ~ / help-actividad / images / ``, entonces enlazarlo en tu "
+"Si agregas un archivo de imagen ``my_image.png``, hecha en, digamos, "
+"Pintar a ``~/help-activity/images/``, entonces enlazalo en tu "
 "página con:"
 
 # d0c5b3d1663e4f08a313885c4a0a9e4e
@@ -680,8 +670,8 @@ msgid ""
 "Now we want to convert our page with an image into HTML. Open Terminal "
 "Activity (or any terminal emulator) and type,"
 msgstr ""
-"Ahora queremos convertir nuestra página con una imagen en HTML. Abrir "
-"Actividad Terminal (o cualquier emulador de terminal) y el tipo,"
+"Ahora queremos convertir nuestra página con una imagen en HTML. Abre "
+"la Actividad Terminal (o cualquier emulador de terminal) y tipéa,"
 
 # 869858eecd6c44408998c0470b147ae7
 #: ../source/how_to_help.rst:242
@@ -689,8 +679,8 @@ msgid ""
 "The newly changed page will now display in Help, or in your browser, once "
 "you reload the page."
 msgstr ""
-"La página recién cambiado ahora mostrará en la Ayuda, o en su navegador, una"
-" vez que vuelva a cargar la página."
+"La página recién cambiada se mostrará en la Ayuda, o en tu navegador, una "
+"vez que vuelvas a cargar la página."
 
 # 39e2da9d3a1e442cbce1466d57f61ddf
 #: ../source/how_to_help.rst:245
@@ -702,51 +692,51 @@ msgstr "Tutorial 4 - Escribir o mejorar una página de ayuda"
 msgid ""
 "Decide whether you want to make a page from a fresh start, you could just "
 "start writing on a subject you know about. Alternatively experiment with "
-"improving an existing page. You could work from the text of an existing page"
-" (it might be this page) or a more simple page."
+"improving an existing page. You could work from the text of an existing page "
+"(it might be this page) or a more simple page."
 msgstr ""
-"Decida si desea hacer una página de un nuevo comienzo, usted podría comenzar"
-" a escribir sobre un tema que usted sabe acerca de. Alternativamente "
-"experimentar con la mejora de una página existente. Usted podría trabajar en"
-" el texto de una página existente (que podría ser esta página) o una página "
+"Decide si deseas hacer una página comenzando de cero, podrías comenzar "
+"a escribir sobre un tema del que usted sabes. Alternativamente "
+"puedes experimentar con la mejora de una página existente. Podría trabajar en "
+"el texto de una página existente (que podría ser esta página) o una página "
 "más sencilla."
 
 # 46769765b5414f9385ef7094960f42e6
 #: ../source/how_to_help.rst:249
 msgid "Open ``~/help-activity/source/index.rst``."
-msgstr "Abrir `` ~ / help-actividad / fuente / index. rst``."
+msgstr "Abre ``~/help-activity/fuente/index.rst``."
 
 # 79f36b2a93134903a7dd77a50ad3f8e7
 #: ../source/how_to_help.rst:251
 msgid ""
-"Put the cursor at the end of the last line. Press *Enter*, press space bar 4"
-" times, and enter a new file name, perhaps, ``my_second.rst``. Use \"Enter\""
-" and the space bar so that you exactly copy the indentation, and line "
-"spacing as used in the other entries."
+"Put the cursor at the end of the last line. Press *Enter*, press space bar 4 "
+"times, and enter a new file name, perhaps, ``my_second.rst``. Use \"Enter\" "
+"and the space bar so that you exactly copy the indentation, and line spacing "
+"as used in the other entries."
 msgstr ""
-"Ponga el cursor al final de la última línea. Pulse * Ingrese *, presione la "
-"barra espaciadora 4 veces, e introduzca un nuevo nombre de archivo, tal vez,"
-" `` my_second. rst``. Utilice \"Enter\" y la barra de espacio para que se "
-"copia exactamente la sangría y espaciado de línea que se utiliza en el resto"
-" de entradas."
+"Pon el cursor al final de la última línea. Pulsa *Ingresar*, presiona la "
+"barra espaciadora 4 veces, e introduce un nuevo nombre de archivo, tal vez, "
+"``my_second.rst``. Utiliza \"Ingresar\" y la barra de espacio para que se "
+"copie exactamente la sangría y espaciado de línea que se utiliza en el resto "
+"de las entradas."
 
 # 22bd00c8aaba4ad5bec2210d8494aeb5
 #: ../source/how_to_help.rst:257
 msgid ""
 "Save the page as the new file name chosen above, perhaps, ``my_second.rst``."
 msgstr ""
-"Guarde la página como el nuevo nombre de archivo elegido anteriormente, tal "
-"vez, `` my_second. rst``."
+"Guarda la página con el nuevo nombre de archivo elegido anteriormente, tal "
+"vez, ``my_second.rst``."
 
 # b7af14eaf64549edbad143bcd8a4f48c
 #: ../source/how_to_help.rst:259
 msgid "Type in a title like this:"
-msgstr "Escriba un título como este:"
+msgstr "Escribe un título como este:"
 
 # 2fd9edb4df534cbdae0469f86de1bf05
 #: ../source/how_to_help.rst:267
 msgid "Enter your text, and save your changes."
-msgstr "Introduzca el texto y guardar los cambios."
+msgstr "Introduce el texto y guardar los cambios."
 
 # 43a88d6727604d99ac9474c394ca610b
 #: ../source/how_to_help.rst:270
@@ -754,8 +744,8 @@ msgid ""
 "Now we want to convert our page into HTML. Open Terminal Activity (or any "
 "terminal emulator) and type,"
 msgstr ""
-"Ahora queremos convertir nuestra página en HTML. Abrir Actividad Terminal (o"
-" cualquier emulador de terminal) y el tipo,"
+"Ahora queremos convertir nuestra página en HTML. Abre Actividad Terminal (o "
+"cualquier emulador de terminal) y tipéa,"
 
 # 35ec47ddd7894aa791d6c3a55d4a0913
 #: ../source/how_to_help.rst:277
@@ -763,18 +753,18 @@ msgid ""
 "The newly generated page will now display in Help, or in your browser, once "
 "you reload the page."
 msgstr ""
-"La página recién generado mostrará ahora en la Ayuda, o en su navegador, una"
-" vez que vuelva a cargar la página."
+"La página recién generado se mostrará ahora en la Ayuda, o en tu navegador, una "
+"vez que vuelva a cargar la página."
 
 # 0f2011a9952b4eb2979c59665f2ae176
 #: ../source/how_to_help.rst:279
 msgid "You can now go back to your page, and improve it."
-msgstr "Ahora puede volver a la página y mejorarla."
+msgstr "Ahora puedes volver a la página y mejorarla."
 
 # 2f3e170598cb4acd95a99ab0c95b2418
 #: ../source/how_to_help.rst:281
 msgid "Again, write the changes to HTML version, with:"
-msgstr "Una vez más, escribir los cambios en la versión HTML, con:"
+msgstr "Una vez más, escribe los cambios en la versión HTML, con:"
 
 # 122323019818432eb927ca10a66b3ecf
 #: ../source/how_to_help.rst:288
@@ -782,8 +772,8 @@ msgid ""
 "You have now written your first improved page for the Activity Help. We "
 "would love it if you could share it with the Sugar community!"
 msgstr ""
-"Ahora ha escrito su primera página mejorado para la Actividad Ayuda. Nos "
-"encantaría si pudiera compartir con la comunidad de azúcar!"
+"Ahora haz escrito tu primera página mejorada para la Actividad Ayuda. Nos "
+"encantaría si pudieras compartir con la comunidad de Sugar!"
 
 # 0e9bf7ce4f4a49e8a0cc1f68e98359cb
 #: ../source/how_to_help.rst:293
@@ -793,31 +783,31 @@ msgstr "Contribuir"
 # a6949825cc7d4d46b1bd01ee40eba1a2
 #: ../source/how_to_help.rst:295
 msgid ""
-"Once you are familiar with editing, adding a page, and making or improving a"
-" Help page, you could make a page with the intention of having it published "
+"Once you are familiar with editing, adding a page, and making or improving a "
+"Help page, you could make a page with the intention of having it published "
 "in the next version of Help."
 msgstr ""
-"Una vez que esté familiarizado con la edición, la adición de una página, y "
-"hacer o mejorar una página de ayuda, usted podría hacer una página con la "
-"intención de que se publicó en la próxima versión de Ayuda."
+"Una vez que estés familiarizado con la edición, la adición de una página, y "
+"hacer o mejorar una página de ayuda, podrías hacer una página con la "
+"intención de que se publique en la próxima versión de Ayuda."
 
 # f3142facbd6d495683d8f6284e2ad347
 #: ../source/how_to_help.rst:297
 msgid "You might write a tutorial on a subject you know about."
 msgstr ""
-"Usted puede escribir un tutorial sobre un tema que usted sabe acerca de."
+"Puede escribir un tutorial sobre un tema acerca del que tu sepas."
 
 # f339da86fdc04ed6ac991ed733bf92a5
 #: ../source/how_to_help.rst:299
 msgid ""
-"In the next version of Activity Help, better \"New to Sugar\" pages might be"
-" included at the beginning of Help, as a quick introduction for new Sugar "
+"In the next version of Activity Help, better \"New to Sugar\" pages might be "
+"included at the beginning of Help, as a quick introduction for new Sugar "
 "learners. Contributions to be considered would be welcome."
 msgstr ""
-"En la próxima versión de la Actividad Ayuda, mejor \"Nuevo a Sugar\" páginas"
-" podrían ser incluidos en el comienzo de Ayuda, como una introducción rápida"
-" para los nuevos estudiantes de azúcar. Contribuciones a considerar sería "
-"bienvenido."
+"En la próxima versión de la Actividad Ayuda, mejores páginas \"Nuevo a Sugar\" "
+"podrían ser incluidos en el comienzo de Ayuda, como una introducción rápida "
+"para los nuevos estudiantes de Sugar. Contribuciones a considerar serían "
+"bienvenidas."
 
 # 322b0b1f1e7248dd887e97c8fe5bb90e
 #: ../source/how_to_help.rst:301
@@ -825,21 +815,20 @@ msgid ""
 "Some Activities have no easy to find instructions. If you can write even a "
 "very short introduction, it could be very useful for other Sugar learners."
 msgstr ""
-"Algunas actividades no tienen fácil encontrar las instrucciones. Si usted "
-"puede escribir incluso una muy breve introducción, que podría ser muy útil "
-"para otros estudiantes de azúcar."
+"Algunas actividades no tienen instrucciones fáciles de encontrar. Si tu "
+"puedes escribir incluso una muy breve introducción, podría ser muy útil "
+"para otros estudiantes de Sugar."
 
 # 51d3d57b35c54360914df724ef774078
 #: ../source/how_to_help.rst:303
 msgid ""
-"The Sugarlabs wiki page "
-"http://wiki.sugarlabs.org/go/Activities/Help/Contribute might have some "
-"ideas on pages, which have been requested, or which others are working on "
-"and might appreciate collaboration."
+"The Sugarlabs wiki page http://wiki.sugarlabs.org/go/Activities/Help/"
+"Contribute might have some ideas on pages, which have been requested, or "
+"which others are working on and might appreciate collaboration."
 msgstr ""
-"El sugarlabs página wiki http: // wiki. sugarlabs. org / go / Actividades / "
-"Ayuda / Contribuir podría tener algunas ideas sobre las páginas que han sido"
-" solicitados, o que otros están trabajando y pudieran apreciar colaboración."
+"La página wiki http://wiki.sugarlabs.org/go/Activities/Help/Contribute "
+"podría tener algunas ideas sobre las páginas que han sido "
+"solicitadas, o en las que otros están trabajando y pudieran apreciar colaboración."
 
 # a7b734f56fc14121be8c675137d7be87
 #: ../source/how_to_help.rst:306
@@ -850,17 +839,17 @@ msgstr "¿Qué hacer con su obra terminada"
 #: ../source/how_to_help.rst:308
 msgid ""
 "First of all you might briefly contact gonzalo at laptop dot org by e-mail "
-"to tell him what you would like to contribute. If you write a new page , you"
-" can send him the page (as my_page.rst) as an attachment to an e-mail "
-"explaining briefly what is attached. If new images are linked into the page,"
-" send them too."
+"to tell him what you would like to contribute. If you write a new page , you "
+"can send him the page (as my_page.rst) as an attachment to an e-mail "
+"explaining briefly what is attached. If new images are linked into the page, "
+"send them too."
 msgstr ""
-"En primer lugar usted puede ponerse en contacto brevemente gonzalo en la "
-"computadora portátil dot org por e-mail a decirle lo que le gustaría "
+"En primer lugar usted puede ponerse en contacto brevemente con gonzalo at "
+"laptop dot org por e-mail y decirle lo que le gustaría "
 "contribuir. Si se escribe una nueva página, se le puede enviar la página "
-"(como my_page. RST) como un archivo adjunto a un e-mail explicando "
+"(como my_page.rst) como un archivo adjunto a un e-mail explicando "
 "brevemente lo que se adjunta. Si nuevas imágenes están vinculadas a la "
-"página, envía a ellos también."
+"página, envíalas también."
 
 # 6cfee419a43243b4b788377fc33a7f7a
 #: ../source/how_to_help.rst:310
@@ -868,8 +857,8 @@ msgid ""
 "If you have improved a page, the preferred method is to submit it as a "
 "\"patch\"."
 msgstr ""
-"Si usted ha mejorado una página, el método preferido es el de presentar como"
-" un \"parche\"."
+"Si tu haz mejorado una página, el método preferido es el de enviar como "
+"un \"parche\"."
 
 # e7df4ea78a154e94bc10946e47bac7e2
 #: ../source/how_to_help.rst:313
@@ -879,14 +868,13 @@ msgstr "Tutorial 5 - generar un parche"
 # c03a7442477048b3b0a059ea9768bed4
 #: ../source/how_to_help.rst:315
 msgid ""
-"Let's say you decide to work on the Help page, \"Switching Activities\". You"
-" might back up that page before you start. Open Terminal Activity (or any "
+"Let's say you decide to work on the Help page, \"Switching Activities\". You "
+"might back up that page before you start. Open Terminal Activity (or any "
 "terminal emulator) and type,"
 msgstr ""
-"Digamos que usted decide trabajar en la página de ayuda, \"Actividades de "
-"conmutación\". Es posible que una copia de seguridad de que la página antes "
-"de empezar. Abrir Actividad Terminal (o cualquier emulador de terminal) y el"
-" tipo,"
+"Digamos que tu decides trabajar en la página de ayuda, \"Cambiando Actividades\" "
+". Puedes hacer una copia de seguridad de que la página antes "
+"de empezar. Abre la Actividad Terminal (o cualquier emulador de terminal) y tipéa,"
 
 # 7cce7902fd404ec6ab372704dc4dea36
 #: ../source/how_to_help.rst:323
@@ -895,22 +883,22 @@ msgid ""
 "source, and copied ``switching_activities.rst`` to a new file named "
 "``switching_activities.rst.ori``"
 msgstr ""
-"Por encima, hemos cambiado el directorio en ayuda-actividad, cambiado de "
-"directorio en la fuente, y copiado `` switching_activities. rst`` en un "
-"nuevo archivo llamado `` switching_activities. primera. ori``"
+"Aqui, hemos cambiado el directorio help-activity, cambiado al "
+"directorio de fuentes, y copiado ``switching_activities.rst`` en un "
+"nuevo archivo llamado ``switching_activities.rst.ori``"
 
 # f00f7cdb6a0d4f4db026a0382381af5a
 #: ../source/how_to_help.rst:325
 msgid ""
 "Make your changes to ``switching_activities.rst``. Save your changes "
 "regularly, and check by running the ``make html`` command that the page "
-"displays nicely. Once you are happy with your work, you can generate a patch"
-" like this:"
+"displays nicely. Once you are happy with your work, you can generate a patch "
+"like this:"
 msgstr ""
-"Realice cambios en `` switching_activities. rst``. Guarde los cambios con "
-"regularidad, y comprobar mediante la ejecución de la `` Hacer html`` comando"
-" que se muestra la página nicely. Una vez que esté satisfecho con su "
-"trabajo, puede generar un parche como esto:"
+"Realiza los cambios en ``switching_activities.rst``. Guarda los cambios con "
+"regularidad, y comprobar mediante la ejecución del comando ``make html`` "
+"que se muestre la página correctamente. Una vez que estés satisfecho con tu trabajo, "
+"puedes generar un parche asi:"
 
 # cf63f268a2164323a5c3e06cb3c948dd
 #: ../source/how_to_help.rst:333
@@ -922,8 +910,8 @@ msgstr "El parche se puede enviar como archivo adjunto de correo electrónico."
 msgid ""
 "For more information, in Terminal Activity (or any terminal emulator) type,"
 msgstr ""
-"Para obtener más información, en la Actividad Terminal (o cualquier emulador"
-" de terminal) el tipo,"
+"Para obtener más información, en la Actividad Terminal (o cualquier emulador "
+"de terminal) tipéa,"
 
 # 0139019f67784c35bc9bbc7d0bbd2cd7
 #: ../source/how_to_help.rst:341
@@ -939,27 +927,25 @@ msgstr "Para leer más"
 #: ../source/how_to_help.rst:352
 msgid "|more| For more complete help on reStructuredText:"
 msgstr ""
-"| Más información | Para obtener ayuda más completa sobre reStructuredText:"
+"|more| Para obtener ayuda más completa sobre reStructuredText:"
 
 # 50107d75cea044a9bc376f9c37696488
 #: ../source/how_to_help.rst:356
 msgid ""
-"Quick reStructuredText, "
-"http://docutils.sourceforge.net/docs/user/rst/quickref.html, is a cheat-"
-"sheet for reStructuredText."
+"Quick reStructuredText, http://docutils.sourceforge.net/docs/user/rst/"
+"quickref.html, is a cheat-sheet for reStructuredText."
 msgstr ""
-"ReStructuredText rápida, http: // docutils. sourceforge. net / docs / user /"
-" primera / QuickRef. html, es una hoja de trucos para reStructuredText."
+"ReStructuredText rápida, http://docutils.sourceforge.net/docs/user/rst/, "
+" es una hoja de trucos para reStructuredText."
 
 # 93d7f9ded30c42e89cd859b13506dca7
 #: ../source/how_to_help.rst:358
 msgid ""
-"\"reStructuredText Directives\" "
-"http://docutils.sourceforge.net/docs/ref/rst/directives.html by David "
-"Goodger, March 2013."
+"\"reStructuredText Directives\" http://docutils.sourceforge.net/docs/ref/rst/"
+"directives.html by David Goodger, March 2013."
 msgstr ""
-"http \"reStructuredText Directivas\": docutils //. sourceforge. / docs / ref"
-" / RST / directivas netos. html por David Goodger, marzo 2013."
+"\"Directivas reStructuredText\" http://docutils.sourceforge.net/docs/ref/rst/"
+"directives.html por David Goodger, Marzo 2013."
 
 # 7f62fe65edf94f228d676f59be609f9f
 #: ../source/how_to_help.rst:360
@@ -967,15 +953,15 @@ msgid ""
 "Sphinx reStructuredText Primer, http://sphinx-doc.org/rest.html, a brief "
 "introduction to reStructuredText concepts and syntax."
 msgstr ""
-"Esfinge reStructuredText Primer, http: // esfinge-doc. org / descanso. html,"
-" una breve introducción a reStructuredText conceptos y sintaxis."
+"Sphinx reStructuredText Básico, http://sphinx-doc.org/rest.html, "
+"una breve introducción a reStructuredText conceptos y sintaxis."
 
 # 74ac1ae60d4547c0bbeb929e0974eb14
 #: ../source/how_to_help.rst:362
 msgid "Sphinx home page, http://sphinx-doc.org/index.html."
-msgstr "Página de inicio Esfinge, http: // esfinge-doc. org / index. html."
+msgstr "Página de inicio Sphinx, http://sphinx-doc.org/index.html."
 
 # cba6621bbea849f2acd645316f1bdc96
 #: ../source/how_to_help.rst:364
 msgid "Another tutorial, http://matplotlib.org/sampledoc/."
-msgstr "Otro tutorial, http: // matplotlib. org / sampledoc /."
+msgstr "Otro tutorial, http://matplotlib.org/sampledoc/."
