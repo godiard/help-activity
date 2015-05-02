@@ -20,7 +20,7 @@ msgstr ""
 # c5211f0962ba4d1f8143e4388f4e1073
 #: ../source/labyrinth.rst:3
 msgid "Labyrinth"
-msgstr "Laberinto"
+msgstr "Mapas mentales"
 
 # 892a1d878bbd4e959059244c5c9eee42
 #: ../source/labyrinth.rst:6
@@ -37,13 +37,13 @@ msgid ""
 "you work. Maps can be \"Kept to PDF\" for uploading to web sites, sharing, "
 "and printing by others who may not be using Sugar."
 msgstr ""
-"| Laby_ico | Laberinto es una actividad de mapas mentales ligero basado en "
-"un proyecto de código abierto llamado Laberinto. Permite la creación de "
+"|Laby_ico| Mapas mentales es una actividad de mapas mentales simples basados en "
+"un proyecto de código abierto llamado Labyrinth. Permite la creación de "
 "mapas mentales de una mezcla de texto, dibujos a mano alzada, y las imágenes"
-" de su Diario. Hay un lienzo de tamaño infinitas para su mapa que puede "
-"hacer zoom y recorrer mientras trabaja. Los mapas pueden ser \"Kept a PDF\" "
-"para subir a sitios web, compartir, y la impresión por otras personas que no"
-" puedan estar usando Azúcar."
+" de tu Diario. Hay un lienzo de tamaño infinito para tu mapa que puedes "
+"hacer zoom y recorrer mientras trabaja. Los mapas pueden ser \"Kept to PDF\" "
+"para subir a sitios web, compartir, y ser impresos por otras personas que no"
+" puedan estar usando Sugar."
 
 # 127e3dd7dfbc41ea8fab8bedfe692810
 #: ../source/labyrinth.rst:14
@@ -60,7 +60,7 @@ msgstr "Atajos de teclado"
 msgid "Esc deselects thought, stops editing current text though"
 msgstr ""
 "Esc anula la selección de pensamiento, se detiene la edición de texto "
-"actual, aunque"
+"actual"
 
 # e5de5e3e8f34466ab9d7af27a736936c
 #: ../source/labyrinth.rst:32
@@ -82,8 +82,8 @@ msgid ""
 "Ctrl + T for text thought mode (click canvas, or click and drag, to add new "
 "thoughts)"
 msgstr ""
-"Ctrl + T para el modo de pensamiento de texto (haga clic en lienzo, o haga "
-"clic y arrastre, para agregar nuevos pensamientos)"
+"Ctrl + T para el modo de pensamiento de texto (haz clic en el lienzo, o haz "
+"clic y arrastra, para agregar nuevos pensamientos)"
 
 # 9db60d4e1a60473bab7c1553477d1ad9
 #: ../source/labyrinth.rst:35
@@ -91,8 +91,8 @@ msgid ""
 "Ctrl + D for drawing mode (click canvas, or click and drag, then draw inside"
 " thought boundary)"
 msgstr ""
-"Ctrl + D para el modo de dibujo (haga clic en lienzo, o haga clic y "
-"arrastre, luego roba el interior pensamiento límite)"
+"Ctrl + D para el modo de dibujo (haz clic en el lienzo, o haz clic y "
+"arrastra, luego dibuja dentro de los límites del pensamiento)"
 
 # c33ad36da80345209afa2c027f0ac762
 #: ../source/labyrinth.rst:36
@@ -100,8 +100,8 @@ msgid ""
 "Ctrl + I for image add mode (click canvas, or click and drag, use Journal "
 "object picker to select image)"
 msgstr ""
-"Ctrl + I para una imagen modo de añadir (haga clic en lienzo, o haga clic y "
-"arrastre, utilizo Diario objeto selector para seleccionar la imagen)"
+"Ctrl + I para el modo añadir imagen (haz clic en el lienzo, o haz clic y "
+"arrastra, utiliza el seleccionador de objetos del Diario para seleccionar la imagen)"
 
 # dcdb539a792c4a31bdb99295d45172ca
 #: ../source/labyrinth.rst:37
@@ -111,12 +111,12 @@ msgstr "Ctrl + L para enlazar dos pensamientos o más seleccionados"
 # 8da78b8eb9074ecfb8dfa3f955f3e5e1
 #: ../source/labyrinth.rst:38
 msgid "ERASE to erase one or more selected thoughts"
-msgstr "ERASE para borrar un pensamientos o más seleccionados"
+msgstr "Borrar para eliminar uno o más pensamientos seleccionados"
 
 # 0965953c526848c5a729c88b4ef67f05
 #: ../source/labyrinth.rst:39
 msgid "Ctrl + + to zoom in"
-msgstr "Ctrl + + para hacer un zoom"
+msgstr "Ctrl + + para hacer zoom"
 
 # 0c90c73385d745488623c0a4fede35ab
 #: ../source/labyrinth.rst:40
@@ -126,7 +126,7 @@ msgstr "Ctrl + - para disminuir el zoom"
 # 969308825e484deea226a10556a2e554
 #: ../source/labyrinth.rst:41
 msgid "Ctrl + 9 zoom to fit window"
-msgstr "Ctrl + 9 zoom a la ventana de ajuste"
+msgstr "Ctrl + 9 zoom ajustado a la ventana"
 
 # 781ef71debdc48b7acdda91ce2110419
 #: ../source/labyrinth.rst:42
@@ -136,7 +136,7 @@ msgstr "Ctrl + 0 para el tamaño de zoom original"
 # 908f8aa338df49acbe0247f28372a51e
 #: ../source/labyrinth.rst:43
 msgid "Alt + Enter to toggle full screen"
-msgstr "Alt + Enter para activar la pantalla completa"
+msgstr "Alt + Entrar para activar la pantalla completa"
 
 # 209f1cf495cb40cd8b36e507bd7c6bfc
 #: ../source/labyrinth.rst:44
@@ -146,7 +146,7 @@ msgstr "Ctrl + Q o Alt + Esc para detener la actividad"
 # 39bfddba17bc432ebe42ad0f35ef2979
 #: ../source/labyrinth.rst:48
 msgid "Mouse/Trackpad shortcuts"
-msgstr "Atajos de ratón / trackpad"
+msgstr "Atajos de ratón/trackpad"
 
 # 335d6ecb4a124fd2b63e5aa41d0aca58
 #: ../source/labyrinth.rst:50
@@ -154,8 +154,8 @@ msgid ""
 "Single click on the canvas with left button in text/drawing/image mode to "
 "create a thought"
 msgstr ""
-"Un solo clic en el lienzo con el botón izquierdo en el texto de dibujo / "
-"modo / imagen para crear un pensamiento"
+"Un solo clic en el lienzo con el botón izquierdo en el modo texto/dibujo/"
+"imagen para crear un pensamiento"
 
 # f7c5df92ece24373957cbd6d13404a07
 #: ../source/labyrinth.rst:51
@@ -163,7 +163,7 @@ msgid ""
 "Drag with left button in text/drawing/image mode to create a thought of a "
 "specific size"
 msgstr ""
-"Arrastre con el botón izquierdo en el texto de dibujo / modo / imagen para "
+"Arrastra con el botón izquierdo en el modo texto/dibujo/imagen para "
 "crear un pensamiento de un tamaño específico"
 
 # aca4fa907b0f4fb59e45b9eba5393f36
@@ -172,8 +172,8 @@ msgid ""
 "Single click left button to select an existing thought (typing will append "
 "to the thought text)"
 msgstr ""
-"Un solo clic para seleccionar una idea existente a la izquierda "
-"(tipificación anexará al texto pensamiento)"
+"Un solo clic con el botón izquierdo para seleccionar una idea existente "
+"(lo tipeado se anexará al texto del pensamiento)"
 
 # 2c061d69f2ad48908d8b224635f342a1
 #: ../source/labyrinth.rst:53
@@ -181,16 +181,16 @@ msgid ""
 "Double click left button to select a thought and begin editing the text "
 "content (all thought text starts selected)"
 msgstr ""
-"Doble click botón izquierdo para seleccionar un pensamiento y comenzar a "
-"editar el contenido de texto (todo el texto pensamiento comienza "
+"Doble click de botón izquierdo para seleccionar un pensamiento y comenzar a "
+"editar el contenido del texto (todo el texto del pensamiento comienza "
 "seleccionado)"
 
 # 587358373d08400993e047e69c25e4b6
 #: ../source/labyrinth.rst:54
 msgid "Hold shift and left click thoughts to make multiple selections"
 msgstr ""
-"Mantenga Mayús y haga clic izquierdo pensamientos para seleccionar varias "
-"opciones"
+"Mantén Shift y haz clic izquierdo sobre los pensamientos para hacer selecciones"
+" múltiples"
 
 # 629409ffd31f49f7abf3247a17d1f8f2
 #: ../source/labyrinth.rst:55
@@ -198,19 +198,19 @@ msgid ""
 "Hold 'hand' key on XO keyboard and use left button to drag the canvas to "
 "pan/scroll"
 msgstr ""
-"Sostenga la tecla \"mano\" en el teclado XO y utilizar el botón izquierdo "
-"para arrastrar el lienzo a la cacerola / de desplazamiento"
+"Mantén la tecla \"mano\" en el teclado XO y utiliza el botón izquierdo "
+"para arrastrar el lienzo horizontal o verticalmente"
 
 # 8805164694e24de980c344be1837d80f
 #: ../source/labyrinth.rst:56
 msgid "Hold right button to drag individual thoughts"
 msgstr ""
-"Mantenga pulsado el botón derecho para arrastrar pensamientos individuales"
+"Mantén pulsado el botón derecho para arrastrar pensamientos individuales"
 
 # 63eecb3df4e94403b35d467b6f369753
 #: ../source/labyrinth.rst:57
 msgid "When in drawing mode, hold Shift and draw to erase"
-msgstr "En el modo de dibujo, mantenga Mayús y dibujar para borrar"
+msgstr "En el modo de dibujo, mantén Shift y dibuja para borrar"
 
 # 09c4a6b389b6452a8786c3f33c1beccc
 #: ../source/labyrinth.rst:61
@@ -221,7 +221,7 @@ msgstr "Revisión"
 #: ../source/labyrinth.rst:62
 msgid "`Video Review <http://www.youtube.com/watch?v=h8Mcc0toS0M>`_"
 msgstr ""
-"`Video Review <http: // www. youtube. com / watch? v = h8Mcc0toS0M> `_"
+"`Video Review <http://www.youtube.com/watch?v=h8Mcc0toS0M>`_"
 
 # ec41197aacdd47c48aef52f6d3288c68
 #: ../source/labyrinth.rst:66
@@ -234,21 +234,20 @@ msgid ""
 "`Activity Library Page <http://activities.sugarlabs.org/en-"
 "US/sugar/addon/4078>`_"
 msgstr ""
-"`Actividad Biblioteca Páginas <http: // actividades. sugarlabs. org / en-US "
-"/ azúcar / addon / 4078> `_"
+"`Página de descarga de la actividad <http://activities.sugarlabs.org/en-"
+"US/sugar/addon/4078> `_"
 
 # 585e865c790a40b3b45f34df5ce27741
 #: ../source/labyrinth.rst:69
 msgid "`Source <http://git.sugarlabs.org/projects/labyrinth>`_"
-msgstr "`Fuente <http: // git. sugarlabs. org / projects / laberinto> `_"
+msgstr "`Fuente <http://git.sugarlabs.org/projects/labyrinth> `_"
 
 # 7d2260c54eeb4048a88b4186b1b26b6c
 #: ../source/labyrinth.rst:70
 msgid ""
 "`Source tarball <http://download.sugarlabs.org/sources/honey/Labyrinth/>`_"
 msgstr ""
-"`Tarball fuente <http: // download. sugarlabs. org / fuentes / miel / "
-"Laberinto /> `_"
+"`Archivo de fuentes <http://download.sugarlabs.org/sources/honey/Labyrinth/> `_"
 
 # 44504f082888417697bd9b7f4cfec251
 #: ../source/labyrinth.rst:73
@@ -259,5 +258,5 @@ msgstr "Referencias"
 #: ../source/labyrinth.rst:74
 msgid "`Wiki page <http://wiki.sugarlabs.org/go/Activities/Labyrinth>`_"
 msgstr ""
-"`Página Wiki <http: // wiki. sugarlabs. org / go / Actividades / Laberinto> "
+"`Página de Wiki <http://wiki.sugarlabs.org/go/Activities/Labyrinth> "
 "`_"
