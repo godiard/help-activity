@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 965c25c984b14f8ca3ef870d42ce7af6
@@ -32,15 +32,15 @@ msgstr "Características y Puertos"
 msgid ""
 "The XO laptop has many built-in features. These include a camera, "
 "microphone, speakers and wireless antenna. In addition, the laptop allows "
-"for the attachment of other external devices. This is often done by plugging"
-" the devices into connectors (some are more commonly referred to as ports, "
+"for the attachment of other external devices. This is often done by plugging "
+"the devices into connectors (some are more commonly referred to as ports, "
 "jacks or slots)."
 msgstr ""
-"La laptop XO tiene muchas características integradas. Estos incluyen una "
+"La laptop XO tiene muchas características integradas. Estas incluyen una "
 "cámara, micrófono, altavoces y antena inalámbrica. Además, el ordenador "
 "portátil permite la fijación de otros dispositivos externos. Esto se suele "
 "hacer mediante la conexión de los dispositivos en los conectores (algunos "
-"son más comúnmente conocida como los puertos, los conectores o ranuras)."
+"son más comúnmente conocida como los puertos, conectores o ranuras)."
 
 # 36cc665bb0f4434a9d33fd6362855c5c
 #: ../source/ports.rst:11
@@ -54,10 +54,9 @@ msgid ""
 "and in an ultra-low-power, ultra-high-resolution, black-and-white mode that "
 "is readable in direct sunlight."
 msgstr ""
-"Las funciones de la pantalla en el modo a todo color similares a otras "
-"pantallas de ordenador portátil y en un bajo consumo de energía de ultra, "
-"ultra-alta resolución, modo blanco y negro que se puede leer en la luz solar"
-" directa."
+"Las funciones de la pantalla en el modo color es similar a otras "
+"pantallas de ordenador portátil con un bajo consumo de energía de "
+"ultra-alta resolución, y un modo blanco y negro que se puede leer a la luz solar directa."
 
 # c836545bb233483d94db067a8d8dadd9
 #: ../source/ports.rst:19
@@ -71,14 +70,14 @@ msgid ""
 "supports both AC and DC sources.) As a privacy measure, an LED above the "
 "microphone (1) lights up whenever the microphone is in use."
 msgstr ""
-"No es tanto un micrófono incorporado (y un conector para micrófono externo, "
-"que soporta tanto fuentes de CA y CC. ) Como medida de privacidad, un LED "
+"Tiene ambos, un micrófono incorporado (y un conector para micrófono externo, "
+"que soporta tanto fuentes de CA y CC) Como medida de privacidad, un LED "
 "por encima del micrófono (1) se ilumina cuando el micrófono está en uso."
 
 # 85f89697f35844348cb3605a16c20d9c
 #: ../source/ports.rst:24
 msgid "3, 8 - Built-in speakers"
-msgstr "3, 8 - altavoces incorporados"
+msgstr "3, 8 - Altavoces incorporados"
 
 # 6c823f8c36534a1b8c07ce524eba22c0
 #: ../source/ports.rst:26
@@ -87,13 +86,14 @@ msgid ""
 "videos, and anything you have recorded yourself. There’s also a jack for "
 "external headphones or speakers."
 msgstr ""
-"Altavoces estéreo internos y un amplificador proveen una manera de "
-"reproducir música, videos y todo lo que han grabado a sí mismo."
+"Los altavoces estéreo internos y un amplificador proveen una manera de "
+"reproducir música, videos y todo lo que haz grabado tu mismo. Tambien hay "
+"un conector para conectar auriculares o parlantes externos."
 
 # a4e55c852c6e4bf0913036b1061a2529
 #: ../source/ports.rst:29
 msgid "4 - Game pad"
-msgstr "4 - Game pad"
+msgstr "4 - Teclas de cursores"
 
 # 50215549fe6543cda250e93cfe52381f
 #: ../source/ports.rst:31
@@ -105,34 +105,35 @@ msgstr ""
 "Dos juegos de teclas de control del cursor en cuatro direcciones pueden ser "
 "controladores de juego. Puesto que aún funcionan cuando la pantalla se "
 "pliega hacia abajo en el modo e-book, el XO crea una plataforma de juego "
-"jugando autónomo que incluye un controlador."
+"autónomo que incluye un controlador."
 
 # 579526ec58644d418f6e96606ce960a1
 #: ../source/ports.rst:34
 msgid "5 - Screen rotate button"
-msgstr "5 - Pantalla botón de rotación"
+msgstr "5 - Boton de rotación de pantalla"
 
 # 015de343e652447d83fc54b180b89bf7
 #: ../source/ports.rst:36
 msgid ""
 "A button on the XO laptop’s display frame changes the orientation of the "
 "screen, so it can be viewed right-side-up from any direction."
-msgstr ""
+msgstr "Un boton en el marco de la patalla de la laptop XO cambia la orientación "
+"de la pantalla, para que pueda ser vista en cualquier dirección."
 
 # 0b49e7853a664be78e58a3214b724346
 #: ../source/ports.rst:39
 msgid "6, 7 - Built-in camera"
-msgstr "6, 7 - Función de cámara"
+msgstr "6, 7 - Cámara"
 
 # 3b7c0a6f2e7d4100b17999ea059f5da8
 #: ../source/ports.rst:41
 msgid ""
 "The XO laptop has a built-in color camera, enabling still photography and "
-"video recording. As a privacy measure, an LED above the camera (6) lights up"
-" whenever the camera is on."
+"video recording. As a privacy measure, an LED above the camera (6) lights up "
+"whenever the camera is on."
 msgstr ""
-"La laptop XO tiene una cámara integrada de color, lo que permite, fotos "
-"fijas o grabación de vídeo. Como medida de privacidad, un LED por encima de "
+"La laptop XO tiene una cámara color integrada, lo que permite, sacar fotos "
+"fijas o grabar vídeo. Como medida de privacidad, un LED por encima de "
 "la cámara (6) se enciende cada vez que la cámara está encendida."
 
 # 70ef5c3b4a944efdb1d9e628cc92e986
@@ -149,10 +150,10 @@ msgid ""
 "Activities. For example, the circle button can be used as the shutter for "
 "the camera in the Record Activity."
 msgstr ""
-"Los botones del juego se pueden usar cuando la pantalla se dobla hacia abajo"
-" en el modo e-book, creando un jugador autónomo. Estos botones se utilizan a"
-" menudo por actividades. Por ejemplo, el botón círculo puede ser utilizado "
-"como el obturador de la cámara en el Registro de Actividad."
+"Los botones del juego se pueden usar cuando la pantalla se dobla hacia abajo "
+"en el modo e-book. Estos botones se utilizan a "
+"menudo por actividades. Por ejemplo, el botón círculo puede ser utilizado "
+"como el disparador de la cámara en la Actividad Grabar."
 
 # c34a2365adcd4149a13823e077e8bffb
 #: ../source/ports.rst:49
@@ -171,8 +172,8 @@ msgstr ""
 # 2052cd8da8eb4fe1bb9d118452d7ad58
 #: ../source/ports.rst:53
 msgid ""
-"Along with offering unique connectivity options, the XO laptop can work with"
-" a wide range of external devices."
+"Along with offering unique connectivity options, the XO laptop can work with "
+"a wide range of external devices."
 msgstr ""
 "Además de ofrecer opciones de conectividad únicas, la laptop XO puede "
 "trabajar con una amplia gama de dispositivos externos."
@@ -180,24 +181,24 @@ msgstr ""
 # f5aea00cfb22474abc17fb7cc657f38c
 #: ../source/ports.rst:58
 msgid "11 - Antennae ears"
-msgstr "11 - oídos antenas"
+msgstr "11 - Antenas"
 
 # a60a179b7160474cad072ce2c3d88731
 #: ../source/ports.rst:60
 msgid ""
-"When the wireless antennae \"ears\" are rotated up, they provide the XO with"
-" a connection range vastly superior to those of conventional laptops. When "
+"When the wireless antennae \"ears\" are rotated up, they provide the XO with "
+"a connection range vastly superior to those of conventional laptops. When "
 "down, they keep dirt out of the connectors and act as a latch."
 msgstr ""
-"Cuando el antenas inalámbricas \"orejas\" se giran hacia arriba, que "
-"proporcionan la XO con un rango de conexión muy superior a los de los "
-"ordenadores portátiles convencionales. Cuando se establecen, mantienen la "
-"suciedad de los conectores y actuar como un pestillo."
+"Cuando el antenas inalámbricas \"orejas\" se giran hacia arriba, "
+"proporcionan a la XO un rango de conexión muy superior a los de los "
+"ordenadores portátiles convencionales. Cuando se cierran, mantienen la "
+"suciedad lejos de los conectores y actuan como un pestillo."
 
 # 9ae048a21ad943cebce981e7898cd979
 #: ../source/ports.rst:63
 msgid "12, 13 - External headphones and microphone jacks"
-msgstr "12, 13 - auriculares externos y conectores de micrófono"
+msgstr "12, 13 - Conectores de auriculares externos y micrófono"
 
 # 572294e4f33e4a3f9630ec943d85787a
 #: ../source/ports.rst:65
@@ -205,24 +206,24 @@ msgid ""
 "Along with built-in speakers and microphone, the XO laptop features jacks "
 "for external headphones and an external microphone."
 msgstr ""
-"Junto con altavoces y micrófono incorporados, la laptop XO cuenta con tomas "
-"para auriculares externos y un micrófono externo."
+"Junto con los altavoces y micrófono incorporados, la laptop XO cuenta con tomas "
+"para auriculares y un micrófonos externos."
 
 # 6b0436da85b64dd2864502c39d4ac448
 #: ../source/ports.rst:68
 msgid "14 - USB/memory ports"
-msgstr "14 - puertos USB / memoria"
+msgstr "14 - Puertos USB / memoria"
 
 # 1efd34afd34b4b2ebd2c7846a902989c
 #: ../source/ports.rst:70
 msgid ""
-"The XO laptop features three external USB ports to support a variety of "
-"plug-in peripherals (one seen in the photo above, and two others under the "
-"other \"ear\"). Right side ports + battery"
+"The XO laptop features three external USB ports to support a variety of plug-"
+"in peripherals (one seen in the photo above, and two others under the other "
+"\"ear\"). Right side ports + battery"
 msgstr ""
 "La laptop XO cuenta con tres puertos USB externos para apoyar una variedad "
-"de periféricos de plug-in (que se ve en la foto de arriba, y otros dos en el"
-" otro \"oreja\"). Puertos del lado derecho de la batería +"
+"de periféricos conectables (uno se ve en la foto de arriba, y otros dos en el "
+"otro \"oreja\"). Puertos del lado derecho y de la batería."
 
 # f90012cbadb043c29a5479510cc59a77
 #: ../source/ports.rst:73
@@ -237,7 +238,8 @@ msgid ""
 "panel for charging the XO laptop’s battery."
 msgstr ""
 "La XO viene con un cable de alimentación que se pueden conectar a cualquier "
-"toma de corriente alterna de 110 a-240-voltios para cargar."
+"toma de corriente alterna de 110 a-240-voltios para cargarla. También acepta "
+"DC (corrinte contínua) desde un panel solar para cargar su batería."
 
 # 4dafdea0c6c14403bb903d36f76f8094
 #: ../source/ports.rst:78
@@ -252,7 +254,8 @@ msgid ""
 "edge is over the keyboard—the slot is then accessible from below."
 msgstr ""
 "Hay una ranura debajo de la pantalla que admite tarjetas de memoria SD para "
-"fotos, vídeo y otros contenidos."
+"fotos, vídeo y otros contenidos. Gira la pantalla para que la parte izquierda "
+"quede sobre el teclado, entonces la ranura quedará accesible por debajo."
 
 # 67855ec12f764015b01e0c7a9aa3cfa4
 #: ../source/ports.rst:83
@@ -266,6 +269,6 @@ msgid ""
 "poor or non-existent power infrastructure), the XO laptop is designed to be "
 "extremely power efficient."
 msgstr ""
-"Como muchos niños, tal vez incluso usted, viven \"fuera de juego\" (en "
+"Como muchos niños, tal vez incluso tu, viven \"fuera de la red\" (en "
 "lugares con infraestructura de energía pobre o inexistente), la computadora "
-"portátil XO está diseñado para ser extremadamente eficiente de la energía."
+"portátil XO está diseñado para ser extremadamente eficiente con la energía."
