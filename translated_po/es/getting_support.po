@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 6b84f018fde54fe194d58f6e6e2c85de
@@ -32,13 +32,13 @@ msgid ""
 "with your XO, remember that its design is to encourage you to learn new "
 "things by trying to solve problems on your own!"
 msgstr ""
-"One Laptop per Child es un proyecto educativo, no un proyecto portátil. Con "
+"One Laptop per Child es un proyecto educativo, no un proyecto de portátiles. Con "
 "los ordenadores portátiles conectados, los estudiantes son liberados para "
 "participar activamente con otras personas con intereses similares en "
-"culturas de aprender haciendo sin ser limitado por el tiempo o el espacio. "
-"Si usted está teniendo problemas de hardware o de software con su XO, "
-"recuerde que su diseño es para animaros a aprender cosas nuevas, tratando de"
-" resolver los problemas por su cuenta!"
+"culturas de aprender haciendo, sin ser limitado por el tiempo o el espacio. "
+"Si estás teniendo problemas de hardware o de software con tu XO, "
+"recuerda que está diseñado es para animaros a aprender cosas nuevas, tratando de "
+"resolver los problemas por tu cuenta!"
 
 # c4e8562c6798437f8be6500db1f487c4
 #: ../source/getting_support.rst:7
@@ -50,12 +50,12 @@ msgid ""
 "that volunteer-driven support works, often with far more heartfelt caring "
 "than any corporate help desk!"
 msgstr ""
-"Dicho esto, toda una comunidad construyó este XO y todo en él, y queremos "
-"ayudarle con él. Nuestra comunidad global OLPC de voluntarios proporciona "
-"software y hardware de la solución de problemas y soporte. Esta sección le "
+"Dicho esto, toda una comunidad construyó este XO y todos en ella, queremos "
+"ayudarle con él. Nuestra comunidad global de voluntarios OLPC proporciona "
+"solución de problemas de software y hardware y soporte. Esta sección te "
 "ayudará a saber dónde encontrar apoyo cuando estás realmente atascado! OLPC "
-"ha demostrado que las obras de apoyo voluntario impulsado, a menudo con "
-"cuidado mucho más sincero que cualquier ayuda corporativo escritorio!"
+"ha demostrado que el apoyo implusado por voluntarios funciona, a menudo con "
+"cuidado mucho más sincero que cualquier escritorio de ayuda corporativo!"
 
 # 5d196586880248acbeae37315705db3c
 #: ../source/getting_support.rst:9
@@ -65,76 +65,76 @@ msgid ""
 "very good chance it is already answered within our expanding Support FAQ / "
 "RTFM knowledge base:"
 msgstr ""
-"Si usted tiene preguntas acerca de la XO, pedirle a un maestro en busca de "
-"ayuda, un amigo, o buscar en Internet. Si usted tiene alguna pregunta sobre "
-"su XO, hay una muy buena probabilidad de que ya está contestada dentro de "
-"nuestra expansión Soporte Preguntas frecuentes / base de conocimientos RTFM:"
+"Si tienes preguntas acerca de la XO, pídele a un maestro en busca de "
+"ayuda, un amigo, o buscar en Internet. Si tienes alguna pregunta sobre "
+"tu XO, hay una muy buena probabilidad de que ya está contestada dentro de "
+"nuestra extensa base de conocimientos Soporte Preguntas frecuentes:"
 
 # 86e0438fd66741569cfae52ba7bfa4dc
 #: ../source/getting_support.rst:11
 msgid "http://wiki.laptop.org/go/Support_FAQ"
-msgstr "http: // wiki. portátil. org / go / Support_FAQ"
+msgstr "http://wiki.laptop.org/go/Support_FAQ"
 
 # 00c465601f504456a57d29b6c3e50b2a
 #: ../source/getting_support.rst:13
 msgid ""
-"Next try looking at http://support.laptop.org extensive helpful guidance for"
-" exploring and fixing your XO, allowing you to solve challenging issues "
-"right alongside others. Specifically, check out:"
+"Next try looking at http://support.laptop.org extensive helpful guidance for "
+"exploring and fixing your XO, allowing you to solve challenging issues right "
+"alongside others. Specifically, check out:"
 msgstr ""
-"Siguiente intente buscar en http: // support. portátil. org amplia "
-"orientación útil para la exploración y la fijación de su XO, lo que le "
-"permite resolver problemas difíciles justo al lado de los demás. En "
+"A continuación intente buscar en http://support.laptop.org una amplia "
+"orientación útil para la exploración y la reparación de tu XO, lo que te "
+"permite resolver problemas difíciles junto a otros. En "
 "concreto, echa un vistazo a:"
 
 # 5b961fcb23db4c1a895b9ed70c878480
 #: ../source/getting_support.rst:15
 msgid "Getting Started: http://laptop.org/start"
-msgstr "Primeros pasos: http: // portátil. org / inicio"
+msgstr "Primeros pasos: http://laptop.org/start"
 
 # f29571ef1b1746f6956cbd21e0bb2114
 #: ../source/getting_support.rst:17
 msgid "Email Lists: http://lists.laptop.org"
-msgstr "Listas de correo electrónico: http: // listas. portátil. org"
+msgstr "Listas de correo electrónico: http://lists.laptop.org"
 
 # 0fb2bafe90d24664b1d1667754e7b4af
 #: ../source/getting_support.rst:19
 msgid "Live Chat: http://forum.laptop.org/chat"
-msgstr "Chat en vivo: http: // foro. portátil. org / charla"
+msgstr "Chat en vivo: http://forum.laptop.org/chat"
 
 # 690cd89403a6497cb3bd8e1b2d613172
 #: ../source/getting_support.rst:21
 msgid "OLPC Community: Wiki http://wiki.laptop.org"
-msgstr "OLPC Comunidad: http Wiki: // wiki. portátil. org"
+msgstr "Wiki de la Comunidad OLPC: Wiki: http://wiki.laptop.org"
 
 # 0dd8f67f2f28496db9cba04bba407ad0
 #: ../source/getting_support.rst:23
 msgid ""
-"If you are still unable to find an answer online, please email "
-"help@laptop.org."
+"If you are still unable to find an answer online, please email help@laptop."
+"org."
 msgstr ""
-"Si usted todavía no puede encontrar una respuesta en línea, por favor "
-"escriba ayuda @ laptop. org."
+"Si todavía no puedes encontrar una respuesta en línea, por favor "
+"escribe a help@laptop.org."
 
 # 736df9a79e4e455ea0a8838a72456fa3
 #: ../source/getting_support.rst:25
 msgid ""
 "Did you know that our volunteers staff a live Help Chat site 24/7, on the "
-"Internet? Click here: http://forum.laptop.org/chat Login with the color-name"
-" shown; that's guest ID. Type your question in the chat line at the bottom. "
+"Internet? Click here: http://forum.laptop.org/chat Login with the color-name "
+"shown; that's guest ID. Type your question in the chat line at the bottom. "
 "You may have to wait for a response as our volunteers come in and out. If "
-"you are patient, we can probably help you! To learn more about what Internet"
-" Relay Chat (the system that makes this possible) is, click here: "
-"http://wiki.laptop.org/go/IRC"
+"you are patient, we can probably help you! To learn more about what Internet "
+"Relay Chat (the system that makes this possible) is, click here: http://wiki."
+"laptop.org/go/IRC"
 msgstr ""
-"¿Sabías que nuestros voluntarios del personal de una Ayuda sitio Chat en "
-"vivo 24/7, en Internet? Haga clic aquí: http: // foro. portátil. org / "
-"Inicio de sesión de chat con el nombre del color mostrado; eso es ID "
-"invitado. Escriba su pregunta en la línea de chat en la parte inferior. "
-"Puede que tenga que esperar una respuesta como nuestros voluntarios entran y"
-" salen. Si usted es paciente, es probable que usted puede ayudar! Para "
+"¿Sabías que nuestros voluntarios proveeen Ayuda por Chat en linea "
+"24/7, en Internet? Haz clic aquí: http://forum.laptop.org/chat "
+"Inicia la sesión de chat con el nombre del color mostrado; eso es el ID "
+"de invitado. Escribe tu pregunta en la línea de chat en la parte inferior. "
+"Puede que tengas que esperar una respuesta porque nuestros voluntarios entran y "
+"salen. Si eres paciente, es probable que puedes ayudar! Para "
 "aprender más sobre lo que Internet Relay Chat (el sistema que lo hace "
-"posible) está, haga clic aquí: http: // wiki. portátil. org / go / IRC"
+"posible) hace, haz clic aquí: http://wiki.laptop.org/go/IRC"
 
 # 36c2d132aaf04c8db69c0c445d9c2943
 #: ../source/getting_support.rst:27
@@ -142,23 +142,23 @@ msgid ""
 "We would also like to make special mention of our Support Gang, where an "
 "enthusiastic group of volunteers assist XO users all over the world. If you "
 "are impressed with the passion and hard work of our volunteers, please "
-"consider giving back, by joining our dedicated community. Take a look at the"
-" link below. We would welcome your participation! "
-"http://wiki.laptop.org/go/Support_Gang http://wiki.laptop.org/go/Support_FAQ"
-" Be sure to review the Frequently Asked Questions (FAQ) link above. Many of "
-"us join and \"learn by doing.\""
+"consider giving back, by joining our dedicated community. Take a look at the "
+"link below. We would welcome your participation! http://wiki.laptop.org/go/"
+"Support_Gang http://wiki.laptop.org/go/Support_FAQ Be sure to review the "
+"Frequently Asked Questions (FAQ) link above. Many of us join and \"learn by "
+"doing.\""
 msgstr ""
-"También nos gustaría hacer una mención especial de nuestra cuadrilla "
-"textuales, donde un entusiasta grupo de voluntarios de ayudar a los usuarios"
-" de XO en todo el mundo. Si usted está impresionado con la pasión y el "
-"esfuerzo de nuestros voluntarios, por favor considere la posibilidad de "
-"volver, por formar parte de nuestra comunidad dedicada. Echa un vistazo a el"
-" siguiente enlace:. Damos la bienvenida a su participación! http: // wiki. "
-"portátil. org / go / Support_Gang http: // wiki. portátil. org / go / "
-"Support_FAQ Asegúrese de revisar las Preguntas Frecuentes (FAQ) foro. Muchos"
-" de nosotros unirse y \"aprender haciendo. \""
+"También nos gustaría hacer una mención especial de nuestra pandilla "
+"de soporte (Support Gang), donde un entusiasta grupo de voluntarios ayuda a los usuarios "
+"de XO en todo el mundo. Si estás impresionado con la pasión y el "
+"esfuerzo de nuestros voluntarios, por favor considera la posibilidad de "
+"devolver, formando parte de nuestra comunidad dedicada. Echa un vistazo a el "
+"siguiente enlace:. Te damos la bienvenida a tu participación! "
+"http://wiki.laptop.org/go/Support_Gang http://wiki.laptop.org/go/Support_FAQ Asegúrate "
+"de revisar las Preguntas Frecuentes (FAQ) . Muchos "
+"de nosotros nos unimos y \"aprendemos haciendo. \""
 
 # 26739645f0bd4a8fb7f1e5c562f98b41
 #: ../source/getting_support.rst:29
 msgid "Thanks very much! OLPC Support Gang"
-msgstr "Muchas gracias! OLPC Apoyo Pandilla"
+msgstr "Muchas gracias! OLPC Support Gang"
