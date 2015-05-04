@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 06a94f10fd71477cb4df1dac06468445
@@ -30,15 +30,15 @@ msgstr "Acerca de"
 # 8b629242ec034344826b0dc8fe2fa76a
 #: ../source/read.rst:8
 msgid ""
-"The Read activity allows the laptop to act as a book reader. It has a simple"
-" interface, and will view many kinds of text and image-based book-like "
+"The Read activity allows the laptop to act as a book reader. It has a simple "
+"interface, and will view many kinds of text and image-based book-like "
 "materials. It will have particular strengths in handheld mode, with "
 "extremely low power consumption and simple navigation controls."
 msgstr ""
-"La actividad de Lectura permite al ordenador portátil para actuar como un "
-"lector de libros. Cuenta con una interfaz sencilla, y ver muchos tipos de "
-"texto y materiales de libros como basados ​​en imágenes. Contará con "
-"fortalezas particulares en la modalidad de mano, con muy bajo consumo de "
+"La actividad de Lectura permite al ordenador portátil actuar como un "
+"lector de libros. Cuenta con una interfaz sencilla, y muestra muchos tipos de "
+"texto y materiales como libros basados ​​en imágenes. Contará con "
+"fortalezas particulares en el modo e-book, con muy bajo consumo de "
 "energía y controles de navegación sencillas."
 
 # c20ac80baf674e269e9bcfd8ebfbee57
@@ -58,16 +58,16 @@ msgstr "Uso"
 #: ../source/read.rst:15
 msgid ""
 "The Read activity is launched by opening the Journal and choosing a PDF "
-"document. PDFs downloaded from Browse can be opened in this way, as can PDFs"
-" on an external storage device. The user may also start Read from the Home "
+"document. PDFs downloaded from Browse can be opened in this way, as can PDFs "
+"on an external storage device. The user may also start Read from the Home "
 "page Favorites circle and select a file to read. The book opens in a "
 "portrait orientation."
 msgstr ""
-"La actividad de Lectura se puso en marcha con la apertura de la Revista y la"
-" elección de un documento PDF. PDF descargados de Browse se pueden abrir de "
+"La actividad de Lectura se puso en marcha con la apertura del Diario y la "
+"elección de un documento PDF. Archivos PDF descargados con Browse se pueden abrir de "
 "esta manera, al igual que los archivos PDF en un dispositivo de "
 "almacenamiento externo. El usuario también puede iniciar Leer desde la "
-"Página de inicio Favoritos círculo y seleccionar un archivo para leer. El "
+"Vista de Inicio y seleccionar un archivo para leer. El "
 "libro se abre en una orientación vertical."
 
 # c4411e4530b94e0dbc8d3a4ccf59f545
@@ -79,28 +79,28 @@ msgstr "Navegación"
 #: ../source/read.rst:23
 msgid ""
 "When the screen is in the upright position, the keyboard is available for "
-"navigation as well as the directional pad and games keys. When the screen is"
-" in tablet mode, the keyboard is not available. Make sure the document "
-"canvas is selected (and not the tool-bar menu) by clicking either in the "
-"page area, or pressing the TAB key until focus moves out of the toolbar."
+"navigation as well as the directional pad and games keys. When the screen is "
+"in tablet mode, the keyboard is not available. Make sure the document canvas "
+"is selected (and not the tool-bar menu) by clicking either in the page area, "
+"or pressing the TAB key until focus moves out of the toolbar."
 msgstr ""
 "Cuando la pantalla está en la posición vertical, el teclado está disponible "
 "para la navegación, así como la almohadilla direccional y teclas de juegos. "
 "Cuando la pantalla está en modo tablet, el teclado no está disponible. "
 "Asegúrese de que el lienzo del documento está seleccionada (y no el menú de "
-"la herramienta-bar) haciendo clic ya sea en el área de la página, o pulsando"
-" la tecla TAB hasta que el foco se mueve fuera de la barra de herramientas."
+"la herramienta-bar) haciendo clic ya sea en el área de la página, o pulsando "
+"la tecla TAB hasta que el foco se mueve fuera de la barra de herramientas."
 
 # d4fa6f59f44c4630af47e4a113e7e1f2
 #: ../source/read.rst:25
 msgid "**Keyboard Navigation:**"
-msgstr "** Navegación Teclado: **"
+msgstr "**Navegación con Teclado:**"
 
 # 57c5d40fa83c4017af22e2af17131c90
 #: ../source/read.rst:27
 msgid "The arrow keys will scroll the page a few lines in any direction"
 msgstr ""
-"Las teclas de flecha se desplazará la página unas pocas líneas en cualquier "
+"Las teclas de flecha desplazarán la página unas pocas líneas en cualquier "
 "dirección"
 
 # 2671a03c7523454491e90b7799df70ce
@@ -109,8 +109,8 @@ msgid ""
 "ALT + arrow keys, or screen direction pad, will scroll the page a small "
 "amount in any direction"
 msgstr ""
-"ALT + teclas de flecha, o la pantalla de pad de dirección, se desplazarán la"
-" página una pequeña cantidad en cualquier dirección"
+"ALT + teclas de flecha, o el de pad de dirección en la pantalla, desplazarán la "
+"página una pequeña cantidad en cualquier dirección"
 
 # 376f50c5187544278c803b06daa2066f
 #: ../source/read.rst:29
@@ -118,8 +118,8 @@ msgid ""
 "FN + arrow keys up/down will move one page up or down (with a small overlap "
 "to keep context)"
 msgstr ""
-"Teclas Fn + flecha arriba / abajo se moverá una página hacia arriba o hacia "
-"abajo (con un pequeño solapamiento de mantener contexto)"
+"Teclas Fn + flecha arriba / abajo moverá una página hacia arriba o hacia "
+"abajo (con un pequeño solapamiento para mantener el contexto)"
 
 # 008ec8c2f4f34ec4ba09e7f238952c1c
 #: ../source/read.rst:30
@@ -138,16 +138,16 @@ msgstr ""
 # 90c954dec41f4207ac3513178c7d56a7
 #: ../source/read.rst:33
 msgid "**Screen GamePad and Directional Button Navigation**"
-msgstr "** GamePad de pantalla y direccional Botón de navegación **"
+msgstr "**GamePad de pantalla y Botones direccionales de navegación**"
 
 # 4b3c85da59094af9bf6c8a794a4d0c10
 #: ../source/read.rst:35
 msgid ""
-"The screen rotation key (the bottom key on the left side of the screen) will"
-" turn the screen image to accommodate tablet use."
+"The screen rotation key (the bottom key on the left side of the screen) will "
+"turn the screen image to accommodate tablet use."
 msgstr ""
-"La clave de la rotación de pantalla (la tecla inferior en el lado izquierdo "
-"de la pantalla) se enciende la imagen de la pantalla para dar cabida a la "
+"La tecla de rotación de pantalla (la tecla inferior en el lado izquierdo "
+"de la pantalla) gira la imagen de la pantalla para dar cabida a la "
 "utilización de la tableta."
 
 # 0ddab4d326e6414c9b437006f1cef755
@@ -156,8 +156,8 @@ msgid ""
 "The directional pad on the left hand side of the screen will also scroll a "
 "few lines"
 msgstr ""
-"El pad direccional en el lado izquierdo de la pantalla también se desplazará"
-" a unas pocas líneas"
+"El pad direccional en el lado izquierdo de la pantalla también se desplazará "
+"a unas pocas líneas"
 
 # 0abe4fe0323a469396124ed2948414df
 #: ../source/read.rst:37
@@ -166,50 +166,48 @@ msgid ""
 "'cross' also act as page up and page down (with a small overlap to keep "
 "context)."
 msgstr ""
-"En el lado derecho de la pantalla los botones del gamepad 'círculo' y 'cruz'"
-" también actúan como página arriba y página abajo (con un pequeño "
+"En el lado derecho de la pantalla los botones del gamepad 'círculo' y 'cruz' "
+"también actúan como página arriba y página abajo (con un pequeño "
 "solapamiento de mantener contexto)."
 
 # f62c9e09b58b403eaef4eb057f630e0e
 #: ../source/read.rst:38
 msgid "The gamepad buttons 'square' and 'tick' act as a zoom in and zoom out"
 msgstr ""
-"'Cuadrado' Los botones del gamepad y actuar \"tick\" como acercar y alejar "
+"Los botones del gamepad \"Cuadrado\" y  \"tick\" actuan acercando y alejando "
 "el zoom"
 
 # 33f1738a68864e1abaf9fa9dde088863
 #: ../source/read.rst:40
 msgid "**Brightness Control**"
-msgstr "** Control de brillo **"
+msgstr "**Control de brillo**"
 
 # 414b79da9a4e4348b2266858f24aadaa
 #: ../source/read.rst:42
 msgid "The brightness can be increased or decreased with the keys"
-msgstr "El brillo puede ser aumentada o disminuida con las teclas"
+msgstr "El brillo puede ser aumentado o disminuido con las teclas"
 
 # 68a0880efdfc414598679880cc4c95a7
 #: ../source/read.rst:43
 msgid ""
 "Clarity is improved in tablet mode (turning the screen and laying it flat) "
-"by using monochrome mode. Select CTRL + Brightness keys to turn it on or "
-"off."
+"by using monochrome mode. Select CTRL + Brightness keys to turn it on or off."
 msgstr ""
-"Claridad se mejora en modo tablet (girando la pantalla y colocándola "
-"horizontalmente) mediante el modo monocromo. Seleccione las teclas CTRL + "
+"La claridad se mejora en modo tablet (girando la pantalla y colocándola "
+"horizontalmente) con el modo monocromo. Seleccione las teclas CTRL + "
 "Brillo para encenderla o apagado."
 
 # 1f5d37247c824063aa68b56c6041e4d0
 #: ../source/read.rst:44
 msgid "Monochrome outside is easier to view books (CTRL Brightness Down)"
 msgstr ""
-"Monocromo exterior es más fácil de ver los libros (CTRL Brillo de Down)"
+"Es más fácil de ver los libros en el exterior en modo Monocromo (CTRL Brillo  Bajar)"
 
 # 8d02720298e548398c72b80438b40234
 #: ../source/read.rst:50
 msgid "Be aware that large books may open and scroll slowly."
 msgstr ""
-"Tenga en cuenta que los libros grandes pueden abrir y desplazarse "
-"lentamente."
+"Ten en cuenta que los libros grandes pueden abrir y desplazarse lentamente."
 
 # 36dcdcec9e164e27821eec845bd3041d
 #: ../source/read.rst:53
@@ -224,8 +222,8 @@ msgid ""
 "of the screen when you are using Journal. Books can be stored in the My "
 "Documents folder for easier cataloging."
 msgstr ""
-"La Actividad GetBooks ofrece una manera de ampliar el acceso a muchos de los"
-" libros gratuitos disponibles en todo el mundo. La carpeta 'Mis documentos' "
-"aparece en la parte inferior de la pantalla cuando está usando Diario. Los "
+"La Actividad GetBooks ofrece una manera de ampliar el acceso a muchos de los "
+"libros gratuitos disponibles en todo el mundo. La carpeta 'Mis documentos' "
+"aparece en la parte inferior de la pantalla cuando está el usando Diario. Los "
 "libros pueden ser almacenados en la carpeta Mis documentos para la "
 "catalogación fácil."
