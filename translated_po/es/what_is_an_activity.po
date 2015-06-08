@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,16 +11,16 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 3ca1a0daf6de4cd0ad9bc4a27ea93b28
 #: ../source/what_is_an_activity.rst:3
 msgid "What is an Activity"
-msgstr "¿Qué es una Actividad"
+msgstr "¿Qué es una Actividad?"
 
 # e415d16bafb14a50a15ad313e4db9870
 #: ../source/what_is_an_activity.rst:5
@@ -29,32 +29,36 @@ msgid ""
 "Activities are found on your “Home” view in the circle around your “person” "
 "icon."
 msgstr ""
-"Las actividades son las cosas que usa para hacer proyectos en Sugar en su "
-"XO."
+"Las actividades son las cosas que usas para hacer proyectos en Sugar en tu XO."
+"Las actividades se encuentran  en la vista Hogar, en el círculo alrededo de tu "
+"ícono personal."
 
 # 8bd6978ee43d4f99a88926f552e68635
 #: ../source/what_is_an_activity.rst:9
 msgid ""
-"These activities have been selected from all those installed on your laptop."
-" They are called “Favorites”. You can change this list at any time by "
+"These activities have been selected from all those installed on your laptop. "
+"They are called “Favorites”. You can change this list at any time by "
 "clicking on the “List” view (1) in the upper right corner of your screen."
 msgstr ""
-"Estas actividades han sido seleccionados de todos los instalados en su "
-"computadora portátil."
+"Estas actividades han sido seleccionados de todas los instalados en tu "
+"computadora portátil. Son llamadas “Favoritas”. Puedes cambiar esta lista "
+"en cuaalquier momento haciendo click en la vista de lista (1) en la esquina "
+"superior derecha de tu pantalla."
 
 # b0de0eff48894b83bff4e557f52f2b47
 #: ../source/what_is_an_activity.rst:11
 msgid ""
 "To start an activity, you can click its icon. This will open the last "
 "project you were working on. You can also see all your recent projects by "
-"hovering your pointer over the icon and look for the name of which you saved"
-" your project. In order to open a new session, hover your pointer on the "
-"icon and click “start new”."
+"hovering your pointer over the icon and look for the name of which you saved "
+"your project. In order to open a new session, hover your pointer on the icon "
+"and click “start new”."
 msgstr ""
-"Para iniciar una actividad, puede hacer clic en su icono. Esto abrirá el "
-"último proyecto en que estaba trabajando. También puede ver todos sus "
-"proyectos recientes, con solo pasar el puntero sobre el icono y busque el "
-"nombre de la que guardó su proyecto."
+"Para iniciar una actividad, puedes hacer clic en su icono. Esto abrirá el "
+"último proyecto en que estabas trabajando. También puedes ver todos tus "
+"proyectos recientes, con solo pasar el puntero sobre el icono y buscar el "
+"nombre con el que guardaste tu proyecto. Si quieres abrir una nueva sesión, "
+"haz click en  “Iniciar nuevo”."
 
 # 6c5c43724c7748909a9ef8862776c914
 #: ../source/what_is_an_activity.rst:13
@@ -68,10 +72,14 @@ msgid ""
 "and Speak. There are other Activities that require some learning and "
 "exploration, such as Turtle Art, Etoys, and Scratch."
 msgstr ""
+"Hay una actividad especial llamada el Diario que aparece bajo tuícono personal "
+"si no tienes otra actividad abierta, in en el Maarco, o puedes pressionar "
+"l tecla con laa lupa en la parte superior del teclado de la XO para abrir "
+"el diario y buscar. "
 "El Diario mantiene un registro de todo lo que haces en la XO. También "
-"almacena los archivos que usted crea con su actividad. Algunas actividades "
-"no necesitan ninguna instrucción o explicación, como Maze y Habla. Hay otras"
-" actividades que requieren un aprendizaje y exploración, como Turtle Art, "
+"almacena los archivos que creas con cada actividad. Algunas actividades "
+"no necesitan ninguna instrucción o explicación, como Maze y Hablar. Hay otras "
+"actividades que requieren un aprendizaje y exploración, como Turtle Art, "
 "Etoys, y Scratch."
 
 # b514b97c07c34677840e09190de1103e
@@ -84,22 +92,22 @@ msgid ""
 "Scratch, Etoys, TurtleArt. You can also make music with Tam Tam and use it "
 "in your animation, or story or Memorize game."
 msgstr ""
-"Hay actividades que son juegos, como Memorizar y Implode. Algunos realizan "
-"funciones básicas tales como documentos de escritura (Write), la toma de "
-"fotografías o vídeos (Record), o navegando por Internet (Explorar). Otras "
+"Hay actividades que son juegos, como Memorizar y Implosionar. Algunas realizan "
+"funciones básicas tales como crear documentos de escritura (Esribir), la toma de "
+"fotografías o vídeos (Grabar), o navegar por Internet (Navegar). Otras "
 "Actividades permiten crear imágenes complejas, juegos, animaciones y "
-"programas: Scratch, Etoys, TurtleArt. También puede hacer música con Tam Tam"
-" y utilizarlo en su animación, o una historia o Memorice juego."
+"programas: Scratch, Etoys, TurtleArt. También puedes hacer música con Tam Tam "
+"y utilizarlo en tu animación, o una historia o juego de Memorizar."
 
 # 9da3adfee05844db8d86378b98ec79e6
 #: ../source/what_is_an_activity.rst:17
 msgid ""
 "A set of Activities is pre-installed with the Sugar environment. More "
 "Activities can be found and added to your XO from the Sugar Activity "
-"Library, http://activities.sugarlabs.org. You can also add Activities from a"
-" USB drive (thumb drive)."
+"Library, http://activities.sugarlabs.org. You can also add Activities from a "
+"USB drive (thumb drive)."
 msgstr ""
-"Un conjunto de actividades es pre-instalado con el medio ambiente Azúcar. "
-"Más actividades se pueden encontrar y agregar a su XO de la Biblioteca de "
-"actividades de Azúcar, http: // actividades. sugarlabs. org. También puede "
+"Un conjunto de actividades es pre-instalado con el entorna Sugar. "
+"Más actividades se pueden encontrar y agregar a tu XO de la Biblioteca de "
+"actividades de Sugar, http://activities.sugarlabs.org. También puedes "
 "agregar actividades desde una unidad USB (memoria USB)."
