@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 801fff7668194d8db079b55c8768a9a4
@@ -29,10 +29,10 @@ msgid ""
 "for the XO. It is a good idea to keep your software up to date because our "
 "latest builds fix bugs in earlier releases and they are awesome!"
 msgstr ""
-"Tu XO viene pre-cargado con el sistema operativo de software (sistema "
-"operativo) diseñado para el XO. Es una buena idea para mantener su software "
-"actualizado porque nuestra últimas versiones corregir errores en versiones "
-"anteriores y que son impresionantes!"
+"Tu XO viene pre-cargado con el sistema "
+"operativo diseñado para el XO. Es una buena idea mantener tu software "
+"actualizado porque nuestra últimas versiones corrigen errores en versiones "
+"anteriores y son impresionantes!"
 
 # f6401aea27f04efeaccddeea88fb1626
 #: ../source/upgrade_all.rst:7
@@ -43,7 +43,8 @@ msgid ""
 "transferable to using Windows or Mac OS. This Chapter will tell you how to "
 "upgrade your software."
 msgstr ""
-"¿Sabía usted que con el último software de su XO puede tener tanto azúcar y "
+"La XO-1 vienen con Sugar instalado."
+"¿Sabías que con el último software de tu XO puedes tener tanto Sugar como "
 "GNOME? GNOME proporciona una opción para enseñar a los niños de más edad en "
 "un ambiente de aprendizaje que sea familiar y transferible para el uso de "
 "Windows o Mac OS. Este capítulo le dirá cómo actualizar el software."
@@ -53,8 +54,8 @@ msgstr ""
 msgid ""
 "The Software Releases can be found here: http://wiki.laptop.org/go/Releases"
 msgstr ""
-"Las versiones de software se pueden encontrar aquí: http: // wiki. portátil."
-" org / go / Releases"
+"Las versiones de software se pueden encontrar aquí: "
+"http://wiki.laptop.org/go/Releases"
 
 # f10d596816034d1f8b307409ed77f59d
 #: ../source/upgrade_all.rst:11
@@ -62,8 +63,8 @@ msgid ""
 "The main page of the OLPC Wiki also contains links to the latest releases. "
 "http://wiki.laptop.org"
 msgstr ""
-"La página principal de la OLPC Wiki también contiene enlaces a los últimos "
-"comunicados. http: // wiki. portátil. org"
+"La página principal de la OLPC Wiki también contiene enlaces a las últimos "
+"versiones http://wiki.laptop.org"
 
 # 4bf9021eaccc4f94a552df21c9cf95b0
 #: ../source/upgrade_all.rst:13
@@ -73,9 +74,9 @@ msgid ""
 "options can be found here. http://wiki.laptop.org/go/Updating_the_XO"
 msgstr ""
 "Hay varios métodos de actualización. Cuál es el adecuado para usted? La "
-"mayoría de la gente querrá utilizar el método de \"instalación limpia\". Una"
-" visión general de las opciones de actualización se puede encontrar aquí. "
-"http: // wiki. portátil. org / go / Updating_the_XO"
+"mayoría de la gente querrá utilizar el método de \"instalación limpia\". Una "
+"visión general de las opciones de actualización se puede encontrar aquí. "
+"http://wiki.laptop.org/go/Updating_the_XO"
 
 # edcead0ede704086930c9d5c164c3d2a
 #: ../source/upgrade_all.rst:15
@@ -86,10 +87,10 @@ msgid ""
 "the Release notes for the release you will install."
 msgstr ""
 "Instrucciones claras sobre la forma de cambiar, mejorar, reducir o "
-"reemplazar su sistema operativo de XO se pueden encontrar en las notas de la"
-" versión. Elija la liberación (build) que desea instalar aquí: http: // "
-"wiki. portátil. org / go / Lanzamientos Luego haga clic en las notas de la "
-"versión para la liberación va a instalar."
+"reemplazar su sistema operativo de XO se pueden encontrar en las notas de la "
+"versión. Elija la liberación (build) que desea instalar aquí: "
+"http://wiki.laptop.org/go/Releases Luego haga clic en las notas de la versión "
+"para la liberación que va a instalar."
 
 # 15bf0b88cb204b70a2d5aeb4b176590a
 #: ../source/upgrade_all.rst:17
@@ -99,10 +100,10 @@ msgid ""
 "offline update which will update the current software without erasing the "
 "existing Journal. Follow the instruction for the update method chosen."
 msgstr ""
-"Decida si quiere hacer una instalación limpia (Instalación) que formatear "
-"por completo su XO con archivos de una unidad USB, o una actualización en "
-"línea o fuera de línea que actualizar el software actual sin borrar el "
-"Diario existente. Siga las instrucciones para el método de actualización "
+"Decide si quieres hacer una instalación limpia (Instalación) que formatea "
+"por completo tu XO con archivos de una unidad USB, o una actualización en "
+"línea o fuera de línea que actualiza el software actual sin borrar el "
+"Diario existente. Sigue las instrucciones para el método de actualización "
 "elegido."
 
 # d8f9f33366834352b92d89f2522b1f5f
@@ -116,13 +117,13 @@ msgid ""
 "Internet access that will allow you to download the required 300-400MB "
 "within about an hour."
 msgstr ""
-"Una instalación limpia utiliza una memoria USB y los \"cuatro procedimiento "
-"botón\" para iniciar la actualización. Recordatorio Advertencia: Este método"
-" vuelve a formatos de su XO y todo en su XO se borrará si se utiliza este "
-"método. Va a seguir las instrucciones de las notas de la versión para la "
-"construcción elegido, y se necesita un dispositivo de almacenamiento USB que"
-" tiene al menos 1 GB de espacio libre y un ordenador con acceso a Internet "
-"que le permitirá descargar el 300-400MB requerido dentro de aproximadamente "
+"Una instalación limpia utiliza una memoria USB y los \"procedimiento "
+"de cuatro botones\" para iniciar la actualización. Recordatorio Advertencia: Este método "
+"formatea tu XO y todo en tu XO se borrará si se utiliza este "
+"método. Debes seguir las instrucciones de las notas de la versión para la "
+"versión elegida, y se necesita un dispositivo de almacenamiento USB que "
+"tenga al menos 1 GB de espacio libre y un ordenador con acceso a Internet "
+"que te permitirá descargar los 300-400MB requeridos en aproximadamente "
 "una hora."
 
 # 165cdcdfbba340f495134822f755e632
@@ -148,22 +149,22 @@ msgstr "4 - Botones de juego"
 # a8f1e64e759a430aa737dd4230554c2d
 #: ../source/upgrade_all.rst:28
 msgid "Follow these steps to upgrade your XO"
-msgstr "Siga estos pasos para actualizar su XO"
+msgstr "Sigue estos pasos para actualizar tu XO"
 
 # 7be9070166114c8bb61d3e5db8e8d0cf
 #: ../source/upgrade_all.rst:30
 msgid "Connect your XO to its charger."
-msgstr "Conecte su XO a su cargador."
+msgstr "Conecta tu XO a su cargador."
 
 # 87dda18f114f4ddf814160f700690750
 #: ../source/upgrade_all.rst:32
 msgid "Turn off your XO."
-msgstr "Apague su XO."
+msgstr "Apaga tu XO."
 
 # 89c603e45d3e486b842c11beeeaf2790
 #: ../source/upgrade_all.rst:34
 msgid "Connect your prepared USB storage device to your XO."
-msgstr "Conecte el dispositivo de almacenamiento USB preparado para su XO."
+msgstr "Conecta el dispositivo de almacenamiento USB preparado para tu XO."
 
 # fafdea6726d54055bc807e4f0ec0db78
 #: ../source/upgrade_all.rst:36
@@ -173,21 +174,21 @@ msgid ""
 "to \"Release the game key to continue\". Do not continue until you see this "
 "message."
 msgstr ""
-"A continuación, mantenga pulsada las cuatro teclas gamepad sobre el botón de"
-" encendido, y luego presione el botón de encendido para encender el XO en. "
-"Usted verá un mensaje que le dice que \"Suelte la tecla juego para "
-"continuar\". No continúe hasta que vea este mensaje."
+"A continuación, manten pulsadas las cuatro teclas de juego sobre el botón de "
+"encendido, y luego presiona el botón de encendido para encender el XO. "
+"Verá un mensaje que le dice que \"Release the game key to continue"
+"\" (Suelte la tecla juego para continuar). No continúes hasta que veas este mensaje."
 
 # 3db929f78e7f46378431c1a5f1062731
 #: ../source/upgrade_all.rst:38
 msgid ""
-"Release the gamepad keys.  The reflash process runs automatically; first you"
-" will see the XO arrange and color in a grid of boxes, then the XO will "
+"Release the gamepad keys.  The reflash process runs automatically; first you "
+"will see the XO arrange and color in a grid of boxes, then the XO will "
 "display \"Rebooting in 10 seconds...\""
 msgstr ""
-"Suelte las teclas gamepad. El proceso reflash ejecuta automáticamente; "
-"primero verá el XO organizar y color en una cuadrícula de cajas, entonces el"
-" XO mostrará \"El reinicio en 10 segundos. . . \""
+"Suelta las teclas de juego. El proceso reflash se ejecuta automáticamente; "
+"primero verás al XO organizar y colorear una cuadrícula de cajas, y al final el "
+"XO mostrará \"El reinicio en 10 segundos. . . \""
 
 # 01f6587b16744df583438908bd852f12
 #: ../source/upgrade_all.rst:40
@@ -197,13 +198,13 @@ msgstr "La XO se reiniciará con una imagen limpia."
 # 5afd7afebbb6464bac7c5634d7db14e4
 #: ../source/upgrade_all.rst:42
 msgid "Enter your name for your XO and then click Next."
-msgstr "Escriba su nombre para su XO y luego haga clic en Siguiente."
+msgstr "Escribe tu nombre para tu XO y luego haz clic en Siguiente."
 
 # d05b1499f9c64fd7a5f59d78443b4cf6
 #: ../source/upgrade_all.rst:44
 msgid "Click the XO icon to change the colors and then click Done."
 msgstr ""
-"Haga clic en el icono de XO para cambiar los colores y luego haga clic en "
+"Haz clic en el icono de XO para cambiar los colores y luego haz clic en "
 "Hecho."
 
 # c62b843266ae4adcbe42f119b5878fb3
@@ -212,5 +213,5 @@ msgid ""
 "Optionally, connect your XO to the Internet, then use the Control Panel to "
 "download the latest Activities."
 msgstr ""
-"Opcionalmente, conecte su XO a Internet, a continuación, utilizar el panel "
+"Opcionalmente, conecta tu XO a Internet, a continuación, utiliza el panel "
 "de control para descargar las últimas actividades."
