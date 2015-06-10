@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,17 +11,17 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 7eb09d4f06cf4cd88ea0fdbd3afcbb14
 # 9562a204fc4d47e9af7da18a21a4805c
 #: ../source/starting_the_xo.rst:3 ../source/starting_the_xo.rst:6
 msgid "Starting the XO"
-msgstr "Inicio de la XO"
+msgstr "Iniciando de la XO"
 
 # b20a787080c141529696b65eb44a7bdd
 #: ../source/starting_the_xo.rst:10
@@ -29,19 +29,19 @@ msgid ""
 "To start the XO, press the Power button, near the lower right corner of the "
 "screen. The XO takes about 30 seconds to start up."
 msgstr ""
-"Para iniciar la XO, pulse el botón de encendido, cerca de la esquina "
+"Para iniciar la XO, pulsa el botón de encendido, cerca de la esquina "
 "inferior derecha de la pantalla. La XO tarda unos 30 segundos en encenderse."
 
 # 376300fb6da8458ca4f8fbdd6d5dd7d0
 #: ../source/starting_the_xo.rst:12
 msgid ""
-"If the battery needs charging, the light next to the power button glows red."
-" Plug the AC adaptor into the left side of the XO and plug the power cord "
+"If the battery needs charging, the light next to the power button glows red. "
+"Plug the AC adaptor into the left side of the XO and plug the power cord "
 "into an outlet if you see the red light or if the XO does not start up."
 msgstr ""
 "Si la batería necesita carga, la luz al lado del botón de encendido se "
-"ilumina en rojo. Enchufe el adaptador de CA en el lado izquierdo de la XO y "
-"enchufe el cable de alimentación a una toma si usted ve la luz roja o si la "
+"ilumina en rojo. Enchufa el adaptador de CA en el lado izquierdo de la XO y "
+"enchufa el cable de alimentación a una toma si ves la luz roja o si la "
 "XO no se inicia."
 
 # 0ba3bc85f9b243ac9b00ddf10834b0e5
@@ -50,8 +50,8 @@ msgid ""
 "If you have difficulty starting your XO, refer to the Repairing chapter for "
 "ideas."
 msgstr ""
-"Si tiene dificultad para iniciar el XO, consulte el capítulo Reparación para"
-" las ideas."
+"Si tienes dificultad para iniciar el XO, consulta el capítulo Reparación para "
+"más ideas."
 
 # 7091937eaa1747a9b7bd1dde59775236
 #: ../source/starting_the_xo.rst:17
@@ -66,15 +66,15 @@ msgid ""
 "your name and goes directly to the Home View. Later on you can learn how to "
 "change to a nick name of your choosing."
 msgstr ""
-"Después de presionar el botón de encendido y el XO inicialmente se pone en "
-"marcha, la pantalla XO le pide su nombre de pila. La próxima vez que lo "
-"inicie, se recuerda su nombre y va directamente a la vista principal. Más "
-"adelante se puede aprender a cambiar a un nombre de usuario de su elección."
+"Después de presionar el botón de encendido y que el XO se pone en "
+"marcha por primera vez, el XO te pide tu nombre de pila. La próxima vez que lo "
+"inicies, recuerda tu nombre y va directamente a la vista principal. Más "
+"adelante se puede aprender a cambiar el nombre de usuario a tu elección."
 
 # 06edca2decae4e018db6901fc28f47a8
 #: ../source/starting_the_xo.rst:21
 msgid "Type your name."
-msgstr "Escriba su nombre."
+msgstr "Escribe tu nombre."
 
 # 7bc84fd0fd51495b8f839928626143a4
 #: ../source/starting_the_xo.rst:25
@@ -83,34 +83,34 @@ msgid ""
 "the keyboard to move the arrow over the word \"Next\". Press the key below "
 "the touchpad on the left with an \"X\" on it to \"click\".)"
 msgstr ""
-"Después de escribir su nombre, haga clic en Siguiente. (Use un dedo en la "
-"pantalla táctil debajo del teclado para mover la flecha sobre la palabra "
-"\"Next\". Presione la tecla debajo de la pantalla táctil de la izquierda con"
-" una \"X\" en él para hacer \"clic\". )"
+"Después de escribir tu nombre, haz clic en Siguiente. (Usa un dedo en el "
+"panel táctil debajo del teclado para mover la flecha sobre la palabra "
+"\"Siguiente\". Presione la tecla debajo del panel táctil de la izquierda con "
+"una \"X\" en él para hacer \"clic\". )"
 
 # c29ac0ade6fc45caaa458da600c53186
 #: ../source/starting_the_xo.rst:29
 msgid ""
 "Next, you see a small O on top of an X. This symbol represents you when you "
 "use your XO. Use your finger on the touchpad to move the arrow over the "
-"person symbol. \"Click\" this person symbol by pressing the key with an "
-"\"X\" on the left below the touchpad to choose colors that you like."
+"person symbol. \"Click\" this person symbol by pressing the key with an \"X"
+"\" on the left below the touchpad to choose colors that you like."
 msgstr ""
 "A continuación, se ve una pequeña O en la parte superior de un X. Este "
-"símbolo representa cuando usted utiliza su XO. Use su dedo sobre el panel "
-"táctil para mover la flecha sobre el símbolo persona. \"Haga clic en\" este "
-"símbolo persona pulsando la tecla con una \"X\" de la izquierda debajo de la"
-" pantalla táctil para elegir los colores que te gustan."
+"símbolo te representa cuando utilizas tu XO. Usa tu dedo sobre el panel "
+"táctil para mover la flecha sobre el símbolo persona. \"Haz clic en\" este "
+"símbolo persona pulsando la tecla con una \"X\" de la izquierda debajo del "
+"panel táctil para elegir los colores que te gustan."
 
 # 5dc7c21933cc4779befbac28777c1bc0
 #: ../source/starting_the_xo.rst:33
 msgid "After you chose your colors, click \"Done.\""
-msgstr "Después de que usted eligió sus colores, haga clic en \"Hecho. \""
+msgstr "Después de que elijas tus colores, haz clic en \"Hecho. \""
 
 # 8207e6ce8d6742fe980a80d16c3f964b
 #: ../source/starting_the_xo.rst:38
 msgid "Putting the XO to sleep"
-msgstr "Poner la XO para dormir"
+msgstr "Poner la XO a dormir"
 
 # 83c00075b07d4a94a2ffd5cc8bf049ec
 #: ../source/starting_the_xo.rst:40
@@ -121,10 +121,10 @@ msgid ""
 "when you haven't been using it for a while, or when you push the power "
 "button."
 msgstr ""
-"Cuando esté listo para dejar de usar su XO por un tiempo, usted puede "
-"ponerlo a dormir presionando la tecla de encendido que utilizó para "
-"encenderlo. La pantalla que aparece al pulsar el botón de encendido se "
-"muestran las dos razones para dormir; cuando usted no ha estado usando "
+"Cuando estés listo para dejar de usar tu XO por un tiempo, puedes "
+"ponerlo a dormir presionando la tecla de encendido que utilizaste para "
+"encenderlo. La pantalla que aparece al pulsar el botón de encendido "
+"muestra las dos razones para dormir; cuando no la has estado usando "
 "durante un tiempo, o cuando se presiona el botón de encendido."
 
 # eb2753ed458d4d038a5251c995ba3a4d
@@ -138,8 +138,8 @@ msgid ""
 "When you have finished using the computer, click over the XO icon in the "
 "middle of the Home screen, and select the option Shutdown."
 msgstr ""
-"Cuando haya terminado de utilizar el equipo, haga clic sobre el icono de XO "
-"en el centro de la pantalla Inicio y seleccione la opción de apagado."
+"Cuando hayas terminado de utilizar el equipo, haz clic sobre el icono de XO "
+"en el centro de la pantalla Inicio y selecciona la opción de apagado."
 
 # 0313ffc5ee114d6c935b449a2b8812a6
 #: ../source/starting_the_xo.rst:52
@@ -153,12 +153,12 @@ msgid ""
 "you can make an emergency shutdown by pressing and holding the power button "
 "for a few seconds. Be careful that your power button does not get \"stuck\" "
 "in the down position. If it does get stuck, the XO does not detect the "
-"depression of the power button, and does not turn on. If this happens, refer"
-" to the Repairing chapter for information."
+"depression of the power button, and does not turn on. If this happens, refer "
+"to the Repairing chapter for information."
 msgstr ""
-"Siempre que la XO no responde al teclado o a la pantalla táctil, se puede "
+"Siempre que la XO no responde al teclado o al panel táctil, se puede "
 "hacer una parada de emergencia pulsando y manteniendo pulsado el botón de "
-"encendido durante unos segundos. Tenga cuidado de que el botón de encendido "
-"no consigue \"atascado\" en la posición hacia abajo. Si no se atascan, la XO"
-" no detecta la depresión del botón de encendido, y no se enciende. Si esto "
+"encendido durante unos segundos. Ten cuidado de que el botón de encendido "
+"no quede \"atascado\" en la posición hacia abajo. Si se atasca, la XO "
+"no detecta la depresión del botón de encendido, y no se enciende. Si esto "
 "ocurre, consulte el capítulo Reparación para obtener información."
