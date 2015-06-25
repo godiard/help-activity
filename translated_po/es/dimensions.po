@@ -166,7 +166,7 @@ msgid ""
 "Cards have four different attributes: color, shape, fill texture, and number"
 " of elements."
 msgstr ""
-"Tarjetas tienen cuatro atributos diferentes: color, forma, textura de "
+"Las tarjetas tienen cuatro atributos diferentes: color, forma, textura de "
 "relleno, y el número de elementos."
 
 # cc3ae69bb0a94d31a3f8f8135ff5e49e
@@ -478,7 +478,7 @@ msgstr "Otros modos de juego"
 # 711026e385a84fa7ac151b77846b4675
 #: ../source/dimensions.rst:135
 msgid "Number Game"
-msgstr "Número de Juegos"
+msgstr "Número de Juego"
 
 # e7b981e22da942209d8523c40a857bac
 #: ../source/dimensions.rst:139
@@ -883,14 +883,14 @@ msgstr "Hay varios problemas conocidos con la versión actual de Dimensiones:"
 # 47febeb0549749dc81c8fbf695a5e772
 #: ../source/dimensions.rst:266
 msgid "Restore from Journal does not work on pre-0.82 versions of Sugar."
-msgstr "Restaurar de Diario no funciona en pre-0. 82 versiones de Azúcar."
+msgstr "Restaurar desde el Diario no funciona en versiones de Sugar previas a 0.82"
 
 # a077e87509ec4ed48688a957bcd84d35
 #: ../source/dimensions.rst:267
 msgid ""
 "Chinese Cards don't display properly on some systems due to a missing font."
 msgstr ""
-"Tarjetas chinos no se muestran correctamente en algunos sistemas debido a "
+"Tarjetas chinas no se muestran correctamente en algunos sistemas debido a "
 "una fuente que falta."
 
 # 99496e66a2424616a808d7b53b9e8030
@@ -919,9 +919,8 @@ msgid ""
 "You can `view the open tickets here. "
 "<https://bugs.sugarlabs.org/query?status=accepted&status=assigned&status=new&status=reopened&component=Visual+Match>`_"
 msgstr ""
-"Puede `ver los tickets abiertos aquí. <https: // bichos. sugarlabs. org / "
-"consulta? estado = aceptado y estado = asignado y estado = new & estado = "
-"reabierto y componente = Visual + Partido> `_"
+"Puede `ver los tickets abiertos aquí. "
+"<https://bugs.sugarlabs.org/query?status=accepted&status=assigned&status=new&status=reopened&component=Visual+Match>`_"
 
 # a09ec0ce51d44d2696f29e28a6bc6c17
 #: ../source/dimensions.rst:276
