@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,16 +11,16 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # fdd43f7c4603400ba5f5cc6a1c5a9fa9
 #: ../source/musickeyboard.rst:3
 msgid "Music Keyboard"
-msgstr "La música del teclado"
+msgstr "Teclado musical"
 
 # b0dbfbf7698847fc957ebcfd46759f28
 #: ../source/musickeyboard.rst:8
@@ -30,8 +30,8 @@ msgstr "Acerca de"
 # 0c43d75b1e644339bd2994515229ab36
 #: ../source/musickeyboard.rst:10
 msgid ""
-"This activity display a piano keyboard in the screen and can be used to play"
-" music selecting sounds from different instruments. In devices with touch "
+"This activity display a piano keyboard in the screen and can be used to play "
+"music selecting sounds from different instruments. In devices with touch "
 "screen, can be used touching the screen, in devices without one, the laptop "
 "keyboard can be used."
 msgstr ""
@@ -47,8 +47,8 @@ msgid ""
 "The piano widget trigger events for every key pressed/released, and is "
 "designed to be easily included in other activities."
 msgstr ""
-"Los eventos widget de piano de activación para las pulsaciones / liberado, y"
-" está diseñado para ser fácilmente comprendidos en otras actividades."
+"El piano utiliza eventos para las pulsaciones / liberacion de teclas, y "
+"está diseñado para ser fácilmente incluido en otras actividades."
 
 # 46dd338d89124db2b0faaddfeed62b7a
 #: ../source/musickeyboard.rst:16
@@ -62,18 +62,18 @@ msgid ""
 "the on-screen keyboard to show the letters and numbers of the corresponding "
 "notes on the QWERTY keyboard. This is very helpful for XOs without a touch "
 "screen. It should help eliminate the confusion children who have had piano "
-"lessons encounter when, for example, the Qwerty C key plays the musical note"
-" of E or the Qwerty B key plays the musical note of G. Users can easily see "
+"lessons encounter when, for example, the Qwerty C key plays the musical note "
+"of E or the Qwerty B key plays the musical note of G. Users can easily see "
 "the Qwerty keyboard relationship with this version running."
 msgstr ""
 "Al hacer clic en el \"Q\" pequeña en la parte superior de la pantalla, el "
 "usuario puede configurar el teclado en pantalla para mostrar las letras y "
-"números de las notas correspondientes en el teclado QWERTY. Esto es muy útil"
-" para las XO sin una pantalla táctil. Debe ayudar a eliminar la confusión "
-"niños que han tenido clases de piano encuentran cuando, por ejemplo, la "
+"números de las notas correspondientes en el teclado QWERTY. Esto es muy útil "
+"para las XO sin una pantalla táctil. Debe ayudar a eliminar la confusión "
+"en niños que han tenido clases de piano encuentran cuando, por ejemplo, la "
 "clave Qwerty C reproduce la nota musical de E o la tecla Qwerty B reproduce "
-"la nota musical de G. Los usuarios pueden ver fácilmente la relación teclado"
-" Qwerty con esta versión en ejecución."
+"la nota musical de G. Los usuarios pueden ver fácilmente la relación teclado "
+"Qwerty con esta versión en ejecución."
 
 # 22d97e323d754912a84e5d6e6a115e06
 #: ../source/musickeyboard.rst:19
@@ -82,25 +82,28 @@ msgid ""
 "syllables as used in most Latin American countries and some European "
 "countries, where the 7th note in the scale is sung as \"SI.\""
 msgstr "\""
+"Haciendo click en el siguiente boton , \"DO,\" hace que el teclado muestre "
+"las sílabas de solfeo usadas en la mayoría de los paises de Latino América "
+"y algunos paises europeos, donde la 7ma nota en la escala es cantada como \"SI.\""
 
 # 034c13da6eb4480abb149841465b4f43
 #: ../source/musickeyboard.rst:20
 msgid ""
-"For countries, such as the USA and and some European countries where the 7th"
-" note is sung as \"Ti\", you simply click on the \"TI\" button!"
+"For countries, such as the USA and and some European countries where the 7th "
+"note is sung as \"Ti\", you simply click on the \"TI\" button!"
 msgstr ""
-"Por países, como los EE.UU. y algunos países europeos y en el que el séptimo"
-" nota se canta como \"Ti\", simplemente haga clic en el botón \"TI\"!"
+"Para los países, como los EE.UU. y algunos países europeos y en el que la séptima "
+"nota se canta como \"Ti\", simplemente haz clic en el botón \"TI\"!"
 
 # 80397baf98514b4b9ddb5afef549f5db
 #: ../source/musickeyboard.rst:21
 msgid ""
-"Of course, some people will want the letter names of the notes, and clicking"
-" on the \"C\" button will magically switch to the letter names of the notes."
+"Of course, some people will want the letter names of the notes, and clicking "
+"on the \"C\" button will magically switch to the letter names of the notes."
 msgstr ""
-"Por supuesto, algunas personas van a querer los nombres de las letras de las"
-" notas, y haciendo clic en el botón \"C\" por arte de magia se cambiará a "
-"los nombres de las letras de las notas."
+"Por supuesto, algunas personas van a querer los nombres de las letras de las "
+"notas, y haciendo clic en el botón \"C\" por arte de magia se cambiará a los "
+"nombres de las letras de las notas."
 
 # 500590bb38f14bbaab9ef8ee7740f57a
 #: ../source/musickeyboard.rst:22
@@ -110,17 +113,17 @@ msgid ""
 msgstr ""
 "Por último, para los puristas (mejor en una pantalla táctil) todos los "
 "nombres de las notas se pueden eliminar haciendo clic en la \"X\", dando "
-"sólo una llanura, teclado estándar."
+"sólo un simple, teclado estándar."
 
 # 1d5dc7b1af7e4fab8de613b88a90551e
 #: ../source/musickeyboard.rst:23
 msgid ""
-"Other small, but important details are the inclusion of the enharmonic names"
-" of the \"black\" keys, for example, A# and Bb are both marked on the same "
+"Other small, but important details are the inclusion of the enharmonic names "
+"of the \"black\" keys, for example, A# and Bb are both marked on the same "
 "key because, on a keyboard, they sound exactly the same."
 msgstr ""
 "Otros detalles pequeños, pero importantes son la inclusión de los nombres "
-"enarmónicos de las teclas \"negros\", por ejemplo, A # y Bb son ambos "
+"enarmónicos de las teclas \"negras\", por ejemplo, A# y Bb son ambos "
 "marcados en la misma tecla, ya que, en un teclado, suenan exactamente lo "
 "mismo."
 
@@ -144,11 +147,10 @@ msgstr "Descargar"
 # 5ba3b50b1fbe44e384eb7aa15a026c1a
 #: ../source/musickeyboard.rst:28
 msgid ""
-"`Activity page in our activities portal "
-"<http://activities.sugarlabs.org/sugar/addon/4654>`_"
+"`Activity page in our activities portal <http://activities.sugarlabs.org/"
+"sugar/addon/4654>`_"
 msgstr ""
-"`Página Actividad en nuestro portal de actividades <http: // actividades. "
-"sugarlabs. org / azúcar / addon / 4654> `_"
+"`Página Actividad en nuestro portal de actividades <http://activities.sugarlabs.org/sugar/addon/4654>`_"
 
 # a31356c795a4431ab9647d5f952b497b
 #: ../source/musickeyboard.rst:31
@@ -159,8 +161,7 @@ msgstr "Referencias"
 #: ../source/musickeyboard.rst:32
 msgid "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/Music_Keyboard>`_"
 msgstr ""
-"`Wiki Páginas <http: // wiki. sugarlabs. org / go / Actividades / "
-"Music_Keyboard> `_"
+"`Página Wiki <http://wiki.sugarlabs.org/go/Activities/Music_Keyboard>`_"
 
 # c324edb75fe7430dbfcb8c1350040226
 #: ../source/musickeyboard.rst:35
@@ -173,21 +174,20 @@ msgid ""
 "`The Music Keyboard repository <https://github.com/godiard/music-keyboard-"
 "activity>`_"
 msgstr ""
-"`El repositorio de la música del teclado <https: // github. com / godiard / "
-"música-teclado-actividad> `_"
+"`El repositorio de los fuentes del teclado musical es <https://github.com/godiard/music-keyboard-activity>`_"
 
 # ca7a630664da4497ac5fe5a8871598b9
 #: ../source/musickeyboard.rst:38
 msgid "`The Tam Tam repository <https://git.sugarlabs.org/tamtam>`_"
-msgstr "`El repositorio Tam Tam <https: // git. sugarlabs. org / tamtam> `_"
+msgstr "`El repositorio Tam Tam <https://git.sugarlabs.org/tamtam>`_"
 
 # 3375e5a7cc2b430e8b4f7b7c0dd83f3a
 #: ../source/musickeyboard.rst:40
 msgid ""
 "Note the master branch in the Tam Tam repository is where the port to Gtk3 "
-"started, but is not finished. If you want generate a usable activity, should"
-" use the branch sugar-0.94"
+"started, but is not finished. If you want generate a usable activity, should "
+"use the branch sugar-0.94"
 msgstr ""
-"Tenga en cuenta la rama principal en el repositorio Tam Tam es donde comenzó"
-" el puerto a gtk3, pero no ha terminado. Si desea generar una actividad "
-"útil, debe utilizar la rama de azúcar 0. 94"
+"Tenga en cuenta la rama principal en el repositorio Tam Tam es donde comenzó "
+"el port a gtk3, pero no se ha terminado. Si desea generar una actividad útil, "
+"debe utilizar la rama de sugar-0.94"
