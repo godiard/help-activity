@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # c90126067c134b89a3a6ea5f9556bf70
@@ -25,7 +25,7 @@ msgstr "Encuesta"
 # b597e8283f7f4170b44ff9533dd67532
 #: ../source/poll.rst:6
 msgid "Overview"
-msgstr "Visión de conjunto"
+msgstr "Introducción"
 
 # b52bbaa9626c48e28329c9b57ac4ab25
 #: ../source/poll.rst:7
@@ -38,14 +38,14 @@ msgid ""
 "can also ask the same question of different groups (i.e. boys and girls or "
 "children and adults) and see how each group answers."
 msgstr ""
-"Una encuesta es una herramienta de investigación que ayuda a explicar lo que"
-" un grupo de gente piensa acerca de un tema. En primer lugar usted presente "
-"el grupo con una pregunta y un conjunto de opciones de respuesta. Luego, "
+"Una encuesta es una herramienta de investigación que ayuda a explicar lo que "
+"un grupo de gente piensa acerca de un tema. En primer lugar presentas "
+"el grupo una pregunta y un conjunto de opciones de respuesta. Luego, "
 "cada persona en el grupo llega a votar por la respuesta que mejor describe "
-"sus sentimientos personales o la opinión. Después de recoger los votos de "
-"todo el grupo, usted busca un patrón en sus respuestas. También puede hacer "
-"la misma pregunta de diferentes grupos (i. y. niños y niñas o niños y "
-"adultos) y ver cómo cada grupo respuestas."
+"sus sentimientos personales o su opinión. Después de recoger los votos de "
+"todo el grupo, buscas un patrón en sus respuestas. También puedes hacer "
+"la misma pregunta a diferentes grupos (ej. niños y niñas o niños y "
+"adultos) y ver cómo cada grupo responde."
 
 # fa9e33b4359941ae96ab84702280dd9a
 #: ../source/poll.rst:9
@@ -62,14 +62,14 @@ msgstr ""
 #: ../source/poll.rst:11
 msgid ""
 "Polls are a helpful tool for any research project.  Use this Poll tool and "
-"lesson plans with whatever subject you are studying.  It can also be used to"
-" make collaborative decisions in the classroom about academic activities and"
-" among friends about social issues."
+"lesson plans with whatever subject you are studying.  It can also be used to "
+"make collaborative decisions in the classroom about academic activities and "
+"among friends about social issues."
 msgstr ""
 "Las encuestas son una herramienta útil para cualquier proyecto de "
-"investigación. Utilice esta herramienta de encuestas y planes de lecciones "
-"con cualquier tema que se está estudiando. También se puede utilizar para "
-"tomar decisiones de colaboración en el aula acerca de las actividades "
+"investigación. Utiliza esta herramienta y planes de lecciones "
+"con cualquier tema que se esté estudiando. También se puede utilizar para "
+"tomar decisiones en forma colaborativa en el aula acerca de las actividades "
 "académicas y entre amigos sobre temas sociales."
 
 # 31668f60b8ac4e3bacf8657f908b2f30
@@ -92,13 +92,13 @@ msgstr ""
 # e11ef1f8540e4c64bec4e04aa839b97f
 #: ../source/poll.rst:19
 msgid "Practice choosing poll subjects."
-msgstr "La práctica de elegir temas electorales."
+msgstr "Practica la elección de temas de encuestas."
 
 # 40f50efa19f347bda7f52d4f5ee3e5df
 #: ../source/poll.rst:21
 msgid "Learn how to formulate good poll questions and answer choices."
 msgstr ""
-"Aprenda cómo formular buenas preguntas de la encuesta y opciones de "
+"Aprende cómo formular buenas preguntas para la encuesta y opciones de "
 "respuesta."
 
 # 02b61bbcc8c3485394ca639cb1925c8a
@@ -106,7 +106,7 @@ msgstr ""
 msgid ""
 "Practice basic survey skills of data collection, analysis and presentation."
 msgstr ""
-"Practicar las habilidades básicas de la encuesta de la recopilación de "
+"Practica las habilidades básicas de la recopilación de "
 "datos, análisis y presentación."
 
 # 9129268a00484f7488bd020b27489f1a
@@ -119,19 +119,19 @@ msgstr ""
 #: ../source/poll.rst:27
 msgid "Learn how to represent poll results using ratios and percentages."
 msgstr ""
-"Aprenda cómo representar resultados de la encuesta utilizando ratios y "
+"Aprende cómo representar resultados de la encuesta utilizando proporciones y "
 "porcentajes."
 
 # 23233f4bd60e4db792d5e43bf7aadab9
 #: ../source/poll.rst:29
 msgid "Learn how to help peers understand an idea or an opinion."
 msgstr ""
-"Aprenda cómo ayudar a sus compañeros a entender una idea o una opinión."
+"Aprende cómo ayudar a tus compañeros a entender una idea o una opinión."
 
 # d14fc6f1843d43e28f68ce01d1985fa0
 #: ../source/poll.rst:31
 msgid "Learn from classmates."
-msgstr "Aprender de los compañeros de clase."
+msgstr "Aprende de los compañeros de clase."
 
 # 8916353a196a4ddcba57b7d1f7d506d0
 #: ../source/poll.rst:33
@@ -139,7 +139,7 @@ msgid ""
 "Learn how to present poll results and make collaborative decisions based on "
 "those results."
 msgstr ""
-"Aprenda cómo presentar resultados de la encuesta y tomar decisiones "
+"Aprende cómo presentar resultados de la encuesta y tomar decisiones "
 "colaborativas basadas en estos resultados."
 
 # efa9f444e58a4dc2bb137b5d42b7498e
@@ -151,41 +151,41 @@ msgstr ""
 # 8f94d06235004d29ac0d339acff7efc8
 #: ../source/poll.rst:38
 msgid "Participate in a Poll"
-msgstr "Participar en una encuesta"
+msgstr "Participa en una encuesta"
 
 # e3c8891bd97b4865b405f63bdd7e967d
 #: ../source/poll.rst:40
 msgid "Open the Poll activity from the Sugar Home view."
-msgstr "Abra la Encuesta actividad desde el punto de vista de Azúcar Inicio."
+msgstr "Abre la actividad Encuesta desde la vista Hogar de Sugar."
 
 # a383d8d8d22b4f8e86a91e29cac9bad9
 #: ../source/poll.rst:42
 msgid ""
 "Choose a Poll topic from the list, and click the “VOTE” button next to it."
 msgstr ""
+"Elige un tema de Encuesta de la lista, y haz click en el boton “VOTAR”."
+
 
 # f730257e352142788b91c60767d9abea
 #: ../source/poll.rst:44
 msgid ""
 "A Poll question and answer choices will appear. Read them carefully, then "
-"click on your favorite answer. Click the “VOTE” button to submit your "
-"answer."
+"click on your favorite answer. Click the “VOTE” button to submit your answer."
 msgstr ""
-"Aparecerá una pregunta de la encuesta y las opciones de respuesta. Lea con "
-"cuidado, luego haga clic en su respuesta favorita."
+"Aparecerá una pregunta de la encuesta y las opciones de respuesta. Lee con "
+"cuidado, luego haz clic en tu respuesta favorita."
 
 # 4aa227fa6d5342f3b8d9b0d13d7da4b0
 #: ../source/poll.rst:46
 msgid ""
 "After you vote, current Poll results will appear. You will see the exact "
-"number of votes cast (so far) for each answer. You will also see a bar graph"
-" that shows which answer is currently the most popular among the whole "
-"group."
+"number of votes cast (so far) for each answer. You will also see a bar graph "
+"that shows which answer is currently the most popular among the whole group."
 msgstr ""
-"Después de votar, aparecerán los resultados de la Encuesta Actual. Verá el "
+"Después de votar, aparecerán los resultados de la Encuesta Actual. Verás el "
 "número exacto de votos emitidos (hasta ahora) para cada respuesta. También "
-"podrá ver un gráfico de barras que muestra que la respuesta es actualmente "
-"el más popular entre todo el grupo."
+"podrás ver un gráfico de barras que muestra que respuesta es actualmente "
+"la más popular entre todo el grupo."
 
 # 5a7b1f51d2bd493d856ea0528c2b308b
 #: ../source/poll.rst:48
@@ -195,7 +195,7 @@ msgid ""
 "you think will win? Why?"
 msgstr ""
 "Mira el número de votos junto a cada respuesta. ¿Cuál tiene más votos hasta "
-"el momento? ¿Cuántas personas eligieron la misma respuesta que usted? ¿Qué "
+"el momento? ¿Cuántas personas eligieron la misma respuesta que tu? ¿Qué "
 "respuesta crees que ganará? ¿Por qué?"
 
 # 4ac28db57cc04932bf7d46494b5b7b43
@@ -213,18 +213,17 @@ msgid ""
 "Let each person in your group vote in this poll. How did the votes and bar "
 "graphs change?"
 msgstr ""
-"Que cada persona en su grupo voto en esta encuesta. ¿Cómo lograron los votos"
-" y gráficos de barras cambian?"
+"Haz que cada persona en tu grupo vote en esta encuesta. ¿Cómo cambiaron los votos "
+"y gráficos de barras?"
 
 # ddd76e64d2684c4bab9da3743a142d16
 #: ../source/poll.rst:54
 msgid ""
-"After everyone votes, discuss the final results. What did you learn from the"
-" poll? Were you surprised by the results? How could you use this "
-"information?"
+"After everyone votes, discuss the final results. What did you learn from the "
+"poll? Were you surprised by the results? How could you use this information?"
 msgstr ""
-"Después de que todos los votos, discutir los resultados finales. ¿Qué "
-"aprendiste de la encuesta? ¿Le sorprendió por los resultados? ¿Cómo podría "
+"Después de que todos los votos, discute los resultados finales. ¿Qué "
+"aprendiste de la encuesta? ¿Te sorprendió por los resultados? ¿Cómo podrías "
 "usar esta información?"
 
 # fac640b3887d4ec4a137179b958e410e
@@ -234,13 +233,14 @@ msgid ""
 "paper or in the “Write” program on the XO Laptop. What would you like to "
 "learn from each poll you thought of? What would you do with the results?"
 msgstr ""
-"Generar una lista de ideas para encuestas. ¿Qué le gustaría aprender de cada"
-" encuesta que pensaste? ¿Qué haría usted con los resultados?"
+"Generar una lista de ideas para encuestas. Escribe tus ideas en el pizarron "
+"en un papel o en la actividad Escribir en tu laptop. ¿Qué te gustaría aprender con cada "
+"encuesta que pensaste? ¿Qué haría usted con los resultados?"
 
 # 76ec1e6a0af744c399224ff7317c2f7f
 #: ../source/poll.rst:59
 msgid "Build a Poll"
-msgstr "Construir una encuesta"
+msgstr "Crea una encuesta"
 
 # 47f522c2d0da42d68cfcb319175d0919
 #: ../source/poll.rst:61
@@ -249,24 +249,28 @@ msgid ""
 "you, and learn to collect votes from people and reach conclusions or make "
 "decisions based on your poll."
 msgstr ""
-"Hacer un sondeo de su propio! El objetivo es construir una encuesta que es "
-"interesante para usted, y aprender a recoger los votos de la gente y llegar "
-"a conclusiones o tomar decisiones sobre la base de su encuesta."
+"¡Haz tu propia encuesta! El objetivo es crear una encuesta que sea "
+"interesante para ti, y aprender a recoger los votos de la gente y llegar "
+"a conclusiones o tomar decisiones sobre la base de tu encuesta."
 
 # 0202254b0c384fbd958fcaa74fa784fd
 #: ../source/poll.rst:63
 msgid ""
 "Example poll idea:  “What is your favorite activity on the XO?” You can use "
-"this poll in your classroom or your family, to find out what activity is the"
-" most favorite or popular."
+"this poll in your classroom or your family, to find out what activity is the "
+"most favorite or popular."
 msgstr ""
+"Ejemplo de una idea para encuesta: \"¿Cual es tu actividad favorita en tu XO\? "
+"Puedes usar esta encuesta en tu clase, o en tu familia, para encontrar cual es "
+"la actividad favorita o más popular" 
 
 # ed49136f10da4453a53b927ce65c9064
 #: ../source/poll.rst:66
 msgid ""
-"Open the Poll Builder activity and click on the “Build a Poll” button at the"
-" bottom of the screen."
+"Open the Poll Builder activity and click on the “Build a Poll” button at the "
+"bottom of the screen."
 msgstr ""
+"Abre la actividad Encuesta y haz click en el boton \"Construir encuesta\" "
 
 # b2caf0712b9a45729be7bb9ae76947fe
 #: ../source/poll.rst:68
@@ -274,17 +278,20 @@ msgid ""
 "Fill in your poll details on the blank form that appears. Type in your poll "
 "title, question and answers, and the number of votes you want to collect."
 msgstr ""
-"Rellena tus datos de la encuesta sobre la forma en blanco que aparece. "
-"Escriba su encuesta título, preguntas y respuestas, y el número de votos que"
-" desea recopilar."
+"Rellena los datos de la encuesta en el formulario en blanco que aparece. "
+"Escriba su título, pregunta y respuestas, y el número de votos que "
+"deseas recopilar."
 
 # a34ebca935aa4719b515c3002284e2d6
 #: ../source/poll.rst:70
 msgid ""
 "Think about your “Poll Title” and “Question.” The title is the name of your "
-"poll, and the question is what you want to know.    In our example poll, the"
-" title is “Favorite Food” and the question is “What is your favorite food?”"
+"poll, and the question is what you want to know.    In our example poll, the "
+"title is “Favorite Food” and the question is “What is your favorite food?”"
 msgstr ""
+"Piensa acerca del Título de la encuesta y la Pregunta. El título es el nombre "
+"de tu encuesta, y la pregunta es lo que quieres saber. En nuestra encuesta de ejemplo, "
+"el título es \"Comida favorita\" y la pregunta es \"¿Cual es tu comida favorita?\""
 
 # d33a0413ac14436d903028e4f3fcc9e3
 #: ../source/poll.rst:72
@@ -295,22 +302,22 @@ msgid ""
 "your class? Just the 12-year-olds? All of the people in your family? All of "
 "the women in your town?"
 msgstr ""
-"Siguiente tipo en el número de votos que desea recopilar en su encuesta. "
-"Para hacer esto correctamente, piensa en la cantidad de personas que desea "
-"sondear. ¿Es todo de los estudiantes en su clase? Sólo los niños de 12 años?"
-" Todas las personas en su familia? Todas las mujeres en su ciudad?"
+"Luego ingresa el número de votos que deseas recopilar en tu encuesta. "
+"Para hacer esto correctamente, piensa en la cantidad de personas que deseas "
+"sondear. ¿Todos los estudiantes en tu clase? ¿Sólo los niños de 12 años? "
+"¿Todas las personas en tu familia? ¿Todas las mujeres en tu ciudad?"
 
 # 5948eb87880b406bb79206c60e3851b5
 #: ../source/poll.rst:74
 msgid ""
 "Now type in the “Answer choices,” you want people to choose from. You can "
 "offer 2, 3, 4 or 5 answer choices in this poll.  In our Favorite Food "
-"example, the answer choices could be: 1. Bread, 2. Rice, 3. Beans, 4. Candy,"
-" 5. Bananas."
+"example, the answer choices could be: 1. Bread, 2. Rice, 3. Beans, 4. Candy, "
+"5. Bananas."
 msgstr ""
-"Usted puede ofrecer 2, 3, 4 o 5 opciones de respuesta en esta encuesta. En "
-"nuestro ejemplo favorito de Alimentos, las opciones de respuesta pueden ser:"
-" 1. Pan, 2. Rice, 3. Frijoles, 4. Candy, 5. Plátanos."
+"Puedes ofrecer 2, 3, 4 o 5 opciones de respuesta en esta encuesta. En "
+"nuestro ejemplo Alimentos Favoritos, las opciones de respuesta pueden ser: "
+"1. Pan, 2. Arroz, 3. Frijoles, 4. Carmelos, 5. Plátanos."
 
 # a69418d6fb02431496cd14625b98be34
 #: ../source/poll.rst:76
@@ -318,39 +325,44 @@ msgid ""
 "Once you have filled in all of the “Build a Poll” fields, click “Step 1: "
 "Preview” to see how your poll will look."
 msgstr ""
+"Cuado has llenado todos los campos, haz click en \"Previsualizar\" para "
+"ver como se ve la encuesta."
 
 # af7d5a0ce90f4442b85883653a3597de
 #: ../source/poll.rst:78
 msgid "If you like how it looks, click “Save Poll.”"
-msgstr ""
+msgstr "Si estas conforme, presiona \"Grabar encuesta\"."
 
 # 87202aa3c1e34156a4a432cfae49b3be
 #: ../source/poll.rst:80
 msgid ""
 "If you want to change something, click “Edit Poll.” You can change the "
 "information in any field."
-msgstr ""
+msgstr "Si quieres cambiar algo, haz click en \"Editar Encuesta\". Puedes "
+"cambiar la información en cualquier campo."
 
 # 66ca4365e63a43619e4aaad76c24db97
 #: ../source/poll.rst:82
 msgid ""
 "When you are happy, click “Step 2: Save Poll” -- your poll will be built."
 msgstr ""
+msgstr "Si estas conforme, presiona \"Grabar encuesta\" -- tu encuesta será "
+"creada."
 
 # 2becdee85a9d4ede86569311fef14068
 #: ../source/poll.rst:85
 msgid "Collect Poll Data"
-msgstr "Recoger Encuesta de Datos"
+msgstr "Recoger datos para la Encuesta"
 
 # e1bf6b819a774b70bb04bddde993a66e
 #: ../source/poll.rst:87
 msgid ""
-"Now that your poll is built, invite people to take your poll on the XO. Walk"
-" around with your laptop, and ask people to answer your research question."
+"Now that your poll is built, invite people to take your poll on the XO. Walk "
+"around with your laptop, and ask people to answer your research question."
 msgstr ""
-"Ahora que su encuesta se construye, invitar a la gente a tomar su encuesta "
-"en la XO. Camine alrededor con su ordenador portátil, y pedir a la gente "
-"para responder a su pregunta de investigación."
+"Ahora que tu encuesta está lista, invita a la gente a tomar parte en tu encuesta "
+"en la XO. Camina alrededor con tu ordenador portátil, y pídele a la gente "
+"responder a tu pregunta de investigación."
 
 # 61e2063f2d7a4d609121154493ff72f3
 #: ../source/poll.rst:89
@@ -361,10 +373,10 @@ msgid ""
 "list, read the poll by themselves and click on their answer choice by "
 "themselves."
 msgstr ""
-"Decida cómo va a obtener la información que necesita. Se podía leer su "
-"pregunta y las opciones de respuesta a cada persona y haga clic en su "
-"respuesta en su XO. O bien, puede mostrar a cada persona cómo seleccionar su"
-" encuesta de la lista, leer la encuesta realizada por ellos mismos y haga "
+"Decide cómo vas a obtener la información que necesitas. Puedes leer tu "
+"pregunta y las opciones de respuesta a cada persona y hacer clic en su "
+"respuesta en tu XO. O bien, puede mostrar a cada persona cómo seleccionar su "
+"encuesta de la lista, leer la encuesta realizada por ellos mismos y hacer "
 "clic en su opción de respuesta por sí mismos."
 
 # 80cd45dbf96e46c6bf5520a39f085b89
@@ -374,6 +386,8 @@ msgid ""
 "when you reach the number of your “sample size.”"
 msgstr ""
 "Para obtener los mejores resultados, cada persona debe votar una sola vez"
+"La encuesta se cierra cuando se alcanza el número de respuestas que tu haz "
+"seleccionado (tamaño de la muestra)."
 
 # 6f050718030e453cb16ce3774fbcce4c
 #: ../source/poll.rst:93
@@ -382,7 +396,10 @@ msgid ""
 "chose the “number of votes to collect.” If it was girls, ask only girls.  "
 "Otherwise your results will not reflect the group you had in mind."
 msgstr ""
-"De lo contrario los resultados no reflejarán el grupo que tenía en mente."
+"Trata de colectar votos de la gente en la que pensaste originalmente "
+"cuando seleccionaste el \"número de votos a recolectar\". Si pensaste en niñas, "
+"pregúntale solo a niñas, De lo contrario los resultados no reflejarán el grupo "
+"que tenías en mente."
 
 # 76f4b49d5cec4d2aa569e5ab869bec3a
 #: ../source/poll.rst:95
@@ -392,15 +409,15 @@ msgid ""
 "results of the same question asked to different groups, such as boys and "
 "girls or adults and children."
 msgstr ""
-"Recuerde, usted puede crear la misma encuesta de nuevo, y pedir diferentes "
-"tipos de personas para responder a cada momento. Va a ser muy interesante "
+"Recuerda, puedes crear la misma encuesta de nuevo, y pedir a diferente "
+"tipos de personas responder en cada momento. Va a ser muy interesante "
 "comparar los resultados de la misma pregunta hecha a los diferentes grupos, "
 "como los niños y niñas o adultos y niños."
 
 # 8924d1f4e62c4ddf9e528fc37a9662d2
 #: ../source/poll.rst:98
 msgid "Use Data to make Observations and Decisions"
-msgstr "Usar datos para hacer observaciones y decisiones"
+msgstr "Usar datos para hacer observaciones y tomar decisiones"
 
 # 08bbeb25eff0437990a2607fe7165577
 #: ../source/poll.rst:100
@@ -409,7 +426,7 @@ msgid ""
 "look at the results and think about what they mean."
 msgstr ""
 "Después de haber recogido los datos de encuesta que necesitabas a partir de "
-"uno o más grupos, mirar los resultados y pensar en lo que significan."
+"uno o más grupos, mira los resultados y piensa en lo que significan."
 
 # c954490372424c3bb0eec40d49f3db2c
 #: ../source/poll.rst:102
@@ -417,7 +434,7 @@ msgid ""
 "Open the Poll activity on your XO and find your poll title on the list. "
 "Click the “See Results” button to see how people voted."
 msgstr ""
-"Abra la Encuesta actividad en su XO y encontrar su título encuesta de la "
+"Abra la actividad Encuesta en tu XO y encuentra el título de encuesta en la "
 "lista."
 
 # 1859eb2dc8d4482ba5c020273b78c313
@@ -427,7 +444,7 @@ msgid ""
 "Which answer has the longest bar? What does that mean? Which answer has the "
 "shortest bar? What does that mean?"
 msgstr ""
-"Mira los gráficos de barras que representan los votos (resultados) de su "
+"Mira los gráficos de barras que representan los votos (resultados) de tu "
 "encuesta. ¿Qué respuesta tiene la barra más larga? Qué significa eso? ¿Qué "
 "respuesta tiene la barra más corta? Qué significa eso?"
 
@@ -438,31 +455,33 @@ msgid ""
 "students, adults, children, etc.) Open each poll and see if there are any "
 "differences."
 msgstr ""
-"Si se trató de su encuesta con diferentes grupos (niñas, niños, profesores, "
-"estudiantes, adultos, niños, etc.. ) Abra cada sondeo y ver si hay alguna "
+"Si haz hecho tu encuesta a diferentes grupos (niñas, niños, profesores, "
+"estudiantes, adultos, niños, etc.. ) Abre cada encuesta y ve si hay alguna "
 "diferencia."
 
 # 14d5b2a9be0d4c7c8c1f8a240fef8f7d
 #: ../source/poll.rst:109
 msgid ""
 "Write down notes about what you see; put your findings on paper or record "
-"them with the “Write” activity on your XO. How does this kind of information"
-" help you draw conclusions about the people you surveyed? Does the data "
+"them with the “Write” activity on your XO. How does this kind of information "
+"help you draw conclusions about the people you surveyed? Does the data "
 "accurately represent an entire group?   Does it matter if you questioned 25 "
 "people or 100 people? Why?"
 msgstr ""
-"¿De qué manera este tipo de información ayudará a sacar conclusiones acerca "
-"de las personas que encuestó? ¿Los datos representan con precisión todo un "
-"grupo? ¿Importa si interrogado a 25 personas o 100 personas? ¿Por qué?"
+"Escribe notas acerca de lo que ves; pon lo que has descubierto en papel "
+"o con la actividad Escribir eb tu XO. "
+"¿De qué manera este tipo de información te ayudará a sacar conclusiones acerca "
+"de las personas que encuestaste? ¿Los datos representan con precisión todo un "
+"grupo? ¿Importa si has interrogado a 25 personas o a 100 personas? ¿Por qué?"
 
 # 7aafbacf6c7347c8838e8ced8f720aa7
 #: ../source/poll.rst:111
 msgid ""
-"Present you findings to your class, or to the people who took the poll. Tell"
-" them what you learned for the poll and discuss the results together. "
+"Present you findings to your class, or to the people who took the poll. Tell "
+"them what you learned for the poll and discuss the results together. "
 "Brainstorm about what could be done with this information."
 msgstr ""
-"Que presentará los resultados de su clase, oa las personas que tomaron la "
-"encuesta. Diles lo que has aprendido para la encuesta y discutir los "
-"resultados juntos. Lluvia de ideas sobre lo que podría hacerse con esta "
+"Ppresenta los resultados a tu clase, o a las personas que tomaron la "
+"encuesta. Diles lo que has aprendido de la encuesta y discuti los "
+"resultados junto a ellos. Haz una lluvia de ideas sobre lo que podría hacerse con esta "
 "información."
