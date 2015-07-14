@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,21 +11,21 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 43d6aeece2a74c75b9cb2292f4cbc9fd
 #: ../source/neighborhood_view.rst:3
 msgid "Neighborhood View"
-msgstr "Barrio Vista"
+msgstr "Vista Vecindario"
 
 # e1c199e074a5476e8760c83b917d9828
 #: ../source/neighborhood_view.rst:6
 msgid "Neighborhood View: Connecting to the Internet"
-msgstr "Barrio Vista: Conexión a Internet"
+msgstr "Vista Vecindario: Conexión a Internet"
 
 # a4bd6aaf14924c0bbcacc0546daeff8f
 #: ../source/neighborhood_view.rst:8
@@ -33,8 +33,8 @@ msgid ""
 "You can use the Neighborhood View to connect to the Internet and to "
 "collaborate with others."
 msgstr ""
-"Puede utilizar el Barrio Vista para conectarse a Internet y de colaborar con"
-" los demás."
+"Puedes utilizar el Vista Vecindario para conectarte a Internet y para colaborar con "
+"los demás."
 
 # 2031836128c54a14b91c6833e47cb887
 #: ../source/neighborhood_view.rst:12
@@ -43,14 +43,14 @@ msgid ""
 "can also use the Neighborhood button for this purpose if your keyboard has "
 "one, or press the F1 key."
 msgstr ""
-"Para ver el Barrio Vista, haga clic en el icono Entorno de la Armadura. "
-"También puede utilizar el botón de Barrio para este fin si su teclado tiene "
-"uno, o pulse la tecla F1."
+"Para ver la Vista Vecindario, haz clic en el icono en el Marco. "
+"También puedes utilizar el botón Vecindario para este fin si tu teclado tiene "
+"uno, o pulsar la tecla F1."
 
 # e2db518a333840e5a3ac2e883d5d1cc0
 #: ../source/neighborhood_view.rst:15
 msgid "Neighborhood Elements"
-msgstr "Elementos Barrio"
+msgstr "Elementos de la vista Vecindario"
 
 # 9b5b84590ec948f5a92754803d295324
 #: ../source/neighborhood_view.rst:19
@@ -58,8 +58,8 @@ msgid ""
 "Search menu: You can find find people, Activities, or access points (what "
 "connects you to the Internet) using the search menu."
 msgstr ""
-"Menú de búsqueda: Usted puede encontrar encontrar personas, actividades o "
-"puntos de acceso (lo que se conecta a Internet) usando el menú de búsqueda."
+"Menú de búsqueda: Puede encontrar personas, actividades o "
+"puntos de acceso (que te conectan a Internet) usando el menú de búsqueda."
 
 # 15de2fc72609484f9e572ee8a8d785f9
 #: ../source/neighborhood_view.rst:21
@@ -67,8 +67,8 @@ msgid ""
 "Ad-Hoc network icon: An ad-hoc network lets you connect to other computers "
 "on a network."
 msgstr ""
-"Icono de red Ad-Hoc: Una red ad-hoc le permite conectarse a otros equipos en"
-" una red."
+"Icono de red Ad-Hoc: Una red ad-hoc te permite conectarte a otros equipos en "
+"una red."
 
 # b428e7ebdefc45b189282700f32b9eb4
 #: ../source/neighborhood_view.rst:23
@@ -76,10 +76,10 @@ msgid ""
 "Access point: WiFi hot spots (Internet access points) appear as circles in "
 "the Neighborhood view. If you hover over a circle, the name of the network "
 "appears. Each circle has another color inside, the more full the inside "
-"color, the better the connection. To connect to a network, click the circle."
-" If the circle shows a lock symbol, expect to enter a key or password. The "
-"inside of the circle blinks while your system tries to connect. Once you are"
-" connected, an icon for the connection will appear at bottom right of the "
+"color, the better the connection. To connect to a network, click the circle. "
+"If the circle shows a lock symbol, expect to enter a key or password. The "
+"inside of the circle blinks while your system tries to connect. Once you are "
+"connected, an icon for the connection will appear at bottom right of the "
 "Frame. To disconnect, hover over the circle, and choose Disconnect on the "
 "menu. Or hover over the icon in the Frame, and choose Disconnect there. "
 "(OLPC XO-1 Note: The XO-1 laptop has three mesh network channels. By "
@@ -87,21 +87,21 @@ msgid ""
 "disconnect from an Access point network. The other XO icons are shown will "
 "change according to who is on that network.)"
 msgstr ""
-"Punto de acceso: puntos de acceso WiFi (puntos de acceso a Internet) "
-"aparecen como círculos en el Vecindario. Si pasa el ratón sobre un círculo, "
+"Punto de acceso: puntos de acceso WiFi (punto de acceso a Internet) "
+"aparecen como círculos en el Vecindario. Si pasas el ratón sobre un círculo, "
 "aparece el nombre de la red. Cada círculo tiene otro color en el interior, "
-"el más completo del color en el interior, mejor será la conexión. Para "
-"conectarse a una red, haga clic en el círculo. Si el círculo muestra un "
-"símbolo de candado, le espera para ingresar una clave o contraseña. El "
+"cuanto más completo está el color en el interior, mejor será la conexión. Para "
+"conectarte a una red, haz clic en el círculo. Si el círculo muestra un "
+"símbolo de candado, espera para ingresar una clave o contraseña. El "
 "interior del círculo parpadea mientras el sistema intenta conectarse. Una "
-"vez conectado, un icono para la conexión aparecerá en la parte inferior "
-"derecha del marco. Para desconectar, coloque el cursor sobre el círculo, y "
-"seleccione Desconectar en el menú. O coloque el cursor sobre el icono de la "
-"trama, y ​​seleccione Desconectar allí. (OLPC XO-1 Nota: El XO-1 portátil "
-"tiene tres canales de la red de malla. Al hacer clic en un icono de la malla"
-" se une a esa red de malla especial, y desconectarse de una red de puntos de"
-" acceso. Los otros iconos XO se muestran cambiarán según quién está en esa "
-"red. )"
+"vez conectado, un icono con la conexión aparecerá en la parte inferior "
+"derecha del marco. Para desconectar, coloca el cursor sobre el círculo, y "
+"selecciona Desconectar en el menú. O coloca el cursor sobre el icono en el "
+"marco, y ​​seleccione Desconectar allí. (OLPC XO-1 Nota: El portátil XO-1 "
+"tiene tres canales para la red de malla. Al hacer clic en un icono de la malla "
+"se une a esa red de malla especial, y se desconecta de un punto de "
+"acceso a la red. Los otros iconos XO que se muestran cambiarán según quién está en esa "
+"red.)"
 
 # e56239b7c7d346c0be39d8bf076ff464
 #: ../source/neighborhood_view.rst:25
@@ -109,8 +109,8 @@ msgid ""
 "Shared Activities: Shared Activities appear as icons in the Neighborhood "
 "View and you can join them by clicking the corresponding icon."
 msgstr ""
-"Actividades compartidas: Actividades compartidas aparecen como iconos en la "
-"vista de Vecindario y usted puede unirse a ellos haciendo clic en el icono "
+"Actividades compartidas: las Actividades compartidas aparecen como iconos en la "
+"vista de Vecindario y tu puedes unirte a ellos haciendo clic en el icono "
 "correspondiente."
 
 # a989d3f9b8f44241884280170a88d00f
@@ -120,16 +120,15 @@ msgid ""
 "can discover the nickname of that person and can add them as a friend or "
 "invite them to join you in a shared Activity."
 msgstr ""
-"XO icono: Otros usuarios Sugar aparecen como iconos XO. Al pasar por encima "
-"de ellos, se puede descubrir el apodo de esa persona y puede añadirlos como "
-"amigos o invitarlos a unirse a usted en una actividad compartida."
+"Icono XO: Otros usuarios Sugar aparecen como iconos XO. Al pasar por encima "
+"de ellos, se puede descubrir el apodo de esa persona y puedes añadirlos como "
+"amigos o invitarlos a unirse a ti en una actividad compartida."
 
 # 61f1769a9b3d4ec09fb3e09be299860c
 #: ../source/neighborhood_view.rst:29
-msgid ""
-"Open access point: An access point which isn't protected by a password."
+msgid "Open access point: An access point which isn't protected by a password."
 msgstr ""
-"Abrir punto de acceso: Un punto de acceso que no esté protegido por una "
+"Abrir punto de acceso: Un punto de acceso que no está protegido por una "
 "contraseña."
 
 # 0a56d63d1118450eacf730a0a082702e
