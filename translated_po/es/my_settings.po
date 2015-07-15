@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,27 +11,27 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # efd06c271b844ee0a22a6c83d280d0c6
 #: ../source/my_settings.rst:3
 msgid "My Settings"
-msgstr "Mi configuración"
+msgstr "Mis ajustes"
 
 # 16f2696d6a294a0e83433725fbfee110
 #: ../source/my_settings.rst:5
 msgid ""
 "The My Settings page in Sugar is similar to a Control Panel or System "
-"Settings window in other operating systems. It provides a way to set various"
-" values needed by system functions, such as the language for menus and "
+"Settings window in other operating systems. It provides a way to set various "
+"values needed by system functions, such as the language for menus and "
 "messages, the keyboard layout for typing and otherwise controlling the "
 "system, date and time values and format, and much more."
 msgstr ""
-"La página Mi configuración en azúcar es similar a una ventana del Panel de "
+"La ventana Mis ajustes en Sugar es similar a una ventana del Panel de "
 "control o configuración del sistema en otros sistemas operativos. "
 "Proporciona una manera de establecer diversos valores necesarios para las "
 "funciones del sistema, tales como el idioma de los menús y mensajes, la "
@@ -42,32 +42,31 @@ msgstr ""
 #: ../source/my_settings.rst:7
 msgid ""
 "To access My Settings, go to the Home view and activate the menu on the "
-"central XO icon, either by hovering with the cursor, or by right-clicking (O"
-" button on an XO). Then select My Settings. The following view appears."
+"central XO icon, either by hovering with the cursor, or by right-clicking (O "
+"button on an XO). Then select My Settings. The following view appears."
 msgstr ""
-"Para acceder a Mi configuración, vaya a la vista de inicio y activar el menú"
-" en el icono central XO, ya sea con solo pasar con el cursor, o haciendo "
-"clic derecho (botón O en una XO). A continuación, seleccione Mi "
-"configuración. La siguiente vista aparece."
+"Para acceder a Mis ajustes, ve a la vista de inicio y activa el menú "
+"en el icono central XO, ya sea con solo pasar con el cursor, o haciendo clic "
+"derecho (botón O en una XO). A continuación, selecciona Mis ajustes. La "
+"siguiente vista aparece."
 
 # 160d994480574261a7236990d8ea5f77
 #: ../source/my_settings.rst:9
 msgid "My Settings page"
-msgstr "Mi página Configuración"
+msgstr "Ventana Mis Ajustes"
 
 # 1b2e75e523b3402b9fd94fc08b2a52a4
 #: ../source/my_settings.rst:13
 msgid ""
 "Click any icon to open the indicated control. If you make changes, the "
-"window will offer you the choice whether to save (check mark) or discard (x)"
-" those changes. It may be necessary to reboot the computer or restart the "
+"window will offer you the choice whether to save (check mark) or discard (x) "
+"those changes. It may be necessary to reboot the computer or restart the "
 "Sugar session in order for the changes to take effect."
 msgstr ""
-"Click sobre cualquier icono para abrir el control indicado. Si realiza "
-"cambios, la ventana se le ofrecerá la opción si desea guardar (marca de "
-"verificación) o desechar (x) tales cambios. Puede ser necesario reiniciar el"
-" ordenador o reiniciar la sesión de azúcar para que los cambios surtan "
-"efecto."
+"Haz click sobre cualquier icono para abrir el control indicado. Si realizas "
+"cambios, la ventana te ofrecerá la opción de guardar (marca de "
+"verificación) o desechar (x) tales cambios. Puede ser necesario reiniciar el "
+"ordenador o reiniciar la sesión de Sugar para que los cambios surtan efecto."
 
 # 7014644633bf4c419000d53c4004f946
 #: ../source/my_settings.rst:16
@@ -77,7 +76,7 @@ msgstr "Acerca De Mí"
 # f5999c2d868144ae973121251d23207f
 #: ../source/my_settings.rst:18
 msgid "View and change your XO colors and name."
-msgstr "Ver y cambiar los colores de su XO y nombre."
+msgstr "Ver y cambiar los colores de tu icono XO y tu nombre."
 
 # 278034f235634ba8aff379bb1a32d44e
 #: ../source/my_settings.rst:21
@@ -90,8 +89,8 @@ msgid ""
 "View technical information about your computer: serial number, software "
 "versions (Sugar, firmware, wireless), copyright, and license."
 msgstr ""
-"Ver información técnica sobre su equipo: número de serie, versiones de "
-"software (Azúcar, firmware, inalámbricos), derechos de autor y de licencia."
+"Ver información técnica sobre tu equipo: número de serie, versiones de "
+"software (Sugar, firmware, inalámbricos), derechos de autor y licencias."
 
 # 8a729e9dbd3e48078fe2c844dd4b82c7
 #: ../source/my_settings.rst:26
@@ -106,7 +105,7 @@ msgstr "Fecha y hora"
 # 160c2fc227484496b4565110ef95dc17
 #: ../source/my_settings.rst:33
 msgid "Set timezone for date and time display."
-msgstr "Establecer zona horaria para la fecha y tiempo de visualización."
+msgstr "Establecer zona horaria para la fecha y visualización."
 
 # 736107ebb6a743a09633fe0f1e902d02
 #: ../source/my_settings.rst:36
@@ -121,10 +120,10 @@ msgid ""
 "somewhere in between when you move your cursor to both the corner and edge "
 "of your screen."
 msgstr ""
-"Ver y reglas de activación establecidos para el marco. Ajuste el dial de si "
-"le gustaría que el marco a aparecer instantáneamente (de inmediato), nunca o"
-" en algún punto intermedio al mover el cursor hasta tanto la esquina y borde"
-" de la pantalla."
+"Ver reglas de activación establecidos para el marco. Ajuste el dial si "
+"te gustaría que el marco a aparezca instantáneamente (de inmediato), nunca o "
+"en algún punto intermedio al mover el cursor hasta la esquina y el borde "
+"de la pantalla."
 
 # c717548f11aa48f9962767ac46fceca1
 #: ../source/my_settings.rst:41
@@ -141,12 +140,12 @@ msgid ""
 "or more lines, a - icon will appear by the last line to allow you to delete "
 "it."
 msgstr ""
-"Ver y establecer idioma de la interfaz de usuario. El idioma que está "
-"utilizando actualmente se mostrará en la línea 1. Si hace clic en la flecha "
-"al final de la línea, puede seleccionar otro idioma. Seleccione en el menú "
-"de país e idioma, o haga clic en el icono + por la última línea para añadir "
-"otra línea. Si hay dos o más líneas, a - icono aparecerá en la última línea "
-"para que pueda eliminarlo."
+"Ver y establecer idioma de la interfaz de usuario. El idioma que estás "
+"utilizando actualmente se mostrará en la línea 1. Si haces clic en la flecha "
+"al final de la línea, puedes seleccionar otro idioma. Seleccioa en el menú "
+"de país e idioma, o haga clic en el icono + en la última línea para añadir "
+"otra línea. Si hay dos o más líneas, un icono - aparecerá en la última línea "
+"para que pueda eliminarla."
 
 # 5840b8bc82ca4f9f8d737d0815c093e9
 #: ../source/my_settings.rst:46
@@ -156,10 +155,10 @@ msgstr "Configuración del módem"
 # 924c82f673a84eb794267738f7ebf785
 #: ../source/my_settings.rst:48
 msgid ""
-"Enter settings for a mobile broadband connection to a cellular (3G) network."
-" Not required for WiFi."
+"Enter settings for a mobile broadband connection to a cellular (3G) network. "
+"Not required for WiFi."
 msgstr ""
-"Introduzca configuración de una conexión de banda ancha móvil a una red "
+"Introduzca la configuración de una conexión de banda ancha móvil a una red "
 "celular (3G). No se requiere para WiFi."
 
 # 7b1f6ccbe0fb41ef85bb8993dd326dff
@@ -173,9 +172,9 @@ msgid ""
 "View and change settings for turning off wireless in order to save battery "
 "power, and view or set the jabber server name for collaboration."
 msgstr ""
-"Ver y cambiar los ajustes para apagar inalámbrica con el fin de ahorrar "
-"energía de la batería, y ver o establecer el nombre del servidor jabber para"
-" la colaboración."
+"Ver y cambiar los ajustes para apagar la red inalámbrica con el fin de ahorrar "
+"energía de la batería, y ver o establecer el nombre del servidor jabber para "
+"la colaboración."
 
 # 6b0558858f364d0fad684635d2522a7c
 #: ../source/my_settings.rst:56
@@ -188,7 +187,7 @@ msgid ""
 "If you are able, check over the Internet for software updates, and install "
 "any that are available."
 msgstr ""
-"Si le es posible, comprobar a través de Internet para actualizaciones de "
+"Si es posible, comprobar a través de Internet por actualizaciones de "
 "software e instalar las que estén disponibles."
 
 # 591acc58ee5b40f7802eeb9455044f43
@@ -199,4 +198,4 @@ msgstr "Configurar los servicios Web"
 # d1f5a5a53d3b46b5aa53fcbf7bce5ebd
 #: ../source/my_settings.rst:63
 msgid "Manage your online accounts and interventions to Journal."
-msgstr "Administrar sus cuentas en línea y las intervenciones a Diario."
+msgstr "Administra tus cuentas en línea y las intervenciones al Diario."
