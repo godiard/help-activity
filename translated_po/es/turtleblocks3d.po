@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # 05a63d47784f4832943abfafcbda7762
@@ -34,8 +34,8 @@ msgid ""
 "dimensions. Instead of moving a turtle on a plane, the turtle can be moved "
 "in a three-dimensional Cartesian space."
 msgstr ""
-"| 3d_icon | Bloques Tortugas 3D es una extensión de los bloques de la "
-"tortuga en tres dimensiones. En lugar de mover una tortuga en un avión, la "
+"|3d_icon| Turtle Blocks 3D es una extensión de Turtle Blocks "
+"en las tres dimensiones. En lugar de mover una tortuga en un plano, la "
 "tortuga se puede mover en un espacio cartesiano tridimensional."
 
 # 4d9f49fe69714aa2a9c0b6d6d2dff7b7
@@ -52,18 +52,18 @@ msgstr "la capacidad de mover la cámara"
 #: ../source/turtleblocks3d.rst:16
 msgid "export .to OBJ files (which can be imported into Blender et al.)"
 msgstr ""
-"exportación. a OBJ archivos (que se pueden importar en Blender et al. )"
+"exportar a archivos .OBJ (que se pueden importar en Blender por ej.)"
 
 # 30ae5fc4087743e3af59ea9bce78ce3e
 #: ../source/turtleblocks3d.rst:18
 msgid "import from .OBJ (which can be exported into Blender et al.)"
-msgstr "importación de. OBJ (que se puede exportar a Blender et al. )"
+msgstr "importación de archivos .OBJ (que se puede exportar en Blender por ej.)"
 
 # aa08b1c3c3a74543a5ab5685f3d1295f
 #: ../source/turtleblocks3d.rst:20
 msgid "Developer Comment: We plan to add texture mapping."
 msgstr ""
-"Desarrollador Comentario: Tenemos la intención de añadir la asignación de "
+"Comentario del desarrollador: Tenemos la intención de añadir la asignación de "
 "texturas."
 
 # 774e83e956d04293959adf6ca2f2ae8c
@@ -79,8 +79,7 @@ msgstr "Repositorios"
 # 9cede7dea7ed4b34864618e27dda28a6
 #: ../source/turtleblocks3d.rst:30
 msgid "`The Git repository <https://github.com/Anubhav-J/turtleart>`_"
-msgstr ""
-"`El repositorio Git <https: // github. com / Sandeep J / TurtleArt> `_"
+msgstr "`El repositorio Git <https://github.com/Anubhav-J/turtleart>`_"
 
 # aab25846c18a4824ae96e7c6e34178ad
 #: ../source/turtleblocks3d.rst:34
@@ -90,11 +89,11 @@ msgstr "Descargar"
 # e4e7a1ad92bd4bb195c9352fdc1bac79
 #: ../source/turtleblocks3d.rst:35
 msgid ""
-"`Activity page in our activities portal "
-"<http://activities.sugarlabs.org/sugar/addon/4757>`_"
+"`Activity page in our activities portal <http://activities.sugarlabs.org/"
+"sugar/addon/4757>`_"
 msgstr ""
-"`Página Actividad en nuestro portal de actividades <http: // actividades. "
-"sugarlabs. org / azúcar / addon / 4757> `_"
+"`Página de la Actividad en nuestro portal de actividades <http://activities.sugarlabs.org/"
+"sugar/addon/4757>`_"
 
 # 06bcdbf4c14640568ebb501c3bbb5776
 #: ../source/turtleblocks3d.rst:39
@@ -104,28 +103,27 @@ msgstr "Soporte y Más Información"
 # 756230fc42ba4a5898218153a7aefaee
 #: ../source/turtleblocks3d.rst:40
 msgid "2D Version, Turtle Blocks AKA Turtle Art:"
-msgstr "Versión 2D, Bloques tortuga conocido como Turtle Art:"
+msgstr "Versión 2D, Turtle Blocks conocido como Turtle Art:"
 
 # bc4df2ddc91a49fbad928c5726d6a555
 #: ../source/turtleblocks3d.rst:42
 msgid "`Git <https://github.com/walterbender/turtleart>`_"
-msgstr "`Git <https: // github. com / walterbender / TurtleArt> `_"
+msgstr "`Git <https://github.com/walterbender/turtleart>`_"
 
 # bc3c59c909fc4fa28db16f82c662d47e
 #: ../source/turtleblocks3d.rst:44
 msgid "`Wiki Page <http://wiki.sugarlabs.org/go/Activities/Turtle_Art>`_"
 msgstr ""
-"`Wiki Páginas <http: // wiki. sugarlabs. org / go / Actividades / "
-"Turtle_Art> `_"
+"`Páginas Wiki <http://wiki.sugarlabs.org/go/Activities/Turtle_Art>`_"
 
 # 099a436ca5eb4d299258f0675b9863e4
 #: ../source/turtleblocks3d.rst:46
 msgid ""
-"Support for this activity is provided by the developer at "
-"walter@sugarlabs.org"
+"Support for this activity is provided by the developer at walter@sugarlabs."
+"org"
 msgstr ""
-"El apoyo a esta actividad es proporcionada por el desarrollador en walter @ "
-"sugarlabs. org"
+"El apoyo a esta actividad es proporcionada por el desarrollador en walter@"
+"sugarlabs.org"
 
 # 685d0e8c670c47aa9b6f9b3f97da7b9d
 #: ../source/turtleblocks3d.rst:50
@@ -136,5 +134,4 @@ msgstr "Referencias"
 #: ../source/turtleblocks3d.rst:51
 msgid "`Download Page <http://activities.sugarlabs.org/sugar/addon/4757>`_"
 msgstr ""
-"`Descargar Páginas <http: // actividades. sugarlabs. org / azúcar / addon / "
-"4757> `_"
+"`Página de Descarga <http://activities.sugarlabs.org/sugar/addon/4757>`_"
