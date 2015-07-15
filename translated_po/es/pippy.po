@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # aab6609943834fefab61aa1de2d3c80b
@@ -34,10 +34,10 @@ msgid ""
 "programs. In addition it is possible to write Python statements to play "
 "sounds, calculate expressions, or make simple text based interactive games."
 msgstr ""
-"Pippy permite al estudiante examinar, ejecutar y modificar los programas en "
+"Pippy permite al estudiante examinar, ejecutar y modificar programas "
 "Python simples. Además, es posible escribir sentencias de Python para "
-"reproducir sonidos, calcular expresiones, o hacer simple texto juegos "
-"interactivos basados."
+"reproducir sonidos, calcular expresiones, o hacer simple juegos "
+"interactivos basados en texto."
 
 # bd16b546a0274849951c99020a2cae52
 #: ../source/pippy.rst:11
@@ -48,12 +48,12 @@ msgstr "Dónde obtener Pippy"
 #: ../source/pippy.rst:13
 msgid ""
 "Pippy is included in the standard releases of the OLPC software. It is "
-"available for download `here <http://activities.sugarlabs.org/en-"
-"US/sugar/addon/4041>`_"
+"available for download `here <http://activities.sugarlabs.org/en-US/sugar/"
+"addon/4041>`_"
 msgstr ""
 "Pippy se incluye en las versiones estándar del software OLPC. Está "
-"disponible para su descarga aquí `<http: // actividades. sugarlabs. org / "
-"en-US / azúcar / addon / 4041> `_"
+"disponible para su descarga aquí `<http://activities.sugarlabs.org/en-US/sugar/"
+"addon/4041>`_"
 
 # 0ebf334c8cab403196cc709439a4fda6
 #: ../source/pippy.rst:16
@@ -67,9 +67,9 @@ msgid ""
 "modified in the upper right window, and where the results of execution are "
 "displayed in the lower right window."
 msgstr ""
-"La columna de la izquierda se muestra una lista de los programas de pitón, "
-"que se pueden ver y modificar en la ventana superior derecha, y cuando los "
-"resultados de la ejecución se muestra en la ventana inferior derecha."
+"La columna de la izquierda muestra una lista de los programas Python, "
+"que se pueden ver y modificar en la ventana superior derecha, y donde los "
+"resultados de la ejecución se muestran en la ventana inferior derecha."
 
 # 3aba1f2f061d485d9a622488c788c214
 #: ../source/pippy.rst:23
@@ -81,24 +81,24 @@ msgstr "Aprender con Pippy"
 msgid ""
 "Etoys and Turtle art provide easy introduction to programming. Pippy "
 "introduces a more traditional view of programming a computer, wherein the "
-"instructions are first written to a text file, and then executed with a "
-"\"run\" command."
+"instructions are first written to a text file, and then executed with a \"run"
+"\" command."
 msgstr ""
-"Etoys y Turtle arte proporcionar una fácil introducción a la programación. "
+"Etoys y Turtle arte proporcionan una fácil introducción a la programación. "
 "Pippy introduce una visión más tradicional de la programación de un "
 "ordenador, en el que las instrucciones se escriben primero en un archivo de "
-"texto, y luego ejecutados con un comando \"run\"."
+"texto, y luego son ejecutadas con un comando \"Correr\"."
 
 # 11ab4ed4e3074d6a9194d1cfac6b3d27
 #: ../source/pippy.rst:27
 msgid "In particular, it is instructive to play with the sounds:"
-msgstr "En particular, es instructivo para jugar con los sonidos:"
+msgstr "En particular, es instructivo jugar con los sonidos:"
 
 # b3ca1e3c0bd54b688142a6f7ec19a0bc
 #: ../source/pippy.rst:29
 msgid "Get the list of sounds by executing the Getsoundlist program"
 msgstr ""
-"Obtener la lista de sonidos mediante la ejecución del programa Getsoundlist"
+"Obtiene la lista de sonidos mediante la ejecución del programa Getsoundlist"
 
 # 5601e250b6d54497bc797abea9e7ed9a
 #: ../source/pippy.rst:30
@@ -106,13 +106,13 @@ msgid ""
 "Copy the name of one of the sounds and replace the \"digeridu\" sound name "
 "in Playwave program."
 msgstr ""
-"Copie el nombre de uno de los sonidos y sustituir el \"digeridu\" nombre "
-"suena en el programa PlayWave."
+"Copia el nombre de uno de los sonidos y sustituye el nombre del sonido \"digeridu\" "
+"en el programa PlayWave."
 
 # f2194f47d9a646dbbe90ccf2be03f123
 #: ../source/pippy.rst:33
 msgid "Extending Pippy"
-msgstr "La extensión de Pippy"
+msgstr "Extendiendo Pippy"
 
 # 7595d3387a274fb5b5b4f28aedd79bc7
 #: ../source/pippy.rst:35
@@ -126,34 +126,33 @@ msgid ""
 "changes. Then by copying the changed program back to the clipboard, you can "
 "paste it back into the Word Activity, and save the changes to the Journal."
 msgstr ""
-"Si Pippy se utiliza en paralelo con la actividad de escritura, es posible "
-"desarrollar programas más grandes. Copie el programa que se desarrolla en la"
-" actividad de escritura mediante la selección de todos (<Ctrl> a) y copiarlo"
-" en el portapapeles (<ctrl> c), a continuación, cambiar a la Pippy "
-"Actividad, y pegar (<ctrl> v) en el ventana de código. Si hay errores que "
-"desea corregir, usted puede hacer los cambios en la ventana de código, y ver"
-" de inmediato los resultados de los cambios. Entonces copiando el programa "
-"modificado nuevamente en el portapapeles, puede volver a pegarla en la "
-"Actividad Word y guardar los cambios en el Diario."
+"Si Pippy se utiliza en paralelo con la actividad Escribir, es posible "
+"desarrollar programas más grandes. Copia el programa que se desarrolla en la "
+"actividad Escribir mediante la selección de todo (<Ctrl> a) y copiandolo "
+"en el portapapeles (<ctrl> c), a continuación, cambia a la actividad Pippy, "
+"y pega (<ctrl> v) en el ventana de código. Si hay errores que deseas "
+"corregir, usted puede hacer los cambios en la ventana de código, y ver de "
+"inmediato los resultados de los cambios. Entonces copia el programa "
+"modificado nuevamente en el portapapeles, puedes volver a pegarla en la "
+"actividad Escribir y guardar los cambios en el Diario."
 
 # d0bd3a887882453f982747765f9e34a9
 #: ../source/pippy.rst:38
 msgid "Modifying Pippy"
-msgstr "Modificación de Pippy"
+msgstr "Modificando Pippy"
 
 # fc5fe00bd6e141aeb50a79490e36030a
 #: ../source/pippy.rst:40
 msgid ""
-"The student can add small programs, and have them show up in the left column"
-" of Pippy by adding files to /home/olpc/Activities/Pippy.activity/data. "
-"There is a large number of suggested examples of programs for Pippy at "
-"http://wiki.laptop.org/go/Pippy#Examples."
+"The student can add small programs, and have them show up in the left column "
+"of Pippy by adding files to /home/olpc/Activities/Pippy.activity/data. There "
+"is a large number of suggested examples of programs for Pippy at http://wiki."
+"laptop.org/go/Pippy#Examples."
 msgstr ""
-"El estudiante puede añadir pequeños programas, y hacer que se muestran en la"
-" columna izquierda de Pippy añadiendo archivos en / home / olpc / "
-"Actividades / Pippy. actividad / datos. Hay un gran número de ejemplos "
-"sugeridos de programas para Pippy en http: // wiki. portátil. org / go / "
-"Pippy # Ejemplos."
+"El estudiante puede añadir pequeños programas, y hacer que se muestran en la "
+"columna izquierda de Pippy añadiendo archivos en /home/olpc/Activities/"
+"Pippy.activity/data. Hay un gran número de ejemplos "
+"sugeridos de programas para Pippy en http://wiki.laptop.org/go/Pippy#Examples."
 
 # 2aa7da1c4cd44ca29a0eebff710fec32
 #: ../source/pippy.rst:43
@@ -164,14 +163,14 @@ msgstr "Dónde reportar problemas"
 #: ../source/pippy.rst:45
 msgid ""
 "There's a range of ways to report problems. The easiest is to email to the "
-"sugarlabs email list at sugar-devel@lists.sugarlabs.org. Someone on the list"
-" will respond to you, and perhaps also put a formal bug report at "
-"http://bugs.sugarlabs.org/."
+"sugarlabs email list at sugar-devel@lists.sugarlabs.org. Someone on the list "
+"will respond to you, and perhaps also put a formal bug report at http://bugs."
+"sugarlabs.org/."
 msgstr ""
 "Hay una variedad de maneras de reportar problemas. Lo más fácil es enviar "
-"por correo electrónico a la lista de correo electrónico sugarlabs en azúcar-"
-"devel @ listas. sugarlabs. org. Alguien en la lista le responderá, y quizás "
-"también poner un reporte formal bug en http: // bichos. sugarlabs. org /."
+"por correo electrónico a la lista de correo electrónico sugarlabs en "
+"sugar-devel@lists.sugarlabs.org. Alguien en la lista le responderá, y quizás "
+"también poner un reporte formal bug en http://bugs.sugarlabs.org/."
 
 # a3c164a93d054a45ae67f43ca699fb31
 #: ../source/pippy.rst:47
@@ -179,5 +178,5 @@ msgid ""
 "Or you can register at http://bugs.sugarlabs.org/ and enter a bug report "
 "yourself."
 msgstr ""
-"O usted puede registrarse en http: // bichos. sugarlabs. org / e introduzca "
-"un bug informar a ti mismo."
+"O puedes registrarse en http://bugs.sugarlabs.org/ e introducir "
+"un bug informar por ti mismo."
