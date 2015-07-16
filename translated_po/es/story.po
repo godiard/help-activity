@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,16 +11,16 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # f6dd941692994b30aa3e35b36d78753e
 #: ../source/story.rst:3
 msgid "Story"
-msgstr "Historia"
+msgstr "Relatar"
 
 # cc51fe2d44ba4b21bdd2b41a1b71c122
 #: ../source/story.rst:6
@@ -33,8 +33,8 @@ msgid ""
 "|Story_ico| The Story Activity uses images to prompt a learner to tell a "
 "story."
 msgstr ""
-"| Story_ico | La Historia de Actividad utiliza imágenes para provocar un "
-"aprendiz de contar una historia."
+"|Story_ico| La actividad Relatar utiliza imágenes para incentivar a un "
+"estudiante a contar una historia."
 
 # 29ba08696fde4d449d37ad1d6cffe15a
 #: ../source/story.rst:12
@@ -42,23 +42,22 @@ msgid ""
 "The Story activity is available for download from the `Sugar Activity "
 "Library Story <http://activities.sugarlabs.org/sugar/addon/4565>`_"
 msgstr ""
-"La actividad historia está disponible para su descarga desde el `Azúcar "
-"Actividad Biblioteca Historia <http: // actividades. sugarlabs. org / azúcar"
-" / addon / 4565> `_"
+"La actividad Relatar está disponible para su descarga desde  `Biblioteca "
+"de actividades Actividad Relatar <http://activities.sugarlabs.org/sugar/addon/4565>`_"
 
 # f1eb0913560c47a89057f86371f64d09
 #: ../source/story.rst:16
 msgid ""
-"Story can use the images from `Art4Apps project "
-"<http://wiki.sugarlabs.org/go/Art4Apps>`_ if installed."
+"Story can use the images from `Art4Apps project <http://wiki.sugarlabs.org/"
+"go/Art4Apps>`_ if installed."
 msgstr ""
-"La Historia puede utilizar las imágenes de `proyecto Art4Apps <http: // "
-"wiki. sugarlabs. org / go / Art4Apps> `_ si está instalado."
+"Relatar puede utilizar las imágenes del `proyecto Art4Apps <http://wiki.sugarlabs.org/"
+"go/Art4Apps>`_ si está instalado."
 
 # 6beba5e4da734a36afd64907578be529
 #: ../source/story.rst:19
 msgid "Using Story"
-msgstr "Usando Historia"
+msgstr "Usando Relatar"
 
 # 66fa6b146ada4ecc9742b7f6a8134c41
 #: ../source/story.rst:21
@@ -66,7 +65,7 @@ msgid ""
 "The learner should try to tell a story that ties the images together into a "
 "comprehensive narrative."
 msgstr ""
-"El alumno debe tratar de contar una historia que une las imágenes juntas en "
+"El alumno debe tratar de contar una historia que una las imágenes juntas en "
 "una narración completa."
 
 # 4adbbf1d574044968de041fe23e70f3a
@@ -84,27 +83,27 @@ msgstr "(De izquierda a derecha)"
 msgid "Activity-toolbar Button: Opens standard Sugar activity toolbar"
 msgstr ""
 "Botón de actividad-barra de herramientas: Abre la barra de herramientas "
-"estándar de actividad Azúcar"
+"estándar de actividad Sugar"
 
 # 80c919f8fed4445ca09d17ff636a9890
 #: ../source/story.rst:31
 msgid "Reload-images Button: loads nine new images"
-msgstr "Actualizar-imágenes de los botones: cargas nueve imágenes"
+msgstr "Boton Actualizar-imágenes: cargas nueve imágenes"
 
 # ef5403af8cbc49b7bd2dcd721e2bf086
 #: ../source/story.rst:32
 msgid "View all images at once Button"
-msgstr "Ver todas las imágenes a la vez Button"
+msgstr "Botón Ver todas las imágenes a la vez"
 
 # b7d3699d0560402fa9e17591048ac02d
 #: ../source/story.rst:36
 msgid "View images one at a time Button"
-msgstr "Vea las imágenes de una en una Button tiempo"
+msgstr "Botón Ver las imágenes de una en una"
 
 # 489482c60d7b41509395d0e232447bf0
 #: ../source/story.rst:40
 msgid "Playback Button: playback audio recording"
-msgstr "Botón de reproducción: la reproducción de la grabación de audio"
+msgstr "Botón de reproducción: reproducción de la grabación de audio"
 
 # 511987c2a0a14032a06a910bfa2a6303
 #: ../source/story.rst:41
@@ -134,12 +133,12 @@ msgstr "Escuchar la grabación"
 # d932adde21b448e6b8aad33b6cf39140
 #: ../source/story.rst:51
 msgid "Speak the story (text to speech)"
-msgstr "Hablar de la historia (texto a voz)"
+msgstr "Leer el relato (texto a voz)"
 
 # 10b1a34b05e54a33b2f53881aad89a85
 #: ../source/story.rst:54
 msgid "Learning with Story"
-msgstr "Aprender con Historia"
+msgstr "Aprender con Relatar"
 
 # e874ffd1b6184e43a736d07abc148189
 #: ../source/story.rst:55
@@ -147,14 +146,14 @@ msgid ""
 "Story is a fun way to get children to engage in narration. Simply generate "
 "some images and let the children's imagination do the rest."
 msgstr ""
-"La Historia es una forma divertida para que los niños se involucren en la "
+"Relatar es una forma divertida de que los niños se involucren en la "
 "narración. Simplemente generar algunas imágenes y dejar que la imaginación "
-"de los niños hacen el resto."
+"de los niños haga el resto."
 
 # 94b415c92ce64a888aa05d9aa6dfa3a2
 #: ../source/story.rst:59
 msgid "Extending Story"
-msgstr "Historia Extendiendo"
+msgstr "Extendiendo Relatar"
 
 # dae06ce00a8d4a7087ca1a9045e02829
 #: ../source/story.rst:61
@@ -163,8 +162,8 @@ msgid ""
 "Write activity. (They can save to the Journal the images used to prompt "
 "their story and then embed this image into their Write document.)"
 msgstr ""
-"Pregunte a los estudiantes para transcribir y refinar sus historias "
-"utilizando la actividad de escritura de Azúcar. (Se puede ahorrar al Diario "
+"Puedes proponer a los estudiantes transcribir y refinar sus historias "
+"utilizando la actividad Escribir de Sugar. (Se puede grabar al Diario "
 "las imágenes utilizadas para impulsar su historia y luego incrustar esta "
 "imagen en su documento de escritura. )"
 
@@ -180,32 +179,31 @@ msgid ""
 "students. They can chain together a story by taking turns; each turn "
 "involving generating narration for one image."
 msgstr ""
-"La Historia puede ser compartida, por lo que la narración se puede crear "
+"Relatar puede ser compartida, por lo que la narración se puede crear "
 "entre varios estudiantes. Se pueden encadenar juntos una historia por "
 "turnos; cada vez que implica la generación de narración para una imagen."
 
 # 24e5a9a0e7354fc590eecb5d82149939
 #: ../source/story.rst:67
 msgid "Modifying Story"
-msgstr "Modificación de Historia"
+msgstr "Modificando Relatar"
 
 # 9bdac8afc2c045f1bb951d11193a2ea5
 #: ../source/story.rst:68
 msgid ""
-"Add new images to Story by putting them in the images folder of the "
-"activity."
+"Add new images to Story by putting them in the images folder of the activity."
 msgstr ""
-"Añadir nuevas imágenes a Story poniéndolos en la carpeta de imágenes de la "
+"Puedes añadir nuevas imágenes a Relatar poniéndolos en la carpeta de imágenes de la "
 "actividad."
 
 # 70144ac1d0e2497e8f11d47596f47d51
 #: ../source/story.rst:70
 msgid ""
-"The source code is available on `GitHub server "
-"<https://github.com/walterbender/story>`_"
+"The source code is available on `GitHub server <https://github.com/"
+"walterbender/story>`_"
 msgstr ""
-"El código fuente está disponible en `servidor GitHub <https: // github. com "
-"/ walterbender / historia> `_"
+"El código fuente está disponible en el `servidor GitHub <https://github.com/"
+"walterbender/story>`_"
 
 # 2a931d8f56ea47b494796763fcd2ca18
 #: ../source/story.rst:74
@@ -216,12 +214,12 @@ msgstr "Informar de errores"
 #: ../source/story.rst:75
 msgid ""
 "To report a bug or to see what bugs have been reported and/or fixed, please "
-"go to the `bug tracking page "
-"<https://bugs.sugarlabs.org/newticket?component=Story>`_."
+"go to the `bug tracking page <https://bugs.sugarlabs.org/newticket?"
+"component=Story>`_."
 msgstr ""
 "Para informar de un fallo, o para ver qué errores han sido reportados y / o "
-"fija, por favor vaya a la página `seguimiento de errores <https: // bichos. "
-"sugarlabs. org / newticket? componente = Story> `_."
+"solucionados, por favor vaya a la página `seguimiento de errores <https://bugs.sugarlabs.org/newticket?"
+"component=Story>`_."
 
 # 15fe46115f274c80844de864d131130c
 #: ../source/story.rst:79
@@ -231,23 +229,23 @@ msgstr "Créditos"
 # 18a3f4bd4c084ee396895a274e8c9de6
 #: ../source/story.rst:80
 msgid ""
-"Story was written and is maintained by `Walter "
-"<http://wiki.sugarlabs.org/go/User:Walter>`_, `Ignacio_Rodríguez "
-"<http://wiki.sugarlabs.org/go/User:Ignacio_Rodr%C3%ADguez>`_. He was "
-"inspired in part by Claudia Urrea."
+"Story was written and is maintained by `Walter <http://wiki.sugarlabs.org/go/"
+"User:Walter>`_, `Ignacio_Rodríguez <http://wiki.sugarlabs.org/go/User:"
+"Ignacio_Rodr%C3%ADguez>`_. He was inspired in part by Claudia Urrea."
 msgstr ""
-"Historia fue escrita y es mantenido por `Walter <http: // wiki. sugarlabs. "
-"sugarlabs. org / go / Usuario: Ignacio_Rodr% C3% ADguez> `_. Se inspiró en "
-"parte por Claudia Urrea."
+"Relatar fue escrita y es mantenido por `Walter <http://wiki.sugarlabs.org/go/"
+"User:Walter>`_ "
+"y `Ignacio_Rodríguez <http://wiki.sugarlabs.org/go/User:Ignacio_Rodr%C3%ADguez>`_."
+" Fué inspirado en parte por Claudia Urrea."
 
 # 15cb159782ec40488eb3992d697c45f6
 #: ../source/story.rst:82
 msgid ""
-"Most of the images are from the `The Noun Project "
-"<http://thenounproject.com/>`_."
+"Most of the images are from the `The Noun Project <http://thenounproject.com/"
+">`_."
 msgstr ""
-"La mayoría de las imágenes son de la `El Proyecto Sustantivo <http: // "
-"thenounproject. com /> `_."
+"La mayoría de las imágenes son de `The Noun Project <http://thenounproject.com/"
+">`_."
 
 # 857525e374f844aa84d81fc053e7d81b
 #: ../source/story.rst:86
@@ -258,4 +256,4 @@ msgstr "Referencias"
 #: ../source/story.rst:87
 msgid "`Wiki page <http://wiki.sugarlabs.org/go/Activities/Story>`_"
 msgstr ""
-"`Página Wiki <http: // wiki. sugarlabs. org / go / Actividades / Story> `_"
+"`Página Wiki <http://wiki.sugarlabs.org/go/Activities/Story>`_"
