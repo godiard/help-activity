@@ -2,7 +2,7 @@
 # Copyright (C) 2013, SugarLabs
 # This file is distributed under the same license as the Sugar package.
 # Automatically generated, 2015.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Sugar 0.100\n"
@@ -11,10 +11,10 @@ msgstr ""
 "PO-Revision-Date: 2015-03-22 23:07-0300\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 # fb61a90fcbe3425db5257c00b736375b
@@ -30,8 +30,8 @@ msgid ""
 "using a part of it only."
 msgstr ""
 "Esta página es una breve introducción y hoja de trucos para el lenguaje de "
-"marcado que estamos utilizando en: doc: `/ how_to_help`. El formato primera "
-"es fácil de crear y estamos utilizando una parte del mismo sólo."
+"marcado que estamos utilizando en :doc:`/ how_to_help`. El formato rst "
+"es fácil de crear y estamos utilizando una parte del mismo solamente."
 
 # 19f05a715cf84a5294f273814f968278
 #: ../source/restructuredtext.rst:10
@@ -47,7 +47,7 @@ msgstr "Enlaces"
 #: ../source/restructuredtext.rst:31
 msgid "Links like http://activities.sugarlabs.org are automatically created."
 msgstr ""
-"Enlaces como http: // Actividades. sugarlabs. org se crean automáticamente."
+"Links like http://activities.sugarlabs.org are automatically created."
 
 # 6beedbd7146c4e5c917250080831ebf6
 #: ../source/restructuredtext.rst:33
@@ -55,24 +55,23 @@ msgid ""
 "To create links where the text displayed in the page is different to the "
 "link you should do:"
 msgstr ""
-"Para crear enlaces en el texto que aparece en la página es diferente a la "
-"relación que debe hacer:"
+"Para crear enlaces en los que el texto que aparece en la página es diferente a el "
+"link hay que hacer:"
 
 # 4548869d51de464481d363b6969ed0b5
 #: ../source/restructuredtext.rst:35
 msgid "You will find `ASLO <http://activities.sugarlabs.org>`_ here."
-msgstr ""
-"Usted encontrará `ASLO <http: // actividades. sugarlabs. org> `_ aquí."
+msgstr "Tu encontrarás `ASLO <http://activities.sugarlabs.org>`_ aquí."
 
 # d2b14651d9c34d5f9035101e8e117e1d
 #: ../source/restructuredtext.rst:37
 msgid "Program writing software like Python_."
-msgstr "Programa de software de escritura como Python_."
+msgstr "Program writing software like Python_."
 
 # 944334f8266f4aacba0f7cd3c944feb4
 #: ../source/restructuredtext.rst:54
 msgid "Links within Help"
-msgstr "Los enlaces dentro Ayuda"
+msgstr "Los enlaces dentro de Ayuda"
 
 # 90eb711028694191b38272a561a6e920
 #: ../source/restructuredtext.rst:56
@@ -80,7 +79,7 @@ msgid ""
 "This link, :ref:`my-reference-label` links to the top paragraph of this "
 "document."
 msgstr ""
-"Este enlace,: ref: `vínculos mi-referencia-label` al párrafo superior de "
+"Este enlace, :ref:`my-reference-label` enlaza al párrafo superior de "
 "este documento."
 
 # 1df3a028458648f38c4d6908c735618f
@@ -89,17 +88,17 @@ msgid ""
 "To see how this works, ``.. _my-reference-label:`` appears on line 7 of "
 "restructuredtext.rst."
 msgstr ""
-"Para ver cómo funciona esto, ``. . Aparece `` en la línea 7 de "
-"reStructuredText: _my referencia de etiqueta. primera."
+"Para ver cómo funciona esto, ``.. _my-reference-label:`` aparece en la línea 7 de "
+"restructuredtext.rst."
 
 # b0e99d9915d04d96b820a4eb5373acd3
 #: ../source/restructuredtext.rst:60
 msgid ""
-"Secondly, this page contains more about terms and words used in sugar. "
-":doc:`/glossary`"
+"Secondly, this page contains more about terms and words used in sugar. :doc:"
+"`/glossary`"
 msgstr ""
 "En segundo lugar, esta página contiene información sobre los términos y "
-"palabras que se usan en el azúcar. : Doc: `/ glossary`"
+"palabras que se usan en Sugar :doc:`/ glossary`"
 
 # 95910e1f6d6846d289c48fdd8c459d02
 #: ../source/restructuredtext.rst:72
@@ -129,7 +128,7 @@ msgstr "Último artículo"
 # 17a25b354f834ed9858d055fac95ea5e
 #: ../source/restructuredtext.rst:80
 msgid "or numbered:"
-msgstr "o numerada:"
+msgstr "o numeradas:"
 
 # 0561ecc43b4c42fd9af75a7c0a04d522
 #: ../source/restructuredtext.rst:82
@@ -149,7 +148,7 @@ msgstr "El último de ellos"
 # 57f11fcbcfd84f74a141507e89ba95db
 #: ../source/restructuredtext.rst:101
 msgid "Simple table"
-msgstr "Simple mesa"
+msgstr "Tabla simple"
 
 # 8979ab2fe3b341da914f4dfe75b5cf7c
 #: ../source/restructuredtext.rst:104
@@ -164,7 +163,7 @@ msgstr "Salida"
 # 995cce8d58db4bfc97e9837b59731fdf
 #: ../source/restructuredtext.rst:106
 msgid "A"
-msgstr "La"
+msgstr "A"
 
 # 194b130053cf408c97ed5c37422dfc95
 #: ../source/restructuredtext.rst:106
@@ -184,7 +183,7 @@ msgstr "A o B"
 #: ../source/restructuredtext.rst:108 ../source/restructuredtext.rst:109
 #: ../source/restructuredtext.rst:110
 msgid "False"
-msgstr "Falso"
+msgstr "False"
 
 # 4db0854e91534916843a9135833162f4
 # 6e35512eb66548008910556371e76d56
@@ -196,7 +195,7 @@ msgstr "Falso"
 #: ../source/restructuredtext.rst:109 ../source/restructuredtext.rst:110
 #: ../source/restructuredtext.rst:111
 msgid "True"
-msgstr "Verdadero"
+msgstr "True"
 
 # ecb6477c4ee54cab9dadb241a19de6bf
 #: ../source/restructuredtext.rst:128
@@ -216,12 +215,12 @@ msgstr "Los iconos y las imágenes pequeñas"
 # 417a119b1c5f40ba81a3b732040353b1
 #: ../source/restructuredtext.rst:141
 msgid "|Neighborhood_key| This is the sharing option."
-msgstr "| Neighborhood_key | Esta es la opción para compartir."
+msgstr "|Neighborhood_key| Esta es la opción para compartir."
 
 # f8607912d4d6480aafc5142d753ed0de
 #: ../source/restructuredtext.rst:145
 msgid "|Home_key_f3_small| This is the Private option."
-msgstr "| Home_key_f3_small | Esta es la opción privada."
+msgstr "|Home_key_f3_small| Esta es la opción privada."
 
 # 47984db562fd4c2585749ece6f6f23e9
 #: ../source/restructuredtext.rst:160
@@ -232,11 +231,11 @@ msgstr "Adición de una nota"
 #: ../source/restructuredtext.rst:164
 msgid ""
 "When you are required to place the first readable character at point 3 or 4 "
-"in the line, it is recommended to check if you are required to insert spaces"
-" or Tab."
+"in the line, it is recommended to check if you are required to insert spaces "
+"or Tab."
 msgstr ""
 "Cuando usted está obligado a colocar el primer carácter legible en el punto "
-"3 o las 4 de la línea, se recomienda comprobar si se le requiere para "
+"3 o las 4 de la línea, se recomienda comprobar si se le requiere "
 "insertar espacios o Tab."
 
 # 9628f9fc4c6c4f2ebb53195e03eb4693
@@ -250,14 +249,14 @@ msgid ""
 "Notice that first readable character of this note is under the \"s\", three "
 "spaces preceed it."
 msgstr ""
-"Observe que el primer carácter legible de esta nota es bajo la \"s\", tres "
+"Observe que el primer carácter legible de esta nota está bajo la \"s\", tres "
 "espacios lo precedió."
 
 # 25818f39acda4d2183918f726d7c0a2c
 #: ../source/restructuredtext.rst:185
 msgid ""
-"|more| There are links to :ref:`Further reading` at the foot of the page "
-":doc:`/how_to_help`"
+"|more| There are links to :ref:`Further reading` at the foot of the page :"
+"doc:`/how_to_help`"
 msgstr ""
-"| Más información | Hay enlaces a: ref: `Además reading` al pie de la "
-"página: doc:` / how_to_help`"
+"|more| Hay enlaces a :ref:`Further reading` al pie de la "
+"página :doc:`/how_to_help`"
