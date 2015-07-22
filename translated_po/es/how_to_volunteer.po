@@ -20,12 +20,12 @@ msgstr ""
 # b3f7da00bb1f4001851f8f70ceb4b0b1
 #: ../source/how_to_volunteer.rst:3
 msgid "How to volunteer"
-msgstr "¿Cómo ser voluntario"
+msgstr "¿Cómo ser voluntario?"
 
 # e92683dac13246998ad5b50def9d9dbb
 #: ../source/how_to_volunteer.rst:6
 msgid "Volunteers Change the World"
-msgstr "Voluntarios Cambiar el Mundo"
+msgstr "Los Voluntarios Cambian el Mundo"
 
 # 6a2e309516fa4d4281e098f3a87580d1
 #: ../source/how_to_volunteer.rst:8
@@ -36,12 +36,12 @@ msgid ""
 "provide information to learn how to become a volunteer, based on your "
 "interests and background."
 msgstr ""
-"Únete a nosotros en nuestra misión global para mejorar la educación de los "
-"niños del mundo! Contribución de los voluntarios es fundamental para el "
+"Únete a nosotros en nuestra misión global de mejorar la educación de los "
+"niños del mundo! La contribución de los voluntarios es fundamental para el "
 "espíritu educativo de OLPC. Las formas de voluntariado son tan variadas como"
-" sus intereses. Las secciones siguientes proporcionan información para "
-"aprender cómo llegar a ser un voluntario, en función de sus intereses y de "
-"fondo."
+" tus intereses. Las secciones siguientes proporcionan información para "
+"aprender cómo llegar a ser un voluntario, en función de tus intereses y tu "
+"preparación."
 
 # 591053d123a64eaf98595b984595ae8b
 #: ../source/how_to_volunteer.rst:10
@@ -49,9 +49,9 @@ msgid ""
 "If learning matters to you, you will be welcome. To directly get involved, "
 "visit the web site http://olpcMAP.net or email volunteer@laptop.org."
 msgstr ""
-"Si te importa el aprendizaje, usted será bienvenido. Para involucrarse "
-"directamente, visite el sitio web http: // olpcMAP. voluntario red o de "
-"correo electrónico @ laptop. org."
+"Si te importa el aprendizaje, eres bienvenido. Para involucrarte "
+"directamente, visite el sitio web http://olpcMAP.net o envía un "
+"correo a volunteer@laptop.org."
 
 # 4c5cc9b7efa84b77bf6d4bd3e97aab1c
 #: ../source/how_to_volunteer.rst:12
@@ -61,7 +61,7 @@ msgid ""
 " mission and to improve children's lives."
 msgstr ""
 "Por último, sabemos que hay un montón de diversión, gente cool en el mundo a"
-" quienes les gustaría trabajar y jugar junto con usted como contribuyentes, "
+" quienes les gustaría trabajar y jugar junto contigo como contribuyentes, "
 "para ayudar a difundir nuestra misión y para mejorar la vida de los niños."
 
 # 69b21c909d324cc48a87372abae685e8
@@ -76,8 +76,8 @@ msgid ""
 " to help each other learn is one way to volunteer with (and for) other OLPC "
 "learners worldwide."
 msgstr ""
-"La XO es para toda la familia a utilizar, así que aprender lo más que pueda "
-"para ayudar a los demás es una manera de aprender a ser voluntario con (y "
+"La XO es para ser usada por toda la, así que aprende lo más que puedas "
+"para ayudar a los demás, es una manera de aprender a ser voluntario con (y "
 "para) otros alumnos de OLPC en todo el mundo."
 
 # b9528fcf752747b9b14b32d86ff2b213
@@ -86,8 +86,8 @@ msgid ""
 "You can contribute to the wiki, a web site that you can edit, at "
 "http://wiki.laptop.org to share your knowledge and XO laptop experience."
 msgstr ""
-"Puede contribuir a la wiki, un sitio web que se puede editar, en http: // "
-"wiki. portátil. org para compartir su experiencia y conocimientos laptop XO."
+"Puedes contribuir a la wiki, un sitio web que se puede editar, en "
+"http://wiki.laptop.org para compartir tu experiencia y conocimientos con la laptop XO."
 
 # d31f704b34094e1cb9be80db1175189b
 #: ../source/how_to_volunteer.rst:21
@@ -96,9 +96,9 @@ msgid ""
 "efforts. To understand how easy it is to edit the wiki, go to "
 "http://wiki.laptop.org/go/Wiki_getting_started."
 msgstr ""
-"Usted puede decirle a otros acerca de sus proyectos y reclutar a otros a "
-"unirse a sus esfuerzos. Para entender lo fácil que es editar el wiki, vaya a"
-" http: // wiki. portátil. org / go / Wiki_getting_started."
+"Puedes decirle a otros acerca de tus proyectos y reclutar a otros a "
+"unirse a tus esfuerzos. Para entender lo fácil que es editar la wiki, ve a "
+"http://wiki.laptop.org/go/Wiki_getting_started."
 
 # 333c5aa8ba5644ebbe73ab05d5b31256
 #: ../source/how_to_volunteer.rst:23
@@ -107,9 +107,9 @@ msgid ""
 "your area. You can find many such vibrant communities at "
 "http://wiki.laptop.org/go/Regional_community_groups."
 msgstr ""
-"Es posible que desee participar en un grupo regional con otros propietarios "
-"de XO en su área. Usted puede encontrar muchas de esas comunidades vibrantes"
-" en http: // wiki. portátil. org / go / Regional_community_groups."
+"Es posible que desees participar en un grupo regional con otros propietarios "
+"de XO en tu área. Puede encontrar muchas de esas comunidades vibrantes "
+"en http://wiki.laptop.org/go/Regional_community_groups."
 
 # 8b420da6852048719d54e6a5527631bb
 #: ../source/how_to_volunteer.rst:26
@@ -127,12 +127,11 @@ msgid ""
 "wiki.laptop.org/go/University_program."
 msgstr ""
 "El proyecto OLPC es un proyecto de educación por encima de todo, por lo que "
-"sus aportaciones son muy valorados. Puedes contribuir pruebas, desarrollo de"
-" contenidos, la tutoría, o ejecutar actividades de grupo. Usted puede "
-"comenzar un capítulo de la Universidad de los usuarios de OLPC - tanto de "
-"aprendizaje Atención formales Comunidad y grandes clubes informales existen."
-" Los detalles se pueden encontrar en la wiki. portátil. org / go / "
-"University_program."
+"sus aportes son muy valorados. Puedes contribuir haciendo pruebas, desarrollo de"
+" contenidos, tutoría, o ejecutando actividades de grupo. Puedes "
+"comenzar un capítulo en tu Universidad, existen tanto grupos de servicio a la cumunidad "
+"como grandes clubes informales. "
+"Ae pueden encontrar detalles en wiki.laptop.org/go/University_program."
 
 # e69dda04cae44ee5a1bd483ef3fa86b9
 #: ../source/how_to_volunteer.rst:30
@@ -141,14 +140,14 @@ msgid ""
 "region, or look up pre-existing groups within the list of regional groups "
 "here: http://wiki.laptop.org/go/Groups."
 msgstr ""
-"Usted puede tratar de reunirse con otros profesores y estudiantes dentro de "
-"su región geográfica, o buscar grupos preexistentes dentro de la lista de "
-"grupos regionales aquí: http: // wiki. portátil. org / go / Grupos."
+"Puede tratar de reunirte con otros profesores y estudiantes dentro de "
+"tu región geográfica, o buscar grupos preexistentes dentro de la lista de "
+"grupos regionales aquí: http://wiki.laptop.org/go/Groups."
 
 # 84bf8021694e4af8a00c77ca5ffeec43
 #: ../source/how_to_volunteer.rst:33
 msgid "Support Gang"
-msgstr "Soporte Pandilla"
+msgstr "Support Gang"
 
 # 701ee59c2e5b482fadd608487d6f6149
 #: ../source/how_to_volunteer.rst:35
@@ -160,10 +159,10 @@ msgid ""
 "and anything else OLPC users ask about."
 msgstr ""
 "Si te gusta ayudar personalmente a otros, y el desafío de resolver los "
-"problemas con los estudiantes de todo el mundo, que sería un ajuste perfecto"
-" para la Banda Soporte. Trabajamos juntos contestar todo tipo de preguntas "
-"acerca de la XO, periféricos, software, el voluntariado, el despliegue, "
-"desarrollo organizacional y todo lo demás usuarios OLPC preguntan acerca de."
+"problemas con los estudiantes de todo el mundo, te gustará "
+" el grupo Support Gang. Trabajamos juntos contestar todo tipo de preguntas "
+"acerca de la XO, periféricos, software, el voluntariado, los despliegues, "
+"desarrollo organizacional y todo lo que los usuarios de OLPC puedan preguntar."
 
 # 70eb147927ef4a50ba19b03eaca996aa
 #: ../source/how_to_volunteer.rst:37
@@ -174,7 +173,7 @@ msgid ""
 "person whenever possible."
 msgstr ""
 "Los voluntarios comunitarios de apoyo son un grupo extremadamente amable y "
-"solidaria, que se reunieron de todo el mundo, y trabajar juntos "
+"solidario, que se reunieron alrededor de todo el mundo, y trabajan juntos "
 "estrechamente en línea. También nos reunimos semanalmente con oradores "
 "invitados por teléfono y en persona siempre que sea posible."
 
@@ -186,11 +185,11 @@ msgid ""
 "Bilingual volunteers are most especially welcome. Please join us at "
 "http://wiki.laptop.org/go/Support_Gang."
 msgstr ""
-"Cuando usted se ofrece voluntariamente, otros voluntarios y OLPC le ayudará "
-"a empezar y le ayudará a encontrar respuestas a las preguntas técnicas "
-"difíciles o inusuales. Voluntarios bilingües son más especialmente "
-"bienvenida. Por favor, únase a nosotros en la dirección http: // wiki. "
-"portátil. org / go / Support_Gang."
+"Cuando tu te ofreces voluntariamente, otros voluntarios y OLPC te ayudarán "
+"a empezar y te ayudarán a encontrar respuestas a las preguntas técnicas "
+"difíciles o inusuales. Voluntarios bilingües son especialmente "
+"bienvenidos. Por favor, únete a nosotros en la dirección "
+"http://wiki.laptop.org/go/Support_Gang."
 
 # 8443e30151dc455582cffa50b60ead71
 #: ../source/how_to_volunteer.rst:42
@@ -208,21 +207,20 @@ msgid ""
 " on how to contribute by joining the OLPC Library mailing list "
 "http://lists.laptop.org/listinfo/library"
 msgstr ""
-"Si usted desea ayudar a otros a aprender acerca de la XO entonces usted "
-"puede ayudar con la documentación. Tenemos un equipo dedicado y con "
-"entusiasmo la bienvenida a nuevos colaboradores Usted no necesita ser un "
-"experto en la tecnología para participar - es posible que desee simplemente "
-"deletrear o en su cheque imágenes. También es posible que se inspiró para "
+"Si deseas ayudar a otros a aprender acerca de la XO entonces "
+"puedes ayudar con la documentación. Tenemos un equipo dedicado y con "
+"entusiasmo da la bienvenida a nuevos colaboradores No necesitas ser un "
+"experto en la tecnología para participar - es posible que desees simplemente "
+"chequear ortografía o verificar imágenes. También es posible que estes inspirado para "
 "escribir un capítulo o mejorar capítulos existentes. Puede obtener más "
-"información sobre cómo contribuir al unirse a la lista de correo de OLPC "
-"Biblioteca http: // listas. portátil. org / listinfo / biblioteca"
+"información sobre cómo contribuir al unirte a la lista de correo de OLPC "
+"Biblioteca http://lists.laptop.org/listinfo/library"
 
 # b867c64a1f9a48f69269c1c020f4417d
 #: ../source/how_to_volunteer.rst:46
 msgid "Existing XO and Sugar manuals are written and hosted at FLOSS Manuals."
 msgstr ""
-"Manuales XO y Sugar existentes se escriben y alojados en manuales de "
-"software libre."
+"Los Manuales XO y Sugar existentes fueron escritos y alojados en FLOSS Manuals."
 
 # 53dbc9644c6a4008a21190f18fbf5053
 #: ../source/how_to_volunteer.rst:49
@@ -238,17 +236,16 @@ msgid ""
 "and write more than one language, you can help translate the wiki or the "
 "software. If you can help, please see http://wiki.laptop.org/go/Translation."
 msgstr ""
-"OLPC es un programa mundial que intenta llegar a la gente en muchos países, "
-"que hablan muchos idiomas diferentes. Usted puede tener una idea del "
-"programa y buscar sus lenguas en el servidor de traducción Sugar Labs. Si "
+"OLPC es un programa mundial que intenta llegar a la gente de muchos países, "
+"que hablan muchos idiomas diferentes. Tu puedes tener una idea del "
+"programa y buscar tu lengua en el servidor de traducción Sugar Labs. Si "
 "hablas y escribes más de un idioma, puede ayudar a traducir la wiki o el "
-"software. Si usted puede ayudar, por favor visite http: // wiki. portátil. "
-"org / go / Traducción."
+"software. Si puedes ayudar, por favor visita http://wiki.laptop.org/go/Translation."
 
 # 59ea0bac7d604cdfa0b587e42061320b
 #: ../source/how_to_volunteer.rst:54
 msgid "Content creators, writers, artists, photographers, videographers"
-msgstr "Contenido creadores, escritores, artistas, fotógrafos, videógrafos"
+msgstr "Creadores de Contenido, escritores, artistas, fotógrafos, videógrafos"
 
 # 80aeb1cfe17a4ddf86bdb4a535f7a406
 #: ../source/how_to_volunteer.rst:56
@@ -258,8 +255,8 @@ msgid ""
 "contributions to helping others."
 msgstr ""
 "Todo el mundo es un creador: al crear y compartir algo, inevitablemente "
-"entenderlo mejor. Al escribir sobre la XO también puede ser una de las "
-"mayores contribuciones a ayudar a los demás."
+"lo entiendes mejor. Escribir sobre la XO también puede ser una "
+"gran forma de ayudar a los demás."
 
 # 7686ffb50d8245519527ef5388652c38
 #: ../source/how_to_volunteer.rst:58
@@ -268,10 +265,9 @@ msgid ""
 "Wiki - whether by writing, designing, editing, storytelling or simply "
 "organizing - anywhere within http://wiki.laptop.org."
 msgstr ""
-"Por favor considerar ofrecer sus comunicaciones o talentos de los medios "
-"sobre la OLPC Wiki - ya sea escribiendo, diseñando, la edición, la narración"
-" o simplemente organizar - en cualquier lugar dentro de http: // wiki. "
-"portátil. org."
+"Por favor considera ofrecer tus talentos de comunicación o creación de medios "
+"en la OLPC Wiki - ya sea escribiendo, diseñando, editando, o narrando "
+"o simplemente organizando - cualquier lugar dentro de http://wiki.laptop.org."
 
 # c3a63c6d5fbb4876a659942882b361be
 #: ../source/how_to_volunteer.rst:60
@@ -279,9 +275,8 @@ msgid ""
 "If you want to create art for the XO, you can join other artists at the Art "
 "Community page at http://wiki.laptop.org/go/Community:Art."
 msgstr ""
-"Si desea crear arte para la XO, puede unirse a otros artistas en la página "
-"de Arte de la Comunidad en la dirección http: // wiki. portátil. org / go / "
-"Comunidad: Arte."
+"Si deseas crear arte para la XO, puede unirte a otros artistas en la página "
+"de Arte de la Comunidad en la dirección http://wiki.laptop.org/go/Community:Art."
 
 # 3d69ee61477346daa606a407d6341330
 #: ../source/how_to_volunteer.rst:62
@@ -291,10 +286,10 @@ msgid ""
 "specially taken by XO laptops themselves, using the Record Activity. "
 "Hardware designers and testers"
 msgstr ""
-"Puedes subir fotos a un gran crecimiento de archivo, en todo el mundo en la "
-"dirección http: // www. flickr. com / grupos / olpc. Un grupo de fotos "
-"incluso muestra los especialmente tomada por XO laptops sí mismos, mediante "
-"el Registro de Actividad. Diseñadores de hardware y testers"
+"Puedes subir fotos a un gran archivo global en crecimiento en la "
+"dirección http://www.flickr.com/groups/olpc. Un grupo inclusive muestra fotos "
+"tomada con las mismas laptops XO, mediante "
+"la actividad Grabar. Diseñadores de hardware y testers"
 
 # 9b0c53dc7bd34aeeadda4d8d52ac3e8b
 #: ../source/how_to_volunteer.rst:64
@@ -304,11 +299,11 @@ msgid ""
 "to develop peripherals for the XO that use its USB ports or other inputs, "
 "for health applications or beyond: http://wiki.laptop.org/go/Health."
 msgstr ""
-"Hay un montón de oportunidades de hardware voluntario, de intercambio de "
-"ideas sobre el poder alternativa para el desarrollo de periféricos a las XO "
-"reparación. Es posible que desee desarrollar periféricos para la XO que "
+"Hay un montón de oportunidades de ser voluntario relacionadas con  hardware, desde intercambio de "
+"ideas sobre fuentes de poder alternativas a el desarrollo de periféricos, a "
+"reparación de las XO. Es posible que desees desarrollar periféricos para la XO que "
 "utilizan sus puertos USB u otros insumos, para aplicaciones de salud o más "
-"allá: http: // wiki. portátil. org / go / Salud."
+"allá: http://wiki.laptop.org/go/Health."
 
 # 3627387d6c9a47cc939ae346ffe033f1
 #: ../source/how_to_volunteer.rst:66
@@ -317,9 +312,9 @@ msgid ""
 "volunteers or as a business: "
 "http://wiki.laptop.org/go/Repair_center_locations."
 msgstr ""
-"Usted puede involucrarse con los centros de reparación de la comunidad o "
-"iniciar su propio, con voluntarios o como un negocio: http: // wiki. "
-"portátil. org / go / Repair_center_locations."
+"Puedes involucrarte con los centros de reparación de la comunidad o "
+"iniciar uno propio, con voluntarios o como un negocio: "
+"http://wiki.laptop.org/go/Repair_center_locations."
 
 # ba29c401e12b4a2aaa7694709cc76ad0
 #: ../source/how_to_volunteer.rst:68
@@ -330,11 +325,11 @@ msgid ""
 "hardware projects search for those keywords at: "
 "http://wiki.laptop.org/go/Category:Hardware."
 msgstr ""
-"Es posible que desee trabajar en la generación de energía: http: // listas. "
-"portátil. org / listinfo / potencia. O codificación firmware: http: // wiki."
-" portátil. com / go / OFW. Para obtener más información sobre todos estos "
-"tipos de proyectos de hardware de la búsqueda para las palabras clave en: "
-"http: // wiki. portátil. org / go / Categoría: Hardware."
+"Es posible que desees trabajar en la generación de energía: "
+"http://lists.laptop.org/listinfo/power. O en codificación del firmware: "
+"http://wiki.laptop.org/go/OFW. Para obtener más información sobre todos estos "
+"tipos de proyectos de hardware busca con estas las palabras clave en: "
+"http://wiki.laptop.org/go/Category:Hardware."
 
 # 88c7c34dcf6549c98c2a116b9668b612
 #: ../source/how_to_volunteer.rst:71
@@ -347,8 +342,8 @@ msgid ""
 "Software Developers especially should connect with Sugar Labs: "
 "http://join.sugarlabs.org"
 msgstr ""
-"Desarrolladores de software especialmente deben conectar con Sugar Labs: "
-"http: // unirse. sugarlabs. org"
+"Los desarrolladores de software especialmente deben conectarse con Sugar Labs: "
+"http://join.sugarlabs.org"
 
 # d90ffdd1133b4d1ba8562b56aa1995d2
 #: ../source/how_to_volunteer.rst:75
@@ -357,15 +352,15 @@ msgid ""
 "all the people in the world who are capable of writing free software to help"
 " other people learn. To get involved, you can:"
 msgstr ""
-"El software de la XO está diseñado para ser maleable porque queremos que la "
-"ayuda de toda la gente en el mundo que son capaces de escribir software "
+"El software de la XO está diseñado para ser maleable porque queremos la "
+"ayuda de toda la gente del mundo que sean capaces de escribir software "
 "libre para ayudar a otras personas a aprender. Para participar, usted puede:"
 
 # 522e2d8c51ae4d208fd164a521d5ff00
 #: ../source/how_to_volunteer.rst:77
 msgid "Write activities http://wiki.sugarlabs.org/go/Activity_Team."
 msgstr ""
-"Escribe actividades http: // wiki. sugarlabs. org / go / Activity_Team."
+"Escribir actividades http://wiki.sugarlabs.org/go/Activity_Team."
 
 # dad99e8846554031a59c927e20f6436d
 #: ../source/how_to_volunteer.rst:78
@@ -373,20 +368,19 @@ msgid ""
 "Fix, report, or triage bugs http://bugs.sugarlabs.org and "
 "http://dev.laptop.org."
 msgstr ""
-"Fijar, informar de errores, o triaje http: // bichos. sugarlabs. org y http:"
-" // dev. portátil. org."
+"Resolver, informar o priorizar errores http://bugs.sugarlabs.org y "
+"http://dev.laptop.org."
 
 # 0dd7e21258c34ea383fac1751b0ea48c
 #: ../source/how_to_volunteer.rst:79
 msgid "Help test http://wiki.laptop.org/go/Friends_in_testing."
-msgstr "Ayuda http prueba: // wiki. portátil. org / go / Friends_in_testing."
+msgstr "Ayudar con pruebas: http://wiki.laptop.org/go/Friends_in_testing."
 
 # 414ef9cdd24e4065b06001722a453248
 #: ../source/how_to_volunteer.rst:80
 msgid "Hack Sugar and our OS http://wiki.laptop.org/go/Developers_manual."
 msgstr ""
-"Hack Azúcar y nuestra http OS: // wiki. portátil. org / go / "
-"Developers_manual."
+"Hack Sugar y nuestro SO http://wiki.laptop.org/go/Developers_manual."
 
 # 010b6cfb550d4caa9380fcf6a743516a
 #: ../source/how_to_volunteer.rst:82
@@ -405,9 +399,9 @@ msgid ""
 "like to visit. Start or join a grassroots group: "
 "http://wiki.laptop.org/go/Groups."
 msgstr ""
-"Ayudar a crear cambios en la comunidad que vive en -, así como las que le "
-"gustaría visitar. Inicie o únase a un grupo de base: http: // wiki. "
-"portátil. org / go / Grupos."
+"Ayuda a crear cambios en la comunidad en que vives en -, así como las que te "
+"gustaría visitar. Inicia o únete a un grupo local: "
+"http://wiki.laptop.org/go/Groups."
 
 # 0806ba66e41541c99e55603da2e8182d
 #: ../source/how_to_volunteer.rst:89
@@ -415,26 +409,25 @@ msgid ""
 "Create a Community Repair Center: "
 "http://wiki.laptop.org/go/Repair_center_locations."
 msgstr ""
-"Crear un centro de reparaciones Comunidad: http: // wiki. portátil. org / go"
-" / Repair_center_locations."
+"Crea un centro comunitario de reparaciones: "
+"http://wiki.laptop.org/go/Repair_center_locations."
 
 # 8c08db5410ea4dec8f2dcf009b3be6f3
 #: ../source/how_to_volunteer.rst:90
 msgid "Help out at a nearby Pilot deployment: http://planet.laptop.org."
 msgstr ""
-"Ayudar en una implementación piloto en las inmediaciones: http: // planeta. "
-"portátil. org."
+"Ayudar en una implementación piloto en tu zona: http://planet.laptop.org."
 
 # d4d9c6e4b7994861af269e6c827e143a
 #: ../source/how_to_volunteer.rst:91
 msgid "Run, host, or attend an Event or Jam: http://olpcMAP.net."
 msgstr ""
-"Ejecutar, anfitrión, o asistir a un evento o Jam: http: // olpcMAP. neto."
+"Organiza, se anfitrión, o asista a un evento o Jam: http://olpcMAP.net."
 
 # 0c22cbd4f32f44bbbd521a90af5dc25d
 #: ../source/how_to_volunteer.rst:94
 msgid "Deployment"
-msgstr "Despliegue"
+msgstr "Despliegues"
 
 # 2ff4fdc09d3449a58b5d5fda70a47333
 #: ../source/how_to_volunteer.rst:96
@@ -443,9 +436,9 @@ msgid ""
 "possible, in exceptional cases: "
 "http://wiki.laptop.org/go/ClassActs/Resources"
 msgstr ""
-"Ser voluntario en un despliegue de OLPC o la escuela de cualquier tamaño a "
-"veces es posible, en casos excepcionales: http: // wiki. portátil. org / go "
-"/ ClassActs / Recursos"
+"Ser voluntario en un despliegue de OLPC o en una escuela de cualquier tamaño a "
+"veces es posible, en casos excepcionales: "
+"http://wiki.laptop.org/go/ClassActs/Resources"
 
 # 4f62447be5e44b1599398ec866711ba7
 #: ../source/how_to_volunteer.rst:98
@@ -454,8 +447,8 @@ msgid ""
 "leveraging their mutual insights: http://wiki.laptop.org/go/ALEARN_Network"
 msgstr ""
 "Los voluntarios que trabajan en sus propias implementaciones más pequeñas, "
-"trabajan juntos aprovechando sus conocimientos mutuos: http: // wiki. "
-"portátil. org / go / ALEARN_Network"
+"trabajan juntos aprovechando sus conocimientos mutuos: "
+"http://wiki.laptop.org/go/ALEARN_Network"
 
 # 6774f2e255804247accafb9705c268a1
 #: ../source/how_to_volunteer.rst:100
@@ -465,8 +458,8 @@ msgid ""
 "qualifications to: mailto:volunteer@laptop.org"
 msgstr ""
 "Una gran manera de empezar es explorar el trabajo de otros en la dirección "
-"http: // planeta. portátil. org y envíanos un mensaje a sus intereses y "
-"calificaciones específicas a: mailto: @ voluntarios portátil. org"
+"http://planet.laptop.org y envíarnos un mensaje con sus intereses y "
+"calificaciones específicas a: mailto:volunteer@laptop.org"
 
 # c0034279725448e888e59a322c37a0f9
 #: ../source/how_to_volunteer.rst:103
@@ -479,9 +472,9 @@ msgid ""
 "Nothing beats meeting in person, and the OLPC community's biggest annual "
 "summit occurs in October in San Francisco, thanks to: http://olpcSF.org."
 msgstr ""
-"Nada es mejor que reunirse en persona, y más grande cumbre anual de la "
-"comunidad OLPC se produce en octubre en San Francisco, gracias a: http: // "
-"olpcSF. org."
+"Nada es mejor que reunirse en persona, y la más grande cumbre anual de la "
+"comunidad OLPC se produce en octubre en San Francisco, gracias a: "
+"http://olpcSF.org"
 
 # 3559379d4e92468195ca036b6c45db3a
 #: ../source/how_to_volunteer.rst:107
@@ -489,8 +482,8 @@ msgid ""
 "Similarly a more technical spring summit generally takes plan around May in "
 "Montevideo, Uruguay: http://ceibalJAM.org."
 msgstr ""
-"Del mismo modo una cumbre más técnico primavera generalmente toma alrededor "
-"plan de mayo en Montevideo, Uruguay: http: // ceibalJAM. org."
+"Del mismo modo una cumbre más técnica generalmente se organiza alrededor "
+"de mayo en Montevideo, Uruguay: http://ceibalJAM.org."
 
 # c9de0fe6593e49069e7c68304ec32ed7
 #: ../source/how_to_volunteer.rst:110
@@ -505,5 +498,5 @@ msgid ""
 "millions of children every day? Can you help?"
 msgstr ""
 "Nosotros no estábamos bromeando cuando les dijimos que aceptamos "
-"contribuciones de los voluntarios de todas las formas, tamaños y tipos. ¿Le "
+"contribuciones de los voluntarios de todas las formas, tamaños y tipos. ¿Te "
 "gustaría hacer regalos para millones de niños cada día? ¿Puedes ayudar?"
