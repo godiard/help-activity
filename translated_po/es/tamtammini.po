@@ -25,7 +25,7 @@ msgstr "TamTam"
 # f3ede6a064eb4e1395e669b3311ddfaa
 #: ../source/tamtammini.rst:6
 msgid "About TamTamMini"
-msgstr "Acerca TamTamMini"
+msgstr "Acerca de TamTamMini"
 
 # a5bc9a791cb14caba713ee318bedbe94
 #: ../source/tamtammini.rst:8
@@ -35,11 +35,11 @@ msgid ""
 "computer.  Each of the four Activities is a bit different. In general they "
 "require increasingly higher levels of musical skill to use."
 msgstr ""
-"Bienvenido a TamTamMini! Este capítulo del manual de usuario está a punto "
+"Bienvenido a TamTamMini! Este capítulo del manual del usuario trata acerca de "
 "TamTamMini que forma parte de un conjunto de cuatro actividades musicales "
 "para su uso en la computadora XO. Cada una de las cuatro actividades es un "
 "poco diferente. En general, se requieren niveles cada vez más altos de "
-"habilidad musical para utilizar."
+"habilidad musical para utilizarlas."
 
 # 2eb8cbb998a841edb893e0161f50b3f2
 #: ../source/tamtammini.rst:10
@@ -50,10 +50,10 @@ msgid ""
 "experiment.  It can be used by a single XO  laptop or more but does not "
 "utilize the mesh network."
 msgstr ""
-"** ** TamTamMini es la más simple de las cuatro actividades TamTam pero "
+"**TamTamMini** es la más simple de las cuatro actividades TamTam pero "
 "ofrece una sorprendente variedad de características sofisticadas. Es "
 "bastante simple para divertirse con y adecuado para las edades 2 -92! Sin "
-"embargo, es lo suficientemente complejo como para que pueda experimentar. "
+"embargo, es lo suficientemente complejo como para que puedas experimentar. "
 "Puede ser utilizado por un solo ordenador portátil XO o más, pero no utiliza"
 " la red de malla."
 
@@ -64,9 +64,9 @@ msgid ""
 "playing simple scales and songs using the XO's QWERTY keyboard. This manual "
 "will help you learn to do that."
 msgstr ""
-"Usted puede comenzar por la elección de un instrumento o sonido y "
+"Puede comenzar por la elección de un instrumento o sonido y "
 "experimentando con tocar escalas y canciones simples usando el teclado "
-"QWERTY de la XO. Este manual le ayudará a aprender a hacer eso."
+"QWERTY de la XO. Este manual te ayudará a aprender a hacer eso."
 
 # c6ff8e0e0702422e8ddf57a478551869
 #: ../source/tamtammini.rst:14
@@ -76,8 +76,8 @@ msgid ""
 "tam/_full/>`_\" FLOSS manual."
 msgstr ""
 "Para más información sobre TamTamMini, incluyendo el uso de la caja de "
-"ritmos y bucles, consulte el \"` Diversión con TamTamMini <http: // Booki. "
-"flossmanuals. net / diversión-con-tam-tam / _Full /> `_\" Manual FLOSS."
+"ritmos y bucles, consulte el manual \"` Diversión con TamTamMini "
+"<http://booki.flossmanuals.net/fun-with-tam-tam/_full/>`_\"."
 
 # 4f98b7473a264211a0f56194f6cf50e3
 #: ../source/tamtammini.rst:16
@@ -88,11 +88,11 @@ msgid ""
 "phrases and can combine several customizable loops. You can also share the "
 "beat with other XOs through the mesh network."
 msgstr ""
-"** ** TamTamJam es más complejo que TamTamMini, pero todavía es adecuado "
+"**TamTamJam** es más complejo que TamTamMini, pero todavía es adecuado "
 "para niños en edad escolar y adultos. Tiene una pantalla principal "
-"diferente, pero los mismos instrumentos y está diseñado para un rendimiento."
-" Puede grabar pequeñas frases melódicas y puede combinar varios bucles "
-"personalizables. También puede compartir el ritmo con otros XO a través de "
+"diferente, pero los mismos instrumentos y está diseñado para la interpretación."
+" Puedes grabar pequeñas frases melódicas y puedes combinar varios bucles "
+"personalizables. También puedes compartir el ritmo con otros XO a través de "
 "la red de malla."
 
 # 06b54122f12e432a8dfefddba25723a9
@@ -104,8 +104,8 @@ msgid ""
 " five different tracks. It offers almost 100 different musical sounds and a "
 "limitless variety of musical styles."
 msgstr ""
-"** ** TamTamEdit es el TamTamActivity básico y debe ser instalado con el fin"
-" de ejecutar cualquiera de los otros Tam Tan Actividades. Tiene lazos mucho "
+"**TamTamEdit** es la actividad TamTam básica y debe ser instalada con el fin"
+" de ejecutar cualquiera de las otras actividades Tam Tam. Tiene bucles mucho "
 "más sofisticados donde se puede elegir instrumentos, tonos y la duración de "
 "las notas sobre cinco temas diferentes. Ofrece cerca de 100 diferentes "
 "sonidos musicales y una variedad ilimitada de estilos musicales."
@@ -116,13 +116,13 @@ msgid ""
 "**TamTamSynthLab** is a highly sophisticated synthesizer program suitable "
 "for advanced work in both music and physics."
 msgstr ""
-"** TamTamSynthLab ** es un programa sintetizador sofisticado adecuado para "
-"el trabajo avanzado tanto en la música y la física."
+"**TamTamSynthLab** es un programa sintetizador sofisticado adecuado para "
+"el trabajo avanzado tanto en la música como en la física."
 
 # 05af31f0691f4090a05f15422214c1ca
 #: ../source/tamtammini.rst:24
 msgid "Starting TamTamMini"
-msgstr "A partir TamTamMini"
+msgstr "Empezando con TamTamMini"
 
 # 4533030e2e664e2f99999d04edbd47c0
 #: ../source/tamtammini.rst:26
@@ -132,15 +132,15 @@ msgid ""
 " the icon for a few seconds and, a little label that says \"TamTamMini\" "
 "will appear."
 msgstr ""
-"Seleccione el icono TamTamMini (pequeño tambor con baquetas) desde la vista "
-"Favoritos. Si no está seguro de que tiene el derecho de actividad, sitúe el "
-"cursor sobre el icono durante unos segundos y, una pequeña etiqueta que dice"
-" aparecerá \"TamTamMini\"."
+"Selecciona el icono TamTamMini (pequeño tambor con baquetas) desde la vista "
+"Favoritos. Si no estás seguro de tener la actividad correcta, sitúa el "
+"cursor sobre el icono durante unos segundos y, aprecerá una pequeña etiqueta que dice"
+" \"TamTamMini\"."
 
 # dbb50e45e76343d9ba10f8632f9e6d3a
 #: ../source/tamtammini.rst:30
 msgid "If you cannot find TamTamMini, change to the List View"
-msgstr "Si usted no puede encontrar TamTamMini, cambiar a la vista de lista"
+msgstr "Si no puedes encontrar TamTamMini, cambia a la vista de lista"
 
 # a3b6a692c93b460386e19a7b9b26857b
 #: ../source/tamtammini.rst:34
@@ -150,10 +150,10 @@ msgid ""
 "it to the Favorites View.  In either view, when you find the icon, click on "
 "it to open TamTamMini."
 msgstr ""
-"Cuando lo encuentre en la lista Ver comprobar primero la pequeña estrella al"
-" lado del nombre de la Actividad. Si no se rellena, haga clic en la estrella"
-" para que pueda moverlo a los Favoritos Ver. En cualquier punto de vista, "
-"cuando encuentre el icono, haga clic en él para abrir TamTamMini."
+"Cuando la encuentres en la Vista de Lista comprueba primero la pequeña estrella al"
+" lado del nombre de la Actividad. Si no esta rellena, haz clic en la estrella"
+" para que puedas verla en la Vista de Favoritos. En cualquiera de las vistas, "
+"cuando encuentres el icono, haz clic en él para abrir TamTamMini."
 
 # f2c7684be471437ca4445b18943b8973
 #: ../source/tamtammini.rst:37
@@ -163,7 +163,7 @@ msgstr "Aprender Con TamTamMini"
 # 84cea649cc0c4132b1038db30decb96a
 #: ../source/tamtammini.rst:40
 msgid "Choosing An Instrument"
-msgstr "La elección de un instrumento"
+msgstr "Eligiendo un instrumento"
 
 # ad226b817d914a63a56176a04f432182
 #: ../source/tamtammini.rst:44
@@ -175,8 +175,8 @@ msgid ""
 "the sound. Clicking again repeats the sound."
 msgstr ""
 "TamTamMini ofrece una amplia variedad de instrumentos y sonidos. Antes de "
-"elegir el instrumento que va a utilizar en estas exploraciones, tómese el "
-"tiempo para tratar de todos los sonidos. Si pasas el cursor sobre una de las"
+"elegir el instrumento que vas a utilizar en estas exploraciones, tómate el "
+"tiempo para probar todos los sonidos. Si pasas el cursor sobre una de las"
 " imágenes, aparecerá el nombre del instrumento o sonido. Haz click en la "
 "imagen y se escuchará el sonido. Al hacer clic de nuevo repite el sonido."
 
@@ -190,13 +190,13 @@ msgid ""
 "this include the trumpet, flute, violin, or cello. Other wind and bowed "
 "instruments will also work fine."
 msgstr ""
-"Después de probar todos los sonidos, seleccione el instrumento que desea "
-"utilizar. Por favor, elija un instrumento de viento o un instrumento de "
-"cuerda frotada para conseguir un sonido sostenido mientras trabaja. Más "
-"tarde, después de que usted entienda cómo funciona TamTamMini, puedes jugar "
+"Después de probar todos los sonidos, selecciona el instrumento que deseas "
+"utilizar. Por favor, elije un instrumento de viento o un instrumento de "
+"cuerda frotada para conseguir un sonido sostenido mientras trabajas. Más "
+"tarde, después de que entiendas cómo funciona TamTamMini, puedes jugar "
 "con todos los otros sonidos. Algunos instrumentos que funcionan bien para "
-"esto incluyen la trompeta, flauta, violín, violonchelo o. Otros instrumentos"
-" de viento y se inclinó también tendrán ningún problema."
+"esto incluyen la trompeta, flauta, violín o el violonchelo. Otros instrumentos"
+" de viento y de arco también funcionarán bien."
 
 # 81f09886aa464c3a8c713efff9a16ce1
 #: ../source/tamtammini.rst:49
@@ -213,10 +213,10 @@ msgid ""
 "scale becomes Do-Re-Mi-Fa-Sol-La-Ti-Do.  Note: Some countries replace the "
 "\"Ti\" with \"Si.\""
 msgstr ""
-"TamTamMini utiliza el teclado normal a tocar las notas musicales. Esto puede"
-" ser confuso para las personas que han estudiado la música antes de que los "
+"TamTamMini utiliza el teclado normal para tocar las notas musicales. Esto puede"
+" ser confuso para las personas que han estudiado música ya que los "
 "nombres tradicionales de las notas no coincidan con las letras, números y "
-"símbolos de las teclas. Por esta razón, le sugerimos que utilice un \"Do "
+"símbolos de las teclas. Por esta razón, te sugerimos que utilice una escala \"Do "
 "móvil\" donde una escala mayor se convierte en Do-Re-Mi-Fa-Sol-La-Ti-Do. "
 "Nota: Algunos países reemplazan el \"Ti\" con \"Si. \""
 
@@ -233,10 +233,10 @@ msgid ""
 "eighth note, which has the same name as the first one has exactly twice as "
 "many vibrations per second as the first note."
 msgstr ""
-"En la mayor parte de la música occidental se utiliza una escala de 7 nota y "
-"luego los nombres de las notas empezar de nuevo en el octavo nota. A esto le"
+"En la mayor parte de la música occidental se utiliza una escala de 7 notas, "
+"donde los nombres de las notas empiezan de nuevo en la octava nota. A esto le"
 " llamamos una octava. Curiosamente la octava nota, que tiene el mismo nombre"
-" que la primera tiene exactamente el doble de vibraciones por segundo como "
+" que la primera tiene exactamente el doble de vibraciones por segundo de "
 "la primera nota."
 
 # cc7621106b5646c0b9ad1f95b209d9d8
@@ -246,8 +246,8 @@ msgid ""
 "using these keys on the XO keyboard. We have included the Do-Re-Mi syllables"
 " for you as well."
 msgstr ""
-"Utilice el instrumento que ha elegido para tratar de jugar un 2 octava "
-"escala mayor uso de estas teclas en el teclado XO. Hemos incluido las "
+"Utiliza el instrumento que haz elegido para tratar de tocar 2 octavas "
+"de la escala mayor usando las teclas en el teclado XO. Hemos incluido las "
 "sílabas Do-Re-Mi para usted también."
 
 # d7dcfa900c3a4ca299499a8d419fcaf7
@@ -259,12 +259,12 @@ msgstr "(Primera Octava)"
 # 07c523c45fc0433296efc2c634826408
 #: ../source/tamtammini.rst:62 ../source/tamtammini.rst:69
 msgid "Do      Re      Mi      Fa      Sol     La      Ti      Do"
-msgstr "Do Re Mi Fa Sol La Ti Do"
+msgstr "Do      Re      Mi      Fa      Sol     La      Ti      Do"
 
 # bb04c80eba4042e9b352fdf48239460e
 #: ../source/tamtammini.rst:64
 msgid "Z     X       C       V       B       N       M       ,"
-msgstr "Zxcvbnm,"
+msgstr "Z     X       C       V       B       N       M       ,"
 
 # c0ac00b216b34657be61c47b8d47904b
 #: ../source/tamtammini.rst:67
@@ -274,7 +274,7 @@ msgstr "(Segunda Octava)"
 # 4b873e31f2fa4186998bc299114310ed
 #: ../source/tamtammini.rst:71
 msgid "Q      W       E       R       T       Y       U       I"
-msgstr "Qwertyui"
+msgstr "Q      W       E       R       T       Y       U       I"
 
 # e77658a8799a461cbbcf39edcb604f69
 #: ../source/tamtammini.rst:73
@@ -283,9 +283,9 @@ msgid ""
 "may also want to practice the scale a bit until you feel comfortable with "
 "it."
 msgstr ""
-"Nota: \"Hacer\" se repite en la segunda línea. Deja un out si te gusta. "
-"También es posible que desee practicar la escala un poco hasta que se sienta"
-" cómodo con él."
+"Nota: \"Do\" se repite en la segunda línea. Deja una fuera si quieres. "
+"También es posible que desees practicar la escala un poco hasta que te sientas"
+" cómodo con él teclado."
 
 # da35f70cf78d443984d55fbdbd4a2cba
 #: ../source/tamtammini.rst:79
@@ -300,55 +300,55 @@ msgid ""
 "Do-Re-Mi syllables indicates you hold that note twice as long as the other "
 "notes. (Example: Mi___)"
 msgstr ""
-"Cuando usted se siente cómodo jugando la escala mayor de 2 octavas, prueba "
+"Cuando te sientas cómodo tocando la escala mayor de 2 octavas, prueba "
 "este simple canción. Creemos que es posible reconocerla. La pequeña línea "
-"añade a algunas de las sílabas Do-Re-Mi indica mantiene esa nota doble de "
+"añadida a algunas de las sílabas Do-Re-Mi indica que debes mantener esa nota el doble de "
 "tiempo que las otras notas. (Ejemplo: Mi___)"
 
 # db87000871dc4fbebb009fbc310d9fc2
 #: ../source/tamtammini.rst:83
 msgid "Mi      Re      Do      Re      Mi      Mi      Mi___"
-msgstr "Re Mi Do Re Mi Mi Mi___"
+msgstr "Mi      Re      Do      Re      Mi      Mi      Mi___"
 
 # 3238048ddfd14ba5b6dcb7bc8b921ee6
 #: ../source/tamtammini.rst:85
 msgid "C       X       Z       X       C       C       C___"
-msgstr "CXZXCC C___"
+msgstr "C       X       Z       X       C       C       C___"
 
 # da20bd40f1ee49c2a355835057b006c7
 #: ../source/tamtammini.rst:87
 msgid "Re      Re      Re\\_    Mi      Sol     Sol___"
-msgstr "Re Re Re \\ _ Mi Sol Sol___"
+msgstr "Re      Re      Re\\_    Mi      Sol     Sol___"
 
 # 2c293db21c084cd4b49c6c1a910c38d4
 #: ../source/tamtammini.rst:89
 msgid "X       X       X___    C       B       B___"
-msgstr "X X X___ C B B___"
+msgstr "X       X       X___    C       B       B___"
 
 # e11fe6bb004c491099d6fda3477137fb
 #: ../source/tamtammini.rst:91
 msgid "Mi      Re      Do      Re      Mi      Mi      Mi      Mi"
-msgstr "Re Mi Do Re Mi Mi Mi Mi"
+msgstr "Mi      Re      Do      Re      Mi      Mi      Mi      Mi"
 
 # 6729a6bf0bc8485dab37f92ec32fb424
 #: ../source/tamtammini.rst:93
 msgid "C       X       Z       X       C       C       C       C"
-msgstr "CXZXCCCC"
+msgstr "C       X       Z       X       C       C       C       C"
 
 # f67e90c2f4484393930961ee067851d6
 #: ../source/tamtammini.rst:95
 msgid "Re      Re      Mi      Re      Do___"
-msgstr "Re Re Re Mi Do___"
+msgstr "Re      Re      Mi      Re      Do___"
 
 # 0aaa5ee2144442acafd51d26e1238895
 #: ../source/tamtammini.rst:97
 msgid "X       X       C       X       Z___"
-msgstr "X X C X Z___"
+msgstr "X       X       C       X       Z___"
 
 # 3f79a72a283d42368160929fbee80b17
 #: ../source/tamtammini.rst:99
 msgid "**Challenge:** Play this same song using QWERT for the notes."
-msgstr "** Desafío: ** Juega esta misma canción usando QWERT para las notas."
+msgstr "**Desafío:** Toca esta misma canción usando QWERT para las notas."
 
 # 62a5a74b74694dae8eefe55dfad8f2e5
 #: ../source/tamtammini.rst:101
@@ -358,9 +358,9 @@ msgid ""
 "Experiment with other combinations of instruments to see how they sound "
 "together."
 msgstr ""
-"** Desafío: ** Si usted tiene más de un jugador XO, trate con el mismo "
-"instrumento, pero uno con las teclas ZXCVB y la otra usando QWERT. "
-"Experimente con otras combinaciones de instrumentos para ver cómo suenan "
+"**Desafío:** Si tienes más de un usuario XO, trata con el mismo "
+"instrumento, pero uno con las teclas ZXCVB y el otro usando QWERT. "
+"Experimenta con otras combinaciones de instrumentos para ver cómo suenan "
 "juntos."
 
 # e7fec578239a44a3963da7cc50c85e60
@@ -376,16 +376,16 @@ msgid ""
 "numeral one) chord and a chord based on Sol will be called a V (Roman "
 "numeral five) chord."
 msgstr ""
-"** reto: ** Los acordes se forman cuando 3 o más notas diferentes se juegan "
-"al mismo tiempo. Esto sucede cuando rasgueo de una guitarra, ukelele, o un "
+"**Desafío:** Los acordes se forman cuando 3 o más notas diferentes se tocan "
+"al mismo tiempo. Esto sucede cuando rasgueas una guitarra, ukelele, o un "
 "instrumento similar. Tres o más instrumentos de viento o de cuerda se pueden"
 " combinar para tocar acordes juntos también. Aquí hay 3 acordes simples que "
-"usted puede jugar con las notas que ya conoce. En la música estos acordes "
+"puedes tocar con las notas que ya conoces. En la música estos acordes "
 "también tienen nombres basados ​​en los escalones de la escala de la nota "
-"principal está encendido, esto no siempre es la nota más baja. Por ejemplo, "
+"principal que está sonando, que no siempre es la nota más baja. Por ejemplo, "
 "una nota con Do como la nota principal será llamada I (uno en números "
-"romanos) acorde y un acorde basado en Sol será llamada acorde V (Roman "
-"numeral cinco)."
+"romanos) acorde y un acorde basado en Sol será llamada acorde V (número Romano "
+"cinco)."
 
 # 6f2ea11a4fc04a3790df13d529b913c9
 #: ../source/tamtammini.rst:105
@@ -395,27 +395,27 @@ msgstr "Prueba con estos:"
 # 5b16a591c6294348a0211f6c1797fa45
 #: ../source/tamtammini.rst:107
 msgid "``Sol B      La  N      Ti  M      Sol T``"
-msgstr "`` El Sol B N M Sol Ti T``"
+msgstr "``Sol B      La  N      Ti  M      Sol T``"
 
 # 34979dd33ca747918547ce6724f083b7
 #: ../source/tamtammini.rst:109
 msgid "``Mi  C      Fa  V      Fa  B      Mi  E``"
-msgstr "`` Yo C V Fa Fa B I E``"
+msgstr "``Mi  C      Fa  V      Fa  B      Mi  E``"
 
 # 943ce902fca54d84bb2bc762d9ec6544
 #: ../source/tamtammini.rst:111
 msgid "``Do  Z      Do  Z      Re  X      Do  Q``"
-msgstr "`` Do Do Z Z X Re Do Q``"
+msgstr "``Do  Z      Do  Z      Re  X      Do  Q``"
 
 # c520cf13c21442909c8298a3d8856ac5
 #: ../source/tamtammini.rst:113
 msgid "``I          IV         V          I``"
-msgstr "`` I`` I IV V"
+msgstr "``I          IV         V          I``"
 
 # 4720d2a01f4b46ab9e5db2e8ca3b83b2
 #: ../source/tamtammini.rst:116
 msgid "Playing Other Songs"
-msgstr "Jugar Otras Canciones"
+msgstr "Tocando Otras Canciones"
 
 # b78971bbfd434fd293127981fcba3c43
 #: ../source/tamtammini.rst:118
@@ -424,9 +424,9 @@ msgid ""
 "European children's folk song. It was so popular that two famous composers, "
 "Mozart and Haydn, both it to use in their music."
 msgstr ""
-"Aquí está otra canción ya resuelto para que usted intente. Es una canción "
-"popular infantil europea vieja. Fue tan popular que dos compositores "
-"famosos, Mozart y Haydn, tanto para utilizarla en su música."
+"Aquí hay otra canción ya resuelta para que tu pruebes. Es una vieja canción "
+"popular infantil europea. Fue tan popular que dos compositores "
+"famosos, Mozart y Haydn, la utilizaron en su música."
 
 # f6ac99da7dac4dc0a4c9947dfcd1d1ce
 #: ../source/tamtammini.rst:121
@@ -443,7 +443,7 @@ msgstr "Do      Do      Sol     Sol     La      La      Sol____"
 # 409c5c8c13a54a5c8da13842c88ff7f7
 #: ../source/tamtammini.rst:125 ../source/tamtammini.rst:149
 msgid "Z       Z       B       B       N       N       B_____"
-msgstr "ZZBBNN B_____"
+msgstr "Z       Z       B       B       N       N       B_____"
 
 # 7c62fad70648423bb1f59904d61794a2
 # eb58f46bc03c4b58896eb26969d0bbb3
@@ -452,37 +452,37 @@ msgstr "ZZBBNN B_____"
 #: ../source/tamtammini.rst:127 ../source/tamtammini.rst:133
 #: ../source/tamtammini.rst:139 ../source/tamtammini.rst:145
 msgid "1       2       3       4       1       2       3____4"
-msgstr "1 2 3 4 1 2 3____4"
+msgstr "1       2       3       4       1       2       3____4"
 
 # 8d904ea6650f4f2cb75027270245da90
 # 90b783b1d9684373be219ed841a78d40
 #: ../source/tamtammini.rst:129 ../source/tamtammini.rst:153
 msgid "Fa      Fa      Mi      Mi      Re      Re      Do____"
-msgstr "Fa Fa Mi Mi Re Re Do____"
+msgstr "Fa      Fa      Mi      Mi      Re      Re      Do____"
 
 # 2a098c3eb13e42b1a9cec3a34965ecf1
 # 7326d0b22a8e40f2bb9ae99de43c1ef1
 #: ../source/tamtammini.rst:131 ../source/tamtammini.rst:155
 msgid "V       V       C       C       X       X       Z_____"
-msgstr "VVCCXX Z_____"
+msgstr "V       V       C       C       X       X       Z_____"
 
 # 99e14d4c60c84d539a8dcfe9bb19662f
 # aac88bb6161447bb84845aa9a543ae68
 #: ../source/tamtammini.rst:135 ../source/tamtammini.rst:141
 msgid "Sol     Sol     Fa      Fa      Mi      Mi      Re____"
-msgstr "Sol Sol Fa Fa Mi Mi Re____"
+msgstr "Sol     Sol     Fa      Fa      Mi      Mi      Re____"
 
 # 8ae9feb61a1042e19e928032ccc12afb
 # 87e92bf868ee423b87eac88ca77f6023
 #: ../source/tamtammini.rst:137 ../source/tamtammini.rst:143
 msgid "B       B       V       V       C       C       X _____"
-msgstr "BBVVCCX _____"
+msgstr "B       B       V       V       C       C       X _____"
 
 # 965e0b59f5844a1283d1c653c02f2043
 # 00219f9472814ff58bfa8cf6803e4655
 #: ../source/tamtammini.rst:151 ../source/tamtammini.rst:157
 msgid "1       2       3       4       1       2       3____   4"
-msgstr "1 2 3 4 1 2 4 3____"
+msgstr "1       2       3       4       1       2       3____   4"
 
 # e2ed3ec3dda34c50abb568cbb45069e8
 #: ../source/tamtammini.rst:160
@@ -495,8 +495,8 @@ msgid ""
 "Try to figure out other simple songs on the XO.  Write them down to help you"
 " remember the notes and to share them with other people."
 msgstr ""
-"Trate de averiguar otras canciones sencillas en la XO. Escríbelas para "
-"ayudarle a recordar las notas y compartirlas con otras personas."
+"Trata de averiguar como tocar otras canciones sencillas en la XO. Escríbelas para "
+"ayudarte a recordar las notas y compartirlas con otras personas."
 
 # 7c4a5a347b6949b68e6a8b8f82691cd6
 #: ../source/tamtammini.rst:164
@@ -505,7 +505,7 @@ msgid ""
 "and ideas in the FLOSS manual, \"Fun With TamTamMini\" which will be "
 "available soon."
 msgstr ""
-"Si ha disfrutado trabajando con TamTamMini, usted puede encontrar más "
+"Si haz disfrutado tocando con TamTamMini, puedes encontrar más "
 "información e ideas en el manual FLOSS, \"Diversión con TamTamMini\" que "
 "estará disponible pronto."
 
@@ -519,7 +519,7 @@ msgid ""
 "included."
 msgstr ""
 "Nota: Esta introducción a TamTamMini se ha centrado en la escala mayor que "
-"se utiliza comúnmente en la música con un patrimonio europeo. Para obtener "
+"se utiliza comúnmente en la música con un origen europeo. Para obtener "
 "información sobre la escala pentatónica, que se utiliza en la música popular"
 " de casi todas las culturas de todo el mundo ven el Manual FLOSS, "
 "\"Diversión con TamTamMini\", donde se incluye."
