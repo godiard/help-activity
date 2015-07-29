@@ -20,7 +20,7 @@ msgstr ""
 # 2b97f5e20b524809bca299e372c60129
 #: ../source/portfolio.rst:3
 msgid "Portfolio"
-msgstr "Cartera"
+msgstr "Obras"
 
 # e0eb74abc66d4d9b8cf30c76791d470a
 #: ../source/portfolio.rst:6
@@ -33,13 +33,13 @@ msgid ""
 "The Portfolio Activity creates a slide show from Sugar Journal entries that "
 "have been 'starred'."
 msgstr ""
-"La Actividad de la cartera crea una presentación de diapositivas de las "
-"entradas del azúcar Diario que han sido 'protagonizó'."
+"La Actividad Obras crea una presentación de diapositivas de las "
+"entradas del Diario en Sugar que han sido marcadas como 'favoritas'."
 
 # 6598f10230a04cd9a0929bda9eb81cc5
 #: ../source/portfolio.rst:15
 msgid "Where to get Portfolio"
-msgstr "Dónde obtener Portafolio"
+msgstr "Dónde obtener Obras"
 
 # 9c35c0e686e24e3885a30279eb130c47
 #: ../source/portfolio.rst:17
@@ -48,9 +48,9 @@ msgid ""
 " from the `Sugar Activity Library <http://activities.sugarlabs.org/en-"
 "US/sugar/addon/4437>`_"
 msgstr ""
-"La actividad de la cartera está incluido en las imágenes de OLPC y "
-"disponible para su descarga desde los `Azúcar Actividad Biblioteca <http: //"
-" actividades. sugarlabs. org / en-US / azúcar / addon / 4437> `_"
+"La actividad Obras está incluido en las imágenes de OLPC y "
+"disponible para su descarga desde los `Biblioteca de Actividades Sugar "
+"<http://activities.sugarlabs.org/en-US/sugar/addon/4437>`_"
 
 # 7cd13a0ac2c144babe8ff66fceb70d04
 #: ../source/portfolio.rst:19
@@ -58,8 +58,8 @@ msgid ""
 "The source code is available on the `Sugar Labs Gitorious server "
 "<http://git.sugarlabs.org/portfolio>`_."
 msgstr ""
-"El código fuente está disponible en el servidor de `Sugar Labs Gitorious "
-"<http: // git. sugarlabs. org / cartera> `_."
+"El código fuente está disponible en el servidor de `Gitorious Sugar Labs "
+"<http://git.sugarlabs.org/portfolio>`_."
 
 # c3b674d1598f44e1918fc97d97de2b00
 #: ../source/portfolio.rst:22
@@ -73,7 +73,9 @@ msgid ""
 "to mark that entry for inclusion in the portfolio. The Portfolio Activity "
 "will use the entry title as well as the preview image and description."
 msgstr ""
-"La Actividad de la cartera usará el título de la entrada, así como la imagen"
+"Antes de iniciar la actividad, usa la ☆ a la izquierda de cada entrada en el Diario "
+"para marcar las que qieras incuir en Obras."
+"La Actividad Obras usará el título de la entrada, así como la imagen"
 " de vista previa y la descripción."
 
 # ac3531dc07ee46b2b7acd9a8a5781092
@@ -83,7 +85,7 @@ msgid ""
 "entries is used in the portfolio presentations."
 msgstr ""
 "El texto del título, la imagen de vista previa, y el texto de descripción de"
-" entradas de diario se utiliza en los visionados de porfolios."
+" las entradas del Diario se utiliza en las presentaciones de Obras."
 
 # 7e19991411a64fe89dd436c69a5831cb
 #: ../source/portfolio.rst:32
@@ -91,7 +93,7 @@ msgid ""
 "In the Thumbnail View, you can reorder the slides in your presentation by "
 "dragging."
 msgstr ""
-"En la vista en miniatura, puede reordenar las diapositivas de la "
+"En la vista en miniatura, puedes reordenar las diapositivas de la "
 "presentación arrastrando."
 
 # bdf2d9c3cee64d2f9d5265f4bdf8ac89
@@ -100,7 +102,7 @@ msgid ""
 "With the Edit-description Button, you can directly edit a Journal entry's "
 "description field."
 msgstr ""
-"Con la entrada de edición descripción del botón, puede editar directamente "
+"Con el boton de edición descripción, puede editar directamente el "
 "campo de descripción de una entrada de Diario."
 
 # 37dad77304134c7c9f0612f2d5f23065
@@ -111,15 +113,15 @@ msgid ""
 "show. The delay between slides can be controlled by the interval chosen in "
 "the combo box. (The default is 10 seconds.)"
 msgstr ""
-"Utilice el botón de reproducción automática para iniciar / pausar una "
+"Utiliza el botón de reproducción automática para iniciar / pausar una "
 "presentación de diapositivas. El retraso entre diapositivas puede ser "
-"controlado por el intervalo elegido en el cuadro combinado. (El valor "
+"controlado por el intervalo elegido en el cuadro de opciones. (El valor "
 "predeterminado es de 10 segundos. )"
 
 # a668a5956bd54e9c852c12a7ab850b8b
 #: ../source/portfolio.rst:42
 msgid "**Did you know that:**"
-msgstr "** ¿Sabía usted que: **"
+msgstr "**¿Sabías que:**"
 
 # 2631ac3868b248eeb61f48be0d935f1d
 #: ../source/portfolio.rst:44
@@ -127,8 +129,8 @@ msgid ""
 "you can record audio notes for each slide; the notes are played back "
 "whenever the slide is viewed;"
 msgstr ""
-"usted puede grabar notas de audio para cada diapositiva; las notas se "
-"reproducen cada vez que la diapositiva se ve;"
+"Puedes grabar notas de audio para cada diapositiva; las notas se "
+"reproducen cada vez que la diapositiva se muestra;"
 
 # 29305c23fa40473180efda71d55a2bce
 #: ../source/portfolio.rst:45
@@ -142,7 +144,7 @@ msgstr ""
 msgid ""
 "a warning is displayed if there are no starred entries in your Journal;"
 msgstr ""
-"se muestra una advertencia si no hay entradas con estrellas en su diario;"
+"se muestra una advertencia si no hay entradas con estrellas en tu Diario;"
 
 # 570f9ab7e0af45fcbbb28436b90badfc
 #: ../source/portfolio.rst:47
@@ -156,7 +158,7 @@ msgstr ""
 msgid ""
 "in the thumbnail view, you can reorder your slides (by dragging them); and"
 msgstr ""
-"en la vista en miniatura, puede reordenar las diapositivas (arrastrándolos);"
+"en la vista en miniatura, puedes reordenar las diapositivas (arrastrándolos);"
 " y"
 
 # 44f888c5573347a785c5a1f4cc4217da
@@ -165,13 +167,13 @@ msgid ""
 "you can edit the descriptions for each slide (and save your edits to the "
 "Journal)."
 msgstr ""
-"puede editar las descripciones de cada diapositiva (y guardar las ediciones "
-"de la revista)."
+"puedes editar las descripciones de cada diapositiva (y guardar las ediciones "
+"en el Diario)."
 
 # 655f858c89674266927516bf3575423f
 #: ../source/portfolio.rst:50
 msgid "for group projects, try using the Bulletin-board Activity."
-msgstr "para proyectos de grupo, trate de usar la Actividad Boletín bordo."
+msgstr "para proyectos de grupo, trata de usar la Actividad Bulletin-board."
 
 # 8fe16564dae540a2960de506c395303c
 #: ../source/portfolio.rst:53
@@ -191,7 +193,7 @@ msgstr "de izquierda a derecha"
 # 694f14cf650f4bcfb0e436163e3c9c6e
 #: ../source/portfolio.rst:62
 msgid "**Activity-toolbar Button**"
-msgstr "** Botón Activity-barra de herramientas **"
+msgstr "**Botón Actividad**"
 
 # b2ca79383c514bacb11d0e2ba700691f
 # 28e24e341c7044a59ba31f205926fe75
@@ -199,25 +201,25 @@ msgstr "** Botón Activity-barra de herramientas **"
 #: ../source/portfolio.rst:63 ../source/portfolio.rst:71
 #: ../source/portfolio.rst:73
 msgid "(toolbar described below)"
-msgstr "(Barra de herramientas se describe a continuación)"
+msgstr "(la barra de herramientas se describe a continuación)"
 
 # 19ef2e64a26d46aba847edde3af20bb6
 #: ../source/portfolio.rst:64
 msgid "**Previous-slide Button**"
-msgstr "** Previous Button-slide **"
+msgstr "**Botón Diapositiva anterior**"
 
 # bd7ca7739f7e483cb15de3af45acd299
 #: ../source/portfolio.rst:65
 msgid ""
 "returns to the previous slide shown (also activated by typing <Ctrl-p>)"
 msgstr ""
-"vuelve a la diapositiva anterior muestra (también activado tecleando "
+"vuelve a la diapositiva anterior(también activado tecleando "
 "<Ctrl-p>)"
 
 # 3b920bee343b400e86e2e413fc91aed5
 #: ../source/portfolio.rst:66
 msgid "**Next-slide Button**"
-msgstr "** Botón de próxima diapositiva **"
+msgstr "**Botón Diapositiva próxima**"
 
 # a1db59abd6914ec399ccfe3ab4a82387
 #: ../source/portfolio.rst:67
@@ -230,7 +232,7 @@ msgstr ""
 # 277b94ca219f40f185fdcd1d945e7010
 #: ../source/portfolio.rst:68
 msgid "**Auto-play Button**"
-msgstr "** Auto-play Botón **"
+msgstr "**Botón Cambiar automaticamente**"
 
 # 2bdf16a46e2a40e6ab91fadb867cf4fa
 #: ../source/portfolio.rst:69
@@ -242,27 +244,27 @@ msgstr ""
 # 1baa17b5b3ed4af0956b6e0e55c07289
 #: ../source/portfolio.rst:70
 msgid "**Customize-toolbar Button**"
-msgstr "** Botón Personalizar barra de herramientas **"
+msgstr "**Botón Personalizar**"
 
 # dbbdc1bf0cba462eab0ea2d7d38ff1f6
 #: ../source/portfolio.rst:72
 msgid "**Record-toolbar Button**"
-msgstr "** Botón de Registros barra de herramientas **"
+msgstr "**Botón de Grabacion**"
 
 # e22f82d9e55e46e98081c169882ab64c
 #: ../source/portfolio.rst:74
 msgid "**Portfolio-view Radio Button**"
-msgstr "** Cartera-view Radio Button **"
+msgstr "**Button Visualizar**"
 
 # e37d2c712830482eb153e8309a9b4437
 #: ../source/portfolio.rst:75
 msgid "used to switch to portfolio view (default)"
-msgstr "utilizado para cambiar a la vista de la cartera (por defecto)"
+msgstr "utilizado para cambiar a la vista de presentacion (por defecto)"
 
 # 4f3eafed870d454e8ac48abe565abd2c
 #: ../source/portfolio.rst:76
 msgid "**Thumbnail-view Radio Button**"
-msgstr "** Thumbnail-view Radio Button **"
+msgstr "**Boton Miniaturas**"
 
 # 61c19d2bdeb442909f609288bfb8c672
 #: ../source/portfolio.rst:77
@@ -276,19 +278,19 @@ msgstr ""
 # 9631da773d8d45de97f696252691c484
 #: ../source/portfolio.rst:78
 msgid "**Full-screen-view Button**"
-msgstr "**-Pantalla-Vista completa Botón **"
+msgstr "**Boton Pantalla completa**"
 
 # 98920af3af784d56ab5cd88fff1cb929
 #: ../source/portfolio.rst:79
 msgid "hides the toolbars (Return from full-screen by hitting the Esc key.)"
 msgstr ""
 "oculta las barras de herramientas (Retorno de pantalla completa pulsando la "
-"tecla Esc. )"
+"tecla Esc.)"
 
 # b3ee416b567a45d3bf9b2fc12662e115
 #: ../source/portfolio.rst:80
 msgid "**Update-description Button**"
-msgstr "** Update-descripción del botón **"
+msgstr "**Boton actualizar descripción**"
 
 # a60ed834c9494953895cc32bbead32d5
 #: ../source/portfolio.rst:81
@@ -297,13 +299,13 @@ msgid ""
 "the Save-annotations Button to make these edits permanent)."
 msgstr ""
 "Se utiliza para editar la descripción de la entrada que se está viendo "
-"(Nota: utilice el botón Save-anotaciones para hacer estos cambios "
+"(Nota: utiliza el botón Grabar-anotaciones para hacer estos cambios "
 "permanentes)."
 
 # 1332b548f2c649dc94701be56f699029
 #: ../source/portfolio.rst:83
 msgid "**Stop Button**"
-msgstr "** Botón Stop **"
+msgstr "**Botón Salir**"
 
 # 4b25c904294845e2972fb6be2bd3d2bc
 #: ../source/portfolio.rst:83
@@ -313,12 +315,12 @@ msgstr "utilizado para salir de la actividad"
 # b004845b98544616bac4e0ab418ced3b
 #: ../source/portfolio.rst:86
 msgid "Activity Toolbar"
-msgstr "Actividad Toolbar"
+msgstr "Barra de herramientas Actividad"
 
 # c383e23bd502495d8584531c75b98b2f
 #: ../source/portfolio.rst:88
 msgid "**Activity name field**"
-msgstr "** Actividad campo de nombre **"
+msgstr "**Nombre de la Actividad**"
 
 # 4481ca003d804672b4479709670d7207
 #: ../source/portfolio.rst:89
@@ -332,7 +334,7 @@ msgstr ""
 # b5ca6c953c6045bda193c50fa15a6023
 #: ../source/portfolio.rst:90
 msgid "**Share Button**"
-msgstr "** Share Button **"
+msgstr "**Boton Compartir**"
 
 # 08be2a8900ef46feb1299010ae92eb9a
 #: ../source/portfolio.rst:91
@@ -340,13 +342,13 @@ msgid ""
 "as shown, disabled (Portfolio Activity version since v27 support sharing: "
 "joiners can add comments)"
 msgstr ""
-"como se muestra, discapacitados (versión Actividad de la cartera desde el "
-"intercambio de apoyo v27: carpinteros pueden agregar comentarios)"
+"como se muestra, deshabilitado (la Actividad Obras soporta desde la version 27 "
+"agregar comentarios por de quienes comparten la actividad)"
 
 # 7651c99c1f2340ac96d613d771424288
 #: ../source/portfolio.rst:92
 msgid "**Reflection Button**"
-msgstr "** Botón Reflexión **"
+msgstr "**Botón Descripción**"
 
 # e1a61a46f40f4894993bda683e9864d6
 #: ../source/portfolio.rst:93
@@ -355,12 +357,12 @@ msgid ""
 "Portfolio"
 msgstr ""
 "utilizado para escribir las descripciones para la entrada Diario de esta "
-"instancia de la cartera"
+"instancia de Obras"
 
 # 97f4f90bd808450b8ab0d108f1b65335
 #: ../source/portfolio.rst:94
 msgid "**Save-to-PDF Button**"
-msgstr "** Save-to-PDF Button **"
+msgstr "**Botón Grabar como PDF**"
 
 # 664d45def5ed4892bdeb8137c39bdd73
 #: ../source/portfolio.rst:95
@@ -368,19 +370,19 @@ msgid ""
 "used to save a copy of your presentation to the Sugar Journal as an PDF "
 "document"
 msgstr ""
-"se utiliza para guardar una copia de su presentación al azúcar Diario como "
+"se utiliza para guardar una copia de tu presentación en el Diario de Sugar como "
 "un documento PDF"
 
 # 7107fe9c423d4a36ae0c8e367f50df2e
 #: ../source/portfolio.rst:97
 msgid "**Save-annotations Button**"
-msgstr "** Save-anotaciones Botón **"
+msgstr "**Botón Grabar anotaciones**"
 
 # 3e1dd1e07304466393f6aa8940aef0ea
 #: ../source/portfolio.rst:97
 msgid "used to save updates to the Journal entry descriptions"
 msgstr ""
-"se utiliza para guardar cambios a las descripciones de las entradas de "
+"se utiliza para guardar cambios a las descripciones de las entradas del "
 "diario"
 
 # f12f367803e443a390d63e6321e6dc61
@@ -391,7 +393,7 @@ msgstr "Barra Opciones"
 # 84eac9a332714cd9a599f9b032b007a6
 #: ../source/portfolio.rst:104
 msgid "**Timer Combo-box**"
-msgstr "** Timer Combo-box **"
+msgstr "**Selección de Tiempo**"
 
 # d5187a2f167343e0b3ef98ce742e7c54
 #: ../source/portfolio.rst:105
@@ -399,14 +401,14 @@ msgid ""
 "lets you select a delay time between slides when using auto play (Choose "
 "two-seconds, ten-seconds, thirty-seconds, or one-minute delay)."
 msgstr ""
-"le permite seleccionar un tiempo de retardo entre las diapositivas cuando se"
-" utiliza la reproducción automática (Elija y dos segundos, diez segundos, "
-"treinta segundos, o retraso de un minuto)."
+"te permite seleccionar un tiempo de retardo entre las diapositivas cuando se"
+" utiliza la reproducción automática (Elije entre dos segundos, diez segundos, "
+"treinta segundos, o un minuto)."
 
 # 522297b59c1a492d90514c615a55d470
 #: ../source/portfolio.rst:107
 msgid "**Refresh Button**"
-msgstr "** Botón Actualizar **"
+msgstr "**Botón Actualizar**"
 
 # bce20c71f7884d95906f189c1c90ceed
 #: ../source/portfolio.rst:107
@@ -414,8 +416,8 @@ msgid ""
 "scans the Journal to pull in any changes made since the Portfolio activity "
 "was launched."
 msgstr ""
-"escanea el Diario para tirar en los cambios realizados desde que se puso en "
-"marcha la actividad de la cartera."
+"escanea el Diario para obtener los cambios realizados desde que se puso en "
+"marcha la actividad Obras."
 
 # a10759c922174787b3a8b35fedcd05f3
 #: ../source/portfolio.rst:110
@@ -436,22 +438,22 @@ msgstr ""
 # db05af7274634a3187c62560ba0fb598
 #: ../source/portfolio.rst:116
 msgid "**Playback Button**"
-msgstr "** Botón de reproducción **"
+msgstr "**Botón de reproducción**"
 
 # eabfc52a1d204052bcb00681798bef72
 #: ../source/portfolio.rst:117
 msgid "active when there is audio associated with the current slide"
-msgstr "activa cuando hay audio asociado con la diapositiva actual"
+msgstr "activo cuando hay audio asociado con la diapositiva actual"
 
 # eb02db35b8fe4f989c27634bae5600b8
 #: ../source/portfolio.rst:119
 msgid "**Save Button**"
-msgstr "** Guardar Botón **"
+msgstr "**Botón Guardar**"
 
 # 3295a45b0201406c8f68d58f812261fb
 #: ../source/portfolio.rst:119
 msgid "active when there is a new recording to save"
-msgstr "activa cuando hay una nueva grabación para guardar"
+msgstr "activo cuando hay una nueva grabación para guardar"
 
 # f0c5fd32b9fd496c96ee1d404c25a54e
 #: ../source/portfolio.rst:122
@@ -468,11 +470,11 @@ msgid ""
 "\"Save as PDF\" Button from the Activity toolbar menu and the content of the"
 " portfolio will be saved as a document in the Journal."
 msgstr ""
-"Cada vez que su puesta en marcha de la actividad de la cartera, se "
-"actualizará para reflejar el contenido actual de su Diario. Si desea guardar"
-" una cartera que representa un momento particular en el tiempo (o desea "
-"compartir su cartera con otra persona), es necesario guardarlo como un "
-"documento PDF. Haga clic en el botón \"Guardar como PDF\" en el menú de la "
+"Cada vez que inicias la actividad Obras, se "
+"actualizará para reflejar el contenido actual de tu Diario. Si deseas guardar"
+" Obras que representan un momento particular en el tiempo (o deseas "
+"compartir tu cartera con otra persona), es necesario guardarlo como un "
+"documento PDF. Haz clic en el botón \"Guardar como PDF\" en el menú de la "
 "barra de herramientas de actividad y el contenido de la cartera se guardará "
 "como un documento en el Diario."
 
@@ -480,7 +482,7 @@ msgstr ""
 #: ../source/portfolio.rst:128
 msgid "**Tip:** Open your Journal to make sure the portfolio has been saved."
 msgstr ""
-"** Consejo: ** Abra su Diario para asegurarse de que la cartera se ha "
+"**Consejo:** Abra tu Diario para asegurarte de que las Obras se han "
 "guardado."
 
 # 67e85fc7c47e48dbb36b06af537b4cfe
@@ -489,14 +491,14 @@ msgid ""
 "**Tip:** You may want to copy the PDF file to a USB to open it in a "
 "different XO, or any other computer, using the Browse or Read activity."
 msgstr ""
-"** Consejo: ** Es posible que desee copiar el archivo PDF a un USB para "
+"**Consejo:** Es posible que desees copiar el archivo PDF a un USB para "
 "abrirlo en una XO diferente, o cualquier otro ordenador, utilizando la "
-"actividad Navegar o Lectura."
+"actividad Navegar o Leer."
 
 # 660211d8201e4004b95503229fdcaee5
 #: ../source/portfolio.rst:135
 msgid "Learning with Portfolio"
-msgstr "Aprendiendo con la cartera"
+msgstr "Aprendiendo con Obras"
 
 # 3e0230cdf17b458a92b739245a749264
 #: ../source/portfolio.rst:137
@@ -510,8 +512,15 @@ msgid ""
 "is an open loop, and an open-loop system can neither identify and correct "
 "errors nor adapt to change."
 msgstr ""
+"La mayoría de los expertos estan de acuerdo en que la mejor aproximación "
+"al aprendizaje involucra hacer y luego hacer un paso atrás para reflexionar "
+"acerca de lo hecho ¿Que aprendí? ¿Como ppuedo usarlo? ¿Que preguntas tengo? "
+"Ayudando a los estudiantes a hacerse buenas preguntas acerca de las cosas "
+"que han hecho, en oposición a recordar las respuestas correctas, los estamos "
+"ayudando a construir sus herramientas de pensamienento crítico que los "
+"habilitará a ser personas que resuelven problemas independientemente."
 "Sin reflexión, el aprendizaje es un bucle abierto, y un sistema de bucle "
-"abierto y no las puede identificar y corregir errores ni adaptarse al "
+"abierto no puede identificar ni corregir errores, ni adaptarse al "
 "cambio."
 
 # 2424f37599734d1c9b541e87c28dc9f8
@@ -528,8 +537,17 @@ msgid ""
 "have learned as a “story” is a simple way to help reflection become a norm "
 "in their education."
 msgstr ""
+"Sugar facilita el aprendizaje reflexivo, asegurando que todo lo que cada niño "
+"hace es guardado en un Diario electrónico, que incluye una captura de pantalla "
+"del trabajo del niño. "
 "Después de cada actividad, se anima a los niños a compartir sus "
 "observaciones, que se registran en un portafolio electrónico."
+"Desde estas grabaciones, los niños pueden expandir ese Portafolio en una narrativa "
+"multimedia que muestra lo que han hecho, como lo han hecho y lo que piensan acerca "
+"de lo que han creado, convirtiendose en curadores de su propio trabajo. "
+"El proceso por el cual el niño cuenta acerca de lo que ha aprendido como una "
+"\"historia\" es una forma simple en la que la reflexión se puede transformar en "
+"una norma en su educación."
 
 # 7776353e94dc408c900ca967589269bf
 #: ../source/portfolio.rst:141
@@ -546,12 +564,14 @@ msgid ""
 "and teacher can see what has changed over the course of the years, trends, "
 "and areas for improvement."
 msgstr ""
-"Con la construcción de la acumulación automática de trabajo en la revista El"
-" azúcar, el proceso de la cartera puede ser fácilmente integrado en la "
+"Construyendo desde la acumulación automática de trabajo en el Diario de"
+" Sugar, el proceso de Obras puede ser fácilmente integrado en la "
 "rutina de la clase. Puede ser utilizado como una herramienta de evaluación "
 "para ayudar a los maestros, padres y administradores escolares a comprender "
-"mejor la profundidad y amplitud de lo que el niño ha aprendido. El maestro "
-"puede añadir diapositivas de evaluación de adición a la cartera de abordar "
+"mejor la profundidad y amplitud de lo que el niño ha aprendido. En una \"muestra "
+"de Obras\", los padres pueden ser invitados a ver las presentaciones de sus "
+"hijos y a hacerles preguntas acerca de su aprendizaje. El maestro "
+"puede añadir diapositivas de evaluación de adición a las Obras de abordando "
 "temas como hábitos de trabajo y crecimiento personal. Esto puede convertirse"
 " en parte de un archivo que viaja con un niño en los diferentes grados. A "
 "través de la yuxtaposición, el niño y el maestro pueden ver lo que ha "
@@ -567,9 +587,9 @@ msgid ""
 "school-wide presentation that makes all of the learning visible to "
 "administrators and community members during a social event."
 msgstr ""
-"Se recomienda que periódicamente (una vez por semana, mes, semestre) que los"
-" niños se les pide que seleccionar y editar elementos de una presentación de"
-" la cartera. Por ejemplo, una presentación semanal podría hacerse a "
+"Se recomienda que periódicamente (una vez por semana, mes, semestre) que a los"
+" niños se les pida que seleccionen y editen elementos de una presentación de"
+" Obras. Por ejemplo, una presentación semanal podría hacerse a "
 "compañeros de clase; una mensual a los padres; y tal vez una vez por "
 "semestre, una presentación de toda la escuela que hace que todo el "
 "aprendizaje visible para los administradores y miembros de la comunidad "
@@ -581,13 +601,13 @@ msgid ""
 "Periodic PDF snapshots are also a great way to preserve a record of each "
 "child's work, and as a vehicle for assessing progress."
 msgstr ""
-"PDF instantáneas periódicas son también una gran manera de preservar un "
+"Archivos PDF son \"instantáneas\" periódicas y son también una gran manera de preservar un "
 "registro del trabajo de cada niño, y como vehículo para evaluar el progreso."
 
 # 77393c7c33f1415190f3e436abb42f6e
 #: ../source/portfolio.rst:148
 msgid "Extending Portfolio"
-msgstr "La ampliación de la cartera"
+msgstr "Extendiendo Obras"
 
 # 0c54dcdf4cb54f299f9deb2f91f96f0d
 #: ../source/portfolio.rst:150
@@ -599,7 +619,7 @@ msgid ""
 " order of the slides can be modified from the Thumbnail view. Modifying "
 "Portfolio"
 msgstr ""
-"Además de utilizar la cartera como una herramienta para la reflexión, que "
+"Además de utilizar Obras como una herramienta para la reflexión, "
 "puede ser utilizado como una herramienta de presentación más de propósito "
 "general. Por ejemplo, una colección de fotografías se puede anotar (mediante"
 " el uso de los campos de título y descripción en la vista de detalle Diario "
@@ -613,14 +633,14 @@ msgid ""
 "Manuq made some mock-ups of other layouts. It would be fun to add "
 "alternative layout options (or even add support for style sheets)."
 msgstr ""
-"Manuq hizo algunas maquetas de otros diseños. Sería divertido para agregar "
-"opciones de diseño de alternativas (o incluso añadir soporte para hojas de "
+"Manuq hizo algunas maquetas de otros diseños. Sería divertido agregar "
+"opciones de distribución alternativas (o incluso añadir soporte para hojas de "
 "estilo)."
 
 # 1ec99f62bc7f46e3b0697409ed676af8
 #: ../source/portfolio.rst:155
 msgid "See http://wiki.sugarlabs.org/go/Activities/Portfolio"
-msgstr "Ver http: // wiki. sugarlabs. org / go / Actividades / Cartera"
+msgstr "Ver http://wiki.sugarlabs.org/go/Activities/Portfolio"
 
 # 2fc94dfc62c14110bea93b9da22c70ea
 #: ../source/portfolio.rst:157
@@ -648,11 +668,11 @@ msgid ""
 "git. It forces you to stop, reflect, and then articulate to others what you "
 "have done and why."
 msgstr ""
-"La reflexión es una parte importante del aprendizaje y un buen hábito de "
-"establecer, en general,. Un análogo a las descripciones de escritura en el "
-"Diario - el texto que se muestra en las presentaciones de la cartera - está "
-"escribiendo mensajes de subidas en git. Te obliga a parar, reflexionar, y "
-"luego articular a los demás lo que has hecho y por qué."
+"La reflexión es una parte importante del aprendizaje y un buen hábito a "
+"establecer, en general. Un análogo a las descripciones de escritura en el "
+"Diario - el texto que se muestra en las presentaciones de la cartera - es "
+"el mensaje mensajes de commit en git. Te obliga a parar, reflexionar, y "
+"luego comunicar a los demás lo que has hecho y por qué."
 
 # a95546d153f84cd19502af2bd5662b99
 #: ../source/portfolio.rst:167
@@ -669,9 +689,9 @@ msgid ""
 msgstr ""
 "Puede reportar errores y hacer las peticiones de características en nuestro "
 "sistema de seguimiento de errores (Es necesario crear una cuenta en primer "
-"lugar). Para una lista de todos los tickets abiertos de Cartera puede "
+"lugar). Para una lista de todos los tickets abiertos de Obras puede "
 "utilizar componente de consulta = Portafolio. También te invitamos a dejar "
-"comentarios y / o sugerencias sobre la charla: Actividades página / Cartera."
+"comentarios y / o sugerencias en http://wiki.sugarlabs.org/index.php?title=Talk:Activities/Portfolio."
 
 # e1fef4f767f54c088dd6232ec5e54cdd
 #: ../source/portfolio.rst:172
@@ -684,5 +704,5 @@ msgid ""
 "Portfolio was written and is maintained by User:Walter. He was inspired in "
 "part by the work of BU Prof. Stefanakis."
 msgstr ""
-"Cartera se escribió y se mantiene por usuario: Walter. Se inspiró en parte "
+"Cartera fué escrita y está mantenida por Walter Bender. Se inspiró en parte "
 "por el trabajo de BU Prof. Stefanakis."
