@@ -25,7 +25,7 @@ msgstr "StarChart"
 # ed9025f24dff4f2d96bd8874e71b3c8c
 #: ../source/starchart.rst:6
 msgid "About"
-msgstr "Acerca de"
+msgstr "Acerca de StarChart"
 
 # 1f7ca620c2e340399c698fba1d5c895d
 #: ../source/starchart.rst:8
@@ -34,9 +34,9 @@ msgid ""
 "of the visible stars, some of the larger and brighter deep-sky objects "
 "(DSOs), the \"classical\" planets, the sun and the moon."
 msgstr ""
-"| Star_ico | Esta actividad se mostrará un mapa del cielo que muestra la "
+"|Star_ico| Esta actividad mostrará un mapa del cielo con la "
 "posición de las estrellas visibles, algunos de los objetos más grandes y más"
-" brillantes del cielo profundo (DSO), los planetas \"clásicos\", el sol y la"
+" brillantes del cielo profundo (DSO), los \"clásicos\" planetas , el sol y la"
 " luna."
 
 # 357c092f938d4580b1d59a723e587ef7
@@ -46,9 +46,9 @@ msgid ""
 "time zone offset from GMT) that you wish to have a plot for. Alternatively, "
 "you can get a plot which is updated once a minute showing the current sky."
 msgstr ""
-"Puede especificar una ubicación (longitud y latitud) y la hora (incluyendo "
-"desplazamiento desde la zona horaria GMT) que usted desea tener una parcela "
-"para. Alternativamente, usted puede conseguir una parcela que se actualiza "
+"Puedes especificar una ubicación (longitud y latitud) y la hora (incluyendo "
+"desplazamiento desde la zona horaria GMT) en que deseas tener el dibujo. "
+"Alternativamente, puedes conseguir una imagen que se actualiza "
 "una vez por minuto que muestra el cielo actual."
 
 # 3a9f1be929174924a022c3c1ca3efbc1
@@ -58,10 +58,10 @@ msgid ""
 "to find an object whose name you know or by using the \"Identify\" feature "
 "to get the name of something you see on the chart."
 msgstr ""
-"Usted también puede aprender su camino en el cielo utilizando la función "
-"\"Buscar\" para encontrar un objeto cuyo nombre usted sabe o utilizando la "
-"función \"Identificar\" para obtener el nombre de algo que se ve en el "
-"gráfico."
+"También puedes aprender por tu cuenta en el cielo utilizando la función "
+"\"Buscar\" para encontrar un objeto cuyo nombre tu sabes o utilizando la "
+"función \"Identificar\" para obtener el nombre de algo que se ve en la "
+"pantalla."
 
 # 5d3abcade85d425b899e91a552eab473
 #: ../source/starchart.rst:16
@@ -70,9 +70,9 @@ msgid ""
 "can provide a magnified view encompassing 7 degrees of the sky centered on a"
 " point you specify."
 msgstr ""
-"Si usted tiene acceso a un pequeño telescopio o unos prismáticos, StarChart "
-"puede proporcionar una vista ampliada que abarca 7 grados en el cielo se "
-"centraron en un punto que especifique."
+"Si tienes acceso a un pequeño telescopio o unos prismáticos, StarChart "
+"puede proporcionar una vista ampliada que abarca 7 grados del cielo "
+"centrado en un punto que se especifique."
 
 # f1e6b098050746c08cd2b62c06d0975f
 #: ../source/starchart.rst:18
@@ -80,8 +80,8 @@ msgid ""
 "The latest version (StarChart 16) can be downloaded from `here "
 "<http://activities.sugarlabs.org/en-US/sugar/addon/4300>`_."
 msgstr ""
-"La última versión (StarChart 16) se puede descargar desde aquí `<http: // "
-"actividades. sugarlabs. org / en-US / azúcar / addon / 4300> `_."
+"La última versión (StarChart 16) se puede descargar desde aquí "
+"`<http://activities.sugarlabs.org/en-US/sugar/addon/4300>`_."
 
 # 0934fb2fb9cc409790645dbc350b2381
 #: ../source/starchart.rst:22
@@ -99,11 +99,11 @@ msgid ""
 "large, reasonably high resolution color display."
 msgstr ""
 "StarChart fue creado por un programador y astrónomo aficionado profesional "
-"que le gusta ir de vacaciones en lugares muy alejados de su ciudad natal y "
+"al que le gusta ir de vacaciones a lugares muy alejados de su ciudad natal y "
 "agradece la oportunidad de ver el cielo desde estos lugares. La XO es un "
-"accesorio de viaje maravilloso por apoyar este tipo de cosas ya que es "
-"ligero, compacto y frugal de energía de la batería al tiempo que proporciona"
-" una pantalla a color razonablemente grande, razonablemente alta resolución."
+"accesorio de viaje maravilloso por apoyar este tipo de planes ya que es "
+"ligero, compacto y frugal con la energía de la batería al tiempo que proporciona"
+" una pantalla a color razonablemente grande, y con razonablemente alta resolución."
 
 # 17172220a7e44994bbdde04b4d43d35b
 #: ../source/starchart.rst:26
@@ -114,9 +114,9 @@ msgid ""
 "different location) or as a way to reprise the look of the sky as it was at "
 "some time in the past."
 msgstr ""
-"Esta actividad tiene como objetivo apoyar el observador del cielo que no "
+"Esta actividad tiene como objetivo apoyar al observador del cielo que no "
 "tiene ningún instrumento mejor que sus propios ojos. Se puede utilizar como "
-"una guía para el cielo de arriba, como una herramienta para la planificación"
+"una guía para el cielo actual, como una herramienta para la planificación"
 " de las observaciones futuras (incluyendo observaciones desde una ubicación "
 "diferente) o como una forma para repetir el aspecto del cielo como lo fue en"
 " algún momento en el pasado."
@@ -124,7 +124,7 @@ msgstr ""
 # e1bad0b46d82461ca0e0bf2bad74f8e7
 #: ../source/starchart.rst:30
 msgid "Using Star Chart"
-msgstr "El uso de la carta de estrella"
+msgstr "El uso de StarChart"
 
 # 2120d0ac9a844d2ca477a643dcf9433f
 #: ../source/starchart.rst:33
@@ -140,10 +140,10 @@ msgid ""
 " plan to always use \"specify time\". But it's still an untidy way to "
 "operate your computer.)"
 msgstr ""
-"Asegúrese de que su XO se ha establecido en el desplazamiento de zona "
+"Asegúrate de que tu XO tiene establecido el desplazamiento de zona "
 "horaria correcta y la hora local correcta! Los algoritmos astronómicos "
 "necesitan para calcular GMT (UT) y no pueden hacer eso si \"ahora\" no es el"
-" momento adecuado. (Esto sólo es un problema si usted no planea usar siempre"
+" momento adecuado. (Esto sólo es un problema si tu no planeas usar siempre"
 " \"especificar el tiempo\". Pero sigue siendo una forma desordenada para "
 "operar el equipo. )"
 
@@ -160,7 +160,7 @@ msgid ""
 "usual procedure for downloading and installing an Extra Activity."
 msgstr ""
 "Para obtener los mejores resultados, quite cualquier versión anterior de "
-"StarChart puede que tenga instalado. Reinicie X (pulsa Ctrl-Alt-Retroceso). "
+"StarChart puede que tengas instalado. Reinicia X (pulsa Ctrl-Alt-Retroceso). "
 "Luego, basta con seguir el procedimiento habitual para la descarga e "
 "instalación de una actividad extra."
 
@@ -169,7 +169,7 @@ msgstr ""
 msgid ""
 "Once you have installed StarChart, start it and select the clock button."
 msgstr ""
-"Una vez que haya instalado StarChart, iniciarlo y seleccione el botón del "
+"Una vez que hayas instalado StarChart, inicialo y seleccione el botón del "
 "reloj."
 
 # 7232df55bb3d4ee4b14281f57ff06887
@@ -182,13 +182,13 @@ msgid ""
 "respect to GMT.) If not, stop the activity and correct your time and time-"
 "zone using the Sugar control panel before proceeding."
 msgstr ""
-"Es el tiempo (AAAA / MM / DD HH: MM) la correcta año, mes, día, hora y "
-"minuto de su ubicación (se de tiempo de 24 horas - 1:00 PM es 13:00 en ese "
-"sistema)? Se compensa la zona que muestra las horas correctas y minutos que "
+"¿Es correcto el tiempo (AAAA/MM/DD HH:MM) y el año, mes, día, hora y "
+"minuto de tu ubicación (se usa tiempo de 24 horas - 1:00 PM es 13:00)"
+"? ¿Está compensada la zona que muestra las horas correctas y minutos con "
 "el entorno local está desplazado del GMT? (Sugerencia: Hora estándar en los "
 "EE.UU. es \"-5: 00\" con respecto a GMT. ) Si no es así, detener la "
-"actividad y corregir su tiempo y el tiempo-zona utilizando el panel de "
-"control de azúcar antes de continuar."
+"actividad y corregir su tiempo y la zona horaria utilizando el panel de "
+"control de Sugar antes de continuar."
 
 # 24caf55d76bc4a2a8b7d240170ef56ba
 #: ../source/starchart.rst:49
@@ -204,15 +204,15 @@ msgid ""
 "longitude information from which you can interpolate your specific "
 "coordinates."
 msgstr ""
-"Si la hora y la fecha son correctas, el gráfico será mostrar el cielo en "
-"busca de un lugar en Massachusetts, EE.UU. a partir de ahora. Si no sucede "
-"estar en ese lugar, usted tendrá que entrar la longitud y latitud. Haga clic"
-" en \"dónde\" para ver los controles para hacer esto. Usted debe ser capaz "
-"de obtener sus coordenadas de cualquier buen mapa, Google Earth o "
+"Si la hora y la fecha son correctas, el gráfico mostrará el cielo en "
+"un lugar en Massachusetts, EE.UU. a partir de ahora. Si tu no estas en "
+"ese lugar, tendrás que entrar la longitud y latitud. Haz clic"
+" en \"dónde\" para ver los controles para hacer esto. Debes ser capaz "
+"de obtener tus coordenadas de cualquier buen mapa, Google Earth o "
 "simplemente utilizar las coordenadas publicadas por cualquier ciudad "
-"relativamente cercana o ciudad. Otra posibilidad es la de un sitio en "
-"Internet como http: // www. MapQuest. com / atlas que ofrece un mapa con "
-"información de latitud y longitud desde donde se puede interpolar sus "
+"relativamente cercana a tu ciudad. Otra posibilidad es la de un sitio en "
+"Internet como http://www.mapquest.com/atlas que ofrece un mapa con "
+"información de latitud y longitud desde donde se puedes interpolar tus "
 "coordenadas específicas."
 
 # 7e35e200b97a4e1ca05dd3562217a485
@@ -228,9 +228,9 @@ msgstr ""
 "No seas obsesivo acerca de la precisión para esto: la carta de la estrella "
 "no se verá noticibly diferente si te equivocas en uno o dos grados en "
 "cualquier dirección en latitud o longitud. Estar fuera de 100 kilometros no "
-"hará una diferencia suficiente para mostrar. Pero asegúrese de seleccionar "
-"la longitud este u oeste y el norte o el sur latitud! Luego haga clic en "
-"\"Ok\" para que el programa sepa que realmente quiere cambiar esta "
+"hará una diferencia suficientemente visible. Pero asegúrate de seleccionar "
+"la longitud este u oeste y la latitud norte o sur l! Luego haz clic en "
+"\"Ok\" para que el programa sepa que realmente quieres cambiar esta "
 "configuración."
 
 # 1890ff38f4734db59273918997954923
@@ -240,15 +240,15 @@ msgid ""
 "this location as your \"home\" position. From now on, whenever you start the"
 " activity the location will default to these coordinates."
 msgstr ""
-"Ahora me gustaría recomendar clic en el botón \"Hacer en Casa\". StarChart "
-"salvará esta ubicación como su posición \"inicial\". A partir de ahora, cada"
-" vez que inicie la actividad de la ubicación por defecto para estas "
+"Ahora me gustaría recomendar hacer clic en el botón \"Definir Casa\". StarChart "
+"salvará esta ubicación como tu posición \"inicial\". A partir de ahora, cada"
+" vez que inicie la actividad usará la ubicación por defecto para estas "
 "coordenadas."
 
 # 0556c38b19fa464bbaf87bfaa332ad9d
 #: ../source/starchart.rst:57
 msgid "How to read the plot"
-msgstr "Cómo leer la trama"
+msgstr "Cómo leer la pantalla"
 
 # 93b6b6287d064a6080a7afe6038016b5
 #: ../source/starchart.rst:59
@@ -257,8 +257,8 @@ msgid ""
 " white dots of different sizes. The brightest stars are drawn as the biggest"
 " dots; the dimmest stars are drawn as the smallest dots."
 msgstr ""
-"Estrellas se dibujan (con la configuración predeterminada de los \"qué\" "
-"controles de ficha menú) como puntos blancos de diferentes tamaños. Las "
+"Las estrellas se dibujan (según la configuración predeterminada en e menú \"Qué\" )"
+" como puntos blancos de diferentes tamaños. Las "
 "estrellas más brillantes se dibujan como los mayores puntos; las estrellas "
 "más débiles se dibujan como los puntos más pequeños."
 
@@ -286,7 +286,7 @@ msgid ""
 "Deep sky objects are plotted as areas of gray, with different "
 "\"decorations\", depending on the type of the object."
 msgstr ""
-"Objetos de cielo profundo se representan como áreas de color gris, con "
+"Los objetos del cielo profundo se representan como áreas de color gris, con "
 "diferentes \"decoraciones\", dependiendo del tipo de objeto."
 
 # fb70e2cf88db4ba499a06d92d0291283
@@ -324,7 +324,7 @@ msgid ""
 "central dot."
 msgstr ""
 "Un cúmulo globular se representa como un círculo gris con un borde blanco y "
-"un punto central de."
+"un punto central."
 
 # 15c6b6a0867643e88b7118217df07a0e
 #: ../source/starchart.rst:73
@@ -335,7 +335,7 @@ msgid ""
 msgstr ""
 "Aunque la elipse que representa una galaxia es más o menos la excentricidad "
 "correcta, la orientación de la elipse en la tabla es arbitraria y no refleja"
-" ángulo de la posición real de la galaxia."
+" el ángulo de la posición real de la galaxia."
 
 # 6c972b2ce880485d90e932c08586f641
 #: ../source/starchart.rst:75
@@ -343,14 +343,14 @@ msgid ""
 "To identify symbols, you can correlate them to the `Astronomical Symbols on "
 "Wikipedia <http://en.wikipedia.org/wiki/Astronomical_symbols>`_"
 msgstr ""
-"Identificar los símbolos, se puede correlacionar a los `símbolos "
-"astronómicos en Wikipedia <http: // en. wikipedia. org / wiki / "
-"Astronomical_symbols> `_"
+"Para identificar los símbolos, se puede leer acerca a los `símbolos "
+"astronómicos en Wikipedia "
+"<https://es.wikipedia.org/wiki/S%C3%ADmbolos_astron%C3%B3micos>`_"
 
 # 68bad1108c9747c0bd8533832b279273
 #: ../source/starchart.rst:79
 msgid "Operating Instructions"
-msgstr "Instrucciones de funcionamiento"
+msgstr "Instrucciones de uso"
 
 # 721da1eef86844d5ad07b2e790fc2743
 #: ../source/starchart.rst:81
@@ -359,8 +359,8 @@ msgid ""
 "current time. (This assumes you have done the steps described above in "
 "\"Installation and set-up\".)"
 msgstr ""
-"La pantalla inicial para StarChart mostrará el cielo para su ubicación y la "
-"hora actual. (Esto supone que usted ha hecho los pasos descritos "
+"La pantalla inicial para StarChart mostrará el cielo para tu ubicación y la "
+"hora actual. (Esto supone que tu haz hecho los pasos descritos "
 "anteriormente en \"Instalación y configuración\". )"
 
 # 866031d96a964045ac297a5864b5a858
@@ -382,12 +382,12 @@ msgid ""
 " if you prefer black stars on white sky you can get that combination. Let's "
 "walk through each option and see what it does to the appearance of the map."
 msgstr ""
-"| Eye_ico | es para cambiar la apariencia. Para exapmle, que le permite "
-"cambiar la combinación de colores del mapa y decidir cuántas estrellas que "
+"|eye_ico| es para cambiar la apariencia. Por ejemplo, te permite "
+"cambiar la combinación de colores del mapa y decidir cuántas estrellas "
 "quieres ver y si quieres las figuras de las constelaciones. Estos ajustes se"
-" guardan también. Así que si usted prefiere estrellas negras en el cielo "
-"blanco usted puede conseguir esa combinación. Vamos a caminar a través de "
-"cada opción y ver lo que hace a la apariencia del mapa."
+" guardan también. Así que si prefieres estrellas negras en el cielo "
+"blanco puedes conseguir esa combinación. Vamos a caminar a través de "
+"cada opción y ver lo que hace con la apariencia del mapa."
 
 # 132dd67e3754450c81ce07ef0e6bcab1
 #: ../source/starchart.rst:97
@@ -414,13 +414,13 @@ msgid ""
 " you can and still read the chart to minimize the effect on your night "
 "vision."
 msgstr ""
-"La opción de \"visión nocturna\" hace que la pantalla de la actividad en su "
-"mayoría de color rojo sobre negro. La luz roja no afecta su visión nocturna "
+"La opción de \"visión nocturna\" muestra la pantalla de la actividad en su "
+"mayoría en color rojo sobre negro. La luz roja no afecta tu visión nocturna "
 "por lo que el uso de este modo permite que tus ojos leen el mapa y siguen "
 "siendo lo suficientemente sensibles como para ver las estrellas débiles. "
-"Sugerencia: también ayuda a ajustar el brillo de la luz de fondo un precio "
-"tan bajo como sea posible y todavía leer la tabla para minimizar el efecto "
-"en su visión nocturna."
+"Sugerencia: también ayuda ajustar el brillo de la luz de fondo a un valor "
+"tan bajo como sea posible leer el gráfico, para minimizar el efecto "
+"en tu visión nocturna."
 
 # 9592f70ce0634c41aa8b43648a831cc5
 #: ../source/starchart.rst:109
@@ -435,10 +435,10 @@ msgid ""
 " fine in a classroom or in daylight. To get a black chart on a white "
 "background, set \"Invert Display\"."
 msgstr ""
-"Pero a veces le resultará más fácil trabajar con un gráfico que es negro "
+"Pero a veces te resultará más fácil trabajar con un gráfico que es negro "
 "sobre blanco, como una página de un libro. Este modo no es bueno para su uso"
 " por la noche pero está bien en un aula o en la luz del día. Para obtener un"
-" gráfico negro sobre un fondo blanco, ajuste \"Display Invertir\"."
+" gráfico negro sobre un fondo blanco, ajuste \"Invertir Pantalla\"."
 
 # 08d10e07323a4101bc5ef7658b37b55e
 #: ../source/starchart.rst:115
@@ -456,13 +456,13 @@ msgid ""
 "down. That means what you see on your XO's screen will match what you see in"
 " the sky."
 msgstr ""
-"Normalmente, StarChart muestra su mapa con el este por la izquierda. Esto "
-"puede parecer extraño a usted porque un mapa terrestre mostraría al este a "
-"la derecha. Pero si se enfrentan a este y mantiene el mapa de modo que este "
-"se encuentra cerca de la tierra, usted descubrirá que con un mapa terrestre,"
-" al norte en el mapa es ahora a su sur! Con un mapa de espejo de StarChart, "
-"el norte está hacia el norte y hacia el sur se encuentra al sur cuando este "
-"se ha reducido. Eso significa que lo que se ve en la pantalla de tu XO "
+"Normalmente, StarChart muestra su mapa con el Este a la izquierda. Esto "
+"te puede parecer extraño porque un mapa terrestre mostraría al Este a "
+"la derecha. Pero si miras al Este y mantienes el mapa de modo que el Este "
+"se encuentre cerca de la tierra, descubrirás que con un mapa terrestre,"
+" el Norte en el mapa está ahora en al Sur! Con el mapa espejado de StarChart, "
+"el Norte está hacia el Norte y hacia el Sur se encuentra el Sur cuando el Este "
+"está hacia abajo. Eso significa que lo que se ve en la pantalla de tu XO "
 "coincidirá con lo que se ve en el cielo."
 
 # 2585fb174db2429f907efe692772f271
@@ -471,14 +471,14 @@ msgid ""
 "But if you find it confusing to have east on the left and west on the right,"
 " you can set \"Flip L/R\" and get the map to be like a terrestrial map."
 msgstr ""
-"Pero si le resulta confuso para tener al este de la izquierda y hacia el "
-"oeste por la derecha, se puede establecer \"Flip L / R\" y obtener el mapa "
-"de ser como un mapa terrestre."
+"Pero si te resulta confuso tener al Este a la izquierda y el "
+"Oeste a la derecha, se puede establecer \"Cambiar D / I\" y obtener el mapa "
+"como en un mapa terrestre."
 
 # e0a5340207164ff69c491867b2756edf
 #: ../source/starchart.rst:123
 msgid "Draw Constellations"
-msgstr "Dibuja Constelaciones"
+msgstr "Dibujar Constelaciones"
 
 # 6439092b27de48a88871eb353e1a97d7
 #: ../source/starchart.rst:125
@@ -491,12 +491,12 @@ msgid ""
 "these standard figures. But you can turn that off and just see the stars "
 "themselves if you want -- after all, there are no lines drawn in the sky!"
 msgstr ""
-"Las estrellas se agrupan en imaginarias figuras llamadas constelaciones. "
-"Estos instrumentos científicos y de navegación representadas, dioses y "
+"Las estrellas se agrupan en figuras imaginarias llamadas constelaciones. "
+"Estas representan instrumentos científicos y de navegación, dioses y "
 "diosas, animales míticos y reales y otros patrones que las personas vieron "
-"en el cielo. Desde dibujos detallados haría que la tabla demasiado confuso, "
-"los astrónomos suelen dibujar simples palo cifras. StarChart normalmente "
-"traza estas cifras estándar. Pero usted puede apagar eso y sólo ver las "
+"en el cielo. Ya que dibujos detallados haría la imagen demasiado confusa, "
+"los astrónomos suelen dibujar simples lineas. StarChart normalmente "
+"traza estas lineas estándar. Pero tu puedes apagar eso y sólo ver las "
 "estrellas mismas si quieres - después de todo, no hay líneas dibujadas en el"
 " cielo!"
 
@@ -516,9 +516,9 @@ msgid ""
 msgstr ""
 "Estrellas vienen en diferentes brillos. Los astrónomos llaman a estos "
 "niveles de brillo \"magnitudes\". Las estrellas más brillantes son de "
-"magnitud cero (así, en un par de casos, más brillante que eso); las "
+"magnitud cero (bueno, en un par de casos, más brillante que eso); las "
 "estrellas más débiles que se pueden ver sin telescopio o binoculares en una "
-"noche muy oscura será de unos 6 grados."
+"noche muy oscura serán de unos 6 grados."
 
 # e730d5f976fc4e2198e8aaacc20e7da2
 #: ../source/starchart.rst:133
@@ -533,14 +533,14 @@ msgid ""
 "This brightness is about what you would see on an average night in suburban "
 "locations."
 msgstr ""
-"Hay estrellas mucho más tenues que los brillantes. Así que si StarChart "
-"siempre trazan todas las estrellas se podía ver, no habría tantos (más de "
-"1000!) Que sería difícil para que usted lea el mapa. Así que hay un control "
-"(de hecho seis de ellos) que le permite seleccionar la forma tenue de las "
-"estrellas de la actividad debería molestar a trazar. Incumplimientos "
-"StarChart a trazado estrellas de magnitud 4 o más brillante. Este es un buen"
+"Hay mucho más estrellas tenues que brillantes. Así que si StarChart "
+"siempre trazara todas las estrellas que se pueden ver, habría demasiadas (más de "
+"1000!) y sería difícil para ti leer el mapa. Así que hay un control "
+"(de hecho seis de ellos) que te permiten seleccionar como mostrar las "
+"estrellas menos brillantes. Por defecto "
+"StarChart mostrará las estrellas de magnitud 4 o más brillantes. Este es un buen"
 " compromiso entre tener suficientes estrellas para apreciar lo que se ve el "
-"cielo como y que tiene tantas que es confuso. Este brillo es de lo que se "
+"cielo como y tener tantas que sea confuso. Este brillo es lo que se "
 "vería en una noche normal en zonas suburbanas."
 
 # 94ed581746e14ebaa153819d5fe49784
@@ -571,7 +571,7 @@ msgstr "(Nivel de magnitud 4)"
 # dc96f578953a46e5b5b360ead83c3f3a
 #: ../source/starchart.rst:148
 msgid "Where |pos_ico| (Specify Location)"
-msgstr "Dónde | pos_ico | (Especificar ubicación)"
+msgstr "Dónde |pos_ico| (Especificar ubicación)"
 
 # 894a7bb9aa0942f48200f3fabae38196
 #: ../source/starchart.rst:152
@@ -581,8 +581,8 @@ msgid ""
 " but sometimes you might want to see what the sky looks like to someone "
 "living elsewhere."
 msgstr ""
-"Esta es la ficha del menú que le permite decir StarChart desde qué lugar en "
-"la tierra que le gustaría ver el cielo traza. Por lo general, esto sería "
+"Esta es el menú que te permite decirle a StarChart desde qué lugar en "
+"la tierra quieres ver el cielo traza. Por lo general, esto sería "
 "donde está, pero a veces es posible que desee ver lo que el cielo se parece "
 "a alguien que vive en otro lugar."
 
@@ -594,8 +594,8 @@ msgid ""
 " from zero to 90 degrees north or zero to 90 degrees south."
 msgstr ""
 "Una ubicación en la tierra es especificado por la longitud y latitud. "
-"Longitudes van de cero a 180 grados al este o de cero a 180 grados oeste. "
-"Latitudes van de cero a 90 grados al norte o cero a 90 grados al sur."
+"Longitudes van de cero a 180 grados al Este o de cero a 180 grados Oeste. "
+"Latitudes van de cero a 90 grados al Norte o cero a 90 grados al Sur."
 
 # 618161bbbc864eb6b21334ec70ec24db
 #: ../source/starchart.rst:156
@@ -609,12 +609,12 @@ msgid ""
 " look very different."
 msgstr ""
 "La actividad StarChart aceptará un ángulo como un número de grados, "
-"incluyendo fracciones de grados (como \"123. 45 \") o un ángulo como grados,"
-" minutos y segundos. En este segundo tipo de ángulo, debe utilizar un "
-"formulario como \"123d27m33s\". Introduzca la longitud (asegúrese de "
-"seleccionar este o al oeste) y latitud (asegúrese de seleccionar al norte o "
-"al sur) y haga clic en el botón \"Ok\". Si la nueva ubicación es "
-"sustancialmente distante de la edad, el mapa de las estrellas será muy "
+"incluyendo fracciones de grados (como \"123.45 \") o un ángulo como grados,"
+" minutos y segundos. En este segundo tipo de ángulo, debes utilizar un "
+"formato como \"123d27m33s\". Introduce la longitud (asegúrate de "
+"seleccionar Este u Oeste) y la latitud (asegúrate de seleccionar Norte o "
+"Sur) y haz clic en el botón \"Ok\". Si la nueva ubicación es "
+"sustancialmente distante de la anterior, el mapa de las estrellas será muy "
 "diferente."
 
 # e6b2ac4ecbad40ceaea461f19cae9779
@@ -624,14 +624,14 @@ msgid ""
 "observatory coordinates. This setting is then remembered for all future "
 "StarChart sessions."
 msgstr ""
-"El botón \"Make Home\" fijará la ubicación seleccionada como sus coordenadas"
-" observatorio predeterminados. Este ajuste se recuerda entonces para todas "
-"las futuras sesiones StarChart."
+"El botón \"Seleccionar hogar\" fijará la ubicación seleccionada como tus coordenadas"
+" de observación predeterminadas. Este ajuste se recuerda entonces para todas "
+"las futuras sesiones de StarChart."
 
 # 7db10b586a0a44619c19f3ecd0636270
 #: ../source/starchart.rst:163
 msgid "When |time_ico| (Specify Time)"
-msgstr "Cuando | time_ico | (Especificar hora)"
+msgstr "Cuando |time_ico| (Especificar hora)"
 
 # 4a5f4dd870f442f7bede4610a56b8332
 #: ../source/starchart.rst:165
@@ -639,8 +639,8 @@ msgid ""
 "These controls let you specify the time for which you want the chart "
 "plotted."
 msgstr ""
-"Estos controles permiten especificar el tiempo durante el cual desea que el "
-"gráfico de trazado."
+"Estos controles permiten especificar el tiempo para el cual deseas que el "
+"gráfico sea trazado."
 
 # bcdb888a187e454a9be5129164abf5f9
 #: ../source/starchart.rst:169
@@ -654,14 +654,14 @@ msgid ""
 "can also use these controls to specify that you want a chart for a "
 "particular time in the future or past."
 msgstr ""
-"Normalmente, \"ahora\" se selecciona y la corriente año, mes, día, hora y "
-"minuto y el número de horas y minutos que su zona horaria se diferencia de "
-"GMT por se muestran en la hora y campos compensados. Además, el campo de "
+"Normalmente, \"ahora\" se selecciona y el año, mes, día, hora y "
+"minuto  actual y el número de horas y minutos que tu zona horaria se diferencia de "
+"GMT se muestran en los campos hora y diferencia. Además, el campo de "
 "hora se actualizará automáticamente al realizar un seguimiento de la hora "
-"local actual y la trama será automáticamente recalcula una vez por minuto. "
-"En este modo, la trama coincidirá con el cielo actual y se desplazará a "
-"través del tiempo la forma en que el cielo hace. Pero también se puede "
-"utilizar estos controles para especificar que desea un gráfico para un "
+"local actual y el gráfico será automáticamente recalculado una vez por minuto. "
+"En este modo, el gráfico coincidirá con el cielo actual y se desplazará a "
+"través del tiempo en la forma en que el cielo lo hace. Pero también se pueden "
+"utilizar estos controles para especificar que deseas un gráfico para un "
 "momento determinado en el futuro o en el pasado."
 
 # 9489ed1e3f314d34a514e73b3ae59cbd
@@ -677,17 +677,17 @@ msgid ""
 "the time you entered is on the \"other side of the daylight time boundary\"."
 " Finally, click \"Ok\" to get the new plot."
 msgstr ""
-"Haga clic en el botón de radio \"Especificar el tiempo\", ya que \"ahora\" "
-"no es lo que usted quiere más. Ahora especificar el nuevo tiempo, a partir "
+"Haz clic en el botón \"Especificar el tiempo\", ya que \"ahora\" "
+"no es lo que tu quieres ahora. Ahora especifica el nuevo tiempo, a partir "
 "del año. El tiempo se introduce como un año de cuatro dígitos, un mes de dos"
-" dígitos y un día de dos dígitos, separados por una barra (/) caracteres, "
+" dígitos y un día de dos dígitos, separados por una barra (/), "
 "una coma (,) y luego la hora y los minutos en el tiempo de 24 horas "
-"separados por dos puntos (:). Ejemplo: 2008/02 / 20,22: 00 sería 22:00 en el"
-" 20 de febrero 2008. A continuación, si su lugar se observa el horario de "
-"verano, puede que tenga que añadir o restar una hora del valor de "
-"desplazamiento de zona horaria si el tiempo que has escrito es en el \"otro "
-"lado del tiempo límite de la luz del día\". Por último, haga clic en "
-"\"Aceptar\" para obtener la nueva parcela."
+"separados por dos puntos (:). Ejemplo: 2008/02/20,22: 00 sería 22:00 en el"
+" 20 de febrero del 2008. A continuación, si en tu lugar se observa el horario de "
+"verano, puede ser que tengas que añadir o restar una hora del valor de "
+"desplazamiento de zona horaria si el tiempo que has escrito esta al \"otro "
+"lado del límite de la luz del día\". Por último, haz clic en "
+"\"Aceptar\" para obtener la nueva imagen."
 
 # eed5fc6918d9468da00d0fac4ab85cb8
 #: ../source/starchart.rst:173
@@ -698,14 +698,14 @@ msgid ""
 "updating the time fields and the chart."
 msgstr ""
 "Al hacer clic en el botón de opción \"Especificar el tiempo\", StarChart "
-"detiene la pantalla de forma automática está actualizado. Al hacer clic en "
-"el botón \"Ahora\" fijará el tiempo a la época actual y reanudará "
+"detiene la actalizacion de pantalla automática. Al hacer clic en "
+"el botón \"Ahora\" fijará el tiempo a la fecha y hora actual y reanudará "
 "automáticamente la actualización de los campos de hora y el gráfico."
 
 # 7332fc58051f4b40be2418993932fa65
 #: ../source/starchart.rst:178
 msgid "Locate |type_ico|"
-msgstr "Localice | type_ico |"
+msgstr "Localiza |type_ico|"
 
 # 9f42de5b3b4e48f08520a1ff961efef1
 #: ../source/starchart.rst:180
@@ -715,11 +715,11 @@ msgid ""
 " stars (either by the constellation which contains the star or from a list "
 "of the brightest stars) or \"deep-sky\" objects."
 msgstr ""
-"Estos controles permiten seleccionar un objeto y lo han resaltado en el "
-"gráfico de modo que se puede decir que el objeto está en el cielo. Usted "
-"puede \"localizar\" los planetas, las estrellas (ya sea por la constelación "
+"Estos controles permiten seleccionar un objeto y lo resalta en el "
+"gráfico de modo que se puede decir donde está el objeto en el cielo. Tu "
+"puedes \"localizar\" los planetas, las estrellas (ya sea por la constelación "
 "que contiene la estrella o de una lista de las estrellas más brillantes) u "
-"objetos \"cielo profundo\"."
+"objetos del \"cielo profundo\"."
 
 # b7ad727b5db448ab96b726f9bbefc830
 #: ../source/starchart.rst:182
@@ -729,17 +729,17 @@ msgstr "Planetas"
 # d03f61c23faf449ca953ee52673c5601
 #: ../source/starchart.rst:183
 msgid "Stars by Constellation"
-msgstr "Estrellas de la constelación"
+msgstr "Estrellas por constelación"
 
 # 87a3c4aa13fa4c618659fa058802a416
 #: ../source/starchart.rst:184
 msgid "Brightest Stars"
-msgstr "Brillantes Estrellas"
+msgstr "Estrellas Brillantes"
 
 # 725c3ca16d7e4ecf878c463dbb9033d9
 #: ../source/starchart.rst:185
 msgid "Deep-sky Objects"
-msgstr "Objetos de Cielo Profundo"
+msgstr "Objetos del Cielo Profundo"
 
 # b21a727015c54cebb5aad19e085e0248
 #: ../source/starchart.rst:190
@@ -755,8 +755,8 @@ msgstr ""
 msgid ""
 "Select from the list and sub-lists to locate whatever object you wish to."
 msgstr ""
-"Seleccione de la lista y sublistas para localizar cualquier objeto que "
-"desea."
+"Selecciona de la lista y sublistas para localizar cualquier objeto que "
+"desees."
 
 # cdacd66ca7f94f31bcdbbd7d79b80fc8
 #: ../source/starchart.rst:194
@@ -776,8 +776,8 @@ msgid ""
 "<http://wiki.laptop.org/go/StarChart/Bug_tracking>`_."
 msgstr ""
 "Para informar de un fallo, o para ver qué errores han sido reportados y / o "
-"fija, por favor vaya a la página `bug tracking <http: // wiki. portátil. org"
-" / go / StarChart / Bug_tracking> `_."
+"solucionados, por favor ve a la página `bug tracking "
+"<http://wiki.laptop.org/go/StarChart/Bug_tracking>`_."
 
 # 959bcc800d5e4f56bc34e0c36f524155
 #: ../source/starchart.rst:210
@@ -787,4 +787,4 @@ msgstr "Referencias"
 # 7b64c4d73b2a46f680e58616600d57d4
 #: ../source/starchart.rst:211
 msgid "`Wiki page <http://wiki.laptop.org/go/StarChart>`_"
-msgstr "`Página Wiki <http: // wiki. portátil. org / go / StarChart> `_"
+msgstr "`Página Wiki <http://wiki.laptop.org/go/StarChart>`_"
