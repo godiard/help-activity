@@ -20,7 +20,7 @@ msgstr ""
 # 1d5d8b613e4941efae6c7d3561090515
 #: ../source/record.rst:3
 msgid "Record"
-msgstr "Registro"
+msgstr "Grabar"
 
 # 71b174c2763b4ba693e8a760467042c7
 #: ../source/record.rst:6
@@ -34,9 +34,9 @@ msgid ""
 "pictures. You will need to have a built in, or an attached, microphone "
 "and/or camera to use Record."
 msgstr ""
-"El Registro de Actividad se utiliza para la grabación de audio y vídeo y "
-"para la toma de fotografías. Usted tendrá que tener un construido en, o un "
-"adjunto, micrófono y / o una cámara de usar Record."
+"La actividad Grabar se utiliza para la grabación de audio y vídeo y "
+"para la toma de fotografías. Necesitas tener un micrófono interno, o "
+"externo y / o una cámara para usar Grabar."
 
 # 50c4f5cc023a466abea3ee28c9bf46b8
 #: ../source/record.rst:10
@@ -44,8 +44,8 @@ msgid ""
 "If your computer has no built in camera, or an unsuitable camera attached, "
 "then Record, will open in *Record audio* mode only."
 msgstr ""
-"Si su equipo no tiene cámara incorporada, o una cámara inadecuada unida, "
-"entonces Record, se abrirá en * sólo modo de grabación de audio *."
+"Si tu equipo no tiene cámara incorporada, o una cámara conectada, "
+"entonces Grabar, se abrirá en modo de *grabación de audio* unicamente."
 
 # 6c5ee8c0834342c88934d90e9761618a
 #: ../source/record.rst:13
@@ -58,7 +58,7 @@ msgid ""
 "There are three record or capture modes. Select **one** of these buttons to "
 "chose your Record mode."
 msgstr ""
-"Hay tres modos de grabación o captura. Seleccione uno ** ** de estos botones"
+"Hay tres modos de grabación o captura. Seleccione **uno** de estos botones"
 " para elegir el modo de grabación."
 
 # df5f636c0023480ab35f92b9982efc62
@@ -66,13 +66,13 @@ msgstr ""
 msgid ""
 "The image above shows the buttons of the three *Record* modes, they are:"
 msgstr ""
-"La imagen de arriba muestra los botones de los tres modos * * Record, que "
+"La imagen de arriba muestra los botones de los tres modos de *Grabar*, que "
 "son:"
 
 # c6b3f9f775ef4986a9f8297a0f6beef5
 #: ../source/record.rst:21
 msgid "Picture camera mode"
-msgstr "El modo de cámara de imagen"
+msgstr "El modo de cámara de fotos"
 
 # 85fab57e73064d218a1f514041e7464c
 #: ../source/record.rst:23
@@ -90,8 +90,8 @@ msgid ""
 "This is the *Record* or capture button |Capture| in the centre of the "
 "screen, below *main image*."
 msgstr ""
-"Este es el * Registro * o botón de captura | Captura | en el centro de la "
-"pantalla, * Imagen principal abajo *."
+"Este es el botón de captura |Capture| en el centro de la "
+"pantalla, bajo la *Imagen principal*."
 
 # a0e4998d8eb24317a19108be54969c7e
 #: ../source/record.rst:31
@@ -100,10 +100,10 @@ msgid ""
 "in front of the camera in *Picture camera* mode, or *Video camera* mode, and"
 " will capture whatever the microphone can detect, when in *Audio* mode."
 msgstr ""
-"La imagen principal muestra lo que se va a capturar. Record capturar lo que "
-"está en frente de la cámara en el modo de imagen * Cámara * o * Cámara de "
-"vídeo * Modo, y capturará cualquiera que sea el micrófono puede detectar, "
-"cuando en * * Modo de Audio."
+"La imagen principal muestra lo que se va a capturar. Grabar captura lo que "
+"está en frente de la cámara en el modo de *Cámara de fotos* o *Cámara de "
+"vídeo*, y capturará cualquiera lo que el micrófono puede detectar, "
+"cuando en esté en *Modo de Audio*."
 
 # fe6a7e1510444e30b9be298432c1b456
 #: ../source/record.rst:34
@@ -111,20 +111,20 @@ msgid ""
 "**Tip** As always in Sugar, if you are not sure what a button will do, hover"
 " the cursor over it, to reveal its function."
 msgstr ""
-"** Tip ** Como siempre en azúcar, si no estás seguro de lo que va a hacer un"
-" botón, sitúe el cursor sobre él, para revelar su función."
+"** Tip ** Como siempre en Sugar, si no estás seguro de lo que va a hacer un"
+" botón, sitúa el cursor sobre él, para revelar su función."
 
 # ecbca2eebbff48f6a30b4d8773da88b3
 #: ../source/record.rst:37
 msgid "Record features in detail"
-msgstr "Características de registro en detalle"
+msgstr "Características de Grabar en detalle"
 
 # ef4063e394a945b197b847a10d2446eb
 # 824fdb2090244b62a070c70e2a4a8864
 # 0311778912f04353a5a455ef41f72b45
 #: ../source/record.rst:41 ../source/record.rst:72 ../source/record.rst:110
 msgid "**Toolbar and capture buttons explained**"
-msgstr "** Barra de herramientas de captura y botones que se explican **"
+msgstr "**Barra de herramientas de captura y botones explicados**"
 
 # 9a08c35f44ed4fa89ee83e67c9eb1952
 #: ../source/record.rst:43
@@ -133,10 +133,10 @@ msgid ""
 "button allows you to add a description to the :doc:`/journal` entry. Thirdly"
 " select Private, or My Neighbourhood, see :ref:`Sharing Media`."
 msgstr ""
-"Ficha Actividad. En el primer campo el nombre de la página o proyecto. El "
-"botón Descripción le permite añadir una descripción para el: doc: `entrada /"
-" journal`. En tercer lugar seleccione Privada o Mi Barrio, ver: ref: "
-"`Compartir media`."
+"Barra de Actividad. En el primer campo el nombre de la página o proyecto. El "
+"botón Descripción te permite añadir una descripción para la entrada en el "
+" :doc:`/journal`. En tercer lugar selecciona Privado o Mi Vecindario, ver: "
+":ref:`Sharing Media`."
 
 # 5e739856e5484fab89c37d5382b626be
 #: ../source/record.rst:45
@@ -147,7 +147,7 @@ msgstr "Se selecciona el modo de cámara de imagen."
 #: ../source/record.rst:47
 msgid "Video camera mode button. Press to switch to Video camera mode."
 msgstr ""
-"Vídeo botón de modo de cámara. Pulse para cambiar al modo de cámara de "
+"Boton de modo cámara de video. Pulsa para cambiar al modo de cámara de "
 "vídeo."
 
 # 47b9144645ad48d2a0531cecfc0d4e30
@@ -165,9 +165,9 @@ msgid ""
 "picture. Available delay options are, *Immediate*, *5 seconds*, or 10 "
 "secomds."
 msgstr ""
-"Seleccione el botón de temporizador. Presione este botón para activar un "
-"retraso antes de tomar una fotografía. Disponibles opciones de retardo son, "
-"* inmediatas *, * 5 segundos *, o 10 secomds."
+"Botón de seleccion del temporizador. Presiona este botón para activar un "
+"retraso antes de tomar una fotografía. Las opciones disponibles de retardo son, "
+"*inmediato*, *5 segundos*, o *10 segundos*."
 
 # 9740d6c6e1ab47f5b7dae7d2cdecd534
 #: ../source/record.rst:53
@@ -176,9 +176,9 @@ msgid ""
 "*Video* mode and in *Audio* mode press to *Select duration*. Available "
 "duration options are 2, 4, 6 minutes."
 msgstr ""
-"Botón La duración del temporizador. Duración aparece en gris en el modo de "
-"imagen de la cámara * *. En * Vídeo * modo y en el modo de * Audio * "
-"presione para * Seleccione la duración *. Las opciones de duración "
+"Botón de selección de duración. La duración aparece en gris en el modo de "
+"*cámara de fotos*. En el modo de *Vídeo* y en el modo de *Audio* "
+"presiona para *Seleccionar la duración*. Las opciones de duración "
 "disponibles son 2, 4, 6 minutos."
 
 # 65edcda3ab3146f7acad8534d360806e
@@ -189,10 +189,10 @@ msgid ""
 "high quality. Experiment and choose whichever gives the best results in your"
 " conditions."
 msgstr ""
-"Botón Select calidad. El botón está en gris en el modo de imagen * Cámara * "
-"y * Audio * Modo. En el modo de cámara de vídeo, pulse este botón para "
-"seleccionar alta o baja calidad. Experimente y elegir el que da los mejores "
-"resultados en sus condiciones."
+"Botón de seleccion de calidad. El botón está en gris en el modo *cámara de fotos* "
+"y en el modo *Audio*. En el modo de cámara de vídeo, pulsa este botón para "
+"seleccionar alta o baja calidad. Experimenta y elige el que de los mejores "
+"resultados en tus condiciones."
 
 # 35660dd153064b1a8d6b715ed5ebaef2
 #: ../source/record.rst:57
@@ -200,8 +200,8 @@ msgid ""
 "This image represents an picture already taken. It is in the area of the "
 "screen called the *tray*, which contains thumbnail images."
 msgstr ""
-"Esta imagen representa una imagen ya adoptadas. Es en el área de la pantalla"
-" llama la bandeja * *, que contiene imágenes en miniatura."
+"Esta imagen representa una imagen ya tomada. Está en el área de la pantalla"
+" llamada la *bandeja*, que contiene imágenes en miniatura."
 
 # 0ff3c49f81134a2cba5bbab1299358fc
 #: ../source/record.rst:59
@@ -227,7 +227,7 @@ msgstr ""
 # 5742e68da73c42ca9b16bfd5784179a0
 #: ../source/record.rst:63 ../source/record.rst:100
 msgid "Stop, or close the application."
-msgstr "Detener o cierre la aplicación."
+msgstr "Detener o cerrar la aplicación."
 
 # 85e166d2224547c79279e5176e4a6ad8
 #: ../source/record.rst:65
@@ -237,8 +237,8 @@ msgid ""
 " saving and managing your work`."
 msgstr ""
 "La siguiente sección cubre el modo de vídeo de la cámara, y luego la "
-"grabación de audio en detalle más específico. Sin embargo ahora se lo "
-"prefiere, puede seguir a: ref: `Cómo ver, guardar y administrar su work`."
+"grabación de audio en detalle más específico. Sin embargo ahora si lo "
+"prefieres, puede seguir a :ref:`Viewing, saving and managing your work`."
 
 # 1f4f816e7fa6499baf56183f57b6fc25
 #: ../source/record.rst:68
@@ -252,16 +252,16 @@ msgid ""
 " to provide a description, and select Private, or My Neighbourhood, see "
 ":ref:`Sharing Media`."
 msgstr ""
-"Ficha Actividad. Aquí puede introducir un nombre para el proyecto, acceder a"
-" la revista, para proporcionar una descripción y seleccione Privada o Mi "
-"Barrio, ver: ref: `Compartir media`."
+"Barra de Actividad. Aquí puedes introducir un nombre para el proyecto, acceder a"
+" el Diario, para proporcionar una descripción y seleccione Privada o Mi "
+"Vecindario, ver :ref:`Sharing Media`."
 
 # fd5920de5b6d48e7949a2c7a1c87d6fd
 #: ../source/record.rst:76
 msgid "Picture camera mode button. Press to switch to Picture camera mode."
 msgstr ""
-"Botón Imagen del modo de cámara. Pulse para cambiar al modo de cámara de "
-"imagen."
+"Botón modo de cámara de fotos. Pulsa para cambiar al modo de cámara de "
+"fotos."
 
 # bda28ea82da14ceea669e70d4a64d5b3
 #: ../source/record.rst:78
@@ -269,7 +269,7 @@ msgid ""
 "Video camera mode button is selected, and capture or record has been "
 "started."
 msgstr ""
-"Se selecciona vídeo botón de modo de cámara, y se ha iniciado la captura o "
+"Esta seleccionado el botón de modo de cámara de video, y se ha iniciado la captura o "
 "registro."
 
 # b7d14cf3737a43b2b7699a4d0b271f26
@@ -278,9 +278,9 @@ msgid ""
 "Select timer button. Press this button to set a delay before capture, "
 "available delay options are, Immediate, 5 seconds, or 10 secomds."
 msgstr ""
-"Seleccione el botón de temporizador. Pulse este botón para establecer un "
-"retraso antes de la captura, opciones de retardo disponibles son, Inmediato,"
-" 5 segundos o 10 secomds."
+"Botón de selección de temporizador. Pulsa este botón para establecer un "
+"retraso antes de la captura, las opciones de retardo disponibles son, Inmediato,"
+" 5 segundos o 10 segundos."
 
 # 4f9b5a972bae46feba1fee1b684e2055
 #: ../source/record.rst:84
@@ -288,9 +288,9 @@ msgid ""
 "Timer duration button. In *Video* mode and in *Audio* mode, press to *Select"
 " duration*. Available duration options are 2, 4, 6 minutes."
 msgstr ""
-"Botón La duración del temporizador. En * Vídeo * modo y en el modo de * * "
-"Audio, presione para * Seleccione la duración *. Las opciones de duración "
-"disponibles son 2, 4, 6 minutos."
+"Botón de selección de duración. En el modo de *Vídeo* y en el modo de *Audio* "
+", presione para *Seleccionar la duración*. Las opciones de duración "
+"disponibles son 2, 4 y 6 minutos."
 
 # d1e5c7f49e4b459da3c669ab7b18851c
 #: ../source/record.rst:86
@@ -299,16 +299,16 @@ msgid ""
 " or high quality. Experiment and choose whichever gives the best reults in "
 "your conditions."
 msgstr ""
-"Botón Select calidad. En el modo de cámara de vídeo, pulse este botón para "
-"seleccionar alta o baja calidad. Experimente y elegir el que da los mejores "
-"reults en sus condiciones."
+"Botón Seleccionar calidad. En el modo de cámara de vídeo, pulse este botón para "
+"seleccionar alta o baja calidad. Experimenta y elige el que da los mejores "
+"resultados en tus condiciones."
 
 # a3d7f0e1f8084dde9a4822e374b29ad4
 #: ../source/record.rst:88
 msgid ""
 "Record is in *Sharing* mode, and we have been joined by a collaborator."
 msgstr ""
-"Record es en modo * * Compartir, y hemos estado unidos por un colaborador."
+"Grabar esta en modo *Compartir*, y hemos estado unidos con un colaborador."
 
 # 650cf2c2b99546b598937111472c8a1b
 #: ../source/record.rst:90
@@ -316,8 +316,8 @@ msgid ""
 "The image, which the other party shared is in the tray, identified by their "
 "characteristic colours. See also :ref:`Sharing Media`."
 msgstr ""
-"La imagen, que la otra parte ha compartido está en la bandeja, identificados"
-" por sus colores característicos. Ver también: ref: `Compartir media`."
+"La imagen, que la otra parte ha compartido está en la bandeja, identificada"
+" por sus colores característicos. Ver también :ref:`Sharing Media`."
 
 # 4db0143efea94453a033327156dd536b
 #: ../source/record.rst:92
@@ -325,8 +325,8 @@ msgid ""
 "Time remaining bar. This is the time remaining, from the *Timer duration*, "
 "set with **6**."
 msgstr ""
-"Tiempo restante bar. Este es el tiempo que queda, desde el * Temporizador de"
-" duración *, engastado con ** 6 **."
+"Barra de Tiempo restante. Este es el tiempo que queda, con el * Temporizador de"
+" duración *, configurado en **6**."
 
 # b0f0094ea28d43eb89a47f80a6658029
 #: ../source/record.rst:94
@@ -335,7 +335,7 @@ msgid ""
 "been captured, it is automaticly saved in the Journal."
 msgstr ""
 "El botón para detener la captura y para guardar el archivo de vídeo. Una vez"
-" que una grabación ha sido capturado, se guarda automaticamente en el "
+" que una grabación ha sido capturada, se guarda automaticamente en el "
 "Diario."
 
 # 5e8052e2f97949af86bb0c91f0b69455
@@ -353,8 +353,8 @@ msgid ""
 "The next section is Audio recording. However you might now prefer to follow "
 "on to :ref:`Viewing, saving and managing your work`."
 msgstr ""
-"La siguiente sección es la grabación de audio. Sin embargo ahora se lo "
-"prefiere, puede seguir a: ref: `Cómo ver, guardar y administrar su work`."
+"La siguiente sección es la grabación de audio. Sin embargo ahora si lo "
+"prefieres, puedes seguir a :ref:`Viewing, saving and managing your work`."
 
 # 7c6170603e3d453da7e608ef5ab0d579
 #: ../source/record.rst:106
@@ -365,7 +365,7 @@ msgstr "Audio"
 #: ../source/record.rst:112
 msgid "The tool bar items are just as described above."
 msgstr ""
-"Los elementos de la barra de herramientas se acaba como se describe "
+"Los elementos de la barra de herramientas son los que se describieron "
 "anteriormente."
 
 # e8ac2ee9d585416faf171c29a45f9a04
@@ -374,9 +374,9 @@ msgid ""
 "It is always a good idea to enter a name for your file **1** in the Activity"
 " tab, so that it is easier to find your work later."
 msgstr ""
-"Siempre es una buena idea para introducir un nombre para el archivo ** 1 ** "
-"en la pestaña Actividad, de modo que sea más fácil encontrar su obra "
-"posterior."
+"Siempre es una buena idea para introducir un nombre para el archivo **1** "
+"en la barra de Actividad, de modo que sea más fácil encontrar tu obra "
+"posteriormente."
 
 # 20e2d310d30b4acd9728b81b427e99c4
 #: ../source/record.rst:116
@@ -385,9 +385,9 @@ msgid ""
 " like live video. As the audio file is saved, the image is saved as a "
 "snapshot to help identify your audio recording."
 msgstr ""
-"Si usted tiene una cámara, una imagen ** 2 ** aparece en la ventana de la "
-"imagen y se ve como vídeo en directo. Como se guarda el archivo de audio, la"
-" imagen se guarda como una instantánea para ayudar a identificar su "
+"Si tienes una cámara, una imagen **2** aparecerá en la ventana de la "
+"imagen y se verá como vídeo en directo. Cuando se guarda el archivo de audio, la"
+" imagen se guarda como una instantánea para ayudar a identificar tu "
 "grabación de audio."
 
 # c8babf208c25446383ed6dd3c6f98f96
@@ -398,11 +398,11 @@ msgid ""
 "the audio recording to run for the set duration, or press the stop capture "
 "button **4** at any time."
 msgstr ""
-"Los botones Select temporizador y duración del temporizador ** 3 ** están "
+"Los botones Seleccionar temporizador y duración del temporizador **3** están "
 "disponibles, para establecer un retraso antes de inicio de la grabación, y "
-"ajustar la duración. Puede dejar bien la grabación de audio en marcha "
-"durante el período de tiempo establecido, o pulse el botón de captura parada"
-" ** 4 ** en cualquier momento."
+"ajustar la duración. Puedes dejar bien la grabación de audio en marcha "
+"durante el período de tiempo establecido, o pulsar el botón de parar captura "
+"**4** en cualquier momento."
 
 # 61d366837a5a41b3b2c0e8d7baa37689
 #: ../source/record.rst:120
@@ -410,13 +410,13 @@ msgid ""
 "As with the photo and video modes, you see an icon for your recording **5** "
 "show up in the tray once you are done."
 msgstr ""
-"Al igual que con los modos de fotografía y vídeo, verá un icono de la "
-"grabación ** 5 ** aparece en la bandeja una vez que haya terminado."
+"Al igual que con los modos de fotografía y vídeo, verás un icono de la "
+"grabación **5** aparecer en la bandeja una vez que hayas terminado."
 
 # 1f2ba891da614a8b81acd760b6ff1f33
 #: ../source/record.rst:125
 msgid "Viewing, saving and managing your work"
-msgstr "Viendo, el ahorro y la gestión de su trabajo"
+msgstr "Visualización, grabación y organización de tu trabajo"
 
 # 5390b4cd57f7471286af1a3a139429fa
 #: ../source/record.rst:127
@@ -425,9 +425,9 @@ msgid ""
 " inspect an image once it has been taken. This sequence is taken in *Picture"
 " camera* mode, but the features are similar in all modes."
 msgstr ""
-"Las agujas del reloj desde la parte superior izquierda de trabajo, muestra "
-"la secuencia, para ahorrar, nombre, e inspeccionar una imagen una vez que se"
-" ha tomado. Esta secuencia se toma en cámara * Imagen * modo, pero las "
+"Mirando en el sentido de las agujas del reloj desde la parte superior izquierda, se muestra "
+"la secuencia, para grabar, nombrar, e inspeccionar una imagen una vez que se"
+" ha tomado. Esta secuencia se toma en modo *cámara de fotos*, pero las "
 "características son similares en todos los modos."
 
 # 46c600058c654b239c196b78971283aa
@@ -440,9 +440,9 @@ msgid ""
 " Learner” **1**."
 msgstr ""
 "La primera captura de pantalla, arriba a la izquierda, muestra la imagen "
-"principal en el modo de cámara de imagen, mientras que una imagen, que acaba"
+"principal en el modo de cámara de imagen, mientras que una imagen, que se acaba"
 " de tomar, se ha guardado y nombrado de forma automática en el Diario. Se "
-"muestra como una miniatura en la bandeja. El cursor se cierne sobre la "
+"muestra como una miniatura en la bandeja. El cursor está posado sobre la "
 "miniatura."
 
 # 79b1dcc602a64f5a90b5dc67269d7947
@@ -451,9 +451,9 @@ msgid ""
 "When we click the thumbnail, the main image changes to *viewer* mode. Images"
 " are viewed and information can be updated."
 msgstr ""
-"Cuando hacemos clic en la miniatura, los principales cambios de imagen a "
-"modo de visor * *. Las imágenes se visualizan e información pueden ser "
-"actualizados."
+"Cuando hacemos clic en la miniatura, laimagen principal cambia a "
+"modo de *visualización*. Las imágenes se visualizan y la información puede ser "
+"actualizada."
 
 # 1c53fe0d31cb47f0a9d1d3e77ecbeb1b
 #: ../source/record.rst:135
@@ -462,8 +462,8 @@ msgid ""
 "“Cornish village” is entered. Also at this point **2** is the full screen "
 "mode button. This will switch the main image to full screen."
 msgstr ""
-"Un campo en el que se introduce un título para la foto aparece ** 2 **. "
-"También en este punto ** 2 ** es el botón de modo de pantalla completa. Esto"
+"Un campo en el que se introduce un título para la foto aparece en **2**. "
+"También bajo el punto **2** está el botón de modo de pantalla completa. Esto"
 " cambiará la imagen principal a pantalla completa."
 
 # 791cae707b1a48a4811128c9c6a53ed7
@@ -474,9 +474,9 @@ msgid ""
 "**4** reveals the image information, author, date, and a space to add tags. "
 "A tag is a single word that helps categorize an item."
 msgstr ""
-"En la parte inferior derecha de la imagen principal es un poco pestaña, ** 3"
-" **, lo que le permite saber más acerca de la foto que se tomó. Ahora "
-"presionar esa pestaña ** 4 ** revela la información de la imagen, el autor, "
+"En la parte inferior derecha de la imagen principal hay una pequeña pestaña, **3**, "
+"que te permite saber más acerca de la foto que se tomó. Al "
+"presionar esa pestaña **4** se revela la información de la imagen, el autor, "
 "la fecha, y un espacio para agregar etiquetas. Una etiqueta es una palabra "
 "que ayuda a categorizar un artículo."
 
@@ -487,8 +487,8 @@ msgid ""
 "more photos in the tray the *scroll button* **5** scrolls through the "
 "images."
 msgstr ""
-"La bandeja muestra un historial de sus fotos tomadas anteriormente. Cuando "
-"tienes más fotos en la bandeja en el botón de desplazamiento * * ** ** 5 se "
+"La bandeja muestra un historial de tus fotos tomadas anteriormente. Cuando "
+"tienes más fotos en la bandeja en el botón de desplazamiento *5* se "
 "desplaza por las imágenes."
 
 # e2061f514f6242be871021096f6bf314
@@ -500,11 +500,11 @@ msgid ""
 " your camera or microphone. Click on that window to return from *viewer* "
 "mode to *capture* mode."
 msgstr ""
-"Para reproducir un video o grabación de audio, haga clic en la miniatura de "
-"la grabación en la bandeja. Al ver o escuchar un clip, si mueve el cursor en"
-" la zona principal de la imagen, se ve pequeña ventana ** 6 **, que "
-"representa la salida de la cámara o micrófono. Haga clic en la ventana para "
-"volver de * * espectador de modo en el modo de captura * *."
+"Para reproducir un video o grabación de audio, haz clic en la miniatura de "
+"la grabación en la bandeja. Al ver o escuchar un clip, si mueves el cursor en"
+" la zona principal de la imagen, se ve pequeña ventana **6**, que "
+"representa la salida de la cámara o micrófono. Haz clic en la ventana para "
+"volver del modo *visualización* al modo de *captura*."
 
 # 2f5f0cdb227943d6bc01885e959c6ae8
 #: ../source/record.rst:143
@@ -513,7 +513,7 @@ msgid ""
 "the button **7**."
 msgstr ""
 "La imagen final se mostrará en pantalla completa, y se puede reducir a la "
-"normalidad con el botón ** 7 **."
+"normalidad con el botón **7**."
 
 # d8ee08128daf49daaea20f9e20459657
 #: ../source/record.rst:145
@@ -523,15 +523,15 @@ msgid ""
 "Memorize and some other games. Images can be copied to a USB storage device "
 "from the Journal."
 msgstr ""
-"Record almacena imágenes y audio en el Diario, de la que pueden ser "
-"utilizados por otras actividades, como pintar, escribir, Etoys y Navegar, "
-"así como memorizar y algunos otros juegos. Las imágenes se pueden copiar en "
-"un dispositivo de almacenamiento USB del Diario."
+"Grabar almacena imágenes y audio en el Diario, que pueden ser "
+"utilizados por otras actividades, como Pintar, Escribir, Etoys y Navegar, "
+"así como Memorizar y algunos otros juegos. Las imágenes se pueden copiar en "
+"un dispositivo de almacenamiento USB desde el Diario."
 
 # de3498e19583408cb62d97d10d10e8b9
 #: ../source/record.rst:150
 msgid "Sharing Media"
-msgstr "Uso compartido de multimedia"
+msgstr "Compartiendo multimedia"
 
 # a4949bf524ff4d5ebd0baacbe2d7d9de
 #: ../source/record.rst:152
@@ -539,7 +539,7 @@ msgid ""
 "You can share photos, video and audio recordings (these can just be referred"
 " to as 'media') with your friends."
 msgstr ""
-"Puedes compartir fotos, videos y grabaciones de audio (estos sólo pueden ser"
+"Puedes compartir fotos, videos y grabaciones de audio (estos pueden ser"
 " referidos como \"medios de comunicación\") con tus amigos."
 
 # 37b2daa8ff5b4b60b23b81b752d3406e
@@ -558,13 +558,13 @@ msgid ""
 "The Activity tab has been opened, the collaboraton button is pressed and "
 "\"My Neighborhood\" selected."
 msgstr ""
-"La ficha Actividad se ha abierto, se pulsa el botón collaboraton y "
-"seleccionado \"Mi Barrio\"."
+"La ficha Actividad se ha abierto, se pulsa el botón collaboración y "
+"se ha seleccionado \"Mi Vecindario\"."
 
 # b157b3c9383b4373b402e15e512dfbd2
 #: ../source/record.rst:161
 msgid "Share, and join Record"
-msgstr "Compartir y unirse Record"
+msgstr "Compartir y unirse a Grabar"
 
 # 913f74916d1f442586836daf66614fa1
 #: ../source/record.rst:165
@@ -574,10 +574,10 @@ msgid ""
 "to it. They can now join your Activity by clicking on the Record icon next "
 "to your icon."
 msgstr ""
-"Una vez que haya realizado su actividad disponible para compartir, los "
-"demás, mirando a su vecindad de la visión, ver el icono con el icono de "
-"grabación, un ojo, cerca de ella. Ahora pueden unirse a su actividad "
-"haciendo clic en el icono de grabación junto a su icono."
+"Una vez que haz hecho tu actividad disponible para compartir, los "
+"demás, mirando a su Vista de Vecindario, verán tu icono con el icono de Grabar, "
+"un ojo, cerca de el. Ahora pueden unirse a tu actividad "
+"haciendo clic en el icono de Grabar junto a tu icono."
 
 # 93628adf52884a53a9dd68da8681b957
 #: ../source/record.rst:167
@@ -585,8 +585,8 @@ msgid ""
 "They must then select \"Join\" and their Record Activity opens with your "
 "images in their tray."
 msgstr ""
-"A continuación, debe seleccionar \"Join\" y su registro de actividad se abre"
-" con sus imágenes en su bandeja."
+"A continuación, debe seleccionar \"Unir\" y su actividad Grabar se abre"
+" con tus imágenes en su bandeja."
 
 # 0ae27740daa0451f9d5b6e6e83500d38
 #: ../source/record.rst:169
@@ -595,8 +595,8 @@ msgid ""
 "thumbnail is in the same colors as the XO icon of the person who took the "
 "photo."
 msgstr ""
-"Ahora en el Registro, las miniaturas de las dos partes se comparten. El "
-"marco de la miniatura se encuentra en los mismos colores que el icono de XO "
+"Ahora en Grabar, las miniaturas de las dos partes se comparten. El "
+"marco de la miniatura se muestra con los mismos colores que el icono de XO "
 "de la persona que tomó la foto."
 
 # 2fc876d1713f4ff2833cebe51b3b9656
@@ -610,31 +610,31 @@ msgid ""
 "On your Frame, you can see the icons of all of the people with whom you are "
 "collaborating. You can also see their shared media."
 msgstr ""
-"En su marco, se puede ver los iconos de todas las personas con las que estás"
-" colaborando. También puede ver sus medios compartidos."
+"En tu marco, se pueden ver los iconos de todas las personas con las que estás"
+" colaborando. También puedes ver sus medios compartidos."
 
 # ecc9b355a22d4c21a104c508cdd77e8d
 #: ../source/record.rst:178
 msgid "You can exit a shared Activity at any time."
-msgstr "Puede salir de una actividad compartida en cualquier momento."
+msgstr "Puedes salir de una actividad compartida en cualquier momento."
 
 # 81d10a28755c40a5ad026aa38ff73067
 #: ../source/record.rst:180
 msgid ""
 "|more| :doc:`/collaborating` has more information on sharing work in Sugar."
 msgstr ""
-"| Más información |: doc: `/ collaborating` tiene más información sobre cómo"
+"|more| :doc:`/collaborating` tiene más información sobre cómo"
 " compartir el trabajo en Sugar."
 
 # a6ccd32fbbb848039a248eef62bfab09
 #: ../source/record.rst:185
 msgid "Getting creative with Record"
-msgstr "Conseguir creativo con Record"
+msgstr "Siendo creativo con Grabar"
 
 # bcc38826021d42da9b8b9a61f6eedbac
 #: ../source/record.rst:187
 msgid "Record can be used for :"
-msgstr "Record se puede utilizar para:"
+msgstr "Grabar se puede utilizar para:"
 
 # 585b99bbd99e4202b7b2c557bfff6065
 #: ../source/record.rst:189
@@ -654,17 +654,17 @@ msgstr "Grabación de audio."
 # 0327e7769483417aa75c819db71d74a9
 #: ../source/record.rst:192
 msgid "Stop-motion photography."
-msgstr "Stop-motion fotografía."
+msgstr "Fotografía Stop-motion."
 
 # 59b572c4793b4cbfa2e207aeb203e1c6
 #: ../source/record.rst:193
 msgid "Time-lapse photography."
-msgstr "Time-lapse fotografía."
+msgstr "Fotografía con períodos de tiempo."
 
 # 1f521312c426490692fd29ce713e100c
 #: ../source/record.rst:194
 msgid "Creating 360° panoramas."
-msgstr ""
+msgstr "Creación de panorámicas de 360°"
 
 # f15a8a41a12846399cd788016bd63b70
 #: ../source/record.rst:195
@@ -675,12 +675,12 @@ msgstr "Visualización de presentaciones de diapositivas."
 #: ../source/record.rst:196
 msgid "Storing extra information about audio, video, and pictures."
 msgstr ""
-"El almacenamiento de información adicional sobre audio, vídeo e imágenes."
+"Almacenamiento de información adicional sobre audio, vídeo e imágenes."
 
 # 504c59aa450541be97d8a8cbe65eb07c
 #: ../source/record.rst:199
 msgid "Things to Try with Record"
-msgstr "Pruebas a realizar con Record"
+msgstr "Pruebas a realizar con Grabar"
 
 # 4b343a81319e44aca2ef434747d1fc89
 #: ../source/record.rst:201
@@ -690,8 +690,8 @@ msgid ""
 "use the camera for video conferencing, which involves talking to others on a"
 " video screen knowing that the others can also view your video."
 msgstr ""
-"Usted puede tomar fotos y hacer videos con un built-in, o conectado, cámara "
-"de fotografía y grabación de vídeo. También puede utilizar la cámara para "
+"Puede tomar fotos y hacer videos con la cámara incluida, o una conectada. "
+"También puede utilizar la cámara para "
 "videoconferencias, que consiste en hablar con otras personas en una pantalla"
 " de vídeo a sabiendas de que los demás también pueden ver el vídeo."
 
@@ -705,25 +705,25 @@ msgid ""
 "voice and pictures. You can tell factual or emotional stories with film or "
 "pictures to help change perceptions or take action."
 msgstr ""
-"Puede expresarse con sonido, imágenes y vídeo utilizando las cámaras y "
-"micrófonos. Usted está aprendiendo acerca de la luz, las observaciones, el "
-"ángulo y perspectiva. Mediante el registro de las vistas y los sonidos a su "
-"alrededor, otros pueden aprender acerca de usted, su cultura, y medio "
-"ambiente. Puede comunicarse con su voz y fotos. Usted puede contar historias"
-" de hecho o emocionales con película o fotos para ayudar a cambiar las "
+"Puedes expresarte con sonido, imágenes y vídeo utilizando las cámaras y "
+"micrófonos. Estarás aprendiendo acerca de la luz, las observaciones, el "
+"ángulo y perspectiva. Mediante el registro de las vistas y los sonidos a tu "
+"alrededor, otros pueden aprender acerca de ti, ttu cultura, y medio "
+"ambiente. Puede comunicarse con tu voz y fotos. Puede contar historias "
+"reales o historias emocionantes con película o fotos para ayudar a cambiar las "
 "percepciones o tomar medidas."
 
 # ef7b3fedd54044378f7f0682efa0f935
 #: ../source/record.rst:205
 msgid "You could also try some of the following :"
-msgstr "También puede probar algunos de los siguientes:"
+msgstr "También puedes probar algunos de los siguientes:"
 
 # 60eb8c34b8f44d8dbca10db7fae3437f
 #: ../source/record.rst:207
 msgid ""
 "Use the Record Activity to record your voice with a built-in microphone."
 msgstr ""
-"Utilice la Actividad Grabar para grabar su voz con un micrófono incorporado."
+"Utilize la Actividad Grabar para grabar tu voz con un micrófono incorporado."
 
 # 5ff72530197541f78aa1e18ba57e20a8
 #: ../source/record.rst:208
@@ -731,54 +731,54 @@ msgid ""
 "Take a photo of where you live by aiming the camera lens at your home, and "
 "then clicking the circle icon."
 msgstr ""
-"Tomar una foto del lugar donde vive apuntando la lente de la cámara en su "
+"Toma una foto del lugar donde vives apuntando la lente de la cámara a su "
 "casa, y luego haciendo clic en el icono del círculo."
 
 # 6d05c0ac30a24c2cacfcf1736576b363
 #: ../source/record.rst:209
 msgid "Record sounds of your city or town."
-msgstr "Grabar sonidos de su ciudad o pueblo."
+msgstr "Grabar sonidos de tu ciudad o pueblo."
 
 # 66e3d1ec7acc4f3b8fde3dd67c8d0424
 #: ../source/record.rst:210
 msgid "Record and leave messages for your family."
-msgstr "Grabe y dejar mensajes para su familia."
+msgstr "Graba y deja mensajes para tu familia."
 
 # 171c5b1124b94dc6aac28fcd2b626007
 #: ../source/record.rst:211
 msgid "Teachers - record a message for parents."
-msgstr "Profesores - grabar un mensaje para los padres."
+msgstr "Profesores - graba un mensaje para los padres."
 
 # 6865b8b6cae94f39ad30ebe3a360b483
 #: ../source/record.rst:212
 msgid "Interview your friends and record it to audio or video."
-msgstr "Entrevista a tus amigos y grabarla en audio o vídeo."
+msgstr "Entrevista a tus amigos y grabalo en audio o vídeo."
 
 # 5a14dda635e3492b8b8eebef6752bbd8
 #: ../source/record.rst:213
 msgid "Make a video diary."
-msgstr "Hacer un video-diario."
+msgstr "Haz un video-diario."
 
 # aedf6aee1d674b70a50f5268b264b014
 #: ../source/record.rst:214
 msgid "Open your photos in the Paint Activity and draw on them."
-msgstr "Abre tus fotos en la actividad de pintura y dibujar sobre ellas."
+msgstr "Abre tus fotos en la actividad Pintar y dibuja sobre ellas."
 
 # 72d19e1b5f9f47f7bc005af63b44782d
 #: ../source/record.rst:215
 msgid "Add your pictures to a story using Write."
-msgstr "Añadir sus fotos a una escritura historia usando."
+msgstr "Añade tus fotos a una historia usando Escribir."
 
 # b3c17cd419c84e09b9fc18a3a01577e2
 #: ../source/record.rst:216
 msgid "Upload a picture to Flickr or Wikimedia Commons."
-msgstr "Sube una foto a Flickr o Wikimedia Commons."
+msgstr "Sube una foto a Flickr o a Wikimedia Commons."
 
 # eb04b1692e994b67bef19f4d66073e2d
 #: ../source/record.rst:217
 msgid "Attach a picture to an e-mail you send to a friend or family member."
 msgstr ""
-"Adjuntar una imagen a un correo electrónico que envíe a un amigo o miembro "
+"Adjunta una imagen a un correo electrónico que envíes a un amigo o miembro "
 "de la familia."
 
 # 62983cff8cc9493da2cf0491155577cb
@@ -787,11 +787,11 @@ msgid ""
 "Take a picture of a flower or plant from the same place every day to show "
 "how it changes."
 msgstr ""
-"Tome una fotografía de una flor o de la planta del mismo lugar todos los "
+"Tome una fotografía de una flor o de una planta del mismo lugar todos los "
 "días para mostrar cómo cambia."
 
 # de5a9a95134249849884f40b358db891
 #: ../source/record.rst:219
 msgid "Take a picture of a baby animal every week to show how it grows."
 msgstr ""
-"Tome una fotografía de un animal bebé cada semana para mostrar cómo crece."
+"Toma una fotografía de un animal bebé cada semana para mostrar cómo crece."
