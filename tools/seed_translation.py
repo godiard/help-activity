@@ -1,13 +1,18 @@
 from translate import Translator
 import polib
 import os
+import sys
 
-language_code = 'es'
+if len(sys.argv) > 1:
+    language_code = sys.argv[1]
+else:
+    print "Usage seed_translation.py lang"
+    print "  where lang is your two letteer ISO-639-1 language code"
+    exit()
 
 po_files_dir = './translated_po/%s' % language_code
 
 files = os.listdir(po_files_dir)
-#files = ['abacus.po']
 translate_all = True
 
 translator= Translator(to_lang=language_code)
