@@ -40,19 +40,19 @@ msgid ""
 "multiple machines."
 msgstr ""
 "Esta actividad permite a los estudiantes a tomar el proceso de aprendizaje "
-"en sus propias manos, ya que jugar, pero también crean sus propios juegos. "
-"El juego ha correspondientes pares de cuáles son los azulejos se puede hacer"
-" clic, o bloques. Los pares de tarjetas se componen de texto, sonido o "
-"imágenes. Los niños se vuelven sobre las cartas para que coincida con "
+"en sus propias manos, mientras juegan, pero también crean sus propios juegos. "
+"El juego tiene pares correspondientes de tarjetas o bloques en los que se puede hacer"
+" clic. Los pares de tarjetas se componen de texto, sonido o "
+"imágenes. Los niños dan vuelta las cartas para que coincidan con "
 "palabras, palabras y sonidos, palabras e imágenes, o imágenes y sonidos. Hay"
 " unos cuantos juegos predeterminados cargados. Estas imágenes, sonidos y "
-"texto se pueden extender para animaciones o fragmentos de películas. "
-"Jugadores de Memorice pueden jugar juntos en varios equipos."
+"texto se pueden extender a animaciones o fragmentos de películas. "
+"Los jugadores de Memorizar pueden jugar juntos en diferentes equipos."
 
 # ed3c4249b21344f7bf204e1f2531ae60
 #: ../source/memorize.rst:11
 msgid "Using Memorize"
-msgstr "Utilizando Memorice"
+msgstr "Utilizando Memorizar"
 
 # b433c259579c4f37aa21f3898a0df8a2
 #: ../source/memorize.rst:13

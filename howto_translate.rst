@@ -19,22 +19,22 @@ Steps in the translation process:
 ---------------------------------
 
 1. Create the po files. This is done just one time (while there are not changes,
-in the .rst files) 
+in the .rst files)::
 
     make gettext
 
 The .pot files are generated in the directory ./po
 
 2. Create the .po files to enable translation. This need be done for every language 
-we want translate. You need substitute *lang* by your two letters ISO 639-1 language code.
+we want translate. You need substitute *lang* by your two letters ISO 639-1 language code::
 
-    ./init_l10n.sh *lang*
+    ./init_l10n.sh lang
 
 The files are created in translated_po/lang
 
 Now the translators can start to translate the .po files.
 If you never saw a .po file have a header and every paragraph have a format similar
-to the following example:
+to the following example::
 
     # 461fbe19d69643f1b6ddbfdde9dffc62
     #: ../source/about_sugar.rst:61
@@ -49,7 +49,7 @@ to the following example:
 
 The translator work is complete the msgstr part. The msgid should not be changed.
 The lines starting with # are comments and can be ignored.
-The last example translated to Spanish will be:
+The last example translated to Spanish will be::
 
     # 461fbe19d69643f1b6ddbfdde9dffc62
     #: ../source/about_sugar.rst:61
@@ -75,17 +75,17 @@ from every file to the Google Translate service, get the result and update
 the .po files. The result of course is not good enough, but usually is less
 work correct the mistakes that start the translation from zero.
 
-To run the scrip you need do:
+To run the scrip you need do::
 
     python tools/seed_translation.py lang
 
 
 3. Generate translated html files. Once you have finished translate (or every
-time you want check the result of your translation), you do:
+time you want check the result of your translation), you do::
 
     ./l10n_script.sh lang
 
-The html files will be created in the directory html/lang.
+The html files will be created in the directory html/*lang*.
 
 You can send your translations to the Help activity maintainer and a new version
 of the activity will be created ready to be distributed.
@@ -104,7 +104,7 @@ that are already used in the translations fo revery activity.
  "|sugar_sharing| Sugar facilitates sharing and collaboration. Children can "
  "write documents, share books and pictures, or make music together with ease."
 
-In this case "|sugar_sharing|" with the | chars, means a image with that name
+In this case *|sugar_sharing|* with the | chars, means a image with that name
 will be inserted in the text. You need preserve that untranslated.
 
 You can read more about .rst format here:
