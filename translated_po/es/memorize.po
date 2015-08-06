@@ -60,8 +60,8 @@ msgid ""
 "Memorize comes with two modes, *Play*, and *Edit game*. In *Edit game* you "
 "can make a brand new Memorize game, or edit one of the demo games supplied."
 msgstr ""
-"Memorice viene con dos modos, * Juego * y * Editar juego *. En * Editar * "
-"juego te puede hacer un nuevo juego Memorize nombre o editar uno de los "
+"Memorice viene con dos modos, *Jugar* y *Editar juego*. En *Editar juego* "
+"tu puedes hacer un nuevo juego Memorizar, o editar uno de los "
 "juegos de demostración suministradas."
 
 # 02a7a833bd03431794ece25b957b7685
@@ -71,9 +71,9 @@ msgid ""
 "*Numbers, Letters* and *Sounds*. Memorize supports :ref:`Sharing` so you can"
 " play the game with others."
 msgstr ""
-"En modo de reproducción * * la actividad tiene tres tipos de fichas para "
-"juegos de demostración, * Números, Letras * y * Sonidos *. Memorice "
-"soportes: ref: `Sharing` así que usted puede jugar el juego con los demás."
+"En el modo *Jugar* la actividad tiene tres tipos de fichas para "
+"juegos de demostración, Números, Letras y Sonidos. Memorizar "
+"soporta :ref:`Sharing` así que tu puede jugar con los demás en red."
 
 # 7bae8eb4f983485db119b0f405f68ca1
 #: ../source/memorize.rst:17
@@ -83,11 +83,10 @@ msgid ""
 "1 in the top part of the gameboard, and with a 2 in the lower half. This is "
 "called a *Grouped tile game*."
 msgstr ""
-"La siguiente imagen muestra las Cartas demo de ser seleccionado, y jugar en "
-"el progreso. Tenga en cuenta que las baldosas sin mover, están en dos sets, "
-"azulejos están numeradas con un 1 en la parte superior del tablero de juego,"
-" y con un 2 en la mitad inferior. Esto se llama * Agrupados juego de fichas "
-"*."
+"La siguiente imagen muestra el demo de Letras siendo seleccionado, y con un juego en "
+"progreso. Ten en cuenta que las piezas sin mover, están en dos sets, "
+"piezas numeradas con un 1 en la parte superior del tablero de juego,"
+" y con un 2 en la parte inferior. Esto se llama *Juego de fichas arupadas*."
 
 # 644fb5988f034620bc6ebb012603212c
 #: ../source/memorize.rst:19
@@ -95,8 +94,8 @@ msgid ""
 "(In the Sounds demo, there is an example of an *Ungrouped game*, that is, "
 "the tiles are randomly spread over the gameboard.)"
 msgstr ""
-"(En la demo Sounds, hay un ejemplo de un juego Desagrupados * *, es decir, "
-"los azulejos se distribuyen aleatoriamente sobre el tablero. )"
+"(En la demo Sonidos, hay un ejemplo de un  *juego desagrupado*, es decir, "
+"las piezas se distribuyen aleatoriamente sobre el tablero.)"
 
 # 7bacb0c3f9f8495889c13605cd0737eb
 #: ../source/memorize.rst:21
@@ -106,10 +105,10 @@ msgid ""
 "tiles do not match, they are flipped back over after a short time, in which "
 "you try to memorize them."
 msgstr ""
-"El jugador ya ha igualado dos pares, haciendo clic en las baldosas. Azulejos"
-" coincidentes se resaltan y una puntuación se muestra en el lado izquierdo. "
-"Si el par de baldosas no coinciden, se da la vuelta hacia atrás después de "
-"un corto período de tiempo, en el que intenta memorizarlas."
+"El jugador ya ha igualado dos pares, haciendo clic en las piezas. Las piezas "
+"que coincidentes se resaltan y una puntuación se muestra en el lado izquierdo. "
+"Si el par de piezas no coinciden, se las da vuelta hacia atrás después de "
+"un corto período de tiempo, en el que debes intentar memorizarlas."
 
 # 5f5757a0578f4c90bcef0e04d5b4a938
 #: ../source/memorize.rst:23
@@ -121,20 +120,19 @@ msgid ""
 "highlighted as you cross it. Select your guess. After you have made a few "
 "guesses, you will start to remember where the matching tiles might be."
 msgstr ""
-"Cuando juegas a * Agrupados juego de fichas *, el indicador estará en la "
+"Cuando juegas un *juego de fichas agrupadas*, el indicador estará en la "
 "mitad superior del tablero de juego, y la respuesta se oculta bajo una de "
-"las plazas en la mitad inferior. Tienes que adivinar donde el azulejo juego "
-"podría ser. Mover el cursor hacia abajo y observe que las filas inferiores "
-"son ahora \"en vivo\" --Cada plaza se destaca como la cruzas. Seleccione su "
-"respuesta. Después de haber hecho algunas conjeturas, usted comenzará a "
-"recordar dónde las fichas iguales podrían ser."
+"las plazas en la mitad inferior. Tienes que adivinar donde podría estar la pieza. "
+"Mueve el cursor hacia abajo y observa que las filas inferiores "
+"son ahora \"resaltadas\" --Cada plaza se destaca cuando la cruzas. Selecciona tu "
+"respuesta. Después de haber hecho algunas conjeturas, tu comenzarás a "
+"recordar dónde podrían estar las fichas iguales."
 
 # 8656321781cc4dca9b7070363739a34b
 #: ../source/memorize.rst:27
 msgid "**Toolbar tabs and buttons in Play do the following:**"
 msgstr ""
-"** Pestañas barra de herramientas y botones de reproducción haga lo "
-"siguiente: **"
+"** Barra de herramientas y botones de juego, hacen lo siguiente: **"
 
 # 6812188db9f24f5991af3dce83cd15cd
 #: ../source/memorize.rst:31
@@ -143,27 +141,25 @@ msgid ""
 "allows you to add a description to the :doc:`/journal` entry. Thirdly select"
 " Private, or My Neighbourhood, see :ref:`Sharing`."
 msgstr ""
-"Ficha Actividad. En el primer campo el nombre del juego. El botón "
-"Descripción le permite añadir una descripción para el: doc: `entrada / "
-"journal`. En tercer lugar seleccione Privada o Mi Barrio, ver: ref: "
-"`Sharing`."
+"Barra de Actividad. En el primer campo el nombre del juego. El botón "
+"Descripción te permite añadir una descripción para la entrada del :doc:`/journal`. "
+"En tercer lugar seleccione Privada o Mi Vecindario, ver :ref:`Sharing`."
 
 # 6de0add81ad34fac828058ce5cea6d55
 #: ../source/memorize.rst:32
 msgid "Load demo game - Select preloaded demo games from list."
 msgstr ""
-"Cargar demo del juego - Seleccione juegos de demostración precargadas de la "
-"lista."
+"Cargar juego de demo - Selecciona juegos de demostración precargadas de la lista."
 
 # db871fd594a7406894efc897a4c723d6
 #: ../source/memorize.rst:33
 msgid "Select the Grid Size, 4x4, 5x5, or 6x6."
-msgstr "Seleccione el Tamaño de cuadrícula, 4x4, 5x5, 6x6 o."
+msgstr "Selecciona el Tamaño de cuadrícula, 4x4, 5x5 o 6x6."
 
 # 972f9021b2b7449193c6616d6fcbb3a9
 #: ../source/memorize.rst:34
 msgid "Restart Game."
-msgstr "Juego Restart."
+msgstr "Reiniciar Juego."
 
 # 261e2a59342c4043a8e3fb08c38ef93f
 #: ../source/memorize.rst:35
@@ -171,13 +167,12 @@ msgid ""
 "This is the switch to *Edit game*. Create a new game or edit the current "
 "game."
 msgstr ""
-"Este es el cambio a * Edición de juego *. Crear un nuevo juego o editar el "
-"juego actual."
+"Este es el boton de cambio a modo *Editar juego *. Crea un nuevo juego o edita el juego actual."
 
 # e77909a27b3a4abc9f1f2843e4c8b12c
 #: ../source/memorize.rst:36
 msgid "The *Edit game* mode icons are grayed out."
-msgstr "Los * Iconos del modo de edición del juego * aparecen en gris."
+msgstr "Los iconos del modo *Editar juego* aparecen en gris."
 
 # 17e657266a6048bbac149843826a0954
 # 8a9d8a24931944e98c4a062f4b46a7c9
@@ -192,7 +187,7 @@ msgstr "en gris."
 # aa0d20f7c6264d2f9ed3e1d29842cf2c
 #: ../source/memorize.rst:39 ../source/memorize.rst:69
 msgid "Stop, or close the Activity."
-msgstr "Detener o cierre la Actividad."
+msgstr "Detener o cerrar la Actividad."
 
 # 2ed2e5338868477cac415eae67d3ca3d
 #: ../source/memorize.rst:42
@@ -207,11 +202,11 @@ msgid ""
 "the *Edit game* button, you will change that file, and the older file will "
 "be overwritten in the :doc:`/journal`. In this case the older game is lost."
 msgstr ""
-"Al pulsar el botón de juego * Editar *, los resultados en la edición del "
-"juego existente. Si abre Memorice de * Reanudar *, es decir, un archivo con "
-"el nombre existente, y pulse el botón Editar * juego *, usted va a cambiar "
-"ese archivo, y el archivo antiguo se sobrescribirán en el: doc: `/ journal`."
-" En este caso se pierde el juego más antiguo."
+"Al pulsar el botón *Editar juego*, comienzas la edición del "
+"juego existente. Si abres Memorizar desde *Reanudar*, es decir, desde un archivo con "
+"el nombre existente, y pulsas el botón *Editar juego*, tu vas a cambiar "
+"ese archivo, y el archivo antiguo se sobrescribirán en el :doc:`/ journal`.."
+"En este caso se pierde el juego más antiguo."
 
 # d83c269f45814337b3d9c37fb0856f8a
 #: ../source/memorize.rst:47
@@ -219,8 +214,8 @@ msgid ""
 "To create a fresh game, open Memorize, from the Home View, *Start new*. "
 "Press the Activity tab. Type in a name for the game."
 msgstr ""
-"Para crear un juego fresco, abierto Memorice, desde la vista principal, * "
-"Comenzar una nueva *. Pulse la pestaña Actividad. Escriba un nombre para el "
+"Para crear un juego nuevo, abre Memorizar, desde la vista Hogar, seleccionando "
+"*Comenzar nuevo*. Pulse el boton Actividad y escriba un nombre para el "
 "juego."
 
 # a6caea50d9ec46809800b65129cd3dab
@@ -233,12 +228,12 @@ msgid ""
 " The demo games will always be there if you choose to edit a demo game, and "
 "clear its tiles.)"
 msgstr ""
-"Memorice le recordará esta diferencia de comportamiento. Si cambia el nombre"
-" de un juego existente, y luego pulsa el * Borrar todos los azulejos * "
-"botón, tendrá que introducir * ¿Quieres. . . *. Si pulsa * * Claro, esto "
-"sobreescribirá el juego anterior en su Diario. (No se puede sobrescribir una"
-" demo del juego en sí. Los juegos de demostración siempre estarán ahí si "
-"decide editar un juego de demostración, y borrar sus azulejos. )"
+"Memorizar te recordará esta diferencia de comportamiento. Si cambias el nombre"
+" de un juego existente, y luego pulsas el botón *Borrar todas las piezas*, "
+"te preguntara *¿Quieres... *. Si pulsas *Limpiar*, esto "
+"sobreescribirá el juego anterior en tu Diario. (No se puede sobrescribir un "
+"juego de demo en sí. Los juegos de demostración siempre estarán ahí si "
+"decides editar un juego de demostración, y borrar todas sus fichas.)"
 
 # fb4a38239ff34f7fb3bf478859280878
 #: ../source/memorize.rst:51
@@ -247,9 +242,9 @@ msgid ""
 "If none are available you could make some with Paint, see the tutorial "
 "below."
 msgstr ""
-"Es bueno si usted tiene algunos archivos de imagen en su diario, o en una "
-"memoria USB. Si no hay ninguno disponible que podría hacer algo con la "
-"pintura, vea el tutorial de abajo."
+"Sería bueno que tu tengas algunos archivos de imagen en tu Diario, o en una "
+"memoria USB. Si no hay ninguno disponible podrías hacer algo con la actividad "
+"Pintar, ve el tutorial más adelante."
 
 # dc2c8797a52e43e2bf7e92cde4a2bf95
 #: ../source/memorize.rst:53
@@ -265,16 +260,15 @@ msgstr ""
 "representa los nuevos contenidos para el tablero de juego. Hasta el momento "
 "tenemos Tux y su imagen. El lado izquierdo representa el espacio de trabajo."
 " Una imagen de una puesta de sol ha sido seleccionado de la revista, y el "
-"texto \"Sunset\" se ha entrado en la casilla * Texto: *. El cursor ha "
+"texto \"Sunset\ ('puesta de sol' en inglés) se ha entrado en la casilla *Texto:*. El cursor ha "
 "seleccionado * Añadir nuevo par *, y cuando se pulsa, el nuevo par "
-"transferirá a la sección de tablero de juego a la derecha."
+"se transferirá a la sección de tablero de juego a la derecha."
 
 # a92977eeb89840aab8db05c00f801649
 #: ../source/memorize.rst:57
 msgid "**Toolbar tabs and buttons in Edit game do the following:**"
 msgstr ""
-"** Pestañas y botones de barra de herramientas en Editar juego haga lo "
-"siguiente: **"
+"**Barra de herramientas y botones en Editar juego hacen lo siguiente: **"
 
 # cd6f6e7cf8d446b5b23c1938b9a8ff6b
 #: ../source/memorize.rst:61
@@ -282,30 +276,29 @@ msgid ""
 "Activity tab, name the game, access the Journal, to provide a description, "
 "and select Private, or My Neighbourhood, see :ref:`Sharing`."
 msgstr ""
-"Pestaña Actividad, nombre el juego, acceder a la Revista, para proporcionar "
-"una descripción y seleccione Privada o Mi Barrio, véase: ref: `Sharing`."
+"Barra Actividad, nombre el juego, accede al Diario, para proporcionar "
+"una descripción y seleccionar Privado o Mi Vecindario, véase :ref:`Sharing`."
 
 # 892e1c28d6cb474f805d40d4df8ae86d
 #: ../source/memorize.rst:62
 msgid "*Play* buttons are grayed out while in *Edit game* mode."
 msgstr ""
-"* Juego * botones estarán atenuados mientras que en * Editar * Modo de "
-"juego."
+"Los botones del modo *Jugar* estarán atenuados mientras que estas en modo *Editar juego*."
 
 # 752482a83a464884bc273f1dd443de61
 #: ../source/memorize.rst:65
 msgid "This button is now marked to switch back to *Play* mode."
-msgstr "Este botón está marcado para volver a * Modo de reproducción *."
+msgstr "Este botón está marcado para volver al *Modo de Juego*."
 
 # 1bfd99f26e6c4e43bdb4b6afa4dfe43b
 #: ../source/memorize.rst:66
 msgid "Switch between Match different tiles, and Match identical tiles."
-msgstr "Cambiar entre Partido diferentes azulejos, y Match fichas idénticas."
+msgstr "Cambiar entre Pares con fichas diferentes , y con fichas idénticas."
 
 # bc64033f0fb046f9ba4584368db7457c
 #: ../source/memorize.rst:67
 msgid "Switch between Grouped tiles game, and Ungrouped game."
-msgstr "Cambiar entre Agrupados juego azulejos, y juego Desagrupado."
+msgstr "Cambiar entre juego Agrupado, y juego Desagrupado."
 
 # 20a5707e1e514a48874ca3de3ea3aa6c
 #: ../source/memorize.rst:68
@@ -315,37 +308,37 @@ msgstr "Borrar todas las fichas."
 # 73b501324eea4777951ce2236bc372bc
 #: ../source/memorize.rst:72
 msgid "|icon<>|"
-msgstr "| Icono <> |"
+msgstr "|icon<>|"
 
 # ab7f81bc5df641c3ab6e49aeb2b3b520
 #: ../source/memorize.rst:72
 msgid "Match different tiles"
-msgstr "Coincidir con diferentes azulejos"
+msgstr "Coincidir con diferentes piezas"
 
 # 25b40ec6885c4d998d4885c6e70282eb
 #: ../source/memorize.rst:72
 msgid "|icon=|"
-msgstr "| Icono = |"
+msgstr "|icon=|"
 
 # 824de565c6404381b6379e2198daf07e
 #: ../source/memorize.rst:72
 msgid "Match identical tiles"
-msgstr "Empareja las fichas idénticas"
+msgstr "Emparejar fichas idénticas"
 
 # 44315be09dcb4b8287d45dc4fd6dd5f2
 #: ../source/memorize.rst:73
 msgid "|icon1+2|"
-msgstr "| Icon1 + 2 |"
+msgstr "|icon1+2|"
 
 # 969e725a02594fc19590bd1cb93cbcf9
 #: ../source/memorize.rst:73
 msgid "Grouped tiles game"
-msgstr "Agrupados juego azulejos"
+msgstr "Juego de piezas Agrupadas"
 
 # d50d2e634f9b41f0990ded4fe62181a5
 #: ../source/memorize.rst:73
 msgid "|icon-gray|"
-msgstr "| Icono gris |"
+msgstr "|icon-gray|"
 
 # 146f5c2cb4d342d992afdc039f931cbb
 #: ../source/memorize.rst:73
@@ -355,7 +348,7 @@ msgstr "Juego Desagrupado"
 # 73f58fa2a3304b80ba62bb3c720f7404
 #: ../source/memorize.rst:74
 msgid "|iconCl|"
-msgstr "| IconCl |"
+msgstr "|iconCl|"
 
 # ca7e55599fbf47ba802d0c58b2b47a33
 #: ../source/memorize.rst:74
@@ -369,8 +362,8 @@ msgid ""
 "this game is a *Match different tiles* and an *Ungrouped game*."
 msgstr ""
 "Si nos fijamos en la parte superior de la barra de herramientas en nuestro "
-"ejemplo anterior, se verá que este juego es a * Partido diferentes azulejos "
-"* y un juego * Sin grupo *."
+"ejemplo anterior, se verá que este juego es de *Seleccionar diferentes piezas* "
+" con piezas *Desagrupadas*."
 
 # b814fe6f2ca245c68725bfa7f1d607bd
 #: ../source/memorize.rst:89
@@ -382,8 +375,8 @@ msgid ""
 msgstr ""
 "En cuanto a la imagen de abajo a partir de la parte superior izquierda, a la"
 " derecha, muestra algunos de los pasos en la selección de contenidos para el"
-" juego. En la primera imagen ** 1 ** dentro del espacio de trabajo son los *"
-" Añadir item * botones. El botón Insertar imagen * * se ha utilizado para "
+" juego. En la primera imagen **1** dentro del espacio de trabajo estan los "
+"botones *Añadir item*. El botón *Insertar imagen* se ha utilizado para "
 "abrir el Diario, y seleccionar una imagen de Tux."
 
 # c398311a0f7544a89f173748c74298da
@@ -393,9 +386,9 @@ msgid ""
 " text* icon was selected. Now, the two tiles are ready to *Add as new pair* "
 "to the gameboard section on the right."
 msgstr ""
-"Siguiente ** 2 ** el texto \"Tux\" se ha introducido en el cuadro de texto, "
-"y también el texto * * icono Habla fue seleccionado. Ahora, las dos fichas "
-"están listos para * Agregar nuevo par * a la sección de tablero de juego a "
+"Siguiente **2** el texto \"Tux\" se ha introducido en el cuadro de texto, "
+"y también el botón *Hablar* fue seleccionado. Ahora, las dos fichas "
+"están listas para *Agregar nuevo par* a la sección de tablero de juego a "
 "la derecha."
 
 # ca4533fabe634c1cbee8fd8eaed3b657
@@ -405,15 +398,15 @@ msgid ""
 "*Play game*. The final image **4** shows the game in play. Notice that when "
 "the *Pronounce text* button has been selected Speak's eyes watch play."
 msgstr ""
-"Con todas las imágenes cargadas ** 3 ** pulse * Juego *, el cursor se cierne"
-" revela * Jugar *. La imagen final ** 4 ** muestra el juego en juego. Tenga "
-"en cuenta que los ojos de hablar cuando se ha seleccionado el botón * texto "
-"Pronuncia * ver jugar."
+"Con todas las imágenes cargadas **3** pulsa *Jugar*, el cursor "
+"revela *Jugar*. La imagen final **4** se muestra jugando el juego. Ten "
+"en cuenta que cuando se ha seleccionado el botón *Decir texto* los ojos de \"Hablar\" "
+"se mostrarán al jugar."
 
 # a1c85cb048944614bd1862a608852168
 #: ../source/memorize.rst:99
 msgid "**The add item buttons, within the work space:**"
-msgstr "** Los botones Agregar, dentro del espacio de trabajo: **"
+msgstr "**Los botones Agregar item, dentro del espacio de trabajo:**"
 
 # 5746cf5525e74c9a88ae797d0398f0a1
 #: ../source/memorize.rst:101
@@ -428,37 +421,37 @@ msgid ""
 "The Preview will show the new tile, like this, with no content, or with "
 "whatever has been selected."
 msgstr ""
-"La vista previa mostrará la nueva baldosa, así, sin contenido, o con lo que "
+"La vista previa mostrará la nueva pieza, así, sin contenido, o con lo que "
 "se ha seleccionado."
 
 # 3dd74c7198fb4b3490372b262524c727
 #: ../source/memorize.rst:107
 msgid "Text can be entered directly into the box under *Text:*."
-msgstr "Se puede introducir texto directamente en el cuadro bajo * Texto: *."
+msgstr "Se puede introducir texto directamente en el cuadro *Texto:*."
 
 # db82528fad774b629df56e3eeb2ba449
 #: ../source/memorize.rst:109
 msgid "Insert picture, opens Journal or attached media in Image search."
 msgstr ""
-"Insertar imagen, abre Diario o medios de comunicación unidos en busca de "
+"Insertar imagen, abre el Diario o dispositivos conectados en busca de una "
 "imagen."
 
 # 116824e0c7774b22a154d0ac77a9b585
 #: ../source/memorize.rst:110
 msgid "Insert sound file, opens Journal or attached media in Audio search."
 msgstr ""
-"Insertar archivo de sonido, abre los medios de revistas o unidos en la "
-"búsqueda de audio."
+"Insertar archivo de sonido, abre el Diario o dispositivos conectaados en la "
+"búsqueda de archivos de audio."
 
 # acdc0e62c4874c7ea7f2951ee9e7dece
 #: ../source/memorize.rst:111
 msgid "Pronounce text during tile flip"
-msgstr "Pronuncia texto durante flip azulejo"
+msgstr "Pronuncia texto cuando se gira la pieza"
 
 # c085dd627e75482584a2db6f1031c931
 #: ../source/memorize.rst:112
 msgid "Select font."
-msgstr "Seleccione la fuente."
+msgstr "Selecciona la tipografía."
 
 # 316b7153ff48490181635d79236efc06
 #: ../source/memorize.rst:113
@@ -466,7 +459,7 @@ msgid ""
 "*Add:* This will add the current \"pair\" in the work space, to the "
 "gameboard section on the right."
 msgstr ""
-"* Añadir: * Esto agregará el \"par\" actual en el espacio de trabajo, a la "
+"*Añadir:* Esto agregará el \"par\" actual en el espacio de trabajo, a la "
 "sección de tablero de juego a la derecha."
 
 # 92cfef0d0b7349c4a1d78e3d60f22619
@@ -475,7 +468,7 @@ msgid ""
 "*Update:* This will bring a selected pair, from gameboard section on the "
 "right, back into the work space, where changes can be made."
 msgstr ""
-"* Actualización: * Esto traerá un par seleccionado, desde la sección de "
+"*Actualización:* Esto traerá un par seleccionado, desde la sección de "
 "tablero de juego a la derecha, de nuevo en el espacio de trabajo, donde se "
 "pueden hacer cambios."
 
@@ -487,7 +480,7 @@ msgstr "Tutoriales"
 # 1fb5e8603b4c48c690ceba6fd361a98c
 #: ../source/memorize.rst:120
 msgid "Create a Color Game"
-msgstr "Crear un juego de color"
+msgstr "Crear un juego con colores"
 
 # 4689dea160c841ecaf0dfce837ff7f00
 #: ../source/memorize.rst:122
@@ -496,9 +489,9 @@ msgid ""
 "matching colors. This is a *Match identical tiles* game. You will learn how "
 "to upload an image and add text."
 msgstr ""
-"En este tutorial, aprenderás cómo crear y reproducir una Actividad Memorizar"
-" colores a juego. Se trata de un * Partido fichas idénticas * Juego. Usted "
-"aprenderá cómo subir una imagen y añadir texto."
+"En este tutorial, aprenderás cómo crear y reproducir un juego con colores en la "
+"  Actividad Memorizar. Se trata de un juego de *Selección de fichas idénticas*. Tu "
+"aprenderás cómo agregar una imagen y añadir texto."
 
 # a896a3e86c294ffe9ba6868dddc02240
 #: ../source/memorize.rst:124
@@ -509,11 +502,11 @@ msgid ""
 "in shape. The Memorize activity uses a square picture image aligned from the"
 " upper left."
 msgstr ""
-"Antes de comenzar, ahorrar ocho rellenos de color utilizando la actividad de"
-" pintura. En Paint, utilice la herramienta Cubo para llenar todo el espacio "
-"con un color, y el nombre y guardar la imagen. La imagen en color salvado de"
-" la actividad de pintura se encuentra en forma rectangular. La actividad "
-"Memorice utiliza una imagen Cuadro cuadrado alineado desde la parte superior"
+"Antes de comenzar, crea ocho rellenos de color utilizando la actividad Pintar. "
+"En Pintar, utiliza la herramienta Balde para llenar todo el espacio "
+"con un color, y nombra la imágen con el color correspondiente al guardar la imagen. "
+"La imagen en color grabada en la actividad Pintar tiene forma rectangular. La actividad "
+"Memorizar utiliza una imagen cuadrada alineada desde la parte superior"
 " izquierda."
 
 # 77f3e3458d804bf1b524561e961d5ca8
@@ -523,10 +516,10 @@ msgid ""
 "*Resume* in your Journal, that is, an existing named file, you will change "
 "that file, and the older file will be overwritten in the Journal.)"
 msgstr ""
-"Abrir Memorice, desde la vista principal, * Comenzar una nueva *. (Si abre "
-"Memorice de * Reanudar * en su Diario, archivo, es decir, una con nombre "
-"existente, que va a cambiar ese archivo, y el archivo antiguo será "
-"sobrescrito en el Diario. )"
+"Abre Memorizar, desde la vista Hogar, con la opción *Empezar nuevo*. (Si abres "
+"Memorizar con *Reanudar* en tu Diario, es decir, una entrada con nombre "
+"existente, vas a cambiar ese archivo, y el archivo antiguo será "
+"sobrescrito en el Diario)."
 
 # 325b8f9ebf904b75b9107d38c22de0c0
 # 9acebbc4aa5844e9b353554329900a5b
@@ -534,7 +527,7 @@ msgstr ""
 #: ../source/memorize.rst:127 ../source/memorize.rst:150
 #: ../source/memorize.rst:188
 msgid "Press the Activity tab."
-msgstr "Pulse la pestaña Actividad."
+msgstr "Pulse el botón Actividad."
 
 # f98becbf27654c2b9993c87c93cfd7ba
 # 47b3dc24635b4893903991c320f9204d
@@ -542,53 +535,53 @@ msgstr "Pulse la pestaña Actividad."
 #: ../source/memorize.rst:128 ../source/memorize.rst:151
 #: ../source/memorize.rst:189
 msgid "Type in a name for this game."
-msgstr "Escriba un nombre para este juego."
+msgstr "Escribe un nombre para este juego."
 
 # e1bff22cf3aa4fccbf3fb686db6dafd0
 #: ../source/memorize.rst:129
 msgid "Click the *Edit game* button."
-msgstr "Haga clic en el botón de juego * Editar *."
+msgstr "Haz clic en el botón *Editar juego*."
 
 # fd789fbff9ca4241bb912257e6b44158
 #: ../source/memorize.rst:130
 msgid "Press *Match identical tiles*."
-msgstr "Pulse * Empareja las fichas idénticas *."
+msgstr "Pulse *Iguala fichas idénticas *."
 
 # 757ff35c834d4f99837a05a21cd499dd
 #: ../source/memorize.rst:131
 msgid "Press to choose either a *Grouped tiles game,* or an *Ungrouped game.*"
 msgstr ""
-"Pulse para elegir entre un * Agrupados azulejos juego, * o un juego * "
-"Desagrupado. *"
+"Pulse para elegir entre un *Juego de fichas agrupadas* o un *Juego de fichas mixtas* "
+"(desagrupadas)."
 
 # 3318569c44524736b132edde10e3a766
 #: ../source/memorize.rst:132
 msgid "Insert Pictures and Text like this:"
-msgstr "Insertar imágenes y texto como este:"
+msgstr "Inserta las imágenes y el texto como este:"
 
 # 4065e607773a41c48c1b8ba69fc9a3de
 #: ../source/memorize.rst:134
 msgid "Working in the work space, which will now only have one tile pane,"
 msgstr ""
-"Trabajar en el espacio de trabajo, que ahora sólo tienen un panel de "
-"azulejos,"
+"Trabaja en el espacio de trabajo, que ahora sólo tienen un panel de "
+"fichas,"
 
 # 3751f2c891b54de599b473b77612c17f
 #: ../source/memorize.rst:136
 msgid "Click *Insert picture*."
-msgstr "Haga clic en Insertar imagen * *."
+msgstr "Haz click en  *Insertar imagen*."
 
 # a062121099a34df0a0b5817630436beb
 #: ../source/memorize.rst:137
 msgid "Select and click the image file with your color from the Journal."
 msgstr ""
-"Seleccione y haga clic en el archivo de imagen con el color de la Revista."
+"Selecciona y haz clic en el archivo de imagen con el color desde el Diario."
 
 # a5c53849bab54a46a8bdc359893a71c3
 #: ../source/memorize.rst:138
 msgid "Type in the name of the color you just chose in the *Text:* box."
 msgstr ""
-"Escriba el nombre del color que usted acaba de elegir en el * Texto: * Caja."
+"Escribe el nombre del color que acabas de elegir en la caja *Texto:*."
 
 # 0a20af3f35bc49c286d820fe300427fa
 #: ../source/memorize.rst:139
@@ -596,7 +589,7 @@ msgid ""
 "Click *Add as new pair*. A new pair of tiles are displayed on the right "
 "side, the gameboard section."
 msgstr ""
-"Haga clic * Agregar nuevo par *. Un nuevo par de fichas se muestran en el "
+"Haz click en *Anadir nuevo par*. Un nuevo par de fichas se muestran en el "
 "lado derecho, la sección de tablero."
 
 # 53a80942d70048b1a9a4c02e5aaba59a
@@ -605,7 +598,7 @@ msgstr ""
 #: ../source/memorize.rst:140 ../source/memorize.rst:165
 #: ../source/memorize.rst:196
 msgid "Repeat steps until all pairs are added."
-msgstr "Repita los pasos hasta que se agregan todos los pares."
+msgstr "Repite los pasos hasta que se agregan todos los pares."
 
 # f470546f00074c6492588c5371545f28
 # 5f114d84286d4408b1f72071f38d07ad
@@ -613,12 +606,12 @@ msgstr "Repita los pasos hasta que se agregan todos los pares."
 #: ../source/memorize.rst:142 ../source/memorize.rst:167
 #: ../source/memorize.rst:198
 msgid "Now to play the game, click the *Play* button."
-msgstr "Ahora, para jugar el juego, haga clic en el botón * * Juego."
+msgstr "Ahora, para jugar el juego, haz clic en el botón *Jugar*."
 
 # cf4ac213a38841fc96b9b4734a5824ee
 #: ../source/memorize.rst:145
 msgid "Create a Sound Game"
-msgstr "Crear un Sonido de juego"
+msgstr "Crear un juego con Sonidos"
 
 # f452dd3c3efe4ad3a2b020aa801e6a62
 #: ../source/memorize.rst:147
@@ -630,40 +623,40 @@ msgid ""
 "eight pictures using the Browse activity, and eight matching sound files. "
 "The files can be on a USB stick or in your Journal."
 msgstr ""
-"En este tutorial, aprenderás cómo crear y jugar un juego Actividad Memorice "
-"imágenes y sonidos. Los azulejos se agrupan por lo que todas las imágenes se"
-" numeran azulejos '1', mientras que los sonidos están numerados '2' "
-"azulejos. Usted aprenderá cómo subir una imagen y cargar un sonido. Antes de"
-" comenzar, ahorrar ocho fotografías con la actividad de Exploración y ocho "
-"archivos de sonido a juego. Los archivos pueden estar en una memoria USB o "
-"en su Diario."
+"En este tutorial, aprenderás cómo crear y jugar un juego con la Actividad Memorizar "
+"con imágenes y sonidos. Las piezas se agrupan por lo que todas las piezas con imágenes estan"
+" numeradas con '1', mientras que las piezas con los sonidos están numeradas con '2'. "
+"Aprenderás cómo agregar una imagen y cargar un sonido. Antes de"
+" comenzar, graba ocho fotografías con la actividad Navegar y ocho "
+"archivos de sonido correspondientes. Los archivos pueden estar en una memoria USB o "
+"en tu Diario."
 
 # 226b70cfdb8e4bddbccfd97449a238a5
 # fb6c1a4b884e4a04b82992a7217a9b4b
 #: ../source/memorize.rst:149 ../source/memorize.rst:187
 msgid "Open Memorize, from the Home View, *Start new*."
-msgstr "Abrir Memorice, desde la vista principal, * Comenzar una nueva *."
+msgstr "Abre Memorizar, desde la vista Hogar, con la opción *Empezar nuevo*."
 
 # 62030c1f2d204bccbcccec816ed4a0ea
 #: ../source/memorize.rst:152
 msgid "Click on *Grouped tiles game.*"
-msgstr "Haga clic en * azulejos agrupados juego. *"
+msgstr "Haz clic en *Juego de piezas agrupadas*."
 
 # 9e7e9c46c2ef40cfaec9ca6246159271
 # 2fd36c734c06479b8571f329cf94f860
 #: ../source/memorize.rst:153 ../source/memorize.rst:192
 msgid "Click on *Match different tiles*."
-msgstr "Haga clic en * Partido diferentes azulejos *."
+msgstr "Haz clic en *Igualar fichas diferentes*."
 
 # d5161e0978a546eca128979a57760002
 #: ../source/memorize.rst:155
 msgid "Working in the work space, now with two tile panes."
-msgstr "Trabajar en el espacio de trabajo, ahora con dos paneles de azulejos."
+msgstr "Trabaja en el espacio de trabajo, ahora con dos paneles de fichas."
 
 # 30f32f3dd75c45b7acd67a4f88257238
 #: ../source/memorize.rst:158
 msgid "In the first tile pane:"
-msgstr "En el primer panel de azulejo:"
+msgstr "En el primer panel de ficha:"
 
 # af0318509cf249edb55be2b57cfe6592
 #: ../source/memorize.rst:158
@@ -671,13 +664,13 @@ msgid ""
 "Insert a picture file as above. If you add text too, it will be printed over"
 " your picture."
 msgstr ""
-"Insertar un archivo de imagen que el anterior. Si agrega texto también se "
-"imprimirá sobre su imagen."
+"Inserta un archivo de imagen como lo haz hecho anteriormente. Si agregas texto también se "
+"imprimirá sobre tu imagen."
 
 # 81d22c8c3f224a62b28726c93ffe5ccc
 #: ../source/memorize.rst:163
 msgid "In the second tile pane:"
-msgstr "En el segundo panel del azulejo:"
+msgstr "En el panel de la segunda ficha:"
 
 # 76ed9d3d81e04021bf76978c03de5480
 #: ../source/memorize.rst:161
@@ -685,13 +678,13 @@ msgid ""
 "Click *Insert sound*. Select either the Journal or the media where you "
 "stored your sound files."
 msgstr ""
-"Haga clic en Insertar sonido * *. Seleccione el Diario o los medios de "
-"comunicación donde se almacenan los archivos de sonido."
+"Haz click en *Insertar sonido*. Selecciona desde el Diario o dispositivos "
+"donde se almacenan los archivos de sonido."
 
 # fc56c2b5e2d44d0598704b212036c87c
 #: ../source/memorize.rst:162
 msgid "Select and click the file name."
-msgstr "Seleccione y haga clic en el nombre del archivo."
+msgstr "Selecciona y haz click en el nombre del archivo."
 
 # 92aa07bbd7b44c8f98d7d36b92c3fddb
 #: ../source/memorize.rst:163
@@ -699,28 +692,28 @@ msgid ""
 "Click *Add as new pair*. The new pair of tiles are displayed on the right "
 "side."
 msgstr ""
-"Haga clic * Agregar nuevo par *. La nueva pareja de fichas se muestran en el"
+"Haz clic en *Añadir nuevo par*. La nueva pareja de fichas se muestran en el"
 " lado derecho."
 
 # c558086d995549848549d5d1cccd6fbd
 #: ../source/memorize.rst:170
 msgid "Create a Spelling Game"
-msgstr "Crear un juego de ortografía"
+msgstr "Crea un juego de ortografía"
 
 # 44928ca82be04ad98b4eb21e375f5edb
 #: ../source/memorize.rst:171
 msgid "First create a spelling list."
-msgstr "En primer lugar crear una lista de palabras."
+msgstr "En primer lugar crea una lista de palabras."
 
 # 570a24341c71404788db79388af5ecd8
 #: ../source/memorize.rst:173
 msgid "Open Activity Record."
-msgstr "Abrir Registro de Actividad."
+msgstr "Abre la Actividad Grabar."
 
 # 730d10560d9a4eba8ecf50b2d76b87cc
 #: ../source/memorize.rst:174
 msgid "Choose the Audio tab of Record."
-msgstr "Seleccione la pestaña Audio de Registro."
+msgstr "Seleccione el botón Audio de Grabar."
 
 # c4752ac245524480884402fa0452ff65
 #: ../source/memorize.rst:175
@@ -728,60 +721,60 @@ msgid ""
 "Set the duration (upper right corner of the Record interface) to, say, 15 "
 "seconds."
 msgstr ""
-"Establezca la duración (en la esquina superior derecha de la interfaz de "
-"registro) a, por ejemplo, 15 segundos."
+"Establece la duración (en la esquina superior derecha de la interfaz de "
+"Grabar) a, por ejemplo, 15 segundos."
 
 # f28a5f5f014e46c7bfccda0673b8f607
 # d9316959a5f149e796ff20de6b6f98e7
 #: ../source/memorize.rst:176 ../source/memorize.rst:180
 msgid "Click the Record button."
-msgstr "Haga clic en el botón de grabación."
+msgstr "Haz click en el botón de grabación."
 
 # 2bffb7ad1b0c4278ac37ee1fc80337ce
 #: ../source/memorize.rst:177
 msgid "Say the first word of your spelling list."
-msgstr "Diga la primera palabra de su lista de ortografía."
+msgstr "Di la primera palabra de tu lista de ortografía."
 
 # e49033eb6df043b1b97d338c8cf91ed7
 #: ../source/memorize.rst:178
 msgid "Click the Record button again."
-msgstr "Haga clic en el botón Grabar."
+msgstr "Haz clic en el botón Grabar."
 
 # 19bab72e180d43f1a060f41580fc12fe
 #: ../source/memorize.rst:179
 msgid "Wait, while the Record Activity saves your sound clip."
 msgstr ""
-"Espera, mientras que el Registro de Actividad ahorra su clip de sonido."
+"Espera, mientras que laa actividad Grabar almacena tu clip de sonido."
 
 # aee7462e370c4a5594573d8896e6ebb1
 #: ../source/memorize.rst:181
 msgid "Say the next word on your list."
-msgstr "Di la palabra siguiente en su lista."
+msgstr "Di la palabra siguiente en tu lista."
 
 # 0a1e877541264e1fabe028e62d002add
 #: ../source/memorize.rst:182
 msgid "Click the Record button to save your clip."
-msgstr "Haga clic en el botón Grabar para guardar el clip."
+msgstr "Haz click en el botón Grabar para guardar el clip."
 
 # fbe9ec61d28b4aafa24d5a4ac0600be8
 #: ../source/memorize.rst:183
 msgid "Record and save the rest of the spelling words on your list."
-msgstr "Grabar y guardar el resto de las palabras de ortografía en su lista."
+msgstr "Graba y guarda el resto de las palabras de tu lista de ortografía."
 
 # ebbd77772e47430b93570cc0409119e2
 #: ../source/memorize.rst:185
 msgid "Now in Memorize."
-msgstr "Ahora en Memorice."
+msgstr "Ahora en Memorizar."
 
 # 2fa0f2e09dcd499996713f79f3797760
 #: ../source/memorize.rst:190
 msgid "Select *Edit game*."
-msgstr "Select * Editar juego *."
+msgstr "Selecciona *Editar juego*."
 
 # 9441876d252b4106ab899bd99ff6bbe2
 #: ../source/memorize.rst:191
 msgid "Click on *Ungrouped game.*"
-msgstr "Haga clic en * Juego Desagrupado. *"
+msgstr "Haz clic en *Juego Desagrupado*"
 
 # 206f8660995f4363b509bdbfbd175767
 #: ../source/memorize.rst:193
@@ -789,8 +782,8 @@ msgid ""
 "Use *Insert sound* to add your first recording to the first tile. In the "
 "second tile enter the word to match your sound file."
 msgstr ""
-"Usar * Insertar sonido * para agregar su primera grabación a la primera "
-"baldosa. En la segunda baldosa ingresar la palabra para que coincida con el "
+"Usa *Insertar sonido* para agregar tu primera grabación a la primera "
+"pieza. En la segunda pieza ingresa la palabra para que coincida con el "
 "archivo de sonido."
 
 # b37bbbb4335a4e5d95c58defc91019fb
@@ -799,8 +792,8 @@ msgid ""
 "Proceed adding sounds on the first tile, with matching words on the second "
 "tile."
 msgstr ""
-"Continúe agregando sonidos en el primer azulejo, a juego con las palabras en"
-" la segunda baldosa."
+"Continúa agregando sonidos en la primer pieza, con las palabras en"
+" la segunda pieza."
 
 # 9140ce001cc14153b259ca2412e568f3
 #: ../source/memorize.rst:203
@@ -813,9 +806,8 @@ msgid ""
 "To play these games with users on more than one XO, so that the turn moves "
 "from one user to the other when a user fails to make a matching selection:"
 msgstr ""
-"Para jugar estos juegos con usuarios en más de una XO, por lo que el giro se"
-" mueve de un usuario a otro, cuando un usuario no puede hacer una selección "
-"a juego:"
+"Para jugar estos juegos con usuarios en más de una XO, con lo que el turno se"
+" mueve de un usuario a otro, cuando un usuario no puede selecciónar un par:"
 
 # 320cda1e9a54479da260f34861d6228e
 #: ../source/memorize.rst:207
@@ -823,7 +815,7 @@ msgid ""
 "Open the Memorize activity and load the game you want to share on the main "
 "XO"
 msgstr ""
-"Abra la actividad Memorizar y cargar el juego que desea compartir en la XO "
+"Abra la actividad Memorizar y cargar el juego que deseas compartir en la XO "
 "principal"
 
 # 912bc4f99f714235afd753214e361b46
@@ -833,9 +825,9 @@ msgid ""
 "|Home_key_f3_small| so that it turns into the My Neighborhood button "
 "|Neighborhood_key|"
 msgstr ""
-"Haga clic en la pestaña Actividad y haga clic en el botón Inicio Ver | "
-"Home_key_f3_small | modo que se convierte en el botón de Mi Barrio | "
-"Neighborhood_key |"
+"Haz clic en el botón Actividad y haz clic en el botón Hogar "
+"|Home_key_f3_small| de modo que se convierte en el botón de Mi Vecindario "
+"|Neighborhood_key|"
 
 # bfad1bc4b8044bf491388981d363a1df
 #: ../source/memorize.rst:209
@@ -843,15 +835,15 @@ msgid ""
 "All the other XOs will see the Memorize activity icon close to your XO "
 "symbol on their Neighborhood View."
 msgstr ""
-"Todos los otros XO verán el icono de actividad Memorice cerca de su símbolo "
-"XO en su Barrio Vista."
+"Todos los otros XO verán el icono de actividad Memorizar cerca de tu símbolo "
+"XO en su Vista Vecindario."
 
 # 29dcac59d853426183e2f28e26ed536a
 #: ../source/memorize.rst:210
 msgid ""
 "They can then join the activity by moving their cursor over the game icon."
 msgstr ""
-"A continuación, puede unirse a la actividad moviendo su cursor sobre el "
+"A continuación, ellos pueden unirse a la actividad moviendo su cursor sobre el "
 "icono del juego."
 
 # 4c1fe7e7957d41b4a332ef29170ff991
@@ -859,8 +851,7 @@ msgstr ""
 msgid ""
 "|more| For further information, please see the page :doc:`/collaborating`"
 msgstr ""
-"| Más información | Para más información, consulte la página: doc: `/ "
-"collaborating`"
+"|more| Para más información, consulte la página : doc:`/collaborating`"
 
 # 625379f86ea64fb7ad7a326d18734c0d
 #: ../source/memorize.rst:222
@@ -877,7 +868,7 @@ msgid ""
 "from a USB, or the internet, mean that this game can be powerful in many "
 "educational areas."
 msgstr ""
-"Hay un amplio conjunto de oportunidades para extender estos juegos. Memorice"
+"Hay un amplio conjunto de oportunidades para extender estos juegos. Memorizar"
 " podría ser utilizado en la historia, la biología, la música, la ciencia, la"
 " lectura temprana, las matemáticas y otros. Los objetos multimedia "
 "disponibles en Sugar, como archivos sonoros e imágenes, así como todos los "
