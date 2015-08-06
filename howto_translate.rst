@@ -100,9 +100,9 @@ that are already used in the translations fo revery activity.
  
 * In some cases. rst format is included in a paragraph, by example::
 
- msgid ""
- "|sugar_sharing| Sugar facilitates sharing and collaboration. Children can "
- "write documents, share books and pictures, or make music together with ease."
+    msgid ""
+    "|sugar_sharing| Sugar facilitates sharing and collaboration. Children can "
+    "write documents, share books and pictures, or make music together with ease."
 
 In this case *|sugar_sharing|* with the bars (|), means a image with that name
 will be inserted in the text. You need preserve that untranslated.
