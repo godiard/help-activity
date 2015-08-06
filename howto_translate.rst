@@ -98,16 +98,18 @@ Notes specifics about the translation of our Help  files
 * For the activity names, and element from the interface, use the same names,
 that are already used in the translations fo revery activity.
  
-* In some cases. rst format is included in a paragraph, by example:
+* In some cases. rst format is included in a paragraph, by example::
 
  msgid ""
  "|sugar_sharing| Sugar facilitates sharing and collaboration. Children can "
  "write documents, share books and pictures, or make music together with ease."
 
-In this case *|sugar_sharing|* with the | chars, means a image with that name
+In this case *|sugar_sharing|* with the bars (|), means a image with that name
 will be inserted in the text. You need preserve that untranslated.
 
 You can read more about .rst format here:
+
+https://help.sugarlabs.org/restructuredtext.html
 
 Contact
 =======
