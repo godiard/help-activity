@@ -1,6 +1,6 @@
 [Activity]
 name = Help
-activity_version = 19
+activity_version = 20
 bundle_id = org.laptop.HelpActivity
 icon = activity-help
 exec = sugar-activity helpactivity.HelpActivity
@@ -8,3 +8,4 @@ license = GPLv3
 summary = Having trouble using your computer or an activity? Want to learn more? Just click here!
 categories = system
 repository = git@github.com:godiard/help-activity.git
+max_participants = 1
