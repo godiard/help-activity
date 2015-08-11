@@ -260,7 +260,7 @@ msgid ""
 "this poll in your classroom or your family, to find out what activity is the "
 "most favorite or popular."
 msgstr ""
-"Ejemplo de una idea para encuesta: \"¿Cual es tu actividad favorita en tu XO\? "
+"Ejemplo de una idea para encuesta: \"¿Cual es tu actividad favorita en tu XO?\" "
 "Puedes usar esta encuesta en tu clase, o en tu familia, para encontrar cual es "
 "la actividad favorita o más popular" 
 
@@ -346,8 +346,7 @@ msgstr "Si quieres cambiar algo, haz click en \"Editar Encuesta\". Puedes "
 msgid ""
 "When you are happy, click “Step 2: Save Poll” -- your poll will be built."
 msgstr ""
-msgstr "Si estas conforme, presiona \"Grabar encuesta\" -- tu encuesta será "
-"creada."
+"Si estas conforme, presiona “Grabar encuesta“ -- tu encuesta será creada."
 
 # 2becdee85a9d4ede86569311fef14068
 #: ../source/poll.rst:85

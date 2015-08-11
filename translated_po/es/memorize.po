@@ -260,7 +260,7 @@ msgstr ""
 "representa los nuevos contenidos para el tablero de juego. Hasta el momento "
 "tenemos Tux y su imagen. El lado izquierdo representa el espacio de trabajo."
 " Una imagen de una puesta de sol ha sido seleccionado de la revista, y el "
-"texto \"Sunset\ ('puesta de sol' en inglés) se ha entrado en la casilla *Texto:*. El cursor ha "
+"texto \"Sunset\" ('puesta de sol' en inglés) se ha entrado en la casilla *Texto:*. El cursor ha "
 "seleccionado * Añadir nuevo par *, y cuando se pulsa, el nuevo par "
 "se transferirá a la sección de tablero de juego a la derecha."
 
