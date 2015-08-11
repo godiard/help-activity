@@ -37,12 +37,12 @@ msgid ""
 "and Computer Science features which will challenge the more adventurous "
 "student."
 msgstr ""
-"Turtle Art, también conocido como Bloques tortuga, es una actividad con una "
-"gráfica de \"tortuga\" Logo-inspirado que dibuja el arte colorido basado en "
-"complemento juntos elementos de programación visual. Su \"piso bajo\" ofrece"
+"TortugArte, también conocido como TurtleArt o TurtleBlocks, es una actividad inspriada "
+"en Logo con una \"tortuga\" gráfica que dibuja arte colorido basado en "
+"programación visual de elementos que se encajan. Su \"piso bajo\" ofrece"
 " un punto de entrada fácil para los principiantes. También tiene \"alto "
-"techo\" de programación, gráficos, matemáticas y Ciencias de la Computación "
-"cuenta que desafiará al estudiante más aventureros."
+"techo\" con características de programación, gráficos, matemáticas y "
+"Ciencias de la Computación que desafiará al estudiante más aventurero."
 
 # dcf6696f12bc4bfe83e92d1bbfbd3a51
 #: ../source/turtleart.rst:13
@@ -56,9 +56,9 @@ msgid ""
 "Activities repository <http://activities.sugarlabs.org/en-"
 "US/sugar/addon/4027>`_"
 msgstr ""
-"Está incluido en la imagen de la OLPC, y se puede descargar desde la "
-"`sugarlabs Actividades repositorio <http: // actividades. sugarlabs. org / "
-"en-US / azúcar / addon / 4027> `_"
+"Está incluido en la imagen de la OLPC, y se puede descargar desde el "
+"`repositorio de actividades de Sugar <http://activities.sugarlabs.org/en-"
+"US/sugar/addon/4027>`_"
 
 # feb998f2aabf4493974a4e82a2ec630d
 #: ../source/turtleart.rst:19
@@ -71,13 +71,13 @@ msgid ""
 "Turtle Art. (Also see Turtle Confusion, a collection of programming "
 "challenges designed by Barry Newell.)"
 msgstr ""
-"Hay dos programas compatibles entre: Turtle Art y Bloques de Tortugas. "
+"Hay dos programas compatibles: Turtle Art y Turtle Blocks. "
 "Turtle Art, que se asemeja mucho a la versión Java de Turtle Art mantenido "
 "por Brian Silverman, ofrece un pequeño subconjunto de la funcionalidad de "
-"los bloques de la tortuga. Bloques tortuga es la versión incluida en la "
-"distribución del azúcar. Usuarios de Sugar probablemente quieren usar "
-"bloques tortuga en lugar de Turtle Art. (Véase también la confusión de la "
-"tortuga, una colección de retos de programación diseñada por Barry Newell. )"
+"los bloques de la tortuga. Turtle Blocks es la versión incluida en la "
+"distribución de Sugar. Usuarios de Sugar probablemente quieren usar "
+"Turtle Blocks en lugar de Turtle Art. (Véase también 'La confusión de la "
+"tortuga', una colección de retos de programación diseñada por Barry Newell.)"
 
 # fefcf77a1d3a4b90a6e1511f6b5575ee
 #: ../source/turtleart.rst:22
@@ -91,9 +91,9 @@ msgid ""
 "multiple blocks to create drawings; as the turtle moves under your control, "
 "colorful lines are drawn."
 msgstr ""
-"Comience haciendo clic en (o arrastrar) cuadras de la paleta de la tortuga. "
-"Utilice múltiples bloques para crear dibujos; como la tortuga se mueve bajo "
-"su control, líneas de colores se dibujan."
+"Comienze haciendo clic en (o arrastrando) cuadras de la paleta de la tortuga. "
+"Utilize múltiples bloques para crear dibujos; cuando la tortuga se mueve bajo "
+"tu control, se dibujan líneas de colores."
 
 # 2628e3566f764209a6f9594893c0ac4d
 #: ../source/turtleart.rst:28
@@ -104,11 +104,11 @@ msgid ""
 " stack or by clicking in the Rabbit (fast) , Turtle (slow) or Bug (debug) "
 "buttons |rabit-turtle| on the Project Toolbar."
 msgstr ""
-"Usted agrega bloques a su programa haciendo clic en o arrastrándolos desde "
-"la paleta de la principal zona. Puede eliminar un bloque arrastrándolo de "
-"nuevo en la paleta. Haga clic en cualquier lugar de una \"pila\" de bloques "
-"para iniciar la ejecución de esa pila o haciendo clic en el conejo (rápido),"
-" la tortuga (lento) o Bug botones (depuración) | rabit-tortuga | en la barra"
+"Tu agregas bloques a tu programa haciendo clic en o arrastrándolos desde "
+"la paleta a la zona principal. Puedes eliminar un bloque arrastrándolo de "
+"nuevo a la paleta. Haz clic en cualquier lugar de una \"pila\" de bloques "
+"para iniciar la ejecución de esa pila o haciendo clic en los botones del conejo (rápido),"
+" la tortuga (lento) o insecto (depuración) |rabit-tortuga| en la barra"
 " de herramientas del proyecto."
 
 # ee4b853f024a4eef940a9a1b18ee7d01
@@ -140,7 +140,7 @@ msgstr ""
 # d2c66c5ffe1841908bcd97f5a1111e2f
 #: ../source/turtleart.rst:43
 msgid "Edit toolbar (including copy and paste);"
-msgstr "Editar barra de herramientas (incluyendo copiar y pegar);"
+msgstr "Barra de herramientas Editar (incluyendo copiar y pegar);"
 
 # 9b66b464fafe40498da16fb6073cd5eb
 #: ../source/turtleart.rst:44
@@ -148,7 +148,7 @@ msgid ""
 "View toolbar (including full-screen, coordinate overlays; turtle status, "
 "etc.);"
 msgstr ""
-"Ver barra de herramientas (incluyendo pantalla completa, coordinar "
+"Barra de herramientas Ver (incluyendo pantalla completa, coordinar "
 "superposiciones; situación de la tortuga, etc.. );"
 
 # 7764b206fcc6412ea976c38f4942765e
@@ -160,22 +160,22 @@ msgstr ""
 # 87cbeeecf1da48dc91f8977bcfe7c742
 #: ../source/turtleart.rst:46
 msgid "erase canvas;"
-msgstr "borrar la lona;"
+msgstr "borrar el dibujo;"
 
 # f38688c731234e6a8e6bfbb2d11c7aea
 #: ../source/turtleart.rst:47
 msgid "run project fast (rabbit);"
-msgstr "proyecto de ejecución rápida (conejo);"
+msgstr "ejecución rápida de proyecto (conejo);"
 
 # 96b256e122444920814bdb8591702d31
 #: ../source/turtleart.rst:48
 msgid "run project slow (snail);"
-msgstr "proyecto de ejecución lenta (caracol);"
+msgstr "ejecución lenta de proyecto (caracol);"
 
 # 867e857e0afa44da97b326314f8327fd
 #: ../source/turtleart.rst:49
 msgid "stop project;"
-msgstr "dejar de proyecto;"
+msgstr "abandonar de proyecto;"
 
 # c7fbaa1e7329424385981519113af2b5
 #: ../source/turtleart.rst:50
@@ -186,17 +186,17 @@ msgstr ""
 # 75c6ea9fd67b45c8ade5dcdaff6d515f
 #: ../source/turtleart.rst:51
 msgid "load examples;"
-msgstr "ejemplos de carga;"
+msgstr "cargar ejemplos;"
 
 # 8c47b5c36c8440e9a65c75b54f285a7f
 #: ../source/turtleart.rst:52
 msgid "display help palette;"
-msgstr "Pantalla de ayuda a la paleta;"
+msgstr "Mostrar paleta de ayuda;"
 
 # 028ac4de59d048a4b2d69afeff1285dd
 #: ../source/turtleart.rst:53
 msgid "stop activity"
-msgstr "actividad parada"
+msgstr "parar actividad"
 
 # 89cd4b50fc234bdfa8e5695c8979e581
 #: ../source/turtleart.rst:55
@@ -205,8 +205,8 @@ msgid ""
 "erase; e.g., Alt+e will erase the screen. Esc will return from full-screen "
 "mode."
 msgstr ""
-"Atajos de teclado para lo anterior: paleta Alt +; bloques; carrera; caminar;"
-" deténgase; borrar; e. g. , Alt + e borrará la pantalla. Esc volverá desde "
+"Atajos de teclado para lo anterior: Alt+ paleta; bloques; ejecutar; paso a paso;"
+" detener; borrar; ej. Alt+e borrará la pantalla. Esc volverá desde "
 "el modo de pantalla completa."
 
 # 1e9b01ee1a384372917ec6a584593bca
@@ -217,12 +217,12 @@ msgid ""
 "\"rabbit\" button runs the blocks at maximum speed. The \"snail\" button "
 "pauses and displays the turtle and block values between each step."
 msgstr ""
-"** Notas: ** Los botones de ejecución están vinculados al bloque de inicio. "
-"Si no se utiliza un bloque de inicio, a continuación, todos los bloques se "
+"**Notas:** Los botones de ejecución están vinculados al bloque de inicio. "
+"Si no se utiliza un bloque de inicio, entonces, todos los bloques se "
 "ejecutan cuando se hace clic en cualquiera de los botones de ejecución. El "
-"botón de \"conejo\" ejecuta los bloques a la máxima velocidad. Los "
-"\"caracol\" pausas de botón y muestra los valores de tortugas y de bloque "
-"entre cada paso."
+"botón de \"conejo\" ejecuta los bloques a la máxima velocidad. El botón "
+"\"caracol\" pausa y muestra la tortuga y los valores de bloque "
+"en cada paso."
 
 # 2df73cfd0ef045d69b12a1478068f560
 #: ../source/turtleart.rst:59
@@ -230,7 +230,7 @@ msgid ""
 "On older versions of Sugar (e.g., 0.84), the main toolbar will look like "
 "this:"
 msgstr ""
-"En versiones anteriores de Azúcar (e. g. , 0. 84), la barra de herramientas "
+"En versiones anteriores de Sugar (ej. 0.84), la barra de herramientas "
 "principal se verá así:"
 
 # ec41073b3ec64b6a81d42bd6867f5210
@@ -246,14 +246,14 @@ msgstr "Título del proyecto;"
 # 060887bcbebb4fb187bcd04808e64ddf
 #: ../source/turtleart.rst:71
 msgid "Write to Journal (on newer versions of Sugar)"
-msgstr "Escribir a diario (en las versiones más recientes de Azúcar)"
+msgstr "Escribir al Diario (en las versiones más recientes de Sugar)"
 
 # cf1506f76b654fddb607033811ef196d
 #: ../source/turtleart.rst:72
 msgid "Keep button (not shown; only appears on older Sugar systems)"
 msgstr ""
-"Mantenga el botón (no se muestra; sólo aparece en sistemas de azúcar de más "
-"edad)"
+"Botón Guardar (no se muestra; sólo aparece en sistemas de Sugar más "
+"antiguos)"
 
 # 37fb343c593e43b496492d3b29412310
 #: ../source/turtleart.rst:73
@@ -266,7 +266,7 @@ msgid ""
 "Share blocks; shown in disable state. Used to share stacks of blocks between"
 " collaborators."
 msgstr ""
-"Bloques de Acciones; se muestra en el estado de desactivación. Se utiliza "
+"Compartir Bloques; se muestra en el estado desactivado. Se utiliza "
 "para compartir pilas de bloques entre colaboradores."
 
 # 328c7e410a1f43c9886da1a1086b9b99
@@ -277,12 +277,12 @@ msgstr "Guardar como imagen;"
 # cdc479ce6be74ddd840f4f4ac788a7a8
 #: ../source/turtleart.rst:76
 msgid "Save as Logo;"
-msgstr "Guardar como logotipo;"
+msgstr "Guardar como Logo;"
 
 # 3830ec95e2504e2aba0a7be492739e1c
 #: ../source/turtleart.rst:77
 msgid "Load a previously saved project from the Sugar Journal;"
-msgstr "Cargar un proyecto guardado previamente del azúcar Diario;"
+msgstr "Cargar un proyecto guardado previamente del Diario;"
 
 # f91968a319514c149268302f7ef1e0d1
 #: ../source/turtleart.rst:78
@@ -292,21 +292,21 @@ msgstr "Cargar código Python en un bloque programable"
 # b9eec84786794ac99769ab20053cfd69
 #: ../source/turtleart.rst:84
 msgid "**Notes:**"
-msgstr "** Notas: **"
+msgstr "**Notas:**"
 
 # e0a90e38a3594a6e9096632a4953e949
 #: ../source/turtleart.rst:81
 msgid ""
 "On older Sugar systems, these controls appear on the Import/Export toolbar."
 msgstr ""
-"En los sistemas de azúcar de más edad, estos controles aparecen en el / la "
+"En los sistemas Sugar más antiguos, estos controles aparecen en la "
 "barra de herramientas de Importación y Exportación."
 
 # 8ad315a7a1454668a2a316d1847d425d
 #: ../source/turtleart.rst:83
 msgid "On smaller screens, the load/save buttons are shown on a palette."
 msgstr ""
-"En las pantallas de menor tamaño, la carga / guardar botones se muestran en "
+"En las pantallas de menor tamaño, los botones cargar / guardar se muestran en "
 "una paleta."
 
 # 6895ad149bba4e7bad557b606b4a62ab
@@ -317,15 +317,15 @@ msgid ""
 "blocks and click. The blocks will be shared and the cursor will change back "
 "to the arrow shape."
 msgstr ""
-"Para compartir una pila, haga clic en el botón de compartir. El cursor "
-"cambiará a la forma de la mano-Ta-cursor de mano. png. Coloque el cursor en "
-"cualquier bloque o grupo de bloques y haga clic en. Los bloques serán "
+"Para compartir una pila, haz clic en el botón de compartir. El cursor "
+"cambiará a la forma de la mano Ta-hand-cursor.png. Coloca el cursor en "
+"cualquier bloque o grupo de bloques y haz clic. Los bloques serán "
 "compartidos y el cursor se cambiará a la forma de flecha."
 
 # 9fd7f1038d6947eebeffb585f1617a46
 #: ../source/turtleart.rst:89
 msgid "Edit Toolbar"
-msgstr "Edit Toolbar"
+msgstr "Barra de herramientas de Edición"
 
 # fede8350d5014e09a1bb68fae2700456
 #: ../source/turtleart.rst:93
@@ -340,11 +340,11 @@ msgid ""
 msgstr ""
 "La barra de herramientas de edición se utiliza para copiar pilas de bloques "
 "en el portapapeles y para pegar las pilas desde el portapapeles. Para copiar"
-" una pila, haga clic en el botón de copia o pulse Ctrl-c. El cursor cambiará"
-" a la forma de la mano-Ta-cursor de mano. png. Coloque el cursor en "
-"cualquier bloque o grupo de bloques y haga clic en. Los bloques se pueden "
-"copiar en el portapapeles de Azúcar y el cursor se cambiará a la forma de "
-"flecha. Para pegar desde el portapapeles, pulse Ctrl-V o haga clic en el "
+" una pila, haz clic en el botón de copia o pulse Ctrl-c. El cursor cambiará"
+" a la forma de la mano Ta-hand-cursor.png. Coloca el cursor en "
+"cualquier bloque o grupo de bloques y haz clic. Los bloques se pueden "
+"copiar en el portapapeles de Sugar y el cursor se cambiará a la forma de "
+"flecha. Para pegar desde el portapapeles, pulse Ctrl-V o haz clic en el "
 "botón de pegar."
 
 # ee5a638487c446a58225826bd8087a9e
@@ -355,12 +355,12 @@ msgstr "Copia"
 # 0a35f5fb35b94579a1b2a322da7f91b7
 #: ../source/turtleart.rst:98
 msgid "Paste"
-msgstr "Pasta"
+msgstr "Pega"
 
 # eb27653efa9647fdb1c83c651f2b1bd3
 #: ../source/turtleart.rst:101
 msgid "View Toolbar"
-msgstr "Ver Barra de herramientas"
+msgstr "Barra de herramientas Ver"
 
 # 8bf81427bfb24847913d91f2736fafb8
 #: ../source/turtleart.rst:107
@@ -370,17 +370,17 @@ msgstr "Botón de pantalla completa;"
 # be9ad8d4c7c146d68a4b87269da57d96
 #: ../source/turtleart.rst:108
 msgid "Cartesian-coordinate grid;"
-msgstr "Cartesiano-cuadrícula de coordenadas;"
+msgstr "Cuadrícula de coordenadas cartesiana;"
 
 # 09c6d0a32d0447d3a38ba82333a6dbfe
 #: ../source/turtleart.rst:109
 msgid "polar-coordinate grid;"
-msgstr "de coordenadas polares de la red;"
+msgstr "Grilla de coordenadas polares;"
 
 # 4f2af1cf60e54e3a915ff3d3f4e0725c
 #: ../source/turtleart.rst:110
 msgid "not shown: centimeter-coordinate grid (XO-only);"
-msgstr "No se muestra: grid centímetros de coordenadas (XO-solamente);"
+msgstr "No se muestra: grilla en centímetros (XO-solamente);"
 
 # b6afe6ef2920468d9f9b740c0576ab97
 #: ../source/turtleart.rst:111
@@ -390,17 +390,17 @@ msgstr "visualización de coordenadas x, y, en dirección de la tortuga;"
 # 29afd55903c64cdb861891c8daced00c
 #: ../source/turtleart.rst:112
 msgid "Rescale-coordinates button;"
-msgstr "Cambiar la escala-coordina botón;"
+msgstr "Botón Cambiar escala de coordenadas;"
 
 # 6acf5cb1d4ee426bbd1f67e4b2210976
 #: ../source/turtleart.rst:113
 msgid "Grow block size;"
-msgstr "Crecer tamaño de bloque;"
+msgstr "Incrementar tamaño de bloques;"
 
 # 565f7a90af8f41dd876ca97d4732d981
 #: ../source/turtleart.rst:114
 msgid "Shrink block size"
-msgstr "Reducir tamaño de bloque"
+msgstr "Reducir tamaño de bloques"
 
 # c608569fdc244573ad73c31487ede321
 #: ../source/turtleart.rst:115
@@ -419,10 +419,10 @@ msgid ""
 "toolbar. (On older Sugar systems, select the Projects toolbar. When running "
 "Turtle Art from GNOME, the palettes are visible by default.)"
 msgstr ""
-"Los menús de paleta se revelan haciendo clic en el icono Bloquear en la "
-"barra de herramientas principal. (En los sistemas más viejos de azúcar, "
-"seleccione la barra de herramientas de Proyectos. Cuando se ejecuta Turtle "
-"Art de GNOME, las paletas son visibles por defecto. )"
+"Los menús de paleta se revelan haciendo clic en el icono Bloques en la "
+"barra de herramientas principal. (En los sistemas más viejos de Sugar, "
+"selecciona la barra de herramientas de Proyectos. Cuando se ejecuta Turtle "
+"Art en GNOME, las paletas son visibles por defecto. )"
 
 # 08b723ee821640c09c8ccb34927bffe7
 #: ../source/turtleart.rst:124
@@ -433,12 +433,12 @@ msgid ""
 "Customization functions; and Presentation blocks. An eleventh palette is "
 "used for restoring blocks from the trash."
 msgstr ""
-"Hay diez paletas de elementos de los programas disponibles para la "
-"construcción de programas: los movimientos de la tortuga; Atributos de "
-"pluma; Atributos de color; Los operadores numéricos; Los operadores lógicos;"
-" Los bloques lógicos; Bloques de sensores; Bloques de los medios de "
-"comunicación; Funciones de personalización; Presentación y bloques. Una "
-"paleta undécimo se utiliza para la restauración de los bloques de la basura."
+"Hay diez paletas de elementos de programas disponibles para la "
+"construcción de programas: Movimientos de la tortuga; Atributos de "
+"pluma; Atributos de color; Operadores numéricos; Operadores lógicos;"
+" Bloques lógicos; Bloques de sensores; Bloques multimedia; "
+"Funciones de personalización; Bloques de Presentación. Una "
+"undécima paleta se utiliza para la restauración de los bloques de la basura."
 
 # 5e6e88f1c08f4eafb317727d05e043f8
 #: ../source/turtleart.rst:126
@@ -446,8 +446,8 @@ msgid ""
 "**Note:** Additional palettes may be loaded by plugin extensions to Turtle "
 "Blocks."
 msgstr ""
-"** Nota: ** paletas adicionales pueden ser cargados por extensiones plugin "
-"para Bloques de Tortugas."
+"**Nota:** paletas adicionales pueden ser cargados por extensiones "
+"para Turtle Blocks."
 
 # 1f8cae2a5c29435baa329a998d02da66
 #: ../source/turtleart.rst:128
@@ -456,9 +456,9 @@ msgid ""
 " block, drag it back onto the palette. (It will be placed onto the trash "
 "palette.)"
 msgstr ""
-"Los bloques se arrastraron desde la paleta hasta la superficie del lienzo. "
-"Para disponer de un bloque, arrastre de nuevo en la paleta. (Se coloca sobre"
-" la paleta de basura. )"
+"Los bloques se arrastran desde la paleta hasta la superficie del lienzo. "
+"Para quitar un bloque, arrastralo de nuevo a la paleta. (Será colocado en"
+" la paleta de basura.)"
 
 # 13af8c9e042c4e06af3ea05410786477
 #: ../source/turtleart.rst:131
@@ -467,15 +467,15 @@ msgid ""
 "while the program is executing, is used to reveal the program blocks. "
 "Individual palettes can be hidden by clicking on their highlighted tab."
 msgstr ""
-"El | Showblocks | botón, que reemplaza el botón Detener de la barra de "
+"El botón |Showblocks|, que reemplaza el botón Detener de la barra de "
 "herramientas principal, mientras que el programa se está ejecutando, se "
 "utiliza para revelar los bloques de programa. Paletas individuales pueden "
-"ocultarse haciendo clic en su ficha resaltada."
+"ocultarse haciendo clic en su lengueta resaltada."
 
 # 0db68cb3bdc24282ac4dc1abe976f519
 #: ../source/turtleart.rst:136
 msgid "Turtle Palette"
-msgstr "Tortuga Paleta"
+msgstr "Paleta Tortuga"
 
 # 5a369fa9f42b42c8a36f6a88908830d0
 #: ../source/turtleart.rst:140
@@ -499,34 +499,34 @@ msgid ""
 "clean: clear the screen and position the turtle in the center of the screen,"
 " pen down, color red, heading 0"
 msgstr ""
-"limpio: borrar la pantalla y la posición de la tortuga en el centro de la "
-"pantalla, pluma, color rojo, en dirección 0"
+"limpiar: borrar la pantalla y la posicionar de la tortuga en el centro de la "
+"pantalla, pluma apoyada, color rojo, en dirección 0"
 
 # dde4fdae92944038b1243f28b7d7c030
 #: ../source/turtleart.rst:145
 msgid "left: rotate turtle counterclockwise"
-msgstr "izquierda: girar en sentido antihorario tortuga"
+msgstr "izquierda: girar tortuga en sentido antihorario"
 
 # 0acd601661fa4d9fbd7210fe7e107421
 #: ../source/turtleart.rst:146
 msgid "right: rotate turtle clockwise"
-msgstr "derecha: girar hacia la derecha de la tortuga"
+msgstr "derecha: girar tortuga en sentido horario"
 
 # 10ceb9afecd74d8a92c3ddbb893c1ec4
 #: ../source/turtleart.rst:147
 msgid "arc: move turtle along an arc"
-msgstr "tortuga se mueven a lo largo de un arco: arco"
+msgstr "arco mover la tortuga a lo largo de un arco"
 
 # 2219c0eb7a9348a0a9bdefa89fe3146a
 #: ../source/turtleart.rst:148
 msgid "set xy: set turtle x,y position (0,0) is the center of the screen"
 msgstr ""
-"establecer xy: set tortuga posición x, y (0,0) es el centro de la pantalla"
+"establecer xy: definir posición x, y de la tortuga. (0,0) es el centro de la pantalla"
 
 # c0de1e296ee442afbfad8f6a098dfd2d
 #: ../source/turtleart.rst:149
 msgid "seth: set turtle heading"
-msgstr "Seth: título conjunto tortuga"
+msgstr "seth: definir dirección de la tortuga"
 
 # bd3f5c763f2d457fa95bdf1705f65995
 #: ../source/turtleart.rst:150
@@ -534,8 +534,8 @@ msgid ""
 "xcor: holds current x-coordinate value of the turtle (can be used in place "
 "of a number block)"
 msgstr ""
-"XCOR: sostiene actual valor de la coordenada x de la tortuga (se puede "
-"utilizar en lugar de un número de bloque)"
+"xcor: obtiene el valor  actual de la coordenada x de la tortuga (se puede "
+"utilizar en lugar de un bloque numerico)"
 
 # d15f4b01ac1f4b828148302b7dd19c98
 #: ../source/turtleart.rst:151
@@ -543,8 +543,8 @@ msgid ""
 "ycor: holds current y-coordinate value of the turtle (can be used in place "
 "of a number block)"
 msgstr ""
-"ycor: sostiene actual valor de la coordenada de la tortuga (se puede "
-"utilizar en lugar de un número de bloque)"
+"ycor: obtiene el valor  actual de la coordenada y de la tortuga (se puede "
+"utilizar en lugar de un bloque numerico)"
 
 # 1f9f5406d2414a9e9af543595bbeb70d
 #: ../source/turtleart.rst:152
@@ -552,13 +552,13 @@ msgid ""
 "heading: holds current heading value of the turtle (can be used in place of "
 "a number block)"
 msgstr ""
-"título: tiene un valor rumbo actual de la tortuga (se puede utilizar en "
-"lugar de un número de bloque)"
+"dirección: tiene el valor del rumbo actual de la tortuga (se puede utilizar en "
+"lugar de un bloque numérico)"
 
 # 6d1b8921472f4e90a01dcfc0b0474dfd
 #: ../source/turtleart.rst:155
 msgid "Pen Palette"
-msgstr "Pen Paleta"
+msgstr "Paleta Pluma"
 
 # a68b5354828d4697b459ebae5c9193d2
 #: ../source/turtleart.rst:159
@@ -570,18 +570,18 @@ msgstr ""
 # 3eb2d2dd1aa54e26b64198a467d06228
 #: ../source/turtleart.rst:161
 msgid "pen up: turtle will not draw when moved"
-msgstr "pluma de arriba: tortuga no dibujará cuando se mueve"
+msgstr "pluma arriba: la tortuga no dibujará cuando se mueve"
 
 # 3ab39341e4194c68bb5b7d8356236f95
 #: ../source/turtleart.rst:162
 msgid "pen down: turtle will draw when moved"
-msgstr "pluma: tortuga dibujará cuando se mueve"
+msgstr "pluma abajo: la tortuga dibujará cuando se mueve"
 
 # 4a51066a1a5849e98821e34df104116d
 #: ../source/turtleart.rst:163
 msgid "set pen size: sets the width of the line drawn by the turtle"
 msgstr ""
-"conjunto tamaño bolígrafo: establece el ancho de la línea trazada por la "
+"definir tamaño de pluma: establece el ancho de la línea trazada por la "
 "tortuga"
 
 # 5f654f2c3ae64651992d1b89713c112b
@@ -590,8 +590,8 @@ msgid ""
 "fill screen: fill the screen with a color/shade and reposition the turtle in"
 " the center of the screen"
 msgstr ""
-"pantalla de llenar: llenar la pantalla con un color / sombra y cambiar la "
-"posición de la tortuga en el centro de la pantalla"
+"llenar pantalla: llenar la pantalla con un color / sombra y cambiar la "
+"posición de la tortuga al centro de la pantalla"
 
 # cdcec0b5b5c149ba9e766930e414a56e
 #: ../source/turtleart.rst:165
@@ -600,17 +600,17 @@ msgid ""
 "number block)"
 msgstr ""
 "tamaño de la pluma: anchura de la línea trazada por la tortuga (se puede "
-"utilizar en lugar de un número de bloque)"
+"utilizar en lugar de un bloque numérico)"
 
 # 62596ec0ec50474c90df0ee5e1882a76
 #: ../source/turtleart.rst:166
 msgid "set color: sets the pen color"
-msgstr "Conjunto de colores: establece el color de la pluma"
+msgstr "definir color: establece el color de la pluma"
 
 # f5b917ba7f264188807e6d38c1c04a32
 #: ../source/turtleart.rst:167
 msgid "set shade: sets the pen shade"
-msgstr "sombra conjunto: establece la sombra de la pluma"
+msgstr "definir sombra: establece la sombra de la pluma"
 
 # 9967879556224f639d2098501c4932d5
 #: ../source/turtleart.rst:168
@@ -624,15 +624,13 @@ msgstr ""
 #: ../source/turtleart.rst:169
 msgid "color: current pen color (can be used in place of a number block)"
 msgstr ""
-"color: el color actual de la pluma (se puede utilizar en lugar de un número "
-"de bloque)"
+"color: el color actual de la pluma (se puede utilizar en lugar de un bloque numérico)"
 
 # 36e9805b196c48a4ad119384d266fa24
 #: ../source/turtleart.rst:170
 msgid "shade: current pen shade (can be used in place of a number block)"
 msgstr ""
-"sombra: la sombra de la pluma actual (se puede utilizar en lugar de un "
-"número de bloque)"
+"sombra: la sombra de la pluma actual (se puede utilizar en lugar de un bloque numérico)"
 
 # 2a60dea498204b628574b75be00ecac4
 #: ../source/turtleart.rst:171
@@ -640,13 +638,13 @@ msgid ""
 "gray: current pen gray level (can be used in place of a number block) (Only "
 "available in Turtle Blocks)"
 msgstr ""
-"gris: actual nivel de gris pluma (se puede utilizar en lugar de un número de"
-" bloque) (Sólo disponible en bloques de tortuga)"
+"gris: nivel actual de gris pluma (se puede utilizar en lugar de un  bloque numérico)"
+" (Sólo disponible en Turtle Blocks)"
 
 # ab7cc318b0c94c4681b50b310c2c0ae6
 #: ../source/turtleart.rst:172
 msgid "start fill: starts a filled polygon (straight sides, not arcs)"
-msgstr "iniciar relleno: inicia un polígono relleno (lados rectos, ni arcos)"
+msgstr "iniciar relleno: inicia un polígono relleno (lados rectos, no arcos)"
 
 # d821211c2c9e47a89ac0768ee7773408
 #: ../source/turtleart.rst:173
@@ -665,8 +663,8 @@ msgid ""
 "These blocks can be used with the set-pen-color block in place of a number "
 "block."
 msgstr ""
-"Estos bloques se pueden usar con el bloque de conjunto-pen-de color en lugar"
-" de un bloque de números."
+"Estos bloques se pueden usar con el bloque 'seleccionar color' en lugar"
+" de un bloque numérico."
 
 # 3d28781e787e432ea308ec35bf5c7462
 #: ../source/turtleart.rst:183
@@ -683,14 +681,14 @@ msgstr "Estos bloques son operadores aritméticos y booleanos."
 msgid ""
 "addition: adds two numeric inputs (also can be used to concatenate strings)"
 msgstr ""
-"Además: añade dos entradas numéricas (también se puede utilizar para "
+"suma: añade dos entradas numéricas (también se puede utilizar para "
 "concatenar cadenas)"
 
 # 10be81a829c14921819a4d9ce3b48312
 #: ../source/turtleart.rst:190
 msgid "subtraction: subtracts the bottom numeric input from the top input"
 msgstr ""
-"resta: resta la entrada numérica parte inferior de la entrada superior"
+"resta: resta la entrada numérica de la parte inferior a la entrada superior"
 
 # 3c7a80655a474c33ab91ec75b6f4ca40
 #: ../source/turtleart.rst:191
@@ -701,14 +699,14 @@ msgstr "Multiplicación: multiplica dos entradas numéricas"
 #: ../source/turtleart.rst:192
 msgid "division: divided top input (numerator) by bottom input (denominator)"
 msgstr ""
-"división: dividido superior de entrada (numerador) por la entrada inferior "
+"división: divide la entrada superior (numerador) por la entrada inferior "
 "(denominador)"
 
 # e8a2aa3a99df45d1afd2d5c35db9ed10
 #: ../source/turtleart.rst:193
 msgid "identity: identity function (used for spacing blocks)"
 msgstr ""
-"función identidad (utilizado para los bloques de separación): identidad"
+"identidad: función identidad (utilizado para los bloques de separación)"
 
 # d444712b4c314c679b301a428134558a
 #: ../source/turtleart.rst:194
@@ -716,13 +714,13 @@ msgid ""
 "modulo (remainder): calculates remainder when dividing top input by the "
 "bottom input"
 msgstr ""
-"módulo (resto): calcula resto de la división de entrada superior de la "
+"módulo (resto): calcula resto de la división de la entrada superior por la "
 "entrada inferior"
 
 # 4be402e853004044889938d497de7d3e
 #: ../source/turtleart.rst:195
 msgid "square root (Only available with Turtle Blocks)"
-msgstr "raíz cuadrada (Sólo disponible con bloques de tortuga)"
+msgstr "raíz cuadrada (Sólo disponible en Turtle Blocks)"
 
 # 33a3d716b0ac423ab68129cafff4b30a
 #: ../source/turtleart.rst:196
@@ -742,42 +740,42 @@ msgstr "bloque numérico: una entrada numérica"
 #: ../source/turtleart.rst:198
 msgid "greater than: boolean greater than operator (used with flow blocks)"
 msgstr ""
-"mayor que: boolean operador mayor que (utilizado con bloques de flujo)"
+"mayor que: operador booleano mayor que (utilizado con bloques de flujo)"
 
 # 63b716af6dd54ab0b51c2bc29d40caf7
 #: ../source/turtleart.rst:199
 msgid "less than: boolean less than operator (used with flow blocks)"
-msgstr "menos de: boolean menos de operador (utilizado con bloques de flujo)"
+msgstr "menor que: operador booleano menor que  (utilizado con bloques de flujo)"
 
 # 2e945d826d284bf39e033bdfa05e1ac3
 #: ../source/turtleart.rst:200
 msgid "equal to: boolean equal to operator (used with flow blocks)"
-msgstr "igual a: boolean igual al operador (utilizado con bloques de flujo)"
+msgstr "igual a: operador booleano igual a (utilizado con bloques de flujo)"
 
 # 390afc203fbf4ac4b61f1d9a9ebd1d8c
 #: ../source/turtleart.rst:201
 msgid "not: boolean not (Only available with Turtle Blocks)"
-msgstr "No: boolean no (Sólo disponible con bloques de tortuga)"
+msgstr "No: operador booleano no (Sólo disponible en Turtle Blocks)"
 
 # fea7d4f656264e948373c3e244e5cd73
 #: ../source/turtleart.rst:202
 msgid "and: boolean and (Only available with Turtle Blocks)"
-msgstr "y: boolean y (Sólo disponible con bloques de tortuga)"
+msgstr "y: operador booleano y (Sólo disponible en Turtle Blocks)"
 
 # 873707bda3a341f38e331215ab56c447
 #: ../source/turtleart.rst:203
 msgid "or: boolean or (Only available with Turtle Blocks)"
-msgstr "o: boolean o (Sólo disponible con bloques de tortuga)"
+msgstr "o: operador boolean o (Sólo disponible en Turtle Blocks)"
 
 # a7d96eb1d7484933b1cff3d08a7cc784
 #: ../source/turtleart.rst:206
 msgid "Flow Palette"
-msgstr "Flujo Paleta"
+msgstr "Paleta Flujo"
 
 # bcb610f7f36243f7ab5398e8b8c848aa
 #: ../source/turtleart.rst:210
 msgid "These blocks control program flow."
-msgstr "Estos bloques de control de flujo del programa."
+msgstr "Estos bloques controlan el flujo del programa."
 
 # 3daa133bb84b4660b615912f0e320be5
 #: ../source/turtleart.rst:212
@@ -787,7 +785,7 @@ msgstr "esperar: detener la ejecución del programa (la unidad es segundo)"
 # edce057ffddd4370b1c12c7414dfa1d4
 #: ../source/turtleart.rst:213
 msgid "forever: continuously repeat execute stack under the right flow"
-msgstr "siempre: repetir continuamente ejecutar pila bajo el flujo de derecho"
+msgstr "siempre: repetir continuamente ejecuta la pila incluida a la derecha"
 
 # 54c9454c675d435d898cebf12e7594dd
 #: ../source/turtleart.rst:214
@@ -795,7 +793,7 @@ msgid ""
 "repeat: repeat the execution of stack under the right flow a specified "
 "number of times"
 msgstr ""
-"repetir: repetir la ejecución de pila bajo el derecho fluir un número "
+"repetir: repetir la ejecución de pila incluida a la derecha un número "
 "determinado de veces"
 
 # a4754632648b49d3a765f8438fadab55
@@ -804,8 +802,8 @@ msgid ""
 "if/then: conditional execution of the stack under the right flow (uses "
 "boolean operators found on the Number palette)"
 msgstr ""
-"si / entonces: la ejecución condicional de la pila bajo el flujo de derecha "
-"(utiliza operadores booleanos que se encuentran en la paleta de número)"
+"si / entonces: ejecución condicional de la pila de la derecha "
+"(utiliza operadores booleanos que se encuentran en la paleta de números)"
 
 # 590a5a331a17442aabb8e48d6124e134
 #: ../source/turtleart.rst:216
@@ -813,14 +811,14 @@ msgid ""
 "if/then/else: conditional execution of the stack under the center and right "
 "flows (uses boolean operators found on the Number palette)"
 msgstr ""
-"if / then / else: la ejecución condicional de la pila debajo del centro y de"
-" los flujos correctos (utiliza operadores lógicos que se encuentran en la "
-"paleta de número)"
+"si / entonces / sino: ejecución condicional de la pila al centro y a "
+" la derecha (utiliza operadores lógicos que se encuentran en la "
+"paleta de números)"
 
 # 04bfd74bb9004123a3b6d0e852066c18
 #: ../source/turtleart.rst:217
 msgid "vertical spacer"
-msgstr "espaciador verticales"
+msgstr "espaciador vertical"
 
 # 58e822f783a04a2d8ef6ee2bb025c393
 #: ../source/turtleart.rst:218
@@ -834,9 +832,9 @@ msgid ""
 "boolean operators found on the Number palette) (Only available with Turtle "
 "Blocks)"
 msgstr ""
-"mientras que: ejecutar pila bajo flujo de derecha, mientras que la condición"
+"mientras que: ejecutar pila de la derecha, mientras que la condición"
 " es verdadera (utiliza operadores lógicos que se encuentran en la paleta de "
-"Número) (Sólo disponible con bloques de tortuga)"
+"Número) (Sólo disponible en Turtle Blocks)"
 
 # 1c7cef55eeea4bc2a41c4457feb6c9e3
 #: ../source/turtleart.rst:220
@@ -845,9 +843,9 @@ msgid ""
 "boolean operators found on the Number palette) (Only available with Turtle "
 "Blocks)"
 msgstr ""
-"hasta: ejecutar pila bajo flujo de derecha hasta que la condición es "
+"hasta: ejecutar la pila de la derecha hasta que la condición es "
 "verdadera (utiliza operadores lógicos que se encuentran en la paleta de "
-"Número) (Sólo disponible con bloques de tortuga)"
+"Números) (Sólo disponible  en Turtle Blocks)"
 
 # 5b66d90efadf44cc80205b941b8bede6
 #: ../source/turtleart.rst:222
@@ -856,14 +854,14 @@ msgid ""
 "encounter an error, try putting the nested block in a separate stack, "
 "accessed with an action block."
 msgstr ""
-"** Nota: ** anidamiento tiempo y / o hasta que los bloques no siempre es "
-"fiable. Si encuentra un error, trate de poner el bloque anidado en una pila "
-"separada, visitada con un bloque de acción."
+"**Nota:** anidar bloques 'mientras que' y / o 'hasta que' no siempre es "
+"fiable. Si encuentras un error, trata de poner el bloque anidado en una pila "
+"separada, incluida con un bloque de acción."
 
 # a3af757827184ac883dec3df648c1b08
 #: ../source/turtleart.rst:225
 msgid "Blocks Palette"
-msgstr "Bloques Paleta"
+msgstr "Paleta Bloques"
 
 # 1685b33616454b169c843c153442bbec
 #: ../source/turtleart.rst:229
@@ -874,7 +872,7 @@ msgstr "Estos bloques son para las variables que definen y subrutinas."
 #: ../source/turtleart.rst:231
 msgid "start: connects action to toolbar 'Run' button"
 msgstr ""
-"empezar: conecta acción del botón \"Ejecutar\" para la barra de herramientas"
+"empezar: conecta la acción del botón \"Ejecutar\" de la barra de herramientas"
 
 # 7beb150912194f16ace614be40bf3e52
 #: ../source/turtleart.rst:232
@@ -882,8 +880,8 @@ msgid ""
 "store in box 1: store a number, string, or media object in box 1 (Only "
 "available with Turtle Blocks)"
 msgstr ""
-"almacenar en la casilla 1: almacenar un número, una cadena o un objeto "
-"multimedia en la casilla 1 (Sólo disponible con bloques de tortuga)"
+"almacenar en caja 1: almacenar un número, una cadena o un objeto "
+"multimedia en la caja 1 (Solo disponible en Turtle Blocks)"
 
 # 9d0225b2d19044d1b8c1c575b25f44e6
 #: ../source/turtleart.rst:233
@@ -891,8 +889,8 @@ msgid ""
 "store in box 2: store a number, string, or media object in box 2 (Only "
 "available with Turtle Blocks)"
 msgstr ""
-"almacenar en la casilla 2: almacenar un número, una cadena o un objeto "
-"multimedia en la casilla 2 (Sólo disponible con bloques de tortuga)"
+"almacenar en caja 2: almacenar un número, una cadena o un objeto "
+"multimedia en la caja 2 (Solo disponible en Turtle Blocks)"
 
 # 0df31d3a4a1c4a5686fda12d5661d160
 #: ../source/turtleart.rst:234
@@ -905,8 +903,8 @@ msgid ""
 "box 1: current value of box 1 (can be used in place of a number block) (Only"
 " available with Turtle Blocks)"
 msgstr ""
-"cuadro 1: valor actual de la casilla 1 (se puede utilizar en lugar de un "
-"número de bloque) (Sólo disponible con bloques de tortuga)"
+"caja 1: valor actual de la caja 1 (se puede utilizar en lugar de un "
+"número de bloque) (Solo disponible en Turtle Blocks)"
 
 # 153a41016eb84d5e88c13db7c308684c
 #: ../source/turtleart.rst:236
@@ -914,59 +912,57 @@ msgid ""
 "box 2: current value of box 2 (can be used in place of a number block) (Only"
 " available with Turtle Blocks)"
 msgstr ""
-"cuadro 2: valor actual del cuadro 2 (se puede utilizar en lugar de un número"
-" de bloque) (Sólo disponible con bloques de tortuga)"
+"caja 2: valor actual de la caja 2 (se puede utilizar en lugar de un número"
+" de bloque) (Solo disponible en Turtle Blocks)"
 
 # d5613dc8150448a89ba66c722700a6eb
 #: ../source/turtleart.rst:237
 msgid ""
 "box: current value of named box (can be used in place of a number block)"
 msgstr ""
-"caja: valor actual del cuadro de llamada (se puede utilizar en lugar de un "
+"caja: valor actual de la caja nombrada (se puede utilizar en lugar de un "
 "número de bloque)"
 
 # a9c9abcde5bf465fb53c4ac114db2083
 #: ../source/turtleart.rst:238
 msgid "store in: store a number, string, or media object in a named box"
 msgstr ""
-"almacenar en: almacenar un número, una cadena o un objeto multimedia en un "
-"cuadro llamado"
+"almacenar en: almacenar un número, una cadena o un objeto multimedia en una "
+"caja nombrada"
 
 # de41997f0e1848feb17c193eb6d540f1
 #: ../source/turtleart.rst:239
 msgid "action: top of named action stack"
-msgstr "acción: la parte superior de la pila de acción llamada"
+msgstr "acción: la parte superior de la pila de acción nombrada"
 
 # 7cc32f853b0c422ba0cc8809760a9e8d
 #: ../source/turtleart.rst:240
 msgid "action 1: top of action 1 stack (Only available with Turtle Blocks)"
 msgstr ""
-"acción 1: parte superior de la acción 1 pila (Sólo disponible con bloques de"
-" tortuga)"
+"acción 1: parte superior de la pila acción 1 (Solo disponible en Turtle Blocks)"
 
 # 3164c6ec5d1b4f26bbd03c372f9c59cc
 #: ../source/turtleart.rst:241
 msgid "action 2: top of action 2 stack (Only available with Turtle Blocks)"
 msgstr ""
-"acción 2: parte superior de la acción 2 pila (Sólo disponible con bloques de"
-" tortuga)"
+"acción 2: parte superior de la pila acción 2 (Solo disponible en Turtle Blocks)"
 
 # a3977dd5e22949fc8e99a47207288804
 #: ../source/turtleart.rst:242
 msgid "action: execute named action stack"
-msgstr "acción: ejecutar pila acción llamada"
+msgstr "acción: ejecutar pila acción nombrada"
 
 # 7e3bb6e8b112483bb1f9ceea4df9c828
 #: ../source/turtleart.rst:243
 msgid "action 2: execute action 2 stack (Only available with Turtle Blocks)"
 msgstr ""
-"acción 2: ejecutar la acción 2 pila (Sólo disponible con bloques de tortuga)"
+"acción 2: ejecutar la pila acción 2 (Solo disponible en Turtle Blocks)"
 
 # 2548fa7996a44dc6a07518967b995fb9
 #: ../source/turtleart.rst:244
 msgid "action 1: execute action 1 stack (Only available with Turtle Blocks)"
 msgstr ""
-"acción 1: ejecutar la acción 1 pila (Sólo disponible con bloques de tortuga)"
+"acción 1: ejecutar la pila acción 1 (Solo disponible en Turtle Blocks)"
 
 # 7cbf9caed3524e0db681008c23181065
 #: ../source/turtleart.rst:246
@@ -976,16 +972,15 @@ msgid ""
 "stack is rename, \"to square\", an action block, \"to square\" is added to "
 "the palette."
 msgstr ""
-"** Nota: ** Cuando se utilizan una acción con nombre o un bloque con el "
+"**Nota:** Cuando se utilizan una acción con nombre o un bloque con "
 "nombre, nuevos bloques aparecen en la paleta que se corresponden con estos "
-"nombres; e. g. , Si una parte superior de la pila de acción es cambiar el "
-"nombre de \"cuadrar\", un bloque de acción, \"cuadrar\" se agrega a la "
-"paleta."
+"nombres; ej. , Si una pila de acción es renombrada "
+"como \"cuadrar\", un bloque de acción, \"cuadrar\" se agrega a la paleta."
 
 # 6cb2575d8d804355b29f656a125852b8
 #: ../source/turtleart.rst:249
 msgid "Sensors Palette"
-msgstr "Sensores Paleta"
+msgstr "Paleta Sensores"
 
 # 6a379d682c0a408dbd614bbf0408a99e
 #: ../source/turtleart.rst:253
@@ -993,7 +988,7 @@ msgid ""
 "query keyboard: check for keyboard input (results are stored in the keyboard"
 " block)"
 msgstr ""
-"Teclado consulta: comprobar si la entrada de teclado (los resultados se "
+"Leer Teclado: comprobar la entrada de teclado (los resultados se "
 "almacenan en el bloque del teclado)"
 
 # 94e97ccc55b24430bf0f7bfea437c617
@@ -1011,7 +1006,7 @@ msgid ""
 "read pixel: push the RGB value of the pixel under the turtle onto the FILO "
 "(blue is first, red is last)"
 msgstr ""
-"leer pixel: empujar el valor RGB del píxel bajo la tortuga en la FILO (azul "
+"leer pixel: empujar el valor RGB del píxel bajo la tortuga en la PILA (azul "
 "es primero, el rojo es el último)"
 
 # 2212307c20a94594a1278ac4130c7cb9
@@ -1027,47 +1022,47 @@ msgstr "tiempo: número de segundos desde el inicio del programa"
 # 0dd2746a64b64463ab4780c68decfbb0
 #: ../source/turtleart.rst:258
 msgid "sound: raw data from microphone ranging -32000 to 32000"
-msgstr "Sonido: datos brutos desde el micrófono que van -32000-32000"
+msgstr "Sonido: datos brutos desde el micrófono que van de -32000 a 32000"
 
 # d7664dc8468e4f47973248a325e3823c
 #: ../source/turtleart.rst:259
 msgid "volume (loudness): ranging 0 to 32000"
-msgstr "el volumen (alto): desde 0 a 32.000"
+msgstr "volumen (alto): desde 0 a 32.000"
 
 # c6c4891ce6af46c5a07c48c7c966ff41
 #: ../source/turtleart.rst:260
 msgid "pitch: the resolution is +-8Hz"
-msgstr "echada: la resolución es de + -8Hz"
+msgstr "frecuencia: la resolución es de +-8Hz"
 
 # aba5e7e9f9ab4e55b7535e87b80205f2
 #: ../source/turtleart.rst:261
 msgid "brightness: average luminance seen through camera"
-msgstr "brillo: luminancia media visto a través de la cámara"
+msgstr "brillo: luminancia media vista a través de la cámara"
 
 # b3483a0347a544d5beadab4766411265
 #: ../source/turtleart.rst:262
 msgid "camera: grab image from camera"
-msgstr "cámara: Imagen de agarre de la cámara"
+msgstr "cámara: Toma imagen con la cámara"
 
 # 7091724198de452ebe15293f73e0b7d4
 #: ../source/turtleart.rst:263
 msgid "button down: current state of the mouse button (1 == down; 0 == ip)"
-msgstr "botón abajo: estado actual del botón del ratón (1 == abajo; 0 ip ==)"
+msgstr "botón abajo: estado actual del botón del ratón (1 == abajo; 0 == arriba)"
 
 # 0ce6d24a530d4e26b4d9a59cbd70becb
 #: ../source/turtleart.rst:264
 msgid "mouse x: x position of mouse"
-msgstr "ratón x: x posición del ratón"
+msgstr "ratón x: posición x del ratón"
 
 # 51f77a10fa2b4f56a7bf024a2a5b58b6
 #: ../source/turtleart.rst:265
 msgid "mouse y: y position of mouse"
-msgstr "mouse y: y position of mouse"
+msgstr "mouse y: posición y del ratón"
 
 # dec7aef9c5b34bb187d279b9578cef2b
 #: ../source/turtleart.rst:267
 msgid "The OLPC XO can measure external inputs with its microphone jack:"
-msgstr "El OLPC XO puede medir insumos externos con su toma de micrófono:"
+msgstr "El OLPC XO puede medir sensores externos con su conector de micrófono:"
 
 # 4c56f30c8a154550be555d906ec87f7e
 #: ../source/turtleart.rst:269
@@ -1076,7 +1071,7 @@ msgid ""
 "open circuit (OLPC XO1.5)"
 msgstr ""
 "resistencia: rango de medición es de 750 a 14k ohmios, (OLPC XO1) y 2k "
-"ohmios a circuito abierto (OLPC XO1. 5)"
+"ohmios a circuito abierto (OLPC XO1.5)"
 
 # ca1551fce34f488bb6474d37b2b8ddbe
 #: ../source/turtleart.rst:270
@@ -1084,8 +1079,8 @@ msgid ""
 "voltage: measurement range is DC 0.4V to 1.85V. (OLPC XO1) and 0.17V to 3.0V"
 " (OLPC XO1.5)"
 msgstr ""
-"voltaje: rango de medición es de CC 0. 4V a 1. 85V. (OLPC XO1) y 0. 17V a 3."
-" 0 V (OLPC XO1. 5)"
+"voltaje: rango de medición es de CC 0.4V a 1.85V. (OLPC XO1) y 0.17V a 3.0V"
+"V (OLPC XO1. 5)"
 
 # 90eba565a3114b82b1a30b966097ea55
 #: ../source/turtleart.rst:272
@@ -1100,7 +1095,7 @@ msgid ""
 "for X (horizontal), one for Y (vertical), and one for Z (forward/backward))"
 msgstr ""
 "acelerar (no mostrado): medir la aceleración de la computadora. Los "
-"resultados se desplaza a la pila y se pueden recuperar mediante el uso de 3 "
+"resultados se agregan a la pila y se pueden recuperar mediante el uso de 3 "
 "bloques 'pop' (una para X (horizontal), uno para Y (vertical) y otro para Z "
 "(adelante / atrás))"
 
@@ -1111,14 +1106,14 @@ msgid ""
 "<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Using_Turtle_Art_Sensors>`_"
 " for more details about the sensor blocks."
 msgstr ""
-"Véase `Usando Turtle Art Sensores <http: // wiki. sugarlabs. org / go / "
-"Actividades / Turtle_Art / Using_Turtle_Art_Sensors> `_ para más detalles "
-"acerca de los bloques de sensores."
+"Véase `Usando Sensores con Turtle Art "
+"<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Using_Turtle_Art_Sensors>`_"
+" para más detalles acerca de los bloques de sensores."
 
 # f1a57cd679d34f3dbf61b32913c65575
 #: ../source/turtleart.rst:279
 msgid "Media Palette"
-msgstr "Medios Paleta"
+msgstr "Paleta Medios"
 
 # 44b74f426d494cf0b5a0281bb79936bf
 #: ../source/turtleart.rst:283
@@ -1127,7 +1122,7 @@ msgid ""
 "images from the Journal."
 msgstr ""
 "Estos son un conjunto de bloques utilizados para la visualización de objetos"
-" multimedia, como imágenes de la Revista."
+" multimedia, como imágenes del Diario."
 
 # f9584adca329454485c7bf4483581de6
 #: ../source/turtleart.rst:285
@@ -1135,27 +1130,26 @@ msgid ""
 "journal: Sugar Journal media object (used with show block) (also available "
 "in Turtle Art)"
 msgstr ""
-"diario: Azúcar Diario objeto multimedia (se usa con espectáculo bloque) "
+"diario: objeto multimedia del Diario de Sugar (se usa con bloque mostrar) "
 "(también disponible en Turtle Art)"
 
 # 2cb0e2763169485c86b748928e47c215
 #: ../source/turtleart.rst:286
 msgid "audio: Sugar Journal media object (used with show block)"
 msgstr ""
-"audio: Azúcar Diario objeto multimedia (se usa con espectáculo bloque)"
+"audio: objeto multimedia del Diario de Sugar (se usa con bloque mostrar)"
 
 # 5642a0015f2142c4a7dcdb52bae21903
 #: ../source/turtleart.rst:287
 msgid "video: Sugar Journal media object (used with show block)"
 msgstr ""
-"video: Azúcar Diario objeto multimedia (se usa con espectáculo bloque)"
+"video: objeto multimedia del Diario de Sugar (se usa con bloque mostrar)"
 
 # b19b931d23d64355a2a986acfcf83e6b
 #: ../source/turtleart.rst:288
 msgid "description: Sugar Journal description field (used with show block)"
 msgstr ""
-"Descripción: Campo de Azúcar Descripción Diario (usado con espectáculo "
-"bloque)"
+"Descripción: campo Descripción del Diario de Sugar (usado con bloque mostrar)"
 
 # a837947e2e96449e991e66dbe94c338a
 #: ../source/turtleart.rst:289
@@ -1163,20 +1157,20 @@ msgid ""
 "text: text string (used with show block; also used with box and action "
 "blocks)"
 msgstr ""
-"texto: cadena de texto (se usa con espectáculo bloque; también se utiliza "
-"con la caja y de acción bloques)"
+"texto: cadena de texto (se usa con bloque mostrar; también se utiliza "
+"con los bloques caja y acción)"
 
 # 112bcf57492b481e944241c7fc8cb98f
 #: ../source/turtleart.rst:290
 msgid "show: draw text or display media object from the Journal"
-msgstr "espectáculo: dibujar texto o exhibición objeto multimedia del Diario"
+msgstr "mostrar: dibujar texto o mostrar objeto multimedia del Diario"
 
 # 210484f946524190bd2876e4e4e57e3c
 #: ../source/turtleart.rst:291
 msgid "set scale: sets the scale of images displayed with show block"
 msgstr ""
-"ajustado en la escala: establece la escala de las imágenes se muestra con "
-"espectáculo bloque"
+"ajustado en la escala: establece la escala de las imágenes que se muestran con "
+"el bloque mostrar"
 
 # eb58dfc1b11d4dcb9cdee0d4db06d76c
 #: ../source/turtleart.rst:292
@@ -1184,7 +1178,7 @@ msgid ""
 "save picture: save the canvas to the Sugar Journal as a .png image (note: "
 "saves the canvas as displayed)"
 msgstr ""
-"Guardar imagen: guardar el lienzo para el azúcar Diario como. png imagen "
+"Guardar imagen: guardar el lienzo en el Diario como imagen .png "
 "(nota: guarda el lienzo como se muestra)"
 
 # 055ab77f593449048b005a4a9d2b3638
@@ -1193,28 +1187,28 @@ msgid ""
 "save SVG: save turtle graphics to the Sugar Journal as a .svg image (note: "
 "only saves the changes to the canvas in the current execution run)"
 msgstr ""
-"salvar SVG: guardar los gráficos de tortuga al azúcar Diario como. imagen "
-"svg (nota: sólo guarda los cambios en la lona en el plazo de ejecución "
+"guardar SVG: guardar los gráficos de tortuga al  Diario como imagen "
+".svg (nota: sólo guarda los cambios en el lienzo en el plazo de ejecución "
 "actual)"
 
 # 66f15417d20c46e4bfba43a96eee1ba4
 #: ../source/turtleart.rst:294
 msgid "scale: sets scale for show block (100% is full-screen)"
 msgstr ""
-"escala: conjuntos de escala para la demostración de bloque (100% es de "
+"escala: selecciona la escala para el bloque mostrar (100% es la "
 "pantalla completa)"
 
 # c3e6945832104026a8f5a340133ea3da
 #: ../source/turtleart.rst:295
 msgid "wait for media: used to pause program while audio or video file plays"
 msgstr ""
-"esperar a que los medios de comunicación: se utiliza para hacer una pausa en"
+"esperar multimedia: se utiliza para hacer una pausa en"
 " el programa mientras se reproduce el archivo de audio o vídeo"
 
 # 916902b33a5541fd8ae00273344ad43a
 #: ../source/turtleart.rst:296
 msgid "media stop: stop current sound or video"
-msgstr "parada de los medios de comunicación: dejar de sonido o vídeo actual"
+msgstr "parar multimedia: detener sonido o vídeo actual"
 
 # 63d9ee5d84e04e22afb4981a52d59b17
 #: ../source/turtleart.rst:297
@@ -1225,8 +1219,7 @@ msgstr "pausa medios: pausa de sonido o vídeo actual"
 #: ../source/turtleart.rst:298
 msgid "media resume: resume playing paused media"
 msgstr ""
-"curriculum vitae medios: reanudar la reproducción de los medios de "
-"comunicación en pausa"
+"retomar medios: reanudar la reproducción de los medios de comunicación en pausa"
 
 # 2382979b3dbb49468146f88c1ce64c09
 #: ../source/turtleart.rst:299
@@ -1238,13 +1231,12 @@ msgstr "hablar: envía texto al sintetizador de voz"
 msgid ""
 "sine wave: plays a sine wave of a given frequency, amplitude, and duration"
 msgstr ""
-"de onda sinusoidal: reproduce una onda sinusoidal de una determinada "
-"frecuencia, amplitud y duración"
+"onda sinusoidal: reproduce una onda sinusoidal de una determinada frecuencia, amplitud y duración"
 
 # 9a598e72b7114840b6fc204753eb9af1
 #: ../source/turtleart.rst:303
 msgid "Extras Palette"
-msgstr "Extras Paleta"
+msgstr "Paleta Extras"
 
 # 704b91d1b8eb4f45ba1bb405551b6754
 #: ../source/turtleart.rst:307
@@ -1252,45 +1244,44 @@ msgid ""
 "These are a collection of extra blocks for accessing advanced features only "
 "available in Turtle Blocks."
 msgstr ""
-"Estos son una colección de bloques adicionales para acceder a funciones "
-"avanzadas sólo disponibles en los bloques de la tortuga."
+"Esta son una colección de bloques adicionales para acceder a funciones "
+"avanzadas sólo disponibles en Turtle Blocks."
 
 # f250eb789b30442cb4d2ff317ac73590
 #: ../source/turtleart.rst:309
 msgid "push: push value onto FILO (first-in last-out) heap"
 msgstr ""
-"empujar: valor de empuje contra la FILO (primero en el último en salir) "
-"montón"
+"empujar: empuja valor en una pila FILO (first-in last-out, el primero en entrar es el último en salir)"
 
 # ad740e554f354186abaab27d3cb0e88d
 #: ../source/turtleart.rst:310
 msgid "show heap: show FILO in status block"
-msgstr "espectáculo montón: mostrar FILO en bloque de estado"
+msgstr "mostrar pila: mostrar FILO en bloque de estado"
 
 # bdb8537459c647b9bff1e088234a2315
 #: ../source/turtleart.rst:311
 msgid "empty heap: empty the FILO"
-msgstr "montón vacío: vaciar la FILO"
+msgstr "vaciar pila: vaciar la FILO"
 
 # f38b0bfcfa9047208584f4318a9619b9
 #: ../source/turtleart.rst:312
 msgid ""
 "pop: pop value off of the FILO (can be used in place of a number block)"
 msgstr ""
-"valor pop fuera de la FILO (se puede utilizar en lugar de un número de "
-"bloque): pop"
+"pop: tomar valor pop fuera de la pila FILO (se puede utilizar en lugar de un número de "
+"bloque)"
 
 # fcccad3f34e94d51b904d7c282c49a52
 #: ../source/turtleart.rst:313
 msgid "print: print value in status block (also available in Turtle Art)"
 msgstr ""
-"impresión: valor de impresión en bloque de estado (también disponible en "
+"imprimir: imprimir valor en el bloque de estado (también disponible en "
 "Turtle Art)"
 
 # 8800e3fd7343464a84200a6635a1fe5f
 #: ../source/turtleart.rst:314
 msgid "comment: program comment (displayed in \"walk\" mode)"
-msgstr "(modo de muestra en \"pie\") comentario de programa: comment"
+msgstr "comentario: comentario de programa (se muestra en modo \"paso a paso\")"
 
 # ecc325279c514ee7996cd941bc7fc652
 #: ../source/turtleart.rst:315
@@ -1298,13 +1289,13 @@ msgid ""
 "chr: Python chr primitive: converts ASCII to character (useful for "
 "converting keyboard input to text)"
 msgstr ""
-"chr: Python chr primitiva: convierte ASCII a caracteres (útil para convertir"
-" la entrada de teclado de texto)"
+"chr: primitiva 'chr' de Python: convierte a caracteres ASCII(útil para convertir"
+" la entrada de teclado a texto)"
 
 # 0a91e88107df4bc5b534034161ec2ee5
 #: ../source/turtleart.rst:316
 msgid "int: Python int primitive: converts input to integers"
-msgstr "int: Python int primitivo: convierte la entrada en enteros"
+msgstr "int: primitiva int de Python: convierte la entrada a enteros"
 
 # a2dfa94b549e4f2e94e0097c419d888a
 #: ../source/turtleart.rst:317
@@ -1319,7 +1310,7 @@ msgid ""
 "add your own math equation in the block, e.g., sin(x); This block is "
 "expandable to support up to three variables, e.g. f(x,y,z)"
 msgstr ""
-"añadir su ecuación matemática en el bloque, e. g. , Sin (x); Este bloque es "
+"añade tu ecuación matemática en el bloque, ej. sin(x); Este bloque es "
 "ampliable para soportar hasta tres variables, e. g. f(x,y,z)"
 
 # 5f0151c461d64343b4ac7c8f3ff93933
@@ -1329,25 +1320,25 @@ msgid ""
 "purpose programmable block). This block accepts a single variable x, as an "
 "input or up to 3 variables as an array x[0], x[1] and x[2]"
 msgstr ""
-"Importación Python: import código Python del azúcar Diario (un bloque "
-"programable de propósito general más). Este bloque acepta una sola variable "
-"x, como entrada o hasta 3 variables como una matriz x [0], x [1] yx [2]"
+"Importación Python: importa código Python del Diario (un bloque "
+"programable de propósito general). Este bloque acepta una sola variable "
+"x, como entrada o hasta 3 variables como una matriz x[0], x[1] y x[2]"
 
 # 2046956218134adaa6ae5561f88f363c
 #: ../source/turtleart.rst:322
 msgid "Cartesian: display Cartesian coordinate grid overlay"
 msgstr ""
-"Cartesiana: visualización de coordenadas cartesianas superposición de la red"
+"Cartesiana: visualización de grilla de coordenadas cartesianas"
 
 # 00a625bb44404868b4230703ce2301c2
 #: ../source/turtleart.rst:323
 msgid "polar: display polar coordinate grid overlay"
-msgstr "polar: visualización de coordenadas polares superposición de la red"
+msgstr "polar: visualización de grilla de coordenadas polares"
 
 # fadc1bff48284a10a1698008d434a790
 #: ../source/turtleart.rst:324
 msgid "turtle: specify which turtle is active"
-msgstr "tortuga: especificar que la tortuga está activo"
+msgstr "tortuga: especificar que tortuga está activa"
 
 # 7d40dd9458c34202b1de512f20d074e3
 #: ../source/turtleart.rst:325
@@ -1355,18 +1346,18 @@ msgid ""
 "turtle shell: import a image from the Journal to use as the turtle's "
 "'shell', i.e., replace the turtle with a sprite."
 msgstr ""
-"caparazón de tortuga: importar una imagen desde el Diario de usar como "
-"'shell' de la tortuga, i. y. , Sustituya la tortuga con un sprite."
+"caparazón de tortuga: importar una imagen desde el Diario para usar como "
+"'caparazón' de la tortuga. Sustituya la tortuga con un sprite."
 
 # 8e25251ceb984f648293d4db26f2bb1c
 #: ../source/turtleart.rst:326
 msgid "sandwich clamp: \"clamp\" a stack of blocks to hide"
-msgstr "abrazadera bocadillo: \"pinza\" una pila de bloques para ocultar"
+msgstr "pinza sandwich: \"pinza\" una pila de bloques para ocultarlos"
 
 # ae3ba9ec9a16451fac95609a2c6abf66
 #: ../source/turtleart.rst:329
 msgid "Portfolio Palette"
-msgstr "Portafolio Paleta"
+msgstr "Paleta Portafolio"
 
 # 12fb4e8b7b4240a2a6fa5aef68af26af
 #: ../source/turtleart.rst:333
@@ -1375,7 +1366,7 @@ msgid ""
 "Turtle Blocks."
 msgstr ""
 "Estos bloques se utilizan para hacer presentaciones multimedia sólo están "
-"disponibles en los bloques de la tortuga."
+"disponibles en Turtle Blocks."
 
 # f052156324b545e2bd0c1a7cb8cdd346
 #: ../source/turtleart.rst:335
@@ -1401,7 +1392,7 @@ msgstr ""
 msgid "full screen: goes into full-screen mode (hides Sugar toolbars)"
 msgstr ""
 "pantalla completa: entra en modo de pantalla completa (oculta las barras de "
-"herramientas de azúcar)"
+"herramientas de Sugar)"
 
 # 56e4f245cf43463da7b141f722980dc4
 #: ../source/turtleart.rst:338
@@ -1409,18 +1400,18 @@ msgid ""
 "list slide: used for bulleted lists; This block is expandable, allowing you "
 "to add as many bullets as you need"
 msgstr ""
-"lista de diapositivas: se utiliza para las listas con viñetas; Este bloque "
-"es ampliable, lo que le permite añadir tantas balas como usted necesita"
+"diapositivas de lista: se utiliza para crear listas con viñetas; Este bloque "
+"es ampliable, lo que le permite añadir tantos puntos como necesites"
 
 # 39da187b4fdb4edc8ffd294bb57ce6ab
 #: ../source/turtleart.rst:339
 msgid "picture slides: used for picture slides (1×1, 2×2, 1×2, and 2×1)"
-msgstr ""
+msgstr "diapositiva de imagen: usado por diapoitivas con imágenes (1×1, 2×2, 1×2, and 2×1)"
 
 # b3c8358023954c2692193ad070fae1cb
 #: ../source/turtleart.rst:341
 msgid "Only available in Turtle Blocks:"
-msgstr "Sólo disponible en bloques de tortuga:"
+msgstr "Sólo disponible en Turtle Blocks:"
 
 # 46e428f8b0654f3e8f7e423059e29469
 #: ../source/turtleart.rst:343
@@ -1428,8 +1419,8 @@ msgid ""
 "left: holds current x-coordinate value of the left edge of the screen (can "
 "be used in place of a number block)"
 msgstr ""
-"izquierda: sostiene actual valor de la coordenada x del borde izquierdo de "
-"la pantalla (se puede utilizar en lugar de un número de bloque)"
+"izquierda: toma el valor de la coordenada x del borde izquierdo de "
+"la pantalla (se puede utilizar en lugar de un bloque numérico)"
 
 # d1d27453ef8f4b5a8dfe801475e10856
 #: ../source/turtleart.rst:344
@@ -1437,8 +1428,8 @@ msgid ""
 "top: holds current y-coordinate value of the top edge of the screen (can be "
 "used in place of a number block)"
 msgstr ""
-"arriba: sostiene actual valor de la coordenada del borde superior de la "
-"pantalla (se puede utilizar en lugar de un número de bloque)"
+"arriba: toma el valor actual de la coordenada del borde superior de la "
+"pantalla (se puede utilizar en lugar de un bloque numérico)"
 
 # 510a06382f4145d5aaef6a23ef12ef00
 #: ../source/turtleart.rst:345
@@ -1446,8 +1437,8 @@ msgid ""
 "right: holds current x-coordinate value of the right edge of the screen (can"
 " be used in place of a number block)"
 msgstr ""
-"derecha: sostiene actual valor de la coordenada x del borde derecho de la "
-"pantalla (se puede utilizar en lugar de un número de bloque)"
+"derecha: toma el valor actual de la coordenada x del borde derecho de la "
+"pantalla (se puede utilizar en lugar de un bloque numérico)"
 
 # 759eb3bb9b834604ba9c1a6b54231099
 #: ../source/turtleart.rst:346
@@ -1455,22 +1446,20 @@ msgid ""
 "bottom: holds current y-coordinate value of the bottom edge of the screen "
 "(can be used in place of a number block)"
 msgstr ""
-"inferior: sostiene actual valor de la coordenada del borde inferior de la "
-"pantalla (se puede utilizar en lugar de un número de bloque)"
+"inferior: toma el valor actual de la coordenada del borde inferior de la "
+"pantalla (se puede utilizar en lugar de un bloque numérico)"
 
 # 0efb5b15d74641aa870bf30c49f9fbef
 #: ../source/turtleart.rst:347
 msgid "width: screen width (can be used in place of a number block)"
 msgstr ""
-"ancho: ancho de la pantalla (se puede utilizar en lugar de un número de "
-"bloque)"
+"ancho: ancho de la pantalla (se puede utilizar en lugar de un bloque numérico)"
 
 # 6984a3ccfddb4a6fa6bbbae0bced31c1
 #: ../source/turtleart.rst:348
 msgid "height: screen height (can be used in place of a number block)"
 msgstr ""
-"altura: altura de la pantalla (se puede utilizar en lugar de un número de "
-"bloque)"
+"altura: altura de la pantalla (se puede utilizar en lugar de un  bloque numérico)"
 
 # dd25a7e7c9264f19b91add8e9760c39c
 #: ../source/turtleart.rst:350
@@ -1478,7 +1467,7 @@ msgid ""
 "**Note:** The slide blocks expand into stacks that can be edited for "
 "customized presentations."
 msgstr ""
-"** Nota: ** Los bloques de deslizamiento se expanden en pilas que se pueden "
+"**Nota:** Los bloques de presentación se expanden en pilas que se pueden "
 "editar para presentaciones personalizadas."
 
 # 687add31d7604ce6aab5a2610cfd5e50
@@ -1493,7 +1482,7 @@ msgid ""
 "blocks out of the trash to restore them. The trash palette is emptied when "
 "you quit Turtle Art."
 msgstr ""
-"Esta paleta contiene los bloques que se han puesto a la basura. Puede "
+"Esta paleta contiene los bloques que se han tirado a la basura. Puedes "
 "arrastrar los bloques de la basura para restaurarlos. La paleta de basura se"
 " vacía al salir de Turtle Art."
 
@@ -1508,9 +1497,9 @@ msgid ""
 "An example of a vertical palette. Vertical palettes are used by default on "
 "the OLPC XO laptops running older versions of Sugar."
 msgstr ""
-"Un ejemplo de una paleta vertical de. Paletas verticales se utilizan de "
-"forma predeterminada en las laptops XO de OLPC utilicen versiones anteriores"
-" del Azúcar."
+"Un ejemplo de una paleta vertical. Paletas verticales se utilizan de "
+"forma predeterminada en las laptops XO de OLPC con versiones anteriores"
+" del Sugar."
 
 # 2560e521550c49ffb4cd6b114496382a
 #: ../source/turtleart.rst:368
@@ -1530,15 +1519,15 @@ msgid ""
 "designed for helping beginners of all ages, starting with the preliterate in"
 " preschool."
 msgstr ""
-"De Tony Forster y Mokurai han creado una serie de actividades / Turtle Art /"
-" Tutoriales Turtle Art Tutoriales en una amplia gama de matemáticas, "
+"Tony Forster y Mokurai han creado una serie de actividades y tutoriales conTurtle Art "
+"en una amplia gama, de matemáticas, "
 "programación, arte y temas de Informática. También hay una literatura "
 "sustancial de materiales educativos utilizando el lenguaje de programación "
-"Logo, de la que la tortuga Arte y Turtle Bloques derivan. La exploración con"
-" la serie Logo de MIT Press se recomienda especialmente para mostrar cómo "
-"mucho más allá de los gráficos simples Logo puede ir. Mokurai recomienda "
-"empezar con su primer tres, diseñado específicamente para ayudar a los "
-"principiantes de todas las edades, a partir de la preliterate en preescolar."
+"Logo, del que TurtleArt y Turtle Blocks se derivan. La exploración con"
+" la serie Logo de MIT Press se recomienda especialmente para mostrar cuanto "
+"más allá de los gráficos simples Logo puede ir. Mokurai recomienda "
+"empezar con los primeros tres, diseñados específicamente para ayudar a los "
+"principiantes de todas las edades, desde antes de la lectoescritura en preescolar."
 
 # eb8d48685af2453a92bf5414cc9612de
 #: ../source/turtleart.rst:372
@@ -1547,8 +1536,8 @@ msgid ""
 "<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/You_be_the_Turtle>`_"
 " without the computer."
 msgstr ""
-"`Usted sea el de la tortuga <http: // wiki. sugarlabs. org / go / "
-"Actividades / Turtle_Art / Tutoriales / You_be_the_Turtle> `_ sin el "
+"`Se la tortuga "
+"<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/You_be_the_Turtle>`_ sin el "
 "ordenador."
 
 # 852f5dee2f7841a39bb97a541cf13c0a
@@ -1558,8 +1547,9 @@ msgid ""
 "<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Mathematics_and_art>`_,"
 " an introduction to TA."
 msgstr ""
-"`Matemáticas y arte <http: // wiki. sugarlabs. org / go / Actividades / "
-"Turtle_Art / Tutoriales / Mathematics_and_art> `_, una introducción a TA."
+"`Matemáticas y arte "
+"<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Mathematics_and_art>`_,"
+" una introducción a TA."
 
 # 6576f3e7e9494f368fd266b1523cafe6
 #: ../source/turtleart.rst:374
@@ -1567,8 +1557,8 @@ msgid ""
 "`Counting "
 "<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Counting>`_"
 msgstr ""
-"`Contar <http: // wiki. sugarlabs. org / go / Actividades / Turtle_Art / "
-"Tutoriales / Conteo> `_"
+"`Contar "
+"<http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Counting>`_"
 
 # 287ae08f1e8d47bbb0aef7b4e8de17bc
 #: ../source/turtleart.rst:377
@@ -1586,13 +1576,13 @@ msgid ""
 "graphing program, but there is no inherent limit on what capabilities of "
 "Python one can add to TA."
 msgstr ""
-"Hay versiones de Turtle Art en lenguajes de programación y entornos de "
-"varios, incluyendo logotipo, Python, Smalltalk, y otros. Arte de la tortuga "
+"Hay versiones de Turtle Art en lenguajes de programación y entornos "
+"varios, incluyendo Logo, Python, Smalltalk, y otros. TurtleArt "
 "puede exportar programas en Logo, como se explica a continuación. Hay "
 "bloques programables en Turtle Art que hacen posible la inclusión de "
 "cualquier programa de Python en el mundo Turtle Art. El caso más simple es "
 "una sola llamada de función utilizado en un programa de gráficos, pero no "
-"hay límite inherente en lo capacidades de Python se puede añadir a TA."
+"hay límite inherente en las capacidades de Python que se pueden añadir a TA."
 
 # 63bae5692ff5412e8ab394ffcf113166
 #: ../source/turtleart.rst:382
@@ -1606,10 +1596,9 @@ msgid ""
 "<http://www.cs.berkeley.edu/~bh/>`_ (using either **View Source** or the "
 "**Save as Logo** button on the **Project Toolbar**)"
 msgstr ""
-"Arte de la tortuga puede exportar sus proyectos a `Berkeley Logo <http: // "
-"www. cs. berkeley. edu / ~ bh /> `_ (utilizando ** ** Ver código fuente o el"
-" ** Guardar como Logo ** botón de la barra de herramientas del proyecto ** "
-"**)"
+"Turtle Art puede exportar sus proyectos a `Berkeley Logo "
+"<http://www.cs.berkeley.edu/~bh/>`_ (utilizando **Ver código fuente** o el "
+"botón **Guardar como Logo** de la **barra de herramientas del proyecto**)"
 
 # 2d043a7f516e4c208aef5950460d3d43
 #: ../source/turtleart.rst:387
@@ -1622,13 +1611,13 @@ msgid ""
 "There are two ways to create Python blocks: by loading sample code provided "
 "with Turtle Art or by loading Python code the your Journal."
 msgstr ""
-"Hay dos formas de crear Python bloques: por código de carga de muestra "
-"provistos de Arte de la tortuga o cargando el código Python su Diario."
+"Hay dos formas de crear bloques Python: cargando código de muestra "
+"provisto en Turtle Art o cargando el código Python de tu Diario."
 
 # 942d37da4413418a9d361677ee98152d
 #: ../source/turtleart.rst:391
 msgid "**Loading sample code**"
-msgstr "** Cargando código de ejemplo **"
+msgstr "**Cargando código de ejemplo**"
 
 # 3553b31c192046dfa9ac3499e85725f7
 #: ../source/turtleart.rst:393
@@ -1638,15 +1627,15 @@ msgid ""
 "file-selector dialog. Select the sample that you want and it will be both "
 "copied to the Journal and loaded into a Python block."
 msgstr ""
-"Se proporcionan una serie de programas individuales de la muestra. Al hacer "
-"clic en el Load Python Bloquear botón Load / Save Toolbar | loadpython | "
-"invocará un diálogo de archivo selector. Seleccione la muestra que desea y "
-"será tanto copia en el Diario y se carga en un bloque de Python."
+"Se proporcionan una serie de programas individuales de muestra. Al hacer "
+"clic en el botón Cargar Python  en la barra de herramientas Cargar/Salvar |loadpython| "
+"invocará un diálogo selector de archivo. Selecciona la muestra que deseas y "
+"será copiado en el Diario y se cargará en un bloque de Python."
 
 # ab4010fe206441e79fed001ce4680dc1
 #: ../source/turtleart.rst:399
 msgid "**Loading code from the Journal**"
-msgstr "** Cargando código del Diario **"
+msgstr "**Cargando código del Diario**"
 
 # 56ad9e7c74fb43ffa4dea0e0b88dab72
 #: ../source/turtleart.rst:401
@@ -1654,8 +1643,8 @@ msgid ""
 "Clicking on a Python block |pythoncodeblock| that has been dragged onto the "
 "canvas from the Extras palette will invoke an object-selector dialog."
 msgstr ""
-"Al hacer clic en un bloque Python | pythoncodeblock | que ha sido arrastrado"
-" en el lienzo de la paleta Extras invocará un diálogo objeto-selector."
+"Al hacer clic en un bloque Python |pythoncodeblock| que ha sido arrastrado"
+" en el lienzo de la paleta Extras invocará un diálogo selector de objetos."
 
 # 4485595c9ab245ff81c56211e215d0f9
 #: ../source/turtleart.rst:407
@@ -1663,7 +1652,7 @@ msgid ""
 "Select the Python code that that you want and that code will be loaded into "
 "the selected block."
 msgstr ""
-"Seleccione el código Python que que desee y que el código será cargado en el"
+"Selecciona el código Python que desees y el código será cargado en el"
 " bloque seleccionado."
 
 # 9d5d3cc0adae48f69f955a8ebfdecadb
@@ -1673,9 +1662,9 @@ msgid ""
 "selector; instead attach the block to another one and click elsewhere on the"
 " stack you have created."
 msgstr ""
-"No se puede ejecutar un bloque Python haciendo clic en él, como que se abre "
-"el selector de objeto; lugar conecte el bloque a otro y haga clic en otra "
-"parte de la pila que haya creado."
+"No se puede ejecutar un bloque Python haciendo clic en él, ya que se abre "
+"el selector de objeto; conecta el bloque a otro y haz clic en otra "
+"parte de la pila que hayas creado."
 
 # 130eefd36e874922b7a833fa6ce37d66
 #: ../source/turtleart.rst:411
@@ -1683,7 +1672,7 @@ msgid ""
 "Which ever way you create them, multiple Python blocks can have different "
 "code loaded in them."
 msgstr ""
-"Sea cual sea la forma en que los crea, varios bloques de Python pueden tener"
+"Sea cual sea la forma en que los crees, varios bloques de Python pueden tener"
 " diferente código cargado en ellos."
 
 # e867902273a145c8989579a87a192419
@@ -1698,9 +1687,9 @@ msgid ""
 "it. You are also encourage to modify it to suit your needs or just for a "
 "further opportunity to learn."
 msgstr ""
-"Turtle Art se encuentra bajo la licencia MIT. Usted es libre de usarlo y "
-"aprender con él. También se le anima a modificarlo para adaptarlo a sus "
-"necesidades o simplemente para una nueva oportunidad para aprender."
+"Turtle Art se encuentra bajo la licencia MIT. Eres libre de usarlo y "
+"aprender con él. También se te anima a modificarlo para adaptarlo a tus "
+"necesidades o simplemente como una nueva oportunidad para aprender."
 
 # 95010c963f5842859bfd444d3375822c
 #: ../source/turtleart.rst:418
@@ -1710,10 +1699,10 @@ msgid ""
 "modules: taconstants.py and talogo.py. The former defines the blocks and "
 "palettes; the latter defines what code is executed by a block."
 msgstr ""
-"Gran parte de la motivación detrás de la versión 83 refactorización del "
-"código era para hacer más fácil para usted para hacer cambios. La mayoría de"
-" los cambios se pueden limitar a dos módulos: taconstants. py y talogo. py. "
-"El primero define los bloques y paletas; este último define qué código se "
+"Gran parte de la motivación detrás de la refactorización en la versión 83 del "
+"código fué para hacer más fácil para ti el hacer cambios. La mayoría de"
+" los cambios se pueden limitar a dos módulos: taconstants.py y talogo.py. "
+"El primero define los bloques y paletas; el último define qué código se "
 "ejecuta por un bloque."
 
 # 806c5c5179594cb1b8c449bf66e79804
@@ -1726,9 +1715,9 @@ msgid ""
 "that your changes will remain intact even after you upgrade to a newer "
 "version.)"
 msgstr ""
-"** Nota: También ** A partir de la versión 106, no hay soporte de plugins. "
-"Si usted puede utilizar el mecanismo de plugin para añadir soporte para "
-"dispositivos adicionales, e. g. , Arduino, o para realizar modificaciones, "
+"**Nota:** También a partir de la versión 106, hay soporte de plugins. "
+"Tu puedes utilizar el mecanismo de plugin para añadir soporte para "
+"dispositivos adicionales, ej., Arduino, o para realizar modificaciones, "
 "como se describe a continuación sin realizar cambios a la base de código "
 "estándar. (La ventaja de este último es que los cambios permanecerán "
 "intactos incluso después de actualizar a una nueva versión. )"
@@ -1742,17 +1731,17 @@ msgid ""
 "code to that file or to turtle_block_plugin.py, which contains additional "
 "blocks. (Even better, write your own plugin!!)"
 msgstr ""
-"Los tabasics. archivo py contiene las constantes que por-en gran determinar "
+"El archivo tabasics.py contiene las constantes que en gran medida determinan "
 "el comportamiento de Turtle Art. En particular, las paletas de bloque se "
-"definen a continuación. Si desea agregar un nuevo bloque de Turtle Art, "
-"usted puede simplemente añadir un bloque de código para ese archivo o para "
-"turtle_block_plugin. py, que contiene bloques adicionales. (Aún mejor, tus "
+"definen alli. Si deseas agregar un nuevo bloque a Turtle Art, "
+"tu puedes simplemente añadir un bloque de código en ese archivo o en "
+"turtle_block_plugin.py, que contiene bloques adicionales. (Aún mejor, tus "
 "propios complementos !!)"
 
 # 96e6aabd2eaa42c182699cf9a0be568f
 #: ../source/turtleart.rst:424
 msgid "Adding a new palette is simply a matter of:"
-msgstr "Adición de una nueva gama de colores es simplemente una cuestión de:"
+msgstr "La adición de una nueva gama de colores es simplemente una cuestión de:"
 
 # 957943867c264b938d88a74aa90dd24b
 #: ../source/turtleart.rst:432
@@ -1761,7 +1750,7 @@ msgid ""
 "add_block method in the Palette class."
 msgstr ""
 "Por ejemplo, si queremos añadir un nuevo comando de tortuga, 'uturn', "
-"usaríamos el método add_block en la clase Paleta."
+"usaríamos el método add_block en la clase Palette."
 
 # 9d29df37660149f2a9e0e08b9fea2d56
 #: ../source/turtleart.rst:442
@@ -1771,8 +1760,9 @@ msgid ""
 "the function to call—in this case, the canvas.seth function to set the "
 "heading."
 msgstr ""
-"A continuación, es necesario definir lo que hará su bloque. seth función "
-"para establecer el título."
+"A continuación, es necesario definir lo que hará tu bloque. def_prim toma tres argumentos:"
+"el nombre de la primitiva, el número de argumentos (0 en este caso) y la función a llamar "
+"(en este caso la función seth para establecer la dirección)."
 
 # 7e2b3a5cecdb4c61973a72a7eb02a47f
 #: ../source/turtleart.rst:449
@@ -1793,13 +1783,13 @@ msgid ""
 "size (55x55) as the others. (This is the default icon size for Sugar "
 "toolbars.)"
 msgstr ""
-"Usted tendrá que crear iconos de los botones de selección de paleta-. Estos "
-"se mantienen en el subdirectorio de iconos. Usted necesita dos iconos: "
-"mypaletteoff. svg y mypaletteon. svg, donde 'mypalette' es la misma cadena "
-"que la entrada que utilizó en crear instancias de la clase Paleta. Tenga en "
+"Tu tendrás que crear iconos para los botones de selección de paleta-. Estos "
+"se mantienen en el subdirectorio de iconos. Necesitas dos iconos: "
+"mypaletteoff.svg y mypaletteon.svg, donde 'mypalette' es la misma cadena "
+"que la entrada que utilizaste al crear instancias de la clase Paleta. Ten en "
 "cuenta que los iconos deben ser del mismo tamaño (55x55) como los otros. "
 "(Este es el tamaño de los iconos por defecto para las barras de herramientas"
-" de azúcar. )"
+" de Sugar. )"
 
 # 312d893d4b224f24a22848d20c90153a
 #: ../source/turtleart.rst:454
@@ -1812,8 +1802,8 @@ msgid ""
 "Please file bug reports `here "
 "<https://bugs.sugarlabs.org/newticket?component=Turtleart>`_."
 msgstr ""
-"Por favor, presentar informes de fallos `aquí <https: // bichos. sugarlabs. "
-"org / newticket? componente = TurtleArt> `_."
+"Por favor, presentar informes de fallos `aquí "
+"<https://bugs.sugarlabs.org/newticket?component=Turtleart>`_."
 
 # 5e22edb23a85415a9f20331fecf2c4fe
 #: ../source/turtleart.rst:459
@@ -1826,6 +1816,8 @@ msgid ""
 "Walter Bender and Raúl Gutiérrez Segalés maintain the code (with some "
 "occasional help from Simon Schampijer)"
 msgstr ""
+"Walter Bender y Raúl Gutiérrez Segalés maintienen el código (con alguna "
+"ayuda ocasional de Simon Schampijer)"
 
 # 62cff2a827314803a6bdd0ae9de3fe69
 #: ../source/turtleart.rst:463
@@ -1834,7 +1826,7 @@ msgid ""
 " many patches."
 msgstr ""
 "Alan Jhonn Aguiar Schwyn y el Equipo de Butia han proporcionado una gran "
-"respuesta y muchos parches."
+"realimentacion y muchos parches."
 
 # 76776f25f7374004a87e9e614d2c3a6e
 #: ../source/turtleart.rst:465
@@ -1842,6 +1834,8 @@ msgid ""
 "Especially helpful feedback from Tony Forster, Guzmán Trinidad, and Bill "
 "Kerr"
 msgstr ""
+"Especialmente util realimentacion de Tony Forster, Guzmán Trinidad, y Bill "
+"Kerr"
 
 # fac59c6e17334031b7974181f1e4957b
 #: ../source/turtleart.rst:467
