@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Servidor de la escuela XS &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="¿Qué es una Actividad?" href="what_is_an_activity.html" />
+    <link rel="prev" title="GNOME" href="gnome.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="what_is_an_activity.html" title="¿Qué es una Actividad?"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="gnome.html" title="GNOME"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="xs-school-server">
+<h1>Servidor de la escuela XS<a class="headerlink" href="#xs-school-server" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="overview">
+<h2>Introducción<a class="headerlink" href="#overview" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>El servidor de la escuela XO, o XS, es uno de los productos del proyecto OLPC, diseñado para complementar la laptop XO. El XS es instalado en ordenador x86 (Intel-compatible). Estos podrían ser los servidores convencionales, tales como ordenadores montados en bastidor, máquinas de baja potencia especialmente diseñados, o incluso netbooks.</p>
+<p>La OLPC XS proporciona infraestructura adicional ampliando las capacidades de los ordenadores portátiles. Mientras que las computadoras portátiles son autosuficientes para muchas actividades de aprendizaje, otras actividades y servicios dependen de la conectividad provista por el XS, recursos y servicios compartidos. El XS ofrece a las máquinas XO conectividad de red para copias de seguridad, sistema antirrobo, navegación web, actualizaciones de contenido y herramientas de colaboración asincrónica como Moodle.</p>
+</div>
+<div class="section" id="installation">
+<h2>Instalación<a class="headerlink" href="#installation" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Dos opciones de instalación están disponibles:</p>
+<ol class="arabic simple">
+<li><p class="first">CD de instalación XS (recomendado): descargar y grabar una imagen de CD, y utilizar el CD resultante para instalar el sistema. Ver detalles en <a class="reference external" href="http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_from_CD">http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_from_CD</a></p>
+</li>
+<li><p class="first">Instalar sobre otro sistema (avanzado): instalar los paquetes de software XS sobre una instalación de sistema operativo existente. Ver detalles en <a class="reference external" href="http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_on_top_of_existing_OS_installation">http://wiki.laptop.org/go/XS_Installing_Software_0.7#Installing_on_top_of_existing_OS_installation</a></p>
+</li>
+</ol>
+<p>La instalación es bastante sencillo y requiere un mínimo de configuración después de la instalación inicial en el disco duro XS.</p>
+</div>
+<div class="section" id="configuration">
+<h2>Configuración<a class="headerlink" href="#configuration" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>La configuración de la XS implica la elección de un nombre de dominio del servidor. El nombre de host es siempre &#8216;schoolserver&#8217;. Por lo tanto, el uso de un nombre de dominio como ejemplo.org le dará schoolserver.ejemplo.org.</p>
+<p>El XS tiene una configuración bastante estándar de red de estilo servidor. El XS ofrece servicios DHCP y DNS a todas las XO conectados a él a través de un punto de acceso inalámbrico. Sin embargo, si la escuela ya cuenta con su propia red que ejecute sus propios servicios DHCP, la red XS puede ser modificada para que funcione con la infraestructura existente. El XS puede trabajar con dos tarjetas de red, donde se trabaja como una interfaz WAN, mientras que la otra obra como la interfaz LAN. El XS también puede trabajar con una sola tarjeta de red Ethernet, donde funciona como una interfaz LAN para las escuelas sin conectividad WAN (Internet).Opcionalmente, un servidor de este tipo puede proporcionar conectividad WAN utilizando un adaptador de USB a Ethernet.</p>
+</div>
+<div class="section" id="services">
+<h2>Servicios<a class="headerlink" href="#services" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="section" id="collaboration">
+<h3>Colaboración<a class="headerlink" href="#collaboration" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>El XS proporciona servicios de colaboración a través de una variedad de actividades. Cuando los XO están conectados al servidor de la Escuela, la colaboración se gestiona a través del servidor y se puede segmentar por una clase o un grupo. Mientras que el usuario no verá nada diferente, la capacidad de colaboración ampliará considerablemente con una XS en el entorno.</p>
+</div>
+<div class="section" id="caching">
+<h3>Caching<a class="headerlink" href="#caching" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>El XS utiliza Squid para hacer &#8220;caché&#8221; al contenido localmente. En los lugares donde el acceso a Internet es limitado, lento o caro, caché de contenido ayuda a acelerar el acceso al contenido al hacer copias en el XS y sirviendo éstos de forma local.</p>
+</div>
+<div class="section" id="backup-and-restore">
+<h3>Copia de seguridad y restauración<a class="headerlink" href="#backup-and-restore" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>El XS ofrece servicios de respaldo sin fisuras para cada XO registrado. El XS comprueba el estado de la copia de seguridad del Diario en cada XO y lo respalda de forma incremental. Una vez que se realizan las copias de seguridad, estos pueden ser utilizados para restaurar la obra de un niño de nuevo en su XO.</p>
+</div>
+<div class="section" id="antitheft-controls">
+<h3>Controles antirrobo<a class="headerlink" href="#antitheft-controls" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Antirrobo controla una listas de todas las XO registrados en un solo lugar. Además, esta característica ofrece arrendamientos de rescate para los ordenadores portátiles para volver a activar las computadoras portátiles en caso de problemas. Si un ordenador portátil es robado, la función de control antirrobo lo apaga.</p>
+</div>
+<div class="section" id="learning-management-system">
+<h3>Sistema de Gestión de Aprendizaje<a class="headerlink" href="#learning-management-system" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Moodle es un sistema de gestión de aprendizaje que proporciona al profesor una manera de crear un curso, gestionar y administrar tareas de evaluación mediante una interfaz basada en la web. En la XO, el LMS Moodle es accesible a través de la actividad Navegar. Las características de Moodle incluyen envío de una tarea, foros de discusión, las descargas de archivos, libros de calificaciones, mensajes instantáneos, calendarios, noticias, anuncios, concursos y wiki.</p>
+<img alt="_images/600px-Moodlemain.png" src="_images/600px-Moodlemain.png" />
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Servidor de la escuela XS</a><ul>
+<li><a class="reference internal" href="#overview">Introducción</a></li>
+<li><a class="reference internal" href="#installation">Instalación</a></li>
+<li><a class="reference internal" href="#configuration">Configuración</a></li>
+<li><a class="reference internal" href="#services">Servicios</a><ul>
+<li><a class="reference internal" href="#collaboration">Colaboración</a></li>
+<li><a class="reference internal" href="#caching">Caching</a></li>
+<li><a class="reference internal" href="#backup-and-restore">Copia de seguridad y restauración</a></li>
+<li><a class="reference internal" href="#antitheft-controls">Controles antirrobo</a></li>
+<li><a class="reference internal" href="#learning-management-system">Sistema de Gestión de Aprendizaje</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="what_is_an_activity.html" title="¿Qué es una Actividad?"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="gnome.html" title="GNOME"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

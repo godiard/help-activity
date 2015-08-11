@@ -1,0 +1,405 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Ábaco &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Navegar" href="browse.html" />
+    <link rel="prev" title="Saliendo de las Actividades" href="exiting_activities.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="browse.html" title="Navegar"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="exiting_activities.html" title="Saliendo de las Actividades"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="abacus">
+<h1>Ábaco<a class="headerlink" href="#abacus" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Abacus-activity.png" src="_images/Abacus-activity.png" />
+<p>Ábaco permite al estudiante explorar diferentes representaciones de números utilizando diferentes sistemas de conteo mecánico desarrollado por los antiguos romanos y los chinos. Hay varias variantes diferentes disponibles para la exploración: el Suanpan, el ábaco chino tradicional con 2 cuentas en la parte superior y 5 cuentas por debajo; el Soroban, el ábaco japonés tradicional con 1 grano en la parte superior y 4 cuentas por debajo; el Schety, el ábaco tradicional ruso, con 10 cuentas por columna, con la excepción de una columna con sólo 4 bolas utilizadas para contar en cuartos; y el Nepohualtzintzin, un ábaco maya, con 3 cuentas en la parte superior y 4 cuentas siguientes (base 20). También hay un ábaco binario, un ábaco hexadecimal, y varios ábacos que te permite calcular con fracciones comunes: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, y 1/12. Y hay una barra de herramientas de personalización que te permite diseñar tu propio ábaco. El ábaco inca (Yupana) es una actividad independiente.</p>
+</div>
+<div class="section" id="using-abacus">
+<h2>El uso de Ábaco<a class="headerlink" href="#using-abacus" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="section" id="clearing-the-abacus">
+<h3>Borrado del ábaco<a class="headerlink" href="#clearing-the-abacus" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Antes de iniciar una operación aritmética, es necesario &#8220;limpiar&#8221; el ábaco. Las perlas superiores deben colocarse contra la parte superior del marco y las perlas inferiores deben colocarse contra la parte inferior del marco. Esta es la posición por defecto para el ábaco al iniciar la actividad.</p>
+<p>Ten en cuenta que algunos de los ábacos (por ejemplo, el Schety) no tienen ninguna perla superior. En tales casos, todas debe comenzar en la posición baja. También ten en cuenta que el botón Borrar en la barra de herramientas principal borrará el ábaco por ti.</p>
+</div>
+<div class="section" id="reading-the-abacus">
+<h3>Leyendo el ábaco<a class="headerlink" href="#reading-the-abacus" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>En cada columna, las perlas inferiores representan 1s y las perlas superiores representan 5s. (La excepción es la columna en el Schety con sólo 4 perlas. Estos valen un cuarto cada una. ) Así que por cada cuenta se eleva desde el fondo de una columna hay que agregar 1 y por cada cuenta que baja desde la parte superior de la misma columna, hay que añadir 5.</p>
+<p>Las columnas representan por sí mismas posiciones decimales de derecha a izquierda, por ejemplo, 1s, 10s, 100s, 1000, etc.. (Hay algunas excepciones: (1) el Nepohualtzintzin utiliza de base 20, ejemplo, 1s, 20s, 400s, 8000s, etc. ; (2) en el Schety, las perlas a la derecha de la columna con sólo cuatro perlas son 0.1s, 0.01s, 0.001s y 0.001s; las perlas negras en el ábaco Caacupe tienen valores fraccionarios; y en los ábacos diseñados por el usuario las cuentas pueden tener cualquier valor entero</p>
+<p>El valor actual se muestra siempre en el marco. Experimenta aprenderás rápidamente a leer y escribir números.</p>
+<p>Ejemplos: En la galería a continuación, se muestran varios ejemplos sencillos. En la galería de imágenes de arriba, el número 54321 se muestra en cada uno de los diferentes ábacos.</p>
+<img alt="_images/Abacus-ex1.png" src="_images/Abacus-ex1.png" />
+<p>De izquierda a derecha,</p>
+<blockquote>
+<div><ul class="simple">
+<li><p class="first">1 perla inferior se ha levantado, que corresponde a 1 unidad</p>
+</li>
+<li><p class="first">1 perla superior se ha bajado, correspondiente a 5 unidades</p>
+</li>
+<li><p class="first">5 cuentas de abajo han subido, también correspondiente a 5 unidades</p>
+</li>
+<li><p class="first">1 perla inferior está arriba y una perla de arriba está abajo, correspondiendo a 6 unidades</p>
+</li>
+</ul>
+</div></blockquote>
+<img alt="_images/Abacus-ex2.png" src="_images/Abacus-ex2.png" />
+<p>De izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">5 cuentas de abajo estan subidas y una perla de arriba está abajo, lo que corresponde a 10 unidades (tiempo para &#8220;llevar&#8221; a la izquierda)</p>
+</li>
+<li><p class="first">Esto es equivalente a 10. . .</p>
+</li>
+<li><p class="first">. . . este 10</p>
+</li>
+<li>54321</li>
+</ul>
+<p>Nota: La pantalla siempre asume una columna unidad fija, pero se puede anular esta elección.</p>
+<img alt="_images/Abacus-ex3.png" src="_images/Abacus-ex3.png" />
+<p>Las perlas que se movieron recientemente se destacan.</p>
+</div>
+<div class="section" id="addition">
+<h3>Adición<a class="headerlink" href="#addition" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Para agregar, simplemente mueve más cuentas para representar el número que está agregando. Hay dos reglas a seguir: (1) cada vez que tengas un total de 5 unidades o más en la parte inferior de una columna, cancela el 5 deslizando las cuentas de nuevo y añade un cinco a la parte superior; y (2) cada vez que tengas un total de 10 unidades o más en una columna, anula el 10 y añade una unidad a la columna inmediatamente a la izquierda. (Con el Nepohualtzintzin, se trabaja con 20 en lugar de 10. )</p>
+<p>Ejemplo: 4 + 3 + 5 + 19 + 24 = 55</p>
+<img alt="_images/Abacus-ex4.png" src="_images/Abacus-ex4.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li>4</li>
+<li>+3=7 (5–2=3)</li>
+<li>+5=12</li>
+<li><p class="first">llevar 5s a la siguiente columna</p>
+</li>
+</ul>
+<img alt="_images/Abacus-ex5.png" src="_images/Abacus-ex5.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li>+19=31 (20-1=19)</li>
+<li>+24=55</li>
+<li>4+3+5+19+24=55</li>
+</ul>
+</div>
+<div class="section" id="subtraction">
+<h3>Sustracción<a class="headerlink" href="#subtraction" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>La resta es la inversa de la suma. Retira cuentas que corresponden al número que estás restando. Puedes &#8220;pedir prestado&#8221; de la columna inmediatamente a la izquierda: restando una unidad y añadiendo 10 a la columna actual.</p>
+<p>Ejemplo: 26–2–4–6–10=4</p>
+<img alt="_images/Abacus-ex6.png" src="_images/Abacus-ex6.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li>26</li>
+<li>26-2=24</li>
+<li>24-4=20</li>
+<li><p class="first">llevar 10 a la derecha</p>
+</li>
+</ul>
+<img alt="_images/Abacus-ex7.png" src="_images/Abacus-ex7.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li>20-6=14</li>
+<li>14-10=4</li>
+</ul>
+</div>
+<div class="section" id="multiplication">
+<h3>Multiplicación<a class="headerlink" href="#multiplication" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Hay varias estrategias para hacer la multiplicación en un ábaco. En el método utilizado en el ejemplo siguiente, el multiplicador se almacena en el extremo izquierdo del ábaco y el multiplicando está desplazado a la izquierda por el número de dígitos en el multiplicador. El indicador rojo se utiliza para ayudar a mantener un seguimiento de dónde estamos en el proceso.</p>
+<img alt="_images/Abacus-ex8.png" src="_images/Abacus-ex8.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">486×24=? Comience poniendo 24 in las columnas de la izquierda y 486 a dos columnas de la derecha (ya que 24 tiene dos dígitos). Pon el indicador a la derecha del multiplicando.</p>
+</li>
+<li><p class="first">Multiplica los dígitos menos significativos (DMS) del multiplicador (4) y del multiplicando (6) y coloca los resultados (4 × 6 = 24) en las columnas de la extrema derecha.</p>
+</li>
+<li><p class="first">Multiplica el siguiente dígito en el multiplicador (2, que corresponde a 2 × 10 = 20) y el DMS del multiplicando (6) y agrega los resultados (2 × 6 = 12) a la derecha (avanza una columna a la izquierda para corresponder a la potencia del dígito en el multiplicador).</p>
+</li>
+<li><p class="first">Mueve el indicador una columna más a la izquierda.</p>
+</li>
+</ul>
+<img alt="_images/Abacus-ex9.png" src="_images/Abacus-ex9.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">Repite para el siguiente dígito en el multiplicando (8): 4x8=32</p>
+</li>
+<li>2×8=16</li>
+<li><p class="first">Mueve el indicador una columna más a la izquierda.</p>
+</li>
+</ul>
+<img alt="_images/Abacus-ex10.png" src="_images/Abacus-ex10.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">Repite para el siguiente dígito en el multiplicando (4): 4×4=16</p>
+</li>
+<li>2×4=8</li>
+<li><p class="first">Limpia el multiplicador de la izquierda para ver el resultado:  486×24=11664</p>
+</li>
+</ul>
+</div>
+<div class="section" id="division">
+<h3>División<a class="headerlink" href="#division" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Una simple división (por un número de un solo dígito) es la inversa de la multiplicación. En el ejemplo siguiente, el dividendo se pone a la izquierda (dejando una columna vacante por el cociente) y el divisor a la derecha.</p>
+<img alt="_images/Abacus-ex11.png" src="_images/Abacus-ex11.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">123456789÷2=? Coloca el dividendo (123456789) a la izquierda, dejando una columna vacía. Coloca el divisor (2) a la derecha.</p>
+</li>
+<li><p class="first">Trabajando desde la izquierda a la derecha, dividir un dígito en el cociente y luego mover el indicador de una columna a la derecha.  1÷2=0.5</p>
+</li>
+<li>2÷2=1</li>
+<li>3÷2=1.5</li>
+</ul>
+<img alt="_images/Abacus-ex12.png" src="_images/Abacus-ex12.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li>4÷2=2</li>
+<li>5÷2=2.5</li>
+<li>6÷2=3</li>
+</ul>
+<img alt="_images/Abacus-ex13.png" src="_images/Abacus-ex13.png" />
+<p>de izquierda a derecha,</p>
+<ul class="simple">
+<li>7÷2=3.5</li>
+<li>8÷2=4</li>
+<li>9÷2=4.5</li>
+<li><p class="first">El resultado es 61728394.5.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="fractions">
+<h3>Fracciones<a class="headerlink" href="#fractions" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>La ábaco con fracciones permite sumar y restar fracciones comunes: 1/2, 1/3, 1/4, 1/5, 1/6, 1/8, 1/9, 1/10, 1/12 y, El valor fraccionario se determina por el número de perlas en negro en una varilla, ej. , Para trabajar con terceras partes, utilizar la varilla con tres cuentas, para trabajar con quintas partes, utilizar la varilla con cinco cuentas.</p>
+<p>Las varillas con las perlas blancos son números enteros en base 10; de izquierda a derecha 100000, 10000, 1000, 100, 10, y 1.</p>
+<img alt="_images/Abacus-ex14.png" src="_images/Abacus-ex14.png" />
+<p>20 + 1 + 1/2 + 1/3 + 1/6 = 22</p>
+</div>
+<div class="section" id="the-toolbars">
+<h3>Las barras de herramientas<a class="headerlink" href="#the-toolbars" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/Abacus-ex15.png" src="_images/Abacus-ex15.png" />
+<p>De izquierda a derecha:</p>
+<ul class="simple">
+<li><p class="first">boton de barra de actividad: ver más abajo</p>
+</li>
+<li><p class="first">boton de barra de edición: ver más abajo</p>
+</li>
+<li><p class="first">boton de barra de ábacos: ver más abajo</p>
+</li>
+<li><p class="first">boton de barra de personalización</p>
+</li>
+<li><p class="first">boton de limpieza: Borrado del ábaco</p>
+</li>
+<li><p class="first">boton cerrar: salir de la actividad</p>
+</li>
+</ul>
+<img alt="_images/Abacus-ex16.png" src="_images/Abacus-ex16.png" />
+<p>De izquierda a derecha:</p>
+<ul class="simple">
+<li><p class="first">copiar: copia el valor del ábaco al portapapeles</p>
+</li>
+<li><p class="first">pegar: pega el valor del portapapeles en el ábaco</p>
+</li>
+</ul>
+<img alt="_images/Abacus-ex17.png" src="_images/Abacus-ex17.png" />
+<p>De izquierda a derecha:</p>
+<ul class="simple">
+<li><p class="first">boton decimal: ábaco decimal</p>
+</li>
+<li><p class="first">boton Soroban: ábaco japones</p>
+</li>
+<li><p class="first">boton Saupan: ábaco chino</p>
+</li>
+<li><p class="first">boton Nepohualtzintzin: ábaco Maya</p>
+</li>
+<li><p class="first">boton hexadecimal: ábaco hexadecimal</p>
+</li>
+<li><p class="first">boton binario: ábaco binario</p>
+</li>
+<li><p class="first">boton Schety: ábaco ruso</p>
+</li>
+<li><p class="first">boton fracciones: ábaco para fracciones</p>
+</li>
+<li><p class="first">boton Caacupe: ábaco con fracciones con +/-</p>
+</li>
+<li><p class="first">boton barra: ábaco tipo Cuisenaire</p>
+</li>
+<li><p class="first">boton personalizar: tu propio ábaco</p>
+</li>
+</ul>
+<img alt="_images/Abacus-ex18.png" src="_images/Abacus-ex18.png" />
+<p>De izquierda a derecha:</p>
+<ul class="simple">
+<li><p class="first">varilla: seleccionar el número de varillas</p>
+</li>
+<li><p class="first">perlas superiores: seleccionar el número de perlas en la parte superior del marco</p>
+</li>
+<li><p class="first">inferior: seleccionar el número de perlas en la parte inferior del marco</p>
+</li>
+<li><p class="first">factor: seleccionar el factor de multiplicación de las perlas superiores (ej. en el ábaco Chino, cada perla superior vale 5 veces el valor de la perla inferior en la misma varilla)</p>
+</li>
+<li><p class="first">base: seleccionar la base para determinar el valor de las perlas inferiores a traves de las varillas; es 10 en los ábacos más convencionales, pero 20 en el Maya, 16 en el hexadecimal y 2 en el ábaco binario.</p>
+</li>
+<li><p class="first">crear: debes presionar este boton para activar los parametros que has elegido</p>
+</li>
+</ul>
+</div>
+<div class="section" id="gallery-of-abaci">
+<h3>Galería de ábacos<a class="headerlink" href="#gallery-of-abaci" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/Abacus-ex19.png" src="_images/Abacus-ex19.png" />
+<p>De izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">Suanpan (chino)</p>
+</li>
+<li><p class="first">Soropan (japonés)</p>
+</li>
+<li><p class="first">Schety (Rusia)</p>
+</li>
+<li><p class="first">Nepohualtzintzin (maya)</p>
+</li>
+</ul>
+<img alt="_images/Abacus-ex20.png" src="_images/Abacus-ex20.png" />
+<p>De izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">Binario (base 2)</p>
+</li>
+<li><p class="first">Hexadecimal (base 16)</p>
+</li>
+<li><p class="first">Fracciones (1/2, 1/3, 1/4,. . . )</p>
+</li>
+</ul>
+<img alt="_images/Abacus-ex21.png" src="_images/Abacus-ex21.png" />
+<p>De izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">Caacupe (fracciones con +/-)</p>
+</li>
+<li><p class="first">Decimal (base 10)</p>
+</li>
+<li><p class="first">Varillas de estilo Cuisenaire (fracciones)</p>
+</li>
+<li><p class="first">Personalizado, como se muestra: octal (base 8)</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="learning-with-abacus">
+<h2>Aprender con Abacus<a class="headerlink" href="#learning-with-abacus" title="Enlazar permanentemente con este título">¶</a></h2>
+<ul class="simple">
+<li><p class="first"><a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet">Algunos planes de lecciones</a> para el uso del ábaco se encuentran aquí.</p>
+</li>
+<li><p class="first">Usando perlas o piedras, se puede hacer un ábaco. ¿Cuál es la diferencia entre el ábaco en el ordenador y un ábaco físico?</p>
+</li>
+<li><p class="first">Es posible crear un ábaco personalizado. A menudo utilizo el ejemplo de <a class="reference external" href="https://en.wikipedia.org/wiki/Babylonian_mathematics#Sumerian_mathematics_.283000_.E2.80.94_2300_BC.29">matemáticas sumerias</a>: los sumerios contaban con los huesos (falanges) de sus dedos, por lo que la base de su sistema de conteo fue 12. Todos los 12 (y 60) que tenemos en nuestras matematicas, ej. , 12 horas, 60 segundos, etc.. tienen sus raíces en las matemáticas sumerias. Pero los sumerios nunca inventaron el ábaco. ¿Cómo crees que sería un ábaco sumerio?</p>
+</li>
+</ul>
+</div>
+<div class="section" id="extending-abacus">
+<h2>Extendiendo Ábaco<a class="headerlink" href="#extending-abacus" title="Enlazar permanentemente con este título">¶</a></h2>
+<ul class="simple">
+<li><p class="first">Un proyecto divertido es comparar cálculos utilizando Abacus con la actividad Calcular. ¿Qué es más rápido? ¿Qué es más preciso? ¿Qué es mejor para la estimación? ¿Qué es mejor para comparar?</p>
+</li>
+<li><p class="first">Abaco soporta &#8216;pegar&#8217;, así que puedes tomar valores numéricos de otros programas y pegarlos en el ábaco para ver sus representaciones; por ejemplo, a menudo pego números en el ábaco hexadecimal como una forma rápida de convertir de decimal a hexadecimal.</p>
+</li>
+<li><p class="first">Abacus también soporta &#8216;copiar&#8217;, para que puedas tomar una suma calculada en un ábaco y exportarlo en SimpleGraph o algunas otra-actividad de visualización de datos.</p>
+</li>
+<li><p class="first">Un modo de colaboración divertido podría ser la de tener un número seleccionado al azar y que cada partícipe independiente deba ponerlo en el ábaco de su elección. Podría haber un recuento de los granos otorgados por cada respuesta correcta.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="reporting-problems">
+<h2>Informar fallos<a class="headerlink" href="#reporting-problems" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Si descubres un error en el programa o tienes una sugerencia para una mejora, por favor <a class="reference external" href="https://bugs.sugarlabs.org/newticket?component=Abacus">llena un ticket</a> en nuestro sistema de seguimiento de bugs.</p>
+<p>Puedes <a href="#id1"><span class="problematic" id="id2">`</span></a>ver los tickets abiertos aquí. &lt;<a class="reference external" href="https://bugs.sugarlabs.org/query?status=accepted&amp;status=assigned&amp;status=new&amp;status=reopened&amp;component=Abacus">https://bugs.sugarlabs.org/query?status=accepted&amp;status=assigned&amp;status=new&amp;status=reopened&amp;component=Abacus</a>&gt; <a href="#id3"><span class="problematic" id="id4">`</span></a>_</p>
+</div>
+<div class="section" id="references">
+<h2>Referencias<a class="headerlink" href="#references" title="Enlazar permanentemente con este título">¶</a></h2>
+<p><a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Abacus">Página Wiki</a></p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Ábaco</a><ul>
+<li><a class="reference internal" href="#about">Acerca de</a></li>
+<li><a class="reference internal" href="#using-abacus">El uso de Ábaco</a><ul>
+<li><a class="reference internal" href="#clearing-the-abacus">Borrado del ábaco</a></li>
+<li><a class="reference internal" href="#reading-the-abacus">Leyendo el ábaco</a></li>
+<li><a class="reference internal" href="#addition">Adición</a></li>
+<li><a class="reference internal" href="#subtraction">Sustracción</a></li>
+<li><a class="reference internal" href="#multiplication">Multiplicación</a></li>
+<li><a class="reference internal" href="#division">División</a></li>
+<li><a class="reference internal" href="#fractions">Fracciones</a></li>
+<li><a class="reference internal" href="#the-toolbars">Las barras de herramientas</a></li>
+<li><a class="reference internal" href="#gallery-of-abaci">Galería de ábacos</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#learning-with-abacus">Aprender con Abacus</a></li>
+<li><a class="reference internal" href="#extending-abacus">Extendiendo Ábaco</a></li>
+<li><a class="reference internal" href="#reporting-problems">Informar fallos</a></li>
+<li><a class="reference internal" href="#references">Referencias</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="browse.html" title="Navegar"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="exiting_activities.html" title="Saliendo de las Actividades"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

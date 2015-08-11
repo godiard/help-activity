@@ -1,0 +1,326 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Pintar &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Pippy" href="pippy.html" />
+    <link rel="prev" title="Teclado musical" href="musickeyboard.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="pippy.html" title="Pippy"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="musickeyboard.html" title="Teclado musical"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="paint">
+<h1>Pintar<a class="headerlink" href="#paint" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Esta actividad permite a los usuarios crear pinturas o dibujos. También se puede utilizar para editar imágenes creadas por otras actividades y las imágenes que crea pueden ser importadas en algunas actividades.</p>
+</div>
+<div class="section" id="using">
+<h2>Uso<a class="headerlink" href="#using" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Puedes iniciar un nuevo proyecto seleccionando <em>Empezar nuevo</em> desde el <a class="reference internal" href="home_view.html"><em>Vista Inicio</em></a> o abriendo un proyecto de Pintar existente en el <a class="reference internal" href="journal.html"><em>Diario</em></a>. Por defecto, cuando haces clic en Paint en la vista de Inicio, reanudarás tu último proyecto.</p>
+</div>
+<div class="section" id="paint-main-tool-bar">
+<h2>Barra de herramientas principal de Pintar<a class="headerlink" href="#paint-main-tool-bar" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Paint0main-tb.png" src="_images/Paint0main-tb.png" />
+<p>La fila superior de la barra de herramientas contiene botones para abrir cada una de las siguientes fichas.</p>
+<ol class="arabic simple">
+<li><p class="first">Ficha de Actividad. La pestaña Actividad está abierta, y se le ha dado un nombre al proyecto.</p>
+</li>
+<li><p class="first">Pestaña Editar.</p>
+</li>
+<li><p class="first">Propiedades de pincel.</p>
+</li>
+<li><p class="first">Pincel.</p>
+</li>
+<li><p class="first">Formas.</p>
+</li>
+<li><p class="first">Propiedades de Formas.</p>
+</li>
+<li><p class="first">Barra de Texto.</p>
+</li>
+<li><p class="first">Barra de Imágenes.</p>
+</li>
+<li><p class="first">Detener o cerrar la Actividad.</p>
+</li>
+</ol>
+<p>Explicación de las pestañas o barras de herramientas con más detalle.</p>
+</div>
+<div class="section" id="the-activity-tab">
+<h2>Barra de Actividad<a class="headerlink" href="#the-activity-tab" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Paint1ActTab.png" src="_images/Paint1ActTab.png" />
+<p>Ficha de Actividad. En el primer campo el nombre de la página o proyecto. El botón Descripción, el icono &#8220;lápiz y el libro&#8221;, te permite añadir una descripción a la entrada <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">journal</span></tt>. Trata de conseguir el hábito de volver a nombrar el proyecto antes de empezar a trabajar. Mueve el cursor sobre el título existente, haz clic en el botón izquierdo del ratón, y comienza a escribir un nombre para el proyecto. Tu nuevo nombre sobrescribirá el original.</p>
+<p>El botón de colaboración está en gris, ve <a class="reference internal" href="#share"><em>Compartir</em></a>.</p>
+</div>
+<div class="section" id="edit-tab">
+<h2>Editar barra<a class="headerlink" href="#edit-tab" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Paint2EdTab.png" src="_images/Paint2EdTab.png" />
+<ol class="arabic simple">
+<li><p class="first">Botón Deshacer.</p>
+</li>
+<li><p class="first">Botón Rehacer.</p>
+</li>
+<li><p class="first">Botón Copiar. Este copia el área seleccionada con la herramienta <em>Seleccionar Area</em>  en el portapapeles. La herramienta <em>Seleccionar Area</em> es el punto inferior de la barra de herramienta Pincel.</p>
+</li>
+</ol>
+<blockquote>
+<div><p>Utiliza la herramienta <em>Seleccione Area</em> para recortar imágenes, selecciona el área que quieres, y utiliza el botón <em>copiar</em> para copiar el recorte en el Portapapeles. La función del Portapapeles está dentro del cuadro en la esquina inferior izquierda de la pantalla.</p>
+<p>Para guardar desde el Portapapeles, haz clic en el icono del recorte en el Marco y, a continuación, selecciona &#8216;Guardar&#8217; en el menú que aparece. La imagen original permanece sin cambios y un nuevo elemento <em>recorte de imagen</em> se guarda en el Diario.</p>
+<p>Para obtener desde el Portapapeles, utiliza el botón Pegar:</p>
+</div></blockquote>
+<ol class="arabic simple" start="4">
+<li><p class="first">Botón Pegar. La imagen copiada, que recojas como un <em>Recorte de Imagen</em> del Marco, se pega en la parte superior izquierda de la zona de trabajo, y ya está seleccionada, bajo el control de la herramienta <em>Seleccione Area</em>,  con la que arrastras el recorte hasta el lugar deseado.</p>
+</li>
+<li><p class="first">Despeja el espacio de trabajo, o borra el área seleccionada si hay un área seleccionada.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="brush-properties">
+<h2>Propiedades de Pincel<a class="headerlink" href="#brush-properties" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Paint3BrushProps.png" src="_images/Paint3BrushProps.png" />
+<p>Cambia el color y otras propiedades de las herramientas de dibujo, pincel, balde, y sello.</p>
+<p>Cuando se selecciona la herramienta Sello, las propiedades de dibujo cambian a propiedades de sello y se controla el tamaño de la estampa.</p>
+</div>
+<div class="section" id="brush">
+<h2>Cepillo<a class="headerlink" href="#brush" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Paint4Brush.png" src="_images/Paint4Brush.png" />
+<ol class="arabic simple">
+<li><p class="first">Cepillo. Esparce color al mover el cursor sobre el espacio de trabajo.</p>
+</li>
+<li><p class="first">Goma de borrar. Elimina el color.</p>
+</li>
+<li><p class="first">Balde. Este inundará, o rellenará, un área cerrada con el color.</p>
+</li>
+<li><p class="first">Seleccionar color. Utiliza esta herramienta para recoger un determinado color de la imagen en el espacio de trabajo. Este color se utiliza luego para el cepillo, balde, o sello.</p>
+</li>
+<li><p class="first">Sello. El Sello repetirá una parte de la imagen seleccionada en Seleccionar área.</p>
+</li>
+<li><p class="first">Seleccionar Area. Un área rectangular se selecciona colocando el curson en la parte superior izquierda del área deseada, haz clic en el botón izquierdo del ratón, arrastra el cursor hacia abajo a la derecha, y suelta el botón del ratón.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="shapes">
+<h2>Formas<a class="headerlink" href="#shapes" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Paint5Shapes.png" src="_images/Paint5Shapes.png" />
+<ol class="arabic simple">
+<li><p class="first">Elipse (mantén presionada la tecla shift para hacer un círculo).</p>
+</li>
+<li><p class="first">Rectángulo (mantén presionada la tecla shift para hacer un cuadrado).</p>
+</li>
+<li><p class="first">Línea.</p>
+</li>
+<li><p class="first">Forma libre.</p>
+</li>
+<li><p class="first">Polígono (número de lados establecidos en propiedades de formas).</p>
+</li>
+<li><p class="first">Corazón.</p>
+</li>
+<li><p class="first">Paralelogramo.</p>
+</li>
+<li><p class="first">Flecha.</p>
+</li>
+<li><p class="first">Estrella (número de puntos que se encuentran en propiedades de formas).</p>
+</li>
+<li><p class="first">Trapecio.</p>
+</li>
+<li><p class="first">Triángulo.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="shapes-properties">
+<h2>Propiedades de Formas<a class="headerlink" href="#shapes-properties" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Paint6ShapesProps.png" src="_images/Paint6ShapesProps.png" />
+<p>El color de las formas <em>de relleno</em> se establece aquí, mientras que el color del <em>borde</em> se encuentra en las propiedades de pincel. Si el cuadro  <em>de relleno</em> no está marcado, sólo se muestra el borde.</p>
+<p>Bajo el cuadro <em>de relleno</em>, mantener relación de aspecto, y el número de lados de estrellas y polígonos.</p>
+</div>
+<div class="section" id="texttab">
+<h2>Barra de texto<a class="headerlink" href="#texttab" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Paint7TextTab.png" src="_images/Paint7TextTab.png" />
+<ol class="arabic simple">
+<li><p class="first">Texto. Para insertar texto, pulsa el botón <em>Teclear</em>, mueve el cursor hasta el punto que desees empezar a escribir, haz clic, e inserta texto con el teclado. El color utilizado se encuentra en las propiedades de pincel.</p>
+</li>
+<li><p class="first">Botón de cambio a Negrita.</p>
+</li>
+<li><p class="first">Botón de cambio a Itálica.</p>
+</li>
+<li><p class="first">Aumentar o disminuir el tamaño de la fuente.</p>
+</li>
+<li><p class="first">Selección de fuente.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="images-tab">
+<h2>Barra de Imágenes<a class="headerlink" href="#images-tab" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Paint8ImageTab.png" src="_images/Paint8ImageTab.png" />
+<ol class="arabic simple">
+<li><p class="first">Insertar imagen, abre el Diario o medios de comunicación unidos en busca de imagen.</p>
+</li>
+<li><p class="first">Girar el área seleccionada a la izquierda.</p>
+</li>
+<li><p class="first">Girar a la derecha el área seleccionada.</p>
+</li>
+<li><p class="first">Espejo horizontal, o girar, el área seleccionada.</p>
+</li>
+<li><p class="first">Espejo vertical, o girar, el área seleccionada.</p>
+</li>
+<li><p class="first">Convertir el área seleccionada de color a gris.</p>
+</li>
+<li><p class="first">Arco iris.</p>
+</li>
+<li><p class="first">Invertir colores en el área seleccionada. Por ejemplo negro se invierte a blanco, y del mismo modo, todos los colores están invertidos.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="applying">
+<h2>Aplique<a class="headerlink" href="#applying" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>El Pintar es una actividad versátil con muchas aplicaciones, tales como:</p>
+<ul class="simple">
+<li><p class="first">la creación de dibujos o pinturas.</p>
+</li>
+<li><p class="first">la creación de imágenes para insertar en documentos de escritura.</p>
+</li>
+<li><p class="first">la creación de diapositivas de una presentación de diapositivas para la Actividad de Portapapeles.</p>
+</li>
+<li><p class="first">crear imágenes para usar en otras actividades como Turtle Blocks y muchas más.</p>
+</li>
+<li><p class="first">Editar y cortar imágenes realizadas por otras actividades como Turtle Blocks y muchas más. .</p>
+</li>
+<li><p class="first">Editar y recortar capturas de pantalla (toma capturas de pantalla desde el teclado pulsando la tecla <em>Alt</em> con <em>1</em>).</p>
+</li>
+<li><p class="first">Editar y cortar fotos tomadas con la Actividad Grabar.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="sharing">
+<span id="share"></span><h2>Compartir<a class="headerlink" href="#sharing" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Pintar no es compatible para compartir. Puedes utilizar Turtle Blocks para el dibujo en colaboración.</p>
+<p>Tú puedes compartir el trabajo que haz hecho en el Visor de imágenes.</p>
+<p><img alt="more" src="_images/more.png" /> Para más información, consulta la página <a class="reference internal" href="collaborating.html"><em>Colaborando</em></a></p>
+</div>
+<div class="section" id="extending">
+<h2>Extensión<a class="headerlink" href="#extending" title="Enlazar permanentemente con este título">¶</a></h2>
+<ul class="simple">
+<li><p class="first">Toma una foto de un animal con Grabar, recorta la imagen con Pintar, úsala como una tortuga personalizada en Turtle Blocks.</p>
+</li>
+<li><p class="first">Iniciar un periódico de la escuela, toma fotos con Grabar, recorta con Paint, impórtalas a Escribir.</p>
+</li>
+<li><p class="first">Haz un portapapeles de tu tarea, obtiene capturas de pantalla (Alt-1) de los recortes con Pintar y añade etiquetas explicativas a continuación, haz una presentación de diapositivas en la Actividad Portapapeles.</p>
+</li>
+<li><p class="first">Crea un juego personalizado en la actividad Memorizar, crea las imágenes en Pintar.</p>
+</li>
+<li><p class="first">Crea tarjetas personalizadas para la actividad Dimensiones (Partido Visual).</p>
+</li>
+<li><p class="first">Crea alimentos personalizados para la Actividad Nutrición.</p>
+</li>
+<li><p class="first">Crea imágenes personalizadas para la Actividad Mapas Mentales. Mapas mentales es una herramienta de mapas mentales.</p>
+</li>
+<li><p class="first">Crea una página web con imágenes de Pintar.</p>
+</li>
+<li><p class="first">Toma fotos de plantas o animales, recorta las fotos, y etiquétalas.</p>
+</li>
+<li><p class="first">Toma la salida de SimpleGraph y utiliza el <em>Balde</em> (herramienta de inundaciones de relleno) para hacer un gráfico multicolor.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="developers-information">
+<h2>Información para desarrolladores<a class="headerlink" href="#developers-information" title="Enlazar permanentemente con este título">¶</a></h2>
+<p><strong>Historia</strong></p>
+<p>Oficina (el nombre original de la actividad Pintar) fue desarrollada y adaptada para XO usando Python por el equipo NATE-LSI (Laboratorio de Integración de Sistemas), en la Escuela Politécnica de la Universidad de San Pablo, Brasil.</p>
+<p><strong>Recursos</strong></p>
+<p><a href="#id1"><span class="problematic" id="id2">`</span></a>Fuentes &lt;<a class="reference external" href="https://git.sugarlabs.org/projects/paint">https://git.sugarlabs.org/projects/paint</a>&gt; <a href="#id3"><span class="problematic" id="id4">`</span></a>_</p>
+</div>
+<div class="section" id="where-to-report-problems">
+<h2>Dónde reportar problemas<a class="headerlink" href="#where-to-report-problems" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>En <a class="reference external" href="http://bugs.sugarlabs.org">http://bugs.sugarlabs.org</a>, componente de Pintar.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Pintar</a><ul>
+<li><a class="reference internal" href="#about">Acerca de</a></li>
+<li><a class="reference internal" href="#using">Uso</a></li>
+<li><a class="reference internal" href="#paint-main-tool-bar">Barra de herramientas principal de Pintar</a></li>
+<li><a class="reference internal" href="#the-activity-tab">Barra de Actividad</a></li>
+<li><a class="reference internal" href="#edit-tab">Editar barra</a></li>
+<li><a class="reference internal" href="#brush-properties">Propiedades de Pincel</a></li>
+<li><a class="reference internal" href="#brush">Cepillo</a></li>
+<li><a class="reference internal" href="#shapes">Formas</a></li>
+<li><a class="reference internal" href="#shapes-properties">Propiedades de Formas</a></li>
+<li><a class="reference internal" href="#texttab">Barra de texto</a></li>
+<li><a class="reference internal" href="#images-tab">Barra de Imágenes</a></li>
+<li><a class="reference internal" href="#applying">Aplique</a></li>
+<li><a class="reference internal" href="#sharing">Compartir</a></li>
+<li><a class="reference internal" href="#extending">Extensión</a></li>
+<li><a class="reference internal" href="#developers-information">Información para desarrolladores</a></li>
+<li><a class="reference internal" href="#where-to-report-problems">Dónde reportar problemas</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="pippy.html" title="Pippy"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="musickeyboard.html" title="Teclado musical"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

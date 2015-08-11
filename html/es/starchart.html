@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>StarChart &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Cronómetro" href="stopwatch.html" />
+    <link rel="prev" title="Hablar" href="speak.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="stopwatch.html" title="Cronómetro"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="speak.html" title="Hablar"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="starchart">
+<h1>StarChart<a class="headerlink" href="#starchart" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de StarChart<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<p><img alt="Star_ico" src="_images/starchart-ico1.png" /> Esta actividad mostrará un mapa del cielo con la posición de las estrellas visibles, algunos de los objetos más grandes y más brillantes del cielo profundo (DSO), los &#8220;clásicos&#8221; planetas , el sol y la luna.</p>
+<p>Puedes especificar una ubicación (longitud y latitud) y la hora (incluyendo desplazamiento desde la zona horaria GMT) en que deseas tener el dibujo. Alternativamente, puedes conseguir una imagen que se actualiza una vez por minuto que muestra el cielo actual.</p>
+<p>También puedes aprender por tu cuenta en el cielo utilizando la función &#8220;Buscar&#8221; para encontrar un objeto cuyo nombre tu sabes o utilizando la función &#8220;Identificar&#8221; para obtener el nombre de algo que se ve en la pantalla.</p>
+<p>Si tienes acceso a un pequeño telescopio o unos prismáticos, StarChart puede proporcionar una vista ampliada que abarca 7 grados del cielo centrado en un punto que se especifique.</p>
+<p>La última versión (StarChart 16) se puede descargar desde aquí <a class="reference external" href="http://activities.sugarlabs.org/en-US/sugar/addon/4300">http://activities.sugarlabs.org/en-US/sugar/addon/4300</a>.</p>
+</div>
+<div class="section" id="introduction">
+<h2>Introducción<a class="headerlink" href="#introduction" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>StarChart fue creado por un programador y astrónomo aficionado profesional al que le gusta ir de vacaciones a lugares muy alejados de su ciudad natal y agradece la oportunidad de ver el cielo desde estos lugares. La XO es un accesorio de viaje maravilloso por apoyar este tipo de planes ya que es ligero, compacto y frugal con la energía de la batería al tiempo que proporciona una pantalla a color razonablemente grande, y con razonablemente alta resolución.</p>
+<p>Esta actividad tiene como objetivo apoyar al observador del cielo que no tiene ningún instrumento mejor que sus propios ojos. Se puede utilizar como una guía para el cielo actual, como una herramienta para la planificación de las observaciones futuras (incluyendo observaciones desde una ubicación diferente) o como una forma para repetir el aspecto del cielo como lo fue en algún momento en el pasado.</p>
+</div>
+<div class="section" id="using-star-chart">
+<h2>El uso de StarChart<a class="headerlink" href="#using-star-chart" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="section" id="before-you-begin">
+<h3>Antes de comenzar<a class="headerlink" href="#before-you-begin" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Asegúrate de que tu XO tiene establecido el desplazamiento de zona horaria correcta y la hora local correcta! Los algoritmos astronómicos necesitan para calcular GMT (UT) y no pueden hacer eso si &#8220;ahora&#8221; no es el momento adecuado. (Esto sólo es un problema si tu no planeas usar siempre &#8220;especificar el tiempo&#8221;. Pero sigue siendo una forma desordenada para operar el equipo. )</p>
+</div>
+<div class="section" id="installation-and-set-up">
+<h3>Instalación y puesta en marcha<a class="headerlink" href="#installation-and-set-up" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Para obtener los mejores resultados, quite cualquier versión anterior de StarChart puede que tengas instalado. Reinicia X (pulsa Ctrl-Alt-Retroceso). Luego, basta con seguir el procedimiento habitual para la descarga e instalación de una actividad extra.</p>
+<p>Una vez que hayas instalado StarChart, inicialo y seleccione el botón del reloj.</p>
+<img alt="_images/starchart-img10.png" src="_images/starchart-img10.png" />
+<p>¿Es correcto el tiempo (AAAA/MM/DD HH:MM) y el año, mes, día, hora y minuto de tu ubicación (se usa tiempo de 24 horas - 1:00 PM es 13:00)? ¿Está compensada la zona que muestra las horas correctas y minutos con el entorno local está desplazado del GMT? (Sugerencia: Hora estándar en los EE.UU. es &#8220;-5: 00&#8221; con respecto a GMT. ) Si no es así, detener la actividad y corregir su tiempo y la zona horaria utilizando el panel de control de Sugar antes de continuar.</p>
+<p>Si la hora y la fecha son correctas, el gráfico mostrará el cielo en un lugar en Massachusetts, EE.UU. a partir de ahora. Si tu no estas en ese lugar, tendrás que entrar la longitud y latitud. Haz clic en &#8220;dónde&#8221; para ver los controles para hacer esto. Debes ser capaz de obtener tus coordenadas de cualquier buen mapa, Google Earth o simplemente utilizar las coordenadas publicadas por cualquier ciudad relativamente cercana a tu ciudad. Otra posibilidad es la de un sitio en Internet como <a class="reference external" href="http://www.mapquest.com/atlas">http://www.mapquest.com/atlas</a> que ofrece un mapa con información de latitud y longitud desde donde se puedes interpolar tus coordenadas específicas.</p>
+<p>No seas obsesivo acerca de la precisión para esto: la carta de la estrella no se verá noticibly diferente si te equivocas en uno o dos grados en cualquier dirección en latitud o longitud. Estar fuera de 100 kilometros no hará una diferencia suficientemente visible. Pero asegúrate de seleccionar la longitud este u oeste y la latitud norte o sur l! Luego haz clic en &#8220;Ok&#8221; para que el programa sepa que realmente quieres cambiar esta configuración.</p>
+<p>Ahora me gustaría recomendar hacer clic en el botón &#8220;Definir Casa&#8221;. StarChart salvará esta ubicación como tu posición &#8220;inicial&#8221;. A partir de ahora, cada vez que inicie la actividad usará la ubicación por defecto para estas coordenadas.</p>
+</div>
+<div class="section" id="how-to-read-the-plot">
+<h3>Cómo leer la pantalla<a class="headerlink" href="#how-to-read-the-plot" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Las estrellas se dibujan (según la configuración predeterminada en e menú &#8220;Qué&#8221; ) como puntos blancos de diferentes tamaños. Las estrellas más brillantes se dibujan como los mayores puntos; las estrellas más débiles se dibujan como los puntos más pequeños.</p>
+<p>Las constelaciones se dibujan como líneas blancas que forman los palo cifras definidas por la Unión Astronómica Internacional.</p>
+<p>El sol, la luna y los planetas &#8220;clásicos&#8221; se dibuja como sus símbolos astrológicos y se representa mucho más grande de lo que realmente parecen.</p>
+<p>Los objetos del cielo profundo se representan como áreas de color gris, con diferentes &#8220;decoraciones&#8221;, dependiendo del tipo de objeto.</p>
+<ol class="arabic simple">
+<li><p class="first">Una nebulosa difusa (tal como el de Orion) se representa como un rectángulo gris.</p>
+</li>
+<li><p class="first">Una galaxia se representa como una elipse o un círculo de color gris con un borde blanco.</p>
+</li>
+<li><p class="first">Una nebulosa planetaria se representa como un círculo gris con un punto central blanco.</p>
+</li>
+<li><p class="first">Un cúmulo abierto se representa como un círculo gris sin frontera.</p>
+</li>
+<li><p class="first">Un cúmulo globular se representa como un círculo gris con un borde blanco y un punto central.</p>
+</li>
+</ol>
+<p>Aunque la elipse que representa una galaxia es más o menos la excentricidad correcta, la orientación de la elipse en la tabla es arbitraria y no refleja el ángulo de la posición real de la galaxia.</p>
+<p>Para identificar los símbolos, se puede leer acerca a los <a class="reference external" href="https://es.wikipedia.org/wiki/S%C3%ADmbolos_astron%C3%B3micos">símbolos astronómicos en Wikipedia</a></p>
+</div>
+</div>
+<div class="section" id="operating-instructions">
+<h2>Instrucciones de uso<a class="headerlink" href="#operating-instructions" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>La pantalla inicial para StarChart mostrará el cielo para tu ubicación y la hora actual. (Esto supone que tu haz hecho los pasos descritos anteriormente en &#8220;Instalación y configuración&#8221;. )</p>
+<img alt="_images/starchart-img1.png" src="_images/starchart-img1.png" />
+<div class="section" id="menu">
+<h3>Menú<a class="headerlink" href="#menu" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/starchart-img15.png" src="_images/starchart-img15.png" />
+<p>(Vamos a ir de izquierda a derecha)</p>
+<p><img alt="eye_ico" src="_images/starchart-ico2.png" /> es para cambiar la apariencia. Por ejemplo, te permite cambiar la combinación de colores del mapa y decidir cuántas estrellas quieres ver y si quieres las figuras de las constelaciones. Estos ajustes se guardan también. Así que si prefieres estrellas negras en el cielo blanco puedes conseguir esa combinación. Vamos a caminar a través de cada opción y ver lo que hace con la apariencia del mapa.</p>
+<p>Cosas que puedes hacer</p>
+<ul class="simple">
+<li><p class="first">Alternar pantalla completa</p>
+</li>
+</ul>
+<img alt="_images/starchart-img2.png" src="_images/starchart-img2.png" />
+<ul class="simple">
+<li><p class="first">Alternar visión nocturna</p>
+</li>
+</ul>
+<p>La opción de &#8220;visión nocturna&#8221; muestra la pantalla de la actividad en su mayoría en color rojo sobre negro. La luz roja no afecta tu visión nocturna por lo que el uso de este modo permite que tus ojos leen el mapa y siguen siendo lo suficientemente sensibles como para ver las estrellas débiles. Sugerencia: también ayuda ajustar el brillo de la luz de fondo a un valor tan bajo como sea posible leer el gráfico, para minimizar el efecto en tu visión nocturna.</p>
+<img alt="_images/starchart-img3.png" src="_images/starchart-img3.png" />
+<ul class="simple">
+<li><p class="first">Invertir pantalla</p>
+</li>
+</ul>
+<p>Pero a veces te resultará más fácil trabajar con un gráfico que es negro sobre blanco, como una página de un libro. Este modo no es bueno para su uso por la noche pero está bien en un aula o en la luz del día. Para obtener un gráfico negro sobre un fondo blanco, ajuste &#8220;Invertir Pantalla&#8221;.</p>
+<img alt="_images/starchart-img4.png" src="_images/starchart-img4.png" />
+<ul class="simple">
+<li><p class="first">Voltear L / R</p>
+</li>
+</ul>
+<p>Normalmente, StarChart muestra su mapa con el Este a la izquierda. Esto te puede parecer extraño porque un mapa terrestre mostraría al Este a la derecha. Pero si miras al Este y mantienes el mapa de modo que el Este se encuentre cerca de la tierra, descubrirás que con un mapa terrestre, el Norte en el mapa está ahora en al Sur! Con el mapa espejado de StarChart, el Norte está hacia el Norte y hacia el Sur se encuentra el Sur cuando el Este está hacia abajo. Eso significa que lo que se ve en la pantalla de tu XO coincidirá con lo que se ve en el cielo.</p>
+<p>Pero si te resulta confuso tener al Este a la izquierda y el Oeste a la derecha, se puede establecer &#8220;Cambiar D / I&#8221; y obtener el mapa como en un mapa terrestre.</p>
+<img alt="_images/starchart-img5.png" src="_images/starchart-img5.png" />
+<ul class="simple">
+<li><p class="first">Dibujar Constelaciones</p>
+</li>
+</ul>
+<p>Las estrellas se agrupan en figuras imaginarias llamadas constelaciones. Estas representan instrumentos científicos y de navegación, dioses y diosas, animales míticos y reales y otros patrones que las personas vieron en el cielo. Ya que dibujos detallados haría la imagen demasiado confusa, los astrónomos suelen dibujar simples lineas. StarChart normalmente traza estas lineas estándar. Pero tu puedes apagar eso y sólo ver las estrellas mismas si quieres - después de todo, no hay líneas dibujadas en el cielo!</p>
+<img alt="_images/starchart-img6.png" src="_images/starchart-img6.png" />
+<ul class="simple">
+<li><p class="first">Cambiar el nivel de magnitud (Elige entre 1 a 6)</p>
+</li>
+</ul>
+<p>Estrellas vienen en diferentes brillos. Los astrónomos llaman a estos niveles de brillo &#8220;magnitudes&#8221;. Las estrellas más brillantes son de magnitud cero (bueno, en un par de casos, más brillante que eso); las estrellas más débiles que se pueden ver sin telescopio o binoculares en una noche muy oscura serán de unos 6 grados.</p>
+<p>Hay mucho más estrellas tenues que brillantes. Así que si StarChart siempre trazara todas las estrellas que se pueden ver, habría demasiadas (más de 1000!) y sería difícil para ti leer el mapa. Así que hay un control (de hecho seis de ellos) que te permiten seleccionar como mostrar las estrellas menos brillantes. Por defecto StarChart mostrará las estrellas de magnitud 4 o más brillantes. Este es un buen compromiso entre tener suficientes estrellas para apreciar lo que se ve el cielo como y tener tantas que sea confuso. Este brillo es lo que se vería en una noche normal en zonas suburbanas.</p>
+<p>Aquí es lo que parece la trama como cuando usted ha pedido sólo la más brillante de las estrellas. Esto es lo que el cielo podría ser similar desde el centro de una gran ciudad. (Nivel de magnitud 1)</p>
+<img alt="_images/starchart-img16.png" src="_images/starchart-img16.png" />
+<p>Y esto es lo que el cielo puede parecer desde una montaña muy lejos de las ciudades o pueblos en una noche sin luna. (Nivel de magnitud 6)</p>
+<img alt="_images/starchart-img8.png" src="_images/starchart-img8.png" />
+<p>(Nivel de magnitud 4)</p>
+<img alt="_images/starchart-img7.png" src="_images/starchart-img7.png" />
+<p>Dónde <img alt="pos_ico" src="_images/starchart-ico3.png" /> (Especificar ubicación)</p>
+<p>Esta es el menú que te permite decirle a StarChart desde qué lugar en la tierra quieres ver el cielo traza. Por lo general, esto sería donde está, pero a veces es posible que desee ver lo que el cielo se parece a alguien que vive en otro lugar.</p>
+<p>Una ubicación en la tierra es especificado por la longitud y latitud. Longitudes van de cero a 180 grados al Este o de cero a 180 grados Oeste. Latitudes van de cero a 90 grados al Norte o cero a 90 grados al Sur.</p>
+<p>La actividad StarChart aceptará un ángulo como un número de grados, incluyendo fracciones de grados (como &#8220;123.45 &#8221;) o un ángulo como grados, minutos y segundos. En este segundo tipo de ángulo, debes utilizar un formato como &#8220;123d27m33s&#8221;. Introduce la longitud (asegúrate de seleccionar Este u Oeste) y la latitud (asegúrate de seleccionar Norte o Sur) y haz clic en el botón &#8220;Ok&#8221;. Si la nueva ubicación es sustancialmente distante de la anterior, el mapa de las estrellas será muy diferente.</p>
+<p>El botón &#8220;Seleccionar hogar&#8221; fijará la ubicación seleccionada como tus coordenadas de observación predeterminadas. Este ajuste se recuerda entonces para todas las futuras sesiones de StarChart.</p>
+<img alt="_images/starchart-img9.png" src="_images/starchart-img9.png" />
+<p>Cuando <img alt="time_ico" src="_images/starchart-ico4.png" /> (Especificar hora)</p>
+<p>Estos controles permiten especificar el tiempo para el cual deseas que el gráfico sea trazado.</p>
+<p>Normalmente, &#8220;ahora&#8221; se selecciona y el año, mes, día, hora y minuto  actual y el número de horas y minutos que tu zona horaria se diferencia de GMT se muestran en los campos hora y diferencia. Además, el campo de hora se actualizará automáticamente al realizar un seguimiento de la hora local actual y el gráfico será automáticamente recalculado una vez por minuto. En este modo, el gráfico coincidirá con el cielo actual y se desplazará a través del tiempo en la forma en que el cielo lo hace. Pero también se pueden utilizar estos controles para especificar que deseas un gráfico para un momento determinado en el futuro o en el pasado.</p>
+<p>Haz clic en el botón &#8220;Especificar el tiempo&#8221;, ya que &#8220;ahora&#8221; no es lo que tu quieres ahora. Ahora especifica el nuevo tiempo, a partir del año. El tiempo se introduce como un año de cuatro dígitos, un mes de dos dígitos y un día de dos dígitos, separados por una barra (/), una coma (,) y luego la hora y los minutos en el tiempo de 24 horas separados por dos puntos (:). Ejemplo: 2008/02/20,22: 00 sería 22:00 en el 20 de febrero del 2008. A continuación, si en tu lugar se observa el horario de verano, puede ser que tengas que añadir o restar una hora del valor de desplazamiento de zona horaria si el tiempo que has escrito esta al &#8220;otro lado del límite de la luz del día&#8221;. Por último, haz clic en &#8220;Aceptar&#8221; para obtener la nueva imagen.</p>
+<p>Al hacer clic en el botón de opción &#8220;Especificar el tiempo&#8221;, StarChart detiene la actalizacion de pantalla automática. Al hacer clic en el botón &#8220;Ahora&#8221; fijará el tiempo a la fecha y hora actual y reanudará automáticamente la actualización de los campos de hora y el gráfico.</p>
+<img alt="_images/starchart-img10.png" src="_images/starchart-img10.png" />
+<p>Localiza <img alt="type_ico" src="_images/starchart-ico5.png" /></p>
+<p>Estos controles permiten seleccionar un objeto y lo resalta en el gráfico de modo que se puede decir donde está el objeto en el cielo. Tu puedes &#8220;localizar&#8221; los planetas, las estrellas (ya sea por la constelación que contiene la estrella o de una lista de las estrellas más brillantes) u objetos del &#8220;cielo profundo&#8221;.</p>
+<ol class="arabic simple">
+<li><p class="first">Planetas</p>
+</li>
+<li><p class="first">Estrellas por constelación</p>
+</li>
+<li><p class="first">Estrellas Brillantes</p>
+</li>
+<li><p class="first">Objetos del Cielo Profundo</p>
+</li>
+</ol>
+<p>Se empieza por la selección del tipo de objeto. Luego tienes que elegir el objeto en sí mismo. . .</p>
+<p>Selecciona de la lista y sublistas para localizar cualquier objeto que desees.</p>
+<p>Ejemplos:</p>
+<img alt="_images/starchart-img11.png" src="_images/starchart-img11.png" />
+<img alt="_images/starchart-img12.png" src="_images/starchart-img12.png" />
+<img alt="_images/starchart-img13.png" src="_images/starchart-img13.png" />
+<img alt="_images/starchart-img14.png" src="_images/starchart-img14.png" />
+</div>
+</div>
+<div class="section" id="reporting-bugs">
+<h2>Informar de errores<a class="headerlink" href="#reporting-bugs" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Para informar de un fallo, o para ver qué errores han sido reportados y / o solucionados, por favor ve a la página <a class="reference external" href="http://wiki.laptop.org/go/StarChart/Bug_tracking">bug tracking</a>.</p>
+</div>
+<div class="section" id="references">
+<h2>Referencias<a class="headerlink" href="#references" title="Enlazar permanentemente con este título">¶</a></h2>
+<p><a class="reference external" href="http://wiki.laptop.org/go/StarChart">Página Wiki</a></p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">StarChart</a><ul>
+<li><a class="reference internal" href="#about">Acerca de StarChart</a></li>
+<li><a class="reference internal" href="#introduction">Introducción</a></li>
+<li><a class="reference internal" href="#using-star-chart">El uso de StarChart</a><ul>
+<li><a class="reference internal" href="#before-you-begin">Antes de comenzar</a></li>
+<li><a class="reference internal" href="#installation-and-set-up">Instalación y puesta en marcha</a></li>
+<li><a class="reference internal" href="#how-to-read-the-plot">Cómo leer la pantalla</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#operating-instructions">Instrucciones de uso</a><ul>
+<li><a class="reference internal" href="#menu">Menú</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#reporting-bugs">Informar de errores</a></li>
+<li><a class="reference internal" href="#references">Referencias</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="stopwatch.html" title="Cronómetro"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="speak.html" title="Hablar"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

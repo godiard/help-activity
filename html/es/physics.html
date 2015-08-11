@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Física &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Encuesta" href="poll.html" />
+    <link rel="prev" title="Pippy" href="pippy.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="poll.html" title="Encuesta"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="pippy.html" title="Pippy"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="physics">
+<h1>Física<a class="headerlink" href="#physics" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Physics-activity.png" src="_images/Physics-activity.png" />
+<p>Física es un simulador de mundo físico y lugar de juego. Puedes agregar cuadrados, círculos, triángulos, o dibujar tus propias formas, y verlas tomar vida con las fuerzas (piensa en la gravedad, Newton!), fricción (rrrrrraspar), e inercia (ahh, disminuya la velocidad!).</p>
+</div>
+<div class="section" id="getting-to-know-the-tools">
+<h2>Conoce las herramientas<a class="headerlink" href="#getting-to-know-the-tools" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Physics-tools-annotated.png" src="_images/Physics-tools-annotated.png" />
+<p>Esta imagen muestra todas las herramientas utilizadas para crear objetos. Fíjate al número que aparece debajo de la herramienta para aprender lo que hace.</p>
+<ol class="arabic">
+<li><dl class="first docutils">
+<dt>Herramienta Lapiz Mágico:</dt>
+<dd><p class="first last">Dibuja cualquier cosa y aparecerá en el lienzo. Se puede utilizar para crear formas personalizadas, o una superficie. Como una pendiente.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Círculo:</dt>
+<dd><p class="first last">Puedes hacer círculos con ella, sólo tienes que arrastrar. Prueba rodar un círculo por una pendiente.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Triángulo:</dt>
+<dd><p class="first last">Puede hacer triángulos equiláteros (todos los lados iguales) con esta herramienta. pRUEAB hacer un balancín mediante la combinación de un triángulo y un rectángulo (descripto a continuación).</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Rectángulo:</dt>
+<dd><p class="first last">Para hacer rectángulos.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Polígono:</dt>
+<dd><p class="first last">Puedes hacer formas con múltiples caras con esta herramienta. Arrastra el ratón, a continuación, haz clic en el lugar donde los vértices del polígono deben estar. Después que hayas terminado, haz clic en el círculo que rodea el primer punto que dibujaste y la forma se dibujará.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Arrastrar:</dt>
+<dd><p class="first">Puedes mover objetos con esta herramienta. Se puede utilizar incluso cuando el juego está en marcha: Trata de agarrar un objeto y cambiarlo de sitio. Puede ser muy divertido.</p>
+<p>Cuando se detuvo el juego, puedes utilizar arrastrar para mover objetos con más precisión. También puedes arrastrar alfileres y motores. Al seleccionar la herramienta de agarre, los pasadores y los motores serán más grandes para que los puedas sostener y arrastrar fácilmente.</p>
+<blockquote class="last">
+<div><p><strong>Truco</strong>: Puedes mover los motores y los pasadores de un objeto a otro. También, moverlos fuera del cuerpo y soltándolos en el espacio vacío para eliminarlos.</p>
+</div></blockquote>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Motor:</dt>
+<dd><p class="first last">Con esta herramienta, se puede colocar un motor en un objeto. El objeto entonces comenzará a girar alrededor de ese punto. También puede cambiar la velocidad con la que gira, como se explicará en la sección Paleta.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Alfiler:</dt>
+<dd><p class="first last">Esta herramienta te permite hacer que los objetos se adhieren al fondo y no se muevan, muy parecido a fijar un papel a un portapapeles. Simplemente haz clic donde deseas colocar un alfiler.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Unión:</dt>
+<dd><p class="first last">Con esta herramienta se puede unir objetos a otros objetos. Haz clic en el punto en el que deseas fijar la articulación en el primer objeto y arrastra el ratón sobre el punto en el que desea que la articulación termine en el segundo objeto. Hecho!</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Cuerda:</dt>
+<dd><p class="first last">Las articulaciones son como barras de hierro, que no pueden doblar. Si necesita una cuerda, esta herramienta es para ti. Basta con hacer clic y arrastrar para crear la cuerda. Ten cuidado sin embargo, la eliminación de cuerdas, una vez que se han creado puede ser difícil.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Trazar:</dt>
+<dd><p class="first last">¿Quieres ver cómo y dónde se mueve un objeto? Pon un trazador en él! Seleccione esta herramienta y haz clic en el punto del objeto que deseas rastrear. Puedes eliminar un marcador haciendo clic izquierdo con la herramienta Destruir (abajo)</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Herramienta Destruir:</dt>
+<dd><p class="first last">Selecciona esta herramienta y arrastra para dejar un rastro de destrucción detrás! Utiliza esta herramienta para destruir no solo objetos, sino también alfileres, motores y trazadores. Un solo clic izquierdo borra un alfiler / motor / trazador en el objeto. Como las cuerdas son sólo pequeñas bolas unidas con articulaciones pequeñas, puede intentar borrarlas también, pero toma tiempo y es algo molesto. Por lo tanto, tratar de usar las cuerdas solo cuando esté seguro de que es lo que deseas.</p>
+</dd>
+</dl>
+</li>
+</ol>
+<p><strong>Truco</strong>: Si has dibujado con una herramienta antes y deseas hacer varias copias de la misma forma, haz un clic izquierdo y el mismo objeto se creará de nuevo. Prueba con la herramienta Rectángulo! Dibuja un cuadrado y luego haga clic en la izquierda otra vez, obtendrá otra copia del cuadrado.</p>
+</div>
+<div class="section" id="other-cool-features">
+<h2>Otras características interesantes<a class="headerlink" href="#other-cool-features" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Physics-erase-all.png" src="_images/Physics-erase-all.png" />
+<p>Con este botón, puedes borrar todo. Cuidado, no se puede deshacer esto!</p>
+<img alt="_images/Physics-erase-trace.png" src="_images/Physics-erase-trace.png" />
+<p>Este botón te permite borrar todas las marcas de traza en el fondo.</p>
+<img alt="_images/Physics-start-button.png" src="_images/Physics-start-button.png" />
+<img alt="_images/Physics-stop-button.png" src="_images/Physics-stop-button.png" />
+<p>Estos dos botones te permiten pausar o iniciar el juego. El primer botón hace que el juego comience de nuevo después de una pausa, y el segundo lo detiene. Estos son ultra útil mientras construyes máquinas complicadas, que no se pueden construir mientras la máquina está en funcionamiento.</p>
+<p>Todos los objetos tienen menús de paleta para ajustar las propiedades del objeto:</p>
+<img alt="_images/Physics-object-properties.png" src="_images/Physics-object-properties.png" />
+<dl class="docutils">
+<dt>Masa</dt>
+<dd><p class="first last">pluma, madera y yunque representan liviano a denso</p>
+</dd>
+<dt>Rebote</dt>
+<dd><p class="first last">baloncesto, béisbol y bola de bowling representan muy elástico a rígido</p>
+</dd>
+<dt>Fricción</dt>
+<dd><p class="first last">patin de hielo, zapato y zapatilla de deporte, representan menor a mayor coeficiente de fricción</p>
+</dd>
+</dl>
+<img alt="_images/Physics-motor-properties.png" src="_images/Physics-motor-properties.png" />
+<p>El motor tiene una paleta para ajustar la velocidad (rápido y lento) y dirección (hacia la izquierda y hacia la derecha)</p>
+<img alt="_images/Physics-chain-properties.png" src="_images/Physics-chain-properties.png" />
+<p>La cadena tiene una paleta para establecer la tosquedad y el peso de los elementos de la cadena</p>
+</div>
+<div class="section" id="ideas-to-try">
+<h2>Ideas para probar<a class="headerlink" href="#ideas-to-try" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Aquí están algunas ideas que tu podrías intentar:</p>
+<ul class="simple">
+<li><p class="first">Construir una catapulta para simular Angry Birds</p>
+</li>
+<li><p class="first">Construir una máquina que clasifica diferentes bolas por tamaño en dos cubos, grandes y pequeños, sin que se atasquen las bolas.</p>
+</li>
+<li><p class="first">Un mecanismo cíclico para la elevación de las bolas desde la parte inferior de la pantalla a la parte superior, una y otra vez.</p>
+</li>
+<li><p class="first">Trata hacer caer 2 objetos de masas diferentes al mismo tiempo.</p>
+</li>
+<li><p class="first">Experimenta con péndulos de diferentes longitudes y masas.</p>
+</li>
+<li><p class="first">Ping pong, puedes hacer un dispositivo que golpee una pelota de un lado a otro de la pantalla?</p>
+</li>
+<li><p class="first">Intenta construir un reloj binario mecánico.</p>
+</li>
+<li><p class="first">Convierte la rotación en movimiento lineal usando pistones.</p>
+</li>
+<li><p class="first">Experimente con hacer tocar un círculo motorizado contra círculos fijos de varios tamaños.</p>
+</li>
+<li><p class="first">Trata de construir una marioneta y hacerla bailar de una manera convincente.</p>
+</li>
+<li><p class="first">Utiliza sólo enlaces y círculos para hacer una estructuralmente sólida similar a la Torre Eiffel.</p>
+</li>
+<li><p class="first">Intenta construir un mecanismo de trinquete.</p>
+</li>
+<li><p class="first">Intenta construir un reloj analógico donde la aguja de los segundos gira 60 veces por cada hora.</p>
+</li>
+<li><p class="first">Modificar el programa en sí: <a class="reference external" href="http://wiki.sugarlabs.org/go/Activity_Team/Modifing_an_Activity#Modifying_Physics">Modificación Física</a></p>
+</li>
+</ul>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Física</a><ul>
+<li><a class="reference internal" href="#about">Acerca de</a></li>
+<li><a class="reference internal" href="#getting-to-know-the-tools">Conoce las herramientas</a></li>
+<li><a class="reference internal" href="#other-cool-features">Otras características interesantes</a></li>
+<li><a class="reference internal" href="#ideas-to-try">Ideas para probar</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="poll.html" title="Encuesta"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="pippy.html" title="Pippy"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

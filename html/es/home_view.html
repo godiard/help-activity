@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Vista Inicio &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Vista Vecindario" href="neighborhood_view.html" />
+    <link rel="prev" title="La interfaz de usuario de Sugar" href="sugar_ui.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="neighborhood_view.html" title="Vista Vecindario"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="sugar_ui.html" title="La interfaz de usuario de Sugar"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="home-view">
+<h1>Vista Inicio<a class="headerlink" href="#home-view" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>Utiliza la vista Inicio para comenzar nuevas actividades.</p>
+<p>Nota: Una vez que haz hecho clic en el icono de una actividad, por favor espera a que la Actividad comience. Si te vuelves impaciente y pasas a hacer clic de nuevo en el icono de la actividad, puede terminar con la actividad que se iniciándose dos veces. Al hacer clic en el icono de una actividad, verás una pantalla de inicio, mientras que la Actividad inicia. Una vez que la actividad se ejecute, se te colocará en la pantalla de actividad. Si la actividad no se inicia, en su lugar volverás a la vista de Inicio.</p>
+<img alt="_images/Home_icon.png" src="_images/Home_icon.png" />
+<p>Para llegar a la vista de Inicio, haz clic en el icono Inicio en el Marco o presiona la tecla F3.</p>
+<p>La vista de Inicio tiene varios modos. Cada modo tiene una disposición diferente de las Actividades:</p>
+<ul class="simple">
+<li><p class="first">Tus actividades favoritas en un anillo (Modo anillo)</p>
+</li>
+<li><p class="first">Tus actividades instaladas en una lista (Vista de lista)</p>
+</li>
+<li><p class="first">Tus actividades favoritas de distribuidas en forma libre (modo Forma Libre)</p>
+</li>
+</ul>
+<div class="section" id="favorites-view">
+<h2>Ver Favoritos<a class="headerlink" href="#favorites-view" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Home_fav-annotated.png" src="_images/Home_fav-annotated.png" />
+<ol class="arabic simple">
+<li><p class="first">Cuadro de búsqueda: Utiliza el buscador para encontrar Actividades. Nota: Si en la vista de lista se ve menos Actividades que lo esperado, es posible que tengas que hacer clic en la pequeña X en el extremo derecho del cuadro de búsqueda para deshacer una solicitud de búsqueda no intencional.</p>
+</li>
+<li><p class="first">Modos de Favoritos: Haz clic en un icono para cambiar a una vista diferente. Pon el mouse sobre el icono Favoritos para ver un menú que te permita elegir el modo de anillo o el modo Forma libre.</p>
+</li>
+<li><p class="first">Vista de lista: Haz clic en el icono para cambiar a la vista de lista.</p>
+</li>
+<li><p class="first">Icono de Actividad: Haz clic en un icono de Actividad para comenzar esa Actividad. Su icono es de color si la actividad se ha utilizado antes y haciéndole clic reanudará su última sesión. (Consulta la sección Menú de actividad abajo para más información.) Sólo las actividades que han sido seleccionado como favoritas en la vista de Lista aparecen en esta vista.</p>
+</li>
+<li><p class="first">icono de Actividad activo: El icono de la Actividad actualmente activo aparece bajo el icono de XO.</p>
+</li>
+<li><p class="first">Icono de XO: Sitúe el puntero sobre el &#8220;XO&#8221; en el centro de la vista de Inicio para que aparezca un menú y puedas acceder al Panel de Control de Sugar (Por favor, consulta el capítulo de Personalización de Sugar).</p>
+</li>
+</ol>
+<img alt="_images/Home_fav-search.png" src="_images/Home_fav-search.png" />
+<p>Cuando se inicia una búsqueda las actividades que no corresponden a los resultados aparecen en gris.</p>
+</div>
+<div class="section" id="list-view">
+<h2>Vista de lista<a class="headerlink" href="#list-view" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Home_list-annotated.png" src="_images/Home_list-annotated.png" />
+<p>Utiliza la vista de lista para organizar todas tus actividades y elegir los iconos de qué Actividad aparecerán en la vista de Favoritos.</p>
+<ol class="arabic simple">
+<li><p class="first">Icono de actividad favorita: Una estrella, que es de color para actividades favoritas, que aparecen en el modo circular o el modo forma libre. Haz clic en una estrella para colorearla o desactivarla.</p>
+</li>
+<li><p class="first">Icono de Actividad: Haz clic en el icono para iniciar la actividad o pon el mouse sobre él para ver el menú correspondiente.</p>
+</li>
+<li><p class="first">Menú flotante: En este menú también puedes poner en marcha actividades, hacerlas favoritas o no, y borrarlas.</p>
+</li>
+<li><p class="first">Número de versión: Aquí puedes ver qué versión de la actividad está instalada actualmente. Para obtener más información sobre actualizar tus actividades a la última versión por favor consulta la sección de Cómo instalar y actualizar Actividades.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="favorites-view-in-freeform-mode">
+<h2>Vista de Favoritos en modo forma libre<a class="headerlink" href="#favorites-view-in-freeform-mode" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Home_fav-freeform.png" src="_images/Home_fav-freeform.png" />
+<p>El modo Forma libre de la vista principal funciona igual que el modo circular, pero los iconos están dispuestos arbitrariamente en lugar de en un círculo. Puedes arrastrar los iconos en esta vista para agruparlos visualmente de una manera que tenga sentido para ti.</p>
+</div>
+<div class="section" id="activity-menu">
+<h2>Menú de actividad<a class="headerlink" href="#activity-menu" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Home_fav-activity-menu.png" src="_images/Home_fav-activity-menu.png" />
+<p>Cuando se te posas sobre un icono de actividad aparece un menú correspondiente. Desde allí puedes reanudar directamente las últimas sesiones de actividad u optar por iniciar una nueva.</p>
+</div>
+<div class="section" id="xo-menu">
+<h2>Menú XO<a class="headerlink" href="#xo-menu" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Home_fav-menu.png" src="_images/Home_fav-menu.png" />
+<p>Utiliza el menú flotante que aparece sobre el icono de XO para acceder al panel de control de sugar y para apagar o reiniciar el equipo.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Vista Inicio</a><ul>
+<li><a class="reference internal" href="#favorites-view">Ver Favoritos</a></li>
+<li><a class="reference internal" href="#list-view">Vista de lista</a></li>
+<li><a class="reference internal" href="#favorites-view-in-freeform-mode">Vista de Favoritos en modo forma libre</a></li>
+<li><a class="reference internal" href="#activity-menu">Menú de actividad</a></li>
+<li><a class="reference internal" href="#xo-menu">Menú XO</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="neighborhood_view.html" title="Vista Vecindario"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="sugar_ui.html" title="La interfaz de usuario de Sugar"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

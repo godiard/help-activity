@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Solución de problemas de conectividad &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Empezando" href="getting_started.html" />
+    <link rel="prev" title="Cómo conectarse" href="getting_connected.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="getting_started.html" title="Empezando"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="getting_connected.html" title="Cómo conectarse"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="troubleshooting-connectivity">
+<h1>Solución de problemas de conectividad<a class="headerlink" href="#troubleshooting-connectivity" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>Puedes buscar en la dirección <a class="reference external" href="http://wiki.laptop.org/go/Support_FAQ">http://wiki.laptop.org/go/Support_FAQ</a> para obtener muchas sugerencias técnicas de solución de problemas, pero debes leer toda la información en esta página para solucionar la conectividad inalámbrica por ti mismo. Entendiendo la configuración del router inalámbrico</p>
+<p>Conecta el router a cualquier ordenador, y luego usar un navegador web para ver la página de configuración del router y cambiar la configuración del router.</p>
+<p>Aquí hay algunas direcciones administrativas comunes, nombres de usuario y contraseñas de algunos fabricantes utilizados para configurar la información del router. Para encontrar una lista más completa, puedes intentar visitar a otro equipo que tenga una conexión a Internet (por ejemplo, la biblioteca local) y buscar en Internet las conexiones por defecto del router. Router</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="23%" />
+<col width="38%" />
+<col width="19%" />
+<col width="19%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><p class="first last">Fabricante</p>
+</th>
+<th class="head"><p class="first last">Dirección</p>
+</th>
+<th class="head"><p class="first last">Nombre de usuario</p>
+</th>
+<th class="head"><p class="first last">Contraseña</p>
+</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>3 Com</td>
+<td><a class="reference external" href="http://192.168.1.1">http://192.168.1.1</a></td>
+<td>admin</td>
+<td>admin</td>
+</tr>
+<tr class="row-odd"><td>D-Link</td>
+<td><a class="reference external" href="http://192.168.0.1">http://192.168.0.1</a></td>
+<td>admin</td>
+<td>&nbsp;</td>
+</tr>
+<tr class="row-even"><td>Linksys</td>
+<td><a class="reference external" href="http://192.168.1.1">http://192.168.1.1</a></td>
+<td>admin</td>
+<td>admin</td>
+</tr>
+<tr class="row-odd"><td>Broadband</td>
+<td><a class="reference external" href="http://192.168.2.1">http://192.168.2.1</a></td>
+<td>admin</td>
+<td>admin</td>
+</tr>
+<tr class="row-even"><td>Netgear</td>
+<td><a class="reference external" href="http://192.168.0.1">http://192.168.0.1</a></td>
+<td>admin</td>
+<td>password</td>
+</tr>
+<tr class="row-odd"><td>Gateway2Wire</td>
+<td><a class="reference external" href="http://192.168.1.254">http://192.168.1.254</a></td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Si no puedes conectar el ordenador a tu router para hacer esto, llama a tu proveedor de servicios de Internet y pídeles ayuda. Deben ser capaces de acceder a tu router de forma remota, obtener la información necesaria para ti, e incluso hacer los cambios necesarios.</p>
+<p>Tu configuración del router inalámbrico pueden contener Wired Equivalent Privacy (WEP) o Wi-Fi Protected Access (WPA) para la protección de la seguridad. Averigua qué tipo de seguridad utiliza y la contraseña, ya sea preguntando a tu proveedor de Internet o mediante el uso de las páginas de configuración del router.</p>
+<p>En base al tipo de sistema de seguridad está utilizando (WPA o WEP), el tipo Clave Inalámbrica varía. Para WPA, se utiliza una clave frase de paso (por ejemplo, &#8220;password&#8221;, &#8220;tHisisAp4ssword&#8221;). Para WEP, utilice una clave hexadecimal (por ejemplo, &#8220;4f4c504321&#8221;, por lo general todas las claves que consisten sólo de 0-9 y af) o tu clave ASCII correspondiente (&#8220;OLPC!&#8221;). Claves hexadecimales de 40 bits tienen 10 letras / números de largo, correspondiente a 5 teclas ASCII letras / números.</p>
+<div class="section" id="common-connectivity-problems-and-solutions">
+<h2>Problemas de conectividad comunes y soluciones<a class="headerlink" href="#common-connectivity-problems-and-solutions" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>La incapacidad para conectar con un punto de acceso desde la Vista Vecidario es el síntoma reportado con mayor frecuencia. El síntoma suele ser un icono de círculo parpadeante en el icono del círculo del punto de acceso no aparece nunca en el marco o el menú del círculo nunca contiene &#8220;Conectado.&#8221; Esta animación intermitente indica la XO está intentando conectarse, pero la falta de indicadores de conexión te dice que no se puede conectar. Si esto sucede, prueba las sugerencias de solución de problemas justo debajo. ¿Es el punto wifi hotspot visible en la Vista Vecindario?</p>
+<p>Ve a la vista de Vecindario y escribe el nombre de su SSID en el cuadro de búsqueda para resaltar el punto de acceso. Cada icono circular representa un identificador de conjunto de servicios (SSID) de la red. En uno de los iconos en la Vista Vecindario, deberías ver el nombre de red de tu punto de acceso Wi-Fi.</p>
+<img alt="_images/resized_400x300_8.2neighborhoodview.png" src="_images/resized_400x300_8.2neighborhoodview.png" />
+<img alt="_images/resized_400x300_highlightedssid.png" src="_images/resized_400x300_highlightedssid.png" />
+<p>Si no puedes ver el nombre de la red puede haber algunas razones para esto, así que continuemos buscando la solución.</p>
+</div>
+<div class="section" id="is-the-name-of-the-network-a-hidden-ssid">
+<h2>¿Es el nombre de la red un SSID oculto?<a class="headerlink" href="#is-the-name-of-the-network-a-hidden-ssid" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Si tu SSID / Nombre de red está configurado para estar oculto en la configuración del router, no es posible para la XO conectarse a su red inalámbrica a través de la interfaz de usuario de Sugar.</p>
+<p>Puedes conectarte manualmente escribiendo comandos en la Actividad Terminal. Para ello, inicia la Actividad Terminal y escribe los siguientes comandos:</p>
+<div class="highlight-python"><div class="highlight"><pre>su -l
+/sbin/iwconfig eth0 mode managed essid myhiddennetwork
+/sbin/dhclient eth0
+</pre></div>
+</div>
+<p>Como explicación, el comando &#8216;su&#8217; crea un proceso de usuario root. El comando iwconfig se conecta a su red oculta (por supuesto, sustituir el nombre del punto de acceso para la palabra myhiddennetwork en el ejemplo anterior). Por último, dhclient pide una dirección IP al punto de acceso.</p>
+</div>
+<div class="section" id="is-your-wi-fi-router-filtering-connections-based-on-a-mac-address">
+<h2>¿Está el router Wi-Fi filtrando conexiones basadas en una dirección MAC?<a class="headerlink" href="#is-your-wi-fi-router-filtering-connections-based-on-a-mac-address" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Puedes evitar que otros equipos utilicen su router inalámbrico configurándolo para filtrar por dirección MAC. Una dirección MAC es una dirección única integrada en el adaptador de red de su equipo. Mientras que el filtrado de direcciones MAC no es un método seguro de protección de una red, algunos routers lo usan, y podría evitar que tu XO use ese punto de acceso.</p>
+<p>Para solucionar un problema de filtración, se puede encontrar la dirección MAC y añadirlo a la lista de equipos permitidos que se pueden conectar con el router inalámbrico.</p>
+<p>Para ello, inicia la Actividad Terminal y escribe los siguientes comandos:</p>
+<div class="highlight-python"><div class="highlight"><pre>/sbin/ifconfig -a eth0
+</pre></div>
+</div>
+<p>La dirección MAC se encuentra en la primera línea junto a la etiqueta HWaddr: y tiene el formato de &#8220;00:17:C4:XX:XX:XX&#8221;</p>
+<p>En la configuración del router WiFi para filtrar, agregar la dirección MAC que se encontró con el comando ifconfig.</p>
+</div>
+<div class="section" id="is-your-wifi-router-configured-to-support-802-11b-or-802-11g-or-both">
+<h2>¿Está tu router WiFi configurado para soportar 802.11b, 802.11g o ambos?<a class="headerlink" href="#is-your-wifi-router-configured-to-support-802-11b-or-802-11g-or-both" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Lee la documentación de tu router inalámbrico para determinar cómo configurarlo para soportar 802.11g o para determinar si se está utilizando el protocolo 802.11g. En este ejemplo, la lista desplegable de Modo es donde tu debes buscar la configuración de protocolo. Puede que no funcione para tener ambos modos G y B, como se muestra, a fin de tratar las distintas configuraciones para ver si otra configuración funciona.</p>
+<img alt="_images/resized_400x174_wirelessroutersettings.jpg" src="_images/resized_400x174_wirelessroutersettings.jpg" />
+</div>
+<div class="section" id="are-the-access-point-settings-not-in-channels-1-6-or-11">
+<h2>¿Estan los punto de acceso configurados fuera de los canales 1, 6, o 11?<a class="headerlink" href="#are-the-access-point-settings-not-in-channels-1-6-or-11" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Esta tu punto de acceso trabajando en otro canal que no sea el 1, 6, o 11? Para algunos antiguos versiones, la XO espera encontrar puntos de acceso en uno de estos tres canales, los tres canales no interferentes disponible para el protocolo inalámbrico 802.11g.</p>
+<p>Trata de cambiar el punto de acceso a uno de los tres canales y comprobar si se puede asociar tu XO a el. Consulta la documentación de tu punto de acceso para obtener información sobre cómo cambiar el frecuencia del canal que tu punto de acceso difunde. Esta imagen muestra un ejemplo de la configuración de un router inalámbrico. El campo Canal es donde se cambia el ajuste de la frecuencia.</p>
+<img alt="_images/resized_400x147_broadbandroutersettings.jpg" src="_images/resized_400x147_broadbandroutersettings.jpg" />
+</div>
+<div class="section" id="why-can-t-the-xo-browse-when-connected">
+<h2>¿Por qué no puede el XO Navegar cuando está conectado?<a class="headerlink" href="#why-can-t-the-xo-browse-when-connected" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Síntoma: Tu XO muestra que su conexión a Internet funciona, pero no se puede navegar o buscar cualquier página.</p>
+<p>Lo más probable, es que la XO no ha recibido información de DNS de su punto de acceso a Internet. Si este es el caso, usted sería capaz de acceder a Internet para los sitios nombrados directamente con direcciones IP, pero no con sus nombres comunes. En otras palabras, <a class="reference external" href="http://209.85.133.18">http://209.85.133.18</a> debería funcionar, pero <a class="reference external" href="http://www.google.com">http://www.google.com</a> no lo haría.</p>
+<p>Comprueba lo que el XO ha recibido (desde el punto de acceso a Internet) para obtener información de DNS mediante la Actividad Navegar y buscando en esta dirección:</p>
+<p><a class="reference external" href="file://localhost/etc/resolv.conf">file://localhost/etc/resolv.conf</a></p>
+<p>Esta página debería mostrar la dirección IP del servidor DNS asignado por el punto de acceso a Internet. Si no hay una dirección IP en esta página, o si la dirección IP asignada está mal, esto explicaría el comportamiento que estamos viendo.</p>
+<p>Si no hay una dirección IP o la dirección es incorrecta, tendrás que determinar por qué el punto de acceso a Internet está fallando en suministrar uno, pero esto es probable que sea una mala configuración del punto de acceso.</p>
+</div>
+<div class="section" id="connecting-to-the-internet-without-wireless-access">
+<h2>Conexión a Internet sin acceso inalámbrico<a class="headerlink" href="#connecting-to-the-internet-without-wireless-access" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Si no puedes conectarte a Internet con éxito o consistentemente mediante Wi-Fi, puedes utilizar un conector USB a Ethernet para conectarte a una conexión por cable en lugar de inalámbrica. Ejemplos de productos que han funcionado para otros usuarios incluyen el Linksys USB100M y el adaptador Zoltan Tech USB2.0  Fast Ethernet, que cuestan alrededor de USD $10- $25.</p>
+<p>Si deseas conectar tu XO en forma inalámbrica con una conexión de acceso telefónico, puede hacerlo con una versión anterior de Airport Extreme de Apple (A1034). Apple ya no los vende, pero están disponibles en Internet por entre $ 18 y $ 36. Asegúrate de que el obtengas tiene un puerto para la línea telefónica, y de preferencia, con un cable de teléfono incluido. Instrucciones para conectarte usandolo están en la Wiki en <a class="reference external" href="http://wiki.laptop.org/go/Wifi_Connectivity#Apple_Airport">http://wiki.laptop.org/go/Wifi_Connectivity#Apple_Airport</a>. Conexión mientras viajas</p>
+<p>Tu XO es un compañero de viaje maravilloso. Puede conectarse a una amplia variedad de sitios WiFi públicos que a menudo se encuentran en los centros comunitarios y bibliotecas, incluso en restaurantes y hoteles. Todo lo que necesitas hacer es obtener una contraseña correcta y conectarte de acuerdo con las instrucciones anteriores. Muchos lugares no requieren una contraseña para conectarse y el proceso será aún más fácil. Recuerda, sin embargo, que las contraseñas proporcionan una capa adicional de seguridad en Internet. Sin ellos, se corre un riesgo ligeramente mayor de sufrir algún tipo de fraude en Internet.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Solución de problemas de conectividad</a><ul>
+<li><a class="reference internal" href="#common-connectivity-problems-and-solutions">Problemas de conectividad comunes y soluciones</a></li>
+<li><a class="reference internal" href="#is-the-name-of-the-network-a-hidden-ssid">¿Es el nombre de la red un SSID oculto?</a></li>
+<li><a class="reference internal" href="#is-your-wi-fi-router-filtering-connections-based-on-a-mac-address">¿Está el router Wi-Fi filtrando conexiones basadas en una dirección MAC?</a></li>
+<li><a class="reference internal" href="#is-your-wifi-router-configured-to-support-802-11b-or-802-11g-or-both">¿Está tu router WiFi configurado para soportar 802.11b, 802.11g o ambos?</a></li>
+<li><a class="reference internal" href="#are-the-access-point-settings-not-in-channels-1-6-or-11">¿Estan los punto de acceso configurados fuera de los canales 1, 6, o 11?</a></li>
+<li><a class="reference internal" href="#why-can-t-the-xo-browse-when-connected">¿Por qué no puede el XO Navegar cuando está conectado?</a></li>
+<li><a class="reference internal" href="#connecting-to-the-internet-without-wireless-access">Conexión a Internet sin acceso inalámbrico</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="getting_started.html" title="Empezando"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="getting_connected.html" title="Cómo conectarse"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

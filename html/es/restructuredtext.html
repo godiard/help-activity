@@ -1,0 +1,279 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Escribiendo en reStructuredText &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Actualiza todo tu software" href="upgrade_all.html" />
+    <link rel="prev" title="Cómo editar Ayuda y contribuir" href="how_to_help.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="upgrade_all.html" title="Actualiza todo tu software"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="how_to_help.html" title="Cómo editar Ayuda y contribuir"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="writing-in-restructuredtext">
+<h1>Escribiendo en reStructuredText<a class="headerlink" href="#writing-in-restructuredtext" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>Esta página es una breve introducción y hoja de trucos para el lenguaje de marcado que estamos utilizando en <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">how_to_help</span></tt>. El formato rst es fácil de crear y estamos utilizando una parte del mismo solamente.</p>
+<div class="section" id="titles">
+<span id="my-reference-label"></span><h2>Títulos<a class="headerlink" href="#titles" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="highlight-python"><div class="highlight"><pre>====================
+This is a main title
+====================
+</pre></div>
+</div>
+<div class="highlight-python"><div class="highlight"><pre>This is a secondary title
+-------------------------
+</pre></div>
+</div>
+<div class="highlight-python"><div class="highlight"><pre>This is a 3rd level title
+:::::::::::::::::::::::::
+</pre></div>
+</div>
+</div>
+<div class="section" id="links">
+<h2>Enlaces<a class="headerlink" href="#links" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Links like <a class="reference external" href="http://activities.sugarlabs.org">http://activities.sugarlabs.org</a> are automatically created.</p>
+<p>Para crear enlaces en los que el texto que aparece en la página es diferente a el link hay que hacer:</p>
+<p>Tu encontrarás <a class="reference external" href="http://activities.sugarlabs.org">ASLO</a> aquí.</p>
+<p>Program writing software like <a class="reference external" href="http://www.python.org/">Python</a>.</p>
+<div class="highlight-python"><div class="highlight"><pre>Links like http://activities.sugarlabs.org are automatically created.
+
+To create links where the text displayed in the page is different to the link you should do:
+
+You will find `ASLO &lt;http://activities.sugarlabs.org&gt;`_ here.
+
+Program writing software like Python_.
+
+.. _Python: http://www.python.org/
+</pre></div>
+</div>
+</div>
+<div class="section" id="links-within-help">
+<h2>Los enlaces dentro de Ayuda<a class="headerlink" href="#links-within-help" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Este enlace, <a class="reference internal" href="#my-reference-label"><em>Títulos</em></a> enlaza al párrafo superior de este documento.</p>
+<blockquote>
+<div><p>Para ver cómo funciona esto, <tt class="docutils literal"><span class="pre">..</span> <span class="pre">_my-reference-label:</span></tt> aparece en la línea 7 de restructuredtext.rst.</p>
+</div></blockquote>
+<p>En segundo lugar, esta página contiene información sobre los términos y palabras que se usan en Sugar <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">glossary</span></tt></p>
+<div class="highlight-python"><div class="highlight"><pre>This link, :ref:`my-reference-label`, links to the top paragraph of this document.
+
+ To see how this works, ``.. _my-reference-label:`` appears on line 7 of restructuredtext.rst.
+
+Secondly, this page contains more about terms and words used in sugar. :doc:`/glossary`
+</pre></div>
+</div>
+</div>
+<div class="section" id="lists">
+<h2>Listas<a class="headerlink" href="#lists" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Las listas son simples</p>
+<ul class="simple">
+<li><p class="first">Primer elemento</p>
+</li>
+<li><p class="first">Segundo punto</p>
+</li>
+<li><p class="first">Último artículo</p>
+</li>
+</ul>
+<p>o numeradas:</p>
+<ol class="arabic simple">
+<li><p class="first">Uno de los puntos</p>
+</li>
+<li><p class="first">Otro elemento</p>
+</li>
+<li><p class="first">El último de ellos</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>Lists are simple
+
+* First item
+* Second item
+* Last item
+
+or numbered:
+
+1. One item
+2. Another item
+3. The last one
+</pre></div>
+</div>
+</div>
+<div class="section" id="simple-table">
+<h2>Tabla simple<a class="headerlink" href="#simple-table" title="Enlazar permanentemente con este título">¶</a></h2>
+<table border="1" class="docutils">
+<colgroup>
+<col width="31%" />
+<col width="31%" />
+<col width="38%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head" colspan="2"><p class="first last">Entradas</p>
+</th>
+<th class="head"><p class="first last">Salida</p>
+</th>
+</tr>
+<tr class="row-even"><th class="head">A</th>
+<th class="head">B</th>
+<th class="head"><p class="first last">A o B</p>
+</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-odd"><td>False</td>
+<td>False</td>
+<td>False</td>
+</tr>
+<tr class="row-even"><td>True</td>
+<td>False</td>
+<td>True</td>
+</tr>
+<tr class="row-odd"><td>False</td>
+<td>True</td>
+<td>True</td>
+</tr>
+<tr class="row-even"><td>True</td>
+<td>True</td>
+<td>True</td>
+</tr>
+</tbody>
+</table>
+<div class="highlight-python"><div class="highlight"><pre>=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
+</pre></div>
+</div>
+</div>
+<div class="section" id="images">
+<h2>Imágenes<a class="headerlink" href="#images" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Una imagen puede ser incluido como esto:</p>
+<img alt="_images/Help.png" src="_images/Help.png" />
+<div class="highlight-python"><div class="highlight"><pre>.. image :: ../images/Help.png
+</pre></div>
+</div>
+</div>
+<div class="section" id="icons-and-small-images">
+<h2>Los iconos y las imágenes pequeñas<a class="headerlink" href="#icons-and-small-images" title="Enlazar permanentemente con este título">¶</a></h2>
+<p><img alt="Neighborhood_key" src="_images/Neighborhood_key_sml.png" /> Esta es la opción para compartir.</p>
+<p><img alt="Home_key_f3_small" src="_images/Home_key_f3_small.png" /> Esta es la opción privada.</p>
+<div class="highlight-python"><div class="highlight"><pre>|Neighborhood_key| This is the sharing option.
+
+.. |Neighborhood_key| image:: ../images/Neighborhood_key_sml.png
+
+|Home_key_f3_small| This is the Private option.
+
+.. |Home_key_f3_small| image:: ../images/Home_key_f3_small.png
+</pre></div>
+</div>
+</div>
+<div class="section" id="adding-a-note">
+<h2>Adición de una nota<a class="headerlink" href="#adding-a-note" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Cuando usted está obligado a colocar el primer carácter legible en el punto 3 o las 4 de la línea, se recomienda comprobar si se le requiere insertar espacios o Tab.</p>
+</div>
+<p>Y también</p>
+<div class="admonition seealso">
+<p class="first admonition-title">Ver también</p>
+<p class="last">Observe que el primer carácter legible de esta nota está bajo la &#8220;s&#8221;, tres espacios lo precedió.</p>
+</div>
+<div class="highlight-python"><div class="highlight"><pre>.. Note::
+
+   When you are required to place the first readable character at point 3 or 4 in the line, it is recommended to check if you are required to insert spaces or Tab.
+
+And also
+
+.. seealso::
+
+   Notice that first readable character of this note is under the &quot;s&quot;, three spaces preceed it.
+</pre></div>
+</div>
+<p><img alt="more" src="_images/more.png" /> Hay enlaces a <a class="reference internal" href="how_to_help.html#further-reading"><em>Para leer más</em></a> al pie de la página <a class="reference internal" href="how_to_help.html"><em>Cómo editar Ayuda y contribuir</em></a></p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Escribiendo en reStructuredText</a><ul>
+<li><a class="reference internal" href="#titles">Títulos</a></li>
+<li><a class="reference internal" href="#links">Enlaces</a></li>
+<li><a class="reference internal" href="#links-within-help">Los enlaces dentro de Ayuda</a></li>
+<li><a class="reference internal" href="#lists">Listas</a></li>
+<li><a class="reference internal" href="#simple-table">Tabla simple</a></li>
+<li><a class="reference internal" href="#images">Imágenes</a></li>
+<li><a class="reference internal" href="#icons-and-small-images">Los iconos y las imágenes pequeñas</a></li>
+<li><a class="reference internal" href="#adding-a-note">Adición de una nota</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="upgrade_all.html" title="Actualiza todo tu software"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="how_to_help.html" title="Cómo editar Ayuda y contribuir"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

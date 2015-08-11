@@ -1,0 +1,460 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Dimensiones &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Distancia" href="distance.html" />
+    <link rel="prev" title="Graficar" href="chart.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="distance.html" title="Distancia"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="chart.html" title="Graficar"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="dimensions">
+<h1>Dimensiones<a class="headerlink" href="#dimensions" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Dimensiones (anteriormente conocido como Visual Match) es un juego de coincidencia de patrones por escrito para Sugar; se incluye como parte de la colección de complementos Honey de Sugar. El objetivo del juego es encontrar conjuntos de 3 cartas donde cada atributo (color, forma, número de elementos  y sombra) son o iguaes en las tres cartas o diferentes en las tres cartas.</p>
+<p>Dimensiones Primos es la variante numérica de Dimensiones, donde en lugar de la forma, tres números primos, 5, 7, y 11, se utilizan. La textura se sustituye por la representación, e. g. Números arábigos, números romanos, números mayas, etc..</p>
+<p>Dimensiones Palabras es la variante con palabras de dimensiones, donde en lugar de la forma, tres categorías de palabras se utilizan: animales, comidas, cuerpos celestes. La textura se sustituye por un atributo de la tipografía: negrita, cursiva, o normal.</p>
+<p>Visual Match está en desuso.</p>
+<img alt="_images/Dimensions-img1.png" src="_images/Dimensions-img1.png" />
+<img alt="_images/Dimensions-img2.png" src="_images/Dimensions-img2.png" />
+<img alt="_images/Dimensions-img3.png" src="_images/Dimensions-img3.png" />
+</div>
+<div class="section" id="using-dimensions">
+<h2>Usando Dimensiones<a class="headerlink" href="#using-dimensions" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="section" id="the-basics">
+<h3>Los fundamentos<a class="headerlink" href="#the-basics" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Juega haciendo clic en tres cartas para seleccionar un conjunto.</p>
+<ol class="arabic simple">
+<li><p class="first">Al hacer clic, las tarjetas se trasladarán al área de selección en el lado izquierdo de la pantalla. (También puedes arrastrar las cartas al área de selección. )</p>
+</li>
+<li><p class="first">Una vez que tres cartas están en el área de selección, una prueba de validación se ejecuta:</p>
+</li>
+</ol>
+<ul class="simple">
+<li><p class="first">Si las cartas integran un <a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Dimensions#Examples_of_valid_matches">conjunto válido</a>, aparecerá una cara sonriente.</p>
+</li>
+<li><p class="first">Si son un <a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Dimensions#Examples_of_invalid_matches">conjunto inválido</a>, aparecerá una cara enojada, que muestra por qué las tarjetas no coinciden. Al hacer clic en la cara sonriente resuktará en que las cartas seleccionadas se retiran y nuevas cartas son repartidas desde la mesa. Al hacer clic en la cara enojada se eliminará la última carta en el área de selección y se ponfdrá de nuevo a la parte derecha de la pantalla.</p>
+</li>
+</ul>
+<ol class="arabic simple" start="3">
+<li><p class="first">Una vez que el juego ha terminado, la pantalla se llene de caras sonrientes.</p>
+</li>
+</ol>
+<p><a class="reference external" href="http://www.dailymotion.com/video/xbuw5j_visual-match">Video del juego básico jugar</a></p>
+<p>Nota: Cuando Dimensiones se pone en marcha por primera vez, se muestra una animación sencilla del juego. Haz clic en la pantalla para interrumpir la animación y empezar a jugar.</p>
+</div>
+<div class="section" id="more-details">
+<h3>Más detalles<a class="headerlink" href="#more-details" title="Enlazar permanentemente con este título">¶</a></h3>
+<ul class="simple">
+<li><p class="first">Las tarjetas tienen cuatro atributos diferentes: color, forma, textura de relleno, y número de elementos.</p>
+</li>
+</ul>
+<p>El versión con números trabaja con factores primos en lugar de formas y texturas. La versión con palabras trabaja con agrupaciones semánticas.</p>
+<ul class="simple">
+<li><p class="first">Las selecciones deben ser válidas en los cuatro atributos. Ejemplos de selecciones <a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Dimensions#Examples_of_valid_matches">válidas</a> e <a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Dimensions#Examples_of_valid_matches">inválidas</a> se muestran a continuación.</p>
+</li>
+</ul>
+<p>Una coincidencia válida se define por tarjetas donde cada atributo es o bien el mismo en cada tarjeta o diferente en cada tarjeta, ej. las tres tarjetas rojas o uno rojo, uno verde y uno azul. Una selección no válida es cuando dos tarjetas comparten un atributo y la tercera tarjeta no, ej. uno rojo y dos tarjetas verdes.</p>
+<ul class="simple">
+<li><p class="first">Al final del juego, todas las selecciones se muestran en una animación sencilla.</p>
+</li>
+<li><p class="first">Además, el estado del juego se guarda en el Diario y es restaurado cuando se reinicia.</p>
+</li>
+<li><p class="first">Un modelo de colaboración cooperativa sencilla es soportado.</p>
+</li>
+</ul>
+<p>Todo el mundo trabaja de manera cooperativa para encontrar coincidencias. Sólo el iniciador de la sesión compartida puede iniciar nuevos juegos, cambiar el tipo de juego o de nivel.</p>
+</div>
+<div class="section" id="examples-of-valid-matches">
+<h3>Ejemplos de selecciones válidas<a class="headerlink" href="#examples-of-valid-matches" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/Dimensions-img4.png" src="_images/Dimensions-img4.png" />
+<p>Filas de arriba a abajo</p>
+<ul class="simple">
+<li><p class="first">Los colores, las formas, y la sombra coinciden; los números son diferentes.</p>
+</li>
+<li><p class="first">Juego con números; colores, formas y sombra son diferentes.</p>
+</li>
+<li><p class="first">Todo es diferente.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="examples-of-invalid-matches">
+<h3>Ejemplos de partidos no válidos<a class="headerlink" href="#examples-of-invalid-matches" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/Dimensions-img5.png" src="_images/Dimensions-img5.png" />
+<p>Filas de arriba a abajo</p>
+<ul class="simple">
+<li><p class="first">dos de los mismos colores (rojo)</p>
+</li>
+<li><p class="first">dos de la misma forma (X)</p>
+</li>
+<li><p class="first">dos del mismo color (sólido)</p>
+</li>
+<li><p class="first">dos de el mismo número (2)</p>
+</li>
+</ul>
+</div>
+<div class="section" id="additional-features">
+<h3>Características adicionales<a class="headerlink" href="#additional-features" title="Enlazar permanentemente con este título">¶</a></h3>
+<ul class="simple">
+<li><p class="first">Dimensiones incluye un (robot) ordenador asistente: El robot te ayudará a encontrar coincidencias.</p>
+</li>
+</ul>
+<p>El robot se activa / desactiva haciendo clic en el botón del menú de herramientas. También puede utilizar el robot como un opositor en la computadora. La disminución del tiempo entre los movimientos aumenta el desafío.</p>
+<ul class="simple">
+<li><p class="first">Dimensiones incluye modos Principiante, Intermedio, y Experto.</p>
+</li>
+</ul>
+<p>En el modo Principiante, sólo hay 9 (32) tarjetas y sólo dos características de la tarjeta: En el modo intermedio, hay 27 (33) tarjetas y tres características de la tarjeta. En el modo experto, hay 81 (34) tarjetas y cuatro características de la tarjeta.</p>
+<ul class="simple">
+<li><p class="first">Dimensiones incluye juegos con búsqueda de números y de palabras, además del juego de búsqueda de patrones.</p>
+</li>
+</ul>
+<p>Hay un modo de edición para que las listas de palabras personalizadas se pueden usar en el juego con palabras (y compartidas a través de la red). Además, puedes cargar tarjetas personalizadas del Diario.</p>
+<ul class="simple">
+<li><p class="first">El diseño de cuadrícula es arbitrario; no hay necesidad de recoger en filas o columnas, o uno de cada columna.</p>
+</li>
+<li><p class="first">Las tarjetas en blanco a la izquierda son un lugar para mostrar la selección más reciente; que de lo contrario pueden ser ignoradas.</p>
+</li>
+<li><p class="first">Un conteo de número de coincidencias encontradas se muestra en la barra de herramientas; cuando el robot asistente está ayudando, la cuenta se muestra como dos números, donde el número de partidos encontrados por el robot aparece entre paréntesis, ej. , 3 (2) indicaría que el robot encontró 2 resultados de un total de 5 (3 + 2) que se han encontrado hasta el momento.</p>
+</li>
+<li><p class="first">Dimensiones mantiene un registro de tus mejores tiempos (uno para el modo principiante y uno para el modo experto). Estos tiempos se muestran junto a los botones de modo de nivel en la barra de herramientas.</p>
+</li>
+</ul>
+<p>A medida que mejores, Dimensiones automáticamente avanzará a un nivel más difícil del juego.</p>
+<ul class="simple">
+<li><p class="first">Puedes seleccionar las tarjetas con el teclado:</p>
+</li>
+</ul>
+<table border="1" class="docutils">
+<colgroup>
+<col width="72%" />
+<col width="28%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><p class="first last">Fila superior</p>
+</td>
+<td>1, 2, 3</td>
+</tr>
+<tr class="row-even"><td><p class="first last">Segunda Fila</p>
+</td>
+<td>q, w, e</td>
+</tr>
+<tr class="row-odd"><td><p class="first last">Tercera fila</p>
+</td>
+<td>a, s, d</td>
+</tr>
+<tr class="row-even"><td><p class="first last">Cuarta Fila</p>
+</td>
+<td>z, x, c</td>
+</tr>
+<tr class="row-odd"><td><p class="first last">Fila Extra (parte inferior)</p>
+</td>
+<td>8, 9, 0</td>
+</tr>
+</tbody>
+</table>
+<p>Cuidado, porque dimensiones pueden ser muy adictivo.</p>
+</div>
+<div class="section" id="other-modes-of-play">
+<h3>Otros modos de juego<a class="headerlink" href="#other-modes-of-play" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Juego de Números</p>
+<img alt="_images/Dimensions-img6.png" src="_images/Dimensions-img6.png" />
+<p>Todo es diferente: los colores, factores primos y representaciones.</p>
+<p>Juego de palabras</p>
+<img alt="_images/Dimensions-img7.png" src="_images/Dimensions-img7.png" />
+<p>Las palabras son de diferentes grupos semánticos; los colores son diferentes; el estilo de fuente (negrita) coincide.</p>
+<p>Cuando no hay ninguna coincidencia</p>
+<img alt="_images/Dimensions-img8.png" src="_images/Dimensions-img8.png" />
+<p>En ocasiones, no hay ninguna coincidencia entre las 12 cartas en la parrilla. Si no hay ninguna coincidencia, tres tarjetas adicionales se reparten a lo largo de la fila inferior, como se ilustra en la figura anterior.</p>
+</div>
+<div class="section" id="gallery">
+<h3>Galería<a class="headerlink" href="#gallery" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/Dimensions-img9.png" src="_images/Dimensions-img9.png" />
+<p>De izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">Reproducción básica: dos dimensiones: número y color</p>
+</li>
+<li><p class="first">Intermedio: tres dimensiones: número, color y forma</p>
+</li>
+<li><p class="first">Juego avanzada: cuatro dimensiones: número, color, forma y textura</p>
+</li>
+<li><p class="first">Los números no coinciden</p>
+</li>
+</ul>
+<img alt="_images/Dimensions-img10.png" src="_images/Dimensions-img10.png" />
+<p>De izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">Los colores no coinciden</p>
+</li>
+<li><p class="first">Formas no coinciden</p>
+</li>
+<li><p class="first">Texturas no coinciden</p>
+</li>
+</ul>
+<img alt="_images/Dimensions-img11.png" src="_images/Dimensions-img11.png" />
+<p>De izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">Factores primos (1,2,3,5,7 y 11) se utilizan para determinar coincidencias</p>
+</li>
+<li><p class="first">Números romanos y puntos en un círculo</p>
+</li>
+<li><p class="first">Los valores hash y productos</p>
+</li>
+<li><p class="first">Maya</p>
+</li>
+</ul>
+<img alt="_images/Dimensions-img12.png" src="_images/Dimensions-img12.png" />
+<p>De izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">grupos semánticos de palabras (animales, comidas, objetos celestes) se utilizan para determinar coincidencias</p>
+</li>
+<li><p class="first">Edición de la lista de palabras</p>
+</li>
+<li><p class="first">Cargando las tarjetas personalizadas del Diario</p>
+</li>
+</ul>
+<img alt="_images/Dimensions-img13.png" src="_images/Dimensions-img13.png" />
+<p>De izquierda a derecha,</p>
+<ul class="simple">
+<li><p class="first">Tarjetas personalizadas cargadas desde el Diario</p>
+</li>
+<li><p class="first">Jugar con las tarjetas cargadas del Diario</p>
+</li>
+<li><p class="first">el código fuente</p>
+</li>
+<li><p class="first">Las puntuaciones pueden ser copiados al portapapeles y luego graficadas con Graficar.</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="section" id="learning-with-dimensions">
+<h2>Aprender con Dimensiones<a class="headerlink" href="#learning-with-dimensions" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>En un nivel básico, dimensiones pueden ser utilizados para mejorar las habilidades de observación de los jóvenes estudiantes; se les pregunta repetidamente: ¿cuál es la misma? ¿qué es diferente? A un nivel más profundo, los conceptos de conjuntos multidimensionales pueden ser explorados.</p>
+<p>Los juegos de números se pueden usar para explorar diferentes representaciones aritméticas.</p>
+</div>
+<div class="section" id="extending-dimensions">
+<h2>Extendiendo Dimensiones<a class="headerlink" href="#extending-dimensions" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="section" id="exploring-the-math">
+<h3>Exploración de la matemática<a class="headerlink" href="#exploring-the-math" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>La matemática combinatoria detrás dimensiones pueden ser de interés para algunos alumnos: Véase <a class="reference external" href="http://en.wikipedia.org/wiki/Set_%28game%29#Basic_Combinatorics_of_Set">este artículo</a> para una explicación.</p>
+</div>
+<div class="section" id="creating-a-custom-game">
+<h3>Creación de un juego personalizado<a class="headerlink" href="#creating-a-custom-game" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Puede crear ttu propio sistema de tarjetas para Dimensiones. Usa tu programa favorito para crear imágenes (Pintar, TortugArte, Grabar, etc. ) Para hacer grupos de tarjetas. Es necesario crear al menos 9 cartas para poder jugar en el nivel principiante (3 cartas cada uno a lo largo de 2 dimensiones). También puede hacer una colección de 27 tarjetas (3 cartas cada uno a lo largo de 3 dimensiones) o 81 tarjetas (3 cartas cada uno a lo largo de 4 dimensiones). Las tarjetas deben tener el mismo nombre en el Diario con la excepción de un número, empezando por 1 y por incremento a 1, ej. , Tarjeta.1.png, tarjeta.2.png... tarjeta.9.png. Cualquier formato de imagen soportado por Sugar funcionará y tu no tienes que incluir el sufijo-tipo de imagen en el título, ej. , tarjeta.1, tarjeta.2,... tarjeta.9 también funcionará. Sólo asegúrate de que el orden se corresponda con la serialización de tu espacio multidimensional, e. g. :</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="29%" />
+<col width="35%" />
+<col width="35%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head"><p class="first last">nombre de la tarjeta</p>
+</th>
+<th class="head"><p class="first last">dimensión 1</p>
+</th>
+<th class="head"><p class="first last">dimensión 2</p>
+</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td><p class="first last">mitarjeta.1</p>
+</td>
+<td><p class="first last">uno</p>
+</td>
+<td><p class="first last">rojo</p>
+</td>
+</tr>
+<tr class="row-odd"><td><p class="first last">mitarjeta.2</p>
+</td>
+<td><p class="first last">dos</p>
+</td>
+<td><p class="first last">rojo</p>
+</td>
+</tr>
+<tr class="row-even"><td><p class="first last">mitarjeta.3</p>
+</td>
+<td><p class="first last">tres</p>
+</td>
+<td><p class="first last">rojo</p>
+</td>
+</tr>
+<tr class="row-odd"><td><p class="first last">mitarjeta.4</p>
+</td>
+<td><p class="first last">uno</p>
+</td>
+<td><p class="first last">verde</p>
+</td>
+</tr>
+<tr class="row-even"><td><p class="first last">mitarjeta.5</p>
+</td>
+<td><p class="first last">dos</p>
+</td>
+<td><p class="first last">verde</p>
+</td>
+</tr>
+<tr class="row-odd"><td><p class="first last">mitarjeta.6</p>
+</td>
+<td><p class="first last">tres</p>
+</td>
+<td><p class="first last">verde</p>
+</td>
+</tr>
+<tr class="row-even"><td><p class="first last">mitarjeta.7</p>
+</td>
+<td><p class="first last">uno</p>
+</td>
+<td><p class="first last">azul</p>
+</td>
+</tr>
+<tr class="row-odd"><td><p class="first last">mitarjeta.8</p>
+</td>
+<td><p class="first last">dos</p>
+</td>
+<td><p class="first last">azul</p>
+</td>
+</tr>
+<tr class="row-even"><td><p class="first last">mitarjeta.9</p>
+</td>
+<td><p class="first last">tres</p>
+</td>
+<td><p class="first last">azul</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Tu cargas un conjunto de tarjetas personalizadas del Diario haciendo clic en el ícono &#8216;importación de imágenes&#8217; <img alt="imp_img" src="_images/Dimensions-img15-icon.png" /> y seleccionando cualquier imagen de tu conjunto. El resto se cargará automáticamente.</p>
+<img alt="_images/Dimensions-img14.png" src="_images/Dimensions-img14.png" />
+<p>The above cards were generated in <a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Turtle_Art">Turtle Art</a>. The sample code is supplied with <a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Turtle_Art">Turtle Art</a>: set.ta, the code generates a deck of cards and saves them as SVG to the Journal.</p>
+</div>
+</div>
+<div class="section" id="modifying-dimensions">
+<h2>Modificando Dimensiones<a class="headerlink" href="#modifying-dimensions" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="section" id="show-me-the-code">
+<h3>Muéstrame el código<a class="headerlink" href="#show-me-the-code" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Tu puedes explorar el código fuente de Dimensiones [<a class="reference external" href="http://git.sugarlabs.org/projects/visualmatch/repos/mainline">clonando el proyecto</a>]  directamente desde git.</p>
+</div>
+</div>
+<div class="section" id="reporting-problems">
+<h2>Informar de fallos<a class="headerlink" href="#reporting-problems" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Hay varios problemas conocidos con la versión actual de Dimensiones:</p>
+<ul class="simple">
+<li><p class="first">Restaurar de Diario no funciona en versiones de Sugar anteriores a 0.82.</p>
+</li>
+<li><p class="first">Tarjetas chinas no se muestran correctamente en algunos sistemas debido a una fuente que falta.</p>
+</li>
+<li><p class="first">No hay ninguna indicación de quien encontró un conjunto en juego en grupo.</p>
+</li>
+</ul>
+<p>Si descubres un error en el programa o tienes una sugerencia para una mejora, por favor <a class="reference external" href="https://bugs.sugarlabs.org/newticket?component=Visual+Match">llena un ticket</a> en nuestro sistema de seguimiento de errores.</p>
+<p>Puede <a href="#id2"><span class="problematic" id="id3">`ver los tickets abiertos aquí.&lt;https://bugs.sugarlabs.org/query?status=accepted&amp;status=assigned&amp;status=new&amp;status=reopened&amp;component=Visual+Match&gt;`_</span></a></p>
+</div>
+<div class="section" id="credits">
+<h2>Créditos<a class="headerlink" href="#credits" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Dimensiones fue escrito por <a class="reference external" href="http://wiki.sugarlabs.org/go/User:Walter">Walter Bender</a> y los estudiantes de su seminario de primer año 2009-2010 en el MIT: juegos, rompecabezas y otras cosas para pensar. Un agradecimiento especial a Michele Pratusevich y Vincent Le, así como a Mark Battley.</p>
+</div>
+<div class="section" id="references">
+<h2>Referencias<a class="headerlink" href="#references" title="Enlazar permanentemente con este título">¶</a></h2>
+<p><a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Dimensions">Página Wiki</a></p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Dimensiones</a><ul>
+<li><a class="reference internal" href="#about">Acerca de</a></li>
+<li><a class="reference internal" href="#using-dimensions">Usando Dimensiones</a><ul>
+<li><a class="reference internal" href="#the-basics">Los fundamentos</a></li>
+<li><a class="reference internal" href="#more-details">Más detalles</a></li>
+<li><a class="reference internal" href="#examples-of-valid-matches">Ejemplos de selecciones válidas</a></li>
+<li><a class="reference internal" href="#examples-of-invalid-matches">Ejemplos de partidos no válidos</a></li>
+<li><a class="reference internal" href="#additional-features">Características adicionales</a></li>
+<li><a class="reference internal" href="#other-modes-of-play">Otros modos de juego</a></li>
+<li><a class="reference internal" href="#gallery">Galería</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#learning-with-dimensions">Aprender con Dimensiones</a></li>
+<li><a class="reference internal" href="#extending-dimensions">Extendiendo Dimensiones</a><ul>
+<li><a class="reference internal" href="#exploring-the-math">Exploración de la matemática</a></li>
+<li><a class="reference internal" href="#creating-a-custom-game">Creación de un juego personalizado</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#modifying-dimensions">Modificando Dimensiones</a><ul>
+<li><a class="reference internal" href="#show-me-the-code">Muéstrame el código</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#reporting-problems">Informar de fallos</a></li>
+<li><a class="reference internal" href="#credits">Créditos</a></li>
+<li><a class="reference internal" href="#references">Referencias</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="distance.html" title="Distancia"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="chart.html" title="Graficar"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

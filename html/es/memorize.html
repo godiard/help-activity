@@ -1,0 +1,366 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Memorizar &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Teclado musical" href="musickeyboard.html" />
+    <link rel="prev" title="Medir" href="measure.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="musickeyboard.html" title="Teclado musical"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="measure.html" title="Medir"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="memorize">
+<h1>Memorizar<a class="headerlink" href="#memorize" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Esta actividad permite a los estudiantes a tomar el proceso de aprendizaje en sus propias manos, mientras juegan, pero también crean sus propios juegos. El juego tiene pares correspondientes de tarjetas o bloques en los que se puede hacer clic. Los pares de tarjetas se componen de texto, sonido o imágenes. Los niños dan vuelta las cartas para que coincidan con palabras, palabras y sonidos, palabras e imágenes, o imágenes y sonidos. Hay unos cuantos juegos predeterminados cargados. Estas imágenes, sonidos y texto se pueden extender a animaciones o fragmentos de películas. Los jugadores de Memorizar pueden jugar juntos en diferentes equipos.</p>
+</div>
+<div class="section" id="using-memorize">
+<h2>Utilizando Memorizar<a class="headerlink" href="#using-memorize" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Memorice viene con dos modos, <em>Jugar</em> y <em>Editar juego</em>. En <em>Editar juego</em> tu puedes hacer un nuevo juego Memorizar, o editar uno de los juegos de demostración suministradas.</p>
+<p>En el modo <em>Jugar</em> la actividad tiene tres tipos de fichas para juegos de demostración, Números, Letras y Sonidos. Memorizar soporta <a class="reference internal" href="#sharing"><em>Compartiendo</em></a> así que tu puede jugar con los demás en red.</p>
+<p>La siguiente imagen muestra el demo de Letras siendo seleccionado, y con un juego en progreso. Ten en cuenta que las piezas sin mover, están en dos sets, piezas numeradas con un 1 en la parte superior del tablero de juego, y con un 2 en la parte inferior. Esto se llama <em>Juego de fichas arupadas</em>.</p>
+<blockquote>
+<div><p>(En la demo Sonidos, hay un ejemplo de un  <em>juego desagrupado</em>, es decir, las piezas se distribuyen aleatoriamente sobre el tablero.)</p>
+</div></blockquote>
+<p>El jugador ya ha igualado dos pares, haciendo clic en las piezas. Las piezas que coincidentes se resaltan y una puntuación se muestra en el lado izquierdo. Si el par de piezas no coinciden, se las da vuelta hacia atrás después de un corto período de tiempo, en el que debes intentar memorizarlas.</p>
+<p>Cuando juegas un <em>juego de fichas agrupadas</em>, el indicador estará en la mitad superior del tablero de juego, y la respuesta se oculta bajo una de las plazas en la mitad inferior. Tienes que adivinar donde podría estar la pieza. Mueve el cursor hacia abajo y observa que las filas inferiores son ahora &#8220;resaltadas&#8221; &#8211;Cada plaza se destaca cuando la cruzas. Selecciona tu respuesta. Después de haber hecho algunas conjeturas, tu comenzarás a recordar dónde podrían estar las fichas iguales.</p>
+<img alt="_images/Memorize1.png" src="_images/Memorize1.png" />
+<p>** Barra de herramientas y botones de juego, hacen lo siguiente: **</p>
+<img alt="_images/Memorize1-tb_Play.png" src="_images/Memorize1-tb_Play.png" />
+<ol class="arabic simple">
+<li><p class="first">Barra de Actividad. En el primer campo el nombre del juego. El botón Descripción te permite añadir una descripción para la entrada del <a class="reference internal" href="journal.html"><em>Diario</em></a>. En tercer lugar seleccione Privada o Mi Vecindario, ver <a class="reference internal" href="#sharing"><em>Compartiendo</em></a>.</p>
+</li>
+<li><p class="first">Cargar juego de demo - Selecciona juegos de demostración precargadas de la lista.</p>
+</li>
+<li><p class="first">Selecciona el Tamaño de cuadrícula, 4x4, 5x5 o 6x6.</p>
+</li>
+<li><p class="first">Reiniciar Juego.</p>
+</li>
+<li><p class="first">Este es el boton de cambio a modo <a href="#id1"><span class="problematic" id="id2">*</span></a>Editar juego <a href="#id3"><span class="problematic" id="id4">*</span></a>. Crea un nuevo juego o edita el juego actual.</p>
+</li>
+<li><p class="first">Los iconos del modo <em>Editar juego</em> aparecen en gris.</p>
+</li>
+<li><p class="first">en gris.</p>
+</li>
+<li><p class="first">en gris.</p>
+</li>
+<li><p class="first">Detener o cerrar la Actividad.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="creating-a-game">
+<h2>Creando un Juego<a class="headerlink" href="#creating-a-game" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Al pulsar el botón <em>Editar juego</em>, comienzas la edición del juego existente. Si abres Memorizar desde <em>Reanudar</em>, es decir, desde un archivo con el nombre existente, y pulsas el botón <em>Editar juego</em>, tu vas a cambiar ese archivo, y el archivo antiguo se sobrescribirán en el <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">journal</span></tt>..En este caso se pierde el juego más antiguo.</p>
+<p>Para crear un juego nuevo, abre Memorizar, desde la vista Hogar, seleccionando <em>Comenzar nuevo</em>. Pulse el boton Actividad y escriba un nombre para el juego.</p>
+<p>Memorizar te recordará esta diferencia de comportamiento. Si cambias el nombre de un juego existente, y luego pulsas el botón <em>Borrar todas las piezas</em>, te preguntara <em>¿Quieres... *. Si pulsas *Limpiar</em>, esto sobreescribirá el juego anterior en tu Diario. (No se puede sobrescribir un juego de demo en sí. Los juegos de demostración siempre estarán ahí si decides editar un juego de demostración, y borrar todas sus fichas.)</p>
+<p>Sería bueno que tu tengas algunos archivos de imagen en tu Diario, o en una memoria USB. Si no hay ninguno disponible podrías hacer algo con la actividad Pintar, ve el tutorial más adelante.</p>
+<p>Esta imagen muestra un juego que se está creando. El lado derecho, representa los nuevos contenidos para el tablero de juego. Hasta el momento tenemos Tux y su imagen. El lado izquierdo representa el espacio de trabajo. Una imagen de una puesta de sol ha sido seleccionado de la revista, y el texto &#8220;Sunset&#8221; (&#8216;puesta de sol&#8217; en inglés) se ha entrado en la casilla <em>Texto:</em>. El cursor ha seleccionado * Añadir nuevo par <a href="#id1"><span class="problematic" id="id2">*</span></a>, y cuando se pulsa, el nuevo par se transferirá a la sección de tablero de juego a la derecha.</p>
+<img alt="_images/Memorize2.png" src="_images/Memorize2.png" />
+<p><a href="#id1"><span class="problematic" id="id2">**</span></a>Barra de herramientas y botones en Editar juego hacen lo siguiente: **</p>
+<img alt="_images/Memorize1-tb_Edit.png" src="_images/Memorize1-tb_Edit.png" />
+<ol class="arabic simple">
+<li><p class="first">Barra Actividad, nombre el juego, accede al Diario, para proporcionar una descripción y seleccionar Privado o Mi Vecindario, véase <a class="reference internal" href="#sharing"><em>Compartiendo</em></a>.</p>
+</li>
+<li><p class="first">Los botones del modo <em>Jugar</em> estarán atenuados mientras que estas en modo <em>Editar juego</em>.</p>
+</li>
+<li><p class="first">en gris.</p>
+</li>
+<li><p class="first">en gris.</p>
+</li>
+<li><p class="first">Este botón está marcado para volver al <em>Modo de Juego</em>.</p>
+</li>
+<li><p class="first">Cambiar entre Pares con fichas diferentes , y con fichas idénticas.</p>
+</li>
+<li><p class="first">Cambiar entre juego Agrupado, y juego Desagrupado.</p>
+</li>
+<li><p class="first">Borrar todas las fichas.</p>
+</li>
+<li><p class="first">Detener o cerrar la Actividad.</p>
+</li>
+</ol>
+<table border="1" class="docutils">
+<colgroup>
+<col width="13%" />
+<col width="36%" />
+<col width="16%" />
+<col width="34%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><img alt="icon&lt;&gt;" src="_images/Memorize2_ic_diff.png" /></td>
+<td><p class="first last">Coincidir con diferentes piezas</p>
+</td>
+<td><img alt="icon=" src="_images/Memorize2_ic_eq.png" /></td>
+<td><p class="first last">Emparejar fichas idénticas</p>
+</td>
+</tr>
+<tr class="row-even"><td><img alt="icon1+2" src="_images/Memorize2-ic_1_2.png" /></td>
+<td><p class="first last">Juego de piezas Agrupadas</p>
+</td>
+<td><img alt="icon-gray" src="_images/Memorize2_ic_gray.png" /></td>
+<td><p class="first last">Juego Desagrupado</p>
+</td>
+</tr>
+<tr class="row-odd"><td><img alt="iconCl" src="_images/Memorize2_ic_clear.png" /></td>
+<td><p class="first last">Borrar todas las fichas</p>
+</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>Si nos fijamos en la parte superior de la barra de herramientas en nuestro ejemplo anterior, se verá que este juego es de <em>Seleccionar diferentes piezas</em>  con piezas <em>Desagrupadas</em>.</p>
+<p>En cuanto a la imagen de abajo a partir de la parte superior izquierda, a la derecha, muestra algunos de los pasos en la selección de contenidos para el juego. En la primera imagen <strong>1</strong> dentro del espacio de trabajo estan los botones <em>Añadir item</em>. El botón <em>Insertar imagen</em> se ha utilizado para abrir el Diario, y seleccionar una imagen de Tux.</p>
+<p>Siguiente <strong>2</strong> el texto &#8220;Tux&#8221; se ha introducido en el cuadro de texto, y también el botón <em>Hablar</em> fue seleccionado. Ahora, las dos fichas están listas para <em>Agregar nuevo par</em> a la sección de tablero de juego a la derecha.</p>
+<p>Con todas las imágenes cargadas <strong>3</strong> pulsa <em>Jugar</em>, el cursor revela <em>Jugar</em>. La imagen final <strong>4</strong> se muestra jugando el juego. Ten en cuenta que cuando se ha seleccionado el botón <em>Decir texto</em> los ojos de &#8220;Hablar&#8221; se mostrarán al jugar.</p>
+<img alt="_images/Memorize1comp.png" src="_images/Memorize1comp.png" />
+<p><strong>Los botones Agregar item, dentro del espacio de trabajo:</strong></p>
+<p>Esta imagen muestra sólo el lado izquierdo de la pantalla, el espacio de trabajo.</p>
+<img alt="_images/Memorize2-add_contents.png" src="_images/Memorize2-add_contents.png" />
+<p>La vista previa mostrará la nueva pieza, así, sin contenido, o con lo que se ha seleccionado.</p>
+<p>Se puede introducir texto directamente en el cuadro <em>Texto:</em>.</p>
+<ol class="arabic simple">
+<li><p class="first">Insertar imagen, abre el Diario o dispositivos conectados en busca de una imagen.</p>
+</li>
+<li><p class="first">Insertar archivo de sonido, abre el Diario o dispositivos conectaados en la búsqueda de archivos de audio.</p>
+</li>
+<li><p class="first">Pronuncia texto cuando se gira la pieza</p>
+</li>
+<li><p class="first">Selecciona la tipografía.</p>
+</li>
+<li><p class="first"><em>Añadir:</em> Esto agregará el &#8220;par&#8221; actual en el espacio de trabajo, a la sección de tablero de juego a la derecha.</p>
+</li>
+<li><p class="first"><em>Actualización:</em> Esto traerá un par seleccionado, desde la sección de tablero de juego a la derecha, de nuevo en el espacio de trabajo, donde se pueden hacer cambios.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="tutorials">
+<h2>Tutoriales<a class="headerlink" href="#tutorials" title="Enlazar permanentemente con este título">¶</a></h2>
+</div>
+<div class="section" id="create-a-color-game">
+<h2>Crear un juego con colores<a class="headerlink" href="#create-a-color-game" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>En este tutorial, aprenderás cómo crear y reproducir un juego con colores en la   Actividad Memorizar. Se trata de un juego de <em>Selección de fichas idénticas</em>. Tu aprenderás cómo agregar una imagen y añadir texto.</p>
+<p>Antes de comenzar, crea ocho rellenos de color utilizando la actividad Pintar. En Pintar, utiliza la herramienta Balde para llenar todo el espacio con un color, y nombra la imágen con el color correspondiente al guardar la imagen. La imagen en color grabada en la actividad Pintar tiene forma rectangular. La actividad Memorizar utiliza una imagen cuadrada alineada desde la parte superior izquierda.</p>
+<ol class="arabic simple">
+<li><p class="first">Abre Memorizar, desde la vista Hogar, con la opción <em>Empezar nuevo</em>. (Si abres Memorizar con <em>Reanudar</em> en tu Diario, es decir, una entrada con nombre existente, vas a cambiar ese archivo, y el archivo antiguo será sobrescrito en el Diario).</p>
+</li>
+<li><p class="first">Pulse el botón Actividad.</p>
+</li>
+<li><p class="first">Escribe un nombre para este juego.</p>
+</li>
+<li><p class="first">Haz clic en el botón <em>Editar juego</em>.</p>
+</li>
+<li><p class="first">Pulse <a href="#id1"><span class="problematic" id="id2">*</span></a>Iguala fichas idénticas <a href="#id3"><span class="problematic" id="id4">*</span></a>.</p>
+</li>
+<li><p class="first">Pulse para elegir entre un <em>Juego de fichas agrupadas</em> o un <em>Juego de fichas mixtas</em> (desagrupadas).</p>
+</li>
+<li><p class="first">Inserta las imágenes y el texto como este:</p>
+</li>
+</ol>
+<p>Trabaja en el espacio de trabajo, que ahora sólo tienen un panel de fichas,</p>
+<blockquote>
+<div><ul class="simple">
+<li><p class="first">Haz click en  <em>Insertar imagen</em>.</p>
+</li>
+<li><p class="first">Selecciona y haz clic en el archivo de imagen con el color desde el Diario.</p>
+</li>
+<li><p class="first">Escribe el nombre del color que acabas de elegir en la caja <em>Texto:</em>.</p>
+</li>
+<li><p class="first">Haz click en <em>Anadir nuevo par</em>. Un nuevo par de fichas se muestran en el lado derecho, la sección de tablero.</p>
+</li>
+<li><p class="first">Repite los pasos hasta que se agregan todos los pares.</p>
+</li>
+</ul>
+</div></blockquote>
+<p>Ahora, para jugar el juego, haz clic en el botón <em>Jugar</em>.</p>
+</div>
+<div class="section" id="create-a-sound-game">
+<h2>Crear un juego con Sonidos<a class="headerlink" href="#create-a-sound-game" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>En este tutorial, aprenderás cómo crear y jugar un juego con la Actividad Memorizar con imágenes y sonidos. Las piezas se agrupan por lo que todas las piezas con imágenes estan numeradas con &#8216;1&#8217;, mientras que las piezas con los sonidos están numeradas con &#8216;2&#8217;. Aprenderás cómo agregar una imagen y cargar un sonido. Antes de comenzar, graba ocho fotografías con la actividad Navegar y ocho archivos de sonido correspondientes. Los archivos pueden estar en una memoria USB o en tu Diario.</p>
+<ol class="arabic simple">
+<li><p class="first">Abre Memorizar, desde la vista Hogar, con la opción <em>Empezar nuevo</em>.</p>
+</li>
+<li><p class="first">Pulse el botón Actividad.</p>
+</li>
+<li><p class="first">Escribe un nombre para este juego.</p>
+</li>
+<li><p class="first">Haz clic en <em>Juego de piezas agrupadas</em>.</p>
+</li>
+<li><p class="first">Haz clic en <em>Igualar fichas diferentes</em>.</p>
+</li>
+</ol>
+<p>Trabaja en el espacio de trabajo, ahora con dos paneles de fichas.</p>
+<dl class="docutils">
+<dt>En el primer panel de ficha:</dt>
+<dd><ul class="first last simple">
+<li><p class="first">Inserta un archivo de imagen como lo haz hecho anteriormente. Si agregas texto también se imprimirá sobre tu imagen.</p>
+</li>
+</ul>
+</dd>
+<dt>En el panel de la segunda ficha:</dt>
+<dd><ul class="first last simple">
+<li><p class="first">Haz click en <em>Insertar sonido</em>. Selecciona desde el Diario o dispositivos donde se almacenan los archivos de sonido.</p>
+</li>
+<li><p class="first">Selecciona y haz click en el nombre del archivo.</p>
+</li>
+<li><p class="first">Haz clic en <em>Añadir nuevo par</em>. La nueva pareja de fichas se muestran en el lado derecho.</p>
+</li>
+</ul>
+</dd>
+</dl>
+<p>Repite los pasos hasta que se agregan todos los pares.</p>
+<p>Ahora, para jugar el juego, haz clic en el botón <em>Jugar</em>.</p>
+</div>
+<div class="section" id="create-a-spelling-game">
+<h2>Crea un juego de ortografía<a class="headerlink" href="#create-a-spelling-game" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>En primer lugar crea una lista de palabras.</p>
+<ol class="arabic simple">
+<li><p class="first">Abre la Actividad Grabar.</p>
+</li>
+<li><p class="first">Seleccione el botón Audio de Grabar.</p>
+</li>
+<li><p class="first">Establece la duración (en la esquina superior derecha de la interfaz de Grabar) a, por ejemplo, 15 segundos.</p>
+</li>
+<li><p class="first">Haz click en el botón de grabación.</p>
+</li>
+<li><p class="first">Di la primera palabra de tu lista de ortografía.</p>
+</li>
+<li><p class="first">Haz clic en el botón Grabar.</p>
+</li>
+<li><p class="first">Espera, mientras que laa actividad Grabar almacena tu clip de sonido.</p>
+</li>
+<li><p class="first">Haz click en el botón de grabación.</p>
+</li>
+<li><p class="first">Di la palabra siguiente en tu lista.</p>
+</li>
+<li><p class="first">Haz click en el botón Grabar para guardar el clip.</p>
+</li>
+<li><p class="first">Graba y guarda el resto de las palabras de tu lista de ortografía.</p>
+</li>
+</ol>
+<p>Ahora en Memorizar.</p>
+<ol class="arabic simple">
+<li><p class="first">Abre Memorizar, desde la vista Hogar, con la opción <em>Empezar nuevo</em>.</p>
+</li>
+<li><p class="first">Pulse el botón Actividad.</p>
+</li>
+<li><p class="first">Escribe un nombre para este juego.</p>
+</li>
+<li><p class="first">Selecciona <em>Editar juego</em>.</p>
+</li>
+<li><p class="first">Haz clic en <em>Juego Desagrupado</em></p>
+</li>
+<li><p class="first">Haz clic en <em>Igualar fichas diferentes</em>.</p>
+</li>
+<li><p class="first">Usa <em>Insertar sonido</em> para agregar tu primera grabación a la primera pieza. En la segunda pieza ingresa la palabra para que coincida con el archivo de sonido.</p>
+</li>
+<li><p class="first">Continúa agregando sonidos en la primer pieza, con las palabras en la segunda pieza.</p>
+</li>
+</ol>
+<p>Repite los pasos hasta que se agregan todos los pares.</p>
+<p>Ahora, para jugar el juego, haz clic en el botón <em>Jugar</em>.</p>
+</div>
+<div class="section" id="sharing">
+<span id="id1"></span><h2>Compartiendo<a class="headerlink" href="#sharing" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Para jugar estos juegos con usuarios en más de una XO, con lo que el turno se mueve de un usuario a otro, cuando un usuario no puede selecciónar un par:</p>
+<ol class="arabic simple">
+<li><p class="first">Abra la actividad Memorizar y cargar el juego que deseas compartir en la XO principal</p>
+</li>
+<li><p class="first">Haz clic en el botón Actividad y haz clic en el botón Hogar <img alt="Home_key_f3_small" src="_images/Home_key_f3_small.png" /> de modo que se convierte en el botón de Mi Vecindario <img alt="Neighborhood_key" src="_images/Neighborhood_key_sml.png" /></p>
+</li>
+<li><p class="first">Todos los otros XO verán el icono de actividad Memorizar cerca de tu símbolo XO en su Vista Vecindario.</p>
+</li>
+<li><p class="first">A continuación, ellos pueden unirse a la actividad moviendo su cursor sobre el icono del juego.</p>
+</li>
+</ol>
+<p><img alt="more" src="_images/more.png" /> Para más información, consulte la página : doc:<cite>/collaborating</cite></p>
+</div>
+<div class="section" id="extending">
+<h2>Extensión<a class="headerlink" href="#extending" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Hay un amplio conjunto de oportunidades para extender estos juegos. Memorizar podría ser utilizado en la historia, la biología, la música, la ciencia, la lectura temprana, las matemáticas y otros. Los objetos multimedia disponibles en Sugar, como archivos sonoros e imágenes, así como todos los medios de objetos disponibles por transferencia desde un USB, o internet, hacen que este juego puede ser de gran alcance en muchos ámbitos educativos.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Memorizar</a><ul>
+<li><a class="reference internal" href="#about">Acerca de</a></li>
+<li><a class="reference internal" href="#using-memorize">Utilizando Memorizar</a></li>
+<li><a class="reference internal" href="#creating-a-game">Creando un Juego</a></li>
+<li><a class="reference internal" href="#tutorials">Tutoriales</a></li>
+<li><a class="reference internal" href="#create-a-color-game">Crear un juego con colores</a></li>
+<li><a class="reference internal" href="#create-a-sound-game">Crear un juego con Sonidos</a></li>
+<li><a class="reference internal" href="#create-a-spelling-game">Crea un juego de ortografía</a></li>
+<li><a class="reference internal" href="#sharing">Compartiendo</a></li>
+<li><a class="reference internal" href="#extending">Extensión</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="musickeyboard.html" title="Teclado musical"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="measure.html" title="Medir"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

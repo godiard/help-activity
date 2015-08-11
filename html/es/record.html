@@ -1,0 +1,294 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Grabar &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Hablar" href="speak.html" />
+    <link rel="prev" title="Leer" href="read.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="speak.html" title="Hablar"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="read.html" title="Leer"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="record">
+<h1>Grabar<a class="headerlink" href="#record" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>La actividad Grabar se utiliza para la grabación de audio y vídeo y para la toma de fotografías. Necesitas tener un micrófono interno, o externo y / o una cámara para usar Grabar.</p>
+<p>Si tu equipo no tiene cámara incorporada, o una cámara conectada, entonces Grabar, se abrirá en modo de <em>grabación de audio</em> unicamente.</p>
+</div>
+<div class="section" id="quick-start">
+<h2>Inicio rápido<a class="headerlink" href="#quick-start" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Hay tres modos de grabación o captura. Seleccione <strong>uno</strong> de estos botones para elegir el modo de grabación.</p>
+<img alt="_images/Record0.png" src="_images/Record0.png" />
+<p>La imagen de arriba muestra los botones de los tres modos de <em>Grabar</em>, que son:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p class="first">El modo de cámara de fotos</p>
+</li>
+<li><p class="first">El modo de cámara de vídeo</p>
+</li>
+<li><p class="first">Audio, o el modo de sonido</p>
+</li>
+</ul>
+</div></blockquote>
+<p>Este es el botón de captura <img alt="Capture" src="_images/button.png" /> en el centro de la pantalla, bajo la <em>Imagen principal</em>.</p>
+<p>La imagen principal muestra lo que se va a capturar. Grabar captura lo que está en frente de la cámara en el modo de <em>Cámara de fotos</em> o <em>Cámara de vídeo</em>, y capturará cualquiera lo que el micrófono puede detectar, cuando en esté en <em>Modo de Audio</em>.</p>
+<blockquote>
+<div><p>** Tip ** Como siempre en Sugar, si no estás seguro de lo que va a hacer un botón, sitúa el cursor sobre él, para revelar su función.</p>
+</div></blockquote>
+</div>
+<div class="section" id="record-features-in-detail">
+<h2>Características de Grabar en detalle<a class="headerlink" href="#record-features-in-detail" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Record1still.png" src="_images/Record1still.png" />
+<p><strong>Barra de herramientas de captura y botones explicados</strong></p>
+<ol class="arabic simple">
+<li><p class="first">Barra de Actividad. En el primer campo el nombre de la página o proyecto. El botón Descripción te permite añadir una descripción para la entrada en el  <a class="reference internal" href="journal.html"><em>Diario</em></a>. En tercer lugar selecciona Privado o Mi Vecindario, ver: <a class="reference internal" href="#sharing-media"><em>Compartiendo multimedia</em></a>.</p>
+</li>
+<li><p class="first">Se selecciona el modo de cámara de imagen.</p>
+</li>
+<li><p class="first">Boton de modo cámara de video. Pulsa para cambiar al modo de cámara de vídeo.</p>
+</li>
+<li><p class="first">Botón de modo de grabación de audio. Pulse para cambiar al modo de grabación de audio.</p>
+</li>
+<li><p class="first">Botón de seleccion del temporizador. Presiona este botón para activar un retraso antes de tomar una fotografía. Las opciones disponibles de retardo son, <em>inmediato</em>, <em>5 segundos</em>, o <em>10 segundos</em>.</p>
+</li>
+<li><p class="first">Botón de selección de duración. La duración aparece en gris en el modo de <em>cámara de fotos</em>. En el modo de <em>Vídeo</em> y en el modo de <em>Audio</em> presiona para <em>Seleccionar la duración</em>. Las opciones de duración disponibles son 2, 4, 6 minutos.</p>
+</li>
+<li><p class="first">Botón de seleccion de calidad. El botón está en gris en el modo <em>cámara de fotos</em> y en el modo <em>Audio</em>. En el modo de cámara de vídeo, pulsa este botón para seleccionar alta o baja calidad. Experimenta y elige el que de los mejores resultados en tus condiciones.</p>
+</li>
+<li><p class="first">Esta imagen representa una imagen ya tomada. Está en el área de la pantalla llamada la <em>bandeja</em>, que contiene imágenes en miniatura.</p>
+</li>
+<li><p class="first">El botón de grabación o captura. Una vez que una imagen, video o grabación de audio ha sido capturado, se guarda automaticamente en el Diario, y la imagen guardada o clip se representa como una miniatura en la bandeja.</p>
+</li>
+<li><p class="first">Cuando la bandeja está llena de imágenes, este botón permite desplazarse por las imágenes.</p>
+</li>
+<li><p class="first">Detener o cerrar la aplicación.</p>
+</li>
+</ol>
+<p>La siguiente sección cubre el modo de vídeo de la cámara, y luego la grabación de audio en detalle más específico. Sin embargo ahora si lo prefieres, puede seguir a <a class="reference internal" href="#viewing-saving-and-managing-your-work"><em>Visualización, grabación y organización de tu trabajo</em></a>.</p>
+</div>
+<div class="section" id="video-camera">
+<h2>Cámara de video<a class="headerlink" href="#video-camera" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Record2video.png" src="_images/Record2video.png" />
+<p><strong>Barra de herramientas de captura y botones explicados</strong></p>
+<ol class="arabic simple">
+<li><p class="first">Barra de Actividad. Aquí puedes introducir un nombre para el proyecto, acceder a el Diario, para proporcionar una descripción y seleccione Privada o Mi Vecindario, ver <a class="reference internal" href="#sharing-media"><em>Compartiendo multimedia</em></a>.</p>
+</li>
+<li><p class="first">Botón modo de cámara de fotos. Pulsa para cambiar al modo de cámara de fotos.</p>
+</li>
+<li><p class="first">Esta seleccionado el botón de modo de cámara de video, y se ha iniciado la captura o registro.</p>
+</li>
+<li><p class="first">Botón de modo de grabación de audio. Pulse para cambiar al modo de grabación de audio.</p>
+</li>
+<li><p class="first">Botón de selección de temporizador. Pulsa este botón para establecer un retraso antes de la captura, las opciones de retardo disponibles son, Inmediato, 5 segundos o 10 segundos.</p>
+</li>
+<li><p class="first">Botón de selección de duración. En el modo de <em>Vídeo</em> y en el modo de <em>Audio</em> , presione para <em>Seleccionar la duración</em>. Las opciones de duración disponibles son 2, 4 y 6 minutos.</p>
+</li>
+<li><p class="first">Botón Seleccionar calidad. En el modo de cámara de vídeo, pulse este botón para seleccionar alta o baja calidad. Experimenta y elige el que da los mejores resultados en tus condiciones.</p>
+</li>
+<li><p class="first">Grabar esta en modo <em>Compartir</em>, y hemos estado unidos con un colaborador.</p>
+</li>
+<li><p class="first">La imagen, que la otra parte ha compartido está en la bandeja, identificada por sus colores característicos. Ver también <a class="reference internal" href="#sharing-media"><em>Compartiendo multimedia</em></a>.</p>
+</li>
+<li><p class="first">Barra de Tiempo restante. Este es el tiempo que queda, con el * Temporizador de duración <em>, configurado en **6*</em>.</p>
+</li>
+<li><p class="first">El botón para detener la captura y para guardar el archivo de vídeo. Una vez que una grabación ha sido capturada, se guarda automaticamente en el Diario.</p>
+</li>
+<li><p class="first">Cuando termine de grabar, el videoclip guardado estará representado por una miniatura.</p>
+</li>
+<li><p class="first">Cuando la bandeja está llena de imágenes, este botón permite desplazarse por las imágenes.</p>
+</li>
+<li><p class="first">Detener o cerrar la aplicación.</p>
+</li>
+</ol>
+<p>La siguiente sección es la grabación de audio. Sin embargo ahora si lo prefieres, puedes seguir a <a class="reference internal" href="#viewing-saving-and-managing-your-work"><em>Visualización, grabación y organización de tu trabajo</em></a>.</p>
+</div>
+<div class="section" id="audio">
+<h2>Audio<a class="headerlink" href="#audio" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Record3audio.png" src="_images/Record3audio.png" />
+<p><strong>Barra de herramientas de captura y botones explicados</strong></p>
+<p>Los elementos de la barra de herramientas son los que se describieron anteriormente.</p>
+<p>Siempre es una buena idea para introducir un nombre para el archivo <strong>1</strong> en la barra de Actividad, de modo que sea más fácil encontrar tu obra posteriormente.</p>
+<p>Si tienes una cámara, una imagen <strong>2</strong> aparecerá en la ventana de la imagen y se verá como vídeo en directo. Cuando se guarda el archivo de audio, la imagen se guarda como una instantánea para ayudar a identificar tu grabación de audio.</p>
+<p>Los botones Seleccionar temporizador y duración del temporizador <strong>3</strong> están disponibles, para establecer un retraso antes de inicio de la grabación, y ajustar la duración. Puedes dejar bien la grabación de audio en marcha durante el período de tiempo establecido, o pulsar el botón de parar captura <strong>4</strong> en cualquier momento.</p>
+<p>Al igual que con los modos de fotografía y vídeo, verás un icono de la grabación <strong>5</strong> aparecer en la bandeja una vez que hayas terminado.</p>
+</div>
+<div class="section" id="viewing-saving-and-managing-your-work">
+<span id="id1"></span><h2>Visualización, grabación y organización de tu trabajo<a class="headerlink" href="#viewing-saving-and-managing-your-work" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Mirando en el sentido de las agujas del reloj desde la parte superior izquierda, se muestra la secuencia, para grabar, nombrar, e inspeccionar una imagen una vez que se ha tomado. Esta secuencia se toma en modo <em>cámara de fotos</em>, pero las características son similares en todos los modos.</p>
+<img alt="_images/Record1composite.png" src="_images/Record1composite.png" />
+<p>La primera captura de pantalla, arriba a la izquierda, muestra la imagen principal en el modo de cámara de imagen, mientras que una imagen, que se acaba de tomar, se ha guardado y nombrado de forma automática en el Diario. Se muestra como una miniatura en la bandeja. El cursor está posado sobre la miniatura.</p>
+<p>Cuando hacemos clic en la miniatura, laimagen principal cambia a modo de <em>visualización</em>. Las imágenes se visualizan y la información puede ser actualizada.</p>
+<p>Un campo en el que se introduce un título para la foto aparece en <strong>2</strong>. También bajo el punto <strong>2</strong> está el botón de modo de pantalla completa. Esto cambiará la imagen principal a pantalla completa.</p>
+<p>En la parte inferior derecha de la imagen principal hay una pequeña pestaña, <strong>3</strong>, que te permite saber más acerca de la foto que se tomó. Al presionar esa pestaña <strong>4</strong> se revela la información de la imagen, el autor, la fecha, y un espacio para agregar etiquetas. Una etiqueta es una palabra que ayuda a categorizar un artículo.</p>
+<p>La bandeja muestra un historial de tus fotos tomadas anteriormente. Cuando tienes más fotos en la bandeja en el botón de desplazamiento <em>5</em> se desplaza por las imágenes.</p>
+<p>Para reproducir un video o grabación de audio, haz clic en la miniatura de la grabación en la bandeja. Al ver o escuchar un clip, si mueves el cursor en la zona principal de la imagen, se ve pequeña ventana <strong>6</strong>, que representa la salida de la cámara o micrófono. Haz clic en la ventana para volver del modo <em>visualización</em> al modo de <em>captura</em>.</p>
+<p>La imagen final se mostrará en pantalla completa, y se puede reducir a la normalidad con el botón <strong>7</strong>.</p>
+<p>Grabar almacena imágenes y audio en el Diario, que pueden ser utilizados por otras actividades, como Pintar, Escribir, Etoys y Navegar, así como Memorizar y algunos otros juegos. Las imágenes se pueden copiar en un dispositivo de almacenamiento USB desde el Diario.</p>
+</div>
+<div class="section" id="sharing-media">
+<span id="id2"></span><h2>Compartiendo multimedia<a class="headerlink" href="#sharing-media" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Puedes compartir fotos, videos y grabaciones de audio (estos pueden ser referidos como &#8220;medios de comunicación&#8221;) con tus amigos.</p>
+<img alt="_images/Record4.png" src="_images/Record4.png" />
+<p>Para compartir los medios de comunicación, primero debes tener algunos medios de comunicación en la bandeja. Tenemos la imagen de un bisonte en la bandeja.</p>
+<p>La ficha Actividad se ha abierto, se pulsa el botón collaboración y se ha seleccionado &#8220;Mi Vecindario&#8221;.</p>
+<div class="section" id="share-and-join-record">
+<h3>Compartir y unirse a Grabar<a class="headerlink" href="#share-and-join-record" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/Record5.png" src="_images/Record5.png" />
+<p>Una vez que haz hecho tu actividad disponible para compartir, los demás, mirando a su Vista de Vecindario, verán tu icono con el icono de Grabar, un ojo, cerca de el. Ahora pueden unirse a tu actividad haciendo clic en el icono de Grabar junto a tu icono.</p>
+<p>A continuación, debe seleccionar &#8220;Unir&#8221; y su actividad Grabar se abre con tus imágenes en su bandeja.</p>
+<p>Ahora en Grabar, las miniaturas de las dos partes se comparten. El marco de la miniatura se muestra con los mismos colores que el icono de XO de la persona que tomó la foto.</p>
+</div>
+<div class="section" id="images-shared">
+<h3>Imágenes compartidas<a class="headerlink" href="#images-shared" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/Record6.png" src="_images/Record6.png" />
+<p>En tu marco, se pueden ver los iconos de todas las personas con las que estás colaborando. También puedes ver sus medios compartidos.</p>
+<p>Puedes salir de una actividad compartida en cualquier momento.</p>
+<p><img alt="more" src="_images/more.png" /> <a class="reference internal" href="collaborating.html"><em>Colaborando</em></a> tiene más información sobre cómo compartir el trabajo en Sugar.</p>
+</div>
+</div>
+<div class="section" id="getting-creative-with-record">
+<h2>Siendo creativo con Grabar<a class="headerlink" href="#getting-creative-with-record" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Grabar se puede utilizar para:</p>
+<ul class="simple">
+<li><p class="first">Tomar fotos.</p>
+</li>
+<li><p class="first">Grabación de vídeo.</p>
+</li>
+<li><p class="first">Grabación de audio.</p>
+</li>
+<li><p class="first">Fotografía Stop-motion.</p>
+</li>
+<li><p class="first">Fotografía con períodos de tiempo.</p>
+</li>
+<li><p class="first">Creación de panorámicas de 360°</p>
+</li>
+<li><p class="first">Visualización de presentaciones de diapositivas.</p>
+</li>
+<li><p class="first">Almacenamiento de información adicional sobre audio, vídeo e imágenes.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="things-to-try-with-record">
+<h2>Pruebas a realizar con Grabar<a class="headerlink" href="#things-to-try-with-record" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Puede tomar fotos y hacer videos con la cámara incluida, o una conectada. También puede utilizar la cámara para videoconferencias, que consiste en hablar con otras personas en una pantalla de vídeo a sabiendas de que los demás también pueden ver el vídeo.</p>
+<p>Puedes expresarte con sonido, imágenes y vídeo utilizando las cámaras y micrófonos. Estarás aprendiendo acerca de la luz, las observaciones, el ángulo y perspectiva. Mediante el registro de las vistas y los sonidos a tu alrededor, otros pueden aprender acerca de ti, ttu cultura, y medio ambiente. Puede comunicarse con tu voz y fotos. Puede contar historias reales o historias emocionantes con película o fotos para ayudar a cambiar las percepciones o tomar medidas.</p>
+<p>También puedes probar algunos de los siguientes:</p>
+<ul class="simple">
+<li><p class="first">Utilize la Actividad Grabar para grabar tu voz con un micrófono incorporado.</p>
+</li>
+<li><p class="first">Toma una foto del lugar donde vives apuntando la lente de la cámara a su casa, y luego haciendo clic en el icono del círculo.</p>
+</li>
+<li><p class="first">Grabar sonidos de tu ciudad o pueblo.</p>
+</li>
+<li><p class="first">Graba y deja mensajes para tu familia.</p>
+</li>
+<li><p class="first">Profesores - graba un mensaje para los padres.</p>
+</li>
+<li><p class="first">Entrevista a tus amigos y grabalo en audio o vídeo.</p>
+</li>
+<li><p class="first">Haz un video-diario.</p>
+</li>
+<li><p class="first">Abre tus fotos en la actividad Pintar y dibuja sobre ellas.</p>
+</li>
+<li><p class="first">Añade tus fotos a una historia usando Escribir.</p>
+</li>
+<li><p class="first">Sube una foto a Flickr o a Wikimedia Commons.</p>
+</li>
+<li><p class="first">Adjunta una imagen a un correo electrónico que envíes a un amigo o miembro de la familia.</p>
+</li>
+<li><p class="first">Tome una fotografía de una flor o de una planta del mismo lugar todos los días para mostrar cómo cambia.</p>
+</li>
+<li><p class="first">Toma una fotografía de un animal bebé cada semana para mostrar cómo crece.</p>
+</li>
+</ul>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Grabar</a><ul>
+<li><a class="reference internal" href="#about">Acerca de</a></li>
+<li><a class="reference internal" href="#quick-start">Inicio rápido</a></li>
+<li><a class="reference internal" href="#record-features-in-detail">Características de Grabar en detalle</a></li>
+<li><a class="reference internal" href="#video-camera">Cámara de video</a></li>
+<li><a class="reference internal" href="#audio">Audio</a></li>
+<li><a class="reference internal" href="#viewing-saving-and-managing-your-work">Visualización, grabación y organización de tu trabajo</a></li>
+<li><a class="reference internal" href="#sharing-media">Compartiendo multimedia</a><ul>
+<li><a class="reference internal" href="#share-and-join-record">Compartir y unirse a Grabar</a></li>
+<li><a class="reference internal" href="#images-shared">Imágenes compartidas</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#getting-creative-with-record">Siendo creativo con Grabar</a></li>
+<li><a class="reference internal" href="#things-to-try-with-record">Pruebas a realizar con Grabar</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="speak.html" title="Hablar"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="read.html" title="Leer"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

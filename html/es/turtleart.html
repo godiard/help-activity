@@ -1,0 +1,669 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Turtle Art &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Bloques de Tortugas 3D" href="turtleblocks3d.html" />
+    <link rel="prev" title="Terminal" href="terminal.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="turtleblocks3d.html" title="Bloques de Tortugas 3D"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="terminal.html" title="Terminal"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="turtle-art">
+<h1>Turtle Art<a class="headerlink" href="#turtle-art" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Activity-Turtle_Art.png" src="_images/Activity-Turtle_Art.png" />
+<p>TortugArte, también conocido como TurtleArt o TurtleBlocks, es una actividad inspriada en Logo con una &#8220;tortuga&#8221; gráfica que dibuja arte colorido basado en programación visual de elementos que se encajan. Su &#8220;piso bajo&#8221; ofrece un punto de entrada fácil para los principiantes. También tiene &#8220;alto techo&#8221; con características de programación, gráficos, matemáticas y Ciencias de la Computación que desafiará al estudiante más aventurero.</p>
+</div>
+<div class="section" id="where-to-get-turtle-art">
+<h2>Dónde obtener Turtle Art<a class="headerlink" href="#where-to-get-turtle-art" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Está incluido en la imagen de la OLPC, y se puede descargar desde el <a class="reference external" href="http://activities.sugarlabs.org/en-US/sugar/addon/4027">repositorio de actividades de Sugar</a></p>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Hay dos programas compatibles: Turtle Art y Turtle Blocks. Turtle Art, que se asemeja mucho a la versión Java de Turtle Art mantenido por Brian Silverman, ofrece un pequeño subconjunto de la funcionalidad de los bloques de la tortuga. Turtle Blocks es la versión incluida en la distribución de Sugar. Usuarios de Sugar probablemente quieren usar Turtle Blocks en lugar de Turtle Art. (Véase también &#8216;La confusión de la tortuga&#8217;, una colección de retos de programación diseñada por Barry Newell.)</p>
+</div>
+</div>
+<div class="section" id="using-turtle-art">
+<h2>Utilizando Turtle Art<a class="headerlink" href="#using-turtle-art" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/300px-Screenshot_of_Turtle_Art_Activity_getting_started.png" src="_images/300px-Screenshot_of_Turtle_Art_Activity_getting_started.png" />
+<p>Comienze haciendo clic en (o arrastrando) cuadras de la paleta de la tortuga. Utilize múltiples bloques para crear dibujos; cuando la tortuga se mueve bajo tu control, se dibujan líneas de colores.</p>
+<p>Tu agregas bloques a tu programa haciendo clic en o arrastrándolos desde la paleta a la zona principal. Puedes eliminar un bloque arrastrándolo de nuevo a la paleta. Haz clic en cualquier lugar de una &#8220;pila&#8221; de bloques para iniciar la ejecución de esa pila o haciendo clic en los botones del conejo (rápido), la tortuga (lento) o insecto (depuración) <a href="#id1"><span class="problematic" id="id2">|rabit-tortuga|</span></a> en la barra de herramientas del proyecto.</p>
+</div>
+<div class="section" id="toolbars">
+<h2>Barras de herramientas<a class="headerlink" href="#toolbars" title="Enlazar permanentemente con este título">¶</a></h2>
+<div class="section" id="main-toolbar">
+<h3>Barra de herramientas principal<a class="headerlink" href="#main-toolbar" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAmain.png" src="_images/TAmain.png" />
+<p>De izquierda a derecha:</p>
+<ul class="simple">
+<li><p class="first">Barra de herramientas de actividad (incluye compartir; opciones de guardar / cargar);</p>
+</li>
+<li><p class="first">Barra de herramientas Editar (incluyendo copiar y pegar);</p>
+</li>
+<li><p class="first">Barra de herramientas Ver (incluyendo pantalla completa, coordinar superposiciones; situación de la tortuga, etc.. );</p>
+</li>
+<li><p class="first">Barra de herramientas Paleta (incluyendo todos los bloques de programación);</p>
+</li>
+<li><p class="first">borrar el dibujo;</p>
+</li>
+<li><p class="first">ejecución rápida de proyecto (conejo);</p>
+</li>
+<li><p class="first">ejecución lenta de proyecto (caracol);</p>
+</li>
+<li><p class="first">abandonar de proyecto;</p>
+</li>
+<li><p class="first">guardar una instantánea (guardar una copia del estado actual del proyecto);</p>
+</li>
+<li><p class="first">cargar ejemplos;</p>
+</li>
+<li><p class="first">Mostrar paleta de ayuda;</p>
+</li>
+<li><p class="first">parar actividad</p>
+</li>
+</ul>
+<p>Atajos de teclado para lo anterior: Alt+ paleta; bloques; ejecutar; paso a paso; detener; borrar; ej. Alt+e borrará la pantalla. Esc volverá desde el modo de pantalla completa.</p>
+<p><strong>Notas:</strong> Los botones de ejecución están vinculados al bloque de inicio. Si no se utiliza un bloque de inicio, entonces, todos los bloques se ejecutan cuando se hace clic en cualquiera de los botones de ejecución. El botón de &#8220;conejo&#8221; ejecuta los bloques a la máxima velocidad. El botón &#8220;caracol&#8221; pausa y muestra la tortuga y los valores de bloque en cada paso.</p>
+<p>En versiones anteriores de Sugar (ej. 0.84), la barra de herramientas principal se verá así:</p>
+<img alt="_images/TA0.84.png" src="_images/TA0.84.png" />
+</div>
+<div class="section" id="project-toolbar">
+<h3>Barra de herramientas Proyecto<a class="headerlink" href="#project-toolbar" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TurtleBlocks_Toolbar_1.png" src="_images/TurtleBlocks_Toolbar_1.png" />
+<p>De izquierda a derecha:</p>
+<ul class="simple">
+<li><p class="first">Título del proyecto;</p>
+</li>
+<li><p class="first">Escribir al Diario (en las versiones más recientes de Sugar)</p>
+</li>
+<li><p class="first">Botón Guardar (no se muestra; sólo aparece en sistemas de Sugar más antiguos)</p>
+</li>
+<li><p class="first">Botón Compartir;</p>
+</li>
+<li><p class="first">Compartir Bloques; se muestra en el estado desactivado. Se utiliza para compartir pilas de bloques entre colaboradores.</p>
+</li>
+<li><p class="first">Guardar como imagen;</p>
+</li>
+<li><p class="first">Guardar como Logo;</p>
+</li>
+<li><p class="first">Cargar un proyecto guardado previamente del Diario;</p>
+</li>
+<li><p class="first">Cargar código Python en un bloque programable</p>
+</li>
+</ul>
+<dl class="docutils">
+<dt><strong>Notas:</strong></dt>
+<dd><ul class="first last simple">
+<li><p class="first">En los sistemas Sugar más antiguos, estos controles aparecen en la barra de herramientas de Importación y Exportación.</p>
+</li>
+<li><p class="first">En las pantallas de menor tamaño, los botones cargar / guardar se muestran en una paleta.</p>
+</li>
+<li><p class="first">Para compartir una pila, haz clic en el botón de compartir. El cursor cambiará a la forma de la mano Ta-hand-cursor.png. Coloca el cursor en cualquier bloque o grupo de bloques y haz clic. Los bloques serán compartidos y el cursor se cambiará a la forma de flecha.</p>
+</li>
+</ul>
+</dd>
+</dl>
+<img alt="_images/TurtleBlocks_Toolbar_1a.png" src="_images/TurtleBlocks_Toolbar_1a.png" />
+</div>
+<div class="section" id="edit-toolbar">
+<h3>Barra de herramientas de Edición<a class="headerlink" href="#edit-toolbar" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TurtleBlocks_Toolbar_2.png" src="_images/TurtleBlocks_Toolbar_2.png" />
+<p>La barra de herramientas de edición se utiliza para copiar pilas de bloques en el portapapeles y para pegar las pilas desde el portapapeles. Para copiar una pila, haz clic en el botón de copia o pulse Ctrl-c. El cursor cambiará a la forma de la mano Ta-hand-cursor.png. Coloca el cursor en cualquier bloque o grupo de bloques y haz clic. Los bloques se pueden copiar en el portapapeles de Sugar y el cursor se cambiará a la forma de flecha. Para pegar desde el portapapeles, pulse Ctrl-V o haz clic en el botón de pegar.</p>
+<p>De izquierda a derecha:</p>
+<ul class="simple">
+<li><p class="first">Copia</p>
+</li>
+<li><p class="first">Pega</p>
+</li>
+</ul>
+</div>
+<div class="section" id="view-toolbar">
+<h3>Barra de herramientas Ver<a class="headerlink" href="#view-toolbar" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TurtleBlocks_Toolbar_4.png" src="_images/TurtleBlocks_Toolbar_4.png" />
+<p>De izquierda a derecha:</p>
+<ul class="simple">
+<li><p class="first">Botón de pantalla completa;</p>
+</li>
+<li><p class="first">Cuadrícula de coordenadas cartesiana;</p>
+</li>
+<li><p class="first">Grilla de coordenadas polares;</p>
+</li>
+<li><p class="first">No se muestra: grilla en centímetros (XO-solamente);</p>
+</li>
+<li><p class="first">visualización de coordenadas x, y, en dirección de la tortuga;</p>
+</li>
+<li><p class="first">Botón Cambiar escala de coordenadas;</p>
+</li>
+<li><p class="first">Incrementar tamaño de bloques;</p>
+</li>
+<li><p class="first">Reducir tamaño de bloques</p>
+</li>
+<li><p class="first">Activar / desactivar la ayuda flotante</p>
+</li>
+</ul>
+</div>
+<div class="section" id="palettes-toolbar">
+<h3>Barra de herramientas Paletas<a class="headerlink" href="#palettes-toolbar" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Los menús de paleta se revelan haciendo clic en el icono Bloques en la barra de herramientas principal. (En los sistemas más viejos de Sugar, selecciona la barra de herramientas de Proyectos. Cuando se ejecuta Turtle Art en GNOME, las paletas son visibles por defecto. )</p>
+<img alt="_images/TurtleBlocks_Toolbar_5.png" src="_images/TurtleBlocks_Toolbar_5.png" />
+<p>Hay diez paletas de elementos de programas disponibles para la construcción de programas: Movimientos de la tortuga; Atributos de pluma; Atributos de color; Operadores numéricos; Operadores lógicos; Bloques lógicos; Bloques de sensores; Bloques multimedia; Funciones de personalización; Bloques de Presentación. Una undécima paleta se utiliza para la restauración de los bloques de la basura.</p>
+<p><strong>Nota:</strong> paletas adicionales pueden ser cargados por extensiones para Turtle Blocks.</p>
+<p>Los bloques se arrastran desde la paleta hasta la superficie del lienzo. Para quitar un bloque, arrastralo de nuevo a la paleta. (Será colocado en la paleta de basura.)</p>
+<p>El botón <img alt="Showblocks" src="_images/55px-Show-blocks.svg.png" />, que reemplaza el botón Detener de la barra de herramientas principal, mientras que el programa se está ejecutando, se utiliza para revelar los bloques de programa. Paletas individuales pueden ocultarse haciendo clic en su lengueta resaltada.</p>
+</div>
+<div class="section" id="turtle-palette">
+<h3>Paleta Tortuga<a class="headerlink" href="#turtle-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAturtle.png" src="_images/TAturtle.png" />
+<p>Estos bloques se utilizan para controlar los movimientos de la tortuga.</p>
+<ul class="simple">
+<li><p class="first">adelante: mueve la tortuga hacia delante</p>
+</li>
+<li><p class="first">atrás: mueve la tortuga hacia atrás</p>
+</li>
+<li><p class="first">limpiar: borrar la pantalla y la posicionar de la tortuga en el centro de la pantalla, pluma apoyada, color rojo, en dirección 0</p>
+</li>
+<li><p class="first">izquierda: girar tortuga en sentido antihorario</p>
+</li>
+<li><p class="first">derecha: girar tortuga en sentido horario</p>
+</li>
+<li><p class="first">arco mover la tortuga a lo largo de un arco</p>
+</li>
+<li><p class="first">establecer xy: definir posición x, y de la tortuga. (0,0) es el centro de la pantalla</p>
+</li>
+<li><p class="first">seth: definir dirección de la tortuga</p>
+</li>
+<li><p class="first">xcor: obtiene el valor  actual de la coordenada x de la tortuga (se puede utilizar en lugar de un bloque numerico)</p>
+</li>
+<li><p class="first">ycor: obtiene el valor  actual de la coordenada y de la tortuga (se puede utilizar en lugar de un bloque numerico)</p>
+</li>
+<li><p class="first">dirección: tiene el valor del rumbo actual de la tortuga (se puede utilizar en lugar de un bloque numérico)</p>
+</li>
+</ul>
+</div>
+<div class="section" id="pen-palette">
+<h3>Paleta Pluma<a class="headerlink" href="#pen-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TApen.png" src="_images/TApen.png" />
+<p>Estos bloques se utilizan para controlar los atributos de la pluma de la tortuga.</p>
+<ul class="simple">
+<li><p class="first">pluma arriba: la tortuga no dibujará cuando se mueve</p>
+</li>
+<li><p class="first">pluma abajo: la tortuga dibujará cuando se mueve</p>
+</li>
+<li><p class="first">definir tamaño de pluma: establece el ancho de la línea trazada por la tortuga</p>
+</li>
+<li><p class="first">llenar pantalla: llenar la pantalla con un color / sombra y cambiar la posición de la tortuga al centro de la pantalla</p>
+</li>
+<li><p class="first">tamaño de la pluma: anchura de la línea trazada por la tortuga (se puede utilizar en lugar de un bloque numérico)</p>
+</li>
+<li><p class="first">definir color: establece el color de la pluma</p>
+</li>
+<li><p class="first">definir sombra: establece la sombra de la pluma</p>
+</li>
+<li><p class="first">establecer gris: establece el nivel de gris de la pluma (Sólo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">color: el color actual de la pluma (se puede utilizar en lugar de un bloque numérico)</p>
+</li>
+<li><p class="first">sombra: la sombra de la pluma actual (se puede utilizar en lugar de un bloque numérico)</p>
+</li>
+<li><p class="first">gris: nivel actual de gris pluma (se puede utilizar en lugar de un  bloque numérico) (Sólo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">iniciar relleno: inicia un polígono relleno (lados rectos, no arcos)</p>
+</li>
+<li><p class="first">final de llenado: termina un polígono relleno (lados rectos, no arcos)</p>
+</li>
+</ul>
+</div>
+<div class="section" id="color-palette">
+<h3>Paleta de colores<a class="headerlink" href="#color-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAcolors.png" src="_images/TAcolors.png" />
+<p>Estos bloques se pueden usar con el bloque &#8216;seleccionar color&#8217; en lugar de un bloque numérico.</p>
+</div>
+<div class="section" id="numbers-palette">
+<h3>Paleta Números<a class="headerlink" href="#numbers-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAnumbers.png" src="_images/TAnumbers.png" />
+<p>Estos bloques son operadores aritméticos y booleanos.</p>
+<ul class="simple">
+<li><p class="first">suma: añade dos entradas numéricas (también se puede utilizar para concatenar cadenas)</p>
+</li>
+<li><p class="first">resta: resta la entrada numérica de la parte inferior a la entrada superior</p>
+</li>
+<li><p class="first">Multiplicación: multiplica dos entradas numéricas</p>
+</li>
+<li><p class="first">división: divide la entrada superior (numerador) por la entrada inferior (denominador)</p>
+</li>
+<li><p class="first">identidad: función identidad (utilizado para los bloques de separación)</p>
+</li>
+<li><p class="first">módulo (resto): calcula resto de la división de la entrada superior por la entrada inferior</p>
+</li>
+<li><p class="first">raíz cuadrada (Sólo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">número aleatorio: genera un entero aleatorio entre los valores mínimos y máximos</p>
+</li>
+<li><p class="first">bloque numérico: una entrada numérica</p>
+</li>
+<li><p class="first">mayor que: operador booleano mayor que (utilizado con bloques de flujo)</p>
+</li>
+<li><p class="first">menor que: operador booleano menor que  (utilizado con bloques de flujo)</p>
+</li>
+<li><p class="first">igual a: operador booleano igual a (utilizado con bloques de flujo)</p>
+</li>
+<li><p class="first">No: operador booleano no (Sólo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">y: operador booleano y (Sólo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">o: operador boolean o (Sólo disponible en Turtle Blocks)</p>
+</li>
+</ul>
+</div>
+<div class="section" id="flow-palette">
+<h3>Paleta Flujo<a class="headerlink" href="#flow-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAflow.png" src="_images/TAflow.png" />
+<p>Estos bloques controlan el flujo del programa.</p>
+<ul class="simple">
+<li><p class="first">esperar: detener la ejecución del programa (la unidad es segundo)</p>
+</li>
+<li><p class="first">siempre: repetir continuamente ejecuta la pila incluida a la derecha</p>
+</li>
+<li><p class="first">repetir: repetir la ejecución de pila incluida a la derecha un número determinado de veces</p>
+</li>
+<li><p class="first">si / entonces: ejecución condicional de la pila de la derecha (utiliza operadores booleanos que se encuentran en la paleta de números)</p>
+</li>
+<li><p class="first">si / entonces / sino: ejecución condicional de la pila al centro y a  la derecha (utiliza operadores lógicos que se encuentran en la paleta de números)</p>
+</li>
+<li><p class="first">espaciador vertical</p>
+</li>
+<li><p class="first">detener pila: interrumpir la ejecución</p>
+</li>
+<li><p class="first">mientras que: ejecutar pila de la derecha, mientras que la condición es verdadera (utiliza operadores lógicos que se encuentran en la paleta de Número) (Sólo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">hasta: ejecutar la pila de la derecha hasta que la condición es verdadera (utiliza operadores lógicos que se encuentran en la paleta de Números) (Sólo disponible  en Turtle Blocks)</p>
+</li>
+</ul>
+<p><strong>Nota:</strong> anidar bloques &#8216;mientras que&#8217; y / o &#8216;hasta que&#8217; no siempre es fiable. Si encuentras un error, trata de poner el bloque anidado en una pila separada, incluida con un bloque de acción.</p>
+</div>
+<div class="section" id="blocks-palette">
+<h3>Paleta Bloques<a class="headerlink" href="#blocks-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAblocks.png" src="_images/TAblocks.png" />
+<p>Estos bloques son para las variables que definen y subrutinas.</p>
+<ul class="simple">
+<li><p class="first">empezar: conecta la acción del botón &#8220;Ejecutar&#8221; de la barra de herramientas</p>
+</li>
+<li><p class="first">almacenar en caja 1: almacenar un número, una cadena o un objeto multimedia en la caja 1 (Solo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">almacenar en caja 2: almacenar un número, una cadena o un objeto multimedia en la caja 2 (Solo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">texto: entrada de cadena</p>
+</li>
+<li><p class="first">caja 1: valor actual de la caja 1 (se puede utilizar en lugar de un número de bloque) (Solo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">caja 2: valor actual de la caja 2 (se puede utilizar en lugar de un número de bloque) (Solo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">caja: valor actual de la caja nombrada (se puede utilizar en lugar de un número de bloque)</p>
+</li>
+<li><p class="first">almacenar en: almacenar un número, una cadena o un objeto multimedia en una caja nombrada</p>
+</li>
+<li><p class="first">acción: la parte superior de la pila de acción nombrada</p>
+</li>
+<li><p class="first">acción 1: parte superior de la pila acción 1 (Solo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">acción 2: parte superior de la pila acción 2 (Solo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">acción: ejecutar pila acción nombrada</p>
+</li>
+<li><p class="first">acción 2: ejecutar la pila acción 2 (Solo disponible en Turtle Blocks)</p>
+</li>
+<li><p class="first">acción 1: ejecutar la pila acción 1 (Solo disponible en Turtle Blocks)</p>
+</li>
+</ul>
+<p><strong>Nota:</strong> Cuando se utilizan una acción con nombre o un bloque con nombre, nuevos bloques aparecen en la paleta que se corresponden con estos nombres; ej. , Si una pila de acción es renombrada como &#8220;cuadrar&#8221;, un bloque de acción, &#8220;cuadrar&#8221; se agrega a la paleta.</p>
+</div>
+<div class="section" id="sensors-palette">
+<h3>Paleta Sensores<a class="headerlink" href="#sensors-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAsensors.png" src="_images/TAsensors.png" />
+<ul class="simple">
+<li><p class="first">Leer Teclado: comprobar la entrada de teclado (los resultados se almacenan en el bloque del teclado)</p>
+</li>
+<li><p class="first">Teclado: valor actual de la entrada de teclado (se puede utilizar en lugar de un número de bloque)</p>
+</li>
+<li><p class="first">leer pixel: empujar el valor RGB del píxel bajo la tortuga en la PILA (azul es primero, el rojo es el último)</p>
+</li>
+<li><p class="first">tortuga ve: la &#8220;paleta de colores&#8221; del píxel bajo la tortuga</p>
+</li>
+<li><p class="first">tiempo: número de segundos desde el inicio del programa</p>
+</li>
+<li><p class="first">Sonido: datos brutos desde el micrófono que van de -32000 a 32000</p>
+</li>
+<li><p class="first">volumen (alto): desde 0 a 32.000</p>
+</li>
+<li><p class="first">frecuencia: la resolución es de +-8Hz</p>
+</li>
+<li><p class="first">brillo: luminancia media vista a través de la cámara</p>
+</li>
+<li><p class="first">cámara: Toma imagen con la cámara</p>
+</li>
+<li><p class="first">botón abajo: estado actual del botón del ratón (1 == abajo; 0 == arriba)</p>
+</li>
+<li><p class="first">ratón x: posición x del ratón</p>
+</li>
+<li><p class="first">mouse y: posición y del ratón</p>
+</li>
+</ul>
+<p>El OLPC XO puede medir sensores externos con su conector de micrófono:</p>
+<ul class="simple">
+<li><p class="first">resistencia: rango de medición es de 750 a 14k ohmios, (OLPC XO1) y 2k ohmios a circuito abierto (OLPC XO1.5)</p>
+</li>
+<li><p class="first">voltaje: rango de medición es de CC 0.4V a 1.85V. (OLPC XO1) y 0.17V a 3.0VV (OLPC XO1. 5)</p>
+</li>
+</ul>
+<p>El OLPC XO 1. 75 también incluye un acelerómetro.</p>
+<ul class="simple">
+<li><p class="first">acelerar (no mostrado): medir la aceleración de la computadora. Los resultados se agregan a la pila y se pueden recuperar mediante el uso de 3 bloques &#8216;pop&#8217; (una para X (horizontal), uno para Y (vertical) y otro para Z (adelante / atrás))</p>
+</li>
+</ul>
+<p>Véase <a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Using_Turtle_Art_Sensors">Usando Sensores con Turtle Art</a> para más detalles acerca de los bloques de sensores.</p>
+</div>
+<div class="section" id="media-palette">
+<h3>Paleta Medios<a class="headerlink" href="#media-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAmedia.png" src="_images/TAmedia.png" />
+<p>Estos son un conjunto de bloques utilizados para la visualización de objetos multimedia, como imágenes del Diario.</p>
+<ul class="simple">
+<li><p class="first">diario: objeto multimedia del Diario de Sugar (se usa con bloque mostrar) (también disponible en Turtle Art)</p>
+</li>
+<li><p class="first">audio: objeto multimedia del Diario de Sugar (se usa con bloque mostrar)</p>
+</li>
+<li><p class="first">video: objeto multimedia del Diario de Sugar (se usa con bloque mostrar)</p>
+</li>
+<li><p class="first">Descripción: campo Descripción del Diario de Sugar (usado con bloque mostrar)</p>
+</li>
+<li><p class="first">texto: cadena de texto (se usa con bloque mostrar; también se utiliza con los bloques caja y acción)</p>
+</li>
+<li><p class="first">mostrar: dibujar texto o mostrar objeto multimedia del Diario</p>
+</li>
+<li><p class="first">ajustado en la escala: establece la escala de las imágenes que se muestran con el bloque mostrar</p>
+</li>
+<li><p class="first">Guardar imagen: guardar el lienzo en el Diario como imagen .png (nota: guarda el lienzo como se muestra)</p>
+</li>
+<li><p class="first">guardar SVG: guardar los gráficos de tortuga al  Diario como imagen .svg (nota: sólo guarda los cambios en el lienzo en el plazo de ejecución actual)</p>
+</li>
+<li><p class="first">escala: selecciona la escala para el bloque mostrar (100% es la pantalla completa)</p>
+</li>
+<li><p class="first">esperar multimedia: se utiliza para hacer una pausa en el programa mientras se reproduce el archivo de audio o vídeo</p>
+</li>
+<li><p class="first">parar multimedia: detener sonido o vídeo actual</p>
+</li>
+<li><p class="first">pausa medios: pausa de sonido o vídeo actual</p>
+</li>
+<li><p class="first">retomar medios: reanudar la reproducción de los medios de comunicación en pausa</p>
+</li>
+<li><p class="first">hablar: envía texto al sintetizador de voz</p>
+</li>
+<li><p class="first">onda sinusoidal: reproduce una onda sinusoidal de una determinada frecuencia, amplitud y duración</p>
+</li>
+</ul>
+</div>
+<div class="section" id="extras-palette">
+<h3>Paleta Extras<a class="headerlink" href="#extras-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAextras.png" src="_images/TAextras.png" />
+<p>Esta son una colección de bloques adicionales para acceder a funciones avanzadas sólo disponibles en Turtle Blocks.</p>
+<ul>
+<li><p class="first">empujar: empuja valor en una pila FILO (first-in last-out, el primero en entrar es el último en salir)</p>
+</li>
+<li><p class="first">mostrar pila: mostrar FILO en bloque de estado</p>
+</li>
+<li><p class="first">vaciar pila: vaciar la FILO</p>
+</li>
+<li><p class="first">pop: tomar valor pop fuera de la pila FILO (se puede utilizar en lugar de un número de bloque)</p>
+</li>
+<li><p class="first">imprimir: imprimir valor en el bloque de estado (también disponible en Turtle Art)</p>
+</li>
+<li><p class="first">comentario: comentario de programa (se muestra en modo &#8220;paso a paso&#8221;)</p>
+</li>
+<li><p class="first">chr: primitiva &#8216;chr&#8217; de Python: convierte a caracteres ASCII(útil para convertir la entrada de teclado a texto)</p>
+</li>
+<li><p class="first">int: primitiva int de Python: convierte la entrada a enteros</p>
+</li>
+<li><p class="first">Python: un bloque programable (se pueden utilizar en lugar de un bloque de número)</p>
+<blockquote>
+<div><p>añade tu ecuación matemática en el bloque, ej. sin(x); Este bloque es ampliable para soportar hasta tres variables, e. g. f(x,y,z)</p>
+</div></blockquote>
+</li>
+<li><p class="first">Importación Python: importa código Python del Diario (un bloque programable de propósito general). Este bloque acepta una sola variable x, como entrada o hasta 3 variables como una matriz x[0], x[1] y x[2]</p>
+</li>
+<li><p class="first">Cartesiana: visualización de grilla de coordenadas cartesianas</p>
+</li>
+<li><p class="first">polar: visualización de grilla de coordenadas polares</p>
+</li>
+<li><p class="first">tortuga: especificar que tortuga está activa</p>
+</li>
+<li><p class="first">caparazón de tortuga: importar una imagen desde el Diario para usar como &#8216;caparazón&#8217; de la tortuga. Sustituya la tortuga con un sprite.</p>
+</li>
+<li><p class="first">pinza sandwich: &#8220;pinza&#8221; una pila de bloques para ocultarlos</p>
+</li>
+</ul>
+</div>
+<div class="section" id="portfolio-palette">
+<h3>Paleta Portafolio<a class="headerlink" href="#portfolio-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAportfolio.png" src="_images/TAportfolio.png" />
+<p>Estos bloques se utilizan para hacer presentaciones multimedia sólo están disponibles en Turtle Blocks.</p>
+<ul class="simple">
+<li><p class="first">ocultar bloques: oculta todos los bloques y paletas (útil para limpiar el desorden de la pantalla durante las presentaciones) (también disponible en Turtle Art)</p>
+</li>
+<li><p class="first">mostrar bloques: muestra bloques y paletas (útil para reanudar la programación después de una presentación)</p>
+</li>
+<li><p class="first">pantalla completa: entra en modo de pantalla completa (oculta las barras de herramientas de Sugar)</p>
+</li>
+<li><p class="first">diapositivas de lista: se utiliza para crear listas con viñetas; Este bloque es ampliable, lo que le permite añadir tantos puntos como necesites</p>
+</li>
+<li><p class="first">diapositiva de imagen: usado por diapoitivas con imágenes (1×1, 2×2, 1×2, and 2×1)</p>
+</li>
+</ul>
+<p>Sólo disponible en Turtle Blocks:</p>
+<ul class="simple">
+<li><p class="first">izquierda: toma el valor de la coordenada x del borde izquierdo de la pantalla (se puede utilizar en lugar de un bloque numérico)</p>
+</li>
+<li><p class="first">arriba: toma el valor actual de la coordenada del borde superior de la pantalla (se puede utilizar en lugar de un bloque numérico)</p>
+</li>
+<li><p class="first">derecha: toma el valor actual de la coordenada x del borde derecho de la pantalla (se puede utilizar en lugar de un bloque numérico)</p>
+</li>
+<li><p class="first">inferior: toma el valor actual de la coordenada del borde inferior de la pantalla (se puede utilizar en lugar de un bloque numérico)</p>
+</li>
+<li><p class="first">ancho: ancho de la pantalla (se puede utilizar en lugar de un bloque numérico)</p>
+</li>
+<li><p class="first">altura: altura de la pantalla (se puede utilizar en lugar de un  bloque numérico)</p>
+</li>
+</ul>
+<p><strong>Nota:</strong> Los bloques de presentación se expanden en pilas que se pueden editar para presentaciones personalizadas.</p>
+</div>
+<div class="section" id="trash-palette">
+<h3>Paleta de basura<a class="headerlink" href="#trash-palette" title="Enlazar permanentemente con este título">¶</a></h3>
+<img alt="_images/TAtrash.png" src="_images/TAtrash.png" />
+<p>Esta paleta contiene los bloques que se han tirado a la basura. Puedes arrastrar los bloques de la basura para restaurarlos. La paleta de basura se vacía al salir de Turtle Art.</p>
+</div>
+<div class="section" id="vertical-palettes">
+<h3>Paletas verticales<a class="headerlink" href="#vertical-palettes" title="Enlazar permanentemente con este título">¶</a></h3>
+<div class="figure">
+<img alt="_images/300px-TAvertical.png" src="_images/300px-TAvertical.png" />
+<p class="caption">Un ejemplo de una paleta vertical. Paletas verticales se utilizan de forma predeterminada en las laptops XO de OLPC con versiones anteriores del Sugar.</p>
+</div>
+</div>
+</div>
+<div class="section" id="learning-with-turtle-art">
+<h2>Aprender con Turtle Art<a class="headerlink" href="#learning-with-turtle-art" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Tony Forster y Mokurai han creado una serie de actividades y tutoriales conTurtle Art en una amplia gama, de matemáticas, programación, arte y temas de Informática. También hay una literatura sustancial de materiales educativos utilizando el lenguaje de programación Logo, del que TurtleArt y Turtle Blocks se derivan. La exploración con la serie Logo de MIT Press se recomienda especialmente para mostrar cuanto más allá de los gráficos simples Logo puede ir. Mokurai recomienda empezar con los primeros tres, diseñados específicamente para ayudar a los principiantes de todas las edades, desde antes de la lectoescritura en preescolar.</p>
+<ul class="simple">
+<li><p class="first"><a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/You_be_the_Turtle">Se la tortuga</a> sin el ordenador.</p>
+</li>
+<li><p class="first"><a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Mathematics_and_art">Matemáticas y arte</a>, una introducción a TA.</p>
+</li>
+<li><p class="first"><a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Turtle_Art/Tutorials/Counting">Contar</a></p>
+</li>
+</ul>
+</div>
+<div class="section" id="extending-turtle-art">
+<h2>Extendiendo Turtle Art<a class="headerlink" href="#extending-turtle-art" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Hay versiones de Turtle Art en lenguajes de programación y entornos varios, incluyendo Logo, Python, Smalltalk, y otros. TurtleArt puede exportar programas en Logo, como se explica a continuación. Hay bloques programables en Turtle Art que hacen posible la inclusión de cualquier programa de Python en el mundo Turtle Art. El caso más simple es una sola llamada de función utilizado en un programa de gráficos, pero no hay límite inherente en las capacidades de Python que se pueden añadir a TA.</p>
+</div>
+<div class="section" id="exporting-to-berkeley-logo">
+<h2>Exportación a Berkeley Logo<a class="headerlink" href="#exporting-to-berkeley-logo" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Turtle Art puede exportar sus proyectos a <a class="reference external" href="http://www.cs.berkeley.edu/~bh/">Berkeley Logo</a> (utilizando <strong>Ver código fuente</strong> o el botón <strong>Guardar como Logo</strong> de la <strong>barra de herramientas del proyecto</strong>)</p>
+</div>
+<div class="section" id="python-blocks-in-turtle-art">
+<h2>Bloques de Python en Turtle Art<a class="headerlink" href="#python-blocks-in-turtle-art" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Hay dos formas de crear bloques Python: cargando código de muestra provisto en Turtle Art o cargando el código Python de tu Diario.</p>
+<p><strong>Cargando código de ejemplo</strong></p>
+<p>Se proporcionan una serie de programas individuales de muestra. Al hacer clic en el botón Cargar Python  en la barra de herramientas Cargar/Salvar <img alt="loadpython" src="_images/Loadpythonsamples.jpg" /> invocará un diálogo selector de archivo. Selecciona la muestra que deseas y será copiado en el Diario y se cargará en un bloque de Python.</p>
+<img alt="_images/Pythonsampleselector.jpg" src="_images/Pythonsampleselector.jpg" />
+<p><strong>Cargando código del Diario</strong></p>
+<p>Al hacer clic en un bloque Python <img alt="pythoncodeblock" src="_images/45px-Pythoncodeblock.jpg" /> que ha sido arrastrado en el lienzo de la paleta Extras invocará un diálogo selector de objetos.</p>
+<img alt="_images/Pythonobjectselector.jpg" src="_images/Pythonobjectselector.jpg" />
+<p>Selecciona el código Python que desees y el código será cargado en el bloque seleccionado.</p>
+<p>No se puede ejecutar un bloque Python haciendo clic en él, ya que se abre el selector de objeto; conecta el bloque a otro y haz clic en otra parte de la pila que hayas creado.</p>
+<p>Sea cual sea la forma en que los crees, varios bloques de Python pueden tener diferente código cargado en ellos.</p>
+</div>
+<div class="section" id="modifying-turtle-art">
+<h2>Modificación de Turtle Art<a class="headerlink" href="#modifying-turtle-art" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Turtle Art se encuentra bajo la licencia MIT. Eres libre de usarlo y aprender con él. También se te anima a modificarlo para adaptarlo a tus necesidades o simplemente como una nueva oportunidad para aprender.</p>
+<p>Gran parte de la motivación detrás de la refactorización en la versión 83 del código fué para hacer más fácil para ti el hacer cambios. La mayoría de los cambios se pueden limitar a dos módulos: taconstants.py y talogo.py. El primero define los bloques y paletas; el último define qué código se ejecuta por un bloque.</p>
+<p><strong>Nota:</strong> También a partir de la versión 106, hay soporte de plugins. Tu puedes utilizar el mecanismo de plugin para añadir soporte para dispositivos adicionales, ej., Arduino, o para realizar modificaciones, como se describe a continuación sin realizar cambios a la base de código estándar. (La ventaja de este último es que los cambios permanecerán intactos incluso después de actualizar a una nueva versión. )</p>
+<p>El archivo tabasics.py contiene las constantes que en gran medida determinan el comportamiento de Turtle Art. En particular, las paletas de bloque se definen alli. Si deseas agregar un nuevo bloque a Turtle Art, tu puedes simplemente añadir un bloque de código en ese archivo o en turtle_block_plugin.py, que contiene bloques adicionales. (Aún mejor, tus propios complementos !!)</p>
+<p>La adición de una nueva gama de colores es simplemente una cuestión de:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="n">palette</span> <span class="o">=</span> <span class="n">make_palette</span><span class="p">(</span><span class="s">&#39;mypalette&#39;</span><span class="p">,</span>  <span class="c"># the name of your palette</span>
+                      <span class="n">colors</span><span class="o">=</span><span class="p">[</span><span class="s">&quot;#00FF00&quot;</span><span class="p">,</span> <span class="s">&quot;#00A000&quot;</span><span class="p">],</span>
+                      <span class="n">help_string</span><span class="o">=</span><span class="n">_</span><span class="p">(</span><span class="s">&#39;Palette of my custom commands&#39;</span><span class="p">))</span>
+</pre></div>
+</div>
+<p>Por ejemplo, si queremos añadir un nuevo comando de tortuga, &#8216;uturn&#8217;, usaríamos el método add_block en la clase Palette.</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="n">palette</span><span class="o">.</span><span class="n">add_block</span><span class="p">(</span><span class="s">&#39;uturn&#39;</span><span class="p">,</span>  <span class="c"># the name of your block</span>
+                  <span class="n">style</span><span class="o">=</span><span class="s">&#39;basic-style&#39;</span><span class="p">,</span>  <span class="c"># the block style</span>
+                  <span class="n">label</span><span class="o">=</span><span class="n">_</span><span class="p">(</span><span class="s">&#39;u turn&#39;</span><span class="p">),</span>  <span class="c"># the label for the block</span>
+                  <span class="n">prim_name</span><span class="o">=</span><span class="s">&#39;uturn&#39;</span><span class="p">,</span>  <span class="c"># code reference (see below)</span>
+                  <span class="n">help_string</span><span class="o">=</span><span class="n">_</span><span class="p">(</span><span class="s">&#39;turns the turtle 180 degrees&#39;</span><span class="p">))</span>
+</pre></div>
+</div>
+<p>A continuación, es necesario definir lo que hará tu bloque. def_prim toma tres argumentos:el nombre de la primitiva, el número de argumentos (0 en este caso) y la función a llamar (en este caso la función seth para establecer la dirección).</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="bp">self</span><span class="o">.</span><span class="n">tw</span><span class="o">.</span><span class="n">lc</span><span class="o">.</span><span class="n">def_prim</span><span class="p">(</span><span class="s">&#39;uturn&#39;</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span>
+    <span class="k">lambda</span> <span class="bp">self</span><span class="p">:</span> <span class="bp">self</span><span class="o">.</span><span class="n">tw</span><span class="o">.</span><span class="n">canvas</span><span class="o">.</span><span class="n">seth</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">tw</span><span class="o">.</span><span class="n">canvas</span><span class="o">.</span><span class="n">heading</span> <span class="o">+</span> <span class="mi">180</span><span class="p">))</span>
+</pre></div>
+</div>
+<p>Eso es todo. La próxima vez que ejecute Turtle Art, tendrá un bloque &#8216;uturn&#8217; en la paleta &#8216;mypalette&#8217;.</p>
+<p>Tu tendrás que crear iconos para los botones de selección de paleta-. Estos se mantienen en el subdirectorio de iconos. Necesitas dos iconos: mypaletteoff.svg y mypaletteon.svg, donde &#8216;mypalette&#8217; es la misma cadena que la entrada que utilizaste al crear instancias de la clase Paleta. Ten en cuenta que los iconos deben ser del mismo tamaño (55x55) como los otros. (Este es el tamaño de los iconos por defecto para las barras de herramientas de Sugar. )</p>
+</div>
+<div class="section" id="where-to-report-problems">
+<h2>Dónde reportar problemas<a class="headerlink" href="#where-to-report-problems" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Por favor, presentar informes de fallos <a class="reference external" href="https://bugs.sugarlabs.org/newticket?component=Turtleart">aquí</a>.</p>
+</div>
+<div class="section" id="credits">
+<h2>Créditos<a class="headerlink" href="#credits" title="Enlazar permanentemente con este título">¶</a></h2>
+<blockquote>
+<div><p>Walter Bender y Raúl Gutiérrez Segalés maintienen el código (con alguna ayuda ocasional de Simon Schampijer)</p>
+<p>Alan Jhonn Aguiar Schwyn y el Equipo de Butia han proporcionado una gran realimentacion y muchos parches.</p>
+<p>Especialmente util realimentacion de Tony Forster, Guzmán Trinidad, y Bill Kerr</p>
+<p>Brian Silverman es el primer autor de Turtle Art</p>
+</div></blockquote>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Turtle Art</a><ul>
+<li><a class="reference internal" href="#about">Acerca de</a></li>
+<li><a class="reference internal" href="#where-to-get-turtle-art">Dónde obtener Turtle Art</a></li>
+<li><a class="reference internal" href="#using-turtle-art">Utilizando Turtle Art</a></li>
+<li><a class="reference internal" href="#toolbars">Barras de herramientas</a><ul>
+<li><a class="reference internal" href="#main-toolbar">Barra de herramientas principal</a></li>
+<li><a class="reference internal" href="#project-toolbar">Barra de herramientas Proyecto</a></li>
+<li><a class="reference internal" href="#edit-toolbar">Barra de herramientas de Edición</a></li>
+<li><a class="reference internal" href="#view-toolbar">Barra de herramientas Ver</a></li>
+<li><a class="reference internal" href="#palettes-toolbar">Barra de herramientas Paletas</a></li>
+<li><a class="reference internal" href="#turtle-palette">Paleta Tortuga</a></li>
+<li><a class="reference internal" href="#pen-palette">Paleta Pluma</a></li>
+<li><a class="reference internal" href="#color-palette">Paleta de colores</a></li>
+<li><a class="reference internal" href="#numbers-palette">Paleta Números</a></li>
+<li><a class="reference internal" href="#flow-palette">Paleta Flujo</a></li>
+<li><a class="reference internal" href="#blocks-palette">Paleta Bloques</a></li>
+<li><a class="reference internal" href="#sensors-palette">Paleta Sensores</a></li>
+<li><a class="reference internal" href="#media-palette">Paleta Medios</a></li>
+<li><a class="reference internal" href="#extras-palette">Paleta Extras</a></li>
+<li><a class="reference internal" href="#portfolio-palette">Paleta Portafolio</a></li>
+<li><a class="reference internal" href="#trash-palette">Paleta de basura</a></li>
+<li><a class="reference internal" href="#vertical-palettes">Paletas verticales</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#learning-with-turtle-art">Aprender con Turtle Art</a></li>
+<li><a class="reference internal" href="#extending-turtle-art">Extendiendo Turtle Art</a></li>
+<li><a class="reference internal" href="#exporting-to-berkeley-logo">Exportación a Berkeley Logo</a></li>
+<li><a class="reference internal" href="#python-blocks-in-turtle-art">Bloques de Python en Turtle Art</a></li>
+<li><a class="reference internal" href="#modifying-turtle-art">Modificación de Turtle Art</a></li>
+<li><a class="reference internal" href="#where-to-report-problems">Dónde reportar problemas</a></li>
+<li><a class="reference internal" href="#credits">Créditos</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="turtleblocks3d.html" title="Bloques de Tortugas 3D"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="terminal.html" title="Terminal"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

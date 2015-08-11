@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Terminal &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Turtle Art" href="turtleart.html" />
+    <link rel="prev" title="TamTam" href="tamtammini.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="turtleart.html" title="Turtle Art"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="tamtammini.html" title="TamTam"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="terminal">
+<h1>Terminal<a class="headerlink" href="#terminal" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Terminal es un programa en modo texto de pantalla completa que proporciona una interfaz de línea de comandos (CLI) para el software en un sistema Linux, como Fedora Linux en el que Sugar se basa en la XO. El usuario tipéa (a veces crípticos) comandos para llevar a cabo la gestión de archivos, administración de sistemas, o de hecho casi cualquier cosa que se puede hacer dentro de Linux que no involucra gráficos o vídeo.</p>
+<p>Por ejemplo, escribir <strong>pwd</strong> muestra el nombre de directorio de trabajo/actual en la línea de comandos.En el directorio principal esa ubicación es /home/olpc, y escribiendo <strong>ls</strong> en la línea de comando muestra el contenido de el directorio actual.</p>
+</div>
+<div class="section" id="where-to-get-terminal">
+<h2>Dónde conseguir Terminal<a class="headerlink" href="#where-to-get-terminal" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Terminal está provisto con Sugar en cada XO. Sin embargo, por defecto no está seleccionada para su visualización en la vista de hogar como favorito.</p>
+<ul class="simple">
+<li><p class="first">Para seleccionar Terminal como Favorito, ve a la vista de inicio, a continuación, haz clic en el icono de la vista de lista. Escribe <strong>Te</strong> en el cuadro de búsqueda. Haz clic en la estrella junto a la Terminal. Cuando se cambia de nuevo al anillo de iconos en la vista principal, la terminal será visible.</p>
+</li>
+<li><p class="first">Alternativamente, puedes dejar Terminal no seleccionada, y empezar desde la vista de lista haciendo clic en su icono o seleccionando Inicio en su menú flotante.</p>
+</li>
+</ul>
+<p>Si por alguna razón la terminal no está instalado, se puede descargar desde su <a class="reference external" href="http://activities.sugarlabs.org/en-US/sugar/addon/4043">página</a></p>
+</div>
+<div class="section" id="using">
+<h2>Uso<a class="headerlink" href="#using" title="Enlazar permanentemente con este título">¶</a></h2>
+<ul class="simple">
+<li><p class="first">Tipéa comandos con opciones que modifican sus efectos y argumentos, por lo general los nombres de archivo u otros indicios de dónde obtener la entrada y dónde poner la salida.</p>
+</li>
+</ul>
+<p>Ejemplos: <strong>pwd</strong> y <strong>ls</strong>, como se muestra más arriba</p>
+<ul class="simple">
+<li><p class="first">Encadena programas juntos, de modo que el siguiente programa procesa la salida del programa anterior.</p>
+</li>
+</ul>
+<div class="highlight-python"><div class="highlight"><pre>ls | grep &quot;Sugar&quot;
+</pre></div>
+</div>
+<p>Obtener un listado del directorio actual, pero mostrar sólo las líneas en que el nombre del archivo o directorio incluye el texto &#8220;Sugar&#8221;. El símbolo <strong>|</strong>, tubo de lectura, representa el enlace de datos entre los programas.</p>
+<ul class="simple">
+<li><p class="first">Obtener información sobre los programas. Por ejemplo, muchos de los comandos responden a las opciones <strong>-h</strong> o <strong>&#8211;help</strong> con un breve resumen.</p>
+</li>
+</ul>
+<div class="highlight-python"><div class="highlight"><pre>grep -h
+Usage: grep [OPTION]... PATTERN [FILE]...
+Try `grep --help&#39; for more information.
+</pre></div>
+</div>
+<p>Las utilidades <strong>man</strong> e <strong>info</strong> por desgracia no están disponibles en las XO, pero, sin duda, se incluirán en Sugar cuando el XO tenga la suficiente capaciad para todas las páginas de manual y de información en todos los idiomas soportados.</p>
+</div>
+<div class="section" id="the-toolbar">
+<h2>La barra de herramientas<a class="headerlink" href="#the-toolbar" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/Terminal-toolbar.png" src="_images/Terminal-toolbar.png" />
+<ul class="simple">
+<li><p class="first">Actividad: Nombre de esta sesión y descripción para el Diario</p>
+</li>
+<li><p class="first">Editar (icono de las tijeras): Copiar y Pegar</p>
+</li>
+<li><p class="first">Ver (icono del ojo): Aumentar o Disminuir tamaño de fuente, ver en pantalla completa</p>
+</li>
+<li><p class="first">Ayuda: Muestra comandos útiles</p>
+</li>
+<li><p class="first">Stop: Cerrar la actividad Terminal</p>
+</li>
+<li><p class="first">Pestañas: Abrir y cerrar pestañas</p>
+</li>
+</ul>
+</div>
+<div class="section" id="learning-with-terminal">
+<h2>Aprender con Terminal<a class="headerlink" href="#learning-with-terminal" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Terminal es esencial para el aprendizaje de las funciones avanzadas de Linux, como la administración del sistema, la compilación de software, y muchos otros temas similares.</p>
+</div>
+<div class="section" id="extending-terminal">
+<h2>Extensión de la terminal<a class="headerlink" href="#extending-terminal" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Los usuarios tienen la opción de instalar software en modo texto que funciona en una ventana de terminal. Los ejemplos incluyen editores de texto como pico, o administradores de archivos tales como Midnight Commander. MC simplifica muchas actividades de línea de comandos para el usuario, proporcionando equivalentes a muchos comandos en menús y ventanas de texto. Para instalar mc, introduzca</p>
+<div class="highlight-python"><div class="highlight"><pre>yum install mc
+</pre></div>
+</div>
+<p>Esto invoca el Administrador de paquetes yum para instalar el paquete de Red Hat/Fedora para mc, incluyendo el programa, documentación y otros archivos. A continuación, el usuario puede escribir mc en la línea de comandos y obtener una pantalla de dos paneles de archivos en el mismo o diferentes directorios, junto con botones de funciones y menús para crear y borrar directorios, mover o copiar archivos, ver o editar archivos, cambiar permisos de archivos, y mucho más.</p>
+<p>Consulte los manuales FLOSS</p>
+<ul class="simple">
+<li><p class="first"><a class="reference external" href="http://en.flossmanuals.net/terminal/">Terminal</a> sobre la actividad Terminal en Sugar</p>
+</li>
+<li><p class="first"><a class="reference external" href="http://en.flossmanuals.net/command-line/">Introducción a la línea de comandos</a> para un tutoríal acerca de funciones de línea de comandos para el usuario</p>
+</li>
+</ul>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Terminal</a><ul>
+<li><a class="reference internal" href="#about">Acerca de</a></li>
+<li><a class="reference internal" href="#where-to-get-terminal">Dónde conseguir Terminal</a></li>
+<li><a class="reference internal" href="#using">Uso</a></li>
+<li><a class="reference internal" href="#the-toolbar">La barra de herramientas</a></li>
+<li><a class="reference internal" href="#learning-with-terminal">Aprender con Terminal</a></li>
+<li><a class="reference internal" href="#extending-terminal">Extensión de la terminal</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="turtleart.html" title="Turtle Art"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="tamtammini.html" title="TamTam"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

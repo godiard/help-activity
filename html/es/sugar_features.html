@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Características de Sugar &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="GNOME" href="gnome.html" />
+    <link rel="prev" title="Mis ajustes" href="my_settings.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="gnome.html" title="GNOME"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="my_settings.html" title="Mis ajustes"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="sugar-features">
+<h1>Características de Sugar<a class="headerlink" href="#sugar-features" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>Esta página presenta una serie de características de Sugar comunes a muchas actividades. La página se ha diseñado como una serie de &#8220;temas de referencia&#8221;.</p>
+<p>Esta página experimental incluye separadores gráficos para separar temas no relacionados.</p>
+<div class="section" id="view-source">
+<span id="id1"></span><h2>Ver código fuente<a class="headerlink" href="#view-source" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Siempre se puede ver el código fuente de las Actividades de Sugar. En la mayoría de los casos, Ver código te mostrará el código python de la actividad, en otros casos, como en Navegar, se puede ver el código HTML de la página se ve en la actividad.</p>
+<p>Se puede ver la ventana del código fuente presionando las teclas Fn-espacio en tu XO o Ctrl-Shift-V o pulsando el botón derecho sobre el icono de la actividad en el <a class="reference internal" href="frame.html"><em>El Marco</em></a>. He aquí un ejemplo de visualización del fuente de una página en la actividad <a class="reference internal" href="help.html"><em>Ayuda</em></a>. En el caso de esta actividad, se ve el texto simple, que Ayuda convierte en páginas HTML para su visualización. Esto es útil en el proceso de edición de páginas de ayuda como se describe aquí <a class="reference internal" href="how_to_help.html"><em>Cómo editar Ayuda y contribuir</em></a></p>
+<img alt="_images/HelpFrame.png" src="_images/HelpFrame.png" />
+</div>
+<div class="section" id="duplicating-activities">
+<h2>Duplicación de actividades<a class="headerlink" href="#duplicating-activities" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Una opción para duplicar una actividad se ha añadido a la ventana Ver código fuente. Al seleccionar esta opción, se crea una copia de la actividad en el directorio $HOME/Activities del usuario. Por lo tanto, esperamos animar a los usuarios de Sugar a hacer modificaciones y mejoras al código que utilizan sin el riesgo de romper la actividad original.</p>
+<img alt="_images/300px-Duplicate_activity.png" src="_images/300px-Duplicate_activity.png" />
+<p><img alt="more" src="_images/more.png" /> Para más información:</p>
+<p>Los wiki de sugarlabs tiene un artículo informativo: <a class="reference external" href="http://wiki.sugarlabs.org/go/View_Source">http://wiki.sugarlabs.org/go/View_Source</a></p>
+<p><a href="#id1"><span class="problematic" id="id2">*</span></a>Fin del tema - espaciador debajo. *</p>
+<img alt="_images/spacer600.png" src="_images/spacer600.png" />
+</div>
+<div class="section" id="say-selected-text">
+<span id="id2"></span><h2>Decir texto seleccionado<a class="headerlink" href="#say-selected-text" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/HelpSpeech1.png" src="_images/HelpSpeech1.png" />
+<p>Tu puedes hacer : doc:<cite>/speak</cite> o robot Sara, leer en voz alta, texto seleccionado. Aquí demostramos Sara leyendo texto seeccionado en <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">help</span></tt>. En Ayuda, por ejemplo, puedes seleccionar una página entera de texto, y hacer que se lea en voz alta mientras exploras la Actividad.</p>
+<p>Pruébalo ahora, Seleccione el texto en este marco.</p>
+<p>Para seleccionar texto, mueva el ratón a la parte superior izquierda del texto, hay una flecha verde cerca del punto correcto. Haz clic en el botón de la izquierda, o principal del ratón. Mueve el cursor a la parte inferior derecha del texto que deseas seleccionar, hay una flecha roja cerca del punto correcto.</p>
+<p>Muestra el <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">frame</span></tt> con la tecla &#8220;Marco&#8221; o F6. Pulsa en el icono de &#8220;labios&#8221; en la parte inferior del marco, a continuación, pulsa en <em>Decir texto seleccionado</em>. Observa también que hay una función de pausa, una vez ha comenzado a hablar.</p>
+<img alt="_images/HelpSpeech2.png" src="_images/HelpSpeech2.png" />
+<p>La característica <em>Decir texto seleccionado</em> está disponible en muchas actividades basadas en textos como <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">browse</span></tt>, : doc:<cite>/fototoon</cite>, o <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">write</span></tt>. Busca el icono de &#8220;labios&#8221; en la parte inferior del marco, o como un botón en la barra de herramientas de una actividad, como en <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">write</span></tt>.</p>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p class="last">Esta es una nueva página sin terminar, puedes modificarla tu mismo siguiendo las orientaciones aquí <tt class="xref doc docutils literal"><span class="pre">/</span> <span class="pre">how_to_help</span></tt></p>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Características de Sugar</a><ul>
+<li><a class="reference internal" href="#view-source">Ver código fuente</a></li>
+<li><a class="reference internal" href="#duplicating-activities">Duplicación de actividades</a></li>
+<li><a class="reference internal" href="#say-selected-text">Decir texto seleccionado</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="gnome.html" title="GNOME"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="my_settings.html" title="Mis ajustes"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

@@ -1,0 +1,178 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Medir &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Memorizar" href="memorize.html" />
+    <link rel="prev" title="Registro" href="log.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="memorize.html" title="Memorizar"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="log.html" title="Registro"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="measure">
+<h1>Medir<a class="headerlink" href="#measure" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="section" id="about">
+<h2>Acerca de<a class="headerlink" href="#about" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Esta actividad grafica el sonido escuchado por el micrófono interno o la señal presente en la entrada de micrófono. Más específicamente, se dibuja un gráfico de esta entrada en función del tiempo, la entrada está en el eje vertical y el tiempo está en el eje horizontal. Es decir, el ordenador portátil funciona como una máquina llamada osciloscopio.</p>
+<p>Así como gráfica la señal como una función del tiempo, puede gráficar el sonido como una función de la frecuencia.</p>
+<p>El XO-1 sólo tiene una entrada mono, el XO-1. 5 y XO-1. 75 tienen entradas estéreo en su toma de micrófono y pueden graficar dos señales a la vez.</p>
+<img alt="_images/200px-Measure_tut_1_24.jpg" src="_images/200px-Measure_tut_1_24.jpg" />
+</div>
+<div class="section" id="using">
+<h2>Uso<a class="headerlink" href="#using" title="Enlazar permanentemente con este título">¶</a></h2>
+<img alt="_images/600px-Measure-screen.JPG" src="_images/600px-Measure-screen.JPG" />
+<ol class="arabic simple">
+<li><p class="first">Selecciona la barra de herramientas secundaria - permite renombrar la entrada Diario de la actividad</p>
+</li>
+<li><p class="first">Selecciona la barra de herramientas secundaria - ajustes de medición</p>
+</li>
+<li><p class="first">El tipo seleccionado de entrada - Sonido (tensión alterna), resistencia o tensión continua</p>
+</li>
+<li><p class="first">La escala de tiempo</p>
+</li>
+<li><p class="first">Congelar la pantalla</p>
+</li>
+<li><p class="first">Capture muestra ahora - guarda una imagen de la onda en el Diario</p>
+</li>
+<li><p class="first">Stop - sale de la Actividad</p>
+</li>
+<li><p class="first">Invertir - invertir la pantalla</p>
+</li>
+<li><p class="first">Utiliza estos controles deslizantes para controlar la sensibilidad</p>
+</li>
+<li><p class="first">Los ajustes que se seleccionan</p>
+</li>
+</ol>
+<img alt="_images/600px-Measure2ndtoolbar.JPG" src="_images/600px-Measure2ndtoolbar.JPG" />
+<p>La barra de herramientas secundaria - ajustes de medición</p>
+<ol class="arabic simple" start="11">
+<li><p class="first">Sonido - utilizar este ajuste con el micrófono interno, micrófono externo y señales de CA externos</p>
+</li>
+<li><p class="first">Sensor de Resistencia - utilizar con transductores de tipo resistivo externo</p>
+</li>
+<li><p class="first">Sensor de Voltaje - utilizar con sensores externos que generan una tensión</p>
+</li>
+<li><p class="first">Base de tiempo / frecuencia - representa gráficamente la señal vs. tiempo o gráficos de la amplitud vs. frecuencia</p>
+</li>
+<li><p class="first">Intervalo de muestra - un archivo de texto &#8216;Registro Medir&#8217;se guarda en el Diario, contiene una muestra por cada intervalo</p>
+</li>
+<li><p class="first">Inicia / deja de guardar un archivo de texto &#8216;Registro Medir&#8217; con los valores medidos en forma de texto legible</p>
+</li>
+<li><p class="first">Esta función no está funcionando bien en la versión 36, la intención es sincronizar el período de la muestra a la forma de onda para que la muestra se inicie en el flanco ascendente o flanco descendente</p>
+</li>
+</ol>
+</div>
+<div class="section" id="applying">
+<h2>Aplicando<a class="headerlink" href="#applying" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Deja que los niños experimenten con el micrófono interno, intenta cantar, silbar, instrumentos musicales, la actividad musical Tam Tam. La Actividad Tortugarte Bloques puede generar un tono de audio, consulta el bloque Python.</p>
+<p>Los niños deben aprender por descubrimiento guiado que:</p>
+<ul class="simple">
+<li><p class="first">el sonido es una onda de presión</p>
+</li>
+<li><p class="first">el tono del sonido se determina por la frecuencia o ciclos por segundo (Hz)</p>
+</li>
+<li><p class="first">la intensidad de un sonido está determinada por la amplitud</p>
+</li>
+<li><p class="first">los sonidos contienen múltiples componentes de frecuencia o armónicos</p>
+</li>
+<li><p class="first">los sonidos más puros tienen menos de armónicos</p>
+</li>
+</ul>
+</div>
+<div class="section" id="sharing">
+<h2>Compartiendo<a class="headerlink" href="#sharing" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Esta actividad no admite compartir.</p>
+</div>
+<div class="section" id="extending">
+<h2>Extendiendo<a class="headerlink" href="#extending" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Medir es capaz de tomar la entrada de una amplia gama de sensores externos, incluyendo interruptores, fotocélulas, sensores de temperatura, bucles inductivos, sensores de efecto Hall, sondas de suelo y muchos más.</p>
+<p>Se debe tener cuidado para no exceder la tensión de entrada permitida:</p>
+<blockquote>
+<div><p>XO-1 -0.5 V a 5 V</p>
+<p>XO-1.5 -6 V a 9 V</p>
+<p>XO-1.75 -6 V a 9 V</p>
+</div></blockquote>
+<p>Es una buena idea, sobre todo en la XO-1, poner una resistencia de 680 ohmios en la clavija del microfono, esto aumenta el rango de tensión de entrada permitida.</p>
+<p>Puede encontrar ideas para experimentos científicos divertidos en <a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/TurtleArt/Using_Turtle_Art_Sensors">http://wiki.sugarlabs.org/go/Activities/TurtleArt/Using_Turtle_Art_Sensors</a> y <a class="reference external" href="http://wiki.laptop.org/go/Measure">http://wiki.laptop.org/go/Measure</a></p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Medir</a><ul>
+<li><a class="reference internal" href="#about">Acerca de</a></li>
+<li><a class="reference internal" href="#using">Uso</a></li>
+<li><a class="reference internal" href="#applying">Aplicando</a></li>
+<li><a class="reference internal" href="#sharing">Compartiendo</a></li>
+<li><a class="reference internal" href="#extending">Extendiendo</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="memorize.html" title="Memorizar"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="log.html" title="Registro"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

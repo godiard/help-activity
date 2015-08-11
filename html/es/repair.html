@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Reparaciones &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Evolución del Hardware" href="hardware_evolution.html" />
+    <link rel="prev" title="Carga de la batería" href="battery.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="hardware_evolution.html" title="Evolución del Hardware"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="battery.html" title="Carga de la batería"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="repairs">
+<h1>Reparaciones<a class="headerlink" href="#repairs" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>Tu XO está construida y diseñada para trabajos de reparación a ser completados con sólo tus manos y un destornillador, y la carcasa incluye tornillos adicionales en caso de que se los necesite. Por favor, consulta <a class="reference external" href="http://wiki.laptop.org/go/Disassembly">http://wiki.laptop.org/go/Disassembly</a> para detalles importantes sobre cómo iniciarte en las reparaciones.</p>
+<p>Para fotos e instrucciones paso a paso sobre la reparación de tu XO o como poner piezas de recambio, ve a <a class="reference external" href="http://wiki.laptop.org/go/Repair">http://wiki.laptop.org/go/Repair</a>.</p>
+<p>Consulta <a class="reference external" href="http://wiki.laptop.org/go/Repair_center_locations">http://wiki.laptop.org/go/Repair_center_locations</a> para llegar al directorio más reciente de centros de reparación, si no deseas reparar tu XO por ti mismo.</p>
+<div class="section" id="recalibrating-the-touchpad-on-the-xo-1-0">
+<h2>Recalibración del panel táctil en la XO 1. 0<a class="headerlink" href="#recalibrating-the-touchpad-on-the-xo-1-0" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Si el puntero no está siguiendo el dedo en el panel táctil de un XO 1.0, o si se salta a las esquinas cuando se toca el panel táctil, por favor intente este procedimiento de recalibración:</p>
+<p>Manten pulsadas las tres teclas a la vez: la parte superior izquierda, superior derecha, y abajo a la derecha del teclado y la cuarta tecla, Función, la tecla inferior izquierda , presionada por último, y luego liberaralas a todas.</p>
+<img alt="_images/Disassembly_Guide-Four_finger.png" src="_images/Disassembly_Guide-Four_finger.png" />
+<p>Si esto no ayuda, trata de apagar el ordenador portátil y de retirar la batería durante diez segundos antes de reiniciar.</p>
+<p>Por último, conecta un ratón USB estándar en su computadora portátil para evitar el problema.</p>
+</div>
+<div class="section" id="how-to-do-a-keyboard-test">
+<h2>Cómo realizar una prueba de teclado<a class="headerlink" href="#how-to-do-a-keyboard-test" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Comprobación de las teclas que se quedan abajo o aparecen pegados</p>
+<p>Tu XO debe tener la clave de un desarrollador para realizar esta prueba teclado. Consulta <a class="reference external" href="http://wiki.laptop.org/go/Developer_key">http://wiki.laptop.org/go/Developer_key</a> para obtener más información acerca de las claves de los desarrolladores.</p>
+<ol class="arabic simple">
+<li><p class="first">Con la XO, manten pulsado el botón de juego &#8220;check&#8221; o tilde (por encima del botón de encendido) mientras presiona el botón de encendido. Después de la puesta en marcha, la pantalla mostrará &#8220;Suelta las teclas de juego para continuar&#8221; y muestra un diagrama de texto con la tecla presionada.</p>
+</li>
+<li><p class="first">Suelta el botón del juego &#8220;check&#8221;.</p>
+</li>
+<li><p class="first">A continuación, después de ver &#8220;Presione la tecla Esc para interrumpir el inicio automático&#8221;, pulsa la tecla de escape en la esquina superior izquierda del teclado (un círculo con una x). La XO muestra un indicador ok.</p>
+</li>
+<li><p class="first">En el indicador ok, escribe:</p>
+</li>
+</ol>
+<blockquote>
+<div><p><tt class="docutils literal"><span class="pre">test</span> <span class="pre">keyboard</span></tt></p>
+<p>y pulsa Enter.</p>
+<p>Un mapa azul teclado aparece en la pantalla.</p>
+</div></blockquote>
+<ol class="arabic simple" start="5">
+<li><p class="first">Pulsa las teclas de una en una para ver el mapa del teclado tornar la tecla presionada en azul.</p>
+</li>
+<li><p class="first">Si la visualización de la pantalla muestra una tecla azul constantemente, el teclado tiene un problema con esa tecla pegada en particular. Recomendamos ir a un centro de reparación para el diagnóstico y la reparación completa en <a class="reference external" href="http://wiki.laptop.org/go/Repair_center_locations">http://wiki.laptop.org/go/Repair_center_locations</a>.</p>
+</li>
+<li><p class="first">Pulsa la tecla Escape (círculo con una x) de nuevo para salir de la prueba del teclado.</p>
+</li>
+<li><p class="first">En el indicador ok, escribe reboot para reiniciar.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="repairing-damage-to-the-keyboard">
+<h2>Reparación de daños en el teclado<a class="headerlink" href="#repairing-damage-to-the-keyboard" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Si el teclado está dañado, normalmente tiene que ser reemplazado. Los repuestos se encuentran disponibles a través de los centros de reparación. Información sobre piezas de repuesto y centros de reparación se puede encontrar en <a class="reference external" href="http://wiki.laptop.org/go/Repair_center_locations">http://wiki.laptop.org/go/Repair_center_locations</a>.</p>
+</div>
+<div class="section" id="troubleshooting-the-internal-xo-hardware">
+<h2>Solución de problemas del hardware interno de la XO<a class="headerlink" href="#troubleshooting-the-internal-xo-hardware" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>La XO le puede dar información acerca de las posibles reparaciones que sean necesarias.</p>
+<p>Comienza presionando el botón de encendido durante un segundo, y luego responde a las siguientes preguntas. ¿El LED semicircular de alimentación se enciende?</p>
+<p>Cuando se pulsa el botón de encendido una vez, y el LED de encendido no se enciende, primero trata de restablecerlo.</p>
+<p>Para restablecer la XO, retira todas las fuentes de alimentación del ordenador portátil:</p>
+<ol class="arabic simple">
+<li><p class="first">Saca la batería y retira el adaptador de corriente.</p>
+</li>
+<li><p class="first">Espere dos minutos. Esto permite al hardware incrustado perder todo el poder y restablecerse.</p>
+</li>
+<li><p class="first">Reemplaza al menos una fuente de alimentación, el adaptador de batería o alimentación, y ver el LED de alimentación / batería mientras lo hace.</p>
+</li>
+</ol>
+<p>El LED de batería debe parpadear momentáneamente naranja (alrededor de un cuarto de segundo) cuando la energía se vuelve a aplicar primero. Si no ves este flash, o bien tienes un problema de hardware de la placa base o un firmware EC defectuoso instalado. Pónte en contacto con un centro de reparación de asistencia.</p>
+<p>Si el LED de alimentación no se enciende ni parpadea, pero el portatil ilumina la luz de fondo de l pantalla e incluso arranca, el problema puede ser los propios LED o el driver de energía del LED. Los LEDs están en serie, por lo que si uno falla pueden fallar ambos.</p>
+<p>En raras ocasiones, el botón de encendido se queda atrapado mecánicamente. En este caso, el ordenador portátil no detecta la depresión del botón de encendido, y no se enciende. Asegúrate de que el botón de encendido se mueve libremente pulsandolo un par de veces.</p>
+<p>Si el LED de la batería se encendió cuando se restaura la energía y el botón de encendido no se ha quedado atascado, y no se detectan otros signos de vida, entonces no se puede determinar el motivo del error. Pónte en contacto con un centro de reparación de asistencia. ¿Se enciende la pantalla?</p>
+<p>Después de iniciar el XO y ver el LED de alimentación, la siguiente retroalimentación visible desde la XO es que se ilumine la pantalla. La pantalla LCD debe ser inicializado en blanco y luego comienza a mostrar texto o gráficos. La retroiluminación de la pantalla debe estar encendida, incluso si la luz de fondo se apagó previamente.</p>
+<p>Si esto no sucede, entonces la secuencia de arranque no esté funcionando correctamente. A continuación, consulte si se enciende el LED de actividad  del Micrófono. Si el LED de encendido y el LED del micrófono están ambos encendidos entonces se ha producido un error en el arranque serio y te debes ponerse en contacto con un centro de reparación de asistencia. ¿Puedes oír el sonido de inicio cuando el XO comienza?</p>
+<p>Si el sonido de inicio no se reproduce, esto suele indicar un problema que un centro de reparación necesita arreglar. Sí, sonido de inicio se escucha</p>
+<p>Si la pantalla no inicia, pero el sonido de arranque se escucha, entonces este es probablemente un problema con la pantalla. No, el XO inicia normalmente, pero no reproduce el sonido de arranque</p>
+<p>Si no se reproduce ningún sonido de arranque, pero la máquina arranca normalmente y tiene audio, es posible que el volumen de arranque por defecto se haya cambiado a 0. Mientras que el sonido de arranque está sonando, puedes ajustar el volumen mediante las teclas de ajuste de volumen. Este ajuste de volumen modificado se guardará y utilizará para los inicios futuros. Intenta aumentar el volumen justo después de arrancar el ordenador portátil un par de veces, y ver si el sonido de arranque retorna.</p>
+<p>Si no se reproduce ningún sonido de arranque, y la máquina arranca normalmente, pero no tiene audio ve <a class="reference external" href="http://wiki.laptop.org/go/XO_Troubleshooting_AV">http://wiki.laptop.org/go/XO_Troubleshooting_AV</a> . ¿La pantalla permanece en blanco después de la puesta en marcha?</p>
+<p>A veces la pantalla se activa (incluida la retroiluminación), pero no hay texto ni gráficos. Este problema puede ser causado por la eliminación de la alimentación a una XO mientras se está actualizando el firmware. Debes contactar a un centro de reparación de asistencia. ¿La pantalla dice &#8220;Connect power to proceed&#8221;? A veces, una actualización de firmware requiere de dos fuentes de alimentación, tanto una batería y un adaptador de corriente. Si este es el problema, proporcionar ambas fuentes de poder y reinicia. La XO debe proceder con una actualización de firmware y arrancar normalmente. ¿La pantalla muestra un icono XO solo?</p>
+<p>Esto significa que la XO ha comenzado el proceso de inicio.</p>
+<p>Se puede ver mucha más información acerca de tu Open Firmware manteniendo pulsado el botón del juego &#8220;check&#8221; (por encima del botón de encendido) después de encender. Eso hace que el Open Firmware muestre mensajes más detallados acerca de lo que está haciendo durante el proceso de arranque seguro (incluyendo mensajes de arranque iniciales del núcleo de Linux). Los mensajes están en Inglés solamente. ¿Se muestra un icono XO con un número de serie y tres iconos debajo de ella?</p>
+<p>Si l portatil se inicia, pero se detiene cuando se muestra el icono de XO en el centro de la pantalla, seguido por un número de serie (e. g. CSN74902B22) y tres iconos (disco SD, disco USB, intensidad de la señal de red), es que está en busca su clave de activación. Esto a la larga debe imprimir &#8220;Activation lease not found&#8221; en la parte superior de la pantalla y el apagado poco después.</p>
+<p>La solución es volver a activar el ordenador portátil. Obten una copia de la clave de activación (o una nueva clave de activación) del gerente de activación de tu país, (un archivo llamado &#8220;lease.sig &#8221;) colócalo en el directorio de nivel superior de una llave USB y arrancar el ordenador portátil. Ve la sección &#8220;¿qué hacer con las llaves de activación&#8221; en: <a class="reference external" href="http://wiki.laptop.org/go/Activation_and_Developer_Keys">http://wiki.laptop.org/go/Activation_and_Developer_Keys</a>. ¿Se muestra un icono XO con una &#8220;cara triste&#8221; por encima de ella?</p>
+<p>Esto significa que Open Firmware no pudo encontrar un sistema operativo firmado en la memoria flash interna. El arranque de firmware también ve en memorias USB y tarjetas SD para obtener software de sistema operativo firmado.</p>
+<p>Intenta actualizar o volver a instalar el software: <a class="reference external" href="http://wiki.laptop.org/go/Secure_Upgrade">http://wiki.laptop.org/go/Secure_Upgrade</a>. ¿Hay un Icono de XO con un solo punto por debajo de ella?</p>
+<p>Si la XO se enciende, pero se detiene cuando acaba de mostrar el icono de XO en el medio, con un solo punto por debajo de ella, significa que algo andaba mal cuando el sistema operativo Linux empezó. Cuando esto sucede, trate de actualizar o reinstalar el XO. Si esto ha ocurrido a la misma XO más de una vez, considera un centro de reparación para el diagnóstico y la reparación completa <a class="reference external" href="http://wiki.laptop.org/go/Repair_center_locations">http://wiki.laptop.org/go/Repair_center_locations</a>.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Reparaciones</a><ul>
+<li><a class="reference internal" href="#recalibrating-the-touchpad-on-the-xo-1-0">Recalibración del panel táctil en la XO 1. 0</a></li>
+<li><a class="reference internal" href="#how-to-do-a-keyboard-test">Cómo realizar una prueba de teclado</a></li>
+<li><a class="reference internal" href="#repairing-damage-to-the-keyboard">Reparación de daños en el teclado</a></li>
+<li><a class="reference internal" href="#troubleshooting-the-internal-xo-hardware">Solución de problemas del hardware interno de la XO</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="hardware_evolution.html" title="Evolución del Hardware"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="battery.html" title="Carga de la batería"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>

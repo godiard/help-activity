@@ -1,0 +1,427 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Cómo editar Ayuda y contribuir &mdash; documentación de Sugar - 0.104</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.104',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  false
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <script type="text/javascript" src="_static/translations.js"></script>
+    <link rel="author" title="Sobre este documento" href="about.html" />
+    <link rel="top" title="documentación de Sugar - 0.104" href="index.html" />
+    <link rel="next" title="Escribiendo en reStructuredText" href="restructuredtext.html" />
+    <link rel="prev" title="Créditos y derechos de autor" href="credits_copyright.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="restructuredtext.html" title="Escribiendo en reStructuredText"
+             accesskey="N">siguiente</a></li>
+        <li class="right" >
+          <a href="credits_copyright.html" title="Créditos y derechos de autor"
+             accesskey="P">anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="how-to-edit-help-and-contribute">
+<h1>Cómo editar Ayuda y contribuir<a class="headerlink" href="#how-to-edit-help-and-contribute" title="Enlazar permanentemente con este título">¶</a></h1>
+<div class="admonition note">
+<p class="first admonition-title">Nota</p>
+<p>Página para revisión.</p>
+<p class="last">Las correcciones, omisiones y retroalimentación son bienvenidas, iain at browndouglas dot com . 28 de noviembre 2013.</p>
+</div>
+<p>Ayuda muestra documentación de Sugar y el portátil XO.</p>
+<p>Esta versión de ayuda contiene todos los archivos de código fuente y las imágenes, y ahora permite ref:<cite>View source</cite>. Estos archivos se pueden editar y ver en Ayuda. La ayuda es ahora capaz de producir nuevas páginas para Ayuda, o hacer documentación completamente nueva.</p>
+<p>Esta página tiene como objetivo mostrar cómo escribir documentación atractiva, que, si los usuarios compartir su trabajo, podría ser utilizado para mejorar la Ayuda. Para contribuir sólo necesitas:</p>
+<ul class="simple">
+<li><p class="first">Crear un entorno de desarrollo</p>
+</li>
+<li><p class="first">Hacer los cambios</p>
+</li>
+<li><p class="first">Contribuir con los cambios</p>
+</li>
+</ul>
+<div class="section" id="create-a-development-environment">
+<h2>Crear un entorno de desarrollo<a class="headerlink" href="#create-a-development-environment" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>XO Help.xo 17 ya incluye los archivos de fuentes listos para usar.</p>
+<p>Alternativamente, puedes utilizar git para obtener la Actividad Ayuda con los fuentes más recientes incluidos. Si tienes la actividad de ayuda ya instalado, desinstalala primero. Generalmente una Actividad se desinstala desde la Vista Hogar, en la VIsta de  Lista, mediante la selección de la Actividad y pulsando Borrar. Dónde Borrar no está disponible, es necesario eliminar la actividad `` Ayuda. `` de la carpeta <tt class="docutils literal"><span class="pre">~/Activities</span></tt>.</p>
+<p>La siguiente guía supone que  tu haz hecho <tt class="docutils literal"><span class="pre">git</span> <span class="pre">clone</span></tt> desde su directorio principal. Este comando recoger todos los recursos necesarios.</p>
+<div class="highlight-python"><div class="highlight"><pre>git clone git@github.com:godiard/help-activity.git
+</pre></div>
+</div>
+<p>Se puede instalar en el entorno de desarrollo de Sugar haciendo:</p>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+./setup.py dev
+</pre></div>
+</div>
+<p>Necesita tener un ambiente de Sugar completa para correr &#8220;setup.py dev&#8221; si tienes un error en tu sistema, trata de ejecutarlo en la Actividad Terminal.</p>
+<p>y, cuando estes listo, llenar tus páginas de Ayuda</p>
+<div class="highlight-python"><div class="highlight"><pre>make html
+</pre></div>
+</div>
+<p>Puedes modificar cualquier archivo .rst primero en ~ /help-activity/source/ o las imágenes en su directorio ~/help-activity/source/images/.</p>
+<p>Para crear los nuevos archivos HTML sólo necesitas hacer:</p>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+make html
+</pre></div>
+</div>
+<p>Si ves un error que indica que el HTML no se pudo construir, la causa más probable es que falte <tt class="docutils literal"><span class="pre">python-sphinx</span></tt>.</p>
+<p>Para solucionar este problema, en la Actividad Terminal (o cualquier emulador de terminal) haz como root,</p>
+<div class="highlight-python"><div class="highlight"><pre>yum install python-sphinx
+</pre></div>
+</div>
+<p>o en derivados de Debian o Ubuntu,</p>
+<div class="highlight-python"><div class="highlight"><pre>sudo apt-get install python-sphinx
+</pre></div>
+</div>
+<p>En <strong>Sugar</strong> no es necesario reiniciar Ayuda para ver los cambios después de ejecutar <tt class="docutils literal"><span class="pre">make</span> <span class="pre">html</span></tt>, basta con hacer clic con el botón secundario del ratón y selecciona recarga.</p>
+<p>En cualquier otro ambiente distinto a Sugar, Linux el comando `` git clone <a class="reference external" href="mailto:git&#37;&#52;&#48;github&#46;com">git<span>&#64;</span>github<span>&#46;</span>com</a>:godiard/help-activity.git`` funciona para descargar el código fuente,``./setup.py dev`` debe omitirse, y la salida de `` make html`` está en <tt class="docutils literal"><span class="pre">~/help-activity/html</span></tt>, y se muestra al abrir `` ~/help-activity/html/index.html`` en un navegador.</p>
+<div class="section" id="what-if-i-break-help">
+<h3>¿Qué pasa si rompo ayuda?<a class="headerlink" href="#what-if-i-break-help" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>En Sugar no se puede romper Ayuda. Si comienzas a seguir estas instrucciones y te pierdes o cometes un error, y Ayuda no se muestra correctamente, no debes preocuparte.</p>
+<p>Primero haz una copia de seguridad de los archivos .rst que ya haz hecho, a continuación, visita <a href="#id1"><span class="problematic" id="id2">`</span></a>ASLO &lt;<a class="reference external" href="http://activities.sugarlabs.org">http://activities.sugarlabs.org</a>&gt; <a href="#id3"><span class="problematic" id="id4">`</span></a>_ con Navegar, búsca Ayuda y descarga e instala una nueva copia de XO Ayuda.</p>
+<p>Alternativamente, los usuarios experimentados pueden hacer una copia de seguridad. del .xo antes de comenzar a trabajar haciendo:</p>
+<div class="highlight-python"><div class="highlight"><pre>./setup.py dist_xo
+</pre></div>
+</div>
+<p>Esto creará un directorio dist y en el interior, un. archivo .xo.</p>
+</div>
+<div class="section" id="tutorial-0-browse-filesystem">
+<h3>Tutorial 0 - Explorar sistema de archivos<a class="headerlink" href="#tutorial-0-browse-filesystem" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>En Navegar y algunos otros navegadores si escribes</p>
+<div class="highlight-python"><div class="highlight"><pre>file:///
+</pre></div>
+</div>
+<p>en la barra de direcciones, estarás navegando la raíz del sistema de archivos.</p>
+<p>Ahora muevete progresivamente a través</p>
+<div class="highlight-python"><div class="highlight"><pre>file:///home
+
+file:///home/your-username
+
+file:///home/your-username/help-activity
+
+file:///home/your-username/help-activity/source
+</pre></div>
+</div>
+<p>Ahora eres capaz de abrir e inspeccionar cualquiera de los <em>archivos fuentes .rst</em> en forma segura.</p>
+<p>Podemos retroceder de nuevo y llegar</p>
+<div class="highlight-python"><div class="highlight"><pre>file:///home/your-username/help-activity/html
+</pre></div>
+</div>
+<p>y luego seleccionar y mostrar cualquiera de los archivos HTML de salida.</p>
+<p>En esta página se utiliza la convención de llamar <tt class="docutils literal"><span class="pre">/home/tu-nombre/help-activity/source</span></tt> por el más corto, <tt class="docutils literal"><span class="pre">~/help-actividad/source</span></tt>.</p>
+</div>
+<div class="section" id="orientation">
+<span id="id1"></span><h3>Orientación<a class="headerlink" href="#orientation" title="Enlazar permanentemente con este título">¶</a></h3>
+<p><strong>Fuentes</strong></p>
+<p>Las dos carpetas de origen que miramos se llenan inicialmente por la descarga de Ayuda.</p>
+<p>El directorio <tt class="docutils literal"><span class="pre">~/help-activity/source/</span></tt> contiene los archivos de texto que vamos a alterar en esta guía.</p>
+<p>El directorio <tt class="docutils literal"><span class="pre">~/help-activity/images/</span></tt> contiene todas las imágenes que se utilizan en las distintas páginas de Ayuda. Puedes agregar archivos de imagenes a esta carpeta, y si están vinculados a documentos, se mostrarán en la <em>salida</em> de la orden <tt class="docutils literal"><span class="pre">make</span> <span class="pre">html</span></tt>.</p>
+<p>En Sugar usted tiene la capacidad de inspeccionar los archivos de origen de forma segura, utilizando el boton <a class="reference internal" href="sugar_features.html#view-source"><em>Ver código fuente</em></a> en el icono Ayuda en el Marco.</p>
+<p>La página clave en la navegación de Ayuda es la página de índice o de contenidos. En la carpeta <a href="#id1"><span class="problematic" id="id2">``</span></a>~ /help-activity/source// ` el archivo, ` <cite>índex. rst</cite> es el documento de texto que proporciona automáticamente los enlaces a todas las otras páginas de la carpeta de origen.</p>
+<p><strong>Salida</strong></p>
+<p>Las páginas mostradas en la Ayuda son el resultado del comando <tt class="docutils literal"><span class="pre">make</span> <span class="pre">html</span></tt>. Los archivos están en la carpeta <tt class="docutils literal"><span class="pre">~/help-activity/html/</span></tt>.</p>
+<p>También forman parte de la salida de la orden <tt class="docutils literal"><span class="pre">make</span> <span class="pre">html</span></tt> los archivos de <tt class="docutils literal"><span class="pre">~/help-activity/doctrees/</span> <span class="pre">``.</span> <span class="pre">El</span> <span class="pre">papel</span> <span class="pre">de</span> <span class="pre">los</span> <span class="pre">``</span> <span class="pre">archivos</span> <span class="pre">``all_files.doctree</span></tt> es conseguir la interconexión de todas las páginas HTML dentro de las reglas del software subyacente.</p>
+<p>Dependiendo de la configuración de su instalación puede haber un número de otras carpetas presentes en el directorio ~/help-activity/html/ carpeta (por ejemplo <tt class="docutils literal"><span class="pre">_sources</span></tt>, <tt class="docutils literal"><span class="pre">_static</span></tt>, e <tt class="docutils literal"><span class="pre">_images</span></tt>). Estos son también <em>archivos de salida</em>, podrían ser considerados como carpetas ocultas, y no deben ser editados.</p>
+</div>
+</div>
+<div class="section" id="make-changes">
+<h2>Hacer los cambios<a class="headerlink" href="#make-changes" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Puedes escribir una página en texto simple, tal vez con algunas imágenes explicativas o fotografías de pantalla. Las instantáneas de pantallas se hacen en Sugar desde el teclado, pulsando la tecla &#8220;Alt&#8221; y 1.</p>
+<p>La página <a class="reference internal" href="restructuredtext.html"><em>Escribiendo en reStructuredText</em></a> da una orientación sobre las características del lenguaje de marcas que utilizamos. No te preocupes con características complejas, texto plano, simplemente escrito será de mayor utilidad para los nuevos estudiantes.</p>
+<p>Tendrás tus propias ideas acerca de lo que te gustaría cambiar y contribuir. Cuando expliques algo, que hayas tenido problemas para aprender, es probable que sea de utilidad para otros. Al ver tu trabajo publicado da una gran alegría!</p>
+<p>Aquí hay algunos ejercicios, que demuestran como realizar cambios, y hacer páginas.</p>
+<div class="section" id="tutorial-1-make-a-page">
+<h3>Tutorial 1 - Hacer una página<a class="headerlink" href="#tutorial-1-make-a-page" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Vamos a hacer una nueva página en reStructuredText. Al principio no estará conectado al índice o página de contenidos, de Ayuda.</p>
+<ol class="arabic simple">
+<li><p class="first">Abre un nuevo archivo en cualquier editor de texto.</p>
+</li>
+<li><p class="first">Guarda el archivo con el nombre de <tt class="docutils literal"><span class="pre">my_first.rst</span></tt> en <tt class="docutils literal"><span class="pre">~/</span> <span class="pre">help-actividad/source</span></tt>. Escribe algún texto en la página. Con el fin de dar a la página un título ponemos una línea de &#8220;=&#8221; &#8220;signos de igualdad&#8221; por encima y por debajo del título como este. Deja una línea de espacio en blanco, a continuación, escribe algún texto. Este es un ejemplo:</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>=============
+My first page
+=============
+
+I am going to learn to write a Help page.
+</pre></div>
+</div>
+<ol class="arabic simple" start="3">
+<li><p class="first">Ahora queremos convertir nuestra página de texto en una página atractiva de Ayuda. Abre la Actividad Terminal (o cualquier emulador de terminal) y tipéa,</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+make html
+</pre></div>
+</div>
+<ol class="arabic simple" start="4">
+<li><p class="first">Habrá cerca de diez líneas de salida, habrá una mención a los errores. Leer la traza de error, esperan ver una línea de error como la de abajo, pero las dos últimas líneas reportarán un éxito.</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>~/help-activity/source/my_first.rst:: WARNING: document isn&#39;t included in any toctree
+...
+build succeeded, 3 warnings.
+Build finished. The HTML pages are in ./html.
+</pre></div>
+</div>
+<p>La advertencia, &#8220;WARNING: document isn&#8217;t included in any toctree&#8221; nos está diciendo que el documento no está vinculado al Índice de ayuda aún.</p>
+<p>Tutorial 2 solucionará el problema. Ya existe y se puede ver como luce si lo puede encontrar como se describió anteriormente con un navegador en <tt class="docutils literal"><span class="pre">~/help-activity/html</span></tt>.</p>
+</div>
+<div class="section" id="tutorial-2-link-page-to-index">
+<h3>Tutorial 2 - Enlace a la página índice<a class="headerlink" href="#tutorial-2-link-page-to-index" title="Enlazar permanentemente con este título">¶</a></h3>
+<ol class="arabic simple">
+<li><p class="first">Haz una copia de seguridad de tu archivo de índice. Abre Actividad Terminal (o cualquier emulador de terminal) y tipéa,</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+cd source
+cp index.rst index.rst.ori
+</pre></div>
+</div>
+<p>Aqui, hemos cambiado al directorio help-activity, cambiado de directorio a source, y copiado <tt class="docutils literal"><span class="pre">index.</span> <span class="pre">rst</span></tt> en un nuevo archivo llamado <tt class="docutils literal"><span class="pre">index.rst.ori</span></tt></p>
+<ol class="arabic simple" start="2">
+<li><p class="first">Antes de proceder asegúrate de que estas familiarizado con la forma de restaurar el índice desde la copia de seguridad, en caso de que se causara daños en el índice de Ayuda.</p>
+</li>
+<li><p class="first">Abre <tt class="docutils literal"><span class="pre">~/help-activity/source/index.rst</span></tt> con un editor de texto. Observa el espacio entre líneas (líneas de espacio en blanco en especial) y guiones. Es muy importantes mantenerlos.</p>
+</li>
+<li><p class="first">Desplácese hacia abajo en <tt class="docutils literal"><span class="pre">index.rst</span></tt> derecho a la parte inferior de la página. Ponga el cursor en la parte delantera de la última línea. Usando las flechas, verá que el guión es de 4 &#8220;espacios&#8221;, no es &#8220;Tab&#8221;.</p>
+</li>
+<li><p class="first">Ponga el cursor al final de la última línea. Pulse <em>Ingresar</em>, presione la barra espaciadora 4 veces, y escriba el nombre de archivo que utilizó `` my_page.rst``. Utilice &#8220;Ingresar&#8221; y la barra de espacio para que se copia exactamente la sangría y espaciado de línea que se utiliza en el resto de entradas.</p>
+</li>
+<li><p class="first">Vuelve a comprobar tus cambios <tt class="docutils literal"><span class="pre">index.rst</span></tt> y guardar los cambios.</p>
+</li>
+<li><p class="first">Ahora queremos convertir nuestro índice en HTML. Abre la Actividad Terminal (o cualquier emulador de terminal) y tipéa,</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+make html
+</pre></div>
+</div>
+<ol class="arabic simple" start="8">
+<li><p class="first">La página de índice recién cambiado se mostrará en la Ayuda, o en su navegador, una vez que vuelva a cargar la página. En Sugar hace clic con el botón secundario y selecciona recarga, o en un navegador que apunta a `` ~/help-activity/html/index.html`` pulse el botón de recarga. En el índice o página de contenidos, el vínculo con la nueva página se puede hacer clic para abrir la página &#8220;my_page.html&#8221;</p>
+</li>
+</ol>
+</div>
+<div class="section" id="tutorial-3-adding-an-image">
+<h3>Tutorial 3 - Adición de una imagen<a class="headerlink" href="#tutorial-3-adding-an-image" title="Enlazar permanentemente con este título">¶</a></h3>
+<ol class="arabic simple">
+<li><p class="first">Abre tu página existente en cualquier editor de texto, o crea y &#8220;Títula&#8221; una nueva página, y agregala a la parte inferior del índice.</p>
+</li>
+<li><p class="first">Una imagen que ya está en <tt class="docutils literal"><span class="pre">~/help-activity/images/</span></tt> se puede incluir escribiendo esto en tu página.</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>.. image :: ../images/Help.png
+</pre></div>
+</div>
+<p>La &#8220;línea de referencia&#8221; anterior necesita una línea de espacio en blanco, por encima y por debajo de ella.</p>
+<ol class="arabic simple" start="3">
+<li><p class="first">Puedes agregar un archivo de imagen en formatos .jpg o .png a <tt class="docutils literal"><span class="pre">~/help-activity/images/</span></tt>. Lo mejor es que la imagen no sea superior a 800 píxeles de ancho. Puede ser difícil de leer imágenes altas. Por esta razón, capturas de pantalla de 600 píxeles de ancho pueden ser un buen compromiso si el contenido es simple.</p>
+</li>
+<li><p class="first">Si agregas un archivo de imagen <tt class="docutils literal"><span class="pre">my_image.png</span></tt>, hecha en, digamos, Pintar a <tt class="docutils literal"><span class="pre">~/help-activity/images/</span></tt>, entonces enlazalo en tu página con:</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>.. image :: ../images/my_image.png
+</pre></div>
+</div>
+<ol class="arabic simple" start="5">
+<li><p class="first">Ahora queremos convertir nuestra página con una imagen en HTML. Abre la Actividad Terminal (o cualquier emulador de terminal) y tipéa,</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+make html
+</pre></div>
+</div>
+<ol class="arabic simple" start="6">
+<li><p class="first">La página recién cambiada se mostrará en la Ayuda, o en tu navegador, una vez que vuelvas a cargar la página.</p>
+</li>
+</ol>
+</div>
+<div class="section" id="tutorial-4-write-or-improve-a-help-page">
+<h3>Tutorial 4 - Escribir o mejorar una página de ayuda<a class="headerlink" href="#tutorial-4-write-or-improve-a-help-page" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>Decide si deseas hacer una página comenzando de cero, podrías comenzar a escribir sobre un tema del que usted sabes. Alternativamente puedes experimentar con la mejora de una página existente. Podría trabajar en el texto de una página existente (que podría ser esta página) o una página más sencilla.</p>
+<ol class="arabic simple">
+<li><p class="first">Abre <tt class="docutils literal"><span class="pre">~/help-activity/fuente/index.rst</span></tt>.</p>
+</li>
+<li><p class="first">Pon el cursor al final de la última línea. Pulsa <em>Ingresar</em>, presiona la barra espaciadora 4 veces, e introduce un nuevo nombre de archivo, tal vez, <tt class="docutils literal"><span class="pre">my_second.rst</span></tt>. Utiliza &#8220;Ingresar&#8221; y la barra de espacio para que se copie exactamente la sangría y espaciado de línea que se utiliza en el resto de las entradas.</p>
+</li>
+<li><p class="first">Vuelve a comprobar tus cambios <tt class="docutils literal"><span class="pre">index.rst</span></tt> y guardar los cambios.</p>
+</li>
+<li><p class="first">Abre un nuevo archivo en cualquier editor de texto.</p>
+</li>
+<li><p class="first">Guarda la página con el nuevo nombre de archivo elegido anteriormente, tal vez, <tt class="docutils literal"><span class="pre">my_second.rst</span></tt>.</p>
+</li>
+<li><p class="first">Escribe un título como este:</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>==================
+How I changed Help
+==================
+</pre></div>
+</div>
+<ol class="arabic simple" start="7">
+<li><p class="first">Introduce el texto y guardar los cambios.</p>
+</li>
+<li><p class="first">Ahora queremos convertir nuestra página en HTML. Abre Actividad Terminal (o cualquier emulador de terminal) y tipéa,</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+make html
+</pre></div>
+</div>
+<ol class="arabic simple" start="9">
+<li><p class="first">La página recién generado se mostrará ahora en la Ayuda, o en tu navegador, una vez que vuelva a cargar la página.</p>
+</li>
+<li><p class="first">Ahora puedes volver a la página y mejorarla.</p>
+</li>
+<li><p class="first">Una vez más, escribe los cambios en la versión HTML, con:</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+make html
+</pre></div>
+</div>
+<ol class="arabic simple" start="12">
+<li><p class="first">Ahora haz escrito tu primera página mejorada para la Actividad Ayuda. Nos encantaría si pudieras compartir con la comunidad de Sugar!</p>
+</li>
+</ol>
+</div>
+</div>
+<div class="section" id="contribute">
+<span id="id2"></span><h2>Contribuir<a class="headerlink" href="#contribute" title="Enlazar permanentemente con este título">¶</a></h2>
+<p>Una vez que estés familiarizado con la edición, la adición de una página, y hacer o mejorar una página de ayuda, podrías hacer una página con la intención de que se publique en la próxima versión de Ayuda.</p>
+<p>Puede escribir un tutorial sobre un tema acerca del que tu sepas.</p>
+<p>En la próxima versión de la Actividad Ayuda, mejores páginas &#8220;Nuevo a Sugar&#8221; podrían ser incluidos en el comienzo de Ayuda, como una introducción rápida para los nuevos estudiantes de Sugar. Contribuciones a considerar serían bienvenidas.</p>
+<p>Algunas actividades no tienen instrucciones fáciles de encontrar. Si tu puedes escribir incluso una muy breve introducción, podría ser muy útil para otros estudiantes de Sugar.</p>
+<p>La página wiki <a class="reference external" href="http://wiki.sugarlabs.org/go/Activities/Help/Contribute">http://wiki.sugarlabs.org/go/Activities/Help/Contribute</a> podría tener algunas ideas sobre las páginas que han sido solicitadas, o en las que otros están trabajando y pudieran apreciar colaboración.</p>
+<div class="section" id="what-to-do-with-your-finished-work">
+<h3>¿Qué hacer con su obra terminada<a class="headerlink" href="#what-to-do-with-your-finished-work" title="Enlazar permanentemente con este título">¶</a></h3>
+<p>En primer lugar usted puede ponerse en contacto brevemente con gonzalo at laptop dot org por e-mail y decirle lo que le gustaría contribuir. Si se escribe una nueva página, se le puede enviar la página (como my_page.rst) como un archivo adjunto a un e-mail explicando brevemente lo que se adjunta. Si nuevas imágenes están vinculadas a la página, envíalas también.</p>
+<p>Si tu haz mejorado una página, el método preferido es el de enviar como un &#8220;parche&#8221;.</p>
+</div>
+<div class="section" id="tutorial-5-generate-a-patch">
+<h3>Tutorial 5 - generar un parche<a class="headerlink" href="#tutorial-5-generate-a-patch" title="Enlazar permanentemente con este título">¶</a></h3>
+<ol class="arabic simple">
+<li><p class="first">Digamos que tu decides trabajar en la página de ayuda, &#8220;Cambiando Actividades&#8221; . Puedes hacer una copia de seguridad de que la página antes de empezar. Abre la Actividad Terminal (o cualquier emulador de terminal) y tipéa,</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+cd source
+cp switching_activities.rst switching_activities.rst.ori
+</pre></div>
+</div>
+<p>Aqui, hemos cambiado el directorio help-activity, cambiado al directorio de fuentes, y copiado <tt class="docutils literal"><span class="pre">switching_activities.rst</span></tt> en un nuevo archivo llamado <tt class="docutils literal"><span class="pre">switching_activities.rst.ori</span></tt></p>
+<ol class="arabic simple" start="2">
+<li><p class="first">Realiza los cambios en <tt class="docutils literal"><span class="pre">switching_activities.rst</span></tt>. Guarda los cambios con regularidad, y comprobar mediante la ejecución del comando <tt class="docutils literal"><span class="pre">make</span> <span class="pre">html</span></tt> que se muestre la página correctamente. Una vez que estés satisfecho con tu trabajo, puedes generar un parche asi:</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>cd help-activity
+cd source
+diff -u switching_activities.rst.ori switching_activities.rst &gt; switching_activities.patch
+</pre></div>
+</div>
+<ol class="arabic simple" start="3">
+<li><p class="first">El parche se puede enviar como archivo adjunto de correo electrónico.</p>
+</li>
+<li><p class="first">Para obtener más información, en la Actividad Terminal (o cualquier emulador de terminal) tipéa,</p>
+</li>
+</ol>
+<div class="highlight-python"><div class="highlight"><pre>man diff
+</pre></div>
+</div>
+<p>y</p>
+<div class="highlight-python"><div class="highlight"><pre>man patch
+</pre></div>
+</div>
+</div>
+</div>
+<div class="section" id="further-reading">
+<span id="id3"></span><h2>Para leer más<a class="headerlink" href="#further-reading" title="Enlazar permanentemente con este título">¶</a></h2>
+<p><img alt="more" src="_images/more.png" /> Para obtener ayuda más completa sobre reStructuredText:</p>
+<p>ReStructuredText rápida, <a class="reference external" href="http://docutils.sourceforge.net/docs/user/rst/">http://docutils.sourceforge.net/docs/user/rst/</a>,  es una hoja de trucos para reStructuredText.</p>
+<p>&#8220;Directivas reStructuredText&#8221; <a class="reference external" href="http://docutils.sourceforge.net/docs/ref/rst/directives.html">http://docutils.sourceforge.net/docs/ref/rst/directives.html</a> por David Goodger, Marzo 2013.</p>
+<p>Sphinx reStructuredText Básico, <a class="reference external" href="http://sphinx-doc.org/rest.html">http://sphinx-doc.org/rest.html</a>, una breve introducción a reStructuredText conceptos y sintaxis.</p>
+<p>Página de inicio Sphinx, <a class="reference external" href="http://sphinx-doc.org/index.html">http://sphinx-doc.org/index.html</a>.</p>
+<p>Otro tutorial, <a class="reference external" href="http://matplotlib.org/sampledoc/">http://matplotlib.org/sampledoc/</a>.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Tabla de Contenidos</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Cómo editar Ayuda y contribuir</a><ul>
+<li><a class="reference internal" href="#create-a-development-environment">Crear un entorno de desarrollo</a><ul>
+<li><a class="reference internal" href="#what-if-i-break-help">¿Qué pasa si rompo ayuda?</a></li>
+<li><a class="reference internal" href="#tutorial-0-browse-filesystem">Tutorial 0 - Explorar sistema de archivos</a></li>
+<li><a class="reference internal" href="#orientation">Orientación</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#make-changes">Hacer los cambios</a><ul>
+<li><a class="reference internal" href="#tutorial-1-make-a-page">Tutorial 1 - Hacer una página</a></li>
+<li><a class="reference internal" href="#tutorial-2-link-page-to-index">Tutorial 2 - Enlace a la página índice</a></li>
+<li><a class="reference internal" href="#tutorial-3-adding-an-image">Tutorial 3 - Adición de una imagen</a></li>
+<li><a class="reference internal" href="#tutorial-4-write-or-improve-a-help-page">Tutorial 4 - Escribir o mejorar una página de ayuda</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#contribute">Contribuir</a><ul>
+<li><a class="reference internal" href="#what-to-do-with-your-finished-work">¿Qué hacer con su obra terminada</a></li>
+<li><a class="reference internal" href="#tutorial-5-generate-a-patch">Tutorial 5 - generar un parche</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#further-reading">Para leer más</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navegación</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="restructuredtext.html" title="Escribiendo en reStructuredText"
+             >siguiente</a></li>
+        <li class="right" >
+          <a href="credits_copyright.html" title="Créditos y derechos de autor"
+             >anterior</a> |</li>
+        <li><a href="index.html">documentación de Sugar - 0.104</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2015, SugarLabs.
+      Creado con <a href="http://sphinx-doc.org/">Sphinx</a> 1.2.3.
+    </div>
+  </body>
+</html>
