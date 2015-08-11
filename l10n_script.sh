@@ -54,10 +54,8 @@ if [ ! -d $DESTINATION_DIR ]; then
 fi
 sphinx-build -b html -Dlanguage=$LANGUAGE $SOURCE_DIR $DESTINATION_DIR
 
-# remove images and static files in the translated directories
+# remove images files in the translated directories
 rm -rf $DESTINATION_DIR/_images
-rm -rf $DESTINATION_DIR/_static
 
-# create symbolic links to _images and _static
+# create symbolic links to _images
 ln -rs images $DESTINATION_DIR/_images
-ln -rs html/_static $DESTINATION_DIR/_static
