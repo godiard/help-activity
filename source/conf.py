@@ -48,7 +48,7 @@ copyright = u'2015, SugarLabs'
 # built documents.
 #
 # The short X.Y version.
-version = '0.104'
+version = '0.106'
 # The full version, including alpha/beta/rc tags.
 release = version
 
