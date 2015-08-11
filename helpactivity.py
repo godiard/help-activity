@@ -125,7 +125,7 @@ class HelpActivity(activity.Activity):
         if uri.find('_images') > -1:
             if uri.find('/%s/_images/' % get_current_language()) > -1:
                 new_uri = uri.replace('/html/%s/_images/' %
-                                      get_current_language,
+                                      get_current_language(),
                                       '/images/')
             else:
                 new_uri = uri.replace('/html/_images/', '/images/')
