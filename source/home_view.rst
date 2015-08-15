@@ -30,7 +30,7 @@ Favorites View
 
 .. image:: ../images/Home_fav-search.png
 
-When a search is started the Activities which don't correspond to the result are greyed out.
+When a search is done the Activities which don't correspond to the result are greyed out.  If only one Activity matches the search, the full name will replace what has been typed, and pressing enter will launch the Activity.
 
 List View
 ---------

@@ -13,9 +13,9 @@ Accessing the Journal
 
 .. image:: ../images/Journal_home.png
 
-To show the Journal, click the Journal icon on the Frame.
+To show the Journal, click the Journal icon on the Frame, or use the F5 key.
 
-On an XO laptop, you can press the magnifying glass key in the top row of the keyboard to immediately open the Journal and search.
+On an XO laptop, you can press the magnifying glass key in the top row of the keyboard.
 
 |journal| **Seen in an Activity**, this icon on the Activity toolbar (or Activity tab) allows quick access to the Journal, to add a description, or further notes to yourself about what you are going to do, or have done in that session of the Activity.
 
@@ -30,14 +30,14 @@ Journal features
 The Journal View contains a menu and a list of journal entries:
 
 *  1 - Favorite star: You can mark important entries by clicking on the star icon for that entry. When you click the star icon, the star is colored in.
-*  2 - Entry icon: Each Journal entry has an icon. The color of the icon shows who created the entry. For example, if you copy a photo from a friend, the photo's icon has your friend's colors. You can launch the Activity for the entry by clicking on the icon. A hover menu may reveal additional options. In particular, "Erase" deletes that entry from your Journal. Caution: "Erase" deletes any data associated with the entry shown. For example, if you delete an entry that shows that you installed an Activity, you delete the Activity as well.
-*  3 - Entry name: Each entry has a name. You can edit the name by clicking it. If the Journal view is showing the contents of a removable storage device, the Linux file name is shown here, with the path and the file name extension stripped off.
+*  2 - Entry icon: Each Journal entry has an icon. The color of the icon shows who created the entry. For example, if you copy a photo from a friend, the photo's icon has your friend's colors. You can launch the Activity for the entry by clicking on the icon. A hover menu may reveal additional options. In particular, "Erase" deletes that entry from your Journal.
+*  3 - Entry name: Each entry has a name. You can edit the name by clicking it.
 *  4 - Search box: Type words in the box to search for entries that match those words. Entries are displayed when they contain all of the typed words. Comparison will be against all of: the entry name field, the description field (see "Journal detail view"), the comments field and the tag field (see "Journal detail view"). Note: A small x button at the right of the box shows that searching is being applied. To cancel your search, click on that x.
 *  5 - Favorites view: Only shows the entries which have been marked as favorites.
-*  6 - Type filter: You can select to have the Journal only show certain types of entries, e.g. only images or only entries associated with a specific Activity.
-*  7 - Date filter: Contains option to only show Journal entries modified within the past day, week, or month.
-*  8 - Sorting options: You can order Journal entries by their size, creation date and modification date.
-*  9 - Documents folder: To exchange files between the Journal and the underlying file system the $HOME/DOCUMENTS folder is available in the Journal. For example: If you have created an image in GIMP under GNOME and want to open it in the Paint Activity you can place it in the $HOME/DOCUMENTS folder and then can access it in the Journal.
+*  6 - Type filter: You can show certain types of Journal entries, e.g. only images or only entries associated with a specific Activity.
+*  7 - Date filter: You can show certain ages of Journal entries, e.g. changed within the past day, week, or month.
+*  8 - Sorting options: You can order Journal entries by their size, creation and modification date.
+*  9 - Documents folder: To exchange files between the Journal and the underlying file system the $HOME/DOCUMENTS folder is available in the Journal. For example: If you have created an image in GIMP under GNOME and want to open it in the Paint Activity you can place it in the $HOME/DOCUMENTS folder and then access it in the Journal.
 *  10 - Buddy icons: If other participants joined you in this Activity, icons in their colors appear here.
 *  11 - Elapsed time: Displays the time since the most recent change to the entry.
 *  12 - Detail view: Click this button to see detailed information about the entry. See "Journal detail view", below. 
@@ -88,7 +88,7 @@ To remove (unmount) the external file system, choose Remove on the hover menu.
 
 Caution: It may take time for the hover menu to appear. It is easy to make a mistake and click the icon itself when you intended to click Unmount.
 
-Caution: If you have a Terminal running you may inadvertently have your removable media locked. The safest way to remove media is after powering off your computer.
+Caution: If you have a Terminal running you may inadvertently have your removable media locked. If this happens, the safest way to remove media is after powering off your computer.
 
 Sending Journal Entries via a Network
 -------------------------------------
@@ -100,6 +100,6 @@ The Journal allows you to send entries to other people who are using Sugar via a
 Note to parents and teachers
 ----------------------------
 
-The Journal keeps a record of everything a child does within Sugar: which Activities they use and what content they create. It also keeps a record of group Activities, such as participation in a shared Write or Browse session. The Journal encourages reflection. You can refer to it to assess a child's progress, much in the spirit of "portfolio" assessment. In order to further support this reflection, Sugar offers a Portfolio Activity, an assessment tool that utilizes the journal content. You can reflect on you work: what I have done; how I have done it; and how successful these efforts have been. Then you can create a multimedia presentation to share with your peers, teachers, and parents who can also reflect in return.
+The Journal keeps a record of everything a child does within Sugar: which Activities they use and what content they create. It also keeps a record of group Activities, such as participation in a shared Write or Browse session. The Journal encourages reflection. You can refer to it to assess a child's progress, much in the spirit of "portfolio" assessment. In order to further support this reflection, Sugar offers a Portfolio Activity, an assessment tool that utilizes the journal content. You can reflect on your work: what I have done; how I have done it; and how successful these efforts have been. Then you can create a multimedia presentation to share with your peers, teachers, and parents who can also reflect in return.
 
 You can also use it as a catalyst for discussion with your child or student. We encourage the use of the description field within the detail view of Journal entries as a place to annotate or comment up entries. 

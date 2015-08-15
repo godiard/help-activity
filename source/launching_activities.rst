@@ -38,7 +38,7 @@ If you don't see the Activity's icon, click the menu icons (2) (3) to change how
 
 .. image :: ../images/Home_-_favorites_menu_annotated_800px.png
 
-In list view mode (3) you can click the star (4) next to an Activity's name to add/remove it as a favorite. Favorite Activities appear in color in the favorites view
+In list view mode (3) you can click the star (4) next to an Activity's name to add/remove it as a favorite. Favorite Activities appear in the favorites view.
 
 .. image :: ../images/Home_-_list_view_detail_annotated.png
 
@@ -71,7 +71,5 @@ Click Join in the hover menu on the Frame.
 
 .. note ::
 
-  For users
-
-  Try not to open more than three Activities at one time or your speed may be reduced.
+  Try not to open more than three Activities at one time or your computer may go slow.
 
