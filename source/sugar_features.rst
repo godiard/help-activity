@@ -2,25 +2,22 @@
 Sugar Features
 ==============
 
-This page presents a number of Sugar features common to many Activities. The page is designed as a series of "reference topics".
-
-This experimental page includes graphical spacers to separate non-related topics.
-
+This page presents a number of Sugar features common to many Activities.
 .. _View source:
 
 View source
 -----------
 
-You always can view the source code of Sugar Activities. In most cases, View Source will show you the python code of the activity, in other cases, like Browse, you can see the HTML code of the page seen in the activity.
+You always can view the source code of Sugar Activities. In most cases, View Source will show you the Python code of the activity, in other cases, like Browse, you can see the HTML code of the page seen in the activity.
 
-You can see the source window pressing Fn-space in your XO or Ctrl-Shift-V or pressing right click on the Activity's icon in the :doc:`/frame`. Here is an example of viewing the source of a page in :doc:`/help` Activity. In the case of this activity, you see the simple text, which Help converts into HTML pages for display. This is useful in the process of editing Help pages as described here :doc:`/how_to_help`
+You can see the source window by pressing Fn-space on your XO, or Alt-Shift-V, or right click on the Activity's icon in :doc:`/frame`. Here is an example of viewing the source of a page in :doc:`/help` Activity. In the case of this activity, you see the simple text, which Help converts into HTML pages for display. This is useful in the process of editing Help pages as described in :doc:`/how_to_help`.
 
 .. image :: ../images/HelpFrame.png
 
 Duplicating activities
 ----------------------
 
-A option to duplicate an activity has been added to the View Source alert. By selecting this option, a copy of the activity is created in the user's $HOME/Activities directory. Thus we hope to encourage Sugar users to make modifications and improvements to the code they use without the risk of breaking the original activity.
+In the source window is an option to duplicate an activity. By selecting this option, a copy of the activity is created in the user's $HOME/Activities directory. Thus we hope to encourage Sugar users to make modifications and improvements to the code they use without the risk of breaking the original activity.
 
 .. image :: ../images/300px-Duplicate_activity.png
 
@@ -30,10 +27,6 @@ A option to duplicate an activity has been added to the View Source alert. By se
 
 The Sugarlabs.org wiki has a informative article: http://wiki.sugarlabs.org/go/View_Source
 
-
-*End of topic - spacer below.*
-
-.. image :: ../images/spacer600.png
 
 .. _say_selected_text:
 

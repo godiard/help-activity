@@ -5,7 +5,7 @@ Collaborating
 About Collaborating
 -------------------
 
-One of the most important features of Sugar is the ability for you to collaborate, or network, and share a project that you are working on with others. This can take the form of multiple cursors in a document, multiple musical instruments, two players in a game, multiple uses in chat (below), and so on. Many Activities support collaboration, see below, :ref:`Where to get Collaborating`
+One of the most important features of Sugar is the ability for you to collaborate, or network, and share a project that you are working on with others. This can take the form of multiple cursors in a document, multiple musical instruments, two players in a game, multiple uses in chat, and so on. Many Activities support collaboration, see below, :ref:`Where to get Collaborating`.
 
 This image is from the Activity toolbar of Write, which is an Activity which supports collaboration.
 
@@ -48,7 +48,7 @@ This will make it available to all other persons connected to your same Ad-hock 
 Where to get Collaborating
 --------------------------
 
-Collaborating is a built-in function in the following Activities provided in the current Sugar distribution:
+Collaborating is a built-in function in the following Activities:
 
 * Browse
 * Calculate
