@@ -36,5 +36,6 @@
     "org.laptop.Terminal": "terminal.html",
     "org.laptop.TurtleArtActivity": "turtleart.html",
     "org.laptop.TurtleArtActivity3D": "turtleblocks3d.html",
-    "org.laptop.AbiWordActivity": "write.html"
+    "org.laptop.AbiWordActivity": "write.html",
+    "org.laptop.XoPhoto": "xophoto.html"
   }
