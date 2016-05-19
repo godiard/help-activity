@@ -14,6 +14,7 @@
     "org.eq.FotoToon": "fototoon.html",
     "org.laptop.sugar.GetBooksActivity": "getbooks.html",
     "org.laptop.HelpActivity": "help.html",
+    "com.jotaro.ImplodeActivity" : "implode.html",
     "org.sugarlabs.IRC": "irc.html",
     "org.laptop.sugar.Jukebox": "jukebox.html",
     "org.gnome.Labyrinth": "labyrinth.html",
