@@ -51,6 +51,7 @@ Activities
     fototoon.rst
     getbooks.rst
     help.rst
+    implode.rst
     irc.rst
     jukebox.rst
     labyrinth.rst
