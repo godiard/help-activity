@@ -7,5 +7,5 @@ exec = sugar-activity helpactivity.HelpActivity
 license = GPLv3
 summary = Having trouble using your computer or an activity? Want to learn more? Just click here!
 categories = system
-repository = git@github.com:godiard/help-activity.git
+repository = https://github.com/godiard/help-activity
 max_participants = 1
