@@ -10,6 +10,8 @@ The Jigsaw Puzzle provides a fun context for learners (and beginning XO users) a
 
 Throughout the school year, the Jigsaw Puzzle can be integrated into different subject areas (i.e. geography, math and language arts). Students can make the Jigsaw Puzzle images relate to a subject the class is studying, and share them with peers. In the process they will also learn how to use and integrate the output from XO Paint program, Record, Mesh Network, and other tools.
 
+.. image :: ../images/jigsaw.png
+
 Skills:
 
 * Practice working with a partner.
