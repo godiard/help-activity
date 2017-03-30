@@ -53,6 +53,7 @@ Activities
     help.rst
     implode.rst
     irc.rst
+    jigsaw.rst
     jukebox.rst
     labyrinth.rst
     log.rst
