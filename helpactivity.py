@@ -16,6 +16,9 @@ import os
 import json
 from gettext import gettext as _
 
+import gi
+gi.require_version('Gtk', '3.0')
+gi.require_version('WebKit', '3.0')
 from gi.repository import Gtk
 from gi.repository import GObject
 from gi.repository import WebKit
