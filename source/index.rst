@@ -76,6 +76,7 @@ Activities
     turtleart.rst
     turtleblocks3d.rst
     write.rst
+    xophoto.rst
 
 
 Network
