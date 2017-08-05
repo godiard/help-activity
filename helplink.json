@@ -6,6 +6,7 @@
     "org.sugarlabs.AbacusActivity": "abacus.html",
     "org.laptop.WebActivity": "browse.html",
     "org.laptop.Calculate": "calculate.html",
+    "com.ywwg.CartoonBuilderActivity": "Cartoon-builder.html",
     "org.laptop.Chat": "chat.html",
     "org.sugarlabs.SimpleGraph": "chart.html",
     "org.sugarlabs.VisualMatchActivity": "dimensions.html",
