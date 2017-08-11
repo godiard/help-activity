@@ -52,4 +52,4 @@ When the screen is in the upright position, the keyboard is available for naviga
 Applying
 --------
 
-The GetBooks Activity provides a way to expand access to many of the free books available worldwide. The 'My Documents' folder appears at the bottom of the screen when you are using Journal. Books can be stored in the My Documents folder for easier cataloging.
+The GetBooks Activity provides a way to expand access to many of the free books available worldwide. The 'Documents' folder appears at the bottom of the screen when you are using Journal. Books can be stored in the Documents folder for easier cataloging.
