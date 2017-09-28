@@ -6,9 +6,9 @@ Overview
 --------
 A poll is a research tool that helps explain what a group of people think about a subject.  First you present the group with a question and a set of answer choices. Then each person in the group gets to vote for the answer which best describes their personal feelings or opinion.  After collecting votes from the whole group, you look for a pattern in their answers.  You can also ask the same question of different groups (i.e. boys and girls or children and adults) and see how each group answers.
 
-A poll can be used to help a community make a decision and take action.  It can also be used to understand the similarities and differences among individuals and groups of people.  
+A poll can be used to help a community make a decision and take action.  It can also be used to understand the similarities and differences among individuals and groups of people.
 
-Polls are a helpful tool for any research project.  Use this Poll tool and lesson plans with whatever subject you are studying.  It can also be used to make collaborative decisions in the classroom about academic activities and among friends about social issues. 
+Polls are a helpful tool for any research project.  Use this Poll tool and lesson plans with whatever subject you are studying.  It can also be used to make collaborative decisions in the classroom about academic activities and among friends about social issues.
 
 Skills:
 
@@ -32,7 +32,7 @@ Skills:
 
 * Learn how to present poll results and make collaborative decisions based on those results.
 
-* Practice using new functions and features of the XO Laptop.
+* Practice using new functions and features of the laptop.
 
 Participate in a Poll
 ---------------------
@@ -53,14 +53,14 @@ Let each person in your group vote in this poll. How did the votes and bar graph
 
 After everyone votes, discuss the final results. What did you learn from the poll? Were you surprised by the results? How could you use this information? 
 
-Generate a list of ideas for polls. Record your ideas on a blackboard, on paper or in the “Write” program on the XO Laptop. What would you like to learn from each poll you thought of? What would you do with the results? 
+Generate a list of ideas for polls. Record your ideas on a blackboard, on paper or in the “Write” program on the laptop. What would you like to learn from each poll you thought of? What would you do with the results? 
 
 Build a Poll
 ------------
 
 Make a poll of your own! The goal is to build a poll that is interesting to you, and learn to collect votes from people and reach conclusions or make decisions based on your poll. 
 
-Example poll idea:  “What is your favorite activity on the XO?”  
+Example poll idea:  “What is your favorite activity on the laptop?”
 You can use this poll in your classroom or your family, to find out what activity is the most favorite or popular.   
 
 Open the Poll Builder activity and click on the “Build a Poll” button at the bottom of the screen.
@@ -84,9 +84,9 @@ When you are happy, click “Step 2: Save Poll” -- your poll will be built.
 Collect Poll Data 
 -----------------
 
-Now that your poll is built, invite people to take your poll on the XO. Walk around with your laptop, and ask people to answer your research question.  
+Now that your poll is built, invite people to take your poll on your laptop. Walk around with your laptop, and ask people to answer your research question.
 
-Decide how you are going to get the information you need.  You could read your question and the answer choices to each person and click their answer on your XO. Or, you can show each person how to select your poll from the list, read the poll by themselves and click on their answer choice by themselves.  
+Decide how you are going to get the information you need.  You could read your question and the answer choices to each person and click their answer on your laptop. Or, you can show each person how to select your poll from the list, read the poll by themselves and click on their answer choice by themselves.
 
 For best results, each person should vote only once. The Poll will close when you reach the number of your “sample size.”  
 
@@ -99,13 +99,32 @@ Use Data to make Observations and Decisions
 
 After you have collected the poll data you needed from one or more groups, look at the results and think about what they mean.
 
-Open the Poll activity on your XO and find your poll title on the list. Click the “See Results” button to see how people voted.
+Open the Poll activity on your laptop and find your poll title on the list. Click the “See Results” button to see how people voted.
 
 Look at the Bar Graphs that represent the votes (results) of your poll. 
 Which answer has the longest bar? What does that mean? Which answer has the shortest bar? What does that mean?
 
 If you tried your poll with different groups (girls, boys, teachers, students, adults, children, etc.) Open each poll and see if there are any differences.
 
-Write down notes about what you see; put your findings on paper or record them with the “Write” activity on your XO. How does this kind of information help you draw conclusions about the people you surveyed? Does the data accurately represent an entire group?   Does it matter if you questioned 25 people or 100 people? Why?
+Write down notes about what you see; put your findings on paper or record them with the “Write” activity on your laptop. How does this kind of information help you draw conclusions about the people you surveyed? Does the data accurately represent an entire group?   Does it matter if you questioned 25 people or 100 people? Why?
 
 Present you findings to your class, or to the people who took the poll. Tell them what you learned for the poll and discuss the results together. Brainstorm about what could be done with this information.
+
+Conduct a Poll via Collaboration
+--------------------------------
+
+On the first laptop;
+
+* build a poll, but stop before the first vote,
+* set the activity name,
+* make the activity public,
+
+On the other laptops in the same wireless network;
+
+* press F1 to show the Neighborhood View, and look for the Poll icon,
+* click on the icon, then click on Join,
+* watch carefully, and wait a few seconds for the "Joined" message,
+* click on the "Choose a Poll" button, then click on the poll,
+* cast your vote.
+
+Be careful with counting.  You and others who have joined the activity can vote more than once.
