@@ -2,13 +2,6 @@
 How to edit Help and contribute
 ===============================
 
-.. Note::
-
-   Page version for review.
-
-   Corrections, omissions, and feedback most welcome, iain at browndouglas dot plus dot com. 28 November 2013.
-
-
 Help displays documentation for Sugar and the XO laptop.
 
 This version of Help contains all the source files and images, and now a :ref:`View source` button. These files can be edited within Help, and displayed. Help is now capable of producing new pages for Help, or making completely fresh documentation.
