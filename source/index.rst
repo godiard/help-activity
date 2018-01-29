@@ -46,6 +46,7 @@ Activities
     calculate.rst
     chat.rst
     chart.rst
+    clock.rst
     dimensions.rst
     distance.rst
     finance.rst
