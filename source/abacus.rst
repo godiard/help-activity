@@ -323,15 +323,10 @@ Extending Abacus
 * A fun project is to compare calculations using Abacus with the Calculate Activity. Which is faster? Which is more accurate? Which is better for estimating? Which is better for comparing?
 * Abacus supports paste, so you can take numeric values from other programs and paste them into the abacus to see what their representations are; for example, I often paste numbers into the hexadecimal abacus as a quick way of converting decimal to hexidecimal.
 * Abacus also supports copy, so you can take a sum calculated on an abacus and export it into SimpleGraph or some other data-visualization Activities.
-* A fun collaborative mode might be to have a number randomly selected and each sharer work independently to post it on the abacus of their choice first. There could be a tally of beads awarded for each correct answer. 
+* A fun collaborative mode might be to have a number randomly selected and each sharer work independently to post it on the abacus of their choice first. There could be a tally of beads awarded for each correct answer.
 
 Reporting Problems
 ------------------
 If you discover a bug in the program or have a suggestion for an enhancement, please `file a ticket <https://bugs.sugarlabs.org/newticket?component=Abacus>`_ in our bug-tracking system.
 
 You can `view the open tickets here. <https://bugs.sugarlabs.org/query?status=accepted&status=assigned&status=new&status=reopened&component=Abacus>`_
-
-
-References
-----------
-`Wiki page <http://wiki.sugarlabs.org/go/Activities/Abacus>`_
