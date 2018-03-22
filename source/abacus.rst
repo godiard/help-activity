@@ -313,7 +313,7 @@ From left to right,
 
 Learning with Abacus
 --------------------
-* `Some lesson plans <http://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet>`_ for using Abacus are found here.
+* `Some lesson plans <abacus_worksheet.rst>`_ for using Abacus are found here.
 * Using beads or pebbles, you can make an abacus. What is the difference between the abacus on the computer and a physical abacus?
 * It is possible to create a custom abacus. I often use the example of `Sumerian mathematics <https://en.wikipedia.org/wiki/Babylonian_mathematics#Sumerian_mathematics_.283000_.E2.80.94_2300_BC.29>`_: the Sumerians counted on the digital bones (phalanges) of their fingers, so the base of their counting system was 12. All of the 12s (and 60s) we have in our mathemateics, e.g., 12 hours, 60 seconds, etc. have their roots in Sumerian math. But the Sumerians never invented an abacus. What would a Sumerian abacus look like?
 
@@ -323,15 +323,10 @@ Extending Abacus
 * A fun project is to compare calculations using Abacus with the Calculate Activity. Which is faster? Which is more accurate? Which is better for estimating? Which is better for comparing?
 * Abacus supports paste, so you can take numeric values from other programs and paste them into the abacus to see what their representations are; for example, I often paste numbers into the hexadecimal abacus as a quick way of converting decimal to hexidecimal.
 * Abacus also supports copy, so you can take a sum calculated on an abacus and export it into SimpleGraph or some other data-visualization Activities.
-* A fun collaborative mode might be to have a number randomly selected and each sharer work independently to post it on the abacus of their choice first. There could be a tally of beads awarded for each correct answer. 
+* A fun collaborative mode might be to have a number randomly selected and each sharer work independently to post it on the abacus of their choice first. There could be a tally of beads awarded for each correct answer.
 
 Reporting Problems
 ------------------
 If you discover a bug in the program or have a suggestion for an enhancement, please `file a ticket <https://bugs.sugarlabs.org/newticket?component=Abacus>`_ in our bug-tracking system.
 
 You can `view the open tickets here. <https://bugs.sugarlabs.org/query?status=accepted&status=assigned&status=new&status=reopened&component=Abacus>`_
-
-
-References
-----------
-`Wiki page <http://wiki.sugarlabs.org/go/Activities/Abacus>`_
