@@ -313,7 +313,7 @@ From left to right,
 
 Learning with Abacus
 --------------------
-* `Some lesson plans <http://wiki.sugarlabs.org/go/Activities/Abacus/Worksheet>`_ for using Abacus are found here.
+* `Some lesson plans <abacus_worksheet.rst>`_ for using Abacus are found here.
 * Using beads or pebbles, you can make an abacus. What is the difference between the abacus on the computer and a physical abacus?
 * It is possible to create a custom abacus. I often use the example of `Sumerian mathematics <https://en.wikipedia.org/wiki/Babylonian_mathematics#Sumerian_mathematics_.283000_.E2.80.94_2300_BC.29>`_: the Sumerians counted on the digital bones (phalanges) of their fingers, so the base of their counting system was 12. All of the 12s (and 60s) we have in our mathemateics, e.g., 12 hours, 60 seconds, etc. have their roots in Sumerian math. But the Sumerians never invented an abacus. What would a Sumerian abacus look like?
 
