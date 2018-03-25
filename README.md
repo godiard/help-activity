@@ -20,4 +20,4 @@ https://github.com/godiard/help-activity/blob/master/howto_translate.rst
 ###### More information at
 http://wiki.sugarlabs.org/go/Activities/Help/Contribute
 
-Contact: gonzalo@laptop.org
+Contact: godiard@gmail.com
