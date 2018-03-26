@@ -1,3 +1,5 @@
+.. _abacus-worksheet-answersheet:
+
 Answers to the Abacus Worksheet
 ===============================
 
