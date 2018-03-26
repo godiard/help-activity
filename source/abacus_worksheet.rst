@@ -1,3 +1,5 @@
+.. _abacus-worksheet:
+
 Fractions
 =========
 
@@ -75,7 +77,7 @@ How do you know when you have found them all?
 Similar to the Pie chart, can you think of a way to visually represent
 the addition of positive and negative fractions?
 
-see the `answersheet <abacus_worksheet_answers.rst>`__
+see the :ref:`answersheet <abacus-worksheet-answersheet>`
 
 .. |Abacus-icon.png| image:: ../images/Abacus-icon.png
 .. |1on2piedraw.jpg| image:: ../images/1on2piedraw.jpg
