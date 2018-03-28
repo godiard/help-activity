@@ -61,6 +61,7 @@ Activities
     jigsaw.rst
     jukebox.rst
     labyrinth.rst
+    lettermatch.rst
     log.rst
     measure.rst
     memorize.rst
