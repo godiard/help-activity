@@ -54,6 +54,7 @@ Activities
     fototoon.rst
     getbooks.rst
     help.rst
+    icanread.rst
     implode.rst
     irc.rst
     jigsaw.rst
