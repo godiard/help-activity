@@ -41,6 +41,7 @@ Activities
     :maxdepth: 1
 
     abacus.rst
+    aeiou.rst
     browse.rst
     Cartoon-builder.rst
     calculate.rst
@@ -138,4 +139,3 @@ Appendices
     :maxdepth: 1
 
     glossary.rst
-    
