@@ -55,6 +55,7 @@ Activities
     getbooks.rst
     help.rst
     icanread.rst
+    iknowmyabcs.rst
     implode.rst
     irc.rst
     jigsaw.rst

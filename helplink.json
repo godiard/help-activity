@@ -18,6 +18,7 @@
     "org.laptop.sugar.GetBooksActivity": "getbooks.html",
     "org.laptop.HelpActivity": "help.html",
     "org.sugarlabs.ICanReadActivity": "icanread.html",
+    "org.sugarlabs.IKnowMyABCs": "iknowmyabcs.html",
     "com.jotaro.ImplodeActivity" : "implode.html",
     "org.sugarlabs.IRC": "irc.html",
     "org.worldwideworkshop.olpc.JigsawPuzzle": "jigsaw.html",
