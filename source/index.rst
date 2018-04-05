@@ -76,6 +76,7 @@ Activities
     story.rst
     tamtammini.rst
     terminal.rst
+    turtle_confusion.rst
     turtleart.rst
     turtleblocks3d.rst
     write.rst
@@ -138,4 +139,3 @@ Appendices
     :maxdepth: 1
 
     glossary.rst
-    

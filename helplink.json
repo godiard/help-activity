@@ -39,6 +39,7 @@
     "org.sugarlabs.StoryActivity": "story.html",
     "org.laptop.TamTamMini": "tamtammini.html",
     "org.laptop.Terminal": "terminal.html",
+    "org.laptop.TurtleConfusionActivity": "turtle_confusion.html",
     "org.laptop.TurtleArtActivity": "turtleart.html",
     "org.laptop.TurtleArtActivity3D": "turtleblocks3d.html",
     "org.laptop.AbiWordActivity": "write.html"
