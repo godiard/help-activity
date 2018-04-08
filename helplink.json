@@ -50,6 +50,7 @@
     "org.laptop.sugar.ReadActivity": "read.html",
     "org.laptop.sugar.ReadEtextsActivity": "read_etexts.html",
     "org.laptop.RecordActivity": "record.html",
+    "org.laptop.RulerActivity": "ruler.html",
     "org.worldwideworkshop.olpc.SliderPuzzle": "Slider.html",
     "vu.lux.olpc.Speak": "speak.html",
     "org.laptop.StarChart": "starchart.html",

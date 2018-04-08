@@ -87,6 +87,7 @@ Activities
     read.rst
     read_etexts.rst
     record.rst
+    ruler.rst
     Slider.rst
     speak.rst
     starchart.rst
