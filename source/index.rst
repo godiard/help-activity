@@ -69,6 +69,7 @@ Activities
     portfolio.rst
     read.rst
     record.rst
+    ruler.rst
     Slider.rst
     speak.rst
     starchart.rst
