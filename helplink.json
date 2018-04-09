@@ -5,6 +5,7 @@
     "org.laptop.JournalActivity": "journal.html",
     "org.sugarlabs.AbacusActivity": "abacus.html",
     "org.laptop.WebActivity": "browse.html",
+    "org.sugarlabs.BBoardActivity": "bulletinboard.html",
     "org.laptop.Calculate": "calculate.html",
     "com.ywwg.CartoonBuilderActivity": "Cartoon-builder.html",
     "org.laptop.Chat": "chat.html",

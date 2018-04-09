@@ -1,0 +1,77 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#000">
+	<!ENTITY fill_color "#eee">
+]><svg height="55px" viewBox="0 0 55 55" width="55px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" stroke="&stroke_color;" fill="&fill_color;">
+  <g
+     transform="matrix(0.8501594,0,0,0.8501594,4.1206165,2.9055499)"
+     id="g3041">
+    <rect
+       width="40"
+       height="30"
+       x="7.5"
+       y="5.8274999"
+       id="rect2996"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:2.34500003;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       transform="translate(-1.0846148,0)"
+       id="g3793">
+      <line
+         style="fill:none;stroke:&stroke_color;;stroke-width:1.78056884;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x1="27.69433"
+         x2="23.419287"
+         y1="36.358479"
+         y2="52.31316"
+         id="line2460" />
+      <line
+         style="fill:none;stroke:&stroke_color;;stroke-width:1.78056884;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x1="29.474899"
+         x2="33.749943"
+         y1="36.358479"
+         y2="52.313156"
+         id="line2460-2" />
+    </g>
+    <line
+       id="line2460-0"
+       y2="8.168005"
+       y1="8.168005"
+       x2="45.986813"
+       x1="9.0131855"
+       style="fill:none;stroke:&stroke_color;;stroke-width:2.66399026;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+  <g
+     transform="matrix(0.8501594,0,0,0.8501594,-5.3793836,9.7685917)"
+     id="g3041-1">
+    <rect
+       width="40"
+       height="30"
+       x="7.5"
+       y="5.8274999"
+       id="rect2996-7"
+       style="fill:&fill_color;;stroke:&stroke_color;;stroke-width:2.34500003;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <g
+       transform="translate(-1.0846148,0)"
+       id="g3793-7">
+      <line
+         style="fill:none;stroke:&stroke_color;;stroke-width:1.78056884;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x1="27.69433"
+         x2="23.419287"
+         y1="36.358479"
+         y2="52.31316"
+         id="line2460-9" />
+      <line
+         style="fill:none;stroke:&stroke_color;;stroke-width:1.78056884;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         x1="29.474899"
+         x2="33.749943"
+         y1="36.358479"
+         y2="52.313156"
+         id="line2460-2-1" />
+    </g>
+    <line
+       id="line2460-0-2"
+       y2="8.168005"
+       y1="8.168005"
+       x2="45.986813"
+       x1="9.0131855"
+       style="fill:none;stroke:&stroke_color;;stroke-width:2.66399026;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+</svg>
