@@ -42,6 +42,7 @@ Activities
 
     abacus.rst
     browse.rst
+    bulletinboard.rst
     Cartoon-builder.rst
     calculate.rst
     chat.rst
