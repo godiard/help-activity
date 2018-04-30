@@ -10,6 +10,7 @@
     "org.laptop.Chat": "chat.html",
     "org.sugarlabs.SimpleGraph": "chart.html",
     "tv.alterna.Clock": "clock.html",
+    "org.sugarlabs.CookieSearchActivity": "cookie_search.html",
     "org.sugarlabs.VisualMatchActivity": "dimensions.html",
     "org.laptop.AcousticMeasure": "distance.html",
     "org.laptop.community.Finance": "finance.html",

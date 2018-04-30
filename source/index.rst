@@ -47,6 +47,7 @@ Activities
     chat.rst
     chart.rst
     clock.rst
+    cookie_search.rst
     dimensions.rst
     distance.rst
     finance.rst
