@@ -42,10 +42,10 @@ Activities
 
     abacus.rst
     browse.rst
-    Cartoon-builder.rst
     calculate.rst
-    chat.rst
+    cartoon_builder.rst
     chart.rst
+    chat.rst
     clock.rst
     cookie_search.rst
     dimensions.rst
@@ -64,8 +64,8 @@ Activities
     memorize.rst
     musickeyboard.rst
     paint.rst
-    pippy.rst
     physics.rst
+    pippy.rst
     poll.rst
     portfolio.rst
     read.rst
