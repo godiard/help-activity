@@ -70,6 +70,7 @@ Activities
     pippy.rst
     poll.rst
     portfolio.rst
+    pukllanapac.rst
     read.rst
     record.rst
     Slider.rst
