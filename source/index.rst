@@ -65,6 +65,7 @@ Activities
     measure.rst
     memorize.rst
     musickeyboard.rst
+    nutrition.rst
     paint.rst
     physics.rst
     pippy.rst
