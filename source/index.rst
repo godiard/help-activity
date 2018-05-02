@@ -59,6 +59,7 @@ Activities
     jigsaw.rst
     jukebox.rst
     labyrinth.rst
+    level_tool.rst
     locosugar.rst
     log.rst
     measure.rst
