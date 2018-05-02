@@ -22,6 +22,7 @@
     "org.worldwideworkshop.olpc.JigsawPuzzle": "jigsaw.html",
     "org.laptop.sugar.Jukebox": "jukebox.html",
     "org.gnome.Labyrinth": "labyrinth.html",
+    "net.flossmanuals.LevelActivity": "level_tool.html",
     "org.sugarlabs.LocoSugar": "locosugar.html",
     "org.laptop.Log": "log.html",
     "org.laptop.MeasureActivity": "measure.html",
