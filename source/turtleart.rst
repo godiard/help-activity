@@ -31,6 +31,11 @@ You add blocks to your program by clicking on or dragging them from the palette 
 
 .. |rabit-turtle| image:: ../images/80px-Rabbitturtle.jpg
 
+Tutorials
+---------
+
+Find some interesting :ref:`Turtle Art tutorials  <turtleart-tutorials>`.
+
 Challenges
 ----------
 
