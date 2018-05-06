@@ -85,6 +85,7 @@ Activities
     turtleblocks3d.rst
     turtle_confusion.rst
     turtle_in_a_pond.rst
+    typing_turtle.rst
     write.rst
 
 
