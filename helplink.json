@@ -48,5 +48,6 @@
     "org.laptop.TurtleArtActivity3D": "turtleblocks3d.html",
     "org.laptop.TurtleConfusionActivity": "turtle_confusion.html",
     "org.sugarlabs.TurtlePondActivity": "turtle_in_a_pond.html",
+    "org.laptop.community.TypingTurtle": "typing_turtle.html",
     "org.laptop.AbiWordActivity": "write.html"
   }
