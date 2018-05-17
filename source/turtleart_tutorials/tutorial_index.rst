@@ -14,3 +14,4 @@ Contents:
     complex_numbers.rst
     fractions.rst
     galilean_relativity.rst
+    trigonometry.rst
