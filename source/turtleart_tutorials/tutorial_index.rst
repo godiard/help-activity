@@ -13,3 +13,4 @@ Contents:
     adding_apples_and_oranges.rst
     complex_numbers.rst
     fractions.rst
+    galilean_relativity.rst
