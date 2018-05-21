@@ -1,3 +1,5 @@
+.. _turtleart:
+
 ==========
 Turtle Art
 ==========
@@ -28,6 +30,16 @@ Start by clicking on (or dragging) blocks from the Turtle palette. Use multiple 
 You add blocks to your program by clicking on or dragging them from the palette to the main area. You can delete a block by dragging it back onto the palette. Click anywhere on a "stack" of blocks to start executing that stack or by clicking in the Rabbit (fast) , Turtle (slow) or Bug (debug) buttons |rabit-turtle| on the Project Toolbar.
 
 .. |rabit-turtle| image:: ../images/80px-Rabbitturtle.jpg
+
+Tutorials
+---------
+
+Find some interesting :ref:`Turtle Art tutorials  <turtleart-tutorials>`.
+
+Challenges
+----------
+
+Try some interesting :ref:`Turtle Art challenges <turtleart-challenges>`.
 
 Toolbars
 --------

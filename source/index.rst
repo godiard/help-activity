@@ -43,11 +43,12 @@ Activities
     abacus.rst
     aeiou.rst
     browse.rst
-    Cartoon-builder.rst
     calculate.rst
-    chat.rst
+    cartoon_builder.rst
     chart.rst
+    chat.rst
     clock.rst
+    cookie_search.rst
     dimensions.rst
     distance.rst
     finance.rst
@@ -62,15 +63,19 @@ Activities
     jukebox.rst
     labyrinth.rst
     lettermatch.rst
+    level_tool.rst
+    locosugar.rst
     log.rst
     measure.rst
     memorize.rst
     musickeyboard.rst
+    nutrition.rst
     paint.rst
-    pippy.rst
     physics.rst
+    pippy.rst
     poll.rst
     portfolio.rst
+    pukllanapac.rst
     read.rst
     record.rst
     Slider.rst
@@ -82,6 +87,9 @@ Activities
     terminal.rst
     turtleart.rst
     turtleblocks3d.rst
+    turtle_confusion.rst
+    turtle_in_a_pond.rst
+    typing_turtle.rst
     write.rst
 
 
