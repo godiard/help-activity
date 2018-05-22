@@ -41,6 +41,7 @@ Activities
     :maxdepth: 1
 
     abacus.rst
+    aeiou.rst
     browse.rst
     calculate.rst
     cartoon_builder.rst
@@ -54,11 +55,14 @@ Activities
     fototoon.rst
     getbooks.rst
     help.rst
+    icanread.rst
+    iknowmyabcs.rst
     implode.rst
     irc.rst
     jigsaw.rst
     jukebox.rst
     labyrinth.rst
+    lettermatch.rst
     level_tool.rst
     locosugar.rst
     log.rst
