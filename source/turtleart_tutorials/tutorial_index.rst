@@ -11,3 +11,7 @@ Contents:
     :maxdepth: 1
 
     adding_apples_and_oranges.rst
+    complex_numbers.rst
+    fractions.rst
+    galilean_relativity.rst
+    trigonometry.rst
