@@ -255,8 +255,7 @@ tell it to move to other points, and draw lines between them?
 
 With all of these objections that I have been raising, you might wonder
 how I got the Turtle to carry out the three Euclidean constructions in
-the first illustration above. That's easy. I cheated. Take a look at the
-`program <Activities/TurtleArt/Tutorials/Euclid/Cheating>`__ for these
+the first illustration above. That's easy. I cheated. Take a look at the :ref:`program <euclid-cheating>` for these
 postulated constructions to see how.
 
 *The advantages of the method of postulation are great. They are the
