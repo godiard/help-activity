@@ -11,3 +11,5 @@ Contents:
     :maxdepth: 1
 
     adding_apples_and_oranges.rst
+    counting.rst
+    elementary_arithmetic.rst
