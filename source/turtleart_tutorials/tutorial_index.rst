@@ -28,6 +28,7 @@ Contents:
     numerals.rst
     programming_without_words.rst
     shortcuts_to_the_times_table.rst
+    spirograph.rst
     stack_programming.rst
     trigonometry.rst
     turtle_art_and_logo.rst
