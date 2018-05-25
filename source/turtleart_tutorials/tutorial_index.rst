@@ -22,3 +22,4 @@ Contents:
     numerals.rst
     trigonometry.rst
     turtle_art_turing_machine.rst
+    you_be_the_turtle.rst
