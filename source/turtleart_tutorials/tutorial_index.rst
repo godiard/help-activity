@@ -13,6 +13,7 @@ Contents:
     abacus.rst
     adding_apples_and_oranges.rst
     complex_numbers.rst
+    conservation_of_number.rst
     counting.rst
     elementary_arithmetic.rst
     euclid.rst
