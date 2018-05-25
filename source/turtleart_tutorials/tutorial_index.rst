@@ -19,6 +19,7 @@ Contents:
     galilean_relativity.rst
     groups_of_symmetries.rst
     kindergarten_calculus.rst
+    mathematics_and_art.rst
     numerals.rst
     programming_without_words.rst
     trigonometry.rst
