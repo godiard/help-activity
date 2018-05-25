@@ -19,6 +19,7 @@ Contents:
     euclid.rst
     figurate_numbers.rst
     fractions.rst
+    galilean_gravity.rst
     galilean_relativity.rst
     groups_of_symmetries.rst
     kindergarten_calculus.rst
