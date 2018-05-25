@@ -21,3 +21,4 @@ Contents:
     kindergarten_calculus.rst
     numerals.rst
     trigonometry.rst
+    turtle_art_turing_machine.rst

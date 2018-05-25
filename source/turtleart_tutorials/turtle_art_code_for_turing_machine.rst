@@ -2,9 +2,9 @@
 
 .. _turtle-art-code-for-turing-machine:
 
-===================================================================================
-Turtle Art code for :ref:`Turing Machine <add-reference-here>`
-===================================================================================
+=====================================================================
+Turtle Art code for :ref:`Turing Machine <turtle-art-turing-machine>`
+=====================================================================
 
 This is the turtle art code for Turing Machine. You can also compare this
 with the :ref:`Logo code <logo-code-for-turing-machine>`
