@@ -21,6 +21,7 @@ Contents:
     groups_of_symmetries.rst
     kindergarten_calculus.rst
     mathematics_and_art.rst
+    measuring_slopes_of_tangents.rst
     numerals.rst
     programming_without_words.rst
     shortcuts_to_the_times_table.rst
