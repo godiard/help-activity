@@ -17,5 +17,7 @@ Contents:
     euclid.rst
     fractions.rst
     galilean_relativity.rst
+    groups_of_symmetries.rst
+    kindergarten_calculus.rst
     numerals.rst
     trigonometry.rst
