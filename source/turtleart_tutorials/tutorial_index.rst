@@ -14,6 +14,7 @@ Contents:
     complex_numbers.rst
     counting.rst
     elementary_arithmetic.rst
+    euclid.rst
     fractions.rst
     galilean_relativity.rst
     numerals.rst
