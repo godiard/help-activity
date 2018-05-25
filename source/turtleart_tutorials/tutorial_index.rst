@@ -10,6 +10,7 @@ Contents:
 .. toctree::
     :maxdepth: 1
 
+    abacus.rst
     adding_apples_and_oranges.rst
     complex_numbers.rst
     counting.rst
