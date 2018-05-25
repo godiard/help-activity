@@ -20,6 +20,7 @@ Contents:
     groups_of_symmetries.rst
     kindergarten_calculus.rst
     numerals.rst
+    programming_without_words.rst
     trigonometry.rst
     turtle_art_turing_machine.rst
     you_be_the_turtle.rst
