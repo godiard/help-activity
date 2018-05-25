@@ -23,5 +23,6 @@ Contents:
     numerals.rst
     programming_without_words.rst
     trigonometry.rst
+    turtle_art_and_logo.rst
     turtle_art_turing_machine.rst
     you_be_the_turtle.rst
