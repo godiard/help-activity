@@ -15,6 +15,7 @@ Contents:
     counting.rst
     elementary_arithmetic.rst
     euclid.rst
+    figurate_numbers.rst
     fractions.rst
     galilean_relativity.rst
     groups_of_symmetries.rst
