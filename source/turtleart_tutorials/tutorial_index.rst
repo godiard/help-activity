@@ -23,6 +23,7 @@ Contents:
     mathematics_and_art.rst
     numerals.rst
     programming_without_words.rst
+    shortcuts_to_the_times_table.rst
     trigonometry.rst
     turtle_art_and_logo.rst
     turtle_art_turing_machine.rst
