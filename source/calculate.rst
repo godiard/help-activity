@@ -1,3 +1,5 @@
+.. _calculate:
+
 =========
 Calculate
 =========
@@ -5,7 +7,17 @@ Calculate
 About
 -----
 
+The Calculate Activity is an infix-notation graphing calculator. Type an expression or select components from the toolbars, and press Return to evaluate it.
+
 .. image :: ../images/Activity-Calculate.png
+
+Where to get Calculate
+----------------------
+
+Calculate activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
+`Calculate <https://activities.sugarlabs.org/en-US/sugar/addon/4076>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/sugarlabs-calculate>`__.
 
 Using Calculate
 ---------------
@@ -149,3 +161,7 @@ These are the list of functions available in Calculate Activity:
 * xor(x, y) - logical xor. Returns True if either x is True (and y is False) or y is True (and x is False), else returns False
 
 
+Where to report problems
+------------------------
+
+Please report bugs and make feature requests at `sugarlabs-calculate/issues <https://github.com/sugarlabs/sugarlabs-calculate/issues>`__.
