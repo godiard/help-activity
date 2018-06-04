@@ -1,3 +1,5 @@
+.. _browse:
+
 ======
 Browse
 ======
@@ -12,6 +14,14 @@ The Browse activity is your means to explore a wider source of information and c
 The first thing that you will see when you first click on the Browse icon from the Home View is what's called the Home page.
 
 .. image :: ../images/Browse_-_home.png
+
+Where to get Browse
+-------------------
+
+Browse activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
+`Browse <https://activities.sugarlabs.org/en-US/sugar/addon/4024>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/browse-activity>`__.
 
 Using Browse
 ------------
@@ -126,11 +136,9 @@ But like with any type of exploration, you have to start with caution. Not all i
 Where to report problems
 ------------------------
 
-In http://bugs.sugarlabs.org, component Browse.
+Please report bugs and make feature requests at `browse-activity/issues <https://github.com/sugarlabs/browse-activity/issues>`__.
 
 Credits
 -------
 
-Browse was developed and maintained by: Lucian, Sascha Silbe, erikos, manuq 
-
-Browse can be downloaded from the `Sugar Labs Activities repository <http://activities.sugarlabs.org/>`_. 
+Browse was developed and maintained by: Lucian, Sascha Silbe, erikos, manuq
