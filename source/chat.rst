@@ -1,3 +1,5 @@
+.. _chat:
+
 ====
 Chat
 ====
@@ -8,6 +10,15 @@ About
 The Chat Activity is used to exchange messages with your friends or classmates. You can chat about a topic you are studying or you can share something private that happened in your life. You need at least two active XOs to chat - your own and the one that your friend uses.
 
 .. image :: ../images/chat_index.png
+
+Where to get Chat
+-----------------
+
+Chat activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
+`Chat <https://activities.sugarlabs.org/en-US/sugar/addon/4069>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/chat>`__.
+
 
 Using Chat
 ----------
@@ -208,3 +219,8 @@ Note to parents and teachers
 ::::::::::::::::::::::::::::
 
 You can use this feature to chat with Sugar-enabled computers from non-Sugar-enabled computers; hence you can chat with your child or class from a conventional desktop or laptop computer.
+
+Reporting Problems
+------------------
+
+Please report bugs and make feature requests at `chat/issues <https://github.com/sugarlabs/chat/issues>`__.
