@@ -1,3 +1,5 @@
+.. _read:
+
 ====
 Read
 ====
@@ -8,6 +10,14 @@ About
 The Read activity allows the laptop to act as a book reader. It has a simple interface, and will view many kinds of text and image-based book-like materials. It will have particular strengths in handheld mode, with extremely low power consumption and simple navigation controls. 
 
 Read can read PDF files, EPUB files, text files and single-page TIFF files. 
+
+Where to get Read
+-----------------
+
+Read activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
+`Read <https://activities.sugarlabs.org/en-US/sugar/addon/4028>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/read-activity>`__.
 
 Using
 -----
@@ -53,3 +63,8 @@ Applying
 --------
 
 The GetBooks Activity provides a way to expand access to many of the free books available worldwide. The 'Documents' folder appears at the bottom of the screen when you are using Journal. Books can be stored in the Documents folder for easier cataloging.
+
+Where to report problems
+------------------------
+
+Please report bugs and make feature requests at `read-activity/issues <https://github.com/sugarlabs/read-activity/issues>`__.
