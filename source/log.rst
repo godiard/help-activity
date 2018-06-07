@@ -1,3 +1,5 @@
+.. _log:
+
 ====
 Log
 ====
@@ -10,6 +12,15 @@ About
 The Log Activity allows you to troubleshoot problems with your computer. You
 can view the log files of Sugar and your Activities. Log files contain errors,
 warnings and debugging information to help you fix problems.
+
+Where to get Log
+----------------
+
+Log activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
+`Log <https://activities.sugarlabs.org/en-US/sugar/addon/4056>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/log-activity>`__.
+
 
 Using Log
 ---------
@@ -68,3 +79,8 @@ The Toolbars
    to the activity's developers so they can fix this bug. If you are filing a
    support ticket or bug report, you should attach this file, so the problem
    can be more easily diagnosed and fixed.
+
+Where to report problems
+------------------------
+
+Please report bugs and make feature requests at `log-activity/issues <https://github.com/sugarlabs/log-activity/issues>`__.
