@@ -1,3 +1,5 @@
+.. _write:
+
 =====
 Write
 =====
@@ -12,6 +14,14 @@ Write utilizes the :doc:`/journal`, your work is automatically saved, and :ref:`
 The Write Activity can be used to open and edit most common file formats, including ODT, DOC, RTF, TXT, and HTML.
 
 Write is included in OLPC images and can be downloaded from `ASLO <http://activities.sugarlabs.org>`_, search for Paint.
+
+Where to get Write
+------------------
+
+Write activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
+`Write <https://activities.sugarlabs.org/en-US/sugar/addon/4201>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/write-activity>`__.
 
 Using
 -----
@@ -238,6 +248,11 @@ Other learning activities
 * Write an autobiography.
 * Interview someone from your community.
 * Write an article for the Wikipedia about your community.
+
+Where to report problems
+------------------------
+
+Please report bugs and make feature requests at `write-activity/issues <https://github.com/sugarlabs/write-activity/issues>`__.
 
 Credits
 -------
