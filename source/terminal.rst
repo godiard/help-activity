@@ -1,3 +1,5 @@
+.. _terminal-activity:
+
 ========
 Terminal
 ========
@@ -78,3 +80,8 @@ See the FLOSS Manuals manuals
 
 * `Terminal <http://en.flossmanuals.net/terminal/>`_ about the Sugar Terminal activity
 * `Introduction to the Command Line <http://en.flossmanuals.net/command-line/>`_ for a user's tutorial on command line functions 
+
+Where to report problems
+------------------------
+
+Please report bugs and make feature requests at `terminal-activity/issues <https://github.com/sugarlabs/terminal-activity/issues>`__.
