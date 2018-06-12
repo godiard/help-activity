@@ -1,3 +1,5 @@
+.. _jukebox:
+
 =======
 Jukebox
 =======
@@ -18,6 +20,14 @@ Using
 -----
 
 Across the lower area, you can see the videos and if being the corresponding option checked will also appreciate the playlist, and at the top, there are options to control the flow, and how to view the current track
+
+Two major playlist file support added, if there are more than one song in the list then users can use previous/next buttons to go to different songs.
+
+.. image :: ../images/NextPrevious.png
+
+If you want to watch your favourite video full-screen click on the full-screen button.
+
+.. image :: ../images/Fullscreen.png
 
 
 The Toolbars
@@ -50,3 +60,13 @@ Then you can create list by topics, and open all the files later just selecting 
 
 You can open files located in external devices like a usb device, from Jukebox, without copying them in the Journal,
 that is really useful if the files are too big.
+
+Where to report problems
+------------------------
+
+Please report bugs and make feature requests at `jukebox-activity/issues <https://github.com/sugarlabs/jukebox-activity/issues>`__.
+
+Credits
+-------
+
+Andy Wingo, Dan Williams, Kushal Das
