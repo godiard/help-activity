@@ -7,7 +7,9 @@ Chart
 About
 -----
 
-|Chart_icon| Chart lets you do graphical representation of simple tabular data, in the form "label: value". It can draw Horizontal/Vertical bar charts, line charts and pie charts.
+|Chart_icon|
+
+Chart lets you do graphical representation of simple tabular data, in the form "label: value". It can draw Horizontal/Vertical bar charts, line charts and pie charts.
 
 .. |Chart_icon| image:: ../images/chart-icon.png
 
@@ -18,6 +20,14 @@ About
 .. image :: ../images/chart-img3.png
 
 .. image :: ../images/chart-img4.png
+
+Where to get Chart
+------------------
+
+Chart activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
+`Chart <http://activities.sugarlabs.org/en-US/sugar/addon/4534>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/chart>`__.
 
 Using chart
 -----------
@@ -71,16 +81,10 @@ To enter full screen mode press ``Alt+Return`` or click the |FullScreen_Icon| Ic
 
 .. |FullScreen_icon| image:: ../images/chart_fullscreenicon.png
 
-
-Download
---------
-`Activity page in our activities portal <http://activities.sugarlabs.org/en-US/sugar/addon/4534>`_
-
+.. image :: ../images/640px-Chart5.png
 
 Development
 -----------
-
-* `Git Repository <http://git.sugarlabs.org//simplegraph>`_
 
 * Chart uses `PyCHA library <https://bitbucket.org/lgs/pycha>`_
 
@@ -91,16 +95,9 @@ Ideas for future releases
 
 * Share, edit the data with your friends
 
-Support
--------
-Support for this activity is provided by the developer 
+Where to report problems
+------------------------
 
-1. at http://wiki.sugarlabs.org/go/Activities/SimpleGraph 
+Please report bugs and make feature requests at `chart/issues <https://github.com/sugarlabs/chart/issues>`__.
 
-2. or by sending an e-mail to aguz@sugarlabs.org
-
-
-References
-----------
-`Wiki Page <http://wiki.sugarlabs.org/go/Activities/Chart>`_
-`Download Page <http://activities.sugarlabs.org/en-US/sugar/addon/4534>`_
+You may also send an e-mail to aguz@sugarlabs.org
