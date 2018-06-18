@@ -1,3 +1,5 @@
+.. _clock:
+
 ==========
 Clock
 ==========
@@ -13,20 +15,35 @@ The Clock activity is for you to learn how to read time, even if you do not own 
 
 .. image :: ../images/Clock-img3.png
 
+
+Where to get Clock
+------------------
+
+Clock activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__: 
+`Clock <http://activities.sugarlabs.org/en-US/sugar/addon/4191>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/clock-activity>`__.
+
+
 Using Clock
-----------------
+-----------
 
 Basic Functionality
-::::::::::
+:::::::::::::::::::
+
 Click on the toolbar buttons to change the display mode and options.
 
 Display modes and options that are available:
 
 1. Analog clock face
 2. Colored analog clock face
-  * A clock or watch is called "analog" when it has moving hands, and hours marked from 1 to 12, to show you the time.
+
+ * A clock or watch is called "analog" when it has moving hands, and hours marked from 1 to 12, to show you the time.
+
 3. Digital clock view
-  * A digital clock is a type of clock that displays the time digitally (i.e. in numerals or other symbols)
+
+ * A digital clock is a type of clock that displays the time digitally (i.e. in numerals or other symbols)
+
 4. Time in full letters
 5. Weekday and date
 6. Talking clock
@@ -108,25 +125,12 @@ Ticking Clock
 Time passes really quickly, and that is why the ticking clock feature exists in order to provide an audio indication of the seconds that have past. You could use this feature as a metronome, which is a device used by musicians that marks time at a selected rate by giving a regular tick. If you are practising music or would just like to beat to a rhyhtm, it is useful for you to count on the ticking clock feature!
 
 
-Modifying Clock
---------------------
-Show me the code
-::::::::::::::::
-You can explore the Clock source code `cloning the project <https://github.com/sugarlabs/clock-activity>`_ directly from git.
+Where to report problems
+------------------------
 
-If you discover a bug in the program or have a suggestion for an enhancement, please `file an issue <https://github.com/sugarlabs/clock-activity/issues>`_.
-
-
-Reporting Problems
-------------------
-If you discover a bug in the program or have a suggestion for an enhancement, please `file an issue <https://github.com/sugarlabs/clock-activity/issues>`_.
+Please report bugs and make feature requests at `clock-activity/issues <https://github.com/sugarlabs/clock-activity/issues>`__.
 
 
 Credits
 ----------
 Clock was written under the Public Domain and GPLv3+ License.
-
-
-References
-----------
-`Wiki page <http://wiki.sugarlabs.org/go/Activities/Clock>`_
