@@ -47,6 +47,7 @@ Activities
     cartoon_builder.rst
     chart.rst
     chat.rst
+    clipart.rst
     clock.rst
     cookie_search.rst
     dimensions.rst

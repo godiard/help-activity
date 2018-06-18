@@ -10,6 +10,7 @@
     "com.ywwg.CartoonBuilderActivity": "cartoon_builder.html",
     "org.sugarlabs.SimpleGraph": "chart.html",
     "org.laptop.Chat": "chat.html",
+    "org.sugarlabs.ClipArt": "clipart.html",
     "tv.alterna.Clock": "clock.html",
     "org.sugarlabs.CookieSearchActivity": "cookie_search.html",
     "org.sugarlabs.VisualMatchActivity": "dimensions.html",
