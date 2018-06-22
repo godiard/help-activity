@@ -50,6 +50,7 @@ Activities
     clipart.rst
     clock.rst
     cookie_search.rst
+    develop.rst
     dimensions.rst
     distance.rst
     finance.rst
