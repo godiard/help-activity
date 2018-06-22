@@ -1,3 +1,5 @@
+.. _dimensions:
+
 ==========
 Dimensions
 ==========
@@ -14,10 +16,22 @@ Word Dimensions is the word variant of Dimensions, where instead of shape, three
 Visual Match is deprecated.
 
 .. image :: ../images/Dimensions-img1.png
+        :width: 300px
 
 .. image :: ../images/Dimensions-img2.png
+        :width: 300px
 
 .. image :: ../images/Dimensions-img3.png
+        :width: 300px
+
+
+Where to get Dimensions
+-----------------------
+
+Dimensions activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org>`__:
+`Dimensions <http://activities.sugarlabs.org/en-US/sugar/addon/4673>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/dimensions>`__.
 
 Using Dimensions
 ----------------
@@ -29,8 +43,8 @@ Play by clicking on three cards to make a match.
 1. As you click, the cards will move to the match area on the left side of the screen. (You can also drag the cards to the match area.)
 2. Once three cards are in the match area, a validation test is run:
 
-* If the cards make a `valid match <http://wiki.sugarlabs.org/go/Activities/Dimensions#Examples_of_valid_matches>`_, a smiley face will appear.
-* If they are an `invalid match <http://wiki.sugarlabs.org/go/Activities/Dimensions#Examples_of_invalid_matches>`_, a frowny face will appear, which details as to why the cards do not match. Clicking on the smiley face will result in the match being removed and new cards dealt from the deck. Clicking on the frowny face will remove the last card in the match area back to the right side of the screen.
+* If the cards make a `valid match <#examples-of-valid-matches>`_, a smiley face will appear.
+* If they are an `invalid match <#examples-of-invalid-matches>`_, a frowny face will appear, which details as to why the cards do not match. Clicking on the smiley face will result in the match being removed and new cards dealt from the deck. Clicking on the frowny face will remove the last card in the match area back to the right side of the screen.
 
 3. Once the game is over, the screen will fill with smiley faces.
 
@@ -47,7 +61,7 @@ More Details
 The number version works with prime factors instead of shapes and textures.
 The word version works with semantic groupings.
 
-* Matches must be valid across all four attributes. Examples of `valid <http://wiki.sugarlabs.org/go/Activities/Dimensions#Examples_of_valid_matches>`_ and `invalid <http://wiki.sugarlabs.org/go/Activities/Dimensions#Examples_of_valid_matches>`_ matches are shown below.
+* Matches must be valid across all four attributes. Examples of `valid <#examples-of-valid-matches>`_ and `invalid <#examples-of-invalid-matches>`_ matches are shown below.
 
 A valid match is defined by cards where each attribute is either the same on each card or different on each card, e.g, all three red cards or one red, one green, and one blue card.
 An invalid match is when two cards share and attribute and the third card does not, e.g., one red and two green cards.
@@ -112,7 +126,7 @@ Also, you can load custom cards from the Journal.
 * The grid layout is arbitrary; there is no need to pick in rows or columns, or one from each column.
 * The blank cards on the left are a place to display the most recent match; they can be otherwise ignored.
 * A count of number of matches found is shown in the toolbar; when the robot assistant is helping, the count is displayed as two numbers, where the number of matches found by the robot is in parentheses, e.g., 3(2) would indicate that the robot found 2 matches out of a total of 5 (3+2) found so far.
-* Dimensions keeps track of your best times (one for Beginner Mode and one for Expert Mode). These times are displayed next to the level-mode buttons on the `Tools Toolbar <http://wiki.sugarlabs.org/go/Activities/Dimensions#The_toolbars>`_.
+* Dimensions keeps track of your best times (one for Beginner Mode and one for Expert Mode). These times are displayed next to the level-mode buttons on the Tools Toolbar.
 
 As you improve, Dimensions will automatically advance you to a more difficult level of play.
 
@@ -250,34 +264,15 @@ You load a set of custom cards from the Journal by clicking on the 'import image
 
 .. image :: ../images/Dimensions-img14.png
 
-The above cards were generated in `Turtle Art <http://wiki.sugarlabs.org/go/Activities/Turtle_Art>`_. The sample code is supplied with `Turtle Art <http://wiki.sugarlabs.org/go/Activities/Turtle_Art>`_: set.ta, the code generates a deck of cards and saves them as SVG to the Journal.
-
-Modifying Dimensions
---------------------
-Show me the code
-::::::::::::::::
-You can explore the Dimensions source code [`cloning the project <http://git.sugarlabs.org/projects/visualmatch/repos/mainline>`_] directly from git.
+The above cards were generated in :ref:`Turtle Art <turtleart>`.  The sample code is supplied with Turtle Art: set.ta, the code generates a deck of cards and saves them as SVG to the Journal.
 
 
-Reporting Problems
-------------------
-There are several known problems with the current version of Dimensions:
+Where to report problems
+------------------------
 
-* Restore from Journal does not work on pre-0.82 versions of Sugar.
-* Chinese Cards don't display properly on some systems due to a missing font.
-* There is no indication of whom found the match in group play.
-
-If you discover a bug in the program or have a suggestion for an enhancement, please `file a ticket <https://bugs.sugarlabs.org/newticket?component=Visual+Match>`_ in our bug-tracking system.
-
-You can `view the open tickets here. <https://bugs.sugarlabs.org/query?status=accepted&status=assigned&status=new&status=reopened&component=Visual+Match>`_
+Please report bugs and make feature requests at `dimensions/issues <https://github.com/sugarlabs/dimensions/issues>`__.
 
 
 Credits
 ----------
 Dimensions was written by `Walter Bender <http://wiki.sugarlabs.org/go/User:Walter>`_ and the students from his 2009-2010 freshman seminar at MIT: Games, Puzzles, and Other Things to Think With. Special thanks to Michele Pratusevich and Vincent Le, as well as Mark Battley.
-
-
-References
-----------
-`Wiki page <http://wiki.sugarlabs.org/go/Activities/Dimensions>`_
-
