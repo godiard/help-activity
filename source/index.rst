@@ -87,6 +87,7 @@ Activities
     story.rst
     tamtammini.rst
     terminal.rst
+    text_dungeon.rst
     turtleart.rst
     turtleblocks3d.rst
     turtle_confusion.rst
