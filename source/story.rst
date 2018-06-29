@@ -1,3 +1,5 @@
+.. _story:
+
 =====
 Story
 =====
@@ -5,15 +7,21 @@ Story
 About
 -----
 
-|Story_ico| The Story Activity uses images to prompt a learner to tell a story.
+.. image :: ../images/story-ico1.png
 
-.. |Story_ico| image:: ../images/story-ico1.png
-
-The Story activity is available for download from the `Sugar Activity Library Story <http://activities.sugarlabs.org/sugar/addon/4565>`_
+The Story Activity uses images to prompt a learner to tell a story.
 
 .. image :: ../images/story-img2.png
 
-Story can use the images from `Art4Apps project <http://wiki.sugarlabs.org/go/Art4Apps>`_ if installed.
+
+Where to get Story
+------------------
+
+The Story activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/>`__:
+`Story <http://activities.sugarlabs.org/sugar/addon/4565>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/story>`__.
+
 
 Using Story
 -----------
@@ -67,12 +75,13 @@ Modifying Story
 ---------------
 Add new images to Story by putting them in the images folder of the activity.
 
-The source code is available on `GitHub server <https://github.com/walterbender/story>`_
+Story can use the images from `Art4Apps project <http://wiki.sugarlabs.org/go/Art4Apps>`_ if installed.
 
 
-Reporting Bugs
---------------
-To report a bug or to see what bugs have been reported and/or fixed, please go to the `bug tracking page <https://bugs.sugarlabs.org/newticket?component=Story>`_. 
+Where to report problems
+------------------------
+
+Please report bugs and make feature requests at `story/issues <https://github.com/sugarlabs/story/issues>`__.
 
 
 Credits
@@ -80,9 +89,3 @@ Credits
 Story was written and is maintained by `Walter <http://wiki.sugarlabs.org/go/User:Walter>`_, `Ignacio_Rodríguez <http://wiki.sugarlabs.org/go/User:Ignacio_Rodr%C3%ADguez>`_. He was inspired in part by Claudia Urrea.
 
 Most of the images are from the `The Noun Project <http://thenounproject.com/>`_.
-
-
-References
-----------
-`Wiki page <http://wiki.sugarlabs.org/go/Activities/Story>`_
-
