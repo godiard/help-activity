@@ -48,6 +48,7 @@
     "org.laptop.StarChart": "starchart.html",
     "org.laptop.StopWatchActivity": "stopwatch.html",
     "org.sugarlabs.StoryActivity": "story.html",
+    "org.laptop.sugar.SugarCommander": "sugar_commander.html",
     "org.laptop.TamTamMini": "tamtammini.html",
     "org.laptop.Terminal": "terminal.html",
     "org.sugarlabs.Textdungeon": "text_dungeon.html",
