@@ -85,6 +85,7 @@ Activities
     starchart.rst
     stopwatch.rst
     story.rst
+    sugar_commander.rst
     tamtammini.rst
     terminal.rst
     turtleart.rst
