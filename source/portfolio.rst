@@ -1,3 +1,5 @@
+.. _portfolio-activity:
+
 =========
 Portfolio
 =========
@@ -14,9 +16,10 @@ The Portfolio Activity creates a slide show from Sugar Journal entries that have
 Where to get Portfolio
 ----------------------
 
-The Portfolio activity is included in OLPC images and available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/addon/4437>`_
+The Portfolio activity is included in OLPC images and available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar>`_:
+`Portfolio <http://activities.sugarlabs.org/en-US/sugar/addon/4437>`_.
 
-The source code is available on the `Sugar Labs Gitorious server <http://git.sugarlabs.org/portfolio>`_.
+The source code is available on `GitHub <https://github.com/sugarlabs/portfolio-activity>`_.
 
 Using
 -----
@@ -148,15 +151,18 @@ Extending Portfolio
 -------------------
 
 In addition to using Portfolio as a tool for reflection, it can be used as a more general-purpose presentation tool. For example, a collection of photographs can be annotated (by using the title and description fields in the Journal detail view for each photo) and then made into a slide show. The order of the slides can be modified from the Thumbnail view.
+
 Modifying Portfolio
+-------------------
 
 Manuq made some mock-ups of other layouts. It would be fun to add alternative layout options (or even add support for style sheets). 
 
-See http://wiki.sugarlabs.org/go/Activities/Portfolio
++----------+----------+----------+----------+
+| |image1| | |image2| | |image3| | |image4| |
++----------+----------+----------+----------+
 
 Another idea would be to add the ability to export video from Portfolio. 
 
-Your suggestions for enhancements and/or use cases...
 
 A word to developers
 --------------------
@@ -166,9 +172,14 @@ Reflection is an important part of learning and a good habit to establish in gen
 Where to report problems
 ------------------------
 
-You can report bugs and make feature requests on our bug-tracking system (You need to create an account first). To list all open tickets of Portfolio you can use query component=Portfolio. You are also welcome to leave comments/suggestions on the Talk:Activities/Portfolio page.
+Please report bugs and make feature requests at `portfolio-activity/issues <https://github.com/sugarlabs/portfolio-activity/issues>`_.
 
 Credits
 -------
 
-Portfolio was written and is maintained by User:Walter. He was inspired in part by the work of BU Prof. Stefanakis.
+Portfolio was written and is maintained by Walter. He was inspired in part by the work of BU Prof. Stefanakis.
+
+.. |image1| image:: ../images/193px-Portfolio_vertical.png
+.. |image2| image:: ../images/193px-Portfolio_horizontal.png
+.. |image3| image:: ../images/191px-Portfolio_slide_horizontal.png
+.. |image4| image:: ../images/191px-Portfolio_slide_vertical.png
