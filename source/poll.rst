@@ -1,3 +1,5 @@
+.. _poll:
+
 ====
 Poll
 ====
@@ -5,6 +7,18 @@ Poll
 Overview
 --------
 A poll is a research tool that helps explain what a group of people think about a subject.  First you present the group with a question and a set of answer choices. Then each person in the group gets to vote for the answer which best describes their personal feelings or opinion.  After collecting votes from the whole group, you look for a pattern in their answers.  You can also ask the same question of different groups (i.e. boys and girls or children and adults) and see how each group answers.
+
+Where to get Poll
+-----------------
+
+Poll activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/>`__:
+`Poll <http://activities.sugarlabs.org/en-US/sugar/addon/4074>`__
+
+The source code is available on `GitHub <https://github.com/godiard/poll-activity>`__.
+
+
+How to use
+----------
 
 A poll can be used to help a community make a decision and take action.  It can also be used to understand the similarities and differences among individuals and groups of people.
 
@@ -128,3 +142,9 @@ On the other laptops in the same wireless network;
 * cast your vote.
 
 Be careful with counting.  You and others who have joined the activity can vote more than once.
+
+
+Where to report problems
+------------------------
+
+Please report bugs and make feature requests at `poll-activity/issues <https://github.com/godiard/poll-activity/issues>`__.
