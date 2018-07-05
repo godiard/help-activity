@@ -1,3 +1,5 @@
+.. _labyrinth-activity:
+
 =========
 Labyrinth
 =========
@@ -5,9 +7,20 @@ Labyrinth
 About
 -----
 
-|Laby_ico| Labyrinth is a lightweight mind-mapping activity based on an Open Source project called Labyrinth. It allows creating mind maps from a mixture of text, freehand drawings, and images from your Journal. There is an infinite sized canvas for your map that can be panned and zoomed while you work. Maps can be "Kept to PDF" for uploading to web sites, sharing, and printing by others who may not be using Sugar.
+|Laby_ico|
+
+Labyrinth is a lightweight mind-mapping activity based on an Open Source project called `Labyrinth <https://people.gnome.org/~dscorgie/labyrinth.html>`_. It allows creating mind maps from a mixture of text, freehand drawings, and images from your Journal. There is an infinite sized canvas for your map that can be panned and zoomed while you work. Maps can be "Kept to PDF" for uploading to web sites, sharing, and printing by others who may not be using Sugar.
 
 .. |Laby_ico| image:: ../images/labyrinth-ico1.png
+
+
+Where to get Labyrinth
+----------------------
+
+Labyrinth activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/>`__:
+`Labyrinth <http://activities.sugarlabs.org/en-US/sugar/addon/4078>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/laybrinth-activity>`__.
 
 
 Gallery
@@ -62,14 +75,7 @@ Review
 `Video Review <http://www.youtube.com/watch?v=h8Mcc0toS0M>`_
 
 
-Resources
----------
+Where to report problems
+------------------------
 
-* `Activity Library Page <http://activities.sugarlabs.org/en-US/sugar/addon/4078>`_
-* `Source <http://git.sugarlabs.org/projects/labyrinth>`_
-* `Source tarball <http://download.sugarlabs.org/sources/honey/Labyrinth/>`_
-
-References
-----------
-`Wiki page <http://wiki.sugarlabs.org/go/Activities/Labyrinth>`_
-
+Please report bugs and make feature requests at `laybrinth-activity/issues <https://github.com/sugarlabs/laybrinth-activity/issues>`__.
