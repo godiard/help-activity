@@ -1,3 +1,5 @@
+.. _measure:
+
 =======
 Measure
 =======
@@ -12,6 +14,16 @@ As well as graphing signal as a function of time, Measure can also graph as a fu
 The XO-1 laptop is only capable of mono input, the XO-1.5 and XO-1.75 are capable of stereo input on their microphone socket and can graph two signals at once.
 
 .. image :: ../images/200px-Measure_tut_1_24.jpg
+
+
+Where to get Measure
+--------------------
+
+Measure activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/>`__:
+`Measure <http://activities.sugarlabs.org/en-US/sugar/addon/4197>`__
+
+The source code is available on `GitHub <https://github.com/sugarlabs/Measure>`__.
+
 
 Using
 -----
@@ -81,3 +93,9 @@ Care should be taken not to exceed the allowable input voltage:
 It is a good idea, particularly on the XO-1, to put a resistor of 680 ohms in the phono plug, this increases the allowable input voltage range.
 
 You can find ideas for fun science experiments at http://wiki.sugarlabs.org/go/Activities/TurtleArt/Using_Turtle_Art_Sensors and http://wiki.laptop.org/go/Measure 
+
+
+Where to report problems
+------------------------
+
+Please report bugs and make feature requests at `Measure/issues <https://github.com/sugarlabs/Measure/issues>`__.
