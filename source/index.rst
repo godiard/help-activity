@@ -54,6 +54,7 @@ Activities
     develop.rst
     dimensions.rst
     distance.rst
+    drgeo.rst
     finance.rst
     fototoon.rst
     getbooks.rst
