@@ -5,6 +5,7 @@
     "org.laptop.JournalActivity": "journal.html",
     "org.sugarlabs.AbacusActivity": "abacus.html",
     "org.sugarlabs.AEIOU.NI": "aeiou.html",
+    "org.sugarlabs.AmazonasTortuga": "amazonas_tortuga.html",
     "org.laptop.WebActivity": "browse.html",
     "org.laptop.Calculate": "calculate.html",
     "com.ywwg.CartoonBuilderActivity": "cartoon_builder.html",
