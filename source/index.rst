@@ -42,6 +42,7 @@ Activities
 
     abacus.rst
     aeiou.rst
+    amazonas_tortuga.rst
     browse.rst
     calculate.rst
     cartoon_builder.rst
