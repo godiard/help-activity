@@ -1,3 +1,5 @@
+.. _implode:
+
 =======
 Implode
 =======
@@ -14,6 +16,17 @@ Implode is a logic game based on the "falling block" model of Tetris.  The game 
 (The levels are generated in such a way that there is always a sequence of removals that clears the board.) 
 
 .. image :: ../images/implode-image1.png
+
+
+Where to get Implode
+--------------------
+
+Implode activity is available for download from the `Sugar Activity Library <http://activities.sugarlabs.org/en-US/sugar/>`__:
+`Implode <http://activities.sugarlabs.org/en-US/sugar/addon/4086>`__
+
+The source code is available on `GitHub <https://github.com/quozl/implode-activity>`__.
+
+
 
 How to play
 -----------
@@ -55,16 +68,7 @@ On an XO laptop, the game can also be played via the game keys and directional p
 * Use the square game key to start a new game (only when the level is cleared).
 
 
-Download
---------
-`Implode <http://activities.sugarlabs.org/sugar/addon/4086>`_
+Where to report problems
+------------------------
 
-
-Development
------------
-`Git Repository <https://github.com/quozl/implode-activity>`_
-
-
-References
-----------
-`Wiki Page <http://wiki.sugarlabs.org/go/Activities/Implode>`_
+Please report bugs and make feature requests at `implode-activity/issues <https://github.com/quozl/implode-activity/issues>`__.
