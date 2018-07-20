@@ -63,6 +63,7 @@ Activities
     icanread.rst
     iknowmyabcs.rst
     implode.rst
+    info_slicer.rst
     irc.rst
     jigsaw.rst
     jukebox.rst
