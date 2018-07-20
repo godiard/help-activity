@@ -77,6 +77,7 @@ Activities
     paint.rst
     physics.rst
     pippy.rst
+    playgo.rst
     poll.rst
     portfolio.rst
     pukllanapac.rst
