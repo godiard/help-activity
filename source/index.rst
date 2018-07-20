@@ -81,6 +81,7 @@ Activities
     portfolio.rst
     pukllanapac.rst
     read.rst
+    read_etexts.rst
     record.rst
     Slider.rst
     speak.rst
