@@ -26,6 +26,7 @@
     "org.sugarlabs.ICanReadActivity": "icanread.html",
     "org.sugarlabs.IKnowMyABCs": "iknowmyabcs.html",
     "com.jotaro.ImplodeActivity" : "implode.html",
+    "org.sugarlabs.InfoSlicer": "info_slicer.html",
     "org.sugarlabs.IRC": "irc.html",
     "org.worldwideworkshop.olpc.JigsawPuzzle": "jigsaw.html",
     "org.laptop.sugar.Jukebox": "jukebox.html",
