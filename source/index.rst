@@ -59,6 +59,7 @@ Activities
     fototoon.rst
     getbooks.rst
     help.rst
+    hittheballs.rst
     icanread.rst
     iknowmyabcs.rst
     implode.rst
