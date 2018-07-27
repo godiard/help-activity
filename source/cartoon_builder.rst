@@ -20,25 +20,25 @@ Throughout the school year, the Cartoon Builder can be integrated into different
 
 Skills:
 
-*Practice working with a partner
+* Practice working with a partner
 
-*Learn to translate ideas into artistic images
+* Learn to translate ideas into artistic images
 
-*Learn how to act out stories
+* Learn how to act out stories
 
-*Learn to articulate creative ideas to peers
+* Learn to articulate creative ideas to peers
 
-*Learn from classmates
+* Learn from classmates
 
-*Learn how to use specific programs of the Sugar on your Laptop
+* Learn how to use specific programs of the Sugar on your Laptop
 
-*Learn how to use the Paint Program
+* Learn how to use the Paint Program
 
-*Learn to express ideas you are studying through an original project
+* Learn to express ideas you are studying through an original project
 
-*Learn the sequence or order of a story
+* Learn the sequence or order of a story
 
-*Learn about cell animation
+* Learn about cell animation
 
 Explore Animation with Cartoon Builder
 --------------------------------------

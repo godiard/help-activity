@@ -4,7 +4,7 @@ How to edit Help and contribute
 
 Help displays documentation for Sugar and the XO laptop.
 
-This version of Help contains all the source files and images, and now a :ref:`View source` button. These files can be edited within Help, and displayed. Help is now capable of producing new pages for Help, or making completely fresh documentation.
+This version of Help contains all the source files and images, and now a *View source* button. These files can be edited within Help, and displayed. Help is now capable of producing new pages for Help, or making completely fresh documentation.
 
 This page aims to show how to write attractive documentation, which, if users share their work, could be used to improve Help. To contribute you only need to:
 
@@ -112,7 +112,7 @@ The directory ``~/help-activity/source/`` contains the text files we will be alt
 
 The directory ``~/help-activity/images/`` contains all the images that are used on the various pages of Help. You can add image files to this folder, and if they are linked into documents, they will display in the *output* of the command ``make html``.
 
-In Sugar you have the ability to inspect the source files safely, using the :ref:`View source` button on the Help icon in the Frame.
+In Sugar you have the ability to inspect the source files safely, using the *View source* button on the Help icon in the Frame.
 
 The key page in navigating Help is the Index or contents page. In the ``~/help-activity/source/`` folder, `index.rst` is the text document which automatically provides links to all other pages in the source folder.
 
