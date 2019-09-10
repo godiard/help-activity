@@ -9,9 +9,9 @@ About
 
 .. image :: ../images/55px-Activity-web.svg.png
 
-The Browse activity is your means to explore a wider source of information and content that can be found in what's called the World Wide Web (Internet or Web for short). Although there are some built-in information included on this activity (OLPC Library), to make the most of this activity you need an internet connection. Please see the chapter on "Neighborhood View and Connecting to the Internet".
+The Browse activity is your means to explore a wider source of information and content that can be found in the World Wide Web (Internet or Web for short). Although there are some built-in information included on this activity (Library), to make the most of this activity you need an internet connection. Please see the chapter on "Neighborhood View and Connecting to the Internet".
 
-The first thing that you will see when you first click on the Browse icon from the Home View is what's called the Home page.
+The first thing that you will see when you first click on the Browse icon from the Home View is the Home page.
 
 .. image :: ../images/Browse_-_home.png
 
@@ -41,15 +41,15 @@ Using Browse
 9.  Stop
 10.  Window tab
 
-(Note: To see the name of the tool/button, you can put your mouse arrow on top of its picture)
+(Note: To see the name of the tool/button, put your mouse cursor on top of it)
 
 **Activity**
 
 .. image :: ../images/Browse_-_activityandprivacytool.png
 
-**Browse Journal Entry Name** - This will serve as the name of the Journal entry. Change this to something distinctive especially when you have multiple window tabs opened that's related to one particular topic.
+**Browse Journal Entry Name** - The name of the Journal entry. Change this to something distinctive especially when you have multiple window tabs opened related to one particular topic.
 
-**Browse Description Bar** - This will serve as the **Browse** activity description in the Journal.
+**Browse Description Bar** - The Journal entry description.
 
 **Privacy Tool** - Use this to change the privacy setting of the current Browse activity. The default is set to Private.
 
@@ -62,11 +62,11 @@ Using Browse
 
 **Redo** - Use this button to go back to the current changes that you made after doing an "Undo".
 
-**Copy** - This is used to copy a text or passage from the current page you are viewing. To do this, you need to first highlight (left-click while dragging your mouse arrow) the text. You know you've highlighted a text when its background color turned grey. Then, press this tool to copy it to the clipboard. A small image on the left hand side of the frame will appear. This "holds" the text you just copied. You can now "paste" this text or just simply click and drag it to other activities. The copied text will disappear once the XO is restarted or shutdown.
+**Copy** - This is used to copy a text or passage from the current page you are viewing. To do this, first highlight (left-click while dragging your mouse arrow) the text. You know you've highlighted text when its background color changes. Then, press the copy button to copy the text to the clipboard. A small image on the left hand side of the frame will appear. This "holds" the text you just copied. You can now "paste" this text or just simply click and drag it to other activities. The copied text will disappear once the computer is restarted or shutdown.
 
-**Paste** - This tool is for pasting texts from other activities into the current page that you are viewing. You can only paste texts on areas of the page where pasting is allowed. It will remember this text until the XO is restarted or shutdown.
+**Paste** - This tool is for pasting texts from other activities into the current page that you are viewing. You can only paste texts on areas of the page where pasting is allowed. It will remember this text until the computer is restarted or shutdown.
 
-**Text Search Bar** -This tool is great to use when you need to quickly find a text on a current page you're viewing. Press the enter key to go down the page. The text that you are looking for would be highlighted in green. Press the little "x" symbol on the right of the bar to erase the text.
+**Text Search Bar** -This tool is great to use when you need to quickly find a text on a current page you're viewing. Press the enter key to go down the page. The text that you are looking for would be highlighted. Press the little "x" symbol on the right of the bar to erase the text.
 
 **Text Search Navigation Arrows** - While you can press the Enter key to search down the page, these arrows are useful to search the page. Use the left arrow to go back up the page and the right arrow to go down the page.
 
@@ -74,13 +74,13 @@ Using Browse
 
 .. image :: ../images/Browse_-_view_tool.png
 
-**Zoom Out** - When you want to see more of the page, use this tool to make it smaller.
+**Zoom Out** - When you want to see more of the text, use this tool to make it smaller.
 
-**Zoom In** - When you want to see things better, use this tool to make the page bigger.
+**Zoom In** - When you want to see things better, use this tool to make the text bigger.
 
 **Full Screen** - You can press this to see the entire page without the toolbar.
 
-**Tray Toggle button** - This tool only works when you have things on the tray (the space on the bottom of the Browse page) like pages that you have bookmarked (Please see bookmark description). Use this tool to make the tray visible or invisible. Browse remembers your bookmarked pages even when the tray is not visible. Just simply make it visible again to see those bookmarks.
+**Tray Toggle button** - This tool only works when you have things on the tray (the space on the bottom of the Browse page) like pages that you have bookmarked (Please see bookmark description). Use this tool to make the tray visible or invisible. Browse remembers your bookmarked pages even when the tray is not visible. Just make it visible again to see the bookmarks.
 
 **Home Icon**
 
@@ -88,18 +88,18 @@ Clicking this takes you back to the Home Page. Useful when you're lost and need 
 
 **Address Bar**
 
-Each page on the internet has its own address. The address bar shows you the current web address of the page you are viewing. If you know the web address of a page, you can type it on this bar and press the enter key to navigate to that page.
+Each page on the internet has its own address. The address bar shows you the current web address of the page you are viewing. If you know the web address of a page, you can type it on this bar and press the enter key to show that page.
 
 **Bookmark**
 
-Sometimes it is useful to remember the pages that you visited. Clicking this icon will save the web address of the current page you are viewing. A small thumbnail image of this page will appear on the bottom(tray). Bookmarks are saved only on the current Browse activity. They will not show up when you open a new Browse activity.
+Sometimes it is useful to remember the pages that you visited. Clicking this icon will save the address of the current page you are viewing. A small thumbnail image of this page will appear on the bottom(tray). Bookmarks are saved only on the current Browse activity. They will not show up when you open a new Browse activity.
 
 **Stop Activity Tool**
 Closes the current Browse activity.
 
 **OLPC Library**
 
-The Browse activity has built in books, information and pages that you can access even without a connection to the internet. Click on any of the texts to see what you can find. Have fun exploring!
+Sometimes, the Browse activity has built in books, information and pages that you can access even without a connection to the internet. Click on any of the texts to see what you can find. Have fun exploring!
 
 Copying Images From The Web
 
@@ -113,7 +113,7 @@ To copy an image, point your mouse arrow on the picture and right-click on it (p
 
 **Keep Image** - this will put a copy of the image to the Journal.
 
-**Copy Image** - this will place a copy of the image to the clipboard, which you can then drag and drop to another activity. This copy is temporary and will disappear from the clipboard when you shutdown the XO. So if you need to save the image, it is best to do a "Keep Image" instead.
+**Copy Image** - this will place a copy of the image to the clipboard, which you can then drag and drop to another activity. This copy is temporary and will disappear from the clipboard when you shutdown the computer. So if you need to save the image, it is best to do a "Keep Image" instead.
 
 Learning with Browse
 --------------------
@@ -122,7 +122,7 @@ Browse gives access to the internet which is a powerful information and communic
 
 .. image :: ../images/Browse_-_Google_Map.png
 
-If you live in an area that is adequately mapped by Google Maps, you can ask students to use the "Get directions" tool on the page to see how they can go from one place to another. The directions tool can also teach students a sense of distance by showing how far two places are from each other. Example, how far do they travel every day for school (Given that sense of distance, how far and how long will it take to get to the nearest city or town)?
+If you live in an area that is mapped by Google Maps, you can ask students to use the "Get directions" tool on the page to see how they can go from one place to another. The directions tool can also teach students a sense of distance by showing how far two places are from each other. Example, how far do they travel every day for school (Given that sense of distance, how far and how long will it take to get to the nearest city or town)?
 
 Extending Browse
 ----------------
@@ -131,7 +131,7 @@ There's a built in Google search bar on the home page of Browse that you can dir
 
 To allow students to be active participants in the global community, communication tools can be freely and readily accessed via Browse: from creating free e-mail accounts to tools that allow people to create their own internet sites and pages.
 
-But like with any type of exploration, you have to start with caution. Not all information on the internet is good. Start with educating kids to safely use and explore the internet. You can check out sites like: http://www.wiredkids.org/kids/index.html for more information.
+But like with any type of exploration, you have to start with caution. Not all information on the internet is good. Start with educating kids to safely use and explore the internet. You can check out sites like: http://www.wiredkids.org/kids/ for more information.
 
 Where to report problems
 ------------------------
