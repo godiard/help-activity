@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # ----------------------------------------------------------------------------
 # "THE BEER-WARE LICENSE" (Revision 42):
 # <terry.yinzhe@gmail.com> wrote this file. As long as you retain this notice you
@@ -17,12 +17,8 @@ behind it. You can also use it as a Python module in your code.
 import re
 import json
 from textwrap import wrap
-try:
-    import urllib2 as request
-    from urllib import quote
-except:
-    from urllib import request
-    from urllib.parse import quote
+from urllib import request
+from urllib.parse import quote
 
 class Translator:
     def __init__(self, to_lang, from_lang='auto'):
