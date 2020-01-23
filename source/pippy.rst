@@ -99,6 +99,10 @@ Extending Pippy
 
 If Pippy is used in parallel with the :ref:`Write Activity <write>`, it is possible to develop  larger programs. Copy the program that you develop in the Write Activity by selecting all (``ctrl`` + ``a``) and copying it to the clipboard (``ctrl`` + ``c``), then switch to the Pippy Activity, and paste (``ctrl`` + ``v``) it into the code window. If there are errors that you want to correct, you can make the changes in the code window, and immediately see the results of your changes. Then by copying the changed program back to the clipboard, you can paste it back into the Word Activity, and save the changes to the :ref:`Journal <journal>`.
 
+Learning with Pippy
+-------------------
+- for lesson plans for learning Python, see  :ref:`Pippy Lesson Plan <pippy-lessonplan>` .
+
 Modifying Pippy
 ---------------
 
