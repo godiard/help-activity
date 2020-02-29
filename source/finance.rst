@@ -2,7 +2,7 @@
 Finance
 =======
 
-.. image :: ../images/finance-img1.png
+.. image :: ../images/finance_register
 
 About
 -----
@@ -15,17 +15,17 @@ Finance is designed to be extensively localized. The user interface is translata
 
 Git It!
 -------
-`Git Link <https://github.com/godiard/finance-activity>`_
+`Git Link <https://github.com/sugarlabs/finance-activity>`_
 
 
 Gallery
 -------
 
-.. image :: ../images/finance-img2.png
+.. image :: ../images/finance_budget
 
-.. image :: ../images/finance-img3.png
+.. image :: ../images/finance_chart
 
-References 
+References
 ----------
 
 * `Sugar Wiki Activity Page <http://activities.sugarlabs.org/sugar/addon/4040>`_
