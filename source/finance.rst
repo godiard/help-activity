@@ -12,15 +12,24 @@ Finance is designed to be extensively localized. The user interface is translata
 Features
 -----
 
+Register
+~~~~~~~~
+
 In the register view, you are able to sort by time frame (Day, Week, Month, Year, Forever); add, delete, and modify new credits and debits; and categorize you're spendings!
 
-.. image :: ../images/finance_register.PNG
-    :width: 90%
+.. raw :: html
+    <img src="../images/finance_register.PNG" width = 90%>
+
+Budget
+~~~~~~
 
 In the budget tab, we are able to see how we are doing in each category and assign budgets to each one. This is great and simple way for tracking spending.
 
 .. image:: ../images/finance_budget.PNG
    :width: 45%
+
+Chart
+~~~~~
 
 In the chart tab, we can see a pie chart of how much we spent on each category. We have the ability to save the image and put it in our journals.
 
