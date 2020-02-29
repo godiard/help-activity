@@ -3,6 +3,7 @@ Finance
 =======
 
 .. image :: ../images/finance_register.PNG
+    :width: 90%
 
 About
 -----
@@ -21,9 +22,13 @@ Git It!
 Gallery
 -------
 
-.. image :: ../images/finance_budget.PNG
+|pic1| any text |pic2|
 
-.. image :: ../images/finance_chart.PNG
+.. |pic1| image:: ../images/finance_budget.PNG
+   :width: 45%
+
+.. |pic2| image:: ../images/finance_chart.PNG
+   :width: 45%
 
 References
 ----------
