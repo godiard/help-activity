@@ -1,6 +1,8 @@
 =======
-Finance .. image:: ../images/finance_logo.PNG
+Finance
 =======
+
+.. image :: ../images/finance_logo.PNG
 
 About
 -----
