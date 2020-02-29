@@ -24,7 +24,7 @@ In the register view, you are able to sort by time frame (Day, Week, Month, Year
 Budget
 ~~~~~~
 
-In the budget tab, we are able to see how we are doing in each category and assign budgets to each one. This is great and simple way for tracking spending.
+In the budget tab, we are able to see how we are doing in each category and assign budgets to each one. This is a great and simple way for tracking spending.
 
 .. image:: ../images/finance_budget.PNG
 
