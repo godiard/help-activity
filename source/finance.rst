@@ -2,7 +2,7 @@
 Finance
 =======
 
-.. image :: ../images/finance_register
+.. image :: ../images/finance_register.PNG
 
 About
 -----
@@ -21,9 +21,9 @@ Git It!
 Gallery
 -------
 
-.. image :: ../images/finance_budget
+.. image :: ../images/finance_budget.PNG
 
-.. image :: ../images/finance_chart
+.. image :: ../images/finance_chart.PNG
 
 References
 ----------
