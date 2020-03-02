@@ -2,38 +2,40 @@
 Finance
 =======
 
-.. image :: ../images/finance_logo.PNG
+.. image :: ../images/finance-logo.png
 
 About
 -----
 
-Finance is a simple financial planning activity. It can be integrated into classroom assignments, or else used to track finances for a school club. It might also be useful for students who wish to help their parents with home finances.
+Finance is a simple financial planning activity. It integrates well with classroom assignments, works to track finances for a school club, and does much more. It is also useful for students to help their parents keep track of home finances.
 
-Finance is designed to be extensively localized. The user interface is translatable, and local conventions are used to display monetary values.
+Finance is extensively localized as the user interface is translatable and local conventions display monetary values.
 
 Features
 -----
 
+There are three main views: Register, Budget, and Chart.
+
 Register
 ~~~~~~~~
 
-In the register view, you are able to sort by time frame (Day, Week, Month, Year, Forever); add, delete, and modify new credits and debits; and categorize you're spendings!
+The register view allows for many different time frames (Day, Week, Month, Year, Forever) to be shown. It comes with features such as add, delete, and modify new credits and debits. Furthermore, there is easy categorization of spendings!
 
-.. image :: ../images/finance_register.PNG
+.. image :: ../images/finance-register.png
 
 Budget
 ~~~~~~
 
-In the budget tab, we are able to see how we are doing in each category and assign budgets to each one. This is a great and simple way for tracking spending.
+The budget tab shows each category and assigns a budget to each one. This is a great and simple way for tracking spending.
 
-.. image:: ../images/finance_budget.PNG
+.. image:: ../images/finance-budget.png
 
 Chart
 ~~~~~
 
-In the chart tab, we can see a pie chart of how much we spent on each category. We have the ability to save the image and put it in our journals.
+The chart tab creates a pie chart of the debits in each category. There is also the ability to save the image and put it in journals.
 
-.. image:: ../images/finance_chart.PNG
+.. image:: ../images/finance-chart.png
 
 Download and Install Finance!
 -------
