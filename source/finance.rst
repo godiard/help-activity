@@ -19,14 +19,14 @@ There are three main views: Register, Budget, and Chart.
 Register
 ~~~~~~~~
 
-The register view allows for many different time frames (Day, Week, Month, Year, Forever) to be shown. It comes with features such as add, delete, and modify new credits and debits. Furthermore, there is easy categorization of spendings!
+The register view allows users to show many different time frames (Day, Week, Month, Year, Forever). It comes with features such as add, delete, and modify new credits and debits. Furthermore, there is easy categorization of spendings!
 
 .. image :: ../images/finance-register.png
 
 Budget
 ~~~~~~
 
-The budget tab shows each category and assigns a budget to each one. This is a great and simple way for tracking spending.
+The budget tab shows each category and is useful for assigning a budget to each one. This is a great and simple way for tracking spending.
 
 .. image:: ../images/finance-budget.png
 
