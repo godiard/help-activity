@@ -99,11 +99,11 @@ Activities
     tamtammini.rst
     terminal.rst
     text_dungeon.rst
+    turtle_confusion.rst
+    turtle_in_a_pond.rst
     turtleart.rst
     turtleblocks3d.rst
-    turtle_confusion.rst
     turtleflags.rst
-    turtle_in_a_pond.rst
     typing_turtle.rst
     write.rst
 
