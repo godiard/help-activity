@@ -73,6 +73,7 @@ Activities
     level_tool.rst
     locosugar.rst
     log.rst
+    maze.rst
     measure.rst
     memorize.rst
     musickeyboard.rst
@@ -88,7 +89,8 @@ Activities
     read_etexts.rst
     record.rst
     ruler.rst
-    Slider.rst
+    slider.rst
+    sliderule.rst
     speak.rst
     starchart.rst
     stopwatch.rst
