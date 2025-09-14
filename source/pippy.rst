@@ -41,6 +41,9 @@ Toolbars
 **Run Button**
   Executes code
 
+**Debug Button**
+  To get debugging suggestion
+
 **Stop Button**
   Stops execution in the code
 
@@ -82,6 +85,25 @@ Toolbars
 ``bottom row: tabs``
 
 Pippy supports multiple tabs so you can work on more than one module at a time.
+
+
+Debugger
+========
+The **Debugger** in Pippy helps you understand and fix problems in your Python code. 
+When your program shows an error, the debugger can explain what went wrong and suggest how to fix it.
+
+.. image :: ../images/Pippy-UI02.png
+  :width: 640px
+
+**How to Use the Debugger**
+
+1. Switch to the **Debugging Terminal** from the side panel.  
+
+2. The debugger will show a short introduction and context about your code.  
+
+3. In the main toolbar, press the **Debug button** to start debugging.  
+
+4. The AI will analyze your code, explain the error in simple terms, and give helpful suggestions to fix it.  
 
 
 Learning with Pippy
