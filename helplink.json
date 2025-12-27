@@ -68,5 +68,8 @@
     "org.laptop.TurtleFlags": "turtleflags.html",
     "org.sugarlabs.TurtlePondActivity": "turtle_in_a_pond.html",
     "org.laptop.community.TypingTurtle": "typing_turtle.html",
-    "org.laptop.AbiWordActivity": "write.html"
+    "org.laptop.AbiWordActivity": "write.html",
+    "bundle_id": "org.laptop.WebActivity",
+    "zoom_in": "https://example.com/help/zoom_in.html"
   }
+
